@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>December 30, 2024 03:11 AM EST</last_updated>
+	<last_updated>December 30, 2024 07:14 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -92,17 +92,16 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>December 30, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2e/b2/972eb264-6e1c-d149-587a-f6b53f76a0f4/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 23, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/51/36/3e5136d8-86a3-7fb5-d881-27d621cafd28/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release: 
-• Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers. 
-• New Search Box: Boost your navigation efficiency! Note: Profile is now in the Menu. 
-• Bug fixes, stability, and performance improvements. 
-Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge! 
-Want early access to more new features? Join our Beta program at:  
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
+• Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.
+• Bug fixes, stability, and performance improvements.
+Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!
+Want early access to more new features? Join our Beta program at: 
 https://testflight.apple.com/join/JkU2rh21</releaseNotes>
-		<version>131.2903.125</version>
+		<version>131.2903.112</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -216,16 +215,17 @@ This wouldn't be possible without your feedback. If you run into any issues, ple
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>December 23, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/51/36/3e5136d8-86a3-7fb5-d881-27d621cafd28/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 30, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2e/b2/972eb264-6e1c-d149-587a-f6b53f76a0f4/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
-• Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.
-• Bug fixes, stability, and performance improvements.
-Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!
-Want early access to more new features? Join our Beta program at: 
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release: 
+• Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers. 
+• New Search Box: Boost your navigation efficiency! Note: Profile is now in the Menu. 
+• Bug fixes, stability, and performance improvements. 
+Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge! 
+Want early access to more new features? Join our Beta program at:  
 https://testflight.apple.com/join/JkU2rh21</releaseNotes>
-		<version>131.2903.112</version>
+		<version>131.2903.125</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

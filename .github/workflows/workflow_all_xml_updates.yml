@@ -1,0 +1,93 @@
+name: Auto Update XML Files Every 4 Hours
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Runs every 4 hours
+  workflow_dispatch:
+
+jobs:
+  update_files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pytz pyyaml bs4
+
+      - name: Run update script for standalone XML
+        run: |
+          python3 .github/actions/generate_macos_standalone_latest.py
+
+      - name: Commit changes for standalone XML (if any)
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add latest_raw_files/macos_standalone_latest.xml latest_raw_files/macos_standalone_latest.yaml latest_raw_files/macos_standalone_latest.json
+          git commit -m "Auto updating standalone XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
+      - name: Run update script for standalone update history
+        run: |
+          python3 .github/actions/generate_macos_standalone_update_history.py
+
+      - name: Commit changes for standalone update history (if any)
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add latest_raw_files/macos_standalone_update_history.xml latest_raw_files/macos_standalone_update_history.yaml latest_raw_files/macos_standalone_update_history.json
+          git commit -m "Auto updating standalone update history XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
+      - name: Run update script for standalone CVE history
+        run: |
+          python3 .github/actions/generate_macos_standalone_cve_history.py
+
+      - name: Commit changes for standalone CVE history (if any)
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add latest_raw_files/mac_standalone_cve_history.xml latest_raw_files/mac_standalone_cve_history.yaml latest_raw_files/mac_standalone_cve_history.json
+          git commit -m "Auto updating standalone CVE history XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
+      - name: Run update script for macOS XML
+        run: |
+          python3 .github/actions/generate_macos_appstore_latest.py
+
+      - name: Commit changes for macOS XML (if any)
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add latest_raw_files/macos_appstore_latest.xml latest_raw_files/macos_appstore_latest.yaml latest_raw_files/macos_appstore_latest.json
+          git commit -m "Auto updating macOS XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
+      - name: Run update script for iOS XML
+        run: |
+          python3 .github/actions/generate_ios_appstore_latest.py
+
+      - name: Commit changes for iOS XML (if any)
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add latest_raw_files/ios_appstore_latest.xml latest_raw_files/ios_appstore_latest.yaml latest_raw_files/ios_appstore_latest.json
+          git commit -m "Auto updating iOS XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git

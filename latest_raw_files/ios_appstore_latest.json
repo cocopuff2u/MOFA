@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 30, 2024 07:51 PM EST",
+    "last_updated": "December 30, 2024 11:13 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -195,11 +195,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "December 23, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/51/36/3e5136d8-86a3-7fb5-d881-27d621cafd28/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 30, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2e/b2/972eb264-6e1c-d149-587a-f6b53f76a0f4/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:\n\u2022 Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!\nWant early access to more new features? Join our Beta program at: \nhttps://testflight.apple.com/join/JkU2rh21",
-            "version": "131.2903.112"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release: \n\u2022 Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers. \n\u2022 New Search Box: Boost your navigation efficiency! Note: Profile is now in the Menu. \n\u2022 Bug fixes, stability, and performance improvements. \nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge! \nWant early access to more new features? Join our Beta program at:  \nhttps://testflight.apple.com/join/JkU2rh21",
+            "version": "131.2903.125"
         },
         {
             "name": "iOS Microsoft Seeing AI",

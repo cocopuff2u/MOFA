@@ -17,10 +17,9 @@ We welcome community contributions—fork the repository, ask questions, or shar
 - **✅ Completed:** Added JSON output to `/latest_raw_files/`
 - **✅ Completed:** Included iOS/macOS App Store data in `README.md`
 - **✅ Completed:** Added `README.md` to `/latest_raw_files/`
+- **✅ Completed:** Created full website for MOFA github [**mofa.cocolabs.dev**](https://mofa.cocolabs.dev)
 - **⏸️ Paused:** Add `README.md` to `/guides/`
 - **⏸️ Paused:** Expanding links/documentation (Community support needed! 🆘)
-- **🔄 In Progress:** Launching GitHub webpage with custom domain
-- **🚀 Sneak Peak:** [**MOFA Website**](https://cocopuff2u.github.io/MOFA_WEBSITE/) (In Testing Phase)
 - **🚀 Future Goal:** Expanding data feeds and incorporating historical data (Pending website updates)
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft Standalone Packages

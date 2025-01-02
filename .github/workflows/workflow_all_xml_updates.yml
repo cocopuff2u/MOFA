@@ -1,8 +1,8 @@
-name: Auto Update XML Files Every 4 Hours
+name: Auto Update XML Files Every 3:30 Hours
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Runs every 4 hours
+    - cron: '30 */3 * * *' # Runs every 3 hours and 30 minutes
   workflow_dispatch:
 
 jobs:

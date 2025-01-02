@@ -2,7 +2,7 @@ name: Auto Update README Every 4 Hours
 
 on:
   schedule:
-    - cron: '30 4-23/4 * * *'  # Runs 4 hours and 30 minutes after each 4-hour interval
+    - cron: '0 */4 * * *'  # Runs every 4 hours
   workflow_dispatch:
 
 jobs:

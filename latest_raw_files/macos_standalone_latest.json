@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 02, 2025 01:43 PM EST",
+    "last_updated": "January 02, 2025 04:37 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -106,7 +106,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "24.221.1103",
             "full_version": "1103.0003",
-            "last_updated": "January 02, 2025 01:43 PM EST",
+            "last_updated": "January 02, 2025 04:37 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/24.221.1103.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/24.221.1103.0003/OneDrive.pkg",
@@ -146,14 +146,14 @@
             "application_id": "IMCP01",
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
-            "short_version": "5.2410.1",
-            "full_version": "53.2412036.003",
-            "last_updated": "December 02, 2024",
+            "short_version": "5.2412.0",
+            "full_version": "53.2412051.003",
+            "last_updated": "December 14, 2024",
             "min_os": "11.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2410.1-Upgrade.pkg",
+            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2412.0-Upgrade.pkg",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=853070",
-            "sha1": "eaf595f340db6929ab54593177c88885b6a8dfdd",
-            "sha256": "2ef8a0fe0e4bd03abb689262554efc555d0edc39d9bb39fd8fe268bbaf459751"
+            "sha1": "6e0c7ad6d9ca1ae0471e4d566a5b5afbce77444a",
+            "sha256": "3b53a27a7a4a3fb237959135fb0d9d28ea829ea2a376567ae254df09fb61d2a7"
         },
         {
             "name": "Edge",

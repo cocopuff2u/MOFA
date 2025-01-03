@@ -23,10 +23,12 @@ jobs:
           pip install requests pytz pyyaml bs4
 
       - name: Run update script for standalone XML
+        continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_latest.py
 
       - name: Commit changes for standalone XML (if any)
+        continue-on-error: true
         env:
           TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
@@ -37,10 +39,12 @@ jobs:
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
       - name: Run update script for standalone update history
+        continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_update_history.py
 
       - name: Commit changes for standalone update history (if any)
+        continue-on-error: true
         env:
           TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
@@ -51,10 +55,12 @@ jobs:
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
       - name: Run update script for standalone CVE history
+        continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_cve_history.py
 
       - name: Commit changes for standalone CVE history (if any)
+        continue-on-error: true
         env:
           TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
@@ -65,10 +71,12 @@ jobs:
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
       - name: Run update script for macOS XML
+        continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_appstore_latest.py
 
       - name: Commit changes for macOS XML (if any)
+        continue-on-error: true
         env:
           TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
@@ -79,10 +87,12 @@ jobs:
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
       - name: Run update script for iOS XML
+        continue-on-error: true
         run: |
           python3 .github/actions/generate_ios_appstore_latest.py
 
       - name: Commit changes for iOS XML (if any)
+        continue-on-error: true
         env:
           TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |

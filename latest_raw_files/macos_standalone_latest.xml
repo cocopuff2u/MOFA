@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 03, 2025 06:45 AM EST</last_updated>
+    <last_updated>January 03, 2025 07:24 AM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Excel (not manually specified)</application_id>
@@ -106,7 +106,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.221.1103</short_version>
         <full_version>1103.0003</full_version>
-        <last_updated>January 03, 2025 06:45 AM EST</last_updated>
+        <last_updated>January 03, 2025 07:24 AM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.221.1103.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.221.1103.0003/OneDrive.pkg</latest_download>
@@ -132,14 +132,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>24295.606.3238.6194</short_version>
-        <full_version>24295.606.3238.6194</full_version>
-        <last_updated>November 09, 2024</last_updated>
+        <short_version>24335.204.3298.2649</short_version>
+        <full_version>24335.204.3298.2649</full_version>
+        <last_updated>December 10, 2024</last_updated>
         <min_os>12.0</min_os>
-        <update_download>https://statics.teams.cdn.office.net/production-osx/24295.606.3238.6194/MicrosoftTeams.pkg</update_download>
+        <update_download>https://statics.teams.cdn.office.net/production-osx/24335.204.3298.2649/MicrosoftTeams.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=2249065</latest_download>
-        <sha1>ff0980e893f34dbbf062a2768e59240604eb24ea</sha1>
-        <sha256>fccf2c82a08f23ba424147c2753e82e72a24d78146d10a50f6e035e37b0a4f9b</sha256>
+        <sha1>9cb72c8db09adec6c84e4ee99089cfb7990395c8</sha1>
+        <sha256>432e371e430197754e4aec1e83a0d4560c5e6b65d67b3db42f33c8a70fdb0121</sha256>
     </package>
     <package>
         <name>Intune</name>

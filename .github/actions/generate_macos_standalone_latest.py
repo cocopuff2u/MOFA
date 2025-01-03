@@ -185,7 +185,7 @@ apps = {
         }
     },
     "Teams": {
-        "url": "https://statics.teams.cdn.office.net/production-osx/24295.606.3238.6194/0409TEAMS21.xml",
+        "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409TEAMS21.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.teams",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2249065",

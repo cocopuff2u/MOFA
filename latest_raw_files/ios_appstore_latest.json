@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 06, 2025 08:00 AM EST",
+    "last_updated": "January 06, 2025 10:38 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "December 30, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2e/b2/972eb264-6e1c-d149-587a-f6b53f76a0f4/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 06, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/dd/41/7cdd412d-e868-ebb7-9e6f-e5839092134a/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release: \n\u2022 Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers. \n\u2022 New Search Box: Boost your navigation efficiency! Note: Profile is now in the Menu. \n\u2022 Bug fixes, stability, and performance improvements. \nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge! \nWant early access to more new features? Join our Beta program at:  \nhttps://testflight.apple.com/join/JkU2rh21",
-            "version": "131.2903.125"
+            "version": "131.2903.134"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -195,11 +195,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "December 30, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2e/b2/972eb264-6e1c-d149-587a-f6b53f76a0f4/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 06, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/dd/41/7cdd412d-e868-ebb7-9e6f-e5839092134a/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release: \n\u2022 Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers. \n\u2022 New Search Box: Boost your navigation efficiency! Note: Profile is now in the Menu. \n\u2022 Bug fixes, stability, and performance improvements. \nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge! \nWant early access to more new features? Join our Beta program at:  \nhttps://testflight.apple.com/join/JkU2rh21",
-            "version": "131.2903.125"
+            "version": "131.2903.134"
         },
         {
             "name": "iOS Microsoft Seeing AI",
@@ -245,11 +245,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "December 31, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/f5/bc/f9f5bc4d-b790-de82-ff45-8159db54d8b2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 06, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b7/5b/bbb75b3e-9b19-1226-fede-52519afd8dc2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "6.22.3"
+            "version": "6.23.1"
         },
         {
             "name": "iOS Microsoft Sharepoint",

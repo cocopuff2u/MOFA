@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 06, 2025 10:38 AM EST</last_updated>
+    <last_updated>January 06, 2025 01:44 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Excel (not manually specified)</application_id>
@@ -106,7 +106,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.221.1103</short_version>
         <full_version>1103.0003</full_version>
-        <last_updated>January 06, 2025 10:38 AM EST</last_updated>
+        <last_updated>January 06, 2025 01:44 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.221.1103.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.221.1103.0003/OneDrive.pkg</latest_download>
@@ -244,11 +244,11 @@
         <application_id>MSau04</application_id>
         <application_name>Microsoft AutoUpdate.app</application_name>
         <CFBundleVersion>com.microsoft.autoupdate</CFBundleVersion>
-        <short_version>4.76 (24101387)</short_version>
-        <full_version>4.76.24101387</full_version>
-        <last_updated>October 13, 2024</last_updated>
+        <short_version>4.77 (24121924)</short_version>
+        <full_version>4.77.24121924</full_version>
+        <last_updated>December 19, 2024</last_updated>
         <min_os>10.14.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.76.24101387_Updater.pkg</update_download>
+        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.77.24121924_Updater.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=830196</latest_download>
         <sha1>74e19e48ef964c0928598771cdda7f24b2dc63ba</sha1>
         <sha256>91fed0b500d85daf6e453bb7b2bee2948973781475c118c03c837e819a290fcc</sha256>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 07, 2025 01:44 PM EST</last_updated>
+	<last_updated>January 07, 2025 04:37 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,13 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>December 13, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/f4/44/59f44426-836a-526d-8733-6d99cd9912ff/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/34/63/1234631a-fb04-023a-e29e-fc5cc8bea231/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2447.1</version>
+		<version>4.2452.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -206,11 +206,11 @@ This wouldn't be possible without your feedback. If you run into any issues, ple
 		<name>iOS Microsoft Whiteboard</name>
 		<application_name>Whiteboard - Infinity Canvas</application_name>
 		<bundleId>cn.readpad.tool.iwhiteboard</bundleId>
-		<currentVersionReleaseDate>December 20, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/dd/3b/53dd3b40-187b-3e1e-a43e-6357165c4685/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/be/8c/63be8c66-adc1-2c8a-b905-4ba7172d33b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>1. Fixed known bugs.</releaseNotes>
-		<version>28.2</version>
+		<releaseNotes>Fixed known bugs.</releaseNotes>
+		<version>28.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>
@@ -315,11 +315,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>December 16, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/f8/70/86f87008-814b-1098-46f0-8ca0fdf25d61/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/56/c1/f656c122-88c7-ce7c-706f-e93e279793ab/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.24122.11</version>
+		<version>3.24123.9</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>

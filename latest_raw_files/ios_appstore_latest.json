@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 07, 2025 01:44 PM EST",
+    "last_updated": "January 07, 2025 04:37 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "December 13, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/f4/44/59f44426-836a-526d-8733-6d99cd9912ff/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/34/63/1234631a-fb04-023a-e29e-fc5cc8bea231/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2447.1"
+            "version": "4.2452.0"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -185,11 +185,11 @@
             "name": "iOS Microsoft Whiteboard",
             "application_name": "Whiteboard - Infinity Canvas",
             "bundleId": "cn.readpad.tool.iwhiteboard",
-            "currentVersionReleaseDate": "December 20, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/dd/3b/53dd3b40-187b-3e1e-a43e-6357165c4685/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/be/8c/63be8c66-adc1-2c8a-b905-4ba7172d33b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "1. Fixed known bugs.",
-            "version": "28.2"
+            "releaseNotes": "Fixed known bugs.",
+            "version": "28.4"
         },
         {
             "name": "iOS Microsoft Edge AI Browser",
@@ -275,11 +275,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "December 16, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/f8/70/86f87008-814b-1098-46f0-8ca0fdf25d61/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/56/c1/f656c122-88c7-ce7c-706f-e93e279793ab/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.24122.11"
+            "version": "3.24123.9"
         },
         {
             "name": "iOS Microsoft Authenticator",

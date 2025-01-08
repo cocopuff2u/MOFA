@@ -133,17 +133,12 @@ Welcome to the **MOFA** repository! This resource offers Microsoft Office downlo
 
 Building on the legacy of the now-defunct [**MacAdmins.software**](https://macadmins.software), MOFA provides a comprehensive and up-to-date solution. Special thanks to [**Paul Bowden**](https://github.com/pbowden-msft) for his exceptional contributions to the Mac Admins community.
 
-We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone.
+We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
+
+### [mofa.cocolabs.dev](https://mofa.cocolabs.dev)
 
 ### 🌟 **Current Focus Areas**
 
-- **✅ Completed:** Automated `/latest_raw_files/` & `README.md` (Updated every 4 hours with Microsoft sources)
-- **✅ Completed:** Integrated iOS/macOS App Store `/latest_raw_files/`
-- **✅ Completed:** Migrated all raw files to `/latest_raw_files/`
-- **✅ Completed:** Added JSON output to `/latest_raw_files/`
-- **✅ Completed:** Included iOS/macOS App Store data in `README.md`
-- **✅ Completed:** Added `README.md` to `/latest_raw_files/`
-- **✅ Completed:** Created full website for MOFA github [**mofa.cocolabs.dev**](https://mofa.cocolabs.dev)
 - **⏸️ Paused:** Add `README.md` to `/guides/`
 - **⏸️ Paused:** Expanding links/documentation (Community support needed! 🆘)
 - **🚀 Future Goal:** Expanding data feeds and incorporating historical data (Pending website updates)

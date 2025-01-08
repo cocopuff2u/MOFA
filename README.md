@@ -9,7 +9,9 @@ Building on the legacy of the now-defunct [**MacAdmins.software**](https://macad
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
-### [mofa.cocolabs.dev](https://mofa.cocolabs.dev)
+<div align="center" style="font-size: 1.5em; font-weight: bold;">
+  <a href="https://mofa.cocolabs.dev">mofa.cocolabs.dev</a>
+</div>
 
 ### 🌟 **Current Focus Areas**
 

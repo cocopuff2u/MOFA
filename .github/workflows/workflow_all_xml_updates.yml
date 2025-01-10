@@ -26,6 +26,9 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_latest.py
+          test -f latest_raw_files/macos_standalone_latest.xml || echo "File not created: macos_standalone_latest.xml"
+          test -f latest_raw_files/macos_standalone_latest.yaml || echo "File not created: macos_standalone_latest.yaml"
+          test -f latest_raw_files/macos_standalone_latest.json || echo "File not created: macos_standalone_latest.json"
 
       - name: Commit changes for standalone XML (if any)
         continue-on-error: true
@@ -42,6 +45,9 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_update_history.py
+          test -f latest_raw_files/macos_standalone_update_history.xml || echo "File not created: macos_standalone_update_history.xml"
+          test -f latest_raw_files/macos_standalone_update_history.yaml || echo "File not created: macos_standalone_update_history.yaml"
+          test -f latest_raw_files/macos_standalone_update_history.json || echo "File not created: macos_standalone_update_history.json"
 
       - name: Commit changes for standalone update history (if any)
         continue-on-error: true
@@ -58,6 +64,9 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_cve_history.py
+          test -f latest_raw_files/mac_standalone_cve_history.xml || echo "File not created: mac_standalone_cve_history.xml"
+          test -f latest_raw_files/mac_standalone_cve_history.yaml || echo "File not created: mac_standalone_cve_history.yaml"
+          test -f latest_raw_files/mac_standalone_cve_history.json || echo "File not created: mac_standalone_cve_history.json"
 
       - name: Commit changes for standalone CVE history (if any)
         continue-on-error: true
@@ -74,6 +83,9 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_appstore_latest.py
+          test -f latest_raw_files/macos_appstore_latest.xml || echo "File not created: macos_appstore_latest.xml"
+          test -f latest_raw_files/macos_appstore_latest.yaml || echo "File not created: macos_appstore_latest.yaml"
+          test -f latest_raw_files/macos_appstore_latest.json || echo "File not created: macos_appstore_latest.json"
 
       - name: Commit changes for macOS XML (if any)
         continue-on-error: true
@@ -90,6 +102,9 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_ios_appstore_latest.py
+          test -f latest_raw_files/ios_appstore_latest.xml || echo "File not created: ios_appstore_latest.xml"
+          test -f latest_raw_files/ios_appstore_latest.yaml || echo "File not created: ios_appstore_latest.yaml"
+          test -f latest_raw_files/ios_appstore_latest.json || echo "File not created: ios_appstore_latest.json"
 
       - name: Commit changes for iOS XML (if any)
         continue-on-error: true
@@ -106,23 +121,8 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_preview.py
-
-      - name: Commit changes for macOS standalone preview (if any)
-        continue-on-error: true
-        env:
-          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        run: |
-          git config --global user.name 'cocopuff2u'
-          git config --global user.email 'cocopuff2u@yahoo.com'
-          git add latest_raw_files/macos_standalone_preview.xml latest_raw_files/macos_standalone_preview.yaml latest_raw_files/macos_standalone_preview.json
-          git commit -m "Auto updating macOS standalone preview XML, YAML, JSON files" || echo "No changes to commit"
-          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
-
-      - name: Run update script for macOS standalone beta
-        continue-on-error: true
-        run: |
-          python3 .github/actions/generate_macos_standalone_beta.py
-
+          test -f latest_raw_files/macos_standalone_preview.xml || echo "File not created: macos_standalone_preview.xml"
+          test -f latest_raw_files/macos_standalone_preview.yaml || echo "File not created: macos_standalone_preview.yaml"
       - name: Commit changes for macOS standalone beta (if any)
         continue-on-error: true
         env:

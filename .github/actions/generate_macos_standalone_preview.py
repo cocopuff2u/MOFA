@@ -319,7 +319,7 @@ def read_existing_xml(filename):
         return {}
 
 # Read existing data from macos_standalone_latest.xml
-existing_data = read_existing_xml("latest_raw_files/macos_standalone_beta.xml")
+existing_data = read_existing_xml("latest_raw_files/macos_standalone_preview.xml")
 
 # Function to fetch and process an app's data (either XML or JSON)
 def fetch_and_process(app_name, config):
@@ -531,7 +531,7 @@ def pretty_print_xml(element):
     return reparsed.toprettyxml(indent="    ")
 
 # Save the updated XML
-output_file = "latest_raw_files/macos_standalone_beta.xml"
+output_file = "latest_raw_files/macos_standalone_preview.xml"
 pretty_xml = pretty_print_xml(root)
 
 # Ensure the directory exists
@@ -566,7 +566,7 @@ field_order = [
 ]
 
 # Read the XML file
-xml_file = "latest_raw_files/macos_standalone_beta.xml"
+xml_file = "latest_raw_files/macos_standalone_preview.xml"
 if os.path.exists(xml_file):
     tree = ET.parse(xml_file)
     xml_root = tree.getroot()
@@ -581,7 +581,7 @@ if os.path.exists(xml_file):
         yaml_data["packages"].append(package_data)
 
 # Save the YAML file
-yaml_output_file = "latest_raw_files/macos_standalone_beta.yaml"
+yaml_output_file = "latest_raw_files/macos_standalone_preview.yaml"
 
 # Ensure the directory exists
 os.makedirs(os.path.dirname(yaml_output_file), exist_ok=True)
@@ -597,7 +597,7 @@ with open(yaml_output_file, "w", encoding="utf-8") as yaml_file:
 logging.info(f"YAML output generated at: {yaml_output_file}")
 
 # Generate and save JSON output in the same order as XML
-json_output_file = "latest_raw_files/macos_standalone_beta.json"
+json_output_file = "latest_raw_files/macos_standalone_preview.json"
 
 # Ensure the directory exists
 os.makedirs(os.path.dirname(json_output_file), exist_ok=True)

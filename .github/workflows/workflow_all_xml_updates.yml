@@ -101,3 +101,35 @@ jobs:
           git add latest_raw_files/ios_appstore_latest.xml latest_raw_files/ios_appstore_latest.yaml latest_raw_files/ios_appstore_latest.json
           git commit -m "Auto updating iOS XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
+      - name: Run update script for macOS standalone preview
+        continue-on-error: true
+        run: |
+          python3 .github/actions/generate_macos_standalone_preview.py
+
+      - name: Commit changes for macOS standalone preview (if any)
+        continue-on-error: true
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add latest_raw_files/macos_standalone_preview.xml latest_raw_files/macos_standalone_preview.yaml latest_raw_files/macos_standalone_preview.json
+          git commit -m "Auto updating macOS standalone preview XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
+      - name: Run update script for macOS standalone beta
+        continue-on-error: true
+        run: |
+          python3 .github/actions/generate_macos_standalone_beta.py
+
+      - name: Commit changes for macOS standalone beta (if any)
+        continue-on-error: true
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add latest_raw_files/macos_standalone_beta.xml latest_raw_files/macos_standalone_beta.yaml latest_raw_files/macos_standalone_beta.json
+          git commit -m "Auto updating macOS standalone beta XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git

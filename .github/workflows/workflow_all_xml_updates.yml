@@ -111,7 +111,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_preview.py
-          git add latest_raw_files/ios_appstore_preview.xml latest_raw_files/ios_appstore_preview.yaml latest_raw_files/ios_appstore_preview.json
+          git add latest_raw_files/macos_standalone_preview.xml latest_raw_files/macos_standalone_preview.yaml latest_raw_files/macos_standalone_preview.json
       - name: Commit changes for macOS standalone beta (if any)
         continue-on-error: true
         env:

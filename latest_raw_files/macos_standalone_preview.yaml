@@ -1,4 +1,4 @@
-last_updated: January 10, 2025 04:38 PM EST
+last_updated: January 10, 2025 09:03 PM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -66,7 +66,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 24.244.1204
   full_version: '1204.0003'
-  last_updated: January 10, 2025 04:38 PM EST
+  last_updated: January 10, 2025 09:03 PM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg
@@ -112,14 +112,14 @@ packages:
   application_id: EDGE01
   application_name: Microsoft Edge.app
   CFBundleVersion: com.microsoft.edgemac
-  short_version: 131.0.2903.112
-  full_version: 131.2903.241218112
-  last_updated: December 19, 2024
+  short_version: 131.0.2903.147
+  full_version: 131.2903.250109147
+  last_updated: January 10, 2025
   min_os: '11.0'
-  update_download: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.112.pkg
-  latest_download: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.112.pkg
-  sha1: 1bd03414d56ff09f21e85bba9127d803e3db92f6
-  sha256: af81de5b393a66d976d61940a2ef05836d67a15340f5efacc31ac9d8dd3d8ecb
+  update_download: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.147.pkg
+  latest_download: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.147.pkg
+  sha1: bfd92a20e7dfd4ddfcce34dfe83cfa1a560dcd17
+  sha256: 0487080e910a963dfab9f52edd430af793d21b06ceae5cf263d78d7c0f9eee13
 - name: Defender For Endpoint
   application_id: WDAV00
   application_name: Microsoft Defender.app

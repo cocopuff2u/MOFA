@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 10, 2025 04:37 PM EST</last_updated>
+    <last_updated>January 10, 2025 09:03 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Excel (not manually specified)</application_id>
@@ -106,7 +106,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.221.1103</short_version>
         <full_version>1103.0003</full_version>
-        <last_updated>January 10, 2025 04:37 PM EST</last_updated>
+        <last_updated>January 10, 2025 09:03 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.221.1103.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.221.1103.0003/OneDrive.pkg</latest_download>
@@ -160,14 +160,14 @@
         <application_id>EDGE01</application_id>
         <application_name>Microsoft Edge.app</application_name>
         <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-        <short_version>131.0.2903.112</short_version>
-        <full_version>131.2903.241218112</full_version>
-        <last_updated>December 19, 2024</last_updated>
+        <short_version>131.0.2903.147</short_version>
+        <full_version>131.2903.250109147</full_version>
+        <last_updated>January 10, 2025</last_updated>
         <min_os>11.0</min_os>
-        <update_download>https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.112.pkg</update_download>
+        <update_download>https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.147.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=2093504</latest_download>
-        <sha1>e7ee38d85689f78fadc47ecc493473a7679678a4</sha1>
-        <sha256>648233d6654a3b0a9b651f31c33260125b6410e956b698970b8b789ad4fa7d16</sha256>
+        <sha1>33e613d0b656509ef0d5b14cc31a62afd20bd907</sha1>
+        <sha256>b9a37574187b6cb0de0a90a6f24e7694e7a064409ba0d9fbc2432599c49f4154</sha256>
     </package>
     <package>
         <name>Defender For Endpoint</name>

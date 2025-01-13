@@ -1,15 +1,15 @@
 {
-    "last_updated": "January 13, 2025 08:01 AM EST",
+    "last_updated": "January 13, 2025 10:40 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "December 13, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/d8/80/5ed880c9-150c-6288-3f39-4407480478dc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/bc/9c/5abc9cc4-061c-5b9e-7c19-87596eeab785/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.92.1"
+            "version": "2.93"
         },
         {
             "name": "iOS Microsoft Excel",
@@ -25,11 +25,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "January 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/5d/71/825d714b-2208-64ab-8ab9-b2caf49e6d5d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 13, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/93/06/669306e5-e88c-7e5c-714b-e3fe46debaaa/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.93"
+            "version": "2.92.1"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -45,11 +45,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "December 14, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/f1/66/74f166e6-80b9-33d7-a76a-d9720e4f40a6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/54/a0/6f54a0b6-3323-514c-ea90-89ac8de8fb73/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.92.1"
+            "version": "16.93"
         },
         {
             "name": "iOS Microsoft OneDrive",

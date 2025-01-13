@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>Applications</key>
+            <dict>
+                <key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>MSau04</string>
+                    <key>LCID</key>
+                    <integer>1033</integer>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>14</integer>
+                </dict>
+            </dict>
+            <key>ChannelName</key>
+            <string>Current</string>
+            <key>HowToCheck</key>
+            <string>AutomaticDownload</string>
+            <key>PayloadDisplayName</key>
+            <string>Microsoft AutoUpdate</string>
+            <key>PayloadIdentifier</key>
+            <string>com.microsoft.autoupdate2.14daypolicy</string>
+            <key>PayloadType</key>
+            <string>com.microsoft.autoupdate2</string>
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-14D1-14D1-14D1-1234567890AB</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>UpdateCheckFrequency</key>
+            <integer>360</integer>
+            <key>UpdateCheckInterval</key>
+            <integer>240</integer>
+            <key>UpdateDeadline.FinalCountDown</key>
+            <integer>60</integer>
+            <key>UpdateDeadline.StartAutomaticUpdates</key>
+            <integer>3</integer>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>This configuration profile enforces a 14-day global forced update policy for Microsoft AutoUpdate across all applications. The profile is configured with the "Current" update channel and automatic download enabled. Designed by MOFA at mofa.cocolabs.dev.</string>
+    <key>PayloadDisplayName</key>
+    <string>mau_14_day_force_update</string>
+    <key>PayloadIdentifier</key>
+    <string>dev.cocolabs.mofa.14day</string>
+    <key>PayloadOrganization</key>
+    <string>Cocolabs - MOFA</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>14DAY-UUID-GLOBAL-9876543210AB</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>

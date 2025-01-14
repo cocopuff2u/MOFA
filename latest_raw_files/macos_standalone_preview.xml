@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 14, 2025 01:43 AM EST</last_updated>
+    <last_updated>January 14, 2025 04:38 AM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -78,7 +78,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.244.1204</short_version>
         <full_version>1204.0003</full_version>
-        <last_updated>January 14, 2025 01:43 AM EST</last_updated>
+        <last_updated>January 14, 2025 04:38 AM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</latest_download>
@@ -190,12 +190,12 @@
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
         <short_version>1.97.0-</short_version>
         <full_version>1.97.0-insider</full_version>
-        <last_updated>January 13, 2025</last_updated>
+        <last_updated>January 14, 2025</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/69d97b0773575a75736850370918e1171cfde5c6/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/c594d55bae90276d174cea4ddf2901694d4ebb3e/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
-        <sha1>055fabc3a7f1c71d94acc6c8fa97de52a0547740</sha1>
-        <sha256>43eb77e14df276a40b420835878acf827b99346871044ff2cea399470a31d410</sha256>
+        <sha1>411ba76f864fc654f017208dfe33432d029e1e12</sha1>
+        <sha256>ae7ef57b910edd5317dd9c8ed72ee2483f3456dcc2ec659731d7fe4d1f789cac</sha256>
     </package>
     <package>
         <name>MAU</name>

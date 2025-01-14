@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 13, 2025 04:38 PM EST</last_updated>
+	<last_updated>January 13, 2025 08:54 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,11 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>January 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/3b/80/bf3b8095-96c2-f67c-46cd-1a4492be4f27/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 13, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/63/a3/4763a384-adef-7b7b-8ac4-175f79ce6161/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.93</version>
+		<version>2.92.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -92,15 +92,17 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>January 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b9/e3/19b9e339-2953-9db9-3229-182d6702f1bc/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 06, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/dd/41/7cdd412d-e868-ebb7-9e6f-e5839092134a/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release: 
 • Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers. 
 • New Search Box: Boost your navigation efficiency! Note: Profile is now in the Menu. 
 • Bug fixes, stability, and performance improvements. 
-Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>131.2903.145</version>
+Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge! 
+Want early access to more new features? Join our Beta program at:  
+https://testflight.apple.com/join/JkU2rh21</releaseNotes>
+		<version>131.2903.134</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -127,11 +129,13 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>January 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7a/9c/3c7a9c69-1e31-dad7-087d-113ba8172bdd/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 09, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/69/4e/d1694e48-e2ca-a9e1-fca4-1b699c89b408/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>This update brings enhanced reliability and clarity to your WooCommerce experience! Enjoy improved Jetpack setup, smoother media handling, and better product and payment workflows. We’ve also optimized storage and addressed key UI issues to elevate performance. Plus, Tap to Pay onboarding now guides you with ease!</releaseNotes>
-		<version>21.3</version>
+		<releaseNotes>In just two weeks, we've jam-packed this release. There's GTIN global product identifier support, and you can edit the call-to-action in Blaze campaigns.
+
+Store setup for in-person payments is faster, receipt sent confirmations clearer, and testing Tap to Pay on iPhone is smoother. Plus, we've improved dashboard statistics and squashed some bugs.</releaseNotes>
+		<version>21.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -257,13 +261,13 @@ Recent improvements include:
 		<name>iOS Microsoft Azure</name>
 		<application_name>Microsoft Azure</application_name>
 		<bundleId>com.microsoft.azure</bundleId>
-		<currentVersionReleaseDate>January 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/fc/e0/cefce03f-f1f6-ba24-d6a4-c9fd1673d762/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 05, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/2c/f7/e72cf706-eeab-4e56-e967-6c41238a4285/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.
 
 Please reach out to us for any questions, concerns, or feature requests.</releaseNotes>
-		<version>7.1.0</version>
+		<version>6.10.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft To-Do</name>

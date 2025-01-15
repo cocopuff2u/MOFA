@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 15, 2025 10:39 AM EST</last_updated>
+	<last_updated>January 15, 2025 01:42 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -82,25 +82,18 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>December 16, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/e2/c7/8ce2c7df-7559-9957-dff1-d925b875cbd8/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/0f/71/6c0f71f7-5072-f3d2-5c0f-a3df201640da/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates:
+		<releaseNotes>It's time for an update to start the new year. Here's what we addressed in this release:
 
-• Added a connecting/connected state indicator to device thumbnails and the Quick Launcher.
-• Addressed a UDP transport bug that periodically prevented graphics updates after connecting.
-• Introduced better error messaging for cases where RDP files are blocked from launch or import.
-• Updated the app logging backend to automatically write logs to disk (versus requiring manual start and stop).
-• Resolved a bug that reset the mouse button state when dragging content between monitors in multimon scenarios.
-• Handled invalid lengths when smart card attributes are queried as part of PC/SC-based redirection.
-• Resolved a printing issue where landscape orientation would not work in some scenarios.
-• Fixed a hang that occurred when disconnecting an external monitor while connected to a session.
-• The Command+C shortcut now copies the display name of the currently selected device thumbnail(s) to the clipboard.
-
-The -nofre command-line parameter and new ClientSettings.SuppressInformationalUxFlows UserDefaults key will now control the Windows App First Run Experience (FRE). In cases where these values conflict, the command line parameter takes precedence.
+• Resolved accessibility bugs.
+• Updated Azure Gov Cloud PC connections to use the correct Authority URI.
+• Changed the default for RDS and PC Connection tiles to show the associated credential.
+• Reduced chatter with the Windows 365 backend service.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.0.8</version>
+		<version>11.0.9</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

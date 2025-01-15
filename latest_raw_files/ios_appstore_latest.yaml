@@ -1,4 +1,4 @@
-last_updated: January 15, 2025 10:39 AM EST
+last_updated: January 15, 2025 01:43 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -170,12 +170,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: December 16, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/73/1b/3a731b91-b0ce-5b8b-547d-36d788ac4900/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/54/5b/c3545b11-1b95-cc70-7c19-c03d85a83806/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We've improved the stability of Viva Engage in this release. We
       hope you enjoy it!
-    version: 10.85.0
+    version: 10.87.0
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard
@@ -239,11 +239,11 @@ packages:
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
-    currentVersionReleaseDate: December 19, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/25/61/752561b0-6425-95e6-6fcf-ca548c27ae5f/To-Do-AppStore-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: January 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a1/c3/1aa1c3d6-fd5d-fb28-24ed-d0aed3ef9ea9/To-Do-AppStore-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: We fixed some bugs to improve the app experience.
-    version: '2.137'
+    version: 2.137.1
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
@@ -272,11 +272,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: January 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/56/c1/f656c122-88c7-ce7c-706f-e93e279793ab/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: January 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/2b/47/082b4714-6df2-a64e-bc62-4df7fa58e78b/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.24123.9
+    version: 3.25011.6
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator

@@ -1,6 +1,28 @@
 {
-    "last_scan_date": "January 15, 2025 01:43 AM EST",
+    "last_scan_date": "January 15, 2025 04:38 AM EST",
     "updates": [
+        {
+            "date_text": "January 14, 2025",
+            "version": "Version 16.93 (Build 25011212)",
+            "security_updates": {
+                "Excel": [
+                    {
+                        "cve_name": "CVE-2025-21362",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21362"
+                    },
+                    {
+                        "cve_name": "CVE-2025-21354",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21354"
+                    }
+                ],
+                "Word": [
+                    {
+                        "cve_name": "CVE-2025-21363",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21363"
+                    }
+                ]
+            }
+        },
         {
             "date_text": "December 10, 2024",
             "version": "Version 16.92 (Build 24120731)",

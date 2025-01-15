@@ -1,6 +1,24 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>January 15, 2025 01:43 AM EST</last_scan_date>
+    <last_scan_date>January 15, 2025 04:38 AM EST</last_scan_date>
+    <Update>
+        <Date>January 14, 2025</Date>
+        <Version>Version 16.93 (Build 25011212)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2025-21362</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21362</URL>
+                <CVE>CVE-2025-21354</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21354</URL>
+            </Application>
+            <Application>
+                <Name>Word</Name>
+                <CVE>CVE-2025-21363</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21363</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>December 10, 2024</Date>
         <Version>Version 16.92 (Build 24120731)</Version>

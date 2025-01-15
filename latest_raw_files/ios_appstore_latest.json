@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 15, 2025 01:43 PM EST",
+    "last_updated": "January 15, 2025 04:38 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -275,11 +275,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "January 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/2b/47/082b4714-6df2-a64e-bc62-4df7fa58e78b/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/56/c1/f656c122-88c7-ce7c-706f-e93e279793ab/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25011.6"
+            "version": "3.24123.9"
         },
         {
             "name": "iOS Microsoft Authenticator",
@@ -363,13 +363,13 @@
         },
         {
             "name": "iOS Microsoft 365 Office",
-            "application_name": "Microsoft 365 (Office)",
+            "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "December 21, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/03/04/470304d5-01b5-d817-262d-2e2f3831dec9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ab/3b/24ab3ba2-0702-37da-4c72-875225201c78/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.92.2"
+            "releaseNotes": "The Microsoft 365 (Office) app is now the Microsoft 365 Copilot app. Same productivity app with a new name and icon. Find your files, create, share, and collaborate in one place available through your Microsoft 365 plan.",
+            "version": "2.93"
         },
         {
             "name": "iOS Microsoft Skype for Business",

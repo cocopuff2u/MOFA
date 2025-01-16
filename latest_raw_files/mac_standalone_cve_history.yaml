@@ -1,4 +1,4 @@
-last_scan_date: January 15, 2025 04:38 PM EST
+last_scan_date: January 15, 2025 08:55 PM EST
 updates:
 - date_text: January 14, 2025
   security_updates:
@@ -7,6 +7,12 @@ updates:
       url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21362
     - cve_name: CVE-2025-21354
       url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21354
+    Office Suite:
+    - cve_name: CVE-2025-21338
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21338
+    OneNote:
+    - cve_name: CVE-2025-21402
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21402
     Word:
     - cve_name: CVE-2025-21363
       url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21363

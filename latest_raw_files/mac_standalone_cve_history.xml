@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>January 15, 2025 04:38 PM EST</last_scan_date>
+    <last_scan_date>January 15, 2025 08:55 PM EST</last_scan_date>
     <Update>
         <Date>January 14, 2025</Date>
         <Version>Version 16.93 (Build 25011212)</Version>
@@ -11,6 +11,16 @@
                 <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21362</URL>
                 <CVE>CVE-2025-21354</CVE>
                 <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21354</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2025-21338</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21338</URL>
+            </Application>
+            <Application>
+                <Name>OneNote</Name>
+                <CVE>CVE-2025-21402</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21402</URL>
             </Application>
             <Application>
                 <Name>Word</Name>

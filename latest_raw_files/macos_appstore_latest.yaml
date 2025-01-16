@@ -1,4 +1,4 @@
-last_updated: January 16, 2025 10:38 AM EST
+last_updated: January 16, 2025 01:43 PM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -14,11 +14,14 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: December 10, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/b8/0c/74b80c81-007f-ac48-6081-7b5b1ff4ad7f/XCEL.png/512x512bb.png
+    currentVersionReleaseDate: January 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/df/5b/44df5bac-32c0-267d-473d-73469cf19a34/XCEL.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: '16.92'
+    releaseNotes: "\u2022 Widgets are now here in Mac! Add a widget to your desktop\
+      \ to quickly view your most recent files.\n\u2022 New regular expression worksheet\
+      \ functions: RegexExtract, RegexTest, RegexReplace; Added Regex match mode for\
+      \ XMatch and XLookup."
+    version: '16.93'
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
@@ -30,27 +33,11 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: December 10, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/9d/2b/f09d2b8c-eeee-44c8-9017-c197010b1297/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: January 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/35/ab/4935abd6-389e-cfd4-2d0e-ede5bb1f57df/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "Feature Updates:\n\u2022 Calendar: Copilot users can easily catchup\
-      \ with meeting recordings, transcripts and notes from meeting popovers and details.\n\
-      \u2022 M365 Groups: We now allow dragging and dropping emails from M365 Groups\
-      \ to your desktop and generate .eml file.\n\u2022 Security: We now block screen\
-      \ sharing and taking screenshot for protected content.\n\nResolved Issues:\n\
-      \u2022 Calendar: Fixed an issue where moving an appointment event to another\
-      \ folder within the same account resulted in duplicate events appearing with\
-      \ an Exchange OnPremise account type.\n\u2022 Calendar: Fixed the issue where\
-      \ calendar reminders were being set to zero for delegates. \n\u2022 Mail: Fixed\
-      \ an issue that was causing the Outlook for Mac users to unable to add an account\
-      \ if the tenant have enforced CAE policies.\n\u2022 Mail: Fixed an issue where\
-      \ emails were not auto-saving when using nested compose and clicking away to\
-      \ another email.\n\u2022 Mail: Fixed the issue where replying to or forwarding\
-      \ an email that uses S/MIME caused the cursor to appear in the first line of\
-      \ the attributes section of the original message.\n\u2022 MyDay: Fixed an issue\
-      \ in My Day where users with multiple accounts in the same profile were unable\
-      \ to create events by dragging. Events will now be created in the correct account."
-    version: '16.92'
+    releaseNotes: "\u2022 Bug fixes"
+    version: '16.93'
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac

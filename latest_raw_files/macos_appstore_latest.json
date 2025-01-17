@@ -1,15 +1,15 @@
 {
-    "last_updated": "January 17, 2025 10:38 AM EST",
+    "last_updated": "January 17, 2025 01:42 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "January 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/9c/00/e89c00c6-5d3f-ed1a-a380-bdebe46b0dd1/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "December 10, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/c9/ef/e5c9ef36-9531-6cc3-cf35-d86efe9a4371/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Widgets are now here in Mac! Add a widget to your desktop to quickly view your most recent files.",
-            "version": "16.93"
+            "releaseNotes": "\u2022 Copilot: Draft with Copilot now supports more file references, larger file sizes and now allows you to write longer prompts in the prompt field. \n\u2022 Copilot: Fine tune text options from the Rewrite feature by telling Copilot how the output should change.",
+            "version": "16.92"
         },
         {
             "name": "MacOS Microsoft Excel",

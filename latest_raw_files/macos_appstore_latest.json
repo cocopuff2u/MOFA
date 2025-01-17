@@ -1,15 +1,15 @@
 {
-    "last_updated": "January 17, 2025 04:37 AM EST",
+    "last_updated": "January 17, 2025 07:56 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "December 10, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/c9/ef/e5c9ef36-9531-6cc3-cf35-d86efe9a4371/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "January 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/9c/00/e89c00c6-5d3f-ed1a-a380-bdebe46b0dd1/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Copilot: Draft with Copilot now supports more file references, larger file sizes and now allows you to write longer prompts in the prompt field. \n\u2022 Copilot: Fine tune text options from the Rewrite feature by telling Copilot how the output should change.",
-            "version": "16.92"
+            "releaseNotes": "\u2022 Widgets are now here in Mac! Add a widget to your desktop to quickly view your most recent files.",
+            "version": "16.93"
         },
         {
             "name": "MacOS Microsoft Excel",
@@ -35,11 +35,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "January 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/35/ab/4935abd6-389e-cfd4-2d0e-ede5bb1f57df/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "December 10, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/9d/2b/f09d2b8c-eeee-44c8-9017-c197010b1297/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.93"
+            "releaseNotes": "Feature Updates:\n\u2022 Calendar: Copilot users can easily catchup with meeting recordings, transcripts and notes from meeting popovers and details.\n\u2022 M365 Groups: We now allow dragging and dropping emails from M365 Groups to your desktop and generate .eml file.\n\u2022 Security: We now block screen sharing and taking screenshot for protected content.\n\nResolved Issues:\n\u2022 Calendar: Fixed an issue where moving an appointment event to another folder within the same account resulted in duplicate events appearing with an Exchange OnPremise account type.\n\u2022 Calendar: Fixed the issue where calendar reminders were being set to zero for delegates. \n\u2022 Mail: Fixed an issue that was causing the Outlook for Mac users to unable to add an account if the tenant have enforced CAE policies.\n\u2022 Mail: Fixed an issue where emails were not auto-saving when using nested compose and clicking away to another email.\n\u2022 Mail: Fixed the issue where replying to or forwarding an email that uses S/MIME caused the cursor to appear in the first line of the attributes section of the original message.\n\u2022 MyDay: Fixed an issue in My Day where users with multiple accounts in the same profile were unable to create events by dragging. Events will now be created in the correct account.",
+            "version": "16.92"
         },
         {
             "name": "MacOS Microsoft OneNote",

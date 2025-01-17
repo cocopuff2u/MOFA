@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 16, 2025 08:54 PM EST</last_updated>
+	<last_updated>January 16, 2025 10:40 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -16,49 +16,39 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>December 10, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/b8/0c/74b80c81-007f-ac48-6081-7b5b1ff4ad7f/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/df/5b/44df5bac-32c0-267d-473d-73469cf19a34/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.92</version>
+		<releaseNotes>• Widgets are now here in Mac! Add a widget to your desktop to quickly view your most recent files.
+• New regular expression worksheet functions: RegexExtract, RegexTest, RegexReplace; Added Regex match mode for XMatch and XLookup.</releaseNotes>
+		<version>16.93</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>December 10, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/da/07/d6da07fb-9a39-638b-d4e1-d7f12c0065b6/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d1/45/8dd1453e-b64b-267a-6325-abe6b4319d37/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.92</version>
+		<releaseNotes>• Widgets are now here in Mac! Add a widget to your desktop to quickly view your most recent files.</releaseNotes>
+		<version>16.93</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>December 10, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/9d/2b/f09d2b8c-eeee-44c8-9017-c197010b1297/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/35/ab/4935abd6-389e-cfd4-2d0e-ede5bb1f57df/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Feature Updates:
-• Calendar: Copilot users can easily catchup with meeting recordings, transcripts and notes from meeting popovers and details.
-• M365 Groups: We now allow dragging and dropping emails from M365 Groups to your desktop and generate .eml file.
-• Security: We now block screen sharing and taking screenshot for protected content.
-
-Resolved Issues:
-• Calendar: Fixed an issue where moving an appointment event to another folder within the same account resulted in duplicate events appearing with an Exchange OnPremise account type.
-• Calendar: Fixed the issue where calendar reminders were being set to zero for delegates. 
-• Mail: Fixed an issue that was causing the Outlook for Mac users to unable to add an account if the tenant have enforced CAE policies.
-• Mail: Fixed an issue where emails were not auto-saving when using nested compose and clicking away to another email.
-• Mail: Fixed the issue where replying to or forwarding an email that uses S/MIME caused the cursor to appear in the first line of the attributes section of the original message.
-• MyDay: Fixed an issue in My Day where users with multiple accounts in the same profile were unable to create events by dragging. Events will now be created in the correct account.</releaseNotes>
-		<version>16.92</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.93</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>December 10, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/40/a2/0040a25d-31c2-5e7f-9860-f340585ab8a5/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/24/1f/1f241f9a-2b95-0d8d-46d9-2db5fece3038/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -66,7 +56,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.92</version>
+		<version>16.93</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>

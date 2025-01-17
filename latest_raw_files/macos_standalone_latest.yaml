@@ -1,4 +1,4 @@
-last_updated: January 17, 2025 01:42 PM EST
+last_updated: January 17, 2025 04:37 PM EST
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Excel (not manually specified)
@@ -90,7 +90,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 24.232.1118
   full_version: '1118.0003'
-  last_updated: January 17, 2025 01:42 PM EST
+  last_updated: January 17, 2025 04:37 PM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/24.232.1118.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/24.232.1118.0003/OneDrive.pkg
@@ -136,14 +136,14 @@ packages:
   application_id: EDGE01
   application_name: Microsoft Edge.app
   CFBundleVersion: com.microsoft.edgemac
-  short_version: 131.0.2903.147
-  full_version: 131.2903.250109147
-  last_updated: January 10, 2025
+  short_version: 132.0.2957.115
+  full_version: 132.2957.250116115
+  last_updated: January 17, 2025
   min_os: '11.0'
-  update_download: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.147.pkg
+  update_download: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.115.pkg
   latest_download: https://go.microsoft.com/fwlink/?linkid=2093504
-  sha1: 33e613d0b656509ef0d5b14cc31a62afd20bd907
-  sha256: b9a37574187b6cb0de0a90a6f24e7694e7a064409ba0d9fbc2432599c49f4154
+  sha1: 9d1b8219bf76d84a52fe14ac8cad4c58f7d8514b
+  sha256: 8575a36cf7ec619d08dd8c5c19378c461b3d4e56134d4c9c43b8611ecd2d4275
 - name: Defender For Endpoint
   application_id: WDAV00
   application_name: Microsoft Defender.app

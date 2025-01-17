@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 16, 2025 04:37 PM EST",
+    "last_updated": "January 16, 2025 08:54 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -106,7 +106,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "24.232.1118",
             "full_version": "1118.0003",
-            "last_updated": "January 16, 2025 04:37 PM EST",
+            "last_updated": "January 16, 2025 08:54 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/24.232.1118.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/24.232.1118.0003/OneDrive.pkg",
@@ -132,11 +132,11 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "24335.204.3298.2649",
-            "full_version": "24335.204.3298.2649",
-            "last_updated": "December 10, 2024",
+            "short_version": "24335.207.3345.5574",
+            "full_version": "24335.207.3345.5574",
+            "last_updated": "January 09, 2025",
             "min_os": "12.0",
-            "update_download": "https://statics.teams.cdn.office.net/production-osx/24335.204.3298.2649/MicrosoftTeams.pkg",
+            "update_download": "https://statics.teams.cdn.office.net/production-osx/24335.207.3345.5574/MicrosoftTeams.pkg",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2249065",
             "sha1": "9cb72c8db09adec6c84e4ee99089cfb7990395c8",
             "sha256": "432e371e430197754e4aec1e83a0d4560c5e6b65d67b3db42f33c8a70fdb0121"
@@ -230,14 +230,14 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code.app",
             "CFBundleVersion": "com.microsoft.visualstudio",
-            "short_version": "1.96.3",
-            "full_version": "1.96.3",
-            "last_updated": "January 09, 2025",
+            "short_version": "1.96.4",
+            "full_version": "1.96.4",
+            "last_updated": "January 16, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/91fbdddc47bc9c09064bf7acf133d22631cbf083/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/VSCode-darwin-universal.zip",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
-            "sha1": "45a88e1b53d52aea0381532b4f61b5fdd3c6f237",
-            "sha256": "d68323263335018855e4ca8c85625f02161dc188dd343ec68de417f14096c9b7"
+            "sha1": "b1f9b520695cdf25f3b6553b27163ec4647db2e5",
+            "sha256": "3df76c5f4dad48d2cf48f651769c0f5273293022b5e61bbab5202dffc9ef9b54"
         },
         {
             "name": "MAU",

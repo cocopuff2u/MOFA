@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 17, 2025 01:42 PM EST</last_updated>
+    <last_updated>January 17, 2025 04:37 PM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -78,7 +78,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.244.1204</short_version>
         <full_version>1204.0003</full_version>
-        <last_updated>January 17, 2025 01:42 PM EST</last_updated>
+        <last_updated>January 17, 2025 04:37 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</latest_download>
@@ -132,14 +132,14 @@
         <application_id>EDGE01</application_id>
         <application_name>Microsoft Edge.app</application_name>
         <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-        <short_version>131.0.2903.147</short_version>
-        <full_version>131.2903.250109147</full_version>
-        <last_updated>January 10, 2025</last_updated>
+        <short_version>132.0.2957.115</short_version>
+        <full_version>132.2957.250116115</full_version>
+        <last_updated>January 17, 2025</last_updated>
         <min_os>11.0</min_os>
-        <update_download>https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.147.pkg</update_download>
-        <latest_download>https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-131.0.2903.147.pkg</latest_download>
-        <sha1>bfd92a20e7dfd4ddfcce34dfe83cfa1a560dcd17</sha1>
-        <sha256>0487080e910a963dfab9f52edd430af793d21b06ceae5cf263d78d7c0f9eee13</sha256>
+        <update_download>https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.115.pkg</update_download>
+        <latest_download>https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.115.pkg</latest_download>
+        <sha1>a033d48a5e5760826f9efd71b4e742d464e2100f</sha1>
+        <sha256>415e3634dbfe055c5b095c5efe1905d92317e89bc00d940e14ef685b1fb42571</sha256>
     </package>
     <package>
         <name>Defender For Endpoint</name>

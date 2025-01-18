@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 17, 2025 10:38 PM EST</last_updated>
+	<last_updated>January 18, 2025 01:41 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -202,11 +202,11 @@ This wouldn't be possible without your feedback. If you run into any issues, ple
 		<name>iOS Microsoft Whiteboard</name>
 		<application_name>Whiteboard - Infinity Canvas</application_name>
 		<bundleId>cn.readpad.tool.iwhiteboard</bundleId>
-		<currentVersionReleaseDate>January 18, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/2c/0d/152c0d1d-f2fc-4d7e-b9c4-a64fb8a697fb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/be/8c/63be8c66-adc1-2c8a-b905-4ba7172d33b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Fixed known bugs.</releaseNotes>
-		<version>28.5</version>
+		<version>28.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>

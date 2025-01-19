@@ -1,4 +1,4 @@
-last_updated: January 18, 2025 09:06 PM EST
+last_updated: January 18, 2025 10:40 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -179,11 +179,11 @@ packages:
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard
-    currentVersionReleaseDate: January 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/2c/0d/152c0d1d-f2fc-4d7e-b9c4-a64fb8a697fb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/be/8c/63be8c66-adc1-2c8a-b905-4ba7172d33b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '13.0'
     releaseNotes: Fixed known bugs.
-    version: '28.5'
+    version: '28.4'
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge

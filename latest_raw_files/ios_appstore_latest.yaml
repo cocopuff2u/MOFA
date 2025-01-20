@@ -1,4 +1,4 @@
-last_updated: January 20, 2025 10:38 AM EST
+last_updated: January 20, 2025 01:42 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -67,11 +67,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: December 18, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/af/27/71af2765-64b9-d792-5bbf-e910e3956d65/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: January 20, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/0d/93/ff0d9341-fdf8-332f-d92f-3e4653296994/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
-    releaseNotes: Bug fixes and Improvements
-    version: 1.1.60100101
+    releaseNotes: Bug fixes and improvements
+    version: 1.1.61160103
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
@@ -188,16 +188,17 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: January 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b9/e3/19b9e339-2953-9db9-3229-182d6702f1bc/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: January 20, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/85/0c/81850c49-046f-bb59-1938-187a5fdc3395/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
-      \ \n\u2022 Introducing the New Copilot: This update includes an intuitive design\
-      \ with more digestible and faster answers. \n\u2022 New Search Box: Boost your\
-      \ navigation efficiency! Note: Profile is now in the Menu. \n\u2022 Bug fixes,\
-      \ stability, and performance improvements. \nUpgrade to the latest version and\
-      \ enjoy a smarter, more efficient Microsoft Edge!"
-    version: 131.2903.145
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
+      \u2022 Introducing the New Copilot: This update includes an intuitive design\
+      \ with more digestible and faster answers.\n\u2022 PDF Summarization by Copilot:\
+      \ Get AI-powered summaries and highlights directly in your browser!\n\u2022\
+      \ New Search Box: Boost your navigation efficiency! Note: Profile is now in\
+      \ the menu.\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
+      \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 132.2957.118
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

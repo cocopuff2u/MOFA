@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 20, 2025 10:38 AM EST</last_updated>
+	<last_updated>January 20, 2025 01:42 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -82,11 +82,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>December 18, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/af/27/71af2765-64b9-d792-5bbf-e910e3956d65/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 20, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/0d/93/ff0d9341-fdf8-332f-d92f-3e4653296994/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and Improvements</releaseNotes>
-		<version>1.1.60100101</version>
+		<releaseNotes>Bug fixes and improvements</releaseNotes>
+		<version>1.1.61160103</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>
@@ -213,15 +213,16 @@ This wouldn't be possible without your feedback. If you run into any issues, ple
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>January 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b9/e3/19b9e339-2953-9db9-3229-182d6702f1bc/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 20, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/85/0c/81850c49-046f-bb59-1938-187a5fdc3395/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release: 
-• Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers. 
-• New Search Box: Boost your navigation efficiency! Note: Profile is now in the Menu. 
-• Bug fixes, stability, and performance improvements. 
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
+• Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.
+• PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!
+• New Search Box: Boost your navigation efficiency! Note: Profile is now in the menu.
+• Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>131.2903.145</version>
+		<version>132.2957.118</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

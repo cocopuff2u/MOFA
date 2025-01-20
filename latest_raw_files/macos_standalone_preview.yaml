@@ -1,4 +1,4 @@
-last_updated: January 20, 2025 10:39 AM EST
+last_updated: January 20, 2025 01:42 PM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -16,14 +16,14 @@ packages:
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.93.0 (25011212)
-  full_version: 16.93.25011212
-  last_updated: January 12, 2025
+  short_version: 16.93.1 (25011917)
+  full_version: 16.93.25011917
+  last_updated: January 19, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.93.25011212_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.93.25011212_Updater.pkg
-  sha1: 286cd16fa64c0c8418f543ebaa7ced44bedba99a
-  sha256: 26612ae73ef569eab3425951938a2c3c8a07394606d5ceabf4af93151c67b2ea
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.93.25011917_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.93.25011917_Updater.pkg
+  sha1: 1561f8f9550edbb8f27c2a0506646a398c794651
+  sha256: 2a160504ebd30e07635f28979c21b3f8c500aa4025700f9c3bbcd008209d5dfc
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
@@ -40,14 +40,14 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.93.0 (25011212)
-  full_version: 16.93.25011212
-  last_updated: January 12, 2025
+  short_version: 16.93.1 (25011917)
+  full_version: 16.93.25011917
+  last_updated: January 19, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.93.25011212_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.93.25011212_Updater.pkg
-  sha1: d4a2c0c2e46c57f9268f8ee2200d853c3f97b7a2
-  sha256: d37ed5cbc91ceb8cf2568f27006b9b3954cc9fe87d212467bbdaebb882343d21
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.93.25011917_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.93.25011917_Updater.pkg
+  sha1: 1d7eead541a90e2561d8a3a49f52beb147054112
+  sha256: 7035269556253fc590cd6e16207fdb32ef943c9a62672327ff918c61f2cc8e6c
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
@@ -66,7 +66,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 24.244.1204
   full_version: '1204.0003'
-  last_updated: January 20, 2025 10:39 AM EST
+  last_updated: January 20, 2025 01:42 PM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg

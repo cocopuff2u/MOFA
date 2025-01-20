@@ -22,7 +22,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 20, 2025 01:44 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 20, 2025 04:38 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Product Package** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |----------------------|----------------------|--------------------------|--------------|
@@ -105,7 +105,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 20, 2025 01:44 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 20, 2025 04:39 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -123,7 +123,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 20, 2025 01:44 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 20, 2025 04:39 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -135,7 +135,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft OneDrive | `16.2.4` | com.microsoft.skydrive | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/bd/1f/d2bd1f2f-ac9d-f4f3-aed8-83ba601a37b5/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
 | Link to Windows | `1.24112.78` | com.microsoft.LinkToWindows | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6f/67/216f6735-f10b-c9bb-94cc-ee4e5a394e64/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg" alt="Link to Windows" width="40"> |
 | Microsoft Defender: Security | `1.1.60100101` | com.microsoft.scmx | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/af/27/71af2765-64b9-d792-5bbf-e910e3956d65/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Defender: Security" width="40"> |
-| Microsoft Edge: AI Browser | `131.2903.145` | com.microsoft.msedge | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b9/e3/19b9e339-2953-9db9-3229-182d6702f1bc/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
+| Microsoft Edge: AI Browser | `132.2957.118` | com.microsoft.msedge | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/85/0c/81850c49-046f-bb59-1938-187a5fdc3395/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
 | Microsoft Loop | `2.93` | com.microsoft.loop | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/de/d4/3aded4c4-b86c-7fc8-bb4b-899f23bdfd80/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Loop" width="40"> |
 | Microsoft Warehouse Management | `3.0.6` | com.microsoft.WarehouseManagement | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/03/5e/e8035edd-1e7f-2c48-8cb4-28f7379987d4/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Warehouse Management" width="40"> |
 | WooCommerce | `21.3` | com.automattic.woocommerce | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7a/9c/3c7a9c69-1e31-dad7-087d-113ba8172bdd/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="WooCommerce" width="40"> |
@@ -159,7 +159,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Advertising | `2.22.7` | com.microsoft.bingadsmobile | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/96/33/529633f7-5531-3a49-25d0-bf44ab6d1b24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Advertising" width="40"> |
 | Microsoft Lens: PDF Scanner | `2.77.1` | com.microsoft.officelens | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/26/fc/da26fcc9-b2c3-58d5-a2a9-894ab4a65e4b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" alt="Microsoft Lens: PDF Scanner" width="40"> |
 | Work Folders | `2.2.0` | com.microsoft.workfolders | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/46/15/ed46150c-83ff-e2bc-4caa-8b5948d65bd2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" alt="Work Folders" width="40"> |
-| Microsoft Power BI | `33.1` | com.microsoft.powerbimobile | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/f8/13/75f8130d-408c-2d08-f153-fe448121920e/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |
+| Microsoft Power BI | `33.0` | com.microsoft.powerbimobile | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6a/0d/0c6a0d65-f19c-29bf-0ee3-60ec7813f770/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |
 | Microsoft 365 Admin | `5.5.0` | com.microsoft.o365shdmobileapp | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/7e/4f/f77e4f9b-66c5-9030-5da2-5534474807a2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft 365 Admin" width="40"> |
 | Intune Company Portal | `5.2412.1` | com.microsoft.CompanyPortal | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/cc/ba/e3ccbacd-8dce-ae05-ad01-7c4fa0de40dc/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Intune Company Portal" width="40"> |
 | Azure Information Protection | `2.1.1` | com.microsoft.rms-sharing | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/92/ec/bb92ece4-b3e9-7fff-de38-a1f64c6a6b20/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg" alt="Azure Information Protection" width="40"> |

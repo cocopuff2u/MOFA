@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 20, 2025 01:42 PM EST</last_updated>
+	<last_updated>January 20, 2025 04:37 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -82,11 +82,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>January 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/0d/93/ff0d9341-fdf8-332f-d92f-3e4653296994/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 18, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/af/27/71af2765-64b9-d792-5bbf-e910e3956d65/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and improvements</releaseNotes>
-		<version>1.1.61160103</version>
+		<releaseNotes>Bug fixes and Improvements</releaseNotes>
+		<version>1.1.60100101</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>

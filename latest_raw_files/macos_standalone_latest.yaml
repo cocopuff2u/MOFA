@@ -1,4 +1,4 @@
-last_updated: January 21, 2025 10:39 AM EST
+last_updated: January 21, 2025 01:25 PM EST
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Excel (not manually specified)
@@ -64,14 +64,14 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.93.0 (25011212)
-  full_version: 16.93.25011212
-  last_updated: January 12, 2025
+  short_version: 16.93.1 (25011917)
+  full_version: 16.93.25011917
+  last_updated: January 19, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.93.25011212_Updater.pkg
+  update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.93.25011917_Updater.pkg
   latest_download: https://go.microsoft.com/fwlink/?linkid=2228621
-  sha1: 2ad6061cedc877c658b70d7af80e18916909adfc
-  sha256: ebfe3740141335632d9626ef44ed470f06acf79d56a4fa5017bcec15f1a0ff59
+  sha1: 94e34bf8c7e58b56e267808c53601916781cf53c
+  sha256: 7de7acaafc672a55c9a32352110f591309528f2efd81c6e531404ce1d14d0061
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
@@ -90,7 +90,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 24.244.1204
   full_version: '1204.0003'
-  last_updated: January 21, 2025 10:39 AM EST
+  last_updated: January 21, 2025 01:25 PM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg

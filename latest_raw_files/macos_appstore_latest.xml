@@ -15,7 +15,7 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>January 16, 2025</currentVersionReleaseDate>
+		<currentVersionReleaseDate>January 10, 2024</currentVersionReleaseDate>
 		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/df/5b/44df5bac-32c0-267d-473d-73469cf19a34/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Widgets are now here in Mac! Add a widget to your desktop to quickly view your most recent files.

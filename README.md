@@ -22,7 +22,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 21, 2025 04:38 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 21, 2025 10:39 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Product Package** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |----------------------|----------------------|--------------------------|--------------|
@@ -105,7 +105,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 21, 2025 04:38 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 21, 2025 10:39 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -123,7 +123,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 21, 2025 04:38 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 21, 2025 10:39 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -154,7 +154,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Teams | `6.23.2` | com.microsoft.skype.teams | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/72/41/a172418f-7a32-1d6e-fd04-96e60e4ee7cc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Teams" width="40"> |
 | Microsoft SharePoint | `4.53.5` | com.microsoft.sharepoint | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/48/3f/56483fb0-9ad8-e7c4-7c88-2450df913fae/SharePointAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" alt="Microsoft SharePoint" width="40"> |
 | Dynamics 365 Business Central | `4.0.9292` | com.microsoft.dynamics.ProjectMadeira | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/18/ad/5618ad08-9054-c975-1517-43d29b51827c/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg" alt="Dynamics 365 Business Central" width="40"> |
-| Power Apps | `3.25011.6` | com.microsoft.msapps | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/2b/47/082b4714-6df2-a64e-bc62-4df7fa58e78b/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Power Apps" width="40"> |
+| Power Apps | `3.25012.10` | com.microsoft.msapps | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/5c/bb/6a5cbb67-04d2-3d9e-a96a-5b5aa3044ccd/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Power Apps" width="40"> |
 | Microsoft Authenticator | `6.8.20` | com.microsoft.azureauthenticator | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/9f/f9/cc9ff964-ad76-4a7a-b27a-5f4344de2373/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Authenticator" width="40"> |
 | Microsoft Advertising | `2.22.7` | com.microsoft.bingadsmobile | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/96/33/529633f7-5531-3a49-25d0-bf44ab6d1b24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Advertising" width="40"> |
 | Microsoft Lens: PDF Scanner | `2.77.1` | com.microsoft.officelens | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/26/fc/da26fcc9-b2c3-58d5-a2a9-894ab4a65e4b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" alt="Microsoft Lens: PDF Scanner" width="40"> |

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 22, 2025 07:58 AM EST</last_updated>
+    <last_updated>January 22, 2025 10:40 AM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -78,12 +78,12 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.244.1204</short_version>
         <full_version>1204.0003</full_version>
-        <last_updated>January 22, 2025 07:58 AM EST</last_updated>
+        <last_updated>January 22, 2025 10:40 AM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</latest_download>
         <sha1>73227e51c1b4e067faac6537fd0f0fbcec078261</sha1>
-        <sha256>N/A</sha256>
+        <sha256>c4fab7d26a75822ba7633536a3185e3302355d5d6b11839ba690fc4317535301</sha256>
     </package>
     <package>
         <name>Skype</name>

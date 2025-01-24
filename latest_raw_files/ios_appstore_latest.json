@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 23, 2025 08:56 PM EST",
+    "last_updated": "January 23, 2025 10:40 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -255,11 +255,11 @@
             "name": "iOS Microsoft Sharepoint",
             "application_name": "Microsoft SharePoint",
             "bundleId": "com.microsoft.sharepoint",
-            "currentVersionReleaseDate": "January 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/b2/a6/65b2a607-fd2a-9f01-d654-a182882cdcb6/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 19, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/48/3f/56483fb0-9ad8-e7c4-7c88-2450df913fae/SharePointAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Stability improvements and fixes.",
-            "version": "4.54.0"
+            "version": "4.53.5"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Business Central",

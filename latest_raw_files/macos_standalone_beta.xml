@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 24, 2025 04:38 AM EST</last_updated>
+    <last_updated>January 24, 2025 07:57 AM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -78,7 +78,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.244.1204</short_version>
         <full_version>1204.0003</full_version>
-        <last_updated>January 24, 2025 04:38 AM EST</last_updated>
+        <last_updated>January 24, 2025 07:57 AM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</latest_download>
@@ -104,14 +104,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>25016.1902.3370.3350</short_version>
-        <full_version>25016.1902.3370.3350</full_version>
-        <last_updated>January 21, 2025</last_updated>
+        <short_version>25016.1903.3376.8975</short_version>
+        <full_version>25016.1903.3376.8975</full_version>
+        <last_updated>January 23, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://statics.teams.cdn.office.net/production-osx/25016.1902.3370.3350/MicrosoftTeams.pkg</update_download>
-        <latest_download>https://statics.teams.cdn.office.net/production-osx/25016.1902.3370.3350/MicrosoftTeams.pkg</latest_download>
-        <sha1>72ccc6c2294030e51e223973528099adefaa84a6</sha1>
-        <sha256>b419910b21b9e0fe0bf129bf63c5efb0638ba7f857b44cd39cbe00557ed82755</sha256>
+        <update_download>https://statics.teams.cdn.office.net/production-osx/25016.1903.3376.8975/MicrosoftTeams.pkg</update_download>
+        <latest_download>https://statics.teams.cdn.office.net/production-osx/25016.1903.3376.8975/MicrosoftTeams.pkg</latest_download>
+        <sha1>ec6106ed7b9553994f289f664579062aed2e76f1</sha1>
+        <sha256>c1135b5bc11bf10e2c2eaa4e8d22d573bda95c983754169dc50fcf68e8e4cbcc</sha256>
     </package>
     <package>
         <name>Intune</name>

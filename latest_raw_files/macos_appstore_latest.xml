@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 23, 2025 08:56 PM EST</last_updated>
+	<last_updated>January 23, 2025 10:39 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,12 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>January 23, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/6b/3b/da6b3bb7-9474-04b3-6483-aac205c33433/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/df/5b/44df5bac-32c0-267d-473d-73469cf19a34/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.93.1</version>
+		<releaseNotes>• Widgets are now here in Mac! Add a widget to your desktop to quickly view your most recent files.
+• New regular expression worksheet functions: RegexExtract, RegexTest, RegexReplace; Added Regex match mode for XMatch and XLookup.</releaseNotes>
+		<version>16.93</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
@@ -35,11 +36,11 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>January 23, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/14/e1/fb14e1e4-c979-3c5b-3ceb-b46f2dd4ac6d/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/35/ab/4935abd6-389e-cfd4-2d0e-ede5bb1f57df/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Quality and performance improvements</releaseNotes>
-		<version>16.93.1</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.93</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

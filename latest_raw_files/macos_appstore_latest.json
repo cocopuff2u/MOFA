@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 23, 2025 04:37 PM EST",
+    "last_updated": "January 23, 2025 08:56 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -15,11 +15,11 @@
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "January 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/df/5b/44df5bac-32c0-267d-473d-73469cf19a34/XCEL.png/512x512bb.png",
+            "currentVersionReleaseDate": "January 23, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/6b/3b/da6b3bb7-9474-04b3-6483-aac205c33433/XCEL.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Widgets are now here in Mac! Add a widget to your desktop to quickly view your most recent files.\n\u2022 New regular expression worksheet functions: RegexExtract, RegexTest, RegexReplace; Added Regex match mode for XMatch and XLookup.",
-            "version": "16.93"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "16.93.1"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
@@ -35,11 +35,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "January 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/35/ab/4935abd6-389e-cfd4-2d0e-ede5bb1f57df/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "January 23, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/14/e1/fb14e1e4-c979-3c5b-3ceb-b46f2dd4ac6d/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.93"
+            "releaseNotes": "\u2022 Quality and performance improvements",
+            "version": "16.93.1"
         },
         {
             "name": "MacOS Microsoft OneNote",

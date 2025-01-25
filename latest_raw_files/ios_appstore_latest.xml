@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 25, 2025 01:40 PM EST</last_updated>
+	<last_updated>January 25, 2025 04:37 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -72,11 +72,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Link to Windows</application_name>
 		<bundleId>com.microsoft.LinkToWindows</bundleId>
-		<currentVersionReleaseDate>December 16, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6f/67/216f6735-f10b-c9bb-94cc-ee4e5a394e64/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ab/a0/41aba037-7449-497c-2d78-c1136e443c12/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.6</minimumOsVersion>
 		<releaseNotes>Now you can seamlessly share files between your PC and iPhone. You can set up file sharing by linking your iPhone to your Microsoft account.</releaseNotes>
-		<version>1.24112.78</version>
+		<version>1.25011.23</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Defender Security</name>

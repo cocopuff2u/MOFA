@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 24, 2025 04:37 PM EST",
+    "last_updated": "January 24, 2025 08:50 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -106,7 +106,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "24.244.1204",
             "full_version": "1204.0003",
-            "last_updated": "January 24, 2025 04:37 PM EST",
+            "last_updated": "January 24, 2025 08:50 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
@@ -160,14 +160,14 @@
             "application_id": "EDGE01",
             "application_name": "Microsoft Edge.app",
             "CFBundleVersion": "com.microsoft.edgemac",
-            "short_version": "132.0.2957.115",
-            "full_version": "132.2957.250116115",
-            "last_updated": "January 17, 2025",
+            "short_version": "132.0.2957.127",
+            "full_version": "132.2957.250123127",
+            "last_updated": "January 24, 2025",
             "min_os": "11.0",
-            "update_download": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.115.pkg",
+            "update_download": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.127.pkg",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2093504",
-            "sha1": "9d1b8219bf76d84a52fe14ac8cad4c58f7d8514b",
-            "sha256": "8575a36cf7ec619d08dd8c5c19378c461b3d4e56134d4c9c43b8611ecd2d4275"
+            "sha1": "200586712a520e8d8d9297444816e2f11797c781",
+            "sha256": "dc5d6fc311d0a93dc9a665051738c5f855c95e24ae49d5696c68148f14daa97e"
         },
         {
             "name": "Defender For Endpoint",

@@ -22,7 +22,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 25, 2025 04:38 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 25, 2025 10:37 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Product Package** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |----------------------|----------------------|--------------------------|--------------|
@@ -105,7 +105,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 25, 2025 04:38 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 25, 2025 10:37 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -123,7 +123,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 25, 2025 04:38 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 25, 2025 10:37 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -132,7 +132,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft PowerPoint | `2.93` | com.microsoft.Office.Powerpoint | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/5d/71/825d714b-2208-64ab-8ab9-b2caf49e6d5d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `4.2502.0` | com.microsoft.Office.Outlook | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/c5/b7/29c5b7fd-4eac-fcef-e849-1cf6154f3993/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Outlook" width="40"> |
 | Microsoft OneNote | `16.93` | com.microsoft.onenote | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/54/a0/6f54a0b6-3323-514c-ea90-89ac8de8fb73/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft OneNote" width="40"> |
-| Microsoft OneDrive | `16.3.3` | com.microsoft.skydrive | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/ce/68/2fce68dd-a4e7-c719-014a-bea484351794/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
+| Microsoft OneDrive | `16.3.5` | com.microsoft.skydrive | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/03/16/960316f4-573d-6f3f-b1cb-d139acadac76/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
 | Link to Windows | `1.24112.78` | com.microsoft.LinkToWindows | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6f/67/216f6735-f10b-c9bb-94cc-ee4e5a394e64/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg" alt="Link to Windows" width="40"> |
 | Microsoft Defender: Security | `1.1.61160103` | com.microsoft.scmx | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/0d/93/ff0d9341-fdf8-332f-d92f-3e4653296994/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Defender: Security" width="40"> |
 | Microsoft Edge: AI Browser | `132.2957.122` | com.microsoft.msedge | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/96/44/5096447c-e41b-e63d-c808-9bd42af0e37d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |

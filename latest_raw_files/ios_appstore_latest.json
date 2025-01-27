@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 27, 2025 10:36 AM EST",
+    "last_updated": "January 27, 2025 01:44 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -135,11 +135,11 @@
             "name": "iOS Microsoft Lists",
             "application_name": "Microsoft Lists",
             "bundleId": "com.microsoft.splists",
-            "currentVersionReleaseDate": "January 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/14/b4/2414b423-7fa6-78dd-d73a-269458ccb0fa/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "17.0",
-            "releaseNotes": "This update contains bug fixes and stability improvements.\n\nThis version of Lists supports iOS/iPadOS versions 17 or newer\n\nThis wouldn't be possible without your feedback. If you run into any issues, please shake your device and tap \"Report a Problem\".",
-            "version": "2.21.5"
+            "currentVersionReleaseDate": "November 13, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/79/42/9a794270-c238-2f2b-ef99-06976c577d8c/ListsAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "This update contains bug fixes and stability improvements.\n\nWe would like to let our users know that we are planning on dropping support for the Lists app on iOS 16 and iPadOS 16 versions soon. Please ensure you're on one of the later versions of iOS/iPadOS (17 or 18) to make sure you're still able to access the latest version of the Lists app.\n\n\nThis wouldn't be possible without your feedback. If you run into any issues, please shake your device and tap \"Report a Problem.\"",
+            "version": "2.20.2"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Field Service",

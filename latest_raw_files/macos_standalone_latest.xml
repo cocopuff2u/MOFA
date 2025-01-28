@@ -1,33 +1,33 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 28, 2025 04:37 PM EST</last_updated>
+    <last_updated>January 28, 2025 05:20 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
-        <application_id>Data sourced from Excel (not manually specified)</application_id>
-        <application_name>Data sourced from Excel (not manually specified)</application_name>
+        <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
+        <application_name>Data sourced from Outlook (CurrentThrottle) </application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.93.1 (25011917)</short_version>
-        <full_version>16.93.25011917</full_version>
-        <last_updated>January 19, 2025</last_updated>
+        <short_version>16.93.0 (25011212)</short_version>
+        <full_version>16.93.25011212</full_version>
+        <last_updated>January 12, 2025</last_updated>
         <min_os>13.0</min_os>
         <update_download>N/A</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=525133</latest_download>
-        <sha1>eb9d05c89340e99f42c6bcd400ebd03ca6559776</sha1>
-        <sha256>b84fd4c556725657b48f02f95993b472cce9d88d3f8105d6b4f65bf73e330dc8</sha256>
+        <sha1>N/A</sha1>
+        <sha256>N/A</sha256>
     </package>
     <package>
         <name>Microsoft BusinessPro Suite</name>
         <application_id>Data sourced from Excel (not manually specified)</application_id>
         <application_name>Data sourced from Excel (not manually specified)</application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.93.1 (25011917)</short_version>
-        <full_version>16.93.25011917</full_version>
-        <last_updated>January 19, 2025</last_updated>
+        <short_version>16.93.0 (25011212)</short_version>
+        <full_version>16.93.25011212</full_version>
+        <last_updated>January 12, 2025</last_updated>
         <min_os>13.0</min_os>
         <update_download>N/A</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=2009112</latest_download>
-        <sha1>b96a61b242538e61183f269d8d8757522de6d50b</sha1>
-        <sha256>6a909397d37078c7a29d60c02cb67dd5148969449fd5943f39bc13d74e2bba72</sha256>
+        <sha1>N/A</sha1>
+        <sha256>N/A</sha256>
     </package>
     <package>
         <name>Word</name>
@@ -106,12 +106,12 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.244.1204</short_version>
         <full_version>1204.0003</full_version>
-        <last_updated>January 28, 2025 04:37 PM EST</last_updated>
+        <last_updated>January 28, 2025 05:20 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</latest_download>
-        <sha1>73227e51c1b4e067faac6537fd0f0fbcec078261</sha1>
-        <sha256>c4fab7d26a75822ba7633536a3185e3302355d5d6b11839ba690fc4317535301</sha256>
+        <sha1>N/A</sha1>
+        <sha256>N/A</sha256>
     </package>
     <package>
         <name>Skype</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 28, 2025 05:20 PM EST",
+    "last_updated": "January 28, 2025 05:27 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -12,8 +12,8 @@
             "min_os": "13.0",
             "update_download": "N/A",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=525133",
-            "sha1": "N/A",
-            "sha256": "N/A"
+            "sha1": "eb9d05c89340e99f42c6bcd400ebd03ca6559776",
+            "sha256": "b84fd4c556725657b48f02f95993b472cce9d88d3f8105d6b4f65bf73e330dc8"
         },
         {
             "name": "Microsoft BusinessPro Suite",
@@ -26,8 +26,8 @@
             "min_os": "13.0",
             "update_download": "N/A",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
-            "sha1": "N/A",
-            "sha256": "N/A"
+            "sha1": "b96a61b242538e61183f269d8d8757522de6d50b",
+            "sha256": "6a909397d37078c7a29d60c02cb67dd5148969449fd5943f39bc13d74e2bba72"
         },
         {
             "name": "Word",
@@ -106,12 +106,12 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "24.244.1204",
             "full_version": "1204.0003",
-            "last_updated": "January 28, 2025 05:20 PM EST",
+            "last_updated": "January 28, 2025 05:27 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
-            "sha1": "N/A",
-            "sha256": "N/A"
+            "sha1": "73227e51c1b4e067faac6537fd0f0fbcec078261",
+            "sha256": "c4fab7d26a75822ba7633536a3185e3302355d5d6b11839ba690fc4317535301"
         },
         {
             "name": "Skype",

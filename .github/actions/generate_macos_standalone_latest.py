@@ -41,12 +41,12 @@ logging.info(f"Current date and time: {last_update_date_time}")
 # Define app-specific configurations
 apps = {
     "Microsoft Office Suite": {
-        "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409XCEL2019.xml",
+        "url": "https://officecdnmac.microsoft.com/pr/A1E15C18-4D18-40B0-8577-616A9470BB10/MacAutoUpdate/0409OPIM2019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.office",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=525133",
-            "application_id": "Data sourced from Excel (not manually specified)",
-            "application_name": "Data sourced from Excel (not manually specified)",
+            "application_id": "Data sourced from Outlook (CurrentThrottle)",
+            "application_name": "Data sourced from Outlook (CurrentThrottle) ",
         },
         "keys": {
             "short_version": "Title",
@@ -57,7 +57,7 @@ apps = {
         }
     },
     "Microsoft BusinessPro Suite": {
-        "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409XCEL2019.xml",
+        "url": "https://officecdnmac.microsoft.com/pr/A1E15C18-4D18-40B0-8577-616A9470BB10/MacAutoUpdate/0409OPIM2019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.office",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
@@ -389,6 +389,9 @@ root = ET.Element("latest")
 last_update_element = ET.SubElement(root, "last_updated")
 last_update_element.text = last_update_date_time  # Value from get_current_date_time()
 
+# Variable to skip SHA1 and SHA256 checks for testing purposes
+skip_sha_checks = False
+
 # Function to read existing XML data from macos_standalone_latest.xml
 def read_existing_xml(filename):
     if not os.path.exists(filename):
@@ -465,22 +468,30 @@ def fetch_and_process(app_name, config):
             else:
                 logging.info(f"Update detected for {app_name}.")
                 # Use existing SHA values if they are present and not "N/A"
-                if extracted_data.get("sha1", "N/A") == "N/A":
+                if skip_sha_checks or extracted_data.get("sha1", "N/A") == "N/A":
+                    extracted_data["sha1"] = "N/A"
+                else:
                     download_url = extracted_data.get("latest_download")
                     logging.info(f"Download URL for SHA1: {download_url}")
                     extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
-                if extracted_data.get("sha256", "N/A") == "N/A":
+                if skip_sha_checks or extracted_data.get("sha256", "N/A") == "N/A":
+                    extracted_data["sha256"] = "N/A"
+                else:
                     download_url = extracted_data.get("latest_download")
                     logging.info(f"Download URL for SHA256: {download_url}")
                     extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
                 add_to_combined_xml(app_name, extracted_data)
         else:
             logging.info(f"New app {app_name} detected.")
-            download_url = extracted_data.get("latest_download")
-            logging.info(f"Download URL for SHA1: {download_url}")
-            extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
-            logging.info(f"Download URL for SHA256: {download_url}")
-            extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
+            if skip_sha_checks:
+                extracted_data["sha1"] = "N/A"
+                extracted_data["sha256"] = "N/A"
+            else:
+                download_url = extracted_data.get("latest_download")
+                logging.info(f"Download URL for SHA1: {download_url}")
+                extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
+                logging.info(f"Download URL for SHA256: {download_url}")
+                extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
             add_to_combined_xml(app_name, extracted_data)
 
     except Exception as e:

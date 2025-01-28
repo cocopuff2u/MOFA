@@ -467,30 +467,24 @@ def fetch_and_process(app_name, config):
                 add_to_combined_xml(app_name, existing_app_data)
             else:
                 logging.info(f"Update detected for {app_name}.")
-                # Use existing SHA values if they are present and not "N/A"
-                if skip_sha_checks or extracted_data.get("sha1", "N/A") == "N/A":
+                # Ensure SHA values are computed
+                if skip_sha_checks:
                     extracted_data["sha1"] = "N/A"
-                else:
-                    download_url = extracted_data.get("latest_download")
-                    logging.info(f"Download URL for SHA1: {download_url}")
-                    extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
-                if skip_sha_checks or extracted_data.get("sha256", "N/A") == "N/A":
                     extracted_data["sha256"] = "N/A"
                 else:
                     download_url = extracted_data.get("latest_download")
-                    logging.info(f"Download URL for SHA256: {download_url}")
+                    extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
                     extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
                 add_to_combined_xml(app_name, extracted_data)
         else:
             logging.info(f"New app {app_name} detected.")
+            # Ensure SHA values are computed
             if skip_sha_checks:
                 extracted_data["sha1"] = "N/A"
                 extracted_data["sha256"] = "N/A"
             else:
                 download_url = extracted_data.get("latest_download")
-                logging.info(f"Download URL for SHA1: {download_url}")
                 extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
-                logging.info(f"Download URL for SHA256: {download_url}")
                 extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
             add_to_combined_xml(app_name, extracted_data)
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 27, 2025 08:55 PM EST</last_updated>
+	<last_updated>January 27, 2025 10:39 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -146,16 +146,15 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Lists</name>
 		<application_name>Microsoft Lists</application_name>
 		<bundleId>com.microsoft.splists</bundleId>
-		<currentVersionReleaseDate>November 13, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/79/42/9a794270-c238-2f2b-ef99-06976c577d8c/ListsAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
+		<currentVersionReleaseDate>January 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/14/b4/2414b423-7fa6-78dd-d73a-269458ccb0fa/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update contains bug fixes and stability improvements.
 
-We would like to let our users know that we are planning on dropping support for the Lists app on iOS 16 and iPadOS 16 versions soon. Please ensure you're on one of the later versions of iOS/iPadOS (17 or 18) to make sure you're still able to access the latest version of the Lists app.
+This version of Lists supports iOS/iPadOS versions 17 or newer
 
-
-This wouldn't be possible without your feedback. If you run into any issues, please shake your device and tap &quot;Report a Problem.&quot;</releaseNotes>
-		<version>2.20.2</version>
+This wouldn't be possible without your feedback. If you run into any issues, please shake your device and tap &quot;Report a Problem&quot;.</releaseNotes>
+		<version>2.21.5</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>
@@ -277,11 +276,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>January 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/69/6e/bf696e6b-64d5-2675-220d-47dc39dd72d2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/59/b7/b459b78e-fc49-5b74-6ad9-5a85499e23d4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.1.0</version>
+		<version>7.1.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>

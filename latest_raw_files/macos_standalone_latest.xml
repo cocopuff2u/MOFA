@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 28, 2025 10:39 AM EST</last_updated>
+    <last_updated>January 28, 2025 01:44 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Excel (not manually specified)</application_id>
@@ -62,25 +62,25 @@
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.93.0 (25011212)</short_version>
-        <full_version>16.93.25011212</full_version>
-        <last_updated>January 12, 2025</last_updated>
+        <short_version>16.93.2 (25012611)</short_version>
+        <full_version>16.93.25012611</full_version>
+        <last_updated>January 26, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.93.25011212_Updater.pkg</update_download>
+        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.93.25012611_Updater.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=525136</latest_download>
-        <sha1>60f4fc1954b8a807accf637bf1a76f3ff8e19135</sha1>
-        <sha256>fe0214886ddedf997e3d1ee8be429a579084e503cab76cc76a5f09c109c31a49</sha256>
+        <sha1>5dd2383d5e1877580d47f0a0c627a02524b373ee</sha1>
+        <sha256>45d0e5394ee4f60b3d4ceada287e3195e2a0eaa96a25aa99b6d4df95caa12f7d</sha256>
     </package>
     <package>
         <name>Outlook</name>
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.93.1 (25011917)</short_version>
-        <full_version>16.93.25011917</full_version>
-        <last_updated>January 19, 2025</last_updated>
+        <short_version>16.93.2 (25012611)</short_version>
+        <full_version>16.93.25012611</full_version>
+        <last_updated>January 26, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.93.25011917_Updater.pkg</update_download>
+        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.93.25012611_Updater.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=2228621</latest_download>
         <sha1>94e34bf8c7e58b56e267808c53601916781cf53c</sha1>
         <sha256>7de7acaafc672a55c9a32352110f591309528f2efd81c6e531404ce1d14d0061</sha256>
@@ -106,7 +106,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>24.244.1204</short_version>
         <full_version>1204.0003</full_version>
-        <last_updated>January 28, 2025 10:39 AM EST</last_updated>
+        <last_updated>January 28, 2025 01:44 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg</latest_download>
@@ -174,25 +174,25 @@
         <application_id>WDAV00</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
-        <short_version>101.24092.0004</short_version>
-        <full_version>101.24092.0004</full_version>
-        <last_updated>October 16, 2024</last_updated>
+        <short_version>101.24102.0018</short_version>
+        <full_version>101.24102.0018</full_version>
+        <last_updated>December 04, 2024</last_updated>
         <min_os>12.0</min_os>
         <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=2097502</latest_download>
-        <sha1>608924df7fc20e3f0c782f1c293a039e00f08b35</sha1>
-        <sha256>1c2afefa61b76d203cd5183c2f019e8345cf2b299b6179a9df483e5ed57bac5f</sha256>
+        <sha1>a4e296de1f3fe18b78918b9337788a70ebdfe616</sha1>
+        <sha256>3e8e4326daecc1cb015b7041f93457756d4f91c228fa501e2a046eec6603b09a</sha256>
     </package>
     <package>
         <name>Defender for Consumers</name>
         <application_id>WDAVCONSUMER</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
-        <short_version>101.24092.0004</short_version>
-        <full_version>101.24092.0004</full_version>
-        <last_updated>October 16, 2024</last_updated>
+        <short_version>101.24102.0018</short_version>
+        <full_version>101.24102.0018</full_version>
+        <last_updated>December 04, 2024</last_updated>
         <min_os>12.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.24092.0004_Individuals_Installer.pkg</update_download>
+        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.24102.0018_Individuals_Installer.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=2247001</latest_download>
         <sha1>4bb93eaaff4054f9d07511c25d99f76834ec55ec</sha1>
         <sha256>957e6ed878f595347d759bbeda9e0edebbbe904b8b8858216d6db03c0faec1bf</sha256>
@@ -286,13 +286,13 @@
         <application_id>MSRH01</application_id>
         <application_name>Microsoft Remote Help.app</application_name>
         <CFBundleVersion>com.microsoft.remotehelp</CFBundleVersion>
-        <short_version>1.0.2411113</short_version>
-        <full_version>1.0.2411113</full_version>
-        <last_updated>November 12, 2024</last_updated>
+        <short_version>1.0.2501211</short_version>
+        <full_version>1.0.2501211</full_version>
+        <last_updated>January 24, 2025</last_updated>
         <min_os>12.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2411113_updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2411113_updater.pkg</latest_download>
-        <sha1>259da45d79ba21c4988138ed6471ad7f26d8ec74</sha1>
-        <sha256>0fb298a8cbf6d58a9846b639e1b8581085993f184fbc823448ef5d6bbb4467b6</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2501211_updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2501211_updater.pkg</latest_download>
+        <sha1>304f3a4247c99d016df8734fa5d8524591ac1b14</sha1>
+        <sha256>8ffe881653742ce83ebaf60636906f7f47596569e2c36d71aa33f6c85f70536e</sha256>
     </package>
 </latest>

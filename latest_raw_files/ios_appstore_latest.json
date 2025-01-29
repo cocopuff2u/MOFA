@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 29, 2025 02:34 AM EST",
+    "last_updated": "January 29, 2025 03:39 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "January 28, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/b5/c6/6fb5c626-b8dd-5666-7754-17f672dc7b66/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 21, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c8/5d/1fc85d4a-a9fe-cd53-caf3-3dc155ea303a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We've improved the stability of Viva Engage in this release. We hope you enjoy it!",
-            "version": "10.89.0"
+            "version": "10.88.0"
         },
         {
             "name": "iOS Microsoft Whiteboard",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 29, 2025 06:34 PM EST",
+    "last_updated": "January 29, 2025 08:53 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -78,7 +78,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "24.244.1204",
             "full_version": "1204.0003",
-            "last_updated": "January 29, 2025 06:34 PM EST",
+            "last_updated": "January 29, 2025 08:53 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
@@ -104,14 +104,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "25007.203.3361.6689",
-            "full_version": "25007.203.3361.6689",
-            "last_updated": "January 16, 2025",
-            "min_os": "12.0",
-            "update_download": "https://statics.teams.cdn.office.net/production-osx/25007.203.3361.6689/MicrosoftTeams.pkg",
-            "latest_download": "https://statics.teams.cdn.office.net/production-osx/25007.203.3361.6689/MicrosoftTeams.pkg",
-            "sha1": "5d5864cd9bb460dba28d6e4349bcd871d78c2a7a",
-            "sha256": "7b4082888017784837ab1ae155e6d1320a0176c45c6cc4928589fad1971d7d9a"
+            "short_version": "25016.1903.3376.8975",
+            "full_version": "25016.1903.3376.8975",
+            "last_updated": "January 23, 2025",
+            "min_os": "13.0",
+            "update_download": "https://statics.teams.cdn.office.net/production-osx/25016.1903.3376.8975/MicrosoftTeams.pkg",
+            "latest_download": "https://statics.teams.cdn.office.net/production-osx/25016.1903.3376.8975/MicrosoftTeams.pkg",
+            "sha1": "ec6106ed7b9553994f289f664579062aed2e76f1",
+            "sha256": "c1135b5bc11bf10e2c2eaa4e8d22d573bda95c983754169dc50fcf68e8e4cbcc"
         },
         {
             "name": "Intune",

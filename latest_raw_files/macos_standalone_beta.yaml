@@ -1,4 +1,4 @@
-last_updated: January 30, 2025 01:41 AM EST
+last_updated: January 30, 2025 02:34 AM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -66,7 +66,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 24.244.1204
   full_version: '1204.0003'
-  last_updated: January 30, 2025 01:41 AM EST
+  last_updated: January 30, 2025 02:34 AM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg
@@ -124,26 +124,26 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.24122.0004
-  full_version: 101.24122.0004
-  last_updated: January 09, 2025
+  short_version: 101.24122.0005
+  full_version: 101.24122.0005
+  last_updated: January 30, 2025
   min_os: '12.0'
   update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg
-  sha1: b14e0b8d0050aa17e7dfa9ae1e16ce8ad6c5bb8d
-  sha256: bbabe08076b6592e3be157fd04a1dd1bb573a938cd237c62d2cd7bcded4d8085
+  sha1: 964f72dbbc5638cfe7f7a9a83d3e66d6cc4fefa4
+  sha256: 0ae407e42b4423090fb1393b28864346c3ce0048de8eccaef058355f213633b2
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.24122.0004
-  full_version: 101.24122.0004
-  last_updated: January 09, 2025
+  short_version: 101.24122.0005
+  full_version: 101.24122.0005
+  last_updated: January 30, 2025
   min_os: '12.0'
-  update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.24122.0004_Individuals_Installer.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.24122.0004_Individuals_Installer.pkg
-  sha1: bb8ceb768761eeab53428bca06ed4854609aa16f
-  sha256: a50a368a00ab6c5cadb0ae3508f572313d960ccee60bfed4173d867692d299d1
+  update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.24122.0005_Individuals_Installer.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.24122.0005_Individuals_Installer.pkg
+  sha1: 69b96ee67fe026db8f7d1b05d84a4aa37380a921
+  sha256: cb65fc4c1bf805a0ca80e72ab1050010204f26b55cec24727c4d18e6f4fc4793
 - name: Defender Shim
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app

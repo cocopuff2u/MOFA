@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 30, 2025 06:34 PM EST",
+    "last_updated": "January 30, 2025 08:55 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -78,7 +78,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "24.244.1204",
             "full_version": "1204.0003",
-            "last_updated": "January 30, 2025 06:34 PM EST",
+            "last_updated": "January 30, 2025 08:55 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
@@ -132,14 +132,14 @@
             "application_id": "EDGE01",
             "application_name": "Microsoft Edge.app",
             "CFBundleVersion": "com.microsoft.edgemac",
-            "short_version": "132.0.2957.127",
-            "full_version": "132.2957.250123127",
-            "last_updated": "January 24, 2025",
+            "short_version": "132.0.2957.140",
+            "full_version": "132.2957.250130140",
+            "last_updated": "January 30, 2025",
             "min_os": "11.0",
-            "update_download": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.127.pkg",
-            "latest_download": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.127.pkg",
-            "sha1": "bbd20f8dc93150f798b387ee18ae3c0062513483",
-            "sha256": "b1b4c8370ccbd42612fe3dd35d479c58dbbf634d1add39c7bc8ff376f34097a9"
+            "update_download": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg",
+            "latest_download": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg",
+            "sha1": "943c5073e4d31b4f2c1e70c203aa4d04cae314a3",
+            "sha256": "ca4fd35b4d902f2a60c3150898e9f1f82d2ca9f6270e91b7734fcc8157f39df6"
         },
         {
             "name": "Defender For Endpoint",

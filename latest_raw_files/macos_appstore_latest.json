@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 31, 2025 09:36 AM EST",
+    "last_updated": "January 31, 2025 10:34 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "January 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d1/45/8dd1453e-b64b-267a-6325-abe6b4319d37/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "January 30, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/2b/be/212bbe7c-5ba5-3926-ee8c-833a86cfdcf3/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Widgets are now here in Mac! Add a widget to your desktop to quickly view your most recent files.",
-            "version": "16.93"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "16.93.2"
         },
         {
             "name": "MacOS Microsoft Outlook",

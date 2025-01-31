@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 31, 2025 01:40 PM EST</last_updated>
+    <last_updated>January 31, 2025 02:34 PM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -78,11 +78,11 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.005.0112</short_version>
         <full_version>0112.0002</full_version>
-        <last_updated>January 31, 2025 01:40 PM EST</last_updated>
+        <last_updated>January 31, 2025 02:34 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0002/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0002/OneDrive.pkg</latest_download>
-        <sha1>N/A</sha1>
+        <sha1>34c58a2d551c8dd3e09be2a9c2a152189f9cb321</sha1>
         <sha256>566ca305322889fca2013386a3ea1075d6dd61991576312252e5623d2807ea25</sha256>
     </package>
     <package>

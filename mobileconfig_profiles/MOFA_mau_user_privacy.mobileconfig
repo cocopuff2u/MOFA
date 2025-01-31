@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>SendAllTelemetryEnabled</key>
+                <false/>
+                <key>SendCriticalTelemetryEnabled</key>
+                <false/>
+                <key>AcknowledgedDataCollectionPolicy</key>
+                <string>RequiredDataOnly</string>
+                <key>PayloadType</key>
+                <string>com.microsoft.autoupdate2</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadIdentifier</key>
+                <string>com.microsoft.autoupdate2.userprivacy</string>
+                <key>PayloadUUID</key>
+                <string>A32F6F14-81DE-4997-8E53-FD20D4A768E9</string>
+            </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>This configuration profile focus on user privacy for MAU, Designed by MOFA at mofa.cocolabs.dev.</string>
+        <key>PayloadDisplayName</key>
+        <string>mau_user_privacy</string>
+        <key>PayloadIdentifier</key>
+        <string>dev.cocolabs.mofa.mau_userprivacy</string>
+        <key>PayloadOrganization</key>
+        <string>Cocolabs - MOFA</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>MAUPR-UUID-GLOBAL-71DEF16B8593</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>

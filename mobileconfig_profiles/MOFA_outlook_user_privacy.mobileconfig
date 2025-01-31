@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>SendAllTelemetryEnabled</key>
+                <false/>
+                <key>SendCriticalTelemetryEnabled</key>
+                <false/>
+                <key>PayloadType</key>
+                <string>com.microsoft.Outlook</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadIdentifier</key>
+                <string>com.microsoft.Outlook.userprivacy</string>
+                <key>PayloadUUID</key>
+                <string>16104D24-2254-4601-881F-7F9A04C83A0A</string>
+            </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>This configuration profile focus on user privacy for Outlook, Designed by MOFA at mofa.cocolabs.dev.</string>
+        <key>PayloadDisplayName</key>
+        <string>outlook_user_privacy</string>
+        <key>PayloadIdentifier</key>
+        <string>dev.cocolabs.mofa.outlook.userprivacy</string>
+        <key>PayloadOrganization</key>
+        <string>Cocolabs - MOFA</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>OUTPR-UUID-GLOBAL-7927E4E22274</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>

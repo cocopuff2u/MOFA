@@ -11,8 +11,62 @@
                 <dict>
                     <key>Application ID</key>
                     <string>MSau04</string>
-                    <key>LCID</key>
-                    <integer>1033</integer>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>3</integer>
+                </dict>
+                <key>/Applications/Microsoft Excel.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>XCEL2019</string>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>3</integer>
+                </dict>
+                <key>/Applications/Microsoft PowerPoint.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>PPT32019</string>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>3</integer>
+                </dict>
+                <key>/Applications/Microsoft Outlook.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>OPIM2019</string>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>3</integer>
+                </dict>
+                <key>/Applications/Microsoft OneNote.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>ONMC2019</string>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>3</integer>
+                </dict>
+                <key>/Applications/Microsoft Word.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>MSWD2019</string>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>3</integer>
+                </dict>
+                <key>/Applications/OneDrive.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>ONDR18</string>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>3</integer>
+                </dict>
+                <key>/Applications/Microsoft Teams.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>TEAMS21</string>
+                    <key>UpdateDeadline.DaysBeforeForcedQuit</key>
+                    <integer>3</integer>
+                </dict>
+                <key>/Applications/Microsoft Defender.app</key>
+                <dict>
+                    <key>Application ID</key>
+                    <string>WDAV00</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
                     <integer>3</integer>
                 </dict>

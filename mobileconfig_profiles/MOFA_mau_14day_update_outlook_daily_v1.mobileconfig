@@ -33,7 +33,7 @@
                     <key>Application ID</key>
                     <string>OPIM2019</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>1</integer>
                 </dict>
                 <key>/Applications/Microsoft OneNote.app</key>
                 <dict>
@@ -78,11 +78,11 @@
             <key>PayloadDisplayName</key>
             <string>Microsoft AutoUpdate</string>
             <key>PayloadIdentifier</key>
-            <string>com.microsoft.autoupdate2.14daypolicy</string>
+            <string>com.microsoft.autoupdate2.3daypolicy</string>
             <key>PayloadType</key>
             <string>com.microsoft.autoupdate2</string>
             <key>PayloadUUID</key>
-            <string>A1B2C3D4-14D1-14D1-14D1-1234567890AB</string>
+            <string>A1B2C3D4-3D3D-3D3D-1234567890CD</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>UpdateCheckFrequency</key>
@@ -92,11 +92,11 @@
             <key>UpdateDeadline.FinalCountDown</key>
             <integer>60</integer>
             <key>UpdateDeadline.StartAutomaticUpdates</key>
-            <integer>3</integer>
+            <integer>1</integer>
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>This configuration profile enforces a 14-day global forced update policy for Microsoft AutoUpdate across all applications. The profile is configured with the "Current" update channel and automatic download enabled. Designed by MOFA at mofa.cocolabs.dev.</string>
+    <string>This configuration profile enforces a 14-day global forced update, and 1-day forced update for outlook policy for Microsoft AutoUpdate across all applications. The profile is configured with the "Current" update channel and automatic download enabled. Designed by MOFA at mofa.cocolabs.dev.</string>
     <key>PayloadDisplayName</key>
     <string>mau_14_day_force_update</string>
     <key>PayloadIdentifier</key>
@@ -106,7 +106,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>14DAY-UUID-GLOBAL-9876543210AB</string>
+    <string>14DAY-UUID-GLOBAL-6D32BBBC9B20</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>

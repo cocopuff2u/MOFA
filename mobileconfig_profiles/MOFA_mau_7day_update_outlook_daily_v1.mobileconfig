@@ -12,63 +12,63 @@
                     <key>Application ID</key>
                     <string>MSau04</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>7</integer>
                 </dict>
                 <key>/Applications/Microsoft Excel.app</key>
                 <dict>
                     <key>Application ID</key>
                     <string>XCEL2019</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>7</integer>
                 </dict>
                 <key>/Applications/Microsoft PowerPoint.app</key>
                 <dict>
                     <key>Application ID</key>
                     <string>PPT32019</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>7</integer>
                 </dict>
                 <key>/Applications/Microsoft Outlook.app</key>
                 <dict>
                     <key>Application ID</key>
                     <string>OPIM2019</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>1</integer>
                 </dict>
                 <key>/Applications/Microsoft OneNote.app</key>
                 <dict>
                     <key>Application ID</key>
                     <string>ONMC2019</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>7</integer>
                 </dict>
                 <key>/Applications/Microsoft Word.app</key>
                 <dict>
                     <key>Application ID</key>
                     <string>MSWD2019</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>7</integer>
                 </dict>
                 <key>/Applications/OneDrive.app</key>
                 <dict>
                     <key>Application ID</key>
                     <string>ONDR18</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>7</integer>
                 </dict>
                 <key>/Applications/Microsoft Teams.app</key>
                 <dict>
                     <key>Application ID</key>
                     <string>TEAMS21</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>7</integer>
                 </dict>
                 <key>/Applications/Microsoft Defender.app</key>
                 <dict>
                     <key>Application ID</key>
                     <string>WDAV00</string>
                     <key>UpdateDeadline.DaysBeforeForcedQuit</key>
-                    <integer>14</integer>
+                    <integer>7</integer>
                 </dict>
             </dict>
             <key>ChannelName</key>
@@ -78,11 +78,11 @@
             <key>PayloadDisplayName</key>
             <string>Microsoft AutoUpdate</string>
             <key>PayloadIdentifier</key>
-            <string>com.microsoft.autoupdate2.14daypolicy</string>
+            <string>com.microsoft.autoupdate2.3daypolicy</string>
             <key>PayloadType</key>
             <string>com.microsoft.autoupdate2</string>
             <key>PayloadUUID</key>
-            <string>A1B2C3D4-14D1-14D1-14D1-1234567890AB</string>
+            <string>A1B2C3D4-3D3D-3D3D-1234567890CD</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>UpdateCheckFrequency</key>
@@ -92,21 +92,21 @@
             <key>UpdateDeadline.FinalCountDown</key>
             <integer>60</integer>
             <key>UpdateDeadline.StartAutomaticUpdates</key>
-            <integer>3</integer>
+            <integer>1</integer>
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>This configuration profile enforces a 14-day global forced update policy for Microsoft AutoUpdate across all applications. The profile is configured with the "Current" update channel and automatic download enabled. Designed by MOFA at mofa.cocolabs.dev.</string>
+    <string>This configuration profile enforces a 7-day global forced update, and 1-day forced update for outlook policy for Microsoft AutoUpdate across all applications. The profile is configured with the "Current" update channel and automatic download enabled. Designed by MOFA at mofa.cocolabs.dev.</string>
     <key>PayloadDisplayName</key>
-    <string>mau_14_day_force_update</string>
+    <string>mau_7_day_force_update</string>
     <key>PayloadIdentifier</key>
-    <string>dev.cocolabs.mofa.14day</string>
+    <string>dev.cocolabs.mofa.7day</string>
     <key>PayloadOrganization</key>
     <string>Cocolabs - MOFA</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>14DAY-UUID-GLOBAL-9876543210AB</string>
+    <string>7DAY-UUID-GLOBAL-B709B0C28E5C</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>

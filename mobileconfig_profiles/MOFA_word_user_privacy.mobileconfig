@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>SendAllTelemetryEnabled</key>
+                <false/>
+                <key>SendCriticalTelemetryEnabled</key>
+                <false/>
+                <key>PayloadType</key>
+                <string>com.microsoft.Word</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadIdentifier</key>
+                <string>com.microsoft.Word.userprivacy</string>
+                <key>PayloadUUID</key>
+                <string>9BD4093A-BC4D-4959-81A2-DC7FAC0730EA</string>
+            </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>This configuration profile focus on user privacy for Word, Designed by MOFA at mofa.cocolabs.dev.</string>
+        <key>PayloadDisplayName</key>
+        <string>word_user_privacy</string>
+        <key>PayloadIdentifier</key>
+        <string>dev.cocolabs.mofa.word.userprivacy</string>
+        <key>PayloadOrganization</key>
+        <string>Cocolabs - MOFA</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>WRDPR-UUID-GLOBAL-E5A86936A9F6</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>

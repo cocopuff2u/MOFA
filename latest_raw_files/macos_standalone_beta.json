@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 31, 2025 11:41 AM EST",
+    "last_updated": "January 31, 2025 01:40 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -76,14 +76,14 @@
             "application_id": "OneDrive.app",
             "application_name": "OneDrive.app",
             "CFBundleVersion": "com.microsoft.onedrive",
-            "short_version": "24.244.1204",
-            "full_version": "1204.0003",
-            "last_updated": "January 31, 2025 11:41 AM EST",
+            "short_version": "25.005.0112",
+            "full_version": "0112.0002",
+            "last_updated": "January 31, 2025 01:40 PM EST",
             "min_os": "N/A",
-            "update_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
-            "latest_download": "https://oneclient.sfx.ms/Mac/Installers/24.244.1204.0003/OneDrive.pkg",
-            "sha1": "73227e51c1b4e067faac6537fd0f0fbcec078261",
-            "sha256": "c4fab7d26a75822ba7633536a3185e3302355d5d6b11839ba690fc4317535301"
+            "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0002/OneDrive.pkg",
+            "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0002/OneDrive.pkg",
+            "sha1": "34c58a2d551c8dd3e09be2a9c2a152189f9cb321",
+            "sha256": "566ca305322889fca2013386a3ea1075d6dd61991576312252e5623d2807ea25"
         },
         {
             "name": "Skype",

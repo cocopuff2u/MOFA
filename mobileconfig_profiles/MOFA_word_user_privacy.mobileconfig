@@ -9,6 +9,8 @@
                 <false/>
                 <key>SendCriticalTelemetryEnabled</key>
                 <false/>
+                <key>SendASmileEnabled</key>
+                <false/>
                 <key>PayloadType</key>
                 <string>com.microsoft.Word</string>
                 <key>PayloadVersion</key>

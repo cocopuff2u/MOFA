@@ -22,7 +22,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 02, 2025 08:55 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 2 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 02, 2025 10:39 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 2 hours)_</sup>
 
 | **Product Package** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |----------------------|----------------------|--------------------------|--------------|
@@ -105,14 +105,14 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 02, 2025 08:55 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 02, 2025 10:39 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
 | Microsoft Word | `16.93` | com.microsoft.Word | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/9c/00/e89c00c6-5d3f-ed1a-a380-bdebe46b0dd1/MSWD.png/512x512bb.png" alt="Microsoft Word" width="40"> |
 | Microsoft Excel | `16.93.1` | com.microsoft.Excel | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/6b/3b/da6b3bb7-9474-04b3-6483-aac205c33433/XCEL.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
 | Microsoft PowerPoint | `16.93.2` | com.microsoft.Powerpoint | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/2b/be/212bbe7c-5ba5-3926-ee8c-833a86cfdcf3/PPT3.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
-| Microsoft Outlook | `16.93.1` | com.microsoft.Outlook | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/14/e1/fb14e1e4-c979-3c5b-3ceb-b46f2dd4ac6d/Outlook.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
+| Microsoft Outlook | `16.93.2` | com.microsoft.Outlook | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/b2/58/6fb258f3-a5ca-ba36-96e0-4824ddaf4afe/Outlook.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
 | Microsoft OneNote | `16.93` | com.microsoft.onenote.mac | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/24/1f/1f241f9a-2b95-0d8d-46d9-2db5fece3038/OneNote.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
 | OneDrive | `24.232.1118` | com.microsoft.OneDrive-mac | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/08/6f/a8086fc8-b996-5755-2746-552fea4e826e/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
 | Windows App | `11.0.9` | com.microsoft.rdc.macos | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/0f/71/6c0f71f7-5072-f3d2-5c0f-a3df201640da/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
@@ -123,7 +123,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 02, 2025 08:55 PM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 02, 2025 10:39 PM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

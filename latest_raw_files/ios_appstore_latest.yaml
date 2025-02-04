@@ -1,4 +1,4 @@
-last_updated: February 04, 2025 05:36 PM EST
+last_updated: February 04, 2025 06:34 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -104,15 +104,15 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: February 04, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6b/60/446b602f-4e3a-1c73-6954-aa4e83760ae9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/09/9f/a7099fd1-f0ea-40e8-68d0-16fd313c6b54/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Get ready for a smoother WooCommerce experience! This update brings\
-      \ smarter AI-powered product previews, instant dashboard stats, and improved\
-      \ email receipts for failed payments. We\u2019ve also fine-tuned order creation,\
-      \ enhanced Jetpack setups, and enabled previews for coming-soon stores. Plus,\
-      \ we\u2019ve addressed navigation, database recovery, and streamlined workflows."
-    version: '21.5'
+    releaseNotes: "This update introduces the ability to hide specific stores from\
+      \ the store picker, perfect for agencies managing multiple sites. We\u2019ve\
+      \ also enhanced plugin info fetching to handle unexpected data types, ensuring\
+      \ smoother performance. Additionally, a bug on iPad causing order creation issues\
+      \ with custom amounts has been resolved. Enjoy a more focused and reliable experience!"
+    version: '21.4'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
@@ -192,18 +192,22 @@ packages:
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
-    currentVersionReleaseDate: February 03, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b9/43/97b943d0-44fe-b87c-b893-fe054db338d8/AppIcons-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: October 31, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/b0/e2/89b0e2fd-6a83-3afa-4823-dcfbdfdb5b27/AppIcons-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '12.0'
-    releaseNotes: "\u2022 We have updated the Seeing AI interface to make it faster\
-      \ to access the features you use the most.\n\u2022 The app is split into three\
-      \ tabs:\n\u2022 Read: Provides tools for reading, combining the functionality\
-      \ of the previous Short Text, Document, and Handwriting channels.\n\u2022 Describe:\
-      \ Provides rich descriptions of your surroundings, or photos already on your\
-      \ phone. This combines the functionality of the previous Scene and Person channels.\n\
-      \u2022 More: Provides access to all the other task-specific channels.\n\u2022\
-      \ Plus, various bug fixes under the hood."
-    version: '5.5'
+    releaseNotes: "This release includes several bug fixes to make your experience\
+      \ even better.\n\nRecent improvements include:\n\n\u2022  Seeing AI can now\
+      \ describe videos! Select \"Browse Photos\" from the menu, or share an MP4 file\
+      \ with Seeing AI, and hear it described, scene-by-scene.\n\u2022 You can now\
+      \ recognize PDF documents with Seeing AI.\n\u2022 After tapping \"More Info\"\
+      \ to get a rich description of an image, you can now ask questions on the same\
+      \ screen.\n\u2022 Reduced the amount of time it takes to get a rich description,\
+      \ or answers to your questions.\n\u2022 Reduced the amount of time it takes\
+      \ to get a rich description.\n\u2022 When using a large accessibility font size,\
+      \ press and hold on toolbar items to see a large content preview.\n\u2022 On\
+      \ the Product channel, both barcodes and Enhanced QR codes can now be recognized\
+      \ at the same time.\n\u2022 Plus, various bug fixes under the hood."
+    version: '5.4'
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile
@@ -260,11 +264,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: January 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/8b/8e/ca8b8e59-c53b-29c8-bf78-abcc430248aa/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: February 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c6/42/ecc64220-b82e-4381-a2c2-bf943a109de3/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25013.12
+    version: 3.25014.13
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator

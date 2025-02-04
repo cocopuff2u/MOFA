@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 04, 2025 04:35 AM EST</last_updated>
+	<last_updated>February 04, 2025 05:39 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -126,11 +126,11 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>February 04, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6b/60/446b602f-4e3a-1c73-6954-aa4e83760ae9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/09/9f/a7099fd1-f0ea-40e8-68d0-16fd313c6b54/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Get ready for a smoother WooCommerce experience! This update brings smarter AI-powered product previews, instant dashboard stats, and improved email receipts for failed payments. We’ve also fine-tuned order creation, enhanced Jetpack setups, and enabled previews for coming-soon stores. Plus, we’ve addressed navigation, database recovery, and streamlined workflows.</releaseNotes>
-		<version>21.5</version>
+		<releaseNotes>This update introduces the ability to hide specific stores from the store picker, perfect for agencies managing multiple sites. We’ve also enhanced plugin info fetching to handle unexpected data types, ensuring smoother performance. Additionally, a bug on iPad causing order creation issues with custom amounts has been resolved. Enjoy a more focused and reliable experience!</releaseNotes>
+		<version>21.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -223,16 +223,22 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Seeing AI</name>
 		<application_name>Seeing AI</application_name>
 		<bundleId>com.microsoft.seeingai</bundleId>
-		<currentVersionReleaseDate>February 03, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b9/43/97b943d0-44fe-b87c-b893-fe054db338d8/AppIcons-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 31, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/b0/e2/89b0e2fd-6a83-3afa-4823-dcfbdfdb5b27/AppIcons-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>• We have updated the Seeing AI interface to make it faster to access the features you use the most.
-• The app is split into three tabs:
-• Read: Provides tools for reading, combining the functionality of the previous Short Text, Document, and Handwriting channels.
-• Describe: Provides rich descriptions of your surroundings, or photos already on your phone. This combines the functionality of the previous Scene and Person channels.
-• More: Provides access to all the other task-specific channels.
+		<releaseNotes>This release includes several bug fixes to make your experience even better.
+
+Recent improvements include:
+
+•  Seeing AI can now describe videos! Select &quot;Browse Photos&quot; from the menu, or share an MP4 file with Seeing AI, and hear it described, scene-by-scene.
+• You can now recognize PDF documents with Seeing AI.
+• After tapping &quot;More Info&quot; to get a rich description of an image, you can now ask questions on the same screen.
+• Reduced the amount of time it takes to get a rich description, or answers to your questions.
+• Reduced the amount of time it takes to get a rich description.
+• When using a large accessibility font size, press and hold on toolbar items to see a large content preview.
+• On the Product channel, both barcodes and Enhanced QR codes can now be recognized at the same time.
 • Plus, various bug fixes under the hood.</releaseNotes>
-		<version>5.5</version>
+		<version>5.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Planner</name>

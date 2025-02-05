@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 05, 2025 02:34 AM EST",
+    "last_updated": "February 05, 2025 03:39 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "WooCommerce",
             "bundleId": "com.automattic.woocommerce",
-            "currentVersionReleaseDate": "January 28, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/09/9f/a7099fd1-f0ea-40e8-68d0-16fd313c6b54/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6b/60/446b602f-4e3a-1c73-6954-aa4e83760ae9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "This update introduces the ability to hide specific stores from the store picker, perfect for agencies managing multiple sites. We\u2019ve also enhanced plugin info fetching to handle unexpected data types, ensuring smoother performance. Additionally, a bug on iPad causing order creation issues with custom amounts has been resolved. Enjoy a more focused and reliable experience!",
-            "version": "21.4"
+            "releaseNotes": "Get ready for a smoother WooCommerce experience! This update brings smarter AI-powered product previews, instant dashboard stats, and improved email receipts for failed payments. We\u2019ve also fine-tuned order creation, enhanced Jetpack setups, and enabled previews for coming-soon stores. Plus, we\u2019ve addressed navigation, database recovery, and streamlined workflows.",
+            "version": "21.5"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "January 28, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/b5/c6/6fb5c626-b8dd-5666-7754-17f672dc7b66/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/7c/fe/c47cfe5a-023f-1369-1aa5-eca3b5decd97/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We've improved the stability of Viva Engage in this release. We hope you enjoy it!",
-            "version": "10.89.0"
+            "version": "10.90.0"
         },
         {
             "name": "iOS Microsoft Whiteboard",

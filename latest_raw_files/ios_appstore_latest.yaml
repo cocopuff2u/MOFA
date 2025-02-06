@@ -1,4 +1,4 @@
-last_updated: February 05, 2025 08:56 PM EST
+last_updated: February 05, 2025 09:58 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -148,19 +148,19 @@ packages:
   - name: iOS Microsoft Dynamics 365 Remote Assist
     application_name: Dynamics 365 Remote Assist
     bundleId: com.microsoft.ramobile
-    currentVersionReleaseDate: February 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1e/6f/f61e6f00-e680-7d9c-236d-ad6f67196704/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: December 04, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/13/1b/65131b48-b4a8-599c-e081-dc91d63fd6bc/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '12.2'
     releaseNotes: "\u2022 Overall quality and stability improvements"
-    version: 2025.02.05
+    version: 2025.1.1
   - name: iOS Microsoft Dynamics 365 Project Timesheet
     application_name: Dynamics 365 Remote Assist
     bundleId: com.microsoft.ramobile
-    currentVersionReleaseDate: February 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1e/6f/f61e6f00-e680-7d9c-236d-ad6f67196704/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: December 04, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/13/1b/65131b48-b4a8-599c-e081-dc91d63fd6bc/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '12.2'
     releaseNotes: "\u2022 Overall quality and stability improvements"
-    version: 2025.02.05
+    version: 2025.1.1
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef

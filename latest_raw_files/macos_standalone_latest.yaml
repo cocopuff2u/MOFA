@@ -1,4 +1,4 @@
-last_updated: February 06, 2025 11:41 AM EST
+last_updated: February 06, 2025 12:36 PM EST
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -90,7 +90,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.005.0112
   full_version: '0112.0003'
-  last_updated: February 06, 2025 11:41 AM EST
+  last_updated: February 06, 2025 12:36 PM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0003/OneDrive.pkg
@@ -196,14 +196,14 @@ packages:
   application_id: N/A
   application_name: Visual Studio Code.app
   CFBundleVersion: com.microsoft.visualstudio
-  short_version: 1.96.4
-  full_version: 1.96.4
-  last_updated: January 16, 2025
+  short_version: 1.97.0
+  full_version: 1.97.0
+  last_updated: February 04, 2025
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/33fc5a94a3f99ebe7087e8fe79fbe1d37a251016/VSCode-darwin-universal.zip
   latest_download: https://go.microsoft.com/fwlink/?linkid=2156837
-  sha1: b1f9b520695cdf25f3b6553b27163ec4647db2e5
-  sha256: 3df76c5f4dad48d2cf48f651769c0f5273293022b5e61bbab5202dffc9ef9b54
+  sha1: 1ee15bc7ba8187203bb84155784bd2be980571e3
+  sha256: 470e15331be7112b76096e1d02f5cea87da753d7b9ebbfb26a5a53e639032061
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

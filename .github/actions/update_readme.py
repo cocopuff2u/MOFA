@@ -129,19 +129,17 @@ def generate_readme_content(global_last_updated, packages, ios_packages, macos_p
 
 <img src=".github/images/logo_Mofa_NoBackground.png" alt="MOFA Image" width="200">
 
-Welcome to the **MOFA** repository! This resource offers Microsoft Office downloads for macOS, comprehensive data feeds for all iOS, Mac App Store, and other Microsoft apps, along with tools and documentation links to help Mac admins manage and repair Microsoft products on Apple platforms. Feeds are automatically updated every 4 hours from XML and JSON links directly from Microsoft.
+Welcome to the **MOFA** repository! This resource offers Microsoft Office downloads for macOS, comprehensive data feeds for all iOS, Mac App Store, and other Microsoft apps, along with tools and documentation links to help Mac admins manage and repair Microsoft products on Apple platforms. Feeds are automatically updated from XML and JSON links directly from Microsoft.
 
 Building on the legacy of the now-defunct [**MacAdmins.software**](https://macadmins.software), MOFA provides a comprehensive and up-to-date solution. Special thanks to [**Paul Bowden**](https://github.com/pbowden-msft) for his exceptional contributions to the Mac Admins community.
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
+<div align="center">
+
 ### [mofa.cocolabs.dev](https://mofa.cocolabs.dev)
 
-### 🌟 **Current Focus Areas**
-
-- **⏸️ Paused:** Add `README.md` to `/guides/`
-- **⏸️ Paused:** Expanding links/documentation (Community support needed! 🆘)
-- **🚀 Future Goal:** Expanding data feeds and incorporating historical data (Pending website updates)
+</div>
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft Standalone Packages
 

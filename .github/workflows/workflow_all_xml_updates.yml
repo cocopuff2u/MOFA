@@ -1,8 +1,8 @@
-name: Auto Update XML Files Every 1:30 Hours
+name: Auto Update XML/Readme Files Every Hour
 
 on:
   schedule:
-    - cron: '30 */1 * * *' # Runs every 1 hour and 30 minutes
+    - cron: '3 */1 * * *' # Runs every 1 hour
   workflow_dispatch:
 
 jobs:
@@ -139,4 +139,18 @@ jobs:
           git config --global user.email 'cocopuff2u@yahoo.com'
           git add latest_raw_files/macos_standalone_beta.xml latest_raw_files/macos_standalone_beta.yaml latest_raw_files/macos_standalone_beta.json
           git commit -m "Auto updating macOS standalone beta XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
+      - name: Run update script for README
+        run: |
+          python3 .github/actions/update_readme.py
+
+      - name: Commit changes for README (if any)
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add README.md
+          git commit -m "Auto Updating README File" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git

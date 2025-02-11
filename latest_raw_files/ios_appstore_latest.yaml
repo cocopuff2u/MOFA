@@ -1,4 +1,4 @@
-last_updated: February 10, 2025 09:44 PM EST
+last_updated: February 10, 2025 10:18 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -104,15 +104,15 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: February 04, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6b/60/446b602f-4e3a-1c73-6954-aa4e83760ae9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/61/29/78612974-a66f-d062-2bbf-6428e3df72f0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Get ready for a smoother WooCommerce experience! This update brings\
-      \ smarter AI-powered product previews, instant dashboard stats, and improved\
-      \ email receipts for failed payments. We\u2019ve also fine-tuned order creation,\
-      \ enhanced Jetpack setups, and enabled previews for coming-soon stores. Plus,\
-      \ we\u2019ve addressed navigation, database recovery, and streamlined workflows."
-    version: '21.5'
+    releaseNotes: "Experience a refreshed WooCommerce app with an updated look that\
+      \ aligns with our new branding! We\u2019ve also improved payment reliability\u2014\
+      card reader updates now handle low battery issues better, and errors during\
+      \ payments and refunds are managed more smoothly. Enjoy a more seamless and\
+      \ polished experience in every transaction."
+    version: '21.6'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales

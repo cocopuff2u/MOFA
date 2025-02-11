@@ -1,4 +1,4 @@
-last_updated: February 11, 2025 03:18 AM EST
+last_updated: February 11, 2025 04:15 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -19,11 +19,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: January 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/5d/71/825d714b-2208-64ab-8ab9-b2caf49e6d5d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/a9/64/a9a96455-e0a6-a65e-ea9b-8758eb467da2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.93'
+    version: '2.94'
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -58,12 +58,12 @@ packages:
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows
-    currentVersionReleaseDate: February 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/26/561726dc-2225-7f30-dec9-4e08496deac0/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: January 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ab/a0/41aba037-7449-497c-2d78-c1136e443c12/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.6'
     releaseNotes: Now you can seamlessly share files between your PC and iPhone. You
       can set up file sharing by linking your iPhone to your Microsoft account.
-    version: 1.25011.25
+    version: 1.25011.23
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
@@ -75,17 +75,14 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: February 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ad/c0/7aadc0f9-074e-3e5f-7f66-249bc8df507a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/96/44/5096447c-e41b-e63d-c808-9bd42af0e37d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
-      \u2022 Introducing the New Copilot: This update includes an intuitive design\
-      \ with more digestible and faster answers.\n\u2022 PDF Summarization by Copilot:\
-      \ Get AI-powered summaries and highlights directly in your browser!\n\u2022\
-      \ New Search Box: Boost your navigation efficiency! Note: Profile is now in\
-      \ the menu.\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
-      \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 133.3065.54
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
+      \xB7 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
+      \ version and enjoy a smarter and more efficient Microsoft Edge!\n[Want early\
+      \ access to more new features? Join our Beta program at: https://testflight.apple.com/join/JkU2rh21]"
+    version: 132.2957.122
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -107,15 +104,15 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: February 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/61/29/78612974-a66f-d062-2bbf-6428e3df72f0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6b/60/446b602f-4e3a-1c73-6954-aa4e83760ae9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Experience a refreshed WooCommerce app with an updated look that\
-      \ aligns with our new branding! We\u2019ve also improved payment reliability\u2014\
-      card reader updates now handle low battery issues better, and errors during\
-      \ payments and refunds are managed more smoothly. Enjoy a more seamless and\
-      \ polished experience in every transaction."
-    version: '21.6'
+    releaseNotes: "Get ready for a smoother WooCommerce experience! This update brings\
+      \ smarter AI-powered product previews, instant dashboard stats, and improved\
+      \ email receipts for failed payments. We\u2019ve also fine-tuned order creation,\
+      \ enhanced Jetpack setups, and enabled previews for coming-soon stores. Plus,\
+      \ we\u2019ve addressed navigation, database recovery, and streamlined workflows."
+    version: '21.5'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
@@ -177,17 +174,14 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: February 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ad/c0/7aadc0f9-074e-3e5f-7f66-249bc8df507a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/96/44/5096447c-e41b-e63d-c808-9bd42af0e37d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
-      \u2022 Introducing the New Copilot: This update includes an intuitive design\
-      \ with more digestible and faster answers.\n\u2022 PDF Summarization by Copilot:\
-      \ Get AI-powered summaries and highlights directly in your browser!\n\u2022\
-      \ New Search Box: Boost your navigation efficiency! Note: Profile is now in\
-      \ the menu.\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
-      \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 133.3065.54
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
+      \xB7 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
+      \ version and enjoy a smarter and more efficient Microsoft Edge!\n[Want early\
+      \ access to more new features? Join our Beta program at: https://testflight.apple.com/join/JkU2rh21]"
+    version: 132.2957.122
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

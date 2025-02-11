@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 11, 2025 10:16 AM EST",
+    "last_updated": "February 11, 2025 11:18 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "February 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/a9/64/a9a96455-e0a6-a65e-ea9b-8758eb467da2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/5d/71/825d714b-2208-64ab-8ab9-b2caf49e6d5d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94"
+            "version": "2.93"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -195,11 +195,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "January 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/96/44/5096447c-e41b-e63d-c808-9bd42af0e37d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ad/c0/7aadc0f9-074e-3e5f-7f66-249bc8df507a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release.\n\u00b7 Bug fixes, stability and performance improvements.\nUpgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!\n[Want early access to more new features? Join our Beta program at: https://testflight.apple.com/join/JkU2rh21]",
-            "version": "132.2957.122"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:\n\u2022 Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.\n\u2022 PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!\n\u2022 New Search Box: Boost your navigation efficiency! Note: Profile is now in the menu.\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "133.3065.54"
         },
         {
             "name": "iOS Microsoft Seeing AI",

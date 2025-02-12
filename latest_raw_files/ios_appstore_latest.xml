@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 12, 2025 12:13 PM EST</last_updated>
+	<last_updated>February 12, 2025 01:19 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -188,11 +188,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>February 04, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/7c/fe/c47cfe5a-023f-1369-1aa5-eca3b5decd97/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 11, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/cb/8f/e4cb8ff3-8607-86b3-8afe-15b9839a85b1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We've improved the stability of Viva Engage in this release. We hope you enjoy it!</releaseNotes>
-		<version>10.90.0</version>
+		<version>10.91.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>
@@ -270,11 +270,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>February 03, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/52/50/e75250dd-3a52-2073-decf-55a24bca1da1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 12, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/01/76/bc017601-67cf-2a78-d2a1-21b26d42cea8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.2.0</version>
+		<version>7.2.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>

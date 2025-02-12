@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 12, 2025 08:21 AM EST",
+    "last_updated": "February 12, 2025 09:13 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -275,11 +275,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "February 12, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/b2/90/edb29013-2036-d4c7-216a-d6d44aca0428/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c6/42/ecc64220-b82e-4381-a2c2-bf943a109de3/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25021.7"
+            "version": "3.25014.13"
         },
         {
             "name": "iOS Microsoft Authenticator",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 12, 2025 02:13 AM EST</last_updated>
+	<last_updated>February 12, 2025 03:18 AM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -60,28 +60,31 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>February 12, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/ed/a6/06eda617-556e-c604-7fbf-bd887884f752/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/08/6f/a8086fc8-b996-5755-2746-552fea4e826e/OneDrive.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>25.010.0119</version>
+		<version>24.232.1118</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>January 14, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/0f/71/6c0f71f7-5072-f3d2-5c0f-a3df201640da/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>February 11, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e3/53/f4e3537d-e2f1-e9eb-3de7-a9e2523bf78d/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>It's time for an update to start the new year. Here's what we addressed in this release:
+		<releaseNotes>In this release we made the following updates:
 
-• Resolved accessibility bugs.
-• Updated Azure Gov Cloud PC connections to use the correct Authority URI.
-• Changed the default for RDS and PC Connection tiles to show the associated credential.
-• Reduced chatter with the Windows 365 backend service.
+• Hitting the ENTER key now initiates a connection to the device or app highlighted in the connection center.
+• Resolved an issue where holding SHIFT while using a mouse vertical scroll wheel did not correctly map to horizontal scrolls.
+• Only allow connections to Cloud PCs that are not processing device actions.
+• The Cloud PC notification sheet is now aware of user accounts.
+• Stored notifications associated with a user account are now removed when signing out the account.
+• Fixed translucency for notifications to pick up the correct background image.
+• Resolved an issue which prevented the client from reading the &quot;dynamic resolution&quot; RDP file property.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.0.9</version>
+		<version>11.1.0</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

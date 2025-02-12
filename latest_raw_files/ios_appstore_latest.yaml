@@ -1,4 +1,4 @@
-last_updated: February 12, 2025 12:14 AM EST
+last_updated: February 12, 2025 01:19 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -160,12 +160,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: February 04, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/7c/fe/c47cfe5a-023f-1369-1aa5-eca3b5decd97/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/cb/8f/e4cb8ff3-8607-86b3-8afe-15b9839a85b1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We've improved the stability of Viva Engage in this release. We
       hope you enjoy it!
-    version: 10.90.0
+    version: 10.91.0
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard
@@ -234,11 +234,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: February 03, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/52/50/e75250dd-3a52-2073-decf-55a24bca1da1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/01/76/bc017601-67cf-2a78-d2a1-21b26d42cea8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.2.0
+    version: 7.2.1
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
@@ -336,13 +336,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: January 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ab/3b/24ab3ba2-0702-37da-4c72-875225201c78/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/0d/ee/c10dee03-6444-5b65-f1fd-ceca60a4d630/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: The Microsoft 365 (Office) app is now the Microsoft 365 Copilot
-      app. Same productivity app with a new name and icon. Find your files, create,
-      share, and collaborate in one place available through your Microsoft 365 plan.
-    version: '2.93'
+    releaseNotes: "\u2022 Bug fixes"
+    version: '2.94'
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

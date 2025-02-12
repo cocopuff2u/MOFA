@@ -1,6 +1,32 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>February 11, 2025 06:14 PM EST</last_scan_date>
+    <last_scan_date>February 11, 2025 08:06 PM EST</last_scan_date>
+    <Update>
+        <Date>February 11, 2025</Date>
+        <Version>Version 16.94 (Build 25020927)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2025-21387</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21387</URL>
+                <CVE>CVE-2025-21390</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21390</URL>
+                <CVE>CVE-2025-21386</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21386</URL>
+                <CVE>CVE-2025-21383</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21383</URL>
+                <CVE>CVE-2025-21381</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21381</URL>
+                <CVE>CVE-2025-21394</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21394</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2025-21392</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21392</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>January 28, 2025</Date>
         <Version>Version 16.93.2 (Build 25012611)</Version>

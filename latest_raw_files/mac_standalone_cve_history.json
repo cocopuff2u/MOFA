@@ -1,6 +1,44 @@
 {
-    "last_scan_date": "February 11, 2025 06:14 PM EST",
+    "last_scan_date": "February 11, 2025 08:06 PM EST",
     "updates": [
+        {
+            "date_text": "February 11, 2025",
+            "version": "Version 16.94 (Build 25020927)",
+            "security_updates": {
+                "Excel": [
+                    {
+                        "cve_name": "CVE-2025-21387",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21387"
+                    },
+                    {
+                        "cve_name": "CVE-2025-21390",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21390"
+                    },
+                    {
+                        "cve_name": "CVE-2025-21386",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21386"
+                    },
+                    {
+                        "cve_name": "CVE-2025-21383",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21383"
+                    },
+                    {
+                        "cve_name": "CVE-2025-21381",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21381"
+                    },
+                    {
+                        "cve_name": "CVE-2025-21394",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21394"
+                    }
+                ],
+                "Office Suite": [
+                    {
+                        "cve_name": "CVE-2025-21392",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21392"
+                    }
+                ]
+            }
+        },
         {
             "date_text": "January 28, 2025",
             "version": "Version 16.93.2 (Build 25012611)",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>February 11, 2025 06:14 PM EST</last_updated>
+    <last_updated>February 11, 2025 08:05 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -106,7 +106,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.005.0112</short_version>
         <full_version>0112.0003</full_version>
-        <last_updated>February 11, 2025 06:14 PM EST</last_updated>
+        <last_updated>February 11, 2025 08:05 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0003/OneDrive.pkg</latest_download>
@@ -216,14 +216,14 @@
         <application_id>MSRD10</application_id>
         <application_name>Windows App.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.0.9</short_version>
-        <full_version>2488</full_version>
-        <last_updated>January 10, 2025</last_updated>
+        <short_version>11.1.0</short_version>
+        <full_version>2508</full_version>
+        <last_updated>February 05, 2025</last_updated>
         <min_os>12.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.0.9_updater.pkg</update_download>
+        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.0_updater.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=868963</latest_download>
-        <sha1>fb93106d7d3ffcfde110cedaa64c13e3b8824d41</sha1>
-        <sha256>232020d31db21c3476c46359f5b4fcba518eba2309e887787aaaec15274fd582</sha256>
+        <sha1>9cb9dc2355055c8cd61abb694c5aacc74fe8cb34</sha1>
+        <sha256>cca2077141b225e3225b5b0a66be4045c457e741348a311acdc94fa09997def0</sha256>
     </package>
     <package>
         <name>Visual</name>

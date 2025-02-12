@@ -1,6 +1,18 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>February 11, 2025 06:14 PM EST</last_scan_date>
+    <last_scan_date>February 11, 2025 08:06 PM EST</last_scan_date>
+    <release>
+        <date>February 11, 2025</date>
+        <version>16.94 (25020927)</version>
+        <businesspro_suite_download>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.94.25020927_BusinessPro_Installer.pkg</businesspro_suite_download>
+        <suite_download>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.94.25020927_Installer.pkg</suite_download>
+        <word_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.94.25020927_Updater.pkg</word_update>
+        <excel_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.94.25020927_Updater.pkg</excel_update>
+        <powerpoint_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.94.25020927_Updater.pkg</powerpoint_update>
+        <outlook_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.94.25020927_Updater.pkg</outlook_update>
+        <onenote_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.94.25020927_Updater.pkg</onenote_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>January 28, 2025</date>
         <version>16.93.2 (25012611)</version>

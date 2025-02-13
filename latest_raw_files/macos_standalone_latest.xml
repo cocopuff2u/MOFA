@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>February 13, 2025 12:10 PM EST</last_updated>
+    <last_updated>February 13, 2025 01:19 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -106,7 +106,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.005.0112</short_version>
         <full_version>0112.0003</full_version>
-        <last_updated>February 13, 2025 12:10 PM EST</last_updated>
+        <last_updated>February 13, 2025 01:19 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0003/OneDrive.pkg</latest_download>
@@ -230,14 +230,14 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code.app</application_name>
         <CFBundleVersion>com.microsoft.visualstudio</CFBundleVersion>
-        <short_version>1.97.1</short_version>
-        <full_version>1.97.1</full_version>
-        <last_updated>February 10, 2025</last_updated>
+        <short_version>1.97.2</short_version>
+        <full_version>1.97.2</full_version>
+        <last_updated>February 12, 2025</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/e249dada235c2083c83813bd65b7f4707fb97b76/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/e54c774e0add60467559eb0d1e229c6452cf8447/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=2156837</latest_download>
-        <sha1>6cac2e3d65bf1f3d0ae23260edcc6a8ebedf00cb</sha1>
-        <sha256>f0338d5833a2a924f399cab28ae0e852ca2481556812f6e8efad4e76ae6d5d25</sha256>
+        <sha1>c3ce38c9a7af8dfe27857bf4c3b69a42ca10f67a</sha1>
+        <sha256>a9e96079ce09052e508c9af8870758fa564c1c97edf20706dcf269b55d6dbcab</sha256>
     </package>
     <package>
         <name>MAU</name>

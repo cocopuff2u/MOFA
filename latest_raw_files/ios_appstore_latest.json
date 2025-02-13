@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 13, 2025 05:13 PM EST",
+    "last_updated": "February 13, 2025 06:14 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -185,11 +185,11 @@
             "name": "iOS Microsoft Whiteboard",
             "application_name": "Whiteboard - Infinity Canvas",
             "bundleId": "cn.readpad.tool.iwhiteboard",
-            "currentVersionReleaseDate": "January 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/d6/f6/18d6f620-0e2a-4096-72b4-163593e03d8a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/2a/cb/472acb54-b310-01e3-4477-8058ec91aa71/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Fixed known bugs.",
-            "version": "28.6"
+            "version": "28.7"
         },
         {
             "name": "iOS Microsoft Edge AI Browser",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 13, 2025 05:13 PM EST</last_updated>
+	<last_updated>February 13, 2025 06:14 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,11 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>January 23, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/6b/3b/da6b3bb7-9474-04b3-6483-aac205c33433/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>February 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3d/b3/d13db3be-e533-10ab-c522-5ec8db2a0e6a/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.93.1</version>
+		<version>16.94</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
@@ -45,8 +45,8 @@
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>January 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/24/1f/1f241f9a-2b95-0d8d-46d9-2db5fece3038/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>February 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/57/4b/57574bad-1922-5297-83c2-8566a82aadda/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -54,7 +54,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.93</version>
+		<version>16.94</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>

@@ -1,4 +1,4 @@
-last_updated: February 14, 2025 09:13 AM EST
+last_updated: February 14, 2025 10:14 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -20,11 +20,11 @@ packages:
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: January 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/2b/be/212bbe7c-5ba5-3926-ee8c-833a86cfdcf3/PPT3.png/512x512bb.png
+    currentVersionReleaseDate: February 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/9a/e1/d89ae1d8-a685-b321-bcc7-e570646b452a/PPT3.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.93.2
+    version: '16.94'
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 14, 2025 10:14 AM EST</last_updated>
+	<last_updated>February 14, 2025 11:16 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -146,13 +146,17 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 	</package>
 	<package>
 		<name>iOS Microsoft Lists</name>
-		<application_name>Microsoft Excel</application_name>
-		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>February 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/7e/06/857e0660-0375-1ebf-9290-38e051f9d926/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft Lists</application_name>
+		<bundleId>com.microsoft.splists</bundleId>
+		<currentVersionReleaseDate>January 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/14/b4/2414b423-7fa6-78dd-d73a-269458ccb0fa/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.94</version>
+		<releaseNotes>This update contains bug fixes and stability improvements.
+
+This version of Lists supports iOS/iPadOS versions 17 or newer
+
+This wouldn't be possible without your feedback. If you run into any issues, please shake your device and tap &quot;Report a Problem&quot;.</releaseNotes>
+		<version>2.21.5</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>

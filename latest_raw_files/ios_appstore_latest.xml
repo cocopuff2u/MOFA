@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 16, 2025 02:11 PM EST</last_updated>
+	<last_updated>February 16, 2025 03:14 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -350,11 +350,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>February 04, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/d2/d6/f3d2d620-9765-703a-9e0a-50c39224d9d9/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/0a/c3/ed0ac354-7468-3fd6-e4d6-ce93ef12b5e8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.4</minimumOsVersion>
-		<releaseNotes>- Now the power of AI is available for report summaries and insights from Copilot on iPad as well.</releaseNotes>
-		<version>33.3</version>
+		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
+		<version>33.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>

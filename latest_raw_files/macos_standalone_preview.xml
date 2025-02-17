@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>February 17, 2025 11:17 AM EST</last_updated>
+    <last_updated>February 17, 2025 12:12 PM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -48,14 +48,14 @@
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.94.0 (25020927)</short_version>
-        <full_version>16.94.25020927</full_version>
-        <last_updated>February 09, 2025</last_updated>
+        <short_version>16.94.1 (25021618)</short_version>
+        <full_version>16.94.25021618</full_version>
+        <last_updated>February 16, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25020927_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25020927_Updater.pkg</latest_download>
-        <sha1>5a5cc61c103e96facbc49c4a3e09e4cf76e4127a</sha1>
-        <sha256>b7347ea6adb993dd728b669b8eaf600510c2ca4b49bcb3463d6a314d7afbcc58</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25021618_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25021618_Updater.pkg</latest_download>
+        <sha1>43d005a1e7a943e67efab36175ead285a2859d6a</sha1>
+        <sha256>1cfc590a2be7c3bd5dec3320aef8435cf1a329f7f133abd127a086275962c1d3</sha256>
     </package>
     <package>
         <name>OneNote</name>
@@ -78,7 +78,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.015.0126</short_version>
         <full_version>0126.0002</full_version>
-        <last_updated>February 17, 2025 11:17 AM EST</last_updated>
+        <last_updated>February 17, 2025 12:12 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/25.015.0126.0002/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.015.0126.0002/OneDrive.pkg</latest_download>

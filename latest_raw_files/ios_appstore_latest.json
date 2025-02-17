@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 17, 2025 02:11 PM EST",
+    "last_updated": "February 17, 2025 03:15 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -15,11 +15,11 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "February 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/7e/06/857e0660-0375-1ebf-9290-38e051f9d926/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/eb/80/60eb800d-c951-fbf2-bc91-40433a8bb43e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94"
+            "version": "2.94.1"
         },
         {
             "name": "iOS Microsoft PowerPoint",
@@ -135,11 +135,11 @@
             "name": "iOS Microsoft Lists",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "February 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/7e/06/857e0660-0375-1ebf-9290-38e051f9d926/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/eb/80/60eb800d-c951-fbf2-bc91-40433a8bb43e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94"
+            "version": "2.94.1"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Field Service",
@@ -245,11 +245,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "February 12, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/01/76/bc017601-67cf-2a78-d2a1-21b26d42cea8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/c9/bc/cfc9bce6-c3d5-8bdb-f97f-ce1a777dd195/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.2.1"
+            "releaseNotes": "[Teams Premium] Recommend organizer to upgrade meeting's sensitivity if a more sensitive file is shared",
+            "version": "7.3.0"
         },
         {
             "name": "iOS Microsoft Sharepoint",

@@ -1,21 +1,21 @@
-last_updated: February 17, 2025 01:20 AM EST
+last_updated: February 17, 2025 03:19 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: February 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/76/7e/ad767e83-a319-a74f-5c2c-57f330a03971/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/55/ee/b055ee08-d347-91b0-b82e-748b7ce6a581/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.94'
+    version: 2.94.1
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: February 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/7e/06/857e0660-0375-1ebf-9290-38e051f9d926/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/eb/80/60eb800d-c951-fbf2-bc91-40433a8bb43e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.94'
+    version: 2.94.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -128,11 +128,11 @@ packages:
   - name: iOS Microsoft Lists
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: February 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/7e/06/857e0660-0375-1ebf-9290-38e051f9d926/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/eb/80/60eb800d-c951-fbf2-bc91-40433a8bb43e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.94'
+    version: 2.94.1
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
@@ -302,12 +302,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: February 04, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/d2/d6/f3d2d620-9765-703a-9e0a-50c39224d9d9/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: February 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/0a/c3/ed0ac354-7468-3fd6-e4d6-ce93ef12b5e8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.4'
-    releaseNotes: '- Now the power of AI is available for report summaries and insights
-      from Copilot on iPad as well.'
-    version: '33.3'
+    releaseNotes: "- Improved stability and fixed various bugs.\u200B"
+    version: '33.4'
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin
     bundleId: com.microsoft.o365shdmobileapp

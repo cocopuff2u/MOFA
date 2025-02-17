@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 17, 2025 03:15 PM EST",
+    "last_updated": "February 17, 2025 04:12 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -245,11 +245,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "February 17, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/c9/bc/cfc9bce6-c3d5-8bdb-f97f-ce1a777dd195/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/01/76/bc017601-67cf-2a78-d2a1-21b26d42cea8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "[Teams Premium] Recommend organizer to upgrade meeting's sensitivity if a more sensitive file is shared",
-            "version": "7.3.0"
+            "releaseNotes": "Bug fixes and performance improvements",
+            "version": "7.2.1"
         },
         {
             "name": "iOS Microsoft Sharepoint",

@@ -1,4 +1,4 @@
-last_updated: February 17, 2025 09:42 PM EST
+last_updated: February 17, 2025 10:17 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -67,16 +67,16 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: February 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/a3/db/12a3db87-adc3-d7e0-5ae4-d5ddccf6c738/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: February 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/d1/c0/f2d1c0ca-0e07-222b-5834-0b9eb76a0f25/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: Bug fixes and improvements
-    version: 1.1.61210102
+    version: 1.1.62040103
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: February 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ad/c0/7aadc0f9-074e-3e5f-7f66-249bc8df507a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/9f/c1/379fc1a9-8881-77a8-8f36-fa84d9af1dd8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
       \u2022 Introducing the New Copilot: This update includes an intuitive design\
@@ -85,7 +85,7 @@ packages:
       \ New Search Box: Boost your navigation efficiency! Note: Profile is now in\
       \ the menu.\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
       \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 133.3065.54
+    version: 133.3065.65
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop

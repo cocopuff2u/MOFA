@@ -1,9 +1,5 @@
-last_scan_date: February 18, 2025 10:19 PM EST
+last_scan_date: February 18, 2025 11:17 PM EST
 releases:
-- date: February 18, 2025
-  version: 16.94.1 (25021618)
-  outlook_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.94.25021618_Updater.pkg
-  archive: 'false'
 - date: February 11, 2025
   version: 16.94 (25020927)
   businesspro_suite_download: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.94.25020927_BusinessPro_Installer.pkg

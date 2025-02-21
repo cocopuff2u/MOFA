@@ -20,7 +20,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 21, 2025 11:17 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 21, 2025 12:12 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |----------------------|----------------------|--------------------------|--------------|
@@ -59,7 +59,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **PowerPoint** <sup>365/2021/2024</sup> **Standalone Installer** | <a href="https://go.microsoft.com/fwlink/?linkid=525136"><img src=".github/images/PPT3_512x512x32.png" alt="Download Image" width="60"></a> | `68468f740c62d34ca4a88ae92a3d0ba02806abc2ef1bc24b8946ee96b1b2ef14` |
 | **Outlook** <sup>365/2021/2024</sup> **Standalone Installer**| <a href="https://go.microsoft.com/fwlink/?linkid=525137"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="60"></a> | `89dcdef105e5d92478fa28881b0d232c90e38f641674c5839ab8ba2a0f03ea58` |
 | **OneNote** <sup>365/2021/2024</sup> **Standalone Installer** | <a href="https://go.microsoft.com/fwlink/?linkid=820886"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="60"></a> | `7c50ef5346517c006478c34c3f58d5225bf9e527ab234be038bee7f33a33a9aa` |
-| **OneDrive Standalone Installer** | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="60"></a> | `42b73ad40a331e4d8714c01c7a78ceac71adbdbe111065f778f7767df467b1a4` |
+| **OneDrive Standalone Installer** | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="60"></a> | `N/A` |
 | **Skype for Business Standalone Installer** | <a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.31.11.pkg"><img src=".github/images/skype_for_business.png" alt="Download Image" width="60"></a> | `81f484842e86a39c9f33abc4d35b4e7dbb87189ca3c424a6396e15d96ea2dbd5` |
 | **Teams Standalone Installer** | <a href="https://go.microsoft.com/fwlink/?linkid=2249065"><img src=".github/images/teams_512x512x32.png" alt="Download Image" width="60"></a> | `7b4082888017784837ab1ae155e6d1320a0176c45c6cc4928589fad1971d7d9a` |
 | **InTune Company Portal Standalone Installer** | <a href="https://go.microsoft.com/fwlink/?linkid=853070"><img src=".github/images/companyportal.png" alt="Download Image" width="60"></a> | `3b53a27a7a4a3fb237959135fb0d9d28ea829ea2a376567ae254df09fb61d2a7` |
@@ -103,7 +103,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 21, 2025 11:17 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 21, 2025 12:12 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -121,7 +121,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 21, 2025 11:17 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 21, 2025 12:12 PM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -133,7 +133,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft OneDrive | `16.4.5` | com.microsoft.skydrive | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/df/12/fcdf12a1-aa74-1c1c-b4bc-de102facbc7c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
 | Link to Windows | `1.25011.25` | com.microsoft.LinkToWindows | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/26/561726dc-2225-7f30-dec9-4e08496deac0/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg" alt="Link to Windows" width="40"> |
 | Microsoft Defender: Security | `1.1.62040103` | com.microsoft.scmx | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/d1/c0/f2d1c0ca-0e07-222b-5834-0b9eb76a0f25/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Defender: Security" width="40"> |
-| Microsoft Edge: AI Browser | `133.3065.65` | com.microsoft.msedge | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/9f/c1/379fc1a9-8881-77a8-8f36-fa84d9af1dd8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
+| Microsoft Edge: AI Browser | `133.3065.80` | com.microsoft.msedge | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/ab/25/61ab2558-eeae-6301-2fa1-c7007253975d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
 | Microsoft Loop | `2.94.1` | com.microsoft.loop | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/cd/fd/a1cdfdcc-dbb9-2b91-0b4e-0a146e7de75d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Loop" width="40"> |
 | Microsoft Warehouse Management | `3.0.6` | com.microsoft.WarehouseManagement | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/03/5e/e8035edd-1e7f-2c48-8cb4-28f7379987d4/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Warehouse Management" width="40"> |
 | WooCommerce | `21.6` | com.automattic.woocommerce | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/61/29/78612974-a66f-d062-2bbf-6428e3df72f0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="WooCommerce" width="40"> |

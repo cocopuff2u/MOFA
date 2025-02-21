@@ -236,12 +236,12 @@ We welcome community contributions—fork the repository, ask questions, or shar
 - A free tool to fix issues with Microsoft Office apps on macOS (e.g., crashes, performance problems). It offers various packages for resetting settings and clearing cache.
 <br>**_<img src=".github/images/warning.png" alt="Warning Logo" width="25"> No Longer Updated/Maintained <img src=".github/images/warning.png" alt="Warning Logo" width="25">_**
 
-### **<img src=".github/images/pkg-icon.png" alt="Pkg Logo" width="25"> [Office-Reset Packages](/office_reset_tools/office_reset_archived/)<img src=".github/images/pkg-icon.png" alt="Pkg Logo" width="25">**
-- Archived copies of the original Office-Reset packages, now saved to this repository.
+### **<img src=".github/images/pkg-icon.png" alt="Pkg Logo" width="25"> [Office-Reset Packages/Scripts](/office_reset_tools/office_reset_archived/)<img src=".github/images/pkg-icon.png" alt="Pkg Logo" width="25">**
+- Archived copies of the original Office-Reset packages in a pkg and script format, now saved to this repository.
 <br>**_<img src=".github/images/warning.png" alt="Warning Logo" width="25"> No Longer Updated/Maintained <img src=".github/images/warning.png" alt="Warning Logo" width="25">_**
 
-### **<img src=".github/images/repair.png" alt="Repair Image" width="20"></a> [Office Reset Scripts](/office_reset_tools/mofa_community_maintained/) <img src=".github/images/repair.png" alt="Repair Image" width="20"></a>**
-- Fork and update these scripts from the original packages on office-reset.com.
+### **<img src=".github/images/repair.png" alt="Repair Image" width="20"></a> [MOFA Maintained Packages/Scripts](/office_reset_tools/mofa_community_maintained/) <img src=".github/images/repair.png" alt="Repair Image" width="20"></a>**
+- **MOFA** community-maintained versions, based on and updated from the original Office-Reset.com packages. Fork, update, and improve these scripts for continued community use.
 <br>**_<img src=".github/images/community.png" alt="Community Logo" width="25"> Needs More Community Contributions <img src=".github/images/community.png" alt="Community Logo" width="25">_**
 
 ## **<img src=".github/images/script.png" alt="Script Image" width="20"> Microsoft Scripts <img src=".github/images/script.png" alt="Script Image" width="20">**

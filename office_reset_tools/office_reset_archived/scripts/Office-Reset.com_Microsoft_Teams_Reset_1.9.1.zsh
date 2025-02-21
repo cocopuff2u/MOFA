@@ -142,7 +142,6 @@ fi
 echo "Display list-keychains for logged-in user"
 /usr/bin/sudo -u $LoggedInUser /usr/bin/security list-keychains
 
-/usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'Microsoft Teams Vault'
 /usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'Microsoft Teams Identities Cache'
 /usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.HockeySDK'
 /usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK'

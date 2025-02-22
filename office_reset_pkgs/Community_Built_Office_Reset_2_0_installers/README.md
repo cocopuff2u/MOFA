@@ -1,3 +1,0 @@
-These installers are community-built and use the scripts included with the `Microsoft_Office_Reset_2.0.0.pkg` installer package created by Paul Bowden in November 2023. The individual installer packages were created as a service to Mac admins who want the reset functionality for one specific Microsoft application or service.
-
-**Note:** No changes have been made to the scripts in any way. The scripts included in the individual installers are identical to what is provided in the `Microsoft_Office_Reset_2.0.0.pkg` installer package.

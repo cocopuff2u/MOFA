@@ -1,4 +1,5 @@
 #!/bin/zsh
+# shellcheck shell=bash
 
 # ============================================================
 # Script Name: MOFA_Community_Microsoft_Teams_Reset.zsh
@@ -7,14 +8,19 @@
 #
 # Version History:
 # 1.0.0 - Based on the latest available package from *Office-Reset.com*; recreated for MOFA to continue maintenance where *Office-Reset.com* left off.
+# 1.0.1 - @Theile additions to use shellcheck, define PATH, preserve Teams backgrounds, reset TCC. Classic Teams is dead.
 #
 # ============================================================
 
-echo "Office-Reset: Starting postinstall for Reset_Teams"
+# Set PATH variable to SIP protected folders
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin
+
+echo "Office-Reset: Starting Reset_Teams"
 autoload is-at-least
 APP_NAME="Microsoft Teams"
-DOWNLOAD_URL_TEAMS10="https://go.microsoft.com/fwlink/?linkid=869428"
-DOWNLOAD_URL_TEAMS21="https://go.microsoft.com/fwlink/?linkid=2249065"
+# DOWNLOAD_URL_TEAMS="https://go.microsoft.com/fwlink/?linkid=869428" # Old Classic URL pointing to same URL as the new
+DOWNLOAD_URL_TEAMS="https://go.microsoft.com/fwlink/?linkid=2249065"
+INSTALLATION_RETRIES=5
 OS_VERSION=$(sw_vers -productVersion)
 
 GetLoggedInUser() {
@@ -35,6 +41,11 @@ SetHomeFolder() {
 			HOME=$(eval echo "~$1")
 		fi
 	fi
+    LoggedInUserID=$(id -u "$LoggedInUser")
+}
+
+runAsUser() {
+    launchctl asuser $LoggedInUserID sudo -u $LoggedInUser "$@"
 }
 
 RepairApp() {
@@ -49,8 +60,8 @@ RepairApp() {
 	echo "Office-Reset: Package to download is ${CDN_PKG_URL}"
 	CDN_PKG_NAME=$(/usr/bin/basename "${CDN_PKG_URL}")
 
-	CDN_PKG_SIZE=$(/usr/bin/nscurl --location --head $DOWNLOAD_URL --dump-header - | awk '/Content-Length/' | cut -d ' ' -f2 | tail -1 | awk '{$1=$1};1')
-	CDN_PKG_MB=$(/bin/expr ${CDN_PKG_SIZE} / 1000 / 1000)
+	CDN_PKG_SIZE=$(/usr/bin/nscurl --location --head $DOWNLOAD_URL --dump-header - | awk '/Content-Length:/' | cut -d ' ' -f2 | tail -1 | awk '{$1=$1};1')
+	CDN_PKG_MB=$((${CDN_PKG_SIZE} / 1024 / 1024))
 	echo "Office-Reset: Download package is ${CDN_PKG_MB} megabytes in size"
 
 	echo "Office-Reset: Starting ${APP_NAME} package download"
@@ -86,71 +97,86 @@ RepairApp() {
 	fi
 }
 
+removeAncientTeamsVersion() {
+	local ancientPath="${1}"
+	echo "Office-Reset: Found ancient version of ${APP_NAME}: ${ancientPath}. Updating it now"
+	/bin/rm -rf "${ancientPath}"
+	RepairApp "$DOWNLOAD_URL_TEAMS"
+	echo "Office-Reset: Checking the app bundle for corruption"
+	appPath="/Applications/Microsoft Teams.app"
+	/usr/bin/codesign -vv --deep "${appPath}"
+	if [ $? -gt 0 ]; then
+		echo "Office-Reset: The ${APP_NAME} app bundle is damaged and will be removed and reinstalled" 
+		/bin/rm -rf "${appPath}"
+		RepairApp "$DOWNLOAD_URL_TEAMS"
+	else
+		echo "Office-Reset: Codesign passed successfully"
+	fi
+}
+
 FindEntryTeamsIdentity() {
 	/usr/bin/security find-generic-password -l 'Microsoft Teams Identities Cache' 2> /dev/null 1> /dev/null
 	echo $?
 }
 
-## Main
+## MARK: Main
 LoggedInUser=$(GetLoggedInUser)
 SetHomeFolder "$LoggedInUser"
-echo "Office-Reset: Running as: $LoggedInUser; Home Folder: $HOME"
+echo "Office-Reset: Running as: $LoggedInUser ($LoggedInUserID); Home Folder: $HOME"
 
 /usr/bin/pkill -9 'Microsoft Teams*'
 
-if [ -d "/Applications/Microsoft Teams.app" ]; then
-	APP_VERSION=$(defaults read /Applications/Microsoft\ Teams.app/Contents/Info.plist CFBundleVersion)
-	APP_BUNDLEID=$(defaults read /Applications/Microsoft\ Teams.app/Contents/Info.plist CFBundleIdentifier)
-	echo "Office-Reset: Found version ${APP_VERSION} of ${APP_NAME} with bundle ID ${APP_BUNDLEID}"
-	if [[ "${APP_BUNDLEID}" == "com.microsoft.teams" ]]; then
-		if ! is-at-least 611156.0 $APP_VERSION && is-at-least 10.15 $OS_VERSION; then
-			echo "Office-Reset: The installed version of ${APP_NAME} is ancient. Updating it now"
-			RepairApp "$DOWNLOAD_URL_TEAMS10"
-		fi
-	fi
-fi
-
-if [ -d "/Applications/Microsoft Teams classic.app" ]; then
-	APP_VERSION=$(defaults read /Applications/Microsoft\ Teams\ classic.app/Contents/Info.plist CFBundleVersion)
-	APP_BUNDLEID=$(defaults read /Applications/Microsoft\ Teams.app/Contents/Info.plist CFBundleIdentifier)
-	echo "Office-Reset: Found version ${APP_VERSION} of ${APP_NAME} with bundle ID ${APP_BUNDLEID}"
-	if ! is-at-least 627656.0 $APP_VERSION && is-at-least 10.15 $OS_VERSION; then
-		echo "Office-Reset: The installed version of ${APP_NAME} is ancient. Updating it now"
-		RepairApp "$DOWNLOAD_URL_TEAMS10"
-	fi
-	echo "Office-Reset: Checking the app bundle for corruption"
-	/usr/bin/codesign -vv --deep /Applications/Microsoft\ Teams\ classic.app
-	if [ $? -gt 0 ]; then
-		echo "Office-Reset: The ${APP_NAME} app bundle is damaged and will be removed and reinstalled" 
-		/bin/rm -rf /Applications/Microsoft\ Teams\ classic.app
-		RepairApp "$DOWNLOAD_URL_TEAMS10"
-	else
-		echo "Office-Reset: Codesign passed successfully"
-	fi
-fi
-
-if [ -d "/Applications/Microsoft Teams (work or school).app" ]; then
-	APP_VERSION=$(defaults read /Applications/Microsoft\ Teams\ \(work\ or\ school\).app/Contents/Info.plist CFBundleVersion)
-	APP_BUNDLEID=$(defaults read /Applications/Microsoft\ Teams\ \(work\ or\ school\).app/Contents/Info.plist CFBundleIdentifier)
+# Handle previous installation of Teams (if any)
+appPath="/Applications/${APP_NAME}.app"
+if [ -d "${appPath}" ]; then
+	APP_VERSION=$(defaults read "${appPath}/Contents/Info.plist" CFBundleVersion)
+	APP_BUNDLEID=$(defaults read "${appPath}/Contents/Info.plist" CFBundleIdentifier)
 	echo "Office-Reset: Found version ${APP_VERSION} of ${APP_NAME} with bundle ID ${APP_BUNDLEID}"
 	if ! is-at-least 23247.0 $APP_VERSION && is-at-least 10.15 $OS_VERSION; then
-		echo "Office-Reset: The installed version of ${APP_NAME} is ancient. Updating it now"
-		RepairApp "$DOWNLOAD_URL_TEAMS21"
-	fi
-	echo "Office-Reset: Checking the app bundle for corruption"
-	/usr/bin/codesign -vv --deep /Applications/Microsoft\ Teams\ \(work\ or\ school\).app
-	if [ $? -gt 0 ]; then
-		echo "Office-Reset: The ${APP_NAME} app bundle is damaged and will be removed and reinstalled" 
-		/bin/rm -rf /Applications/Microsoft\ Teams\ \(work\ or\ school\).app
-		RepairApp "$DOWNLOAD_URL_TEAMS21"
+		echo "Office-Reset: The installed version of ${APP_NAME} is ancient. Removing it now"
+		rm -rf "${appPath}"
 	else
-		echo "Office-Reset: Codesign passed successfully"
+		echo "Office-Reset: The installed version of ${APP_NAME} is $APP_VERSION. Should be fine"
 	fi
+fi
+
+appPath="/Applications/Microsoft Teams classic.app"
+if [ -d "${appPath}" ]; then
+	removeAncientTeamsVersion "${appPath}"
+fi
+appPath="/Applications/Microsoft Teams (work or school).app"
+if [ -d "${appPath}" ]; then
+	removeAncientTeamsVersion "${appPath}"
+fi
+
+
+# Move backgrounds for Teams Classic (dead)
+backgroundsFolder="$HOME/Library/Application Support/Microsoft/Teams/Backgrounds"
+if [ -d "${backgroundsFolder}" ]; then
+	echo "Office-Reset: Detected Classic backgrounds for ${APP_NAME}"
+	destFolder="$HOME/Teams_Old_Backgrounds"
+	orgDestFolder="${destFolder}"
+	folderCounter=0
+	while [ -e "${destFolder}" ]; do
+		((folderCounter++))
+		destFolder="${orgDestFolder}${folderCounter}"
+	done
+	echo "Office-Reset: moved to ${destFolder}"
+	mv "${backgroundsFolder}" "${destFolder}"
+	open "${destFolder}"
+fi
+# Preserve backgrounds
+backgroundsFolder="$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/Backgrounds"
+if [ -d "${backgroundsFolder}" ]; then
+	echo "Office-Reset: Preserve backgrounds for ${APP_NAME}"
+	mv "${backgroundsFolder}" /tmp/
 fi
 
 echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -rf $HOME/Library/Application\ Support/Teams
 /bin/rm -rf $HOME/Library/Application\ Support/Microsoft/Teams
+
+
 /bin/rm -rf $HOME/Library/Application\ Support/com.microsoft.teams
 /bin/rm -rf $HOME/Library/Application\ Support/com.microsoft.teams.helper
 
@@ -173,6 +199,7 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -rf $HOME/Library/Containers/com.microsoft.teams2
 /bin/rm -rf $HOME/Library/Containers/com.microsoft.teams2.launcher
 /bin/rm -rf $HOME/Library/Containers/com.microsoft.teams2.notificationcenter
+
 /bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.com.microsoft.teams
 /bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.com.microsoft.oneauth
 
@@ -195,24 +222,64 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 
 /bin/rm -rf /Library/Logs/Microsoft/Teams
 
-KeychainHasLogin=$(/usr/bin/sudo -u $LoggedInUser /usr/bin/security list-keychains | grep 'login.keychain')
+# Restore backgrounds
+if [ -d "/tmp/Backgrounds" ] ; then
+	echo "Office-Reset: Restore backgrounds for ${APP_NAME}"
+	runAsUser mkdir -p "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/"
+	mv /tmp/Backgrounds "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/"
+	chown -R $LoggedInUser "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams"
+fi
+
+# Reset TCC (PPPC) for Teams
+echo "Reset TCC for com.microsoft.teams2"
+tccutil reset com.microsoft.teams2
+
+# Keychain items
+KeychainHasLogin=$(runAsUser /usr/bin/security list-keychains | grep 'login.keychain')
 if [ "$KeychainHasLogin" = "" ]; then
 	echo "Office-Reset: Adding user login keychain to list"
-	/usr/bin/sudo -u $LoggedInUser /usr/bin/security list-keychains -s "$HOME/Library/Keychains/login.keychain-db"
+	runAsUser /usr/bin/security list-keychains -s "$HOME/Library/Keychains/login.keychain-db"
 fi
 
 echo "Display list-keychains for logged-in user"
-/usr/bin/sudo -u $LoggedInUser /usr/bin/security list-keychains
-
+runAsUser /usr/bin/security list-keychains
 
 while [[ $(FindEntryTeamsIdentity) -eq 0 ]]; do
-	/usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'Microsoft Teams Identities Cache'
+	runAsUser /usr/bin/security delete-generic-password -l 'Microsoft Teams Identities Cache'
 done
-/usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'Teams Safe Storage'
-/usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'Microsoft Teams (work or school) Safe Storage'
-/usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'teamsIv'
-/usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'teamsKey'
-/usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.HockeySDK'
-/usr/bin/sudo -u $LoggedInUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK'
+runAsUser /usr/bin/security delete-generic-password -l 'Teams Safe Storage'
+runAsUser /usr/bin/security delete-generic-password -l 'Microsoft Teams (work or school) Safe Storage'
+runAsUser /usr/bin/security delete-generic-password -l 'teamsIv'
+runAsUser /usr/bin/security delete-generic-password -l 'teamsKey'
+runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.HockeySDK'
+runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK'
+
+
+# Install Teams if damaged or not found
+appPath="/Applications/${APP_NAME}.app"
+if ! codesign -vv --deep "${appPath}"; then
+	echo "Office-Reset: ${APP_NAME} is damaged or not existing so preparing for reinstallation"
+	[ -e "${appPath}" ] && rm -rf "${appPath}"
+else
+	echo "Office-Reset: Codesign passed successfully"
+	APP_VERSION=$(defaults read "${appPath}/Contents/Info.plist" CFBundleVersion)
+	echo "Office-Reset: The installed version of ${APP_NAME} is $APP_VERSION"
+fi
+folderCounter=1
+while [ ! -d "${appPath}" ]; do
+	echo "Office-Reset: ${APP_NAME} not installed. Trying ${folderCounter}. installation at the most $INSTALLATION_RETRIES times, now"
+	RepairApp "$DOWNLOAD_URL_TEAMS"
+	codesign -vv --deep "${appPath}"
+	if [ $? -gt 0 ]; then
+		echo "Office-Reset: The ${APP_NAME} app bundle is damaged and will be removed for reinstallation"
+		[ -e "${appPath}" ] && rm -rf "${appPath}"
+	else
+		echo "Office-Reset: Codesign passed successfully"
+		APP_VERSION=$(defaults read "${appPath}/Contents/Info.plist" CFBundleVersion)
+		echo "Office-Reset: The installed version of ${APP_NAME} is now $APP_VERSION"
+	fi
+	[[ $folderCounter -ge $INSTALLATION_RETRIES ]] && break
+	((folderCounter++))
+done
 
 exit 0

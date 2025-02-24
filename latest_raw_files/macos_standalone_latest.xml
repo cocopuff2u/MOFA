@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>February 24, 2025 11:18 AM EST</last_updated>
+    <last_updated>February 24, 2025 12:12 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -104,14 +104,14 @@
         <application_id>OneDrive.app</application_id>
         <application_name>OneDrive.app</application_name>
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-        <short_version>25.010.0119</short_version>
-        <full_version>0119.0002</full_version>
-        <last_updated>February 24, 2025 11:18 AM EST</last_updated>
+        <short_version>25.015.0126</short_version>
+        <full_version>0126.0002</full_version>
+        <last_updated>February 24, 2025 12:12 PM EST</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://oneclient.sfx.ms/Mac/Installers/25.010.0119.0002/OneDrive.pkg</update_download>
-        <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.010.0119.0002/OneDrive.pkg</latest_download>
-        <sha1>2cd596db72a0027d75bd477ddd8203b4a313c067</sha1>
-        <sha256>42b73ad40a331e4d8714c01c7a78ceac71adbdbe111065f778f7767df467b1a4</sha256>
+        <update_download>https://oneclient.sfx.ms/Mac/Installers/25.015.0126.0002/OneDrive.pkg</update_download>
+        <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.015.0126.0002/OneDrive.pkg</latest_download>
+        <sha1>53ced69b89f7eded6740a929c397a7da7426101d</sha1>
+        <sha256>0c3f3e73944bdb6e9dbc640d3389a498cb29f30c5e6b4173833b09effcadc474</sha256>
     </package>
     <package>
         <name>Skype</name>

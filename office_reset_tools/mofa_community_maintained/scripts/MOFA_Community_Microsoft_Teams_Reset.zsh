@@ -127,7 +127,7 @@ echo "Office-Reset: Running as: $LoggedInUser ($LoggedInUserID); Home Folder: $H
 /usr/bin/pkill -9 'Microsoft Teams*'
 
 # Handle previous installation of Teams (if any)
-appPath="/Applications/Microsoft Teams.app"
+appPath="/Applications/${APP_NAME}.app"
 if [ -d "${appPath}" ]; then
 	APP_VERSION=$(defaults read "${appPath}/Contents/Info.plist" CFBundleVersion)
 	APP_BUNDLEID=$(defaults read "${appPath}/Contents/Info.plist" CFBundleIdentifier)
@@ -256,7 +256,7 @@ runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.help
 
 
 # Install Teams if damaged or not found
-appPath="/Applications/Microsoft Teams.app"
+appPath="/Applications/${APP_NAME}.app"
 if ! codesign -vv --deep "${appPath}"; then
 	echo "Office-Reset: ${APP_NAME} is damaged or not existing so preparing for reinstallation"
 	[ -e "${appPath}" ] && rm -rf "${appPath}"

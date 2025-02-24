@@ -69,7 +69,7 @@ RepairApp() {
 	echo "Office-Reset: Finished package download"
 
 	LOCAL_PKG_SIZE=$(cd "${DOWNLOAD_FOLDER}" && stat -qf%z "${CDN_PKG_NAME}")
-	if [[ "${LOCAL_PKG_SIZE}" == "${CDN_PKG_SIZE}" || -z "${CDN_PKG_SIZE}" ]]; then
+	if [[ "${LOCAL_PKG_SIZE}" == "${CDN_PKG_SIZE}" ]]; then
 		echo "Office-Reset: Downloaded package is wholesome"
 	else
 		echo "Office-Reset: Downloaded package is malformed. Local file size: ${LOCAL_PKG_SIZE}"

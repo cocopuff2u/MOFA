@@ -74,7 +74,7 @@ runAsUser() {
 
 open_systempreferences() {
     local preferenceID="$1"
-    printlog "open url: x-apple.systempreferences:${preferenceID}"
+    echo "open url: x-apple.systempreferences:${preferenceID}"
 	su - $LoggedInUser -c "open -u \"x-apple.systempreferences:${preferenceID}\" 2>/dev/null"
 }
 

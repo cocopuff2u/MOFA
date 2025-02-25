@@ -8,7 +8,8 @@
 #
 # Version History:
 # 1.0.0 - Based on the latest available package from *Office-Reset.com*; recreated for MOFA to continue maintenance where *Office-Reset.com* left off.
-# 1.0.1 - @Theile additions to use shellcheck, define PATH, preserve Teams backgrounds, reset TCC. Classic Teams is dead.
+# 1.0.1 - @Theile additions to use shellcheck, define PATH, and preserve Teams backgrounds. Classic Teams is dead.
+# 1.0.2 - @Theile addition to read arguments with variables (INSTALL=force will always removed installed version), reset TCC. Open window for user to allow Screen recording after TCC reset.
 #
 # ============================================================
 
@@ -22,6 +23,29 @@ APP_NAME="Microsoft Teams"
 DOWNLOAD_URL_TEAMS="https://go.microsoft.com/fwlink/?linkid=2249065"
 INSTALLATION_RETRIES=5
 OS_VERSION=$(sw_vers -productVersion)
+INSTALL="" # "force" will always delete and reinstall to latest version of Teams
+
+# MARK: Parse arguments
+
+if [[ $1 == "/" ]]; then
+    # jamf uses sends '/' as the first argument
+    echo "shifting arguments for Jamf"
+    shift 3
+fi
+
+# Reading the arguments
+while [[ -n $1 ]]; do
+    if [[ $1 =~ ".*\=.*" ]]; then
+        # if an argument contains an = character, send it to eval
+        echo "setting variable from argument $1"
+        eval $1
+    fi
+    # shift to next argument
+    shift 1
+done
+
+
+# MARK: Functions
 
 GetLoggedInUser() {
 	LOGGEDIN=$(/bin/echo "show State:/Users/ConsoleUser" | /usr/sbin/scutil | /usr/bin/awk '/Name :/&&!/loginwindow/{print $3}')
@@ -46,6 +70,12 @@ SetHomeFolder() {
 
 runAsUser() {
     launchctl asuser $LoggedInUserID sudo -u $LoggedInUser "$@"
+}
+
+open_systempreferences() {
+    local preferenceID="$1"
+    printlog "open url: x-apple.systempreferences:${preferenceID}"
+	su - $LoggedInUser -c "open -u \"x-apple.systempreferences:${preferenceID}\" 2>/dev/null"
 }
 
 RepairApp() {
@@ -97,23 +127,6 @@ RepairApp() {
 	fi
 }
 
-removeAncientTeamsVersion() {
-	local ancientPath="${1}"
-	echo "Office-Reset: Found ancient version of ${APP_NAME}: ${ancientPath}. Updating it now"
-	/bin/rm -rf "${ancientPath}"
-	RepairApp "$DOWNLOAD_URL_TEAMS"
-	echo "Office-Reset: Checking the app bundle for corruption"
-	appPath="/Applications/Microsoft Teams.app"
-	/usr/bin/codesign -vv --deep "${appPath}"
-	if [ $? -gt 0 ]; then
-		echo "Office-Reset: The ${APP_NAME} app bundle is damaged and will be removed and reinstalled" 
-		/bin/rm -rf "${appPath}"
-		RepairApp "$DOWNLOAD_URL_TEAMS"
-	else
-		echo "Office-Reset: Codesign passed successfully"
-	fi
-}
-
 FindEntryTeamsIdentity() {
 	/usr/bin/security find-generic-password -l 'Microsoft Teams Identities Cache' 2> /dev/null 1> /dev/null
 	echo $?
@@ -126,8 +139,8 @@ echo "Office-Reset: Running as: $LoggedInUser ($LoggedInUserID); Home Folder: $H
 
 /usr/bin/pkill -9 'Microsoft Teams*'
 
-# Handle previous installation of Teams (if any)
-appPath="/Applications/${APP_NAME}.app"
+# MARK: Handle previous installation of Teams (if any)
+appPath="/Applications/Microsoft Teams.app"
 if [ -d "${appPath}" ]; then
 	APP_VERSION=$(defaults read "${appPath}/Contents/Info.plist" CFBundleVersion)
 	APP_BUNDLEID=$(defaults read "${appPath}/Contents/Info.plist" CFBundleIdentifier)
@@ -135,21 +148,25 @@ if [ -d "${appPath}" ]; then
 	if ! is-at-least 23247.0 $APP_VERSION && is-at-least 10.15 $OS_VERSION; then
 		echo "Office-Reset: The installed version of ${APP_NAME} is ancient. Removing it now"
 		rm -rf "${appPath}"
+	elif [[ $INSTALL == "force" ]]; then
+		echo "Office-Reset: Force reinstall of ${APP_NAME}. Removing it now"
+		rm -rf "${appPath}"
 	else
 		echo "Office-Reset: The installed version of ${APP_NAME} is $APP_VERSION. Should be fine"
 	fi
 fi
-
 appPath="/Applications/Microsoft Teams classic.app"
 if [ -d "${appPath}" ]; then
-	removeAncientTeamsVersion "${appPath}"
+	echo "Office-Reset: Found ancient version of ${APP_NAME}: ${appPath}. Removing it now"
+	/bin/rm -rf "${appPath}"
 fi
 appPath="/Applications/Microsoft Teams (work or school).app"
 if [ -d "${appPath}" ]; then
-	removeAncientTeamsVersion "${appPath}"
+	echo "Office-Reset: Found ancient version of ${APP_NAME}: ${appPath}. Removing it now"
+	/bin/rm -rf "${appPath}"
 fi
 
-
+# MARK: Handling user-installed backgrounds
 # Move backgrounds for Teams Classic (dead)
 backgroundsFolder="$HOME/Library/Application Support/Microsoft/Teams/Backgrounds"
 if [ -d "${backgroundsFolder}" ]; then
@@ -172,6 +189,7 @@ if [ -d "${backgroundsFolder}" ]; then
 	mv "${backgroundsFolder}" /tmp/
 fi
 
+# MARK: Remove configuration data
 echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -rf $HOME/Library/Application\ Support/Teams
 /bin/rm -rf $HOME/Library/Application\ Support/Microsoft/Teams
@@ -222,17 +240,11 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 
 /bin/rm -rf /Library/Logs/Microsoft/Teams
 
-# Restore backgrounds
-if [ -d "/tmp/Backgrounds" ] ; then
-	echo "Office-Reset: Restore backgrounds for ${APP_NAME}"
-	runAsUser mkdir -p "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/"
-	mv /tmp/Backgrounds "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/"
-	chown -R $LoggedInUser "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams"
-fi
 
+# MARK: Extra things to clean
 # Reset TCC (PPPC) for Teams
 echo "Reset TCC for com.microsoft.teams2"
-tccutil reset com.microsoft.teams2
+tccutil reset All com.microsoft.teams2
 
 # Keychain items
 KeychainHasLogin=$(runAsUser /usr/bin/security list-keychains | grep 'login.keychain')
@@ -254,9 +266,17 @@ runAsUser /usr/bin/security delete-generic-password -l 'teamsKey'
 runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.HockeySDK'
 runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK'
 
+# Restore backgrounds
+if [ -d "/tmp/Backgrounds" ] ; then
+	echo "Office-Reset: Restore backgrounds for ${APP_NAME}"
+	runAsUser mkdir -p "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/"
+	mv /tmp/Backgrounds "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/"
+	chown -R $LoggedInUser "$HOME/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams"
+fi
 
-# Install Teams if damaged or not found
-appPath="/Applications/${APP_NAME}.app"
+
+# MARK: Install Teams if damaged or not found
+appPath="/Applications/Microsoft Teams.app"
 if ! codesign -vv --deep "${appPath}"; then
 	echo "Office-Reset: ${APP_NAME} is damaged or not existing so preparing for reinstallation"
 	[ -e "${appPath}" ] && rm -rf "${appPath}"
@@ -281,5 +301,8 @@ while [ ! -d "${appPath}" ]; do
 	[[ $folderCounter -ge $INSTALLATION_RETRIES ]] && break
 	((folderCounter++))
 done
+
+# Open window so user can allow screen recording for Teams again
+open_systempreferences "com.apple.preference.security?Privacy_ScreenCapture"
 
 exit 0

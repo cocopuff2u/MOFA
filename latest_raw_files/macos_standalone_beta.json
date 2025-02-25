@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 25, 2025 01:20 AM EST",
+    "last_updated": "February 25, 2025 02:14 AM EST",
     "packages": [
         {
             "name": "Word",
@@ -78,7 +78,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.020.0202",
             "full_version": "0202.0001",
-            "last_updated": "February 25, 2025 01:20 AM EST",
+            "last_updated": "February 25, 2025 02:14 AM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg",
@@ -190,12 +190,12 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.98.0-",
             "full_version": "1.98.0-insider",
-            "last_updated": "February 24, 2025",
+            "last_updated": "February 25, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/e95380d32c974525a0736f258db73214a27b1a09/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/ac0e8f0f32e3de145dc3aa11d8182f208a05397f/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
-            "sha1": "1f7d24649e127c1bc45d2b283d3ad334e17b47b3",
-            "sha256": "ce13e737805a5f71f5ac161b38f33c40f3f652ee057d910dd9bc320d25ad57d4"
+            "sha1": "b62330de270076248aca60ee7f24d31fa632f46a",
+            "sha256": "477a53547da2882deb594247b2b3c4c3bd83ae20bd011701b2d0b0a9dbcd469e"
         },
         {
             "name": "MAU",

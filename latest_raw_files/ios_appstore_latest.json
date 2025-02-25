@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 25, 2025 08:22 AM EST",
+    "last_updated": "February 25, 2025 09:14 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "WooCommerce",
             "bundleId": "com.automattic.woocommerce",
-            "currentVersionReleaseDate": "February 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/61/29/78612974-a66f-d062-2bbf-6428e3df72f0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 24, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/b0/44/0bb0444b-33a5-f284-4ea0-42133f61d5a6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Experience a refreshed WooCommerce app with an updated look that aligns with our new branding! We\u2019ve also improved payment reliability\u2014card reader updates now handle low battery issues better, and errors during payments and refunds are managed more smoothly. Enjoy a more seamless and polished experience in every transaction.",
-            "version": "21.6"
+            "releaseNotes": "This update brings improvements to media library and login experience. You'll find enhanced accessibility in tax-related views and clearer product image organization with cover tags to help you manage your store. Update now for a smoother WooCommerce experience!",
+            "version": "21.7"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
@@ -245,11 +245,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "February 20, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b5/5d/bcb55df0-ad02-18fb-1bc4-22be5ee2a8d2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 25, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/c3/9e80c36c-c8f6-3938-6cb8-7ea523759ac4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.3.1"
+            "version": "7.3.2"
         },
         {
             "name": "iOS Microsoft Sharepoint",

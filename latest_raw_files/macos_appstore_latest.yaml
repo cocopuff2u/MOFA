@@ -1,4 +1,4 @@
-last_updated: February 25, 2025 06:12 AM EST
+last_updated: February 25, 2025 07:29 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -57,21 +57,19 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: February 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e3/53/f4e3537d-e2f1-e9eb-3de7-a9e2523bf78d/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: February 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/07/a3/7f07a3e7-253d-411a-5c24-c3735e69ed9f/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
     minimumOsVersion: '12.0'
-    releaseNotes: "In this release we made the following updates:\n\n\u2022 Hitting\
-      \ the ENTER key now initiates a connection to the device or app highlighted\
-      \ in the connection center.\n\u2022 Resolved an issue where holding SHIFT while\
-      \ using a mouse vertical scroll wheel did not correctly map to horizontal scrolls.\n\
-      \u2022 Only allow connections to Cloud PCs that are not processing device actions.\n\
-      \u2022 The Cloud PC notification sheet is now aware of user accounts.\n\u2022\
-      \ Stored notifications associated with a user account are now removed when signing\
-      \ out the account.\n\u2022 Fixed translucency for notifications to pick up the\
-      \ correct background image.\n\u2022 Resolved an issue which prevented the client\
-      \ from reading the \"dynamic resolution\" RDP file property.\n\nIf you encounter\
-      \ any errors, you can contact us via Help > Submit Feedback."
-    version: 11.1.0
+    releaseNotes: "In this release we made the following updates:\n\n\u2022 Resolved\
+      \ an issue affecting nonce acquisition for RDS AAD Auth when using an HTTP proxy.\n\
+      \u2022 Improved non-full screen session reconnect UI flows.\n\u2022 Removed\
+      \ support for setting explicit credentials for Cloud PCs due to the pervasiveness\
+      \ of RDSAAD Auth.\n\u2022 Updated Spotlight search to show \"Windows App\" under\
+      \ Applications when searching for \"Remote Desktop\".\n\u2022 Added support\
+      \ for jumping to the System Local Network Access UI to update or review permissions\
+      \ for 0x104 errors.\n\nIf you encounter any errors, you can contact us via Help\
+      \ > Submit Feedback."
+    version: 11.1.1
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac

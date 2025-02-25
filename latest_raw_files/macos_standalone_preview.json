@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 24, 2025 10:21 PM EST",
+    "last_updated": "February 24, 2025 11:18 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -48,14 +48,14 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.94.1 (25021618)",
-            "full_version": "16.94.25021618",
-            "last_updated": "February 16, 2025",
+            "short_version": "16.94.2 (25022327)",
+            "full_version": "16.94.25022327",
+            "last_updated": "February 23, 2025",
             "min_os": "13.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25021618_Updater.pkg",
-            "latest_download": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25021618_Updater.pkg",
-            "sha1": "43d005a1e7a943e67efab36175ead285a2859d6a",
-            "sha256": "1cfc590a2be7c3bd5dec3320aef8435cf1a329f7f133abd127a086275962c1d3"
+            "update_download": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25022327_Updater.pkg",
+            "latest_download": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25022327_Updater.pkg",
+            "sha1": "f438050cb0597d7a436b07414551329f982a5961",
+            "sha256": "d22620b99d465f1d226aafd2f4ee802b3805fc11daf513621bc878c72c3449ac"
         },
         {
             "name": "OneNote",
@@ -78,7 +78,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.020.0202",
             "full_version": "0202.0001",
-            "last_updated": "February 24, 2025 10:21 PM EST",
+            "last_updated": "February 24, 2025 11:18 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg",

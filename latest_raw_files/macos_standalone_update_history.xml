@@ -1,6 +1,12 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>February 25, 2025 04:13 PM EST</last_scan_date>
+    <last_scan_date>February 25, 2025 05:13 PM EST</last_scan_date>
+    <release>
+        <date>February 25, 2025</date>
+        <version>16.94.2 (25022327)</version>
+        <outlook_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.94.25022327_Updater.pkg</outlook_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>February 18, 2025</date>
         <version>16.94.1 (25021618)</version>

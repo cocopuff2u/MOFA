@@ -1,6 +1,18 @@
 {
-    "last_scan_date": "February 25, 2025 05:13 PM EST",
+    "last_scan_date": "February 25, 2025 06:13 PM EST",
     "updates": [
+        {
+            "date_text": "February 25, 2025",
+            "version": "Version 16.94.2 (Build 25022327)",
+            "security_updates": {
+                "N/A": [
+                    {
+                        "cve_name": "N/A",
+                        "url": null
+                    }
+                ]
+            }
+        },
         {
             "date_text": "February 18, 2025",
             "version": "Version 16.94.1 (Build 25021618)",

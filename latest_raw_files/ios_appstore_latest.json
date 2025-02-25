@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 25, 2025 09:14 AM EST",
+    "last_updated": "February 25, 2025 10:16 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "WooCommerce",
             "bundleId": "com.automattic.woocommerce",
-            "currentVersionReleaseDate": "February 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/b0/44/0bb0444b-33a5-f284-4ea0-42133f61d5a6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/61/29/78612974-a66f-d062-2bbf-6428e3df72f0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "This update brings improvements to media library and login experience. You'll find enhanced accessibility in tax-related views and clearer product image organization with cover tags to help you manage your store. Update now for a smoother WooCommerce experience!",
-            "version": "21.7"
+            "releaseNotes": "Experience a refreshed WooCommerce app with an updated look that aligns with our new branding! We\u2019ve also improved payment reliability\u2014card reader updates now handle low battery issues better, and errors during payments and refunds are managed more smoothly. Enjoy a more seamless and polished experience in every transaction.",
+            "version": "21.6"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "February 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/fc/43/80fc4383-3206-80ed-a6a9-c34aaddffeaf/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/a6/7a/3da67a42-7d95-3f3b-fa16-7c8b5d4d097a/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.2.1"
+            "version": "7.2.0"
         },
         {
             "name": "iOS Microsoft To-Do",

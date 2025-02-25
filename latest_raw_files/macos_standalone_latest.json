@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 25, 2025 02:11 PM EST",
+    "last_updated": "February 25, 2025 03:15 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -76,14 +76,14 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.94.1 (25021618)",
-            "full_version": "16.94.25021618",
-            "last_updated": "February 16, 2025",
+            "short_version": "16.94.2 (25022327)",
+            "full_version": "16.94.25022327",
+            "last_updated": "February 23, 2025",
             "min_os": "13.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.94.25021618_Updater.pkg",
+            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.94.25022327_Updater.pkg",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2228621",
-            "sha1": "6666152f3317d51f2073c3fafa8c2fb997d11e1b",
-            "sha256": "89dcdef105e5d92478fa28881b0d232c90e38f641674c5839ab8ba2a0f03ea58"
+            "sha1": "5c11008bacdb1bb5a6cce71ad63a200b0f977ba0",
+            "sha256": "ffb1f27d971f96066e0586eed46805951a95c5975979bad131389fe159314e63"
         },
         {
             "name": "OneNote",
@@ -106,7 +106,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.015.0126",
             "full_version": "0126.0002",
-            "last_updated": "February 25, 2025 02:11 PM EST",
+            "last_updated": "February 25, 2025 03:15 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.015.0126.0002/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.015.0126.0002/OneDrive.pkg",

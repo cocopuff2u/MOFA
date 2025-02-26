@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 26, 2025 04:15 AM EST</last_updated>
+	<last_updated>February 26, 2025 05:15 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -280,11 +280,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Sharepoint</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>February 14, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/07/af/2b07af74-1867-8144-4114-d123413adadf/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 25, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/a2/3d/ffa23d6c-a5cf-5772-b083-8f707dcfdeec/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Stability improvements and fixes.</releaseNotes>
-		<version>4.54.2</version>
+		<version>4.54.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Business Central</name>
@@ -320,11 +320,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Microsoft Advertising</application_name>
 		<bundleId>com.microsoft.bingadsmobile</bundleId>
-		<currentVersionReleaseDate>February 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6d/0a/156d0acd-9621-4f06-dd8a-3c4f57b2ea77/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 04, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/96/33/529633f7-5531-3a49-25d0-bf44ab6d1b24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>13.4</minimumOsVersion>
 		<releaseNotes>With the latest release, the app now supports the Simplified Chinese language and locale formatting.</releaseNotes>
-		<version>2.22.9</version>
+		<version>2.22.7</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 26, 2025 12:13 PM EST",
+    "last_updated": "February 26, 2025 01:19 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "February 20, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/e3/d4/d2e3d4fc-4338-850f-6ec6-268f47b52b9c/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 25, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/88/0a/61880af9-53d3-b4cc-5b71-58d82cf1d57e/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Quality and performance improvements.",
-            "version": "16.94.1"
+            "releaseNotes": "\u2022 Quality and performance improvements",
+            "version": "16.94.2"
         },
         {
             "name": "MacOS Microsoft OneNote",

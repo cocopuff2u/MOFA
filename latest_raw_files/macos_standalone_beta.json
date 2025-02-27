@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 26, 2025 08:08 PM EST",
+    "last_updated": "February 26, 2025 09:50 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -78,11 +78,11 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.020.0202",
             "full_version": "0202.0001",
-            "last_updated": "February 26, 2025 08:08 PM EST",
+            "last_updated": "February 26, 2025 09:50 PM EST",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg",
-            "sha1": "N/A",
+            "sha1": "7f4421a44ea5928a5f013fad07e311c645bedb05",
             "sha256": "03d86a1ba7f1cb0c88249916626ca09a38d65f39a0ad04aba00d67db10e160a2"
         },
         {

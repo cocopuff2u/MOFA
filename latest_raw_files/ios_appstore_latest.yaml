@@ -1,4 +1,4 @@
-last_updated: February 26, 2025 10:22 PM EST
+last_updated: February 26, 2025 11:17 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -242,11 +242,11 @@ packages:
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: February 26, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/85/a1/2585a116-8be0-0c23-1a55-67e85bbd6f5c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 25, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/a2/3d/ffa23d6c-a5cf-5772-b083-8f707dcfdeec/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: Stability improvements and fixes.
-    version: 4.54.5
+    version: 4.54.3
   - name: iOS Microsoft Dynamics 365 Business Central
     application_name: Dynamics 365 Business Central
     bundleId: com.microsoft.dynamics.ProjectMadeira

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 28, 2025 07:28 AM EST</last_updated>
+	<last_updated>February 28, 2025 08:21 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -62,11 +62,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>February 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/a7/b7/eba7b767-61b9-2b87-b801-70510259c7d0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/a5/cd/97a5cd15-164a-7c18-808b-453ac7c399a5/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>OneDrive has a whole new look! Enjoy easy access to your memories and photos while still keeping your files safe.</releaseNotes>
-		<version>16.5.9</version>
+		<version>16.5.12</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
@@ -92,8 +92,8 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>February 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/c4/5c/69c45cfb-a3e6-e1ef-7fd7-efd3b66e67b3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/ab/25/61ab2558-eeae-6301-2fa1-c7007253975d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
 • Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.
@@ -101,7 +101,7 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 • New Search Box: Boost your navigation efficiency! Note: Profile is now in the menu.
 • Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>133.3065.92</version>
+		<version>133.3065.80</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -208,8 +208,8 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>February 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/c4/5c/69c45cfb-a3e6-e1ef-7fd7-efd3b66e67b3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/ab/25/61ab2558-eeae-6301-2fa1-c7007253975d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
 • Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.
@@ -217,7 +217,7 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 • New Search Box: Boost your navigation efficiency! Note: Profile is now in the menu.
 • Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>133.3065.92</version>
+		<version>133.3065.80</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

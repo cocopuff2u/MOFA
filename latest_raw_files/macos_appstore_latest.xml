@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 28, 2025 07:28 AM EST</last_updated>
+	<last_updated>February 28, 2025 08:21 AM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -70,19 +70,13 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>February 24, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/07/a3/7f07a3e7-253d-411a-5c24-c3735e69ed9f/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>February 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ad/14/6ead149d-2600-c970-ffa9-cb57c339338d/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates:
-
-• Resolved an issue affecting nonce acquisition for RDS AAD Auth when using an HTTP proxy.
-• Improved non-full screen session reconnect UI flows.
-• Removed support for setting explicit credentials for Cloud PCs due to the pervasiveness of RDSAAD Auth.
-• Updated Spotlight search to show &quot;Windows App&quot; under Applications when searching for &quot;Remote Desktop&quot;.
-• Added support for jumping to the System Local Network Access UI to update or review permissions for 0x104 errors.
+		<releaseNotes>This release contains a fix to restore smart card redirection (which was broken by the 11.1.1 update).
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.1.1</version>
+		<version>11.1.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

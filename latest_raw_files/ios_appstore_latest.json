@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 01, 2025 01:19 AM EST",
+    "last_updated": "March 01, 2025 02:12 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -65,11 +65,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Link to Windows",
             "bundleId": "com.microsoft.LinkToWindows",
-            "currentVersionReleaseDate": "February 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/26/561726dc-2225-7f30-dec9-4e08496deac0/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 28, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/95/30/339530c9-6f05-94d6-e930-0af2106f506d/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.6",
             "releaseNotes": "Now you can seamlessly share files between your PC and iPhone. You can set up file sharing by linking your iPhone to your Microsoft account.",
-            "version": "1.25011.25"
+            "version": "1.25011.28"
         },
         {
             "name": "iOS Microsoft Defender Security",

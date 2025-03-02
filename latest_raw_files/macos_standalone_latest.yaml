@@ -1,4 +1,4 @@
-last_updated: March 01, 2025 08:12 PM EST
+last_updated: March 01, 2025 09:53 PM EST
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -90,7 +90,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.015.0126
   full_version: '0126.0002'
-  last_updated: March 01, 2025 08:12 PM EST
+  last_updated: March 01, 2025 09:53 PM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/25.015.0126.0002/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/25.015.0126.0002/OneDrive.pkg

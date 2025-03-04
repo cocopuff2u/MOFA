@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 04, 2025 03:17 AM EST</last_updated>
+	<last_updated>March 04, 2025 04:15 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -310,11 +310,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Authenticator</name>
 		<application_name>Microsoft Authenticator</application_name>
 		<bundleId>com.microsoft.azureauthenticator</bundleId>
-		<currentVersionReleaseDate>January 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/5b/af/375baf85-9626-6248-e63a-36e03818bd86/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 03, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/5e/ee/585eee29-6515-bea8-0128-55efa9c1e0d8/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.</releaseNotes>
-		<version>6.8.21</version>
+		<version>6.8.22</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>

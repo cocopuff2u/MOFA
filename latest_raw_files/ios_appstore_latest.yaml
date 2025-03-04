@@ -1,4 +1,4 @@
-last_updated: March 03, 2025 08:09 PM EST
+last_updated: March 03, 2025 09:51 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -160,12 +160,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: February 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/cb/8f/e4cb8ff3-8607-86b3-8afe-15b9839a85b1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 03, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/51/69/dd516986-2e3a-8272-130d-33c5254d6503/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We've improved the stability of Viva Engage in this release. We
       hope you enjoy it!
-    version: 10.91.0
+    version: 10.92.0
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard
@@ -267,13 +267,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: January 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/5b/af/375baf85-9626-6248-e63a-36e03818bd86/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 03, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/5e/ee/585eee29-6515-bea8-0128-55efa9c1e0d8/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
       improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.21
+    version: 6.8.22
   - name: iOS Microsoft Advertising
     application_name: Microsoft Advertising
     bundleId: com.microsoft.bingadsmobile
@@ -302,11 +302,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: February 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/0a/c3/ed0ac354-7468-3fd6-e4d6-ce93ef12b5e8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.4'
+    currentVersionReleaseDate: March 03, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/a8/08/d0a80894-8d36-9de2-e692-2a53e5bad81c/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
     releaseNotes: "- Improved stability and fixed various bugs.\u200B"
-    version: '33.4'
+    version: '33.5'
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin
     bundleId: com.microsoft.o365shdmobileapp

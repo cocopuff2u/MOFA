@@ -1,4 +1,4 @@
-last_updated: March 04, 2025 03:17 AM EST
+last_updated: March 04, 2025 04:15 AM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -66,7 +66,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.025.0209
   full_version: '0209.0001'
-  last_updated: March 04, 2025 03:17 AM EST
+  last_updated: March 04, 2025 04:15 AM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg

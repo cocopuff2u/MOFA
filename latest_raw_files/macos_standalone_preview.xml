@@ -1,75 +1,75 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>March 03, 2025 06:13 PM EST</last_updated>
+    <last_updated>March 03, 2025 08:09 PM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.94.0 (25020927)</short_version>
-        <full_version>16.94.25020927</full_version>
-        <last_updated>February 09, 2025</last_updated>
+        <short_version>16.95.0 (25030315)</short_version>
+        <full_version>16.95.25030315</full_version>
+        <last_updated>March 03, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.94.25020927_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.94.25020927_Updater.pkg</latest_download>
-        <sha1>46a58fe302a06ffaf3282d8083d4f86668d33b67</sha1>
-        <sha256>fc0a5f57a0e7e6e3303b0686a7910dd2e77cf2b6ac2416d8b9c451c6cee247fd</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.95.25030315_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.95.25030315_Updater.pkg</latest_download>
+        <sha1>8501d8b4740201e952be8e189bf30554a62715d8</sha1>
+        <sha256>d1e4c1f565d100c996c7f5885c2716437face8d962f5772f11f5d2f3cb363d1c</sha256>
     </package>
     <package>
         <name>Excel</name>
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.94.0 (25020927)</short_version>
-        <full_version>16.94.25020927</full_version>
-        <last_updated>February 09, 2025</last_updated>
+        <short_version>16.95.0 (25030315)</short_version>
+        <full_version>16.95.25030315</full_version>
+        <last_updated>March 03, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.94.25020927_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.94.25020927_Updater.pkg</latest_download>
-        <sha1>d9ee88bef431c88a71e432d0a79680ca340a7564</sha1>
-        <sha256>8d5c21b34e698df5fb09cc3d2529a1f0af6b641583907b3db7f7452dcf7d413b</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.95.25030315_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.95.25030315_Updater.pkg</latest_download>
+        <sha1>4b07dc6e840f4dbd60b6c3e83bc3cfef50de483c</sha1>
+        <sha256>f4d4ce67f6b79e0a30581b3892111a69c33c9a321bf28d9e3f9734dc1590f1f9</sha256>
     </package>
     <package>
         <name>PowerPoint</name>
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.94.0 (25020927)</short_version>
-        <full_version>16.94.25020927</full_version>
-        <last_updated>February 09, 2025</last_updated>
+        <short_version>16.95.0 (25030315)</short_version>
+        <full_version>16.95.25030315</full_version>
+        <last_updated>March 03, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.94.25020927_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.94.25020927_Updater.pkg</latest_download>
-        <sha1>e473866b9e618404ceb0dd8e4128e1555be9a446</sha1>
-        <sha256>a38e2def764c28cb2883be9aa8b3398a02a3fc3c3f276e34372c361f77cadfd6</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.95.25030315_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.95.25030315_Updater.pkg</latest_download>
+        <sha1>156834d2e4ee52f83f19fdcdd7a4a88bcddf79b5</sha1>
+        <sha256>4ccf2eee38adf0b624bdb948bb8b24d0cffefd2170614506d8aea13af5398f85</sha256>
     </package>
     <package>
         <name>Outlook</name>
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.94.2 (25022327)</short_version>
-        <full_version>16.94.25022327</full_version>
-        <last_updated>February 23, 2025</last_updated>
+        <short_version>16.95.0 (25030315)</short_version>
+        <full_version>16.95.25030315</full_version>
+        <last_updated>March 03, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25022327_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.94.25022327_Updater.pkg</latest_download>
-        <sha1>f438050cb0597d7a436b07414551329f982a5961</sha1>
-        <sha256>d22620b99d465f1d226aafd2f4ee802b3805fc11daf513621bc878c72c3449ac</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.95.25030315_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.95.25030315_Updater.pkg</latest_download>
+        <sha1>8c6f02d37672acff6deab7163b3c70d34d659e93</sha1>
+        <sha256>76d159a123883ff36aa26b9e5c219976415ab4d0a99ad7260c1c5c8bb1a78e21</sha256>
     </package>
     <package>
         <name>OneNote</name>
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote</CFBundleVersion>
-        <short_version>16.94.0 (25020927)</short_version>
-        <full_version>16.94.25020927</full_version>
-        <last_updated>February 09, 2025</last_updated>
+        <short_version>16.95.0 (25030315)</short_version>
+        <full_version>16.95.25030315</full_version>
+        <last_updated>March 03, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.94.25020927_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.94.25020927_Updater.pkg</latest_download>
-        <sha1>f183bf0e5f588d905269006fca2279e8ccff117e</sha1>
-        <sha256>2e57ad240cfb7edb02693bc4764040455a58e4edbb60cf5ab113511d093f1340</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.95.25030315_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.95.25030315_Updater.pkg</latest_download>
+        <sha1>0f76ecebb12af5c99e692a0c81bfb9ee641c1107</sha1>
+        <sha256>f2aba3f6466cdc1e439b7d51510a30b774b118fb76af9e7f2ca3128e60902a86</sha256>
     </package>
     <package>
         <name>OneDrive</name>
@@ -78,7 +78,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.025.0209</short_version>
         <full_version>0209.0001</full_version>
-        <last_updated>March 03, 2025 06:13 PM EST</last_updated>
+        <last_updated>March 03, 2025 08:09 PM EST</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg</latest_download>
@@ -104,14 +104,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>25031.1203.3429.7545</short_version>
-        <full_version>25031.1203.3429.7545</full_version>
-        <last_updated>February 14, 2025</last_updated>
+        <short_version>25044.2403.3447.52</short_version>
+        <full_version>25044.2403.3447.52</full_version>
+        <last_updated>February 22, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://statics.teams.cdn.office.net/production-osx/25031.1203.3429.7545/MicrosoftTeams.pkg</update_download>
-        <latest_download>https://statics.teams.cdn.office.net/production-osx/25031.1203.3429.7545/MicrosoftTeams.pkg</latest_download>
-        <sha1>203ca2be861c164dff8d6cff158659419aa4d0dc</sha1>
-        <sha256>f3a1b4d3880c97d361a91523baa4d9f69c3eeaa4f523f80af27e72261a046f38</sha256>
+        <update_download>https://statics.teams.cdn.office.net/production-osx/25044.2403.3447.52/MicrosoftTeams.pkg</update_download>
+        <latest_download>https://statics.teams.cdn.office.net/production-osx/25044.2403.3447.52/MicrosoftTeams.pkg</latest_download>
+        <sha1>28239e5c954575b37d849065ee682ddf978c1bf2</sha1>
+        <sha256>faba8a26021bee8e8d3042f675e34747cd513861882e9b36b69787b964155d15</sha256>
     </package>
     <package>
         <name>Intune</name>

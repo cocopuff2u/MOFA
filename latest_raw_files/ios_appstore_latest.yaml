@@ -1,4 +1,4 @@
-last_updated: March 04, 2025 05:13 PM EST
+last_updated: March 04, 2025 06:13 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -214,15 +214,15 @@ packages:
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure
-    currentVersionReleaseDate: February 24, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/fc/43/80fc4383-3206-80ed-a6a9-c34aaddffeaf/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/af/7a/69af7ad6-5438-1c21-b8ec-7ffc6cf1ec5f/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: 'Thank you for using the Azure app. Our regular updates include
       performance improvements and bug fixes to make the app faster and more reliable.
 
 
       Please reach out to us for any questions, concerns, or feature requests.'
-    version: 7.2.1
+    version: 7.2.2
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
@@ -234,11 +234,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: February 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/c3/9e80c36c-c8f6-3938-6cb8-7ea523759ac4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 03, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/1c/f2/111cf29d-6932-4c25-7ef3-81c31c0316c2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.3.2
+    version: 7.4.0
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
@@ -259,11 +259,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: February 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/0c/65/ac0c6500-eb7c-8aac-ff8c-36bfd7fcfb51/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/56/a0/f456a0f0-c4d8-a5a6-4a56-0fff8bbf988d/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25023.3
+    version: 3.25024.6
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
@@ -302,11 +302,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: March 03, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/a8/08/d0a80894-8d36-9de2-e692-2a53e5bad81c/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/a7/25/a2a7252e-36aa-7f8e-3c3c-137cb7862702/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "- Improved stability and fixed various bugs.\u200B"
-    version: '33.5'
+    version: '33.6'
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin
     bundleId: com.microsoft.o365shdmobileapp

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 05, 2025 06:12 AM EST</last_updated>
+	<last_updated>March 05, 2025 07:29 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -248,13 +248,13 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Azure</name>
 		<application_name>Microsoft Azure</application_name>
 		<bundleId>com.microsoft.azure</bundleId>
-		<currentVersionReleaseDate>February 24, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/fc/43/80fc4383-3206-80ed-a6a9-c34aaddffeaf/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/af/7a/69af7ad6-5438-1c21-b8ec-7ffc6cf1ec5f/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.
 
 Please reach out to us for any questions, concerns, or feature requests.</releaseNotes>
-		<version>7.2.1</version>
+		<version>7.2.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft To-Do</name>

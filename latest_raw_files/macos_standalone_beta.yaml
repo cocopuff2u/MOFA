@@ -1,4 +1,4 @@
-last_updated: March 05, 2025 10:16 AM EST
+last_updated: March 05, 2025 11:24 AM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -66,7 +66,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.025.0209
   full_version: '0209.0001'
-  last_updated: March 05, 2025 10:16 AM EST
+  last_updated: March 05, 2025 11:24 AM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg
@@ -88,14 +88,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 25060.201.3468.908
-  full_version: 25060.201.3468.908
-  last_updated: March 03, 2025
+  short_version: 25060.203.3471.5023
+  full_version: 25060.203.3471.5023
+  last_updated: March 05, 2025
   min_os: '13.0'
-  update_download: https://statics.teams.cdn.office.net/production-osx/25060.201.3468.908/MicrosoftTeams.pkg
-  latest_download: https://statics.teams.cdn.office.net/production-osx/25060.201.3468.908/MicrosoftTeams.pkg
-  sha1: 49b0783e79c132e420143ede6debde8c421498cd
-  sha256: a1f7ee09fe1e3d0903aa3b3c11f8dc1790ed1d1ca9d53ffc33a25c3a5ad11024
+  update_download: https://statics.teams.cdn.office.net/production-osx/25060.203.3471.5023/MicrosoftTeams.pkg
+  latest_download: https://statics.teams.cdn.office.net/production-osx/25060.203.3471.5023/MicrosoftTeams.pkg
+  sha1: 3022bd8f82f1bce381b3223f22f6d19f9e319ce3
+  sha256: 554cc8f8534e54eff2e7c950c6c6fbbd90f7161d5bef0d99c33e7238a869cf07
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app

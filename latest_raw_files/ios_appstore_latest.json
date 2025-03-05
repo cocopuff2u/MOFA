@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 05, 2025 04:15 AM EST",
+    "last_updated": "March 05, 2025 05:15 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "February 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/fc/43/80fc4383-3206-80ed-a6a9-c34aaddffeaf/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/af/7a/69af7ad6-5438-1c21-b8ec-7ffc6cf1ec5f/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.2.1"
+            "version": "7.2.2"
         },
         {
             "name": "iOS Microsoft To-Do",

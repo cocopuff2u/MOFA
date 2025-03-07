@@ -20,7 +20,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 07, 2025 03:15 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 07, 2025 04:11 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |----------------------|----------------------|--------------------------|--------------|
@@ -39,7 +39,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Defender for Endpoint Installer**<br><a href="https://learn.microsoft.com/microsoft-365/security/defender-endpoint/mac-whatsnew" style="text-decoration: none;"><small>_Release Notes_</small></a> | `101.24122.0011` | com.microsoft.wdav | <a href="https://go.microsoft.com/fwlink/?linkid=2097502"><img src=".github/images/defender_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Defender for Consumers Installer**<br><a href="https://learn.microsoft.com/microsoft-365/security/defender-endpoint/mac-whatsnew" style="text-decoration: none;"><small>_Release Notes_</small></a> | `101.24122.0011` | com.microsoft.wdav | <a href="https://go.microsoft.com/fwlink/?linkid=2247001"><img src=".github/images/defender_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Defender SHIM Installer** | `101.24080.0001` | com.microsoft.wdav.shim | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.24080.0001_Individuals_Shim_Installer.pkg"><img src=".github/images/defender_512x512x32.png" alt="Download Image" width="80"></a> |
-| **Windows App Standalone Installer** </a><sup>_(Remote Desktop <img src=".github/images/microsoft-remote-desktop-logo.png" alt="Remote Desktop" width="15"></a>)_</sup><br><a href="https://learn.microsoft.com/en-us/windows-app/whats-new?tabs=macos" style="text-decoration: none;"><small>_Release Notes_</small> | `11.1.2` | com.microsoft.rdc.macos | <a href="https://go.microsoft.com/fwlink/?linkid=868963"><img src=".github/images/windowsapp.png" alt="Download Image" width="80"></a> |
+| **Windows App Standalone Installer** </a><sup>_(Remote Desktop <img src=".github/images/microsoft-remote-desktop-logo.png" alt="Remote Desktop" width="15"></a>)_</sup><br><a href="https://learn.microsoft.com/en-us/windows-app/whats-new?tabs=macos" style="text-decoration: none;"><small>_Release Notes_</small> | `11.1.3` | com.microsoft.rdc.macos | <a href="https://go.microsoft.com/fwlink/?linkid=868963"><img src=".github/images/windowsapp.png" alt="Download Image" width="80"></a> |
 | **Visual Studio Code Standalone Installer**<br><a href="https://code.visualstudio.com/updates/" style="text-decoration: none;"><small>_Release Notes_</small></a>  | `1.98.0` | com.microsoft.VSCode | <a href="https://go.microsoft.com/fwlink/?linkid=2156837"><img src=".github/images/Code_512x512x32.png" alt="Download Image" width="80"></a>|
 | **AutoUpdate Standalone Installer**<br><a href="https://learn.microsoft.com/en-us/officeupdates/release-history-microsoft-autoupdate" style="text-decoration: none;"><small>_Release Notes_</small></a>  | `4.77 (24121924)` | com.microsoft.autoupdate | <a href="https://go.microsoft.com/fwlink/?linkid=830196"><img src=".github/images/autoupdate.png" alt="Download Image" width="80"></a>|
 | **Licensing Helper Tool Installer** | `16.77.0 (23091003)` | N/A | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg"><img src=".github/images/pkg-icon.png" alt="Download Image" width="80"></a>|
@@ -103,7 +103,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 07, 2025 03:16 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 07, 2025 04:12 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -121,7 +121,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 07, 2025 03:16 PM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 07, 2025 04:12 PM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

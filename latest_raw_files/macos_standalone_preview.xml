@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>March 07, 2025 11:17 AM EST</last_updated>
+    <last_updated>March 07, 2025 12:12 PM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -76,14 +76,14 @@
         <application_id>OneDrive.app</application_id>
         <application_name>OneDrive.app</application_name>
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-        <short_version>25.025.0209</short_version>
-        <full_version>0209.0001</full_version>
-        <last_updated>March 07, 2025 11:17 AM EST</last_updated>
+        <short_version>25.031.0217</short_version>
+        <full_version>0217.0002</full_version>
+        <last_updated>March 07, 2025 12:12 PM EST</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg</update_download>
-        <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg</latest_download>
-        <sha1>c99d1d0d2bf7efba5f8ac19aec710ce4a3ab0431</sha1>
-        <sha256>2678e19d1ba7fdb7583b1e8eba201e5b9f1dd9d933e47855ae1fadf62432daec</sha256>
+        <update_download>https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0002/OneDrive.pkg</update_download>
+        <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0002/OneDrive.pkg</latest_download>
+        <sha1>2942a92c3ec6068fd122aeee015fcde65e72512e</sha1>
+        <sha256>8d168a2b8a1e556096a1bd4ead50d134e5f1fce41b2770fc9e2b8df04a6861ac</sha256>
     </package>
     <package>
         <name>Skype</name>

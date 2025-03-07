@@ -1,4 +1,4 @@
-last_updated: March 07, 2025 03:15 PM EST
+last_updated: March 07, 2025 04:11 PM EST
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -90,7 +90,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.020.0202
   full_version: '0202.0001'
-  last_updated: March 07, 2025 03:15 PM EST
+  last_updated: March 07, 2025 04:11 PM EST
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg
@@ -184,11 +184,11 @@ packages:
   application_id: MSRD10
   application_name: Windows App.app
   CFBundleVersion: com.microsoft.windows.app
-  short_version: 11.1.2
-  full_version: '2528'
-  last_updated: February 27, 2025
+  short_version: 11.1.3
+  full_version: '2532'
+  last_updated: March 04, 2025
   min_os: '12.0'
-  update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.2_updater.pkg
+  update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.3_updater.pkg
   latest_download: https://go.microsoft.com/fwlink/?linkid=868963
   sha1: 3caa093439bac534bc065d0a34f62b6207c67f22
   sha256: b4c1f5c59176eec80c841df4207a51ef6999d6c398c886e3dfa8525acdc5c2d3

@@ -1,4 +1,4 @@
-last_updated: March 08, 2025 12:11 AM EST
+last_updated: March 08, 2025 01:16 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -57,15 +57,15 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: March 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5e/e9/d65ee9b1-8687-cdd5-cca3-fabe04c98f68/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: February 27, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ad/14/6ead149d-2600-c970-ffa9-cb57c339338d/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
     minimumOsVersion: '12.0'
-    releaseNotes: 'This is a quick release to address minor UI issues related to device
-      cards and the Cloud PC details sheet.
+    releaseNotes: 'This release contains a fix to restore smart card redirection (which
+      was broken by the 11.1.1 update).
 
 
       If you encounter any errors, you can contact us via Help > Submit Feedback.'
-    version: 11.1.3
+    version: 11.1.2
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac

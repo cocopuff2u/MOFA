@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 10, 2025 04:06 PM EDT",
+    "last_updated": "March 10, 2025 05:05 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -106,7 +106,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.025.0209",
             "full_version": "0209.0001",
-            "last_updated": "March 10, 2025 04:06 PM EDT",
+            "last_updated": "March 10, 2025 05:05 PM EDT",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg",
@@ -230,14 +230,14 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code.app",
             "CFBundleVersion": "com.microsoft.visualstudio",
-            "short_version": "1.98.0",
-            "full_version": "1.98.0",
-            "last_updated": "March 04, 2025",
+            "short_version": "1.98.1",
+            "full_version": "1.98.1",
+            "last_updated": "March 10, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/2fc07b811f760549dab9be9d2bedd06c51dfcb9a/VSCode-darwin-universal.zip",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
-            "sha1": "623b01bb26f9b9c9132005207a8dcfc62de6de14",
-            "sha256": "18420e16095b73f4baa7b37b5a4b59baec3996d0be1cbf944527a084e486ff18"
+            "sha1": "c16839beea8e5a007f4a5fd92c947667db93b0f0",
+            "sha256": "0421bb026a20d538e7fef13979189489be1b5cf2bbc5a86a61d93b39301c2311"
         },
         {
             "name": "MAU",

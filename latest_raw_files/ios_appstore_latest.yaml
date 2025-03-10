@@ -1,4 +1,4 @@
-last_updated: March 10, 2025 04:07 PM EDT
+last_updated: March 10, 2025 05:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -38,15 +38,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: February 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/b9/33/0fb933ef-34f2-1b30-a2fe-9da73570e256/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fa/c0/e0fac0b4-97ac-04ea-b99b-36e69ea67510/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.94.1
+    version: '16.95'
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive

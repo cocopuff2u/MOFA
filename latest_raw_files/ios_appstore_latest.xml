@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 09, 2025 11:06 PM EDT</last_updated>
+	<last_updated>March 10, 2025 12:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -92,8 +92,8 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>February 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/c4/5c/69c45cfb-a3e6-e1ef-7fd7-efd3b66e67b3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/6a/e4/506ae471-7519-3533-ab56-986016e4357c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
 • Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.
@@ -101,7 +101,7 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 • New Search Box: Boost your navigation efficiency! Note: Profile is now in the menu.
 • Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>133.3065.92</version>
+		<version>134.3124.51</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -208,8 +208,8 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>February 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/c4/5c/69c45cfb-a3e6-e1ef-7fd7-efd3b66e67b3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/6a/e4/506ae471-7519-3533-ab56-986016e4357c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
 • Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.
@@ -217,7 +217,7 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 • New Search Box: Boost your navigation efficiency! Note: Profile is now in the menu.
 • Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>133.3065.92</version>
+		<version>134.3124.51</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

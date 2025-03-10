@@ -1,4 +1,4 @@
-last_updated: March 10, 2025 02:07 PM EDT
+last_updated: March 10, 2025 03:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -11,11 +11,11 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: February 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/8a/85/0d8a8564-7464-56af-d947-c59ca6725ce4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/73/77/d173778e-b500-2257-d8e8-e26429335c18/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.94.2
+    version: '2.95'
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -177,8 +177,8 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: March 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/6a/e4/506ae471-7519-3533-ab56-986016e4357c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/c4/5c/69c45cfb-a3e6-e1ef-7fd7-efd3b66e67b3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
       \u2022 Introducing the New Copilot: This update includes an intuitive design\
@@ -187,7 +187,7 @@ packages:
       \ New Search Box: Boost your navigation efficiency! Note: Profile is now in\
       \ the menu.\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
       \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 134.3124.51
+    version: 133.3065.92
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

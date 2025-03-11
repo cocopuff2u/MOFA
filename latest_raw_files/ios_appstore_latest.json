@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 10, 2025 09:34 PM EDT",
+    "last_updated": "March 10, 2025 10:31 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -15,21 +15,21 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "February 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/8a/85/0d8a8564-7464-56af-d947-c59ca6725ce4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/73/77/d173778e-b500-2257-d8e8-e26429335c18/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94.2"
+            "version": "2.95"
         },
         {
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "February 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/45/8d/ab458d54-0ab7-2f13-55e6-846da4c19183/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/10/0c/4e100ce1-26f9-b416-d796-950464c0ce81/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94.2"
+            "version": "2.95"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "February 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/a5/cd/97a5cd15-164a-7c18-808b-453ac7c399a5/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/1f/3e/0f1f3eef-29fb-5544-9073-c9e98180d51e/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "OneDrive has a whole new look! Enjoy easy access to your memories and photos while still keeping your files safe.",
-            "version": "16.5.12"
+            "releaseNotes": "This update contains bug fixes and stability improvements.",
+            "version": "16.6.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -95,11 +95,11 @@
             "name": "iOS Microsoft Loop",
             "application_name": "Microsoft Loop",
             "bundleId": "com.microsoft.loop",
-            "currentVersionReleaseDate": "February 19, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/cd/fd/a1cdfdcc-dbb9-2b91-0b4e-0a146e7de75d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/af/66/a6af6618-870d-ad08-79ed-18fc2028a7f9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94.1"
+            "version": "2.95"
         },
         {
             "name": "iOS Microsoft Warehouse Management",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "WooCommerce",
             "bundleId": "com.automattic.woocommerce",
-            "currentVersionReleaseDate": "February 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/b0/44/0bb0444b-33a5-f284-4ea0-42133f61d5a6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/30/36/1430361a-1f23-98b2-78f5-5997b09baca8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "This update brings improvements to media library and login experience. You'll find enhanced accessibility in tax-related views and clearer product image organization with cover tags to help you manage your store. Update now for a smoother WooCommerce experience!",
-            "version": "21.7"
+            "releaseNotes": "This update resolves a critical issue preventing shipping labels from displaying in some orders. Enhancements include a better experience for uploading product images and creating Blaze campaigns. Additionally, merchants can now mark and filter favorite products for easier access.",
+            "version": "21.8"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
@@ -133,13 +133,13 @@
         },
         {
             "name": "iOS Microsoft Lists",
-            "application_name": "Microsoft Excel",
-            "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "February 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/8a/85/0d8a8564-7464-56af-d947-c59ca6725ce4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "application_name": "Microsoft Word",
+            "bundleId": "com.microsoft.Office.Word",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/3e/9b/bf3e9bc7-c0b1-be5f-f475-6b30765e3db4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94.2"
+            "version": "2.95"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Field Service",
@@ -365,11 +365,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "February 11, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/0d/ee/c10dee03-6444-5b65-f1fd-ceca60a4d630/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/a9/55/65a9554f-7246-ad3c-5947-14111b564d8a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94"
+            "version": "2.95"
         },
         {
             "name": "iOS Microsoft Skype for Business",

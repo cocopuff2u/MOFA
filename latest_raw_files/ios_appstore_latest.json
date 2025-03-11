@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 11, 2025 04:08 AM EDT",
+    "last_updated": "March 11, 2025 05:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -25,21 +25,21 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "February 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/45/8d/ab458d54-0ab7-2f13-55e6-846da4c19183/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/10/0c/4e100ce1-26f9-b416-d796-950464c0ce81/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.94.2"
+            "version": "2.95"
         },
         {
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "February 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/39/0b/5b390b01-9661-2a6e-ee91-23601c9865c4/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/1a/5e/ff1a5ebe-388f-47bc-4cdd-ff4b9ba251d4/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2507.1"
+            "version": "4.2509.0"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "WooCommerce",
             "bundleId": "com.automattic.woocommerce",
-            "currentVersionReleaseDate": "February 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/b0/44/0bb0444b-33a5-f284-4ea0-42133f61d5a6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/30/36/1430361a-1f23-98b2-78f5-5997b09baca8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "This update brings improvements to media library and login experience. You'll find enhanced accessibility in tax-related views and clearer product image organization with cover tags to help you manage your store. Update now for a smoother WooCommerce experience!",
-            "version": "21.7"
+            "releaseNotes": "This update resolves a critical issue preventing shipping labels from displaying in some orders. Enhancements include a better experience for uploading product images and creating Blaze campaigns. Additionally, merchants can now mark and filter favorite products for easier access.",
+            "version": "21.8"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",

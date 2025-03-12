@@ -1,6 +1,37 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>March 11, 2025 08:26 PM EDT</last_scan_date>
+    <last_scan_date>March 11, 2025 09:33 PM EDT</last_scan_date>
+    <Update>
+        <Date>March 11, 2025</Date>
+        <Version>Version 16.95 (Build 25030928)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2025-24081</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24081</URL>
+                <CVE>CVE-2025-24075</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24075</URL>
+                <CVE>CVE-2025-24082</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24082</URL>
+            </Application>
+            <Application>
+                <Name>Word</Name>
+                <CVE>CVE-2025-24079</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24079</URL>
+                <CVE>CVE-2025-24078</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24078</URL>
+                <CVE>CVE-2025-24077</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24077</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2025-24083</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24083</URL>
+                <CVE>CVE-2025-24057</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24057</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>February 25, 2025</Date>
         <Version>Version 16.94.2 (Build 25022327)</Version>

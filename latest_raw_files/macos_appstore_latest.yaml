@@ -1,4 +1,4 @@
-last_updated: March 12, 2025 05:05 PM EDT
+last_updated: March 12, 2025 06:06 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -27,11 +27,33 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: February 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/88/0a/61880af9-53d3-b4cc-5b71-58d82cf1d57e/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: March 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/cd/7c/06cd7c39-f724-b6ab-a893-ca326be4ab88/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Quality and performance improvements"
-    version: 16.94.2
+    releaseNotes: "Feature Updates:\n\u2022 Shared Mailboxes: We now support Shared\
+      \ Mailboxes in Outlook for Mac for Exchange On-Premise environment.\n\u2022\
+      \ Calendar: Access Teams meeting chat from meeting reminders: We support easy\
+      \ access to Teams meeting chat from the reminder window.\n\u2022 Calendar: Quickly\
+      \ glance which meeting is up next by looking at My Day in the menu bar.\n\u2022\
+      \ Admin Pref: Added a preference for admins to set Focused Inbox off by default.\
+      \ Users can manually turn on Focused Inbox. Details can be accessed here.\n\u2022\
+      \ M365 Copilot Chat: Your AI assistant for work, grounding Copilot conversations\
+      \ in both the latest large language models (LLM) and information from your content\
+      \ and the web, directly in Outlook.\n\nResolved Issues:\n\u2022 Accessibility:\
+      \ Fixed an issue where Infobar text is unreadable when hovering over a button\
+      \ in dark mode.\n\u2022 Mail: Fixed an issue where disabling Encrypt Only and\
+      \ Do Not Forward also hid related templates in Outlook for Mac. The preferences\
+      \ will now only disable Encrypt Only and Do Not Forward from the UI, allowing\
+      \ labels to remain visible as intended.\n\u2022 Mail: Fixed an issue where delegates\
+      \ were not seeing the correct infobar when meetings are tentatively accepted\
+      \ on behalf of a manager.\n\u2022 Mail: Fixed an issue where SMIME encrypted\
+      \ emails moved to \"On My Computer\" were not displaying any content in Outlook\
+      \ for Mac.\n\u2022 Crash: Fixed the issue that caused Outlook to crash when\
+      \ the admin pushed the SMIMECertificatesLookupOrder property to client machines.\n\
+      \u2022 Crash: Fixed an issue where double-clicking the group calendar in side-by-side\
+      \ mode caused Outlook to crash.\n\u2022 Performance: Fixed a performance issue\
+      \ that occurred when using multiple profiles in Outlook."
+    version: '16.95'
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac

@@ -1,4 +1,4 @@
-last_updated: March 12, 2025 11:15 PM EDT
+last_updated: March 13, 2025 12:07 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -11,11 +11,15 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: February 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3d/b3/d13db3be-e533-10ab-c522-5ec8db2a0e6a/XCEL.png/512x512bb.png
+    currentVersionReleaseDate: March 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/f7/74/99f7748d-a8ee-3479-acdb-1789056f16ac/XCEL.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: '16.94'
+    releaseNotes: "\u2022 Make the active cell more visible with Focus Cell. Focus\
+      \ cells applies vibrant highlights to the corresponding row and column of the\
+      \ active cell and increases the cell's border thickness.\n\n\u2022 We're introducing\
+      \ two new functions designed to simplify and automate translations directly\
+      \ within your spreadsheet, TRANSLATE & DECTECTLANGUAGE."
+    version: '16.95'
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint

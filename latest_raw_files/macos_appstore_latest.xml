@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 13, 2025 01:05 PM EDT</last_updated>
+	<last_updated>March 13, 2025 02:08 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,13 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>February 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3d/b3/d13db3be-e533-10ab-c522-5ec8db2a0e6a/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>March 12, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/f7/74/99f7748d-a8ee-3479-acdb-1789056f16ac/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.94</version>
+		<releaseNotes>• Make the active cell more visible with Focus Cell. Focus cells applies vibrant highlights to the corresponding row and column of the active cell and increases the cell's border thickness.
+
+• We're introducing two new functions designed to simplify and automate translations directly within your spreadsheet, TRANSLATE &amp; DECTECTLANGUAGE.</releaseNotes>
+		<version>16.95</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 12, 2025 07:06 PM EDT",
+    "last_updated": "March 12, 2025 08:27 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -15,21 +15,21 @@
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "March 12, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/f7/74/99f7748d-a8ee-3479-acdb-1789056f16ac/XCEL.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3d/b3/d13db3be-e533-10ab-c522-5ec8db2a0e6a/XCEL.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Make the active cell more visible with Focus Cell. Focus cells applies vibrant highlights to the corresponding row and column of the active cell and increases the cell's border thickness.\n\n\u2022 We're introducing two new functions designed to simplify and automate translations directly within your spreadsheet, TRANSLATE & DECTECTLANGUAGE.",
-            "version": "16.95"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "16.94"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "March 12, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/79/fa/a679fae8-1c03-f74a-a3cd-10943796a4e9/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/9a/e1/d89ae1d8-a685-b321-bcc7-e570646b452a/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.95"
+            "version": "16.94"
         },
         {
             "name": "MacOS Microsoft Outlook",

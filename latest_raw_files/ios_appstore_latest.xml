@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 16, 2025 11:17 PM EDT</last_updated>
+	<last_updated>March 17, 2025 12:08 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -208,16 +208,16 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>March 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/6a/e4/506ae471-7519-3533-ab56-986016e4357c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 17, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/70/c9/4470c942-947f-c8b7-f323-644964b1096e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
-• Introducing the New Copilot: This update includes an intuitive design with more digestible and faster answers.
-• PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!
-• New Search Box: Boost your navigation efficiency! Note: Profile is now in the menu.
-• Bug fixes, stability, and performance improvements.
+• iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page. 
+• iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feel naturally at home on iPadOS. 
+• PDF Summarization by Copilot: Get AI-Powered Summaries and Highlights Directly in Your Browser! 
+• Bug fixes, stability, and performance improvements.  
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>134.3124.51</version>
+		<version>134.3124.68</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
@@ -350,11 +350,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>March 04, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/a7/25/a2a7252e-36aa-7f8e-3c3c-137cb7862702/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/46/f4/e746f433-83dd-bd25-fd15-74ca33249ad6/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>33.6</version>
+		<releaseNotes>- Open any semantic model, and select “Linked content“ in the info pane to view related reports that you have access to.</releaseNotes>
+		<version>33.7</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>

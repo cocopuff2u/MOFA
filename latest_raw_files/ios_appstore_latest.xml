@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 17, 2025 07:05 AM EDT</last_updated>
+	<last_updated>March 17, 2025 08:11 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -350,11 +350,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>March 04, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/a7/25/a2a7252e-36aa-7f8e-3c3c-137cb7862702/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/46/f4/e746f433-83dd-bd25-fd15-74ca33249ad6/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>33.6</version>
+		<releaseNotes>- Open any semantic model, and select “Linked content“ in the info pane to view related reports that you have access to.</releaseNotes>
+		<version>33.7</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>

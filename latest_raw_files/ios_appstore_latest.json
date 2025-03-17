@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 17, 2025 04:09 AM EDT",
+    "last_updated": "March 17, 2025 05:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -325,11 +325,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "March 04, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/a7/25/a2a7252e-36aa-7f8e-3c3c-137cb7862702/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/46/f4/e746f433-83dd-bd25-fd15-74ca33249ad6/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "33.6"
+            "releaseNotes": "- Open any semantic model, and select \u201cLinked content\u201c in the info pane to view related reports that you have access to.",
+            "version": "33.7"
         },
         {
             "name": "iOS Microsoft 365 Admin",

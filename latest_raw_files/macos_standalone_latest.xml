@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>March 19, 2025 03:06 AM EDT</last_updated>
+    <last_updated>March 19, 2025 04:08 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -106,7 +106,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.031.0217</short_version>
         <full_version>0217.0003</full_version>
-        <last_updated>March 19, 2025 03:06 AM EDT</last_updated>
+        <last_updated>March 19, 2025 04:08 AM EDT</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0003/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0003/OneDrive.pkg</latest_download>
@@ -146,14 +146,14 @@
         <application_id>IMCP01</application_id>
         <application_name>Company Portal.app</application_name>
         <CFBundleVersion>com.microsoft.intune.companyportal</CFBundleVersion>
-        <short_version>5.2412.0</short_version>
-        <full_version>53.2412051.003</full_version>
-        <last_updated>December 14, 2024</last_updated>
+        <short_version>5.2502.0</short_version>
+        <full_version>53.2502146.003</full_version>
+        <last_updated>February 18, 2025</last_updated>
         <min_os>11.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2412.0-Upgrade.pkg</update_download>
+        <update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2502.0-Upgrade.pkg</update_download>
         <latest_download>https://go.microsoft.com/fwlink/?linkid=853070</latest_download>
-        <sha1>6e0c7ad6d9ca1ae0471e4d566a5b5afbce77444a</sha1>
-        <sha256>3b53a27a7a4a3fb237959135fb0d9d28ea829ea2a376567ae254df09fb61d2a7</sha256>
+        <sha1>eac9feed6db618e39e366115ba788cd768f16aab</sha1>
+        <sha256>fad8352eb27bcc1a858e5f4959621349b4e45a0b1529893eb485b2840b609828</sha256>
     </package>
     <package>
         <name>Edge</name>

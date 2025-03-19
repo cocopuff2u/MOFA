@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 19, 2025 09:11 AM EDT",
+    "last_updated": "March 19, 2025 10:06 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -106,7 +106,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.031.0217",
             "full_version": "0217.0003",
-            "last_updated": "March 19, 2025 09:11 AM EDT",
+            "last_updated": "March 19, 2025 10:06 AM EDT",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0003/OneDrive.pkg",
@@ -244,11 +244,11 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.78 (25022527)",
-            "full_version": "4.78.25022527",
-            "last_updated": "February 25, 2025",
+            "short_version": "4.77 (24121924)",
+            "full_version": "4.77.24121924",
+            "last_updated": "December 19, 2024",
             "min_os": "10.14.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.78.25022527_Updater.pkg",
+            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.77.24121924_Updater.pkg",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=830196",
             "sha1": "3159276b4afb2399c7b346147c1a3a464dad8858",
             "sha256": "c818d32f268dfba316bfaedf27ab3e9224c529d2647454464270f58ebc9db4c7"

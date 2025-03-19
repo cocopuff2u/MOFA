@@ -1,25 +1,25 @@
 {
-    "last_updated": "March 19, 2025 06:07 AM EDT",
+    "last_updated": "March 19, 2025 07:05 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/b5/65/04b56550-1c8c-70ec-145f-585a8544bf6b/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ad/74/59ad74ba-f11d-467e-940e-2ce7061d9c33/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.95.1"
+            "version": "16.95"
         },
         {
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3c/42/bd3c42d0-6f7e-e2cd-bd66-22a48f30761f/XCEL.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/f7/74/99f7748d-a8ee-3479-acdb-1789056f16ac/XCEL.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.95.1"
+            "releaseNotes": "\u2022 Make the active cell more visible with Focus Cell. Focus cells applies vibrant highlights to the corresponding row and column of the active cell and increases the cell's border thickness.\n\n\u2022 We're introducing two new functions designed to simplify and automate translations directly within your spreadsheet, TRANSLATE & DECTECTLANGUAGE.",
+            "version": "16.95"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
@@ -35,21 +35,21 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/97/e2/0197e221-dc42-5de5-c219-650814313fe5/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/cd/7c/06cd7c39-f724-b6ab-a893-ca326be4ab88/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Quality and performance improvements.",
-            "version": "16.95.1"
+            "releaseNotes": "Feature Updates:\n\u2022 Shared Mailboxes: We now support Shared Mailboxes in Outlook for Mac for Exchange On-Premise environment.\n\u2022 Calendar: Access Teams meeting chat from meeting reminders: We support easy access to Teams meeting chat from the reminder window.\n\u2022 Calendar: Quickly glance which meeting is up next by looking at My Day in the menu bar.\n\u2022 Admin Pref: Added a preference for admins to set Focused Inbox off by default. Users can manually turn on Focused Inbox. Details can be accessed here.\n\u2022 M365 Copilot Chat: Your AI assistant for work, grounding Copilot conversations in both the latest large language models (LLM) and information from your content and the web, directly in Outlook.\n\nResolved Issues:\n\u2022 Accessibility: Fixed an issue where Infobar text is unreadable when hovering over a button in dark mode.\n\u2022 Mail: Fixed an issue where disabling Encrypt Only and Do Not Forward also hid related templates in Outlook for Mac. The preferences will now only disable Encrypt Only and Do Not Forward from the UI, allowing labels to remain visible as intended.\n\u2022 Mail: Fixed an issue where delegates were not seeing the correct infobar when meetings are tentatively accepted on behalf of a manager.\n\u2022 Mail: Fixed an issue where SMIME encrypted emails moved to \"On My Computer\" were not displaying any content in Outlook for Mac.\n\u2022 Crash: Fixed the issue that caused Outlook to crash when the admin pushed the SMIMECertificatesLookupOrder property to client machines.\n\u2022 Crash: Fixed an issue where double-clicking the group calendar in side-by-side mode caused Outlook to crash.\n\u2022 Performance: Fixed a performance issue that occurred when using multiple profiles in Outlook.",
+            "version": "16.95"
         },
         {
             "name": "MacOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote.mac",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/e5/0b/61e50b4e-a727-c46a-4da8-40b258c9a4f6/OneNote.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/cf/be/93cfbe89-995b-b09b-1ea8-dd3cde159c4a/OneNote.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.\nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.95.1"
+            "version": "16.95"
         },
         {
             "name": "MacOS Microsoft OneDrive",

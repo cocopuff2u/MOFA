@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 19, 2025 10:06 AM EDT</last_updated>
+	<last_updated>March 19, 2025 11:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -398,10 +398,10 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Skype for Business</name>
 		<application_name>Skype for Business</application_name>
 		<bundleId>com.microsoft.lync2013.iphone</bundleId>
-		<currentVersionReleaseDate>August 05, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/97/5a/c5975a03-81d7-7f7f-ba3b-43b2f69fa78a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 18, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/b5/87/a1b587ab-1a78-94d2-1999-1f6dcbb5d55b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>6.32.0</version>
+		<version>6.32.112</version>
 	</package>
 </latest>

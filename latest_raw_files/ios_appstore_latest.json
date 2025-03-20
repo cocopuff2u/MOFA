@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 20, 2025 02:08 AM EDT",
+    "last_updated": "March 20, 2025 03:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -75,11 +75,11 @@
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "March 17, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/95/60/66956095-3d7c-2be8-bc7f-a633aa950ec5/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 19, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cf/73/7fcf737a-1a7d-69ed-13a4-cd7ad6a7c599/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Bug fixes and improvements",
-            "version": "1.1.63070101"
+            "version": "1.1.63100101"
         },
         {
             "name": "iOS Microsoft Copilot",
@@ -375,11 +375,11 @@
             "name": "iOS Microsoft Skype for Business",
             "application_name": "Skype for Business",
             "bundleId": "com.microsoft.lync2013.iphone",
-            "currentVersionReleaseDate": "August 05, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/97/5a/c5975a03-81d7-7f7f-ba3b-43b2f69fa78a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/b5/87/a1b587ab-1a78-94d2-1999-1f6dcbb5d55b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "6.32.0"
+            "version": "6.32.112"
         }
     ]
 }

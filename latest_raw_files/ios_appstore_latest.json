@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 20, 2025 11:07 AM EDT",
+    "last_updated": "March 20, 2025 12:07 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "March 17, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/41/47/fc41474f-4318-0997-d01b-446c62348087/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 19, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/1d/81/a41d8159-efb6-671d-84e2-72a9475255e7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Now, when you delete or move a message, you have the option to open the message above or below the current one.",
-            "version": "4.2510.0"
+            "version": "4.2510.1"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -275,11 +275,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6c/f0/1c6cf026-1d7c-e92a-305f-4da131237adb/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/87/d3/7c87d39d-2ea8-0169-dc6e-d959bd2339e6/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25032.6"
+            "version": "3.25031.6"
         },
         {
             "name": "iOS Microsoft Authenticator",
@@ -325,11 +325,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "March 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/46/f4/e746f433-83dd-bd25-fd15-74ca33249ad6/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 20, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/4c/05/324c05f6-dde0-2d94-ecfd-538c5f86e753/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Open any semantic model, and select \u201cLinked content\u201c in the info pane to view related reports that you have access to.",
-            "version": "33.7"
+            "version": "33.8"
         },
         {
             "name": "iOS Microsoft 365 Admin",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 19, 2025 09:34 PM EDT</last_updated>
+	<last_updated>March 19, 2025 10:31 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,11 +35,11 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>March 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/41/47/fc41474f-4318-0997-d01b-446c62348087/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/1d/81/a41d8159-efb6-671d-84e2-72a9475255e7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Now, when you delete or move a message, you have the option to open the message above or below the current one.</releaseNotes>
-		<version>4.2510.0</version>
+		<version>4.2510.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -80,11 +80,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>March 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/95/60/66956095-3d7c-2be8-bc7f-a633aa950ec5/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cf/73/7fcf737a-1a7d-69ed-13a4-cd7ad6a7c599/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and improvements</releaseNotes>
-		<version>1.1.63070101</version>
+		<version>1.1.63100101</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>

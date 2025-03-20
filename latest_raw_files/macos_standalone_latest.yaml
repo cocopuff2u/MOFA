@@ -1,4 +1,4 @@
-last_updated: March 20, 2025 11:06 AM EDT
+last_updated: March 20, 2025 12:07 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -90,7 +90,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.031.0217
   full_version: '0217.0003'
-  last_updated: March 20, 2025 11:06 AM EDT
+  last_updated: March 20, 2025 12:07 PM EDT
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0003/OneDrive.pkg
@@ -208,14 +208,14 @@ packages:
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app
   CFBundleVersion: com.microsoft.autoupdate
-  short_version: 4.77 (24121924)
-  full_version: 4.77.24121924
-  last_updated: December 19, 2024
+  short_version: 4.78 (25031830)
+  full_version: 4.78.25031830
+  last_updated: March 18, 2025
   min_os: 10.14.0
-  update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.77.24121924_Updater.pkg
+  update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.78.25031830_Updater.pkg
   latest_download: https://go.microsoft.com/fwlink/?linkid=830196
-  sha1: 3159276b4afb2399c7b346147c1a3a464dad8858
-  sha256: c818d32f268dfba316bfaedf27ab3e9224c529d2647454464270f58ebc9db4c7
+  sha1: c1e02e0c916fa4ab2818558192a9da29b70394d5
+  sha256: 8b08471fd5f11adee33c33c8f0b0634f5601218308fb89466a27ed0e66748952
 - name: Licensing Helper Tool
   application_id: OLIC02
   application_name: N/A

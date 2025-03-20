@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 20, 2025 12:07 AM EDT",
+    "last_updated": "March 20, 2025 01:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -375,11 +375,11 @@
             "name": "iOS Microsoft Skype for Business",
             "application_name": "Skype for Business",
             "bundleId": "com.microsoft.lync2013.iphone",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/b5/87/a1b587ab-1a78-94d2-1999-1f6dcbb5d55b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 05, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/97/5a/c5975a03-81d7-7f7f-ba3b-43b2f69fa78a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "6.32.112"
+            "version": "6.32.0"
         }
     ]
 }

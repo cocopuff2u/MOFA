@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 21, 2025 02:09 AM EDT",
+    "last_updated": "March 21, 2025 03:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -255,11 +255,11 @@
             "name": "iOS Microsoft Sharepoint",
             "application_name": "Microsoft SharePoint",
             "bundleId": "com.microsoft.sharepoint",
-            "currentVersionReleaseDate": "February 26, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/85/a1/2585a116-8be0-0c23-1a55-67e85bbd6f5c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 20, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a2/17/82a217ae-46b1-d002-9fdb-4fd4a4456baf/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Stability improvements and fixes.",
-            "version": "4.54.5"
+            "version": "4.54.7"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Business Central",
@@ -325,11 +325,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "March 20, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/4c/05/324c05f6-dde0-2d94-ecfd-538c5f86e753/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/46/f4/e746f433-83dd-bd25-fd15-74ca33249ad6/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Open any semantic model, and select \u201cLinked content\u201c in the info pane to view related reports that you have access to.",
-            "version": "33.8"
+            "version": "33.7"
         },
         {
             "name": "iOS Microsoft 365 Admin",

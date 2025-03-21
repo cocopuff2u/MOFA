@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 21, 2025 03:05 PM EDT</last_updated>
+	<last_updated>March 21, 2025 04:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -23,13 +23,13 @@
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
-		<application_name>Microsoft PowerPoint</application_name>
-		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>March 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/10/0c/4e100ce1-26f9-b416-d796-950464c0ce81/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.95</version>
+		<application_name>N/A</application_name>
+		<bundleId>N/A</bundleId>
+		<currentVersionReleaseDate>N/A</currentVersionReleaseDate>
+		<icon_image>N/A</icon_image>
+		<minimumOsVersion>N/A</minimumOsVersion>
+		<releaseNotes>N/A</releaseNotes>
+		<version>N/A</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
@@ -58,13 +58,13 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>iOS Microsoft OneDrive</name>
-		<application_name>Microsoft OneDrive</application_name>
-		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>March 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/1f/3e/0f1f3eef-29fb-5544-9073-c9e98180d51e/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>16.6.3</version>
+		<application_name>N/A</application_name>
+		<bundleId>N/A</bundleId>
+		<currentVersionReleaseDate>N/A</currentVersionReleaseDate>
+		<icon_image>N/A</icon_image>
+		<minimumOsVersion>N/A</minimumOsVersion>
+		<releaseNotes>N/A</releaseNotes>
+		<version>N/A</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>

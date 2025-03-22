@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 22, 2025 01:05 PM EDT</last_updated>
+	<last_updated>March 22, 2025 02:07 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -221,16 +221,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Seeing AI</name>
 		<application_name>Seeing AI</application_name>
 		<bundleId>com.microsoft.seeingai</bundleId>
-		<currentVersionReleaseDate>February 03, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b9/43/97b943d0-44fe-b87c-b893-fe054db338d8/AppIcons-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/02/c6/0202c6d4-fa33-a4bb-8d25-a01412697cb8/AppIcons-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>• We have updated the Seeing AI interface to make it faster to access the features you use the most.
-• The app is split into three tabs:
-• Read: Provides tools for reading, combining the functionality of the previous Short Text, Document, and Handwriting channels.
-• Describe: Provides rich descriptions of your surroundings, or photos already on your phone. This combines the functionality of the previous Scene and Person channels.
-• More: Provides access to all the other task-specific channels.
-• Plus, various bug fixes under the hood.</releaseNotes>
-		<version>5.5</version>
+		<releaseNotes>This release includes several bug fixes to make your experience even better.</releaseNotes>
+		<version>5.5.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Planner</name>

@@ -1,4 +1,4 @@
-last_updated: March 22, 2025 03:06 AM EDT
+last_updated: March 22, 2025 04:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -190,18 +190,12 @@ packages:
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
-    currentVersionReleaseDate: February 03, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b9/43/97b943d0-44fe-b87c-b893-fe054db338d8/AppIcons-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/02/c6/0202c6d4-fa33-a4bb-8d25-a01412697cb8/AppIcons-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '12.0'
-    releaseNotes: "\u2022 We have updated the Seeing AI interface to make it faster\
-      \ to access the features you use the most.\n\u2022 The app is split into three\
-      \ tabs:\n\u2022 Read: Provides tools for reading, combining the functionality\
-      \ of the previous Short Text, Document, and Handwriting channels.\n\u2022 Describe:\
-      \ Provides rich descriptions of your surroundings, or photos already on your\
-      \ phone. This combines the functionality of the previous Scene and Person channels.\n\
-      \u2022 More: Provides access to all the other task-specific channels.\n\u2022\
-      \ Plus, various bug fixes under the hood."
-    version: '5.5'
+    releaseNotes: This release includes several bug fixes to make your experience
+      even better.
+    version: 5.5.1
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile

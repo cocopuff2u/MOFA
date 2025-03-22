@@ -1,29 +1,29 @@
-last_updated: March 22, 2025 04:07 AM EDT
+last_updated: March 22, 2025 05:06 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: March 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/97/fd/4297fdb5-336b-8e58-0410-7a340c0162fc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/2f/0c/0d2f0cce-6dcc-3b17-b202-3159c34b3927/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Fixes an issue where an error may occur when opening a file.
-    version: 2.95.1
+    releaseNotes: Quality and performance improvements.
+    version: 2.95.2
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: March 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/73/77/d173778e-b500-2257-d8e8-e26429335c18/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/37/51/89375105-8a59-adc0-e70b-ae96b4ba4bde/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: '2.95'
+    releaseNotes: Quality and performance improvements.
+    version: 2.95.2
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: March 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/10/0c/4e100ce1-26f9-b416-d796-950464c0ce81/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/e4/f0/35e4f04a-2dd8-3c33-93ee-5419751584e3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: '2.95'
+    releaseNotes: Quality and performance improvements.
+    version: 2.95.2
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -126,11 +126,11 @@ packages:
   - name: iOS Microsoft Lists
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: March 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/73/77/d173778e-b500-2257-d8e8-e26429335c18/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/37/51/89375105-8a59-adc0-e70b-ae96b4ba4bde/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: '2.95'
+    releaseNotes: Quality and performance improvements.
+    version: 2.95.2
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices

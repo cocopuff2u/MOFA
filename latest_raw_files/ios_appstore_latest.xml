@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 22, 2025 05:06 AM EDT</last_updated>
+	<last_updated>March 22, 2025 06:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,11 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>March 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/37/51/89375105-8a59-adc0-e70b-ae96b4ba4bde/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/73/77/d173778e-b500-2257-d8e8-e26429335c18/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Quality and performance improvements.</releaseNotes>
-		<version>2.95.2</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>2.95</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -146,11 +146,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Lists</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>March 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/37/51/89375105-8a59-adc0-e70b-ae96b4ba4bde/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/73/77/d173778e-b500-2257-d8e8-e26429335c18/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Quality and performance improvements.</releaseNotes>
-		<version>2.95.2</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>2.95</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>

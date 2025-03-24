@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 24, 2025 01:06 PM EDT",
+    "last_updated": "March 24, 2025 02:08 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c0/8b/08c08bb5-5c6f-6bb7-5b99-4c420131070f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/70/c9/4470c942-947f-c8b7-f323-644964b1096e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page.\n\u2022 iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feels naturally at home on iPadOS.\n\u2022 PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "134.3124.77"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:\n\u2022 iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page. \n\u2022 iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feel naturally at home on iPadOS. \n\u2022 PDF Summarization by Copilot: Get AI-Powered Summaries and Highlights Directly in Your Browser! \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "134.3124.68"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -195,11 +195,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c0/8b/08c08bb5-5c6f-6bb7-5b99-4c420131070f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/70/c9/4470c942-947f-c8b7-f323-644964b1096e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page.\n\u2022 iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feels naturally at home on iPadOS.\n\u2022 PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "134.3124.77"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:\n\u2022 iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page. \n\u2022 iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feel naturally at home on iPadOS. \n\u2022 PDF Summarization by Copilot: Get AI-Powered Summaries and Highlights Directly in Your Browser! \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "134.3124.68"
         },
         {
             "name": "iOS Microsoft Seeing AI",
@@ -245,11 +245,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/13/01/6a13013e-b43a-415c-f38e-420be493157c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 20, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ff/67/85ff6708-253b-bdff-8471-99205ac99418/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.5.2"
+            "version": "7.5.1"
         },
         {
             "name": "iOS Microsoft Sharepoint",

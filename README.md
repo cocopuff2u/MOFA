@@ -20,7 +20,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 25, 2025 11:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 25, 2025 12:06 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |----------------------|----------------------|--------------------------|--------------|
@@ -29,7 +29,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Word** <sup>365/2021/2024</sup> **</sup> Standalone Installer** | `16.95.1 (25031528)` | com.microsoft.word | <a href="https://go.microsoft.com/fwlink/?linkid=525134"><img src=".github/images/MSWD_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Excel** <sup>365/2021/2024</sup> **Standalone Installer** | `16.95.1 (25031528)` | com.microsoft.excel | <a href="https://go.microsoft.com/fwlink/?linkid=525135"><img src=".github/images/XCEL_512x512x32.png" alt="Download Image" width="80"></a> |
 | **PowerPoint** <sup>365/2021/2024</sup> **Standalone Installer** | `16.95.1 (25031528)` | com.microsoft.powerpoint | <a href="https://go.microsoft.com/fwlink/?linkid=525136"><img src=".github/images/PPT3_512x512x32.png" alt="Download Image" width="80"></a> |
-| **Outlook** <sup>365/2021/2024</sup> **Standalone Installer** | `16.95.1 (25031528)` | com.microsoft.outlook | <a href="https://go.microsoft.com/fwlink/?linkid=2228621"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="80"></a>|
+| **Outlook** <sup>365/2021/2024</sup> **Standalone Installer** | `16.95.2 (25032416)` | com.microsoft.outlook | <a href="https://go.microsoft.com/fwlink/?linkid=2228621"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="80"></a>|
 | **OneNote** <sup>365/2021/2024</sup> **Standalone Installer** | `16.95.1 (25031528)` | com.microsoft.onenote.mac | <a href="https://go.microsoft.com/fwlink/?linkid=820886"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="80"></a> |
 | **OneDrive Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0#OSVersion=Mac" style="text-decoration: none;"><small>_Release Notes_</small></a> | `25.035.0223` | com.microsoft.OneDrive | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Skype for Business Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781?ui=en-us&rs=en-us&ad=us" style="text-decoration: none;"><small>_Release Notes_</small></a>  | `16.31.11` | com.microsoft.SkypeForBusiness | <a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.31.11.pkg"><img src=".github/images/skype_for_business.png" alt="Download Image" width="80"></a> |
@@ -81,7 +81,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Word** <sup>365/2021/2024</sup> **</sup> Standalone Installer** | `16.95.1 (25031528)` | No MAU | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.95.25031528_Updater.pkg"><img src=".github/images/MSWD_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Excel** <sup>365/2021/2024</sup> **Standalone Installer** | `16.95.1 (25031528)` | No MAU | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.95.25031528_Updater.pkg"><img src=".github/images/XCEL_512x512x32.png" alt="Download Image" width="80"></a> |
 | **PowerPoint** <sup>365/2021/2024</sup> **Standalone Installer** | `16.95.1 (25031528)` | No MAU | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.95.25031528_Updater.pkg"><img src=".github/images/PPT3_512x512x32.png" alt="Download Image" width="80"></a> |
-| **Outlook** <sup>365/2021/2024</sup> **Standalone Installer**<sup>_(Weekly Channel)_</sup>| `16.95.1 (25031528)` | No MAU | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.95.25031528_Updater.pkg"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="80"></a>|
+| **Outlook** <sup>365/2021/2024</sup> **Standalone Installer**<sup>_(Weekly Channel)_</sup>| `16.95.2 (25032416)` | No MAU | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.95.25032416_Updater.pkg"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="80"></a>|
 | **OneNote** <sup>365/2021/2024</sup> **Standalone Installer** | `16.95.1 (25031528)` | No MAU | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.95.25031528_Updater.pkg"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="80"></a> |
 | **InTune Company Portal Standalone Installer**<br><a href="https://aka.ms/intuneupdates" style="text-decoration: none;"><small>_Release Notes_</small></a> | `5.2502.1` | No MAU | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2502.1-Upgrade.pkg"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> |
 | **Outlook** <sup>365/2021/2024</sup> **Standalone Installer**<sup>_(Monthly Channel)_</sup>| `N/A - Check Release Notes` | Contains MAU | <a href="https://go.microsoft.com/fwlink/?linkid=525137"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="80"></a>|
@@ -103,7 +103,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 25, 2025 11:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 25, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -121,7 +121,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 25, 2025 11:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 25, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

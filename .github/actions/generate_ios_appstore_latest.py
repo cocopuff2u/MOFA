@@ -234,8 +234,8 @@ def create_xml(apps):
         ET.SubElement(package, "name").text = app_name
         for key in ["application_name", "bundleId", "currentVersionReleaseDate", "icon_image", "minimumOsVersion", "releaseNotes", "version"]:
             json_key = app_info["keys"][key]
-            value = app_data.get(json_key, "N/A")
-            if key == "currentVersionReleaseDate" and value != "N/A":
+            value = app_data.get(json_key, "NA")
+            if key == "currentVersionReleaseDate" and value != "NA":
                 value = format_date(value)
             logging.info(f"{key}: {value}")
             ET.SubElement(package, key).text = value

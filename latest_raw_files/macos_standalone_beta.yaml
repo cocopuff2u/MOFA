@@ -1,4 +1,4 @@
-last_updated: March 25, 2025 03:07 AM EDT
+last_updated: March 25, 2025 04:08 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -66,7 +66,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.035.0223
   full_version: '0223.0003'
-  last_updated: March 25, 2025 03:07 AM EDT
+  last_updated: March 25, 2025 04:08 AM EDT
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg
@@ -100,14 +100,14 @@ packages:
   application_id: IMCP01
   application_name: Company Portal.app
   CFBundleVersion: com.microsoft.intune.companyportal
-  short_version: 5.2502.1
-  full_version: 53.2503180.003
-  last_updated: March 24, 2025
+  short_version: 5.2310.4
+  full_version: 53.2310342.002
+  last_updated: October 25, 2023
   min_os: '11.0'
-  update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2502.1-Upgrade.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2502.1-Upgrade.pkg
-  sha1: d2460dfb373e294fbfe996b425495aad8c7aa475
-  sha256: 72f773eec677deff1ca4440d6cb6c0b3c0e669c50c4966a56205c62e2f3f100b
+  update_download: "\n                https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2310.4-Upgrade.pkg"
+  latest_download: "\n                https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2310.4-Upgrade.pkg"
+  sha1: 0660dbb55d0f14c31940f8e630add93827d022d0
+  sha256: 5c222060a7e908de2fb1a6b4f70dbb311f6f9bfe7c13cd4742f8e9cf40b03027
 - name: Edge
   application_id: EDGE01
   application_name: Microsoft Edge.app

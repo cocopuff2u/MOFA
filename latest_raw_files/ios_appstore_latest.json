@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 24, 2025 09:34 PM EDT",
+    "last_updated": "March 24, 2025 10:32 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/d9/25/27d925c4-9f94-b791-404d-f3c47f9b85c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/e5/00/79e500b8-e715-4154-de2c-5e6da9f28c59/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We've improved the stability of Viva Engage in this release. We hope you enjoy it!",
-            "version": "10.94.0"
+            "version": "10.92.1"
         },
         {
             "name": "iOS Microsoft Whiteboard",
@@ -245,11 +245,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "March 20, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ff/67/85ff6708-253b-bdff-8471-99205ac99418/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 24, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/13/01/6a13013e-b43a-415c-f38e-420be493157c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.5.1"
+            "version": "7.5.2"
         },
         {
             "name": "iOS Microsoft Sharepoint",

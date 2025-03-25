@@ -1,4 +1,4 @@
-last_updated: March 25, 2025 10:07 AM EDT
+last_updated: March 25, 2025 11:06 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,12 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: March 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/1d/81/a41d8159-efb6-671d-84e2-72a9475255e7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/33/c7/a733c736-9173-1aa3-0f42-3020c803179c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Now, when you delete or move a message, you have the option to open
-      the message above or below the current one.
-    version: 4.2510.1
+    releaseNotes: "This update includes performance improvements and bug fixes to\
+      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
+      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
+      \ you."
+    version: 4.2511.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -106,14 +108,14 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: March 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/30/36/1430361a-1f23-98b2-78f5-5997b09baca8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/7b/da/777bda74-38bf-0f2d-c777-831a6b8eb672/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: This update resolves a critical issue preventing shipping labels
-      from displaying in some orders. Enhancements include a better experience for
-      uploading product images and creating Blaze campaigns. Additionally, merchants
-      can now mark and filter favorite products for easier access.
-    version: '21.8'
+    releaseNotes: We're dedicated to enhancing your WooCommerce app experience! We've
+      ironed out the issues related to discarding images during uploads in the Product
+      Form. Plus, we've ramped up our login flow accessibility to make your journey
+      smoother and more intuitive. Enjoy the fresh update and newly polished features!
+    version: '21.9'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
@@ -158,12 +160,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: March 24, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/d9/25/27d925c4-9f94-b791-404d-f3c47f9b85c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/e5/00/79e500b8-e715-4154-de2c-5e6da9f28c59/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We've improved the stability of Viva Engage in this release. We
       hope you enjoy it!
-    version: 10.94.0
+    version: 10.92.1
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard
@@ -227,11 +229,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: March 20, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ff/67/85ff6708-253b-bdff-8471-99205ac99418/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/13/01/6a13013e-b43a-415c-f38e-420be493157c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.5.1
+    version: 7.5.2
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint

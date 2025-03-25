@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 25, 2025 11:06 AM EDT",
+    "last_updated": "March 25, 2025 12:06 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -76,11 +76,11 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.95.1 (25031528)",
-            "full_version": "16.95.25031528",
-            "last_updated": "March 15, 2025",
+            "short_version": "16.95.2 (25032416)",
+            "full_version": "16.95.25032416",
+            "last_updated": "March 24, 2025",
             "min_os": "13.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.95.25031528_Updater.pkg",
+            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.95.25032416_Updater.pkg",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=2228621",
             "sha1": "22034ca0e2db9b75dd5bc8bb9fd89fbd53d44299",
             "sha256": "310dd88039fdf01d1dbb6ef5ab9e3cd51c2fdd4b5c14ae42ea03fa4ee9548419"
@@ -106,7 +106,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.035.0223",
             "full_version": "0223.0003",
-            "last_updated": "March 25, 2025 11:06 AM EDT",
+            "last_updated": "March 25, 2025 12:06 PM EDT",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg",

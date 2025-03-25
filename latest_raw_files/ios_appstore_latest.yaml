@@ -1,4 +1,4 @@
-last_updated: March 24, 2025 10:32 PM EDT
+last_updated: March 24, 2025 11:18 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -48,11 +48,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: March 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/1f/3e/0f1f3eef-29fb-5544-9073-c9e98180d51e/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/1f/0a/831f0a1b-455a-2749-ab1f-6bf1956123c2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: This update contains bug fixes and stability improvements.
-    version: 16.6.3
+    version: 16.7.2
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows
@@ -106,14 +106,14 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: March 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/30/36/1430361a-1f23-98b2-78f5-5997b09baca8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/7b/da/777bda74-38bf-0f2d-c777-831a6b8eb672/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: This update resolves a critical issue preventing shipping labels
-      from displaying in some orders. Enhancements include a better experience for
-      uploading product images and creating Blaze campaigns. Additionally, merchants
-      can now mark and filter favorite products for easier access.
-    version: '21.8'
+    releaseNotes: We're dedicated to enhancing your WooCommerce app experience! We've
+      ironed out the issues related to discarding images during uploads in the Product
+      Form. Plus, we've ramped up our login flow accessibility to make your journey
+      smoother and more intuitive. Enjoy the fresh update and newly polished features!
+    version: '21.9'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
@@ -158,12 +158,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: March 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/e5/00/79e500b8-e715-4154-de2c-5e6da9f28c59/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/d9/25/27d925c4-9f94-b791-404d-f3c47f9b85c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We've improved the stability of Viva Engage in this release. We
       hope you enjoy it!
-    version: 10.92.1
+    version: 10.94.0
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard

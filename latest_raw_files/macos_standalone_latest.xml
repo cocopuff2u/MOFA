@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>March 26, 2025 10:06 AM EDT</last_updated>
+    <last_updated>March 26, 2025 10:27 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -120,7 +120,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.035.0223</short_version>
         <full_version>0223.0003</full_version>
-        <last_updated>March 26, 2025 08:10 AM EDT</last_updated>
+        <last_updated>March 26, 2025 10:27 AM EDT</last_updated>
         <min_os>N/A</min_os>
         <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg</app_only_update_download>
         <app_update_sha1>a70b58a12adc61d47a5079194f90a69db6c18d93</app_update_sha1>
@@ -246,13 +246,13 @@
         <application_id>MSRD10</application_id>
         <application_name>Windows App.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.1.3</short_version>
-        <full_version>2532</full_version>
-        <last_updated>March 04, 2025</last_updated>
+        <short_version>11.1.4</short_version>
+        <full_version>2557</full_version>
+        <last_updated>March 19, 2025</last_updated>
         <min_os>12.0</min_os>
-        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.3_updater.pkg</app_only_update_download>
-        <app_update_sha1>240ba39c219edae78af84860a05b1d5781defcd8</app_update_sha1>
-        <app_update_sha256>9f68796d282e0516c4f5b0e2b10d44bdc3fc3e3824455dca7fd3364635a66e2b</app_update_sha256>
+        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.4_updater.pkg</app_only_update_download>
+        <app_update_sha1>ff048e511337fe4a8968917213bbff4b5da6cc46</app_update_sha1>
+        <app_update_sha256>af03bf440ccebc500e204717fa6404915db78a6fc743b9f7f3ad077b240e5499</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=868963</full_update_download>
         <full_update_sha1>1e64674df4bcd824e787ae2649d1ab8462c704b1</full_update_sha1>
         <full_update_sha256>d105c196fc542388a0ed3ae83b5497cf048a3b555cb4520f04f8a16687e33c8f</full_update_sha256>

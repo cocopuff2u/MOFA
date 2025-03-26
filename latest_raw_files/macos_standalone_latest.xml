@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>March 26, 2025 04:06 PM EDT</last_updated>
+    <last_updated>March 26, 2025 05:05 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -120,7 +120,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.035.0223</short_version>
         <full_version>0223.0003</full_version>
-        <last_updated>March 26, 2025 04:06 PM EDT</last_updated>
+        <last_updated>March 26, 2025 05:05 PM EDT</last_updated>
         <min_os>N/A</min_os>
         <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg</app_only_update_download>
         <app_update_sha1>a70b58a12adc61d47a5079194f90a69db6c18d93</app_update_sha1>
@@ -254,8 +254,8 @@
         <app_update_sha1>ff048e511337fe4a8968917213bbff4b5da6cc46</app_update_sha1>
         <app_update_sha256>af03bf440ccebc500e204717fa6404915db78a6fc743b9f7f3ad077b240e5499</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=868963</full_update_download>
-        <full_update_sha1>1e64674df4bcd824e787ae2649d1ab8462c704b1</full_update_sha1>
-        <full_update_sha256>d105c196fc542388a0ed3ae83b5497cf048a3b555cb4520f04f8a16687e33c8f</full_update_sha256>
+        <full_update_sha1>38b438427d7170d408ab7ac8f2c84c1e4e413adf</full_update_sha1>
+        <full_update_sha256>bc184c9a19180aafb4bd2d6c88fd222811e76db3f7ca5a251a19f7604803a804</full_update_sha256>
     </package>
     <package>
         <name>Visual</name>

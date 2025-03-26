@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 26, 2025 07:05 AM EDT",
+    "last_updated": "March 26, 2025 08:10 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -106,7 +106,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.035.0223",
             "full_version": "0223.0003",
-            "last_updated": "March 26, 2025 07:05 AM EDT",
+            "last_updated": "March 26, 2025 08:10 AM EDT",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg",
@@ -216,11 +216,11 @@
             "application_id": "MSRD10",
             "application_name": "Windows App.app",
             "CFBundleVersion": "com.microsoft.windows.app",
-            "short_version": "11.1.4",
-            "full_version": "2557",
-            "last_updated": "March 19, 2025",
+            "short_version": "11.1.3",
+            "full_version": "2532",
+            "last_updated": "March 04, 2025",
             "min_os": "12.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.4_updater.pkg",
+            "update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.3_updater.pkg",
             "latest_download": "https://go.microsoft.com/fwlink/?linkid=868963",
             "sha1": "1e64674df4bcd824e787ae2649d1ab8462c704b1",
             "sha256": "d105c196fc542388a0ed3ae83b5497cf048a3b555cb4520f04f8a16687e33c8f"

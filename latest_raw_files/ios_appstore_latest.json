@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 25, 2025 10:32 PM EDT",
+    "last_updated": "March 25, 2025 11:16 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/1f/0a/831f0a1b-455a-2749-ab1f-6bf1956123c2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/1f/3e/0f1f3eef-29fb-5544-9073-c9e98180d51e/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.7.2"
+            "version": "16.6.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/d9/25/27d925c4-9f94-b791-404d-f3c47f9b85c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/e5/00/79e500b8-e715-4154-de2c-5e6da9f28c59/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We've improved the stability of Viva Engage in this release. We hope you enjoy it!",
-            "version": "10.94.0"
+            "version": "10.92.1"
         },
         {
             "name": "iOS Microsoft Whiteboard",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/16/d0/4916d0d8-fe14-dc85-d6ca-4ead64abda5a/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 24, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/02/8c/de028cc5-9ddf-d6c8-6b40-27b60c7985ed/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.2.4"
+            "version": "7.2.5"
         },
         {
             "name": "iOS Microsoft To-Do",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 25, 2025 09:34 PM EDT</last_updated>
+	<last_updated>March 25, 2025 10:32 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -166,23 +166,23 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Remote Assist</name>
-		<application_name>NA</application_name>
-		<bundleId>NA</bundleId>
-		<currentVersionReleaseDate>NA</currentVersionReleaseDate>
-		<icon_image>NA</icon_image>
-		<minimumOsVersion>NA</minimumOsVersion>
-		<releaseNotes>NA</releaseNotes>
-		<version>NA</version>
+		<application_name>Dynamics 365 Remote Assist</application_name>
+		<bundleId>com.microsoft.ramobile</bundleId>
+		<currentVersionReleaseDate>February 06, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1e/6f/f61e6f00-e680-7d9c-236d-ad6f67196704/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>12.2</minimumOsVersion>
+		<releaseNotes>• Overall quality and stability improvements</releaseNotes>
+		<version>2025.02.05</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Project Timesheet</name>
-		<application_name>NA</application_name>
-		<bundleId>NA</bundleId>
-		<currentVersionReleaseDate>NA</currentVersionReleaseDate>
-		<icon_image>NA</icon_image>
-		<minimumOsVersion>NA</minimumOsVersion>
-		<releaseNotes>NA</releaseNotes>
-		<version>NA</version>
+		<application_name>Dynamics 365 Remote Assist</application_name>
+		<bundleId>com.microsoft.ramobile</bundleId>
+		<currentVersionReleaseDate>February 06, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1e/6f/f61e6f00-e680-7d9c-236d-ad6f67196704/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>12.2</minimumOsVersion>
+		<releaseNotes>• Overall quality and stability improvements</releaseNotes>
+		<version>2025.02.05</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Viva Engage</name>

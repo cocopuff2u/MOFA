@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 26, 2025 07:05 AM EDT",
+    "last_updated": "March 26, 2025 08:10 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -153,23 +153,23 @@
         },
         {
             "name": "iOS Microsoft Dynamics 365 Remote Assist",
-            "application_name": "Dynamics 365 Remote Assist",
-            "bundleId": "com.microsoft.ramobile",
-            "currentVersionReleaseDate": "February 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1e/6f/f61e6f00-e680-7d9c-236d-ad6f67196704/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "12.2",
-            "releaseNotes": "\u2022 Overall quality and stability improvements",
-            "version": "2025.02.05"
+            "application_name": "NA",
+            "bundleId": "NA",
+            "currentVersionReleaseDate": "NA",
+            "icon_image": "NA",
+            "minimumOsVersion": "NA",
+            "releaseNotes": "NA",
+            "version": "NA"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Project Timesheet",
-            "application_name": "Dynamics 365 Remote Assist",
-            "bundleId": "com.microsoft.ramobile",
-            "currentVersionReleaseDate": "February 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1e/6f/f61e6f00-e680-7d9c-236d-ad6f67196704/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "12.2",
-            "releaseNotes": "\u2022 Overall quality and stability improvements",
-            "version": "2025.02.05"
+            "application_name": "NA",
+            "bundleId": "NA",
+            "currentVersionReleaseDate": "NA",
+            "icon_image": "NA",
+            "minimumOsVersion": "NA",
+            "releaseNotes": "NA",
+            "version": "NA"
         },
         {
             "name": "iOS Microsoft Viva Engage",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/02/8c/de028cc5-9ddf-d6c8-6b40-27b60c7985ed/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/16/d0/4916d0d8-fe14-dc85-d6ca-4ead64abda5a/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.2.5"
+            "version": "7.2.4"
         },
         {
             "name": "iOS Microsoft To-Do",

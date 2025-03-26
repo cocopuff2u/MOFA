@@ -44,14 +44,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/A1E15C18-4D18-40B0-8577-616A9470BB10/MacAutoUpdate/0409OPIM2019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.office",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=525133",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525133",
             "application_id": "Data sourced from Outlook (CurrentThrottle)",
-            "application_name": "Data sourced from Outlook (CurrentThrottle) ",
+            "application_name": "Data sourced from Outlook (CurrentThrottle)",
         },
         "keys": {
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "NA",
+            "app_only_update_download": "NA",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -60,14 +60,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/A1E15C18-4D18-40B0-8577-616A9470BB10/MacAutoUpdate/0409OPIM2019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.office",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
-            "application_id": "Data sourced from Excel (not manually specified)",
-            "application_name": "Data sourced from Excel (not manually specified)",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
+            "application_id": "Data sourced from Outlook (CurrentThrottle)",
+            "application_name": "Data sourced from Outlook (CurrentThrottle)",
         },
         "keys": {
            "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "NA",
+            "app_only_update_download": "NA",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -76,14 +76,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSWD2019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.word",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=525134",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525134",
         },
         "keys": {
             "application_id": "Application ID",
             "application_name": "Application Name",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "FullUpdaterLocation",
+            "app_only_update_download": "FullUpdaterLocation",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -92,14 +92,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409XCEL2019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.excel",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=525135",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525135",
         },
         "keys": {
             "application_id": "Application ID",
             "application_name": "Application Name",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "FullUpdaterLocation",
+            "app_only_update_download": "FullUpdaterLocation",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -108,14 +108,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409PPT32019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.powerpoint",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=525136",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525136",
         },
         "keys": {
             "application_id": "Application ID",
             "application_name": "Application Name",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "FullUpdaterLocation",
+            "app_only_update_download": "FullUpdaterLocation",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -124,14 +124,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409OPIM2019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.outlook",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=2228621",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2228621",
         },
         "keys": {
             "application_id": "Application ID",
             "application_name": "Application Name",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "FullUpdaterLocation",
+            "app_only_update_download": "FullUpdaterLocation",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -140,14 +140,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409ONMC2019.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.onenote",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=820886",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=820886",
         },
         "keys": {
             "application_id": "Application ID",
             "application_name": "Application Name",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "FullUpdaterLocation",
+            "app_only_update_download": "FullUpdaterLocation",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -162,24 +162,24 @@ apps = {
             "application_id": "OneDrive.app"
         },
         "keys": {
-            "latest_download": "PkgBinaryURL",
+            "full_update_download": "PkgBinaryURL",
             "short_version": "CFBundleShortVersionString",
             "full_version": "CFBundleVersion",
-            "update_download": "PkgBinaryURL"
+            "app_only_update_download": "PkgBinaryURL"
         }
     },
     "Skype": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSFB16.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.skypeforbusiness",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=832978",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=832978",
             "application_name": "Skype for Business.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -188,14 +188,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409TEAMS21.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.teams",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=2249065",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2249065",
             "application_name": "Microsoft Teams.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -203,14 +203,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409IMCP01.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.intune.companyportal",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=853070",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=853070",
             "application_name": "Company Portal.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS Version"
         }
@@ -219,14 +219,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409EDGE01.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.edgemac",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=2093504",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2093504",
             "application_name": "Microsoft Edge.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -235,14 +235,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409WDAV00.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=2097502",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2097502",
             "application_name": "Microsoft Defender.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -251,14 +251,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409WDAVCONSUMER.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=2247001",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2247001",
             "application_name": "Microsoft Defender.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -271,10 +271,10 @@ apps = {
         },
         "keys": {
             "application_id": "Application ID",
-            "latest_download": "Location",
+            "full_update_download": "Location",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -283,14 +283,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSRD10.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.windows.app",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=868963",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=868963",
             "application_name": "Windows App.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS Version"
         }
@@ -299,14 +299,14 @@ apps = {
         "url": "https://update.code.visualstudio.com/api/update/darwin-universal/stable/384ff7382de624fb94dbaf6da11977bba1ecd427",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.visualstudio",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
             "application_name": "Visual Studio Code.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "name",
             "full_version": "productVersion",
-            "update_download": "url",
+            "app_only_update_download": "url",
             "last_updated": "timestamp",
             "min_os": "Minimum OS"
         }
@@ -315,14 +315,14 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSau04.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "latest_download": "https://go.microsoft.com/fwlink/?linkid=830196",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=830196",
             "application_name": "Microsoft AutoUpdate.app",
         },
         "keys": {
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -334,11 +334,11 @@ apps = {
             "application_name": "N/A",
         },
         "keys": {
-            "latest_download": "Location",
+            "full_update_download": "Location",
             "application_id": "Application ID",
             "short_version": "Title",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -349,13 +349,13 @@ apps = {
             "CFBundleVersion": "com.microsoft.quickassist",
         },
         "keys": {
-            "latest_download": "Location",
+            "full_update_download": "Location",
             "application_id": "Application ID",
             "application_name": "Application Name",
-            "latest_download": "Location",
+            "full_update_download": "Location",
             "short_version": "Update Version",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -366,13 +366,13 @@ apps = {
             "CFBundleVersion": "com.microsoft.remotehelp"
         },
         "keys": {
-            "latest_download": "Location",
+            "full_update_download": "Location",
             "application_id": "Application ID",
             "application_name": "Application Name",
-            "latest_download": "Location",
+            "full_update_download": "Location",
             "short_version": "Update Version",
             "full_version": "Update Version",
-            "update_download": "Location",
+            "app_only_update_download": "Location",
             "last_updated": "Date",
             "min_os": "Minimum OS"
         }
@@ -467,25 +467,45 @@ def fetch_and_process(app_name, config):
                 add_to_combined_xml(app_name, existing_app_data)
             else:
                 logging.info(f"Update detected for {app_name}.")
-                # Ensure SHA values are computed
+                # Ensure SHA values are computed for both URLs
                 if skip_sha_checks:
-                    extracted_data["sha1"] = "N/A"
-                    extracted_data["sha256"] = "N/A"
+                    extracted_data["full_update_sha1"] = "N/A"
+                    extracted_data["full_update_sha256"] = "N/A"
+                    extracted_data["app_update_sha1"] = "N/A"
+                    extracted_data["app_update_sha256"] = "N/A"
                 else:
-                    download_url = extracted_data.get("latest_download")
-                    extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
-                    extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
+                    full_download_url = extracted_data.get("full_update_download")
+                    app_download_url = extracted_data.get("app_only_update_download")
+                    
+                    # Compute hashes for full update download
+                    extracted_data["full_update_sha1"] = compute_sha1(full_download_url) if full_download_url else "N/A"
+                    extracted_data["full_update_sha256"] = compute_sha256(full_download_url) if full_download_url else "N/A"
+                    
+                    # Compute hashes for app-only update download
+                    extracted_data["app_update_sha1"] = compute_sha1(app_download_url) if app_download_url else "N/A"
+                    extracted_data["app_update_sha256"] = compute_sha256(app_download_url) if app_download_url else "N/A"
+                
                 add_to_combined_xml(app_name, extracted_data)
         else:
             logging.info(f"New app {app_name} detected.")
-            # Ensure SHA values are computed
+            # Ensure SHA values are computed for both URLs
             if skip_sha_checks:
-                extracted_data["sha1"] = "N/A"
-                extracted_data["sha256"] = "N/A"
+                extracted_data["full_update_sha1"] = "N/A"
+                extracted_data["full_update_sha256"] = "N/A"
+                extracted_data["app_update_sha1"] = "N/A"
+                extracted_data["app_update_sha256"] = "N/A"
             else:
-                download_url = extracted_data.get("latest_download")
-                extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
-                extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
+                full_download_url = extracted_data.get("full_update_download")
+                app_download_url = extracted_data.get("app_only_update_download")
+                
+                # Compute hashes for full update download
+                extracted_data["full_update_sha1"] = compute_sha1(full_download_url) if full_download_url else "N/A"
+                extracted_data["full_update_sha256"] = compute_sha256(full_download_url) if full_download_url else "N/A"
+                
+                # Compute hashes for app-only update download
+                extracted_data["app_update_sha1"] = compute_sha1(app_download_url) if app_download_url else "N/A"
+                extracted_data["app_update_sha256"] = compute_sha256(app_download_url) if app_download_url else "N/A"
+            
             add_to_combined_xml(app_name, extracted_data)
 
     except Exception as e:
@@ -596,10 +616,12 @@ def add_to_combined_xml(app_name, data):
         "full_version",
         "last_updated",
         "min_os",
-        "update_download",
-        "latest_download",
-        "sha1",
-        "sha256",
+        "app_only_update_download",
+        "app_update_sha1",
+        "app_update_sha256",
+        "full_update_download",
+        "full_update_sha1",
+        "full_update_sha256"
     ]
 
     for key in order:
@@ -662,10 +684,12 @@ field_order = [
     "full_version",
     "last_updated",
     "min_os",
-    "update_download",
-    "latest_download",
-    "sha1",
-    "sha256",
+    "app_only_update_download",
+    "app_update_sha1",
+    "app_update_sha256",
+    "full_update_download",
+    "full_update_sha1",
+    "full_update_sha256"
 ]
 
 # Read the XML file

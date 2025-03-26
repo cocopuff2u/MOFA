@@ -389,7 +389,7 @@ root = ET.Element("latest")
 last_update_element = ET.SubElement(root, "last_updated")
 last_update_element.text = last_update_date_time  # Value from get_current_date_time()
 
-# Variable to skip SHA1 and SHA256 checks for testing purposes
+# Variable to skip SHA1 and SHA256 checks for testing purposes (set to False for production)
 skip_sha_checks = False
 
 # Function to read existing XML data from macos_standalone_latest.xml

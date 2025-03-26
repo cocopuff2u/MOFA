@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 26, 2025 09:53 AM EDT",
+    "last_updated": "March 26, 2025 10:03 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -14,8 +14,8 @@
             "app_update_sha1": "N/A",
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525133",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "7bda12a503da4816f662fdb5c963ea1c4357f65b",
+            "full_update_sha256": "dbc35c55751f8b22ec7adf2c5fcf708fbfb1b06a1baa70db89162c5ef89bad3b"
         },
         {
             "name": "Microsoft BusinessPro Suite",
@@ -30,8 +30,8 @@
             "app_update_sha1": "N/A",
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "0d4fd7dc5b463f641e523fa9c886b65381e62ab2",
+            "full_update_sha256": "19da5cb0f2748061c819197e3ac804910705283c84ee81322e328a4364456bb5"
         },
         {
             "name": "Word",
@@ -43,11 +43,11 @@
             "last_updated": "March 15, 2025",
             "min_os": "13.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.95.25031528_Updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "87f7c050625994223439e23086af049e26bdd875",
+            "app_update_sha256": "197c92ab699482fdd95938cd75bc09e3bc15e207fe41ae9f6d41ec9e5b127d16",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525134",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "69638a8235498f96ea90816a662fe4f9af163366",
+            "full_update_sha256": "71d647007d02faf9dd2c7911f91a1679cb3947b29203e381e0e2c88e05917446"
         },
         {
             "name": "Excel",
@@ -59,11 +59,11 @@
             "last_updated": "March 15, 2025",
             "min_os": "13.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.95.25031528_Updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "de060c8cde40a35b11d7c11e4c75d79da5e7e0da",
+            "app_update_sha256": "7ba0b96d4c8f60b0a1bec24460022bbf5f6dcf132e882300b6f114b8e841f402",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525135",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "37930fce2144e07e83d7311ae4a05d426e4f7fc3",
+            "full_update_sha256": "61828b387ee351773c0654a2131fc93695ab24fcc992ba415a4bc454c852bfed"
         },
         {
             "name": "PowerPoint",
@@ -75,11 +75,11 @@
             "last_updated": "March 15, 2025",
             "min_os": "13.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.95.25031528_Updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "42733bfec5b6b596eed66de27f26d3d5119fb010",
+            "app_update_sha256": "b841794b5f5f86ad2367a1b0f5cef847a275dd988f5c46bc2f0771ccf8dad53f",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525136",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "36f0b45b36fb03d84be3d8251d869a5d91324a0e",
+            "full_update_sha256": "b90d8af6016f9d19577bd82ea09bb8bfa64d9e83bbadf062bebab37cc0dba23a"
         },
         {
             "name": "Outlook",
@@ -91,11 +91,11 @@
             "last_updated": "March 24, 2025",
             "min_os": "13.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.95.25032416_Updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "c1c9aa8c1708146bcf6d269f6e5bf078de8980c4",
+            "app_update_sha256": "3014153212b05ec1b2026698d343281f000c13f97d2f80bef9f83d6ec55f6f28",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2228621",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "c58dd1f600d39635aeb8f5c1297a0c234dc05d69",
+            "full_update_sha256": "62fd12cbc4cfc44317e65abe7c58d3c43e1dce819cb70afc5b397622bf10787e"
         },
         {
             "name": "OneNote",
@@ -107,11 +107,11 @@
             "last_updated": "March 15, 2025",
             "min_os": "13.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.95.25031528_Updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "7630c83abb6e8592440eac3126b76a5e3e072d02",
+            "app_update_sha256": "5dd0e1f1f1d2a8756a199c3989f13bac47e65a97bce8a0ce3c918a958a5ff5b7",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=820886",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "7630c83abb6e8592440eac3126b76a5e3e072d02",
+            "full_update_sha256": "5dd0e1f1f1d2a8756a199c3989f13bac47e65a97bce8a0ce3c918a958a5ff5b7"
         },
         {
             "name": "OneDrive",
@@ -120,14 +120,14 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.035.0223",
             "full_version": "0223.0003",
-            "last_updated": "March 26, 2025 09:53 AM EDT",
+            "last_updated": "March 26, 2025 10:03 AM EDT",
             "min_os": "N/A",
             "app_only_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "a70b58a12adc61d47a5079194f90a69db6c18d93",
+            "app_update_sha256": "d823b707e44c2bd08676373f6481cb5d797c2da2bcb1c336593f95871e295c0a",
             "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "a70b58a12adc61d47a5079194f90a69db6c18d93",
+            "full_update_sha256": "d823b707e44c2bd08676373f6481cb5d797c2da2bcb1c336593f95871e295c0a"
         },
         {
             "name": "Skype",
@@ -139,11 +139,11 @@
             "last_updated": "September 05, 2024",
             "min_os": "10.14.0",
             "app_only_update_download": "https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.31.11.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "e1896fb970eae24ab94bb20ab7872427fb871172",
+            "app_update_sha256": "6709b7d2fe51d2ca5ed108bbd00b984f6fe1c7811dd1841a340640c015f1ebf2",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=832978",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "91c6abad17552136cdbda3f7af12f1484f664fd2",
+            "full_update_sha256": "81f484842e86a39c9f33abc4d35b4e7dbb87189ca3c424a6396e15d96ea2dbd5"
         },
         {
             "name": "Teams",
@@ -155,11 +155,11 @@
             "last_updated": "March 05, 2025",
             "min_os": "13.0",
             "app_only_update_download": "https://statics.teams.cdn.office.net/production-osx/25044.2406.3471.4570/MicrosoftTeams.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "26858caf31f20ea2e614cb8fa4ee14b2a7d74fe6",
+            "app_update_sha256": "996fb003ab7ef5b2f6cac77ae5795bb322804259197a36469046ce3e233857c1",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2249065",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "26858caf31f20ea2e614cb8fa4ee14b2a7d74fe6",
+            "full_update_sha256": "996fb003ab7ef5b2f6cac77ae5795bb322804259197a36469046ce3e233857c1"
         },
         {
             "name": "Intune",
@@ -171,11 +171,11 @@
             "last_updated": "March 24, 2025",
             "min_os": "11.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2502.1-Upgrade.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "d2460dfb373e294fbfe996b425495aad8c7aa475",
+            "app_update_sha256": "72f773eec677deff1ca4440d6cb6c0b3c0e669c50c4966a56205c62e2f3f100b",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=853070",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "281e91a80e393a5629014246336a2e9549786de8",
+            "full_update_sha256": "d5fce20926d01bc6038a5e2ef39a9c7313bfcb4ed29309745d844c5cc2bced5b"
         },
         {
             "name": "Edge",
@@ -187,11 +187,11 @@
             "last_updated": "March 05, 2025",
             "min_os": "11.0",
             "app_only_update_download": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-134.0.3124.51.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "85d10b2ba411bc62513ead7c6cc4dde3b66ad2a1",
+            "app_update_sha256": "c6f0e912f0c98cfdbaf63812bbeb831f3ab003c99c9de4882ddee75a0ce64559",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2093504",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "f463f1b6621a5e30fae8ac67d7d46445fb775254",
+            "full_update_sha256": "9a8515a6069e34169a4502f2240ba4ed24461b85e7457b4a0f3e2cf7175fafd4"
         },
         {
             "name": "Defender For Endpoint",
@@ -203,11 +203,11 @@
             "last_updated": "February 26, 2025",
             "min_os": "12.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "114756dc402b19b25de8d2c01f2353ff509aca4d",
+            "app_update_sha256": "256d688407fa30633a3f96173c1b951dd2b0a9537dc50cbc27359cacfc630be9",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2097502",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "8285da2bf779b827087b71dc311bea285398a2c2",
+            "full_update_sha256": "1a1e74a8c8cbb1dd1c00c37603b440c0749267d9525a64ea5e366e13783e0e2a"
         },
         {
             "name": "Defender for Consumers",
@@ -219,11 +219,11 @@
             "last_updated": "February 26, 2025",
             "min_os": "12.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.25012.0008_Individuals_Installer.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "286f4c408c2c8310655419e9deebc8b516f504cf",
+            "app_update_sha256": "1e9684e911ebd609781ab81b00c17635dcd04ecfc970d39295924b983fa6fbd6",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2247001",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "c3306a442fcb3b8e77b85156bac27f1c5a169668",
+            "full_update_sha256": "4b48da50dc934ecd7127751496e31d9630e63cf019c976a4ecf1ae0cd293c49c"
         },
         {
             "name": "Defender Shim",
@@ -235,11 +235,11 @@
             "last_updated": "October 16, 2024",
             "min_os": "12.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.24080.0001_Individuals_Shim_Installer.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "5101228ce261cfcc836d093889eef997e8f62dfd",
+            "app_update_sha256": "3c455357808b67ec0ebbed62825e5d7f4652f3f53a1d3d58510e82099981bb51",
             "full_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.24080.0001_Individuals_Shim_Installer.pkg",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "5101228ce261cfcc836d093889eef997e8f62dfd",
+            "full_update_sha256": "3c455357808b67ec0ebbed62825e5d7f4652f3f53a1d3d58510e82099981bb51"
         },
         {
             "name": "Windows App",
@@ -251,11 +251,11 @@
             "last_updated": "March 04, 2025",
             "min_os": "12.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.3_updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "240ba39c219edae78af84860a05b1d5781defcd8",
+            "app_update_sha256": "9f68796d282e0516c4f5b0e2b10d44bdc3fc3e3824455dca7fd3364635a66e2b",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=868963",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "1e64674df4bcd824e787ae2649d1ab8462c704b1",
+            "full_update_sha256": "d105c196fc542388a0ed3ae83b5497cf048a3b555cb4520f04f8a16687e33c8f"
         },
         {
             "name": "Visual",
@@ -267,11 +267,11 @@
             "last_updated": "March 12, 2025",
             "min_os": "N/A",
             "app_only_update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78/VSCode-darwin-universal.zip",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "293585143a3e1aa15300a0e3b34d97ce267122c9",
+            "app_update_sha256": "a623aa0917bfb0f962e1ac005f9a431cfdbbf99612e1ddd5e1830aa8c0f7c420",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "293585143a3e1aa15300a0e3b34d97ce267122c9",
+            "full_update_sha256": "a623aa0917bfb0f962e1ac005f9a431cfdbbf99612e1ddd5e1830aa8c0f7c420"
         },
         {
             "name": "MAU",
@@ -283,11 +283,11 @@
             "last_updated": "March 18, 2025",
             "min_os": "10.14.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.78.25031830_Updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "c1e02e0c916fa4ab2818558192a9da29b70394d5",
+            "app_update_sha256": "8b08471fd5f11adee33c33c8f0b0634f5601218308fb89466a27ed0e66748952",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=830196",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "c1e02e0c916fa4ab2818558192a9da29b70394d5",
+            "full_update_sha256": "8b08471fd5f11adee33c33c8f0b0634f5601218308fb89466a27ed0e66748952"
         },
         {
             "name": "Licensing Helper Tool",
@@ -299,11 +299,11 @@
             "last_updated": "September 10, 2023",
             "min_os": "11.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "cc58741e0243b5fb0682ca499b07c3a21060bb52",
+            "app_update_sha256": "2ef5b5006534c0d20d46c7353f42a0dc1faff7d53ba89a3151ccf5102c059905",
             "full_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "cc58741e0243b5fb0682ca499b07c3a21060bb52",
+            "full_update_sha256": "2ef5b5006534c0d20d46c7353f42a0dc1faff7d53ba89a3151ccf5102c059905"
         },
         {
             "name": "Quick Assist",
@@ -315,11 +315,11 @@
             "last_updated": "November 12, 2024",
             "min_os": "12.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2411113_updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "49db1be5bbb8091ea260631247d7de93c49afb9c",
+            "app_update_sha256": "2fdab5e1815862c9b3583257c485b088aa46c86e5609cad09bfa13a3a092a0e1",
             "full_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2411113_updater.pkg",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "49db1be5bbb8091ea260631247d7de93c49afb9c",
+            "full_update_sha256": "2fdab5e1815862c9b3583257c485b088aa46c86e5609cad09bfa13a3a092a0e1"
         },
         {
             "name": "Remote Help",
@@ -331,11 +331,11 @@
             "last_updated": "January 24, 2025",
             "min_os": "12.0",
             "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2501211_updater.pkg",
-            "app_update_sha1": "N/A",
-            "app_update_sha256": "N/A",
+            "app_update_sha1": "304f3a4247c99d016df8734fa5d8524591ac1b14",
+            "app_update_sha256": "8ffe881653742ce83ebaf60636906f7f47596569e2c36d71aa33f6c85f70536e",
             "full_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2501211_updater.pkg",
-            "full_update_sha1": "N/A",
-            "full_update_sha256": "N/A"
+            "full_update_sha1": "304f3a4247c99d016df8734fa5d8524591ac1b14",
+            "full_update_sha256": "8ffe881653742ce83ebaf60636906f7f47596569e2c36d71aa33f6c85f70536e"
         }
     ]
 }

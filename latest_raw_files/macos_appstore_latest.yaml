@@ -1,4 +1,4 @@
-last_updated: March 27, 2025 12:15 AM EDT
+last_updated: March 27, 2025 01:09 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -57,20 +57,15 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: March 26, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/9d/14/399d147a-4763-ede4-4724-4d433baddfc1/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: March 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5e/e9/d65ee9b1-8687-cdd5-cca3-fabe04c98f68/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
     minimumOsVersion: '12.0'
-    releaseNotes: "In this release we made the following updates:\n\n\u2022 Added\
-      \ support for Retina mode when using RemoteApps (see Settings > General).\n\u2022\
-      \ Cleaned up the RemoteApp switcher (accessed using Option + Tab when a RemoteApp\
-      \ is in focus).\n\u2022 Improved graphics performance for non-hardware accelerated\
-      \ and RemoteApp sessions. \n\u2022 Optimized Cloud PC REST API usage during\
-      \ Mac sleep.\n\u2022 Resolved unexpected disconnect errors encountered when\
-      \ prompting for credentials.\n\u2022 Fixed issues with daylight savings and\
-      \ time zone redirection.\n\u2022 Show an error dialog if an RDP file cannot\
-      \ be imported.\n\nIf you encounter any errors, you can contact us via Help >\
-      \ Submit Feedback."
-    version: 11.1.4
+    releaseNotes: 'This is a quick release to address minor UI issues related to device
+      cards and the Cloud PC details sheet.
+
+
+      If you encounter any errors, you can contact us via Help > Submit Feedback.'
+    version: 11.1.3
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac

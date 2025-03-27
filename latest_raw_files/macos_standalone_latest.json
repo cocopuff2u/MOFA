@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 27, 2025 02:08 PM EDT",
+    "last_updated": "March 27, 2025 03:05 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -120,7 +120,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.035.0223",
             "full_version": "0223.0003",
-            "last_updated": "March 27, 2025 02:08 PM EDT",
+            "last_updated": "March 27, 2025 03:05 PM EDT",
             "min_os": "N/A",
             "app_only_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg",
             "app_update_sha1": "a70b58a12adc61d47a5079194f90a69db6c18d93",
@@ -190,8 +190,8 @@
             "app_update_sha1": "85d10b2ba411bc62513ead7c6cc4dde3b66ad2a1",
             "app_update_sha256": "c6f0e912f0c98cfdbaf63812bbeb831f3ab003c99c9de4882ddee75a0ce64559",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2093504",
-            "full_update_sha1": "f463f1b6621a5e30fae8ac67d7d46445fb775254",
-            "full_update_sha256": "9a8515a6069e34169a4502f2240ba4ed24461b85e7457b4a0f3e2cf7175fafd4"
+            "full_update_sha1": "679ee956d73587805f102339d284bce8110fd55b",
+            "full_update_sha256": "0384868c1c3d97d60ff5da6500e6b48a9a47cadf46a509a2c6598b6d916a6b91"
         },
         {
             "name": "Defender For Endpoint",

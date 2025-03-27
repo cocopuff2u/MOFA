@@ -1,4 +1,4 @@
-last_updated: March 27, 2025 11:06 AM EDT
+last_updated: March 27, 2025 12:07 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -104,7 +104,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.035.0223
   full_version: '0223.0003'
-  last_updated: March 27, 2025 11:06 AM EDT
+  last_updated: March 27, 2025 12:07 PM EDT
   min_os: N/A
   app_only_update_download: https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg
   app_update_sha1: a70b58a12adc61d47a5079194f90a69db6c18d93
@@ -138,8 +138,8 @@ packages:
   app_update_sha1: 3022bd8f82f1bce381b3223f22f6d19f9e319ce3
   app_update_sha256: 554cc8f8534e54eff2e7c950c6c6fbbd90f7161d5bef0d99c33e7238a869cf07
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2249065
-  full_update_sha1: 3022bd8f82f1bce381b3223f22f6d19f9e319ce3
-  full_update_sha256: 554cc8f8534e54eff2e7c950c6c6fbbd90f7161d5bef0d99c33e7238a869cf07
+  full_update_sha1: 26858caf31f20ea2e614cb8fa4ee14b2a7d74fe6
+  full_update_sha256: 996fb003ab7ef5b2f6cac77ae5795bb322804259197a36469046ce3e233857c1
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app

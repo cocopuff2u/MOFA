@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>March 28, 2025 02:08 PM EDT</last_updated>
+    <last_updated>March 28, 2025 03:05 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -120,7 +120,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.035.0223</short_version>
         <full_version>0223.0003</full_version>
-        <last_updated>March 28, 2025 02:08 PM EDT</last_updated>
+        <last_updated>March 28, 2025 03:05 PM EDT</last_updated>
         <min_os>N/A</min_os>
         <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg</app_only_update_download>
         <app_update_sha1>a70b58a12adc61d47a5079194f90a69db6c18d93</app_update_sha1>

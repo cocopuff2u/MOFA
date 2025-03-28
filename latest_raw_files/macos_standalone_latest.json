@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 28, 2025 12:07 PM EDT",
+    "last_updated": "March 28, 2025 01:05 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -31,7 +31,7 @@
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
             "full_update_sha1": "0d4fd7dc5b463f641e523fa9c886b65381e62ab2",
-            "full_update_sha256": "19da5cb0f2748061c819197e3ac804910705283c84ee81322e328a4364456bb5"
+            "full_update_sha256": "N/A"
         },
         {
             "name": "Word",
@@ -120,7 +120,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.035.0223",
             "full_version": "0223.0003",
-            "last_updated": "March 28, 2025 12:07 PM EDT",
+            "last_updated": "March 28, 2025 01:05 PM EDT",
             "min_os": "N/A",
             "app_only_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg",
             "app_update_sha1": "a70b58a12adc61d47a5079194f90a69db6c18d93",

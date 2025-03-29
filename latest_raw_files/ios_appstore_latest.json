@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 29, 2025 04:13 PM EDT",
+    "last_updated": "March 29, 2025 05:08 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/1f/0a/831f0a1b-455a-2749-ab1f-6bf1956123c2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 28, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a4/ad/69a4ad9c-402c-18d1-8b1d-b686bbeb782c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.7.2"
+            "version": "16.7.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -153,23 +153,23 @@
         },
         {
             "name": "iOS Microsoft Dynamics 365 Remote Assist",
-            "application_name": "Dynamics 365 Remote Assist",
-            "bundleId": "com.microsoft.ramobile",
-            "currentVersionReleaseDate": "February 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1e/6f/f61e6f00-e680-7d9c-236d-ad6f67196704/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "12.2",
-            "releaseNotes": "\u2022 Overall quality and stability improvements",
-            "version": "2025.02.05"
+            "application_name": "NA",
+            "bundleId": "NA",
+            "currentVersionReleaseDate": "NA",
+            "icon_image": "NA",
+            "minimumOsVersion": "NA",
+            "releaseNotes": "NA",
+            "version": "NA"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Project Timesheet",
-            "application_name": "Dynamics 365 Remote Assist",
-            "bundleId": "com.microsoft.ramobile",
-            "currentVersionReleaseDate": "February 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1e/6f/f61e6f00-e680-7d9c-236d-ad6f67196704/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "12.2",
-            "releaseNotes": "\u2022 Overall quality and stability improvements",
-            "version": "2025.02.05"
+            "application_name": "NA",
+            "bundleId": "NA",
+            "currentVersionReleaseDate": "NA",
+            "icon_image": "NA",
+            "minimumOsVersion": "NA",
+            "releaseNotes": "NA",
+            "version": "NA"
         },
         {
             "name": "iOS Microsoft Viva Engage",

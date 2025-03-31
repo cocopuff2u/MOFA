@@ -1,4 +1,4 @@
-last_updated: March 31, 2025 12:07 PM EDT
+last_updated: March 31, 2025 01:05 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -102,16 +102,16 @@ packages:
   application_id: OneDrive.app
   application_name: OneDrive.app
   CFBundleVersion: com.microsoft.onedrive
-  short_version: 25.035.0223
-  full_version: '0223.0003'
-  last_updated: March 31, 2025 12:07 PM EDT
+  short_version: 25.041.0303
+  full_version: '0303.0002'
+  last_updated: March 31, 2025 01:05 PM EDT
   min_os: N/A
-  app_only_update_download: https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg
-  app_update_sha1: a70b58a12adc61d47a5079194f90a69db6c18d93
-  app_update_sha256: d823b707e44c2bd08676373f6481cb5d797c2da2bcb1c336593f95871e295c0a
-  full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg
-  full_update_sha1: a70b58a12adc61d47a5079194f90a69db6c18d93
-  full_update_sha256: d823b707e44c2bd08676373f6481cb5d797c2da2bcb1c336593f95871e295c0a
+  app_only_update_download: https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg
+  app_update_sha1: 4dcd75e8671a6962a28a07d7fe9543b5c6fe048e
+  app_update_sha256: c9ef1289ee10f112ecc3eb736145b95bcc3ae17cfaed5ff94a9f9b0e774c0a3b
+  full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg
+  full_update_sha1: 4dcd75e8671a6962a28a07d7fe9543b5c6fe048e
+  full_update_sha256: c9ef1289ee10f112ecc3eb736145b95bcc3ae17cfaed5ff94a9f9b0e774c0a3b
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app

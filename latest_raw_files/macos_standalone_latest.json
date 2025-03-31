@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 31, 2025 01:05 PM EDT",
+    "last_updated": "March 31, 2025 02:08 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -120,7 +120,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.041.0303",
             "full_version": "0303.0002",
-            "last_updated": "March 31, 2025 01:05 PM EDT",
+            "last_updated": "March 31, 2025 02:08 PM EDT",
             "min_os": "N/A",
             "app_only_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg",
             "app_update_sha1": "4dcd75e8671a6962a28a07d7fe9543b5c6fe048e",
@@ -222,8 +222,8 @@
             "app_update_sha1": "0bb2500ea2625b5b4101a0c2baefe7371b95e008",
             "app_update_sha256": "a72832b05bfd83c88157d749e19c0272f3a5d11c0148a6dc648ba1d769e8b222",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2247001",
-            "full_update_sha1": "c3306a442fcb3b8e77b85156bac27f1c5a169668",
-            "full_update_sha256": "4b48da50dc934ecd7127751496e31d9630e63cf019c976a4ecf1ae0cd293c49c"
+            "full_update_sha1": "0bb2500ea2625b5b4101a0c2baefe7371b95e008",
+            "full_update_sha256": "a72832b05bfd83c88157d749e19c0272f3a5d11c0148a6dc648ba1d769e8b222"
         },
         {
             "name": "Defender Shim",

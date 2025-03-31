@@ -1,4 +1,4 @@
-last_updated: March 31, 2025 03:11 AM EDT
+last_updated: March 31, 2025 04:15 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -128,11 +128,11 @@ packages:
   - name: iOS Microsoft Lists
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: March 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/79/67/69796789-468a-f335-004c-f9dc4558c719/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/37/51/89375105-8a59-adc0-e70b-ae96b4ba4bde/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Quality and performance improvements.
-    version: 2.95.3
+    version: 2.95.2
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices

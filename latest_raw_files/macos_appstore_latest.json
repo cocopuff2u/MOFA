@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 01, 2025 01:11 PM EDT",
+    "last_updated": "April 01, 2025 02:15 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -15,11 +15,11 @@
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "April 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/38/ef/8438efb9-d5ef-0245-72ac-c3ad8fa2f3a2/XCEL.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3c/42/bd3c42d0-6f7e-e2cd-bd66-22a48f30761f/XCEL.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.95.3"
+            "version": "16.95.1"
         },
         {
             "name": "MacOS Microsoft PowerPoint",

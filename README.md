@@ -9,9 +9,21 @@ Building on the legacy of the now-defunct [**MacAdmins.software**](https://macad
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
-<div align="center">
+<div style="display: flex; gap: 20px; justify-content: center;">
 
-### 🌐[mofa.cocolabs.dev](https://mofa.cocolabs.dev)🌐
+  <div style="flex: 1; padding: 20px; border: 2px solid #ddd; border-radius: 10px; text-align: center;">
+    <h3>🌟 Explore the MOFA Website 🌟</h3>
+    <p>🌐 <strong>Visit:</strong> <a href="https://mofa.cocolabs.dev" target="_blank">mofa.cocolabs.dev</a> 🌐</p>
+  </div>
+
+  <div style="flex: 1; padding: 20px; border: 2px solid #ddd; border-radius: 10px; text-align: center;">
+    <h3>⭐ Support the Project – Give it a Star! ⭐</h3>
+    <p>
+      <a href="https://github.com/cocopuff2u/mofa" target="_blank">
+        <img src="https://img.shields.io/github/stars/cocopuff2u/mofa" alt="GitHub Repo Stars">
+      </a>
+    </p>
+  </div>
 
 </div>
 
@@ -36,7 +48,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Outlook** <sup>365/2021/2024</sup> **App Only Installer** <br><sub>_(Does Not Contain MAU)_</sub><br><br>_**Last Update:** `March 24, 2025`_<br> | **Version:**<br>`16.95.2 (25032416)`<br><br>**Min OS:**<br>`13.0`<br><br>**CFBundle ID:**<br>`com.microsoft.outlook` | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.95.25032416_Updater.pkg"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="80"></a>|
 | **OneNote** <sup>365/2021/2024</sup> **Standalone Installer**<br><br>_**Last Update:** `March 15, 2025`_<br> | **Version:**<br>`16.95.1 (25031528)`<br><br>**Min OS:**<br>`13.0`<br><br>**CFBundle ID:**<br>`com.microsoft.onenote.mac` | <a href="https://go.microsoft.com/fwlink/?linkid=820886"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="80"></a> |
 | **OneNote** <sup>365/2021/2024</sup> **App Only Installer** <br><sub>_(Does Not Contain MAU)_</sub><br><br>_**Last Update:** `March 15, 2025`_<br> | **Version:**<br>`16.95.1 (25031528)`<br><br>**Min OS:**<br>`13.0`<br><br>**CFBundle ID:**<br>`com.microsoft.onenote.mac` | <a href="https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.95.25031528_Updater.pkg"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="80"></a> |
-| **OneDrive Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0#OSVersion=Mac" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `April 01, 2025 08:10 AM EDT`_<br> | **Version:**<br>`25.041.0303`<br><br>**Min OS:**<br>`N/A`<br><br>**CFBundle ID:**<br>`com.microsoft.OneDrive` | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="80"></a> |
+| **OneDrive Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0#OSVersion=Mac" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `April 01, 2025 09:13 AM EDT`_<br> | **Version:**<br>`25.041.0303`<br><br>**Min OS:**<br>`N/A`<br><br>**CFBundle ID:**<br>`com.microsoft.OneDrive` | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Skype for Business Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781?ui=en-us&rs=en-us&ad=us" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `September 05, 2024`_<br> | **Version:**<br>`16.31.11`<br><br>**Min OS:**<br>`10.14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.SkypeForBusiness` | <a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.31.11.pkg"><img src=".github/images/skype_for_business.png" alt="Download Image" width="80"></a> |
 | **Teams Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `March 05, 2025`_<br> | **Version:**<br>`25060.203.3471.5023`<br><br>**Min OS:**<br>`13.0`<br><br>**CFBundle ID:**<br>`com.microsoft.teams2` | <a href="https://go.microsoft.com/fwlink/?linkid=2249065"><img src=".github/images/teams_512x512x32.png" alt="Download Image" width="80"></a> |
 | **InTune Company Portal Standalone Installer**<br><a href="https://aka.ms/intuneupdates" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `March 24, 2025`_<br> | **Version:**<br>`5.2502.1`<br><br>**Min OS:**<br>`11.0`<br><br>**CFBundle ID:**<br>`com.microsoft.CompanyPortalMac` | <a href="https://go.microsoft.com/fwlink/?linkid=853070"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> |

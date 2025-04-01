@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 01, 2025 04:15 AM EDT</last_updated>
+	<last_updated>April 01, 2025 05:14 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,13 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>March 24, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/33/c7/a733c736-9173-1aa3-0f42-3020c803179c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 31, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/fe/49/0bfe498f-9d63-2e80-905b-41cd398d3b5b/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2511.0</version>
+		<version>4.2512.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -265,11 +265,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>March 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/f5/bc/f8f5bc9b-511b-e2bd-e44b-3b623dfefd3c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 31, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ef/16/adef16b1-7288-6768-0050-3fd2fadae534/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.6.0</version>
+		<version>7.6.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>
@@ -295,11 +295,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>March 26, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/17/93/3e17931f-f0df-068f-c335-15959829795b/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/22/f2/8822f205-31c4-2cab-3136-af357e46376d/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.25033.13</version>
+		<version>3.25034.11</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>

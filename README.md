@@ -9,7 +9,7 @@ Building on the legacy of the now-defunct [**MacAdmins.software**](https://macad
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
-<div style="display: flex; justify-content: center; text-align: center;">
+<div align="center">
 
 | 🌟 **Explore the MOFA Website** 🌟 | ⭐ **Support the Project – Give it a Star!** ⭐ |
 |----------------------------------|-------------------------------------------|

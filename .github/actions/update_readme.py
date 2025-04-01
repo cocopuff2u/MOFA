@@ -140,23 +140,14 @@ Building on the legacy of the now-defunct [**MacAdmins.software**](https://macad
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; justify-content: center; text-align: center;">
 
-  <div style="flex: 1; padding: 20px; border: 2px solid #ddd; border-radius: 10px; text-align: center;">
-    <h3>🌟 Explore the MOFA Website 🌟</h3>
-    <p>🌐 <strong>Visit:</strong> <a href="https://mofa.cocolabs.dev" target="_blank">mofa.cocolabs.dev</a> 🌐</p>
-  </div>
-
-  <div style="flex: 1; padding: 20px; border: 2px solid #ddd; border-radius: 10px; text-align: center;">
-    <h3>⭐ Support the Project – Give it a Star! ⭐</h3>
-    <p>
-      <a href="https://github.com/cocopuff2u/mofa" target="_blank">
-        <img src="https://img.shields.io/github/stars/cocopuff2u/mofa" alt="GitHub Repo Stars">
-      </a>
-    </p>
-  </div>
+| 🌟 **Explore the MOFA Website** 🌟 | ⭐ **Support the Project – Give it a Star!** ⭐ |
+|----------------------------------|-------------------------------------------|
+| 🌐 **Visit:** [mofa.cocolabs.dev](https://mofa.cocolabs.dev) 🌐 | [![GitHub Repo Stars](https://img.shields.io/github/stars/cocopuff2u/mofa)](https://github.com/cocopuff2u/mofa) |
 
 </div>
+
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft Standalone Packages
 

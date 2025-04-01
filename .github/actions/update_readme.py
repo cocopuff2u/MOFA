@@ -142,11 +142,23 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <div align="center">
 
-| 🌟 **Explore the MOFA Website** 🌟 | ⭐ **Support the Project – Give it a Star!** ⭐ |
-|----------------------------------|-------------------------------------------|
-| 🌐 **Visit:** [mofa.cocolabs.dev](https://mofa.cocolabs.dev) 🌐 | [![GitHub Repo Stars](https://img.shields.io/github/stars/cocopuff2u/mofa)](https://github.com/cocopuff2u/mofa) |
+<table>
+  <tr>
+    <th>🌟 Explore the MOFA Website 🌟</th>
+    <th>⭐ Support the Project – Give it a Star! ⭐</th>
+  </tr>
+  <tr>
+    <td align="center">🌐 <strong>Visit:</strong> <a href="https://mofa.cocolabs.dev">mofa.cocolabs.dev</a> 🌐</td>
+    <td align="center">
+      <a href="https://github.com/cocopuff2u/mofa">
+        <img src="https://img.shields.io/github/stars/cocopuff2u/mofa" alt="GitHub Repo Stars">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft Standalone Packages

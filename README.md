@@ -20,7 +20,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 31, 2025 10:36 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 31, 2025 11:25 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |----------------------|----------------------|--------------------------|--------------|
@@ -103,7 +103,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 31, 2025 10:39 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 31, 2025 11:28 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -121,14 +121,14 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 31, 2025 10:39 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 31, 2025 11:28 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
 | Microsoft Word | `2.95.3` | com.microsoft.Office.Word | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/2c/14/252c14e2-56a9-4f1d-b2a7-3b78f474604b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Word" width="40"> |
 | Microsoft Excel | `2.95.3` | com.microsoft.Office.Excel | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/79/67/69796789-468a-f335-004c-f9dc4558c719/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Excel" width="40"> |
 | Microsoft PowerPoint | `2.95.3` | com.microsoft.Office.Powerpoint | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/34/4a/fd344a7a-88fd-aca6-5fc5-4010882f9681/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft PowerPoint" width="40"> |
-| Microsoft Outlook | `4.2511.0` | com.microsoft.Office.Outlook | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/33/c7/a733c736-9173-1aa3-0f42-3020c803179c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Outlook" width="40"> |
+| Microsoft Outlook | `4.2512.0` | com.microsoft.Office.Outlook | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/fe/49/0bfe498f-9d63-2e80-905b-41cd398d3b5b/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Outlook" width="40"> |
 | Microsoft OneNote | `16.95` | com.microsoft.onenote | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fa/c0/e0fac0b4-97ac-04ea-b99b-36e69ea67510/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft OneNote" width="40"> |
 | Microsoft OneDrive | `16.7.3` | com.microsoft.skydrive | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a4/ad/69a4ad9c-402c-18d1-8b1d-b686bbeb782c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
 | Link to Windows | `1.25011.28` | com.microsoft.LinkToWindows | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/95/30/339530c9-6f05-94d6-e930-0af2106f506d/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg" alt="Link to Windows" width="40"> |
@@ -138,7 +138,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Warehouse Management | `3.0.6` | com.microsoft.WarehouseManagement | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/03/5e/e8035edd-1e7f-2c48-8cb4-28f7379987d4/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Warehouse Management" width="40"> |
 | WooCommerce | `21.9` | com.automattic.woocommerce | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/7b/da/777bda74-38bf-0f2d-c777-831a6b8eb672/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="WooCommerce" width="40"> |
 | Dynamics 365 Sales | `3.24104.15` | com.microsoft.dynamics.iphone.moca.sales | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Sales" width="40"> |
-| Microsoft Excel | `2.95.3` | com.microsoft.Office.Excel | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/79/67/69796789-468a-f335-004c-f9dc4558c719/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Excel" width="40"> |
+| Microsoft Excel | `2.95.2` | com.microsoft.Office.Excel | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/37/51/89375105-8a59-adc0-e70b-ae96b4ba4bde/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Excel" width="40"> |
 | Dynamics 365 Field Service | `13.24121.10` | com.microsoft.dynamics.iphone.moca.fieldServices | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/e6/91/03e69183-f9f0-94c7-9e2e-2a923805b8ab/FieldServices_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Field Service" width="40"> |
 | NA | `NA` | NA | <img src="NA" alt="NA" width="40"> |
 | NA | `NA` | NA | <img src="NA" alt="NA" width="40"> |

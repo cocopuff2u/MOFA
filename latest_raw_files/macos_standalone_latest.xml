@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>April 01, 2025 12:08 AM EDT</last_updated>
+    <last_updated>April 01, 2025 01:06 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -120,7 +120,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.041.0303</short_version>
         <full_version>0303.0002</full_version>
-        <last_updated>April 01, 2025 12:08 AM EDT</last_updated>
+        <last_updated>April 01, 2025 01:06 AM EDT</last_updated>
         <min_os>N/A</min_os>
         <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg</app_only_update_download>
         <app_update_sha1>4dcd75e8671a6962a28a07d7fe9543b5c6fe048e</app_update_sha1>
@@ -143,7 +143,7 @@
         <app_update_sha256>6709b7d2fe51d2ca5ed108bbd00b984f6fe1c7811dd1841a340640c015f1ebf2</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=832978</full_update_download>
         <full_update_sha1>91c6abad17552136cdbda3f7af12f1484f664fd2</full_update_sha1>
-        <full_update_sha256>81f484842e86a39c9f33abc4d35b4e7dbb87189ca3c424a6396e15d96ea2dbd5</full_update_sha256>
+        <full_update_sha256>N/A</full_update_sha256>
     </package>
     <package>
         <name>Teams</name>

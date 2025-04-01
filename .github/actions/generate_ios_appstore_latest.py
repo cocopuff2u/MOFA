@@ -109,14 +109,15 @@ apps = {
         "url": "https://itunes.apple.com/search?term=dynamics-365-field-service&country=us&entity=software",
         "keys": common_keys
     },
-    "iOS Microsoft Dynamics 365 Remote Assist": {
-        "url": "https://itunes.apple.com/search?term=dynamics-365-remote-assist&country=us&entity=software",
-        "keys": common_keys
-    },
-    "iOS Microsoft Dynamics 365 Project Timesheet": {
-        "url": "https://itunes.apple.com/search?term=dynamics-365-remote-assist&country=us&entity=software",
-        "keys": common_keys
-    },
+    ### These are constantly not available for App Store
+    # "iOS Microsoft Dynamics 365 Remote Assist": {
+    #     "url": "https://itunes.apple.com/search?term=dynamics-365-remote-assist&country=us&entity=software",
+    #     "keys": common_keys
+    # },
+    # "iOS Microsoft Dynamics 365 Project Timesheet": {
+    #     "url": "https://itunes.apple.com/search?term=dynamics-365-remote-assist&country=us&entity=software",
+    #     "keys": common_keys
+    # },
     "iOS Microsoft Viva Engage": {
         "url": "https://itunes.apple.com/search?term=viva-engage&country=us&entity=software",
         "keys": common_keys

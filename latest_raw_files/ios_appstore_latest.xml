@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 01, 2025 08:16 AM EDT</last_updated>
+	<last_updated>April 01, 2025 09:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -163,26 +163,6 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>Minor updates, bug fixes, and performance improvements.</releaseNotes>
 		<version>13.24121.10</version>
-	</package>
-	<package>
-		<name>iOS Microsoft Dynamics 365 Remote Assist</name>
-		<application_name>NA</application_name>
-		<bundleId>NA</bundleId>
-		<currentVersionReleaseDate>NA</currentVersionReleaseDate>
-		<icon_image>NA</icon_image>
-		<minimumOsVersion>NA</minimumOsVersion>
-		<releaseNotes>NA</releaseNotes>
-		<version>NA</version>
-	</package>
-	<package>
-		<name>iOS Microsoft Dynamics 365 Project Timesheet</name>
-		<application_name>NA</application_name>
-		<bundleId>NA</bundleId>
-		<currentVersionReleaseDate>NA</currentVersionReleaseDate>
-		<icon_image>NA</icon_image>
-		<minimumOsVersion>NA</minimumOsVersion>
-		<releaseNotes>NA</releaseNotes>
-		<version>NA</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Viva Engage</name>

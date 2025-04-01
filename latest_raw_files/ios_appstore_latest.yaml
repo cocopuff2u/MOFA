@@ -1,4 +1,4 @@
-last_updated: April 01, 2025 10:16 AM EDT
+last_updated: April 01, 2025 11:16 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -213,11 +213,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: March 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ef/16/adef16b1-7288-6768-0050-3fd2fadae534/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/f5/bc/f8f5bc9b-511b-e2bd-e44b-3b623dfefd3c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.6.1
+    version: 7.6.0
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
@@ -238,11 +238,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: April 01, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/22/f2/8822f205-31c4-2cab-3136-af357e46376d/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/17/93/3e17931f-f0df-068f-c335-15959829795b/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25034.11
+    version: 3.25033.13
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator

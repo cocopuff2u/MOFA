@@ -1,15 +1,15 @@
 {
-    "last_updated": "April 02, 2025 04:12 AM EDT",
+    "last_updated": "April 02, 2025 05:12 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/b5/65/04b56550-1c8c-70ec-145f-585a8544bf6b/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "April 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/1e/c1/281ec174-81ab-f62b-d64c-b56caedee6d0/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.95.1"
+            "version": "16.95.3"
         },
         {
             "name": "MacOS Microsoft Excel",
@@ -25,21 +25,21 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/13/45/7413455c-c186-1f54-86f9-cf887b4a33eb/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "April 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/28/b3/bf28b37f-84c5-dd9d-ee8d-548f54fd7d99/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.95.1"
+            "version": "16.95.3"
         },
         {
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "March 25, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/d8/a8/76d8a8ee-72f3-a57a-9ac5-e98cf394e45a/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "April 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/c0/6a/c9c06a1f-e512-0a4d-2326-c15788cc7504/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Quality and performance improvements.",
-            "version": "16.95.2"
+            "version": "16.95.3"
         },
         {
             "name": "MacOS Microsoft OneNote",

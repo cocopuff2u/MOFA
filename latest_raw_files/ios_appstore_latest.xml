@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 02, 2025 08:17 AM EDT</last_updated>
+	<last_updated>April 02, 2025 09:18 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -82,11 +82,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>March 19, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cf/73/7fcf737a-1a7d-69ed-13a4-cd7ad6a7c599/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 02, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/b5/67/adb56704-33ed-af8e-309a-a1d8ad007da6/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and improvements</releaseNotes>
-		<version>1.1.63100101</version>
+		<version>1.1.63310101</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>
@@ -168,11 +168,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>April 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/01/e5/ef01e5d0-1a19-22b3-becb-f7b55c306402/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/d9/25/27d925c4-9f94-b791-404d-f3c47f9b85c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We've improved the stability of Viva Engage in this release. We hope you enjoy it!</releaseNotes>
-		<version>10.95.0</version>
+		<version>10.94.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>

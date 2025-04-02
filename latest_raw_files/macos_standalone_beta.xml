@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>April 02, 2025 11:12 AM EDT</last_updated>
+    <last_updated>April 02, 2025 12:13 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -78,7 +78,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.046.0310</short_version>
         <full_version>0310.0005</full_version>
-        <last_updated>April 02, 2025 11:12 AM EDT</last_updated>
+        <last_updated>April 02, 2025 12:13 PM EDT</last_updated>
         <min_os>N/A</min_os>
         <update_download>https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg</update_download>
         <latest_download>https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg</latest_download>
@@ -202,13 +202,13 @@
         <application_id>MSau04</application_id>
         <application_name>Microsoft AutoUpdate.app</application_name>
         <CFBundleVersion>com.microsoft.autoupdate</CFBundleVersion>
-        <short_version>4.78 (25031830)</short_version>
-        <full_version>4.78.25031830</full_version>
-        <last_updated>March 18, 2025</last_updated>
+        <short_version>4.79 (25033028)</short_version>
+        <full_version>4.79.25033028</full_version>
+        <last_updated>March 30, 2025</last_updated>
         <min_os>10.14.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.78.25031830_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.78.25031830_Updater.pkg</latest_download>
-        <sha1>c1e02e0c916fa4ab2818558192a9da29b70394d5</sha1>
-        <sha256>8b08471fd5f11adee33c33c8f0b0634f5601218308fb89466a27ed0e66748952</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.79.25033028_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.79.25033028_Updater.pkg</latest_download>
+        <sha1>b899c20c3cab09cd72c3e204b0335fc81023d823</sha1>
+        <sha256>5e4cac055805c69bbc670b1188820d78bc33119bf66c2e81f2fe4c2710749b6c</sha256>
     </package>
 </latest>

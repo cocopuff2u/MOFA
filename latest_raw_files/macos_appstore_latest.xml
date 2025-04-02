@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 02, 2025 10:13 AM EDT</last_updated>
+	<last_updated>April 02, 2025 11:12 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,11 +35,11 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>March 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/d8/a8/76d8a8ee-72f3-a57a-9ac5-e98cf394e45a/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/c0/6a/c9c06a1f-e512-0a4d-2326-c15788cc7504/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Quality and performance improvements.</releaseNotes>
-		<version>16.95.2</version>
+		<version>16.95.3</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

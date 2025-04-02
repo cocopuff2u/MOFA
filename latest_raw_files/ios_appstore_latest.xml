@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 02, 2025 03:11 AM EDT</last_updated>
+	<last_updated>April 02, 2025 04:12 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -275,11 +275,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>April 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/22/f2/8822f205-31c4-2cab-3136-af357e46376d/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 26, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/17/93/3e17931f-f0df-068f-c335-15959829795b/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.25034.11</version>
+		<version>3.25033.13</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>

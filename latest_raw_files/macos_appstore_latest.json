@@ -1,15 +1,15 @@
 {
-    "last_updated": "April 02, 2025 02:13 AM EDT",
+    "last_updated": "April 02, 2025 03:11 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "April 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/1e/c1/281ec174-81ab-f62b-d64c-b56caedee6d0/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/b5/65/04b56550-1c8c-70ec-145f-585a8544bf6b/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.95.3"
+            "version": "16.95.1"
         },
         {
             "name": "MacOS Microsoft Excel",
@@ -25,11 +25,11 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "April 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/28/b3/bf28b37f-84c5-dd9d-ee8d-548f54fd7d99/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/13/45/7413455c-c186-1f54-86f9-cf887b4a33eb/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.95.3"
+            "version": "16.95.1"
         },
         {
             "name": "MacOS Microsoft Outlook",

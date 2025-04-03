@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>April 03, 2025 03:05 PM EDT</last_updated>
+    <last_updated>April 03, 2025 04:06 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -120,7 +120,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.041.0303</short_version>
         <full_version>0303.0002</full_version>
-        <last_updated>April 03, 2025 03:05 PM EDT</last_updated>
+        <last_updated>April 03, 2025 04:06 PM EDT</last_updated>
         <min_os>N/A</min_os>
         <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg</app_only_update_download>
         <app_update_sha1>4dcd75e8671a6962a28a07d7fe9543b5c6fe048e</app_update_sha1>
@@ -190,8 +190,8 @@
         <app_update_sha1>85d10b2ba411bc62513ead7c6cc4dde3b66ad2a1</app_update_sha1>
         <app_update_sha256>c6f0e912f0c98cfdbaf63812bbeb831f3ab003c99c9de4882ddee75a0ce64559</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2093504</full_update_download>
-        <full_update_sha1>679ee956d73587805f102339d284bce8110fd55b</full_update_sha1>
-        <full_update_sha256>0384868c1c3d97d60ff5da6500e6b48a9a47cadf46a509a2c6598b6d916a6b91</full_update_sha256>
+        <full_update_sha1>5ccddf4fcbc49b3a2b6b49d53658b0e627f86a25</full_update_sha1>
+        <full_update_sha256>7bb07e3722866a4b5e44f0efe42c204a72105cbcfd3abe96811d6f00d08e8a61</full_update_sha256>
     </package>
     <package>
         <name>Defender For Endpoint</name>

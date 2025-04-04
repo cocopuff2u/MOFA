@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 03, 2025 10:40 PM EDT</last_updated>
+	<last_updated>April 03, 2025 11:25 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>April 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/1e/c1/281ec174-81ab-f62b-d64c-b56caedee6d0/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 03, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/8b/ff/168bffd7-4d29-19df-7f43-173e4bd26874/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.95.3</version>
+		<releaseNotes>Resolves an issue where certain custom Language &amp; Region system settings were not being applied.</releaseNotes>
+		<version>16.95.4</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>April 03, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/4d/b8/4f4db8d8-25c5-4a94-34af-3c2becb85254/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/38/ef/8438efb9-d5ef-0245-72ac-c3ad8fa2f3a2/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Resolves an issue where certain custom Language &amp; Region system settings were not being applied.</releaseNotes>
-		<version>16.95.4</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.95.3</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>

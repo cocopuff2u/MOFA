@@ -1,4 +1,4 @@
-last_updated: April 04, 2025 05:11 PM EDT
+last_updated: April 04, 2025 06:10 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -21,11 +21,12 @@ packages:
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: April 01, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/28/b3/bf28b37f-84c5-dd9d-ee8d-548f54fd7d99/PPT3.png/512x512bb.png
+    currentVersionReleaseDate: April 03, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/b8/65/0bb8650f-29c2-aa35-cfc8-0512545aad64/PPT3.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 16.95.3
+    releaseNotes: Resolves an issue where certain custom Language & Region system
+      settings were not being applied.
+    version: 16.95.4
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook

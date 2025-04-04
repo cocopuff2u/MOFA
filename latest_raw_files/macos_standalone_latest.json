@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 04, 2025 03:06 AM EDT",
+    "last_updated": "April 04, 2025 04:08 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -120,7 +120,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.041.0303",
             "full_version": "0303.0002",
-            "last_updated": "April 04, 2025 03:06 AM EDT",
+            "last_updated": "April 04, 2025 04:08 AM EDT",
             "min_os": "N/A",
             "app_only_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg",
             "app_update_sha1": "4dcd75e8671a6962a28a07d7fe9543b5c6fe048e",
@@ -262,16 +262,16 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code.app",
             "CFBundleVersion": "com.microsoft.visualstudio",
-            "short_version": "1.98.2",
-            "full_version": "1.98.2",
-            "last_updated": "March 12, 2025",
+            "short_version": "1.99.0",
+            "full_version": "1.99.0",
+            "last_updated": "April 02, 2025",
             "min_os": "N/A",
-            "app_only_update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78/VSCode-darwin-universal.zip",
-            "app_update_sha1": "293585143a3e1aa15300a0e3b34d97ce267122c9",
-            "app_update_sha256": "a623aa0917bfb0f962e1ac005f9a431cfdbbf99612e1ddd5e1830aa8c0f7c420",
+            "app_only_update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/4437686ffebaf200fa4a6e6e67f735f3edf24ada/VSCode-darwin-universal.zip",
+            "app_update_sha1": "0191b571da48c78adda65f366f772afc4c62f4f0",
+            "app_update_sha256": "e7946d833f94833fe206bbdb37b56933fb3c6995a686b2ce73768f4ceede199b",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
-            "full_update_sha1": "293585143a3e1aa15300a0e3b34d97ce267122c9",
-            "full_update_sha256": "a623aa0917bfb0f962e1ac005f9a431cfdbbf99612e1ddd5e1830aa8c0f7c420"
+            "full_update_sha1": "0191b571da48c78adda65f366f772afc4c62f4f0",
+            "full_update_sha256": "e7946d833f94833fe206bbdb37b56933fb3c6995a686b2ce73768f4ceede199b"
         },
         {
             "name": "MAU",

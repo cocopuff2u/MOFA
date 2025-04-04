@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>April 04, 2025 04:07 PM EDT</last_updated>
+    <last_updated>April 04, 2025 05:05 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -46,8 +46,8 @@
         <app_update_sha1>502865d9c0c64eacce72c1ac1605eb172a96281e</app_update_sha1>
         <app_update_sha256>bc355226f80d2314f0a4f4a735fa76b57ee745270d73f10093a45cfe22fd6dac</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525134</full_update_download>
-        <full_update_sha1>f96ad736262337e1ebabc30bb4fff924d56da47a</full_update_sha1>
-        <full_update_sha256>e12f4249ab0581b550ba0d1b480232b532539e132c5f31d3afd9903cdab7b6c6</full_update_sha256>
+        <full_update_sha1>fb41da28a754940924bafe54832f4a8897beeea0</full_update_sha1>
+        <full_update_sha256>efb1fdd356bae6efffa7ee3fd8e4c767be418223d338d4bb5071c3216f1f2026</full_update_sha256>
     </package>
     <package>
         <name>Excel</name>
@@ -62,8 +62,8 @@
         <app_update_sha1>c05912e8bdb71ec964822b30db420da4ccaed67f</app_update_sha1>
         <app_update_sha256>23fccf4242ede2dfc21935cce0a730d6bc7ed76adc7d4e53976cddadaed725fb</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525135</full_update_download>
-        <full_update_sha1>7cf87d62d5514a5ed6e816aeb150bdb02027e94f</full_update_sha1>
-        <full_update_sha256>29cb76f61e8b6aa8cfdec15260482a6f32ff7f92308dea3670a534ca3391536f</full_update_sha256>
+        <full_update_sha1>ed4ac36861cbdd84ce5c00da6d1d33a44ba4c40c</full_update_sha1>
+        <full_update_sha256>237a275c1b606af348e627ca01b38fdea769110c26c1b65b7a128f7e7a2b6d37</full_update_sha256>
     </package>
     <package>
         <name>PowerPoint</name>
@@ -78,8 +78,8 @@
         <app_update_sha1>86c2944fdac80e7a3e4ae34cc9b4325b33526d32</app_update_sha1>
         <app_update_sha256>697a0dbba97fab82460ca2fe55709859623e3be1fad4d0cad9b61a1109619491</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525136</full_update_download>
-        <full_update_sha1>9f89a6595768b98ec6c1986ec5d85a666f5a37dd</full_update_sha1>
-        <full_update_sha256>fe9168bb6cdef4585024afa63331598d8032174e6501f7cf8547f6712a602071</full_update_sha256>
+        <full_update_sha1>88c83c61f561e6159c00092e717ded52e3b9d730</full_update_sha1>
+        <full_update_sha256>34c8c5d4a437754d31e8e2d4553ee3b9ae5671e91478ec8e9046b13573cad9ae</full_update_sha256>
     </package>
     <package>
         <name>Outlook</name>
@@ -120,7 +120,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.041.0303</short_version>
         <full_version>0303.0002</full_version>
-        <last_updated>April 04, 2025 04:07 PM EDT</last_updated>
+        <last_updated>April 04, 2025 05:05 PM EDT</last_updated>
         <min_os>N/A</min_os>
         <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg</app_only_update_download>
         <app_update_sha1>4dcd75e8671a6962a28a07d7fe9543b5c6fe048e</app_update_sha1>

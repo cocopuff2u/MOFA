@@ -1,4 +1,4 @@
-last_updated: April 05, 2025 02:14 AM EDT
+last_updated: April 05, 2025 03:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,14 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: March 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/fe/49/0bfe498f-9d63-2e80-905b-41cd398d3b5b/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/f3/45/aaf34599-9ead-23da-ca46-c199c43b043a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2512.0
+    version: 4.2512.1
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -67,11 +67,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: April 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/b5/67/adb56704-33ed-af8e-309a-a1d8ad007da6/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/cb/fd/e5cbfd0a-11e9-d56c-b88a-4040d93a0d8f/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: Bug fixes and improvements
-    version: 1.1.63310101
+    version: 1.1.64030101
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge

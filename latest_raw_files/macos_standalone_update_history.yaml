@@ -1,5 +1,11 @@
-last_scan_date: April 05, 2025 12:13 AM EDT
+last_scan_date: April 05, 2025 01:19 AM EDT
 releases:
+- date: April 03, 2025
+  version: 16.95.4 (25040241)
+  word_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.95.25040241_Updater.pkg
+  excel_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.95.25040241_Updater.pkg
+  powerpoint_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.95.25040241_Updater.pkg
+  archive: 'false'
 - date: April 01, 2025
   version: 16.95.3 (25032931)
   word_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.95.25032931_Updater.pkg

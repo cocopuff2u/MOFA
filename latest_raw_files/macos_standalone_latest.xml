@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>April 07, 2025 12:07 PM EDT</last_updated>
+    <last_updated>April 07, 2025 01:05 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -118,16 +118,16 @@
         <application_id>OneDrive.app</application_id>
         <application_name>OneDrive.app</application_name>
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-        <short_version>25.041.0303</short_version>
-        <full_version>0303.0002</full_version>
-        <last_updated>April 07, 2025 12:07 PM EDT</last_updated>
+        <short_version>25.046.0310</short_version>
+        <full_version>0310.0005</full_version>
+        <last_updated>April 07, 2025 01:05 PM EDT</last_updated>
         <min_os>N/A</min_os>
-        <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg</app_only_update_download>
-        <app_update_sha1>4dcd75e8671a6962a28a07d7fe9543b5c6fe048e</app_update_sha1>
-        <app_update_sha256>c9ef1289ee10f112ecc3eb736145b95bcc3ae17cfaed5ff94a9f9b0e774c0a3b</app_update_sha256>
-        <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg</full_update_download>
-        <full_update_sha1>4dcd75e8671a6962a28a07d7fe9543b5c6fe048e</full_update_sha1>
-        <full_update_sha256>c9ef1289ee10f112ecc3eb736145b95bcc3ae17cfaed5ff94a9f9b0e774c0a3b</full_update_sha256>
+        <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg</app_only_update_download>
+        <app_update_sha1>822989cb63e9c7c3f30d3d48081e9d95d001d407</app_update_sha1>
+        <app_update_sha256>30d9c81a8ec597f5c49187f5eb554df0f210bf0cd21b6ce8a745d583f4fb4cae</app_update_sha256>
+        <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg</full_update_download>
+        <full_update_sha1>822989cb63e9c7c3f30d3d48081e9d95d001d407</full_update_sha1>
+        <full_update_sha256>30d9c81a8ec597f5c49187f5eb554df0f210bf0cd21b6ce8a745d583f4fb4cae</full_update_sha256>
     </package>
     <package>
         <name>Skype</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 07, 2025 09:39 PM EDT",
+    "last_updated": "April 07, 2025 10:39 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -15,11 +15,11 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "April 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/ee/d8/5deed8f9-0b20-4eed-a035-afa03dde5132/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 31, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/79/67/69796789-468a-f335-004c-f9dc4558c719/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.95.4"
+            "releaseNotes": "Quality and performance improvements.",
+            "version": "2.95.3"
         },
         {
             "name": "iOS Microsoft PowerPoint",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "April 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/be/90/2fbe9049-40ff-cf44-591e-acef49f3274d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 28, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a4/ad/69a4ad9c-402c-18d1-8b1d-b686bbeb782c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.8.4"
+            "version": "16.7.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "March 31, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a6/a8/caa6a84d-b3e7-6fc9-59bb-06a7615137da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page.\n\u2022 iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feels naturally at home on iPadOS.\n\u2022 PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "134.3124.95"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:\n\u2022 What's New: Curious about what\u2019s fresh? Check out the latest features in the Settings > What's New section!\n\u2022 Read aloud now supports online PDFs!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "135.3179.54"
         },
         {
             "name": "iOS Microsoft Loop",

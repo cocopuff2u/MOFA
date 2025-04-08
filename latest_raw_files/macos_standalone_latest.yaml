@@ -1,4 +1,4 @@
-last_updated: April 08, 2025 12:07 PM EDT
+last_updated: April 08, 2025 01:05 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -104,7 +104,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.046.0310
   full_version: '0310.0005'
-  last_updated: April 08, 2025 12:07 PM EDT
+  last_updated: April 08, 2025 01:05 PM EDT
   min_os: N/A
   app_only_update_download: https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg
   app_update_sha1: 822989cb63e9c7c3f30d3d48081e9d95d001d407
@@ -125,7 +125,7 @@ packages:
   app_update_sha256: 6709b7d2fe51d2ca5ed108bbd00b984f6fe1c7811dd1841a340640c015f1ebf2
   full_update_download: https://go.microsoft.com/fwlink/?linkid=832978
   full_update_sha1: 91c6abad17552136cdbda3f7af12f1484f664fd2
-  full_update_sha256: 81f484842e86a39c9f33abc4d35b4e7dbb87189ca3c424a6396e15d96ea2dbd5
+  full_update_sha256: N/A
 - name: Teams
   application_id: TEAMS21
   application_name: Microsoft Teams.app
@@ -228,16 +228,16 @@ packages:
   application_id: N/A
   application_name: Visual Studio Code.app
   CFBundleVersion: com.microsoft.visualstudio
-  short_version: 1.99.0
-  full_version: 1.99.0
-  last_updated: April 02, 2025
+  short_version: 1.99.1
+  full_version: 1.99.1
+  last_updated: April 04, 2025
   min_os: N/A
-  app_only_update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/4437686ffebaf200fa4a6e6e67f735f3edf24ada/VSCode-darwin-universal.zip
-  app_update_sha1: 0191b571da48c78adda65f366f772afc4c62f4f0
-  app_update_sha256: e7946d833f94833fe206bbdb37b56933fb3c6995a686b2ce73768f4ceede199b
+  app_only_update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/7c6fdfb0b8f2f675eb0b47f3d95eeca78962565b/VSCode-darwin-universal.zip
+  app_update_sha1: d4f98d1c008407d2dad734b1468db0bad3c2d97e
+  app_update_sha256: 2a1928fb67616b43541bfbc005e953f3308a655789f2f5392e6b0d170c553937
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2156837
-  full_update_sha1: 0191b571da48c78adda65f366f772afc4c62f4f0
-  full_update_sha256: e7946d833f94833fe206bbdb37b56933fb3c6995a686b2ce73768f4ceede199b
+  full_update_sha1: d4f98d1c008407d2dad734b1468db0bad3c2d97e
+  full_update_sha256: 2a1928fb67616b43541bfbc005e953f3308a655789f2f5392e6b0d170c553937
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

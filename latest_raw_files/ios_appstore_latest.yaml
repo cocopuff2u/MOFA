@@ -1,4 +1,4 @@
-last_updated: April 08, 2025 07:13 AM EDT
+last_updated: April 08, 2025 08:15 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -11,11 +11,11 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: March 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/79/67/69796789-468a-f335-004c-f9dc4558c719/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/ee/d8/5deed8f9-0b20-4eed-a035-afa03dde5132/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Quality and performance improvements.
-    version: 2.95.3
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.95.4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -27,14 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: April 04, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/f3/45/aaf34599-9ead-23da-ca46-c199c43b043a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/e2/a9/f5e2a9e8-92cf-98bf-ab71-bc5538e394c0/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2512.1
+    version: 4.2513.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -75,15 +75,18 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: April 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 31, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a6/a8/caa6a84d-b3e7-6fc9-59bb-06a7615137da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
-      \u2022 What's New: Curious about what\u2019s fresh? Check out the latest features\
-      \ in the Settings > What's New section!\n\u2022 Read aloud now supports online\
-      \ PDFs!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
-      \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 135.3179.54
+    releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
+      \u2022 iPad Immersive NTP: Start every browsing session with breathtaking imagery\
+      \ that refreshes daily on your New Tab Page.\n\u2022 iPad Optimized Interface:\
+      \ Navigate effortlessly with a streamlined interface that feels naturally at\
+      \ home on iPadOS.\n\u2022 PDF Summarization by Copilot: Get AI-powered summaries\
+      \ and highlights directly in your browser!\n\u2022 Bug fixes, stability, and\
+      \ performance improvements.\nUpgrade to the latest version and enjoy a smarter,\
+      \ more efficient Microsoft Edge!"
+    version: 134.3124.95
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -125,11 +128,11 @@ packages:
   - name: iOS Microsoft Lists
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: March 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/79/67/69796789-468a-f335-004c-f9dc4558c719/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/ee/d8/5deed8f9-0b20-4eed-a035-afa03dde5132/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Quality and performance improvements.
-    version: 2.95.3
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.95.4
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
@@ -158,18 +161,15 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: March 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a6/a8/caa6a84d-b3e7-6fc9-59bb-06a7615137da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
-      \u2022 iPad Immersive NTP: Start every browsing session with breathtaking imagery\
-      \ that refreshes daily on your New Tab Page.\n\u2022 iPad Optimized Interface:\
-      \ Navigate effortlessly with a streamlined interface that feels naturally at\
-      \ home on iPadOS.\n\u2022 PDF Summarization by Copilot: Get AI-powered summaries\
-      \ and highlights directly in your browser!\n\u2022 Bug fixes, stability, and\
-      \ performance improvements.\nUpgrade to the latest version and enjoy a smarter,\
-      \ more efficient Microsoft Edge!"
-    version: 134.3124.95
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
+      \u2022 What's New: Curious about what\u2019s fresh? Check out the latest features\
+      \ in the Settings > What's New section!\n\u2022 Read aloud now supports online\
+      \ PDFs!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
+      \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 135.3179.54
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

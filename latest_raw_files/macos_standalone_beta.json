@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 09, 2025 11:17 AM EDT",
+    "last_updated": "April 09, 2025 12:15 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -78,7 +78,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.051.0317",
             "full_version": "0317.0003",
-            "last_updated": "April 09, 2025 11:17 AM EDT",
+            "last_updated": "April 09, 2025 12:15 PM EDT",
             "min_os": "N/A",
             "update_download": "https://oneclient.sfx.ms/Mac/Installers/25.051.0317.0003/OneDrive.pkg",
             "latest_download": "https://oneclient.sfx.ms/Mac/Installers/25.051.0317.0003/OneDrive.pkg",
@@ -104,14 +104,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "25086.2004.3546.6751",
-            "full_version": "25086.2004.3546.6751",
-            "last_updated": "April 03, 2025",
+            "short_version": "25093.2102.3555.99",
+            "full_version": "25093.2102.3555.99",
+            "last_updated": "April 07, 2025",
             "min_os": "13.0",
-            "update_download": "https://statics.teams.cdn.office.net/production-osx/25086.2004.3546.6751/MicrosoftTeams.pkg",
-            "latest_download": "https://statics.teams.cdn.office.net/production-osx/25086.2004.3546.6751/MicrosoftTeams.pkg",
-            "sha1": "9c49f73a9216e616346fc46b9959d364ffa6594e",
-            "sha256": "bf62dc0f306c35fb558eb802b4085da139551f416c6130be1ad76e86582d5f57"
+            "update_download": "https://statics.teams.cdn.office.net/production-osx/25093.2102.3555.99/MicrosoftTeams.pkg",
+            "latest_download": "https://statics.teams.cdn.office.net/production-osx/25093.2102.3555.99/MicrosoftTeams.pkg",
+            "sha1": "59dd60c85fcc48f8b683d8b9691e68cadd5594ad",
+            "sha256": "3bf8cd90fa9c7b1fa8741529932b1aea3a7f14eebb45519b47c0ea2f077b994a"
         },
         {
             "name": "Intune",

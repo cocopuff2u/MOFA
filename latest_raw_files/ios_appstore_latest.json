@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 09, 2025 03:12 AM EDT",
+    "last_updated": "April 09, 2025 04:13 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "April 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 31, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a6/a8/caa6a84d-b3e7-6fc9-59bb-06a7615137da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:\n\u2022 What's New: Curious about what\u2019s fresh? Check out the latest features in the Settings > What's New section!\n\u2022 Read aloud now supports online PDFs!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "135.3179.54"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page.\n\u2022 iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feels naturally at home on iPadOS.\n\u2022 PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "134.3124.95"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -145,11 +145,11 @@
             "name": "iOS Microsoft Dynamics 365 Field Service",
             "application_name": "Dynamics 365 Field Service",
             "bundleId": "com.microsoft.dynamics.iphone.moca.fieldServices",
-            "currentVersionReleaseDate": "April 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/03/39/ab0339fc-1503-1f22-0fb8-29279af96d65/FieldServices_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "15.0",
+            "currentVersionReleaseDate": "December 10, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/e6/91/03e69183-f9f0-94c7-9e2e-2a923805b8ab/FieldServices_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "14.0",
             "releaseNotes": "Minor updates, bug fixes, and performance improvements.",
-            "version": "13.25033.15"
+            "version": "13.24121.10"
         },
         {
             "name": "iOS Microsoft Viva Engage",

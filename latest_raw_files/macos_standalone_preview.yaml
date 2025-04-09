@@ -1,4 +1,4 @@
-last_updated: April 09, 2025 12:15 PM EDT
+last_updated: April 09, 2025 01:10 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -66,7 +66,7 @@ packages:
   CFBundleVersion: com.microsoft.onedrive
   short_version: 25.051.0317
   full_version: '0317.0003'
-  last_updated: April 09, 2025 12:15 PM EDT
+  last_updated: April 09, 2025 01:10 PM EDT
   min_os: N/A
   update_download: https://oneclient.sfx.ms/Mac/Installers/25.051.0317.0003/OneDrive.pkg
   latest_download: https://oneclient.sfx.ms/Mac/Installers/25.051.0317.0003/OneDrive.pkg
@@ -164,10 +164,10 @@ packages:
   full_version: 1.100.0-insider
   last_updated: April 09, 2025
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/174af221c9ea2ccdb64abe4aab8e1a805e77beae/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/33c84cc39d19c0a70698ee0eaa3bd453b79a5a8f/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
-  sha1: be2421ff164eaeca1076e754a10ef3f86d0557c3
-  sha256: 84fda01019ce479f91a7ee01780604ccbfc7799ce6a6a9364d7a5cdbe4bcaae8
+  sha1: f59f26baecd44498689fb6fc079a243430cddc23
+  sha256: 632dac329a670247543d8af87bd3f1f4b46fe113d715d4dc5bb594a9ce3d6047
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 09, 2025 01:12 AM EDT",
+    "last_updated": "April 09, 2025 02:16 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "WooCommerce",
             "bundleId": "com.automattic.woocommerce",
-            "currentVersionReleaseDate": "March 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/7b/da/777bda74-38bf-0f2d-c777-831a6b8eb672/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/22/16/91221684-3936-8623-5b33-ccee613f42db/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "We're dedicated to enhancing your WooCommerce app experience! We've ironed out the issues related to discarding images during uploads in the Product Form. Plus, we've ramped up our login flow accessibility to make your journey smoother and more intuitive. Enjoy the fresh update and newly polished features!",
-            "version": "21.9"
+            "releaseNotes": "This update adds the option to set different notification preferences for each store. In Orders and Products, your filters stay around as you move through the app, and we've fixed a crash that could happen when you choose pictures for your products. Payments is improved too, with support for Puerto Rico in WooPayments, and better accessibility.",
+            "version": "22.0"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
@@ -155,11 +155,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "April 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/01/e5/ef01e5d0-1a19-22b3-becb-f7b55c306402/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/32/31/d73231c6-bfa8-b93c-1ea0-4241f54d891a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We've improved the stability of Viva Engage in this release. We hope you enjoy it!",
-            "version": "10.95.0"
+            "version": "10.96.0"
         },
         {
             "name": "iOS Microsoft Whiteboard",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "March 31, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ef/16/adef16b1-7288-6768-0050-3fd2fadae534/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/bc/e2/aebce2d2-e968-8ddd-642a-5ca7691b36b7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.6.1"
+            "version": "7.6.2"
         },
         {
             "name": "iOS Microsoft Sharepoint",

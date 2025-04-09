@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 09, 2025 06:06 PM EDT",
+    "last_updated": "April 09, 2025 07:06 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -120,7 +120,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.046.0310",
             "full_version": "0310.0005",
-            "last_updated": "April 09, 2025 06:06 PM EDT",
+            "last_updated": "April 09, 2025 07:06 PM EDT",
             "min_os": "N/A",
             "app_only_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg",
             "app_update_sha1": "822989cb63e9c7c3f30d3d48081e9d95d001d407",
@@ -268,7 +268,7 @@
             "min_os": "N/A",
             "app_only_update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/7c6fdfb0b8f2f675eb0b47f3d95eeca78962565b/VSCode-darwin-universal.zip",
             "app_update_sha1": "d4f98d1c008407d2dad734b1468db0bad3c2d97e",
-            "app_update_sha256": "N/A",
+            "app_update_sha256": "2a1928fb67616b43541bfbc005e953f3308a655789f2f5392e6b0d170c553937",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
             "full_update_sha1": "d4f98d1c008407d2dad734b1468db0bad3c2d97e",
             "full_update_sha256": "2a1928fb67616b43541bfbc005e953f3308a655789f2f5392e6b0d170c553937"

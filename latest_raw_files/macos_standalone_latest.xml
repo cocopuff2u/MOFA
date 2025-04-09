@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>April 09, 2025 06:06 PM EDT</last_updated>
+    <last_updated>April 09, 2025 07:06 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -120,7 +120,7 @@
         <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
         <short_version>25.046.0310</short_version>
         <full_version>0310.0005</full_version>
-        <last_updated>April 09, 2025 06:06 PM EDT</last_updated>
+        <last_updated>April 09, 2025 07:06 PM EDT</last_updated>
         <min_os>N/A</min_os>
         <app_only_update_download>https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg</app_only_update_download>
         <app_update_sha1>822989cb63e9c7c3f30d3d48081e9d95d001d407</app_update_sha1>
@@ -268,7 +268,7 @@
         <min_os>N/A</min_os>
         <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/7c6fdfb0b8f2f675eb0b47f3d95eeca78962565b/VSCode-darwin-universal.zip</app_only_update_download>
         <app_update_sha1>d4f98d1c008407d2dad734b1468db0bad3c2d97e</app_update_sha1>
-        <app_update_sha256>N/A</app_update_sha256>
+        <app_update_sha256>2a1928fb67616b43541bfbc005e953f3308a655789f2f5392e6b0d170c553937</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2156837</full_update_download>
         <full_update_sha1>d4f98d1c008407d2dad734b1468db0bad3c2d97e</full_update_sha1>
         <full_update_sha256>2a1928fb67616b43541bfbc005e953f3308a655789f2f5392e6b0d170c553937</full_update_sha256>

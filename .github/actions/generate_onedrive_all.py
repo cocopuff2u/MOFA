@@ -9,6 +9,7 @@ import os
 import json
 import yaml  # Add this import
 from collections import OrderedDict  # Add this import
+import pytz  # Add this import
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -358,9 +359,25 @@ def get_package_order_priority(package_name):
     }
     return order_map.get(package_name, 999)  # Default high number for unknown packages
 
+def get_current_date_time():
+    """
+    Get the current date and time in Eastern Time.
+
+    Returns:
+        str: The formatted date and time.
+    """
+    # Get current UTC time and convert it to Eastern Time (or any other timezone)
+    utc_now = datetime.now(pytz.utc)  # Get current UTC time with tz info
+    eastern_time = utc_now.astimezone(pytz.timezone('US/Eastern'))  # Convert to Eastern Time
+
+    # Format the date and time as needed (e.g., 12/06/2024 04:30 PM Eastern)
+    formatted_date_time = eastern_time.strftime('%B %d, %Y %I:%M %p %Z')  # 'December 06, 2024 04:30 PM Eastern'
+
+    return formatted_date_time
+
 def main():
     output_file = "latest_raw_files/macos_standalone_onedrive_all.xml"
-    now = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+    now = get_current_date_time()  # Use the new function to get the current date and time
     
     # Load existing data if available
     existing_data = load_existing_data(output_file)

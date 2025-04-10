@@ -361,8 +361,8 @@ def fetch_and_process(app_name, config):
                     changes_detected = True
                     break
 
-            if not changes_detected and existing_app_data.get("sha1", "N/A") != "N/A" and existing_app_data.get("sha256", "N/A") != "N/A":
-                logging.info(f"No update for {app_name}.")
+            if not changes_detected:
+                logging.info(f"No update for {app_name}. Skipping SHA checks.")
                 add_to_combined_xml(app_name, existing_app_data)
             else:
                 logging.info(f"Update detected for {app_name}.")

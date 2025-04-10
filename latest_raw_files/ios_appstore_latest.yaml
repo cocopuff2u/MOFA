@@ -1,4 +1,4 @@
-last_updated: April 10, 2025 03:05 PM EDT
+last_updated: April 10, 2025 04:07 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -50,11 +50,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: April 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/be/90/2fbe9049-40ff-cf44-591e-acef49f3274d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/36/4a/f6364aee-26ba-2660-c8d8-2fa52c34f5ee/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: This update contains bug fixes and stability improvements.
-    version: 16.8.4
+    version: 16.9.4
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows
@@ -151,11 +151,11 @@ packages:
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard
-    currentVersionReleaseDate: March 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/97/00/999700e7-4263-bb14-77ec-b685b08608e6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/31/6d/e9316d4d-a697-a44f-0803-ba808382f80a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '13.0'
     releaseNotes: Fixed known bugs.
-    version: '28.8'
+    version: '28.9'
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge

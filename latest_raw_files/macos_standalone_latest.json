@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 09, 2025 11:19 PM EDT",
+    "last_updated": "April 10, 2025 12:07 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -120,7 +120,7 @@
             "CFBundleVersion": "com.microsoft.onedrive",
             "short_version": "25.046.0310",
             "full_version": "0310.0005",
-            "last_updated": "April 09, 2025 11:19 PM EDT",
+            "last_updated": "April 10, 2025 12:07 AM EDT",
             "min_os": "N/A",
             "app_only_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg",
             "app_update_sha1": "822989cb63e9c7c3f30d3d48081e9d95d001d407",

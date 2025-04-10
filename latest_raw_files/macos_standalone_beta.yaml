@@ -60,18 +60,6 @@ packages:
   latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.97.25040916_Updater.pkg
   sha1: a611d24bf37b5a22e934a699cc89c8784b4b73bf
   sha256: 72502f5d8e871936fb7610c665bb32845b2d3beef7dfca994e040213ad54cbb7
-- name: OneDrive
-  application_id: OneDrive.app
-  application_name: OneDrive.app
-  CFBundleVersion: com.microsoft.onedrive
-  short_version: 25.051.0317
-  full_version: '0317.0003'
-  last_updated: April 10, 2025 07:10 AM EDT
-  min_os: N/A
-  update_download: https://oneclient.sfx.ms/Mac/Installers/25.051.0317.0003/OneDrive.pkg
-  latest_download: https://oneclient.sfx.ms/Mac/Installers/25.051.0317.0003/OneDrive.pkg
-  sha1: 399e37ca7d4d5ff9d11fab6e0a6f95b542778b4c
-  sha256: 9d11c751085cf8ed7502c616d6153825886b1d0fcbcf9d230421e4d8e25b7eac
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app

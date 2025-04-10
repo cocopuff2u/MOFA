@@ -98,20 +98,6 @@ packages:
   full_update_download: https://go.microsoft.com/fwlink/?linkid=820886
   full_update_sha1: 7630c83abb6e8592440eac3126b76a5e3e072d02
   full_update_sha256: 5dd0e1f1f1d2a8756a199c3989f13bac47e65a97bce8a0ce3c918a958a5ff5b7
-- name: OneDrive
-  application_id: OneDrive.app
-  application_name: OneDrive.app
-  CFBundleVersion: com.microsoft.onedrive
-  short_version: 25.046.0310
-  full_version: '0310.0005'
-  last_updated: April 10, 2025 07:05 AM EDT
-  min_os: N/A
-  app_only_update_download: https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg
-  app_update_sha1: 822989cb63e9c7c3f30d3d48081e9d95d001d407
-  app_update_sha256: 30d9c81a8ec597f5c49187f5eb554df0f210bf0cd21b6ce8a745d583f4fb4cae
-  full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg
-  full_update_sha1: 822989cb63e9c7c3f30d3d48081e9d95d001d407
-  full_update_sha256: 30d9c81a8ec597f5c49187f5eb554df0f210bf0cd21b6ce8a745d583f4fb4cae
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app

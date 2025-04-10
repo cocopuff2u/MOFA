@@ -152,22 +152,22 @@ apps = {
             "min_os": "Minimum OS"
         }
     },
-    "OneDrive": {
-        "url": "https://g.live.com/0USSDMC_W5T/MacODSUProduction",
-        "manual_entries": {
-            "CFBundleVersion": "com.microsoft.onedrive",
-            "application_name": "OneDrive.app",
-            "min_os": "N/A",
-            "last_updated": "N/A",
-            "application_id": "OneDrive.app"
-        },
-        "keys": {
-            "full_update_download": "PkgBinaryURL",
-            "short_version": "CFBundleShortVersionString",
-            "full_version": "CFBundleVersion",
-            "app_only_update_download": "PkgBinaryURL"
-        }
-    },
+    # "OneDrive": { ######## MOVED OVER TO ITS OWN FILE MACOS_STANDALONE_ONEDRIVE_LATEST.* ########
+    #     "url": "https://g.live.com/0USSDMC_W5T/MacODSUProduction",
+    #     "manual_entries": {
+    #         "CFBundleVersion": "com.microsoft.onedrive",
+    #         "application_name": "OneDrive.app",
+    #         "min_os": "N/A",
+    #         "last_updated": "N/A",
+    #         "application_id": "OneDrive.app"
+    #     },
+    #     "keys": {
+    #         "full_update_download": "PkgBinaryURL",
+    #         "short_version": "CFBundleShortVersionString",
+    #         "full_version": "CFBundleVersion",
+    #         "app_only_update_download": "PkgBinaryURL"
+    #     }
+    # },
     "Skype": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSFB16.xml",
         "manual_entries": {

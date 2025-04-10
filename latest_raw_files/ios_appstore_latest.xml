@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 07, 2025 01:12 PM EDT</last_updated>
+	<last_updated>April 10, 2025 07:10 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,11 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>March 31, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/79/67/69796789-468a-f335-004c-f9dc4558c719/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/ee/d8/5deed8f9-0b20-4eed-a035-afa03dde5132/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Quality and performance improvements.</releaseNotes>
-		<version>2.95.3</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>2.95.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -35,13 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>April 04, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/f3/45/aaf34599-9ead-23da-ca46-c199c43b043a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/68/52/0a6852e3-a31a-9862-1d79-99834a659932/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2512.1</version>
+		<version>4.2513.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -62,11 +62,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>March 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a4/ad/69a4ad9c-402c-18d1-8b1d-b686bbeb782c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/be/90/2fbe9049-40ff-cf44-591e-acef49f3274d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>16.7.3</version>
+		<version>16.8.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
@@ -92,16 +92,15 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>March 31, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a6/a8/caa6a84d-b3e7-6fc9-59bb-06a7615137da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release:
-• iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page.
-• iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feels naturally at home on iPadOS.
-• PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
+• What's New: Curious about what’s fresh? Check out the latest features in the Settings &gt; What's New section!
+• Read aloud now supports online PDFs!
 • Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>134.3124.95</version>
+		<version>135.3179.54</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -128,11 +127,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>March 24, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/7b/da/777bda74-38bf-0f2d-c777-831a6b8eb672/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/22/16/91221684-3936-8623-5b33-ccee613f42db/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>We're dedicated to enhancing your WooCommerce app experience! We've ironed out the issues related to discarding images during uploads in the Product Form. Plus, we've ramped up our login flow accessibility to make your journey smoother and more intuitive. Enjoy the fresh update and newly polished features!</releaseNotes>
-		<version>21.9</version>
+		<releaseNotes>This update adds the option to set different notification preferences for each store. In Orders and Products, your filters stay around as you move through the app, and we've fixed a crash that could happen when you choose pictures for your products. Payments is improved too, with support for Puerto Rico in WooPayments, and better accessibility.</releaseNotes>
+		<version>22.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -158,21 +157,21 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Dynamics 365 Field Service</name>
 		<application_name>Dynamics 365 Field Service</application_name>
 		<bundleId>com.microsoft.dynamics.iphone.moca.fieldServices</bundleId>
-		<currentVersionReleaseDate>December 10, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/e6/91/03e69183-f9f0-94c7-9e2e-2a923805b8ab/FieldServices_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>14.0</minimumOsVersion>
+		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/03/39/ab0339fc-1503-1f22-0fb8-29279af96d65/FieldServices_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Minor updates, bug fixes, and performance improvements.</releaseNotes>
-		<version>13.24121.10</version>
+		<version>13.25033.15</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>April 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/01/e5/ef01e5d0-1a19-22b3-becb-f7b55c306402/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/32/31/d73231c6-bfa8-b93c-1ea0-4241f54d891a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We've improved the stability of Viva Engage in this release. We hope you enjoy it!</releaseNotes>
-		<version>10.95.0</version>
+		<version>10.96.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>
@@ -188,16 +187,15 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>March 31, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a6/a8/caa6a84d-b3e7-6fc9-59bb-06a7615137da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release:
-• iPad Immersive NTP: Start every browsing session with breathtaking imagery that refreshes daily on your New Tab Page.
-• iPad Optimized Interface: Navigate effortlessly with a streamlined interface that feels naturally at home on iPadOS.
-• PDF Summarization by Copilot: Get AI-powered summaries and highlights directly in your browser!
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
+• What's New: Curious about what’s fresh? Check out the latest features in the Settings &gt; What's New section!
+• Read aloud now supports online PDFs!
 • Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>134.3124.95</version>
+		<version>135.3179.54</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
@@ -245,11 +243,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>March 31, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ef/16/adef16b1-7288-6768-0050-3fd2fadae534/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/bc/e2/aebce2d2-e968-8ddd-642a-5ca7691b36b7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.6.1</version>
+		<version>7.6.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>
@@ -275,11 +273,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>April 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/22/f2/8822f205-31c4-2cab-3136-af357e46376d/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/c1/2d/3ec12d9e-3928-2f7b-18c3-2abb0e92031a/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.25034.11</version>
+		<version>3.25035.10</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>
@@ -305,11 +303,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>Microsoft Lens: PDF Scanner</application_name>
 		<bundleId>com.microsoft.officelens</bundleId>
-		<currentVersionReleaseDate>March 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/01/a9/fb01a986-7208-49d6-d0a3-03df8e6bb285/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/73/86/33738651-9bd7-6164-2027-f072699effcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>2.94.1</version>
+		<version>2.96.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

@@ -72,6 +72,80 @@ def parse_appstore_xml(file_path):
 
     return global_last_updated, packages
 
+def parse_onedrive_xml(file_path):
+    logging.info(f"Parsing OneDrive XML file: {file_path}")
+
+    try:
+        # Parse the XML file
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+        logging.debug("OneDrive XML file parsed successfully")
+
+        # Extract package details for all rings
+        onedrive_data = {}
+        for package in root.findall("package"):
+            name = package.find("name").text.strip()
+            ring_name = name.lower().replace(" ", "_")  # Convert name to a suitable key format
+            
+            onedrive_data[ring_name] = {
+                "name": name,
+                "short_version": package.find("short_version").text.strip(),
+                "application_id": package.find("application_id").text.strip(),
+                "application_name": package.find("application_name").text.strip(),
+                "cfbundle_id": package.find("CFBundleVersion").text.strip(),
+                "full_update_download": package.find("full_update_download").text.strip(),
+                "full_update_sha1": package.find("full_update_sha1").text.strip(),
+                "full_update_sha256": package.find("full_update_sha256").text.strip(),
+                "last_updated": package.find("last_updated").text.strip(),
+                # Adding minimal OS requirement though it may not exist in this XML
+                "min_os": "NA", # Default value if not available
+            }
+        
+        # Also keep the production ring at the top level for backward compatibility
+        if "production_ring" in onedrive_data:
+            for key, value in onedrive_data["production_ring"].items():
+                onedrive_data[key] = value
+        
+        logging.info(f"OneDrive data extracted: {len(onedrive_data)} packages found")
+        return onedrive_data
+
+    except Exception as e:
+        logging.error(f"Error parsing OneDrive XML: {e}")
+        return {
+            "name": "OneDrive",
+            "short_version": "Unknown",
+            "application_name": "OneDrive.app",
+            "cfbundle_id": "com.microsoft.onedrive",
+            "last_updated": "Unknown",
+            "min_os": "Unknown",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=823060",
+            "full_update_sha1": "Unknown",
+            "full_update_sha256": "Unknown"
+        }
+
+def get_onedrive_package_detail(onedrive_data, ring_name, detail):
+    """
+    Get a specific detail from a specific OneDrive package/ring.
+    
+    Args:
+        onedrive_data (dict): The OneDrive data structure containing all packages
+        ring_name (str): The name of the ring (e.g. "production_ring", "insider_ring")
+        detail (str): The detail to retrieve (e.g. "short_version", "full_update_download")
+    
+    Returns:
+        str: The requested detail value or None if not found
+    """
+    ring_key = ring_name.lower().replace(" ", "_")
+    detail = detail.lower()
+    
+    if ring_key in onedrive_data and detail in onedrive_data[ring_key]:
+        return onedrive_data[ring_key][detail]
+    else:
+        # Fall back to top-level details for backward compatibility
+        if detail in onedrive_data:
+            return onedrive_data[detail]
+        return None
+
 def generate_ios_table(ios_packages):
     logging.info("Generating iOS AppStore table content")
 
@@ -182,7 +256,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Outlook** <sup>365/2021/2024</sup> **App Only Installer** <br><sub>_(Does Not Contain MAU)_</sub><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Outlook', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Outlook', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Outlook', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.outlook` | <a href="{get_standalone_package_detail(packages, 'Outlook', 'app_only_update_download')}"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="80"></a>|
 | **OneNote** <sup>365/2021/2024</sup> **Standalone Installer**<br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'OneNote', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'OneNote', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'OneNote', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.onenote.mac` | <a href="https://go.microsoft.com/fwlink/?linkid=820886"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="80"></a> |
 | **OneNote** <sup>365/2021/2024</sup> **App Only Installer** <br><sub>_(Does Not Contain MAU)_</sub><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'OneNote', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'OneNote', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'OneNote', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.onenote.mac` | <a href="{get_standalone_package_detail(packages, 'OneNote', 'app_only_update_download')}"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="80"></a> |
-| **OneDrive Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0#OSVersion=Mac" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'OneDrive', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'OneDrive', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'OneDrive', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.OneDrive` | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="80"></a> |
+| **OneDrive Standalone Installer** <sup>(Production Ring)</sup> <br><a href="https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0#OSVersion=Mac" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_onedrive_package_detail(packages["onedrive"], "Production Ring", 'last_updated')}`_<br> | **Version:**<br>`{get_onedrive_package_detail(packages["onedrive"], "Production Ring", 'short_version')}`<br><br>**Min OS:**<br>`NA`<br><br>**CFBundle ID:**<br>`com.microsoft.OneDrive` | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Skype for Business Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781?ui=en-us&rs=en-us&ad=us" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Skype', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Skype', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Skype', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.SkypeForBusiness` | <a href="{get_standalone_package_detail(packages, 'Skype', 'app_only_update_download')}"><img src=".github/images/skype_for_business.png" alt="Download Image" width="80"></a> |
 | **Teams Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Teams', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Teams', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Teams', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.teams2` | <a href="https://go.microsoft.com/fwlink/?linkid=2249065"><img src=".github/images/teams_512x512x32.png" alt="Download Image" width="80"></a> |
 | **InTune Company Portal Standalone Installer**<br><a href="https://aka.ms/intuneupdates" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Intune', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Intune', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Intune', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.CompanyPortalMac` | <a href="https://go.microsoft.com/fwlink/?linkid=853070"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> |
@@ -215,7 +289,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Outlook App Only** | <a href="{get_standalone_package_detail(packages, 'Outlook', 'app_only_update_download')}"><img src=".github/images/Outlook_512x512x32.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'Outlook', 'app_update_sha256')}` |
 | **OneNote Standalone** | <a href="https://go.microsoft.com/fwlink/?linkid=820886"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'OneNote', 'full_update_sha256')}` |
 | **OneNote App Only** | <a href="{get_standalone_package_detail(packages, 'OneNote', 'app_only_update_download')}"><img src=".github/images/OneNote_512x512x32.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'OneNote', 'app_update_sha256')}` |
-| **OneDrive** | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'OneDrive', 'full_update_sha256')}` |
+| **OneDrive** | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive_512x512x32.png" alt="Download Image" width="80"></a> | `{get_onedrive_package_detail(packages["onedrive"], "Production Ring", 'full_update_sha256')}` |
 | **Skype for Business** | <a href="{get_standalone_package_detail(packages, 'Skype', 'app_only_update_download')}"><img src=".github/images/skype_for_business.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'Skype', 'full_update_sha256')}` |
 | **Teams** | <a href="https://go.microsoft.com/fwlink/?linkid=2249065"><img src=".github/images/teams_512x512x32.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'Teams', 'full_update_sha256')}` |
 | **Intune Company Portal Standalone** | <a href="https://go.microsoft.com/fwlink/?linkid=853070"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'Intune', 'full_update_sha256')}` |
@@ -368,18 +442,34 @@ def get_macos_package_detail(macos_packages, package_name, detail):
     else:
         return None
 
+def get_onedrive_detail(packages, package_name, detail):
+    package_name = package_name.lower()
+    detail = detail.lower()
+    
+    if package_name in packages and detail in packages[package_name]:
+        return packages[package_name][detail]
+    else:
+        return None
+
 if __name__ == "__main__":
     # Define file paths
     xml_file_path = "latest_raw_files/macos_standalone_latest.xml"  # Update this path if the file is located elsewhere
     ios_appstore_xml_path = "latest_raw_files/ios_appstore_latest.xml"
     macos_appstore_xml_path = "latest_raw_files/macos_appstore_latest.xml"
+    onedrive_xml_path = "latest_raw_files/macos_standalone_onedrive_all.xml"
     readme_file_path = "README.md"
 
     # Parse the XML and generate content
     global_last_updated, packages = parse_latest_xml(xml_file_path)
     ios_last_updated, ios_packages = parse_appstore_xml(ios_appstore_xml_path)
     macos_last_updated, macos_packages = parse_appstore_xml(macos_appstore_xml_path)
-
+    
+    # Parse OneDrive XML
+    onedrive_data = parse_onedrive_xml(onedrive_xml_path)
+    
+    # Update the OneDrive package information with data from the specific XML
+    packages["onedrive"] = onedrive_data
+    
     # Merge packages
     packages.update(ios_packages)
     packages.update(macos_packages)

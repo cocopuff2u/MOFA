@@ -1,4 +1,4 @@
-last_updated: April 13, 2025 10:34 PM EDT
+last_updated: April 13, 2025 11:22 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -159,15 +159,17 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: April 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/b5/4e/90b54e8e-fe64-7035-e61f-3fa2982d6826/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
-      \u2022 What's New: Curious about what\u2019s fresh? Check out the latest features\
-      \ in the Settings > What's New section!\n\u2022 Read aloud now supports online\
-      \ PDFs!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
-      \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 135.3179.54
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
+      \  \n\u2022 Custom app icon available: Celebrate Microsoft's 50th anniversary\
+      \ with a custom app icon.  \n\u2022 New widget available: Jump into the Surf\
+      \ Game right from your home screen.  \n\u2022 What's New: Curious about what\u2019\
+      s fresh? Check out the latest features in the Settings > What's New section!\
+      \  \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to\
+      \ the latest version and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 135.3179.72
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

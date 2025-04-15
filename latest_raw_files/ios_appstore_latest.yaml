@@ -1,4 +1,4 @@
-last_updated: April 15, 2025 12:13 PM EDT
+last_updated: April 15, 2025 01:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -39,14 +39,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: April 09, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/68/52/0a6852e3-a31a-9862-1d79-99834a659932/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/71/7b/3b717b98-8d1e-3277-3c53-014a328fb883/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2513.1
+    version: 4.2514.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -101,11 +101,14 @@ packages:
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
-    currentVersionReleaseDate: March 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/af/66/a6af6618-870d-ad08-79ed-18fc2028a7f9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/d7/27/08d72703-18f2-3b56-8767-578128084591/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: '2.95'
+    releaseNotes: "\u2022 We've grouped your Ideas pages into a dedicated workspace,\
+      \ making it easier to keep them organized. For work accounts, we\u2019ve also\
+      \ added a personal workspace where you can work in private and capture thoughts\
+      \ visible only to you."
+    version: '2.96'
   - name: iOS Microsoft Warehouse Management
     application_name: Microsoft Warehouse Management
     bundleId: com.microsoft.WarehouseManagement
@@ -177,15 +180,17 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: April 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/b5/4e/90b54e8e-fe64-7035-e61f-3fa2982d6826/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
-      \u2022 What's New: Curious about what\u2019s fresh? Check out the latest features\
-      \ in the Settings > What's New section!\n\u2022 Read aloud now supports online\
-      \ PDFs!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade\
-      \ to the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 135.3179.54
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
+      \  \n\u2022 Custom app icon available: Celebrate Microsoft's 50th anniversary\
+      \ with a custom app icon.  \n\u2022 New widget available: Jump into the Surf\
+      \ Game right from your home screen.  \n\u2022 What's New: Curious about what\u2019\
+      s fresh? Check out the latest features in the Settings > What's New section!\
+      \  \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to\
+      \ the latest version and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 135.3179.72
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
@@ -259,13 +264,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: March 26, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/9e/3c/6d9e3c7f-3531-d2f1-92c7-e52290e49990/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/6d/88/506d88fd-8195-0b7a-f654-870715665ff5/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
       improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.23
+    version: 6.8.24
   - name: iOS Microsoft Advertising
     application_name: Microsoft Advertising
     bundleId: com.microsoft.bingadsmobile

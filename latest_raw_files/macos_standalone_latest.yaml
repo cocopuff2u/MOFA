@@ -1,4 +1,4 @@
-last_updated: April 15, 2025 11:06 AM EDT
+last_updated: April 15, 2025 12:06 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -32,13 +32,13 @@ packages:
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.95.4 (25040241)
-  full_version: 16.95.25040241
-  last_updated: April 02, 2025
+  short_version: 16.96.0 (25041326)
+  full_version: 16.96.25041326
+  last_updated: April 13, 2025
   min_os: '13.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.95.25040241_Updater.pkg
-  app_update_sha1: 502865d9c0c64eacce72c1ac1605eb172a96281e
-  app_update_sha256: bc355226f80d2314f0a4f4a735fa76b57ee745270d73f10093a45cfe22fd6dac
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.96.25041326_Updater.pkg
+  app_update_sha1: bba0f4625882e7b828aa854d8b807febc7cec134
+  app_update_sha256: 1a936b17ff3f31c9d0360d06e22e825b3d4370a9b0f2142d92f25dc6868c71b2
   full_update_download: https://go.microsoft.com/fwlink/?linkid=525134
   full_update_sha1: fb41da28a754940924bafe54832f4a8897beeea0
   full_update_sha256: efb1fdd356bae6efffa7ee3fd8e4c767be418223d338d4bb5071c3216f1f2026
@@ -46,13 +46,13 @@ packages:
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.95.4 (25040241)
-  full_version: 16.95.25040241
-  last_updated: April 02, 2025
+  short_version: 16.96.0 (25041326)
+  full_version: 16.96.25041326
+  last_updated: April 13, 2025
   min_os: '13.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.95.25040241_Updater.pkg
-  app_update_sha1: c05912e8bdb71ec964822b30db420da4ccaed67f
-  app_update_sha256: 23fccf4242ede2dfc21935cce0a730d6bc7ed76adc7d4e53976cddadaed725fb
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.96.25041326_Updater.pkg
+  app_update_sha1: a0b9635145fbbcd16a6a3e600eddb01b03d495cf
+  app_update_sha256: 5319ab01b478eb3edfaa8c17cd11d7ebe22d8d0cf89ab71c8941502e62898877
   full_update_download: https://go.microsoft.com/fwlink/?linkid=525135
   full_update_sha1: ed4ac36861cbdd84ce5c00da6d1d33a44ba4c40c
   full_update_sha256: 237a275c1b606af348e627ca01b38fdea769110c26c1b65b7a128f7e7a2b6d37
@@ -60,13 +60,13 @@ packages:
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.95.4 (25040241)
-  full_version: 16.95.25040241
-  last_updated: April 02, 2025
+  short_version: 16.96.0 (25041326)
+  full_version: 16.96.25041326
+  last_updated: April 13, 2025
   min_os: '13.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.95.25040241_Updater.pkg
-  app_update_sha1: 86c2944fdac80e7a3e4ae34cc9b4325b33526d32
-  app_update_sha256: 697a0dbba97fab82460ca2fe55709859623e3be1fad4d0cad9b61a1109619491
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.96.25041326_Updater.pkg
+  app_update_sha1: cc2204e3badd17b460be1d0024444334e85bd80f
+  app_update_sha256: a0dc9a052095d20ebde025d5805a34a16ec863308a19ccae9144b30029aa0233
   full_update_download: https://go.microsoft.com/fwlink/?linkid=525136
   full_update_sha1: 88c83c61f561e6159c00092e717ded52e3b9d730
   full_update_sha256: 34c8c5d4a437754d31e8e2d4553ee3b9ae5671e91478ec8e9046b13573cad9ae
@@ -74,13 +74,13 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.95.3 (25032931)
-  full_version: 16.95.25032931
-  last_updated: March 29, 2025
+  short_version: 16.96.0 (25041326)
+  full_version: 16.96.25041326
+  last_updated: April 13, 2025
   min_os: '13.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.95.25032931_Updater.pkg
-  app_update_sha1: 674cd74513a16d09dfa92caaf4facad6159f709f
-  app_update_sha256: 02c24b269d86e5c91eff126576e8d48e0dea4f8c190dcc8edd7944ad4020c1e8
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.96.25041326_Updater.pkg
+  app_update_sha1: 194233477e3014aecacdab39d9336307bd05c17c
+  app_update_sha256: 15f370b08ef8484d3e8fb267e94019dd6e5121d5379660b7337b910a933707a5
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2228621
   full_update_sha1: a39fd37603d32ecfc5538d72990e01aad9419a35
   full_update_sha256: ba95baf6bb83d977ae90dfdc99b562f92fe49df52897f3faf1ae514314596898
@@ -88,13 +88,13 @@ packages:
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.95.1 (25031528)
-  full_version: 16.95.25031528
-  last_updated: March 15, 2025
+  short_version: 16.96.0 (25041326)
+  full_version: 16.96.25041326
+  last_updated: April 13, 2025
   min_os: '13.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.95.25031528_Updater.pkg
-  app_update_sha1: 7630c83abb6e8592440eac3126b76a5e3e072d02
-  app_update_sha256: 5dd0e1f1f1d2a8756a199c3989f13bac47e65a97bce8a0ce3c918a958a5ff5b7
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.96.25041326_Updater.pkg
+  app_update_sha1: ba2b3072c63de28a3856d582aa0cbaf19f8c9f9c
+  app_update_sha256: d6683c68f9a27f24728993e9588e8d3b1c952813b31ff8a1d58f99cf56129b94
   full_update_download: https://go.microsoft.com/fwlink/?linkid=820886
   full_update_sha1: 7630c83abb6e8592440eac3126b76a5e3e072d02
   full_update_sha256: 5dd0e1f1f1d2a8756a199c3989f13bac47e65a97bce8a0ce3c918a958a5ff5b7

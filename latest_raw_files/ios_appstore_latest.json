@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 14, 2025 08:28 PM EDT",
+    "last_updated": "April 14, 2025 09:34 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "April 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/df/07/e4df0739-7078-ae88-6843-869a7b65311f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 14, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/94/31/9b9431ac-116f-d357-952f-a6744d39c732/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.95.4"
+            "releaseNotes": "\u2022 Anonymous file sharing for iPhone and iPad: Anonymous file sharing has arrived on iPhone and iPad. Your Word, Excel, and PowerPoint collaborators can now open and view files that you have shared with them on their iPhone and iPad devices, without the need to sign in. A Microsoft account is still required for editing and commenting.",
+            "version": "2.96"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -45,11 +45,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "March 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fa/c0/e0fac0b4-97ac-04ea-b99b-36e69ea67510/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 14, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/15/c6/9515c615-df16-59a7-113c-7138ed77e6ad/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.95"
+            "version": "16.96"
         },
         {
             "name": "iOS Microsoft OneDrive",
@@ -95,11 +95,11 @@
             "name": "iOS Microsoft Loop",
             "application_name": "Microsoft Loop",
             "bundleId": "com.microsoft.loop",
-            "currentVersionReleaseDate": "April 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/d7/27/08d72703-18f2-3b56-8767-578128084591/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/af/66/a6af6618-870d-ad08-79ed-18fc2028a7f9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 We've grouped your Ideas pages into a dedicated workspace, making it easier to keep them organized. For work accounts, we\u2019ve also added a personal workspace where you can work in private and capture thoughts visible only to you.",
-            "version": "2.96"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.95"
         },
         {
             "name": "iOS Microsoft Warehouse Management",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "April 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/b5/4e/90b54e8e-fe64-7035-e61f-3fa2982d6826/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a7/0c/9ba70c8a-782a-d97b-3f63-e69978caf4ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:  \n\u2022 Custom app icon available: Celebrate Microsoft's 50th anniversary with a custom app icon.  \n\u2022 New widget available: Jump into the Surf Game right from your home screen.  \n\u2022 What's New: Curious about what\u2019s fresh? Check out the latest features in the Settings > What's New section!  \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "135.3179.72"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:\n\u2022 What's New: Curious about what\u2019s fresh? Check out the latest features in the Settings > What's New section!\n\u2022 Read aloud now supports online PDFs!\n\u2022 Bug fixes, stability, and performance improvements.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "135.3179.54"
         },
         {
             "name": "iOS Microsoft Seeing AI",

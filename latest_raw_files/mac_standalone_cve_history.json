@@ -1,6 +1,72 @@
 {
-    "last_scan_date": "April 15, 2025 07:06 PM EDT",
+    "last_scan_date": "April 15, 2025 08:28 PM EDT",
     "updates": [
+        {
+            "date_text": "April 15, 2025",
+            "version": "Version 16.96 (Build 25041326)",
+            "security_updates": {
+                "Excel": [
+                    {
+                        "cve_name": "CVE-2025-27750",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27750"
+                    },
+                    {
+                        "cve_name": "CVE-2025-27751",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27751"
+                    },
+                    {
+                        "cve_name": "CVE-2025-26642",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-26642"
+                    }
+                ],
+                "OneNote": [
+                    {
+                        "cve_name": "CVE-2025-29822",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29822"
+                    }
+                ],
+                "Word": [
+                    {
+                        "cve_name": "CVE-2025-29820",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29820"
+                    },
+                    {
+                        "cve_name": "CVE-2025-27747",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27747"
+                    }
+                ],
+                "Office Suite": [
+                    {
+                        "cve_name": "CVE-2025-29816",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29816"
+                    },
+                    {
+                        "cve_name": "CVE-2025-27745",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27745"
+                    },
+                    {
+                        "cve_name": "CVE-2025-27746",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27746"
+                    },
+                    {
+                        "cve_name": "CVE-2025-27748",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27748"
+                    },
+                    {
+                        "cve_name": "CVE-2025-27749",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27749"
+                    },
+                    {
+                        "cve_name": "CVE-2025-27752",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27752"
+                    },
+                    {
+                        "cve_name": "CVE-2025-29791",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29791"
+                    }
+                ]
+            }
+        },
         {
             "date_text": "April 3, 2025",
             "version": "Version 16.95.4 (Build 25040241)",

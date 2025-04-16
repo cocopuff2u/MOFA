@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 15, 2025 09:34 PM EDT",
+    "last_updated": "April 15, 2025 10:34 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -65,11 +65,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Link to Windows",
             "bundleId": "com.microsoft.LinkToWindows",
-            "currentVersionReleaseDate": "February 28, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/95/30/339530c9-6f05-94d6-e930-0af2106f506d/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 14, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/86/e6/0d86e6c9-50ac-2a27-3cac-dd5c00a71a46/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.6",
             "releaseNotes": "Now you can seamlessly share files between your PC and iPhone. You can set up file sharing by linking your iPhone to your Microsoft account.",
-            "version": "1.25011.28"
+            "version": "1.25032.20"
         },
         {
             "name": "iOS Microsoft Defender Security",
@@ -205,11 +205,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "April 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/41/95/ad419568-31e8-d126-0dea-60cb4972c913/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/7f/ef/f47fef2f-e921-6a3f-7949-725eac122027/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.3.2"
+            "version": "7.4.0"
         },
         {
             "name": "iOS Microsoft To-Do",

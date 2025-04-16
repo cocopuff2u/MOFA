@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 16, 2025 05:05 PM EDT",
+    "last_updated": "April 16, 2025 06:06 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -165,11 +165,11 @@
             "name": "iOS Microsoft Whiteboard",
             "application_name": "Whiteboard - Infinity Canvas",
             "bundleId": "cn.readpad.tool.iwhiteboard",
-            "currentVersionReleaseDate": "April 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/ff/a2/acffa226-ccc5-d004-4dde-6379d8355b2f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/31/6d/e9316d4d-a697-a44f-0803-ba808382f80a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Fixed known bugs.",
-            "version": "29.0"
+            "version": "28.9"
         },
         {
             "name": "iOS Microsoft Edge AI Browser",
@@ -205,11 +205,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "April 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/7f/ef/f47fef2f-e921-6a3f-7949-725eac122027/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 03, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/41/95/ad419568-31e8-d126-0dea-60cb4972c913/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.4.0"
+            "version": "7.3.2"
         },
         {
             "name": "iOS Microsoft To-Do",

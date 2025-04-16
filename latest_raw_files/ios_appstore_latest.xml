@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 16, 2025 12:07 AM EDT</last_updated>
+	<last_updated>April 16, 2025 02:09 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -168,11 +168,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/34/57/3834578c-254b-8019-b75e-1fc17eb6b7d2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/32/31/d73231c6-bfa8-b93c-1ea0-4241f54d891a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We've improved the stability of Viva Engage in this release. We hope you enjoy it!</releaseNotes>
-		<version>10.97.0</version>
+		<version>10.96.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>
@@ -223,13 +223,13 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Azure</name>
 		<application_name>Microsoft Azure</application_name>
 		<bundleId>com.microsoft.azure</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/7f/ef/f47fef2f-e921-6a3f-7949-725eac122027/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 03, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/41/95/ad419568-31e8-d126-0dea-60cb4972c913/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.
 
 Please reach out to us for any questions, concerns, or feature requests.</releaseNotes>
-		<version>7.4.0</version>
+		<version>7.3.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft To-Do</name>

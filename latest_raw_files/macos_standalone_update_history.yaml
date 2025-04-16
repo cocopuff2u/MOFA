@@ -1,5 +1,15 @@
-last_scan_date: April 15, 2025 07:06 PM EDT
+last_scan_date: April 15, 2025 08:28 PM EDT
 releases:
+- date: April 15, 2025
+  version: 16.96 (25041326)
+  businesspro_suite_download: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.96.25041326_BusinessPro_Installer.pkg
+  suite_download: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.96.25041326_Installer.pkg
+  word_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.96.25041326_Updater.pkg
+  excel_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.96.25041326_Updater.pkg
+  powerpoint_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.96.25041326_Updater.pkg
+  outlook_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.96.25041326_Updater.pkg
+  onenote_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.96.25041326_Updater.pkg
+  archive: 'false'
 - date: April 03, 2025
   version: 16.95.4 (25040241)
   word_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.95.25040241_Updater.pkg

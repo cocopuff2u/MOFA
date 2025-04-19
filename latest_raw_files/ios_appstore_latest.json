@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 19, 2025 12:07 AM EDT",
+    "last_updated": "April 19, 2025 01:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "April 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/e4/39/21e43985-1442-b4d4-ecd0-be2f1c3e1c21/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/bc/e2/aebce2d2-e968-8ddd-642a-5ca7691b36b7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Skype is retiring in May 2025. Sign in to Microsoft Teams Free with your Skype credentials, and your chats and contacts will be right where you left them. Enjoy the features you love about Skype, including free calling and messaging, as well as new features like meetings and communities, all in Teams. If you don't want to use Microsoft Teams Free, you can export your Skype data.",
-            "version": "7.7.0"
+            "releaseNotes": "Bug fixes and performance improvements",
+            "version": "7.6.2"
         },
         {
             "name": "iOS Microsoft Sharepoint",

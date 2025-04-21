@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 21, 2025 10:06 AM EDT</last_updated>
+	<last_updated>April 21, 2025 11:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,21 +15,21 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>April 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/59/d8/e859d85a-72b9-5cba-b75d-053883194307/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/dd/40/c9dd40cf-b73b-cbe8-edce-425c5731178f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.96.1</version>
+		<releaseNotes>• Anonymous file sharing for iPhone and iPad: Anonymous file sharing has arrived on iPhone and iPad. Your Word, Excel, and PowerPoint collaborators can now open and view files that you have shared with them on their iPhone and iPad devices, without the need to sign in. A Microsoft account is still required for editing and commenting.</releaseNotes>
+		<version>2.96</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>April 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/42/4e/93424e96-3d3a-8880-154c-75c42a993d1c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/94/31/9b9431ac-116f-d357-952f-a6744d39c732/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.96.1</version>
+		<releaseNotes>• Anonymous file sharing for iPhone and iPad: Anonymous file sharing has arrived on iPhone and iPad. Your Word, Excel, and PowerPoint collaborators can now open and view files that you have shared with them on their iPhone and iPad devices, without the need to sign in. A Microsoft account is still required for editing and commenting.</releaseNotes>
+		<version>2.96</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
@@ -128,11 +128,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>April 08, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/22/16/91221684-3936-8623-5b33-ccee613f42db/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/35/14/1635142f-1317-96a9-9bd1-58b15b42cc24/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>This update adds the option to set different notification preferences for each store. In Orders and Products, your filters stay around as you move through the app, and we've fixed a crash that could happen when you choose pictures for your products. Payments is improved too, with support for Puerto Rico in WooPayments, and better accessibility.</releaseNotes>
-		<version>22.0</version>
+		<releaseNotes>We’ve squashed bugs and polished your WooCommerce experience! Enjoy smoother order creation with fixes for unsaved changes, recalculations, and multi-word names. Plus, sharper icons for scanning and payments. Behind the scenes, we’ve improved login flows, POS functionality, and app performance. Update now!</releaseNotes>
+		<version>22.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>

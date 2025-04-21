@@ -1,13 +1,17 @@
-last_updated: April 21, 2025 06:07 AM EDT
+last_updated: April 21, 2025 07:05 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: April 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ab/11/24ab11e6-d471-360b-b9d9-c50d3a25029b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/29/8c/8e298c4a-7acd-a25f-7c79-8fe4223c9bfd/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.96.1
+    releaseNotes: "\u2022 Anonymous file sharing for iPhone and iPad: Anonymous file\
+      \ sharing has arrived on iPhone and iPad. Your Word, Excel, and PowerPoint collaborators\
+      \ can now open and view files that you have shared with them on their iPhone\
+      \ and iPad devices, without the need to sign in. A Microsoft account is still\
+      \ required for editing and commenting."
+    version: '2.96'
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
@@ -83,8 +87,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: April 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/47/2d/69472da5-8c42-3a2e-1444-09bcc21e2dda/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/b5/4e/90b54e8e-fe64-7035-e61f-3fa2982d6826/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
       \  \n\u2022 Custom app icon available: Celebrate Microsoft's 50th anniversary\
@@ -93,7 +97,7 @@ packages:
       s fresh? Check out the latest features in the Settings > What's New section!\
       \  \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to\
       \ the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 135.3179.85
+    version: 135.3179.72
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -118,15 +122,15 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: April 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/35/14/1635142f-1317-96a9-9bd1-58b15b42cc24/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/22/16/91221684-3936-8623-5b33-ccee613f42db/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "We\u2019ve squashed bugs and polished your WooCommerce experience!\
-      \ Enjoy smoother order creation with fixes for unsaved changes, recalculations,\
-      \ and multi-word names. Plus, sharper icons for scanning and payments. Behind\
-      \ the scenes, we\u2019ve improved login flows, POS functionality, and app performance.\
-      \ Update now!"
-    version: '22.1'
+    releaseNotes: This update adds the option to set different notification preferences
+      for each store. In Orders and Products, your filters stay around as you move
+      through the app, and we've fixed a crash that could happen when you choose pictures
+      for your products. Payments is improved too, with support for Puerto Rico in
+      WooPayments, and better accessibility.
+    version: '22.0'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
@@ -176,8 +180,8 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: April 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/47/2d/69472da5-8c42-3a2e-1444-09bcc21e2dda/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/b5/4e/90b54e8e-fe64-7035-e61f-3fa2982d6826/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
       \  \n\u2022 Custom app icon available: Celebrate Microsoft's 50th anniversary\
@@ -186,7 +190,7 @@ packages:
       s fresh? Check out the latest features in the Settings > What's New section!\
       \  \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to\
       \ the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 135.3179.85
+    version: 135.3179.72
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

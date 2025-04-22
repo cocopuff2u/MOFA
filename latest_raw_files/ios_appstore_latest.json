@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 22, 2025 11:06 AM EDT",
+    "last_updated": "April 22, 2025 12:07 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "April 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/3f/26/8b3f26ca-8b1f-bd4d-1bb9-07ef6679ba22/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 14, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/71/7b/3b717b98-8d1e-3277-3c53-014a328fb883/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2515.0"
+            "version": "4.2514.0"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -155,11 +155,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "April 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/9e/f7/779ef79f-5458-a9cf-df97-503a303378e1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/34/57/3834578c-254b-8019-b75e-1fc17eb6b7d2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We've improved the stability of Viva Engage in this release. We hope you enjoy it!",
-            "version": "10.98.0"
+            "version": "10.97.0"
         },
         {
             "name": "iOS Microsoft Whiteboard",

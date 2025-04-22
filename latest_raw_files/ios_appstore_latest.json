@@ -1,15 +1,15 @@
 {
-    "last_updated": "April 22, 2025 05:07 AM EDT",
+    "last_updated": "April 22, 2025 06:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "April 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/29/8c/8e298c4a-7acd-a25f-7c79-8fe4223c9bfd/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 21, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ab/11/24ab11e6-d471-360b-b9d9-c50d3a25029b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 Anonymous file sharing for iPhone and iPad: Anonymous file sharing has arrived on iPhone and iPad. Your Word, Excel, and PowerPoint collaborators can now open and view files that you have shared with them on their iPhone and iPad devices, without the need to sign in. A Microsoft account is still required for editing and commenting.",
-            "version": "2.96"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.96.1"
         },
         {
             "name": "iOS Microsoft Excel",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "April 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/3f/26/8b3f26ca-8b1f-bd4d-1bb9-07ef6679ba22/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 14, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/71/7b/3b717b98-8d1e-3277-3c53-014a328fb883/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2515.0"
+            "version": "4.2514.0"
         },
         {
             "name": "iOS Microsoft OneNote",

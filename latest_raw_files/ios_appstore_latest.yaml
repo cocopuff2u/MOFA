@@ -1,4 +1,4 @@
-last_updated: April 21, 2025 10:33 PM EDT
+last_updated: April 21, 2025 11:21 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -23,15 +23,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: April 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/94/31/9b9431ac-116f-d357-952f-a6744d39c732/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/42/4e/93424e96-3d3a-8880-154c-75c42a993d1c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Anonymous file sharing for iPhone and iPad: Anonymous file\
-      \ sharing has arrived on iPhone and iPad. Your Word, Excel, and PowerPoint collaborators\
-      \ can now open and view files that you have shared with them on their iPhone\
-      \ and iPad devices, without the need to sign in. A Microsoft account is still\
-      \ required for editing and commenting."
-    version: '2.96'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.96.1
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook

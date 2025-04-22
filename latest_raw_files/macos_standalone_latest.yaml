@@ -1,4 +1,4 @@
-last_updated: April 22, 2025 11:06 AM EDT
+last_updated: April 22, 2025 12:07 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -228,13 +228,13 @@ packages:
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app
   CFBundleVersion: com.microsoft.autoupdate
-  short_version: 4.78 (25031830)
-  full_version: 4.78.25031830
-  last_updated: March 18, 2025
+  short_version: 4.79 (25033028)
+  full_version: 4.79.25033028
+  last_updated: March 30, 2025
   min_os: 10.14.0
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.78.25031830_Updater.pkg
-  app_update_sha1: c1e02e0c916fa4ab2818558192a9da29b70394d5
-  app_update_sha256: 8b08471fd5f11adee33c33c8f0b0634f5601218308fb89466a27ed0e66748952
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.79.25033028_Updater.pkg
+  app_update_sha1: b899c20c3cab09cd72c3e204b0335fc81023d823
+  app_update_sha256: 5e4cac055805c69bbc670b1188820d78bc33119bf66c2e81f2fe4c2710749b6c
   full_update_download: https://go.microsoft.com/fwlink/?linkid=830196
   full_update_sha1: c1e02e0c916fa4ab2818558192a9da29b70394d5
   full_update_sha256: 8b08471fd5f11adee33c33c8f0b0634f5601218308fb89466a27ed0e66748952

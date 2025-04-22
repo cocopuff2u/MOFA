@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 22, 2025 05:06 PM EDT</last_updated>
+	<last_updated>April 22, 2025 06:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -25,11 +25,11 @@
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>April 14, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/94/31/9b9431ac-116f-d357-952f-a6744d39c732/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/42/4e/93424e96-3d3a-8880-154c-75c42a993d1c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>• Anonymous file sharing for iPhone and iPad: Anonymous file sharing has arrived on iPhone and iPad. Your Word, Excel, and PowerPoint collaborators can now open and view files that you have shared with them on their iPhone and iPad devices, without the need to sign in. A Microsoft account is still required for editing and commenting.</releaseNotes>
-		<version>2.96</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>2.96.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
@@ -275,11 +275,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/14/c2/4e14c2c8-6ad9-8613-91b2-344419d87ea1/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/f4/f5/e6f4f53a-5888-8116-eda0-e7bd29bd6d9d/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.25041.9</version>
+		<version>3.25042.6</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>

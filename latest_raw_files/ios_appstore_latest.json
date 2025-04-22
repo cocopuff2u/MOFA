@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 22, 2025 04:07 PM EDT",
+    "last_updated": "April 22, 2025 05:06 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "April 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/42/4e/93424e96-3d3a-8880-154c-75c42a993d1c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 14, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/94/31/9b9431ac-116f-d357-952f-a6744d39c732/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.96.1"
+            "releaseNotes": "\u2022 Anonymous file sharing for iPhone and iPad: Anonymous file sharing has arrived on iPhone and iPad. Your Word, Excel, and PowerPoint collaborators can now open and view files that you have shared with them on their iPhone and iPad devices, without the need to sign in. A Microsoft account is still required for editing and commenting.",
+            "version": "2.96"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "April 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/cb/1a/f5cb1a50-47a3-2c67-bb66-6d1fda3cbdc4/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/36/4a/f6364aee-26ba-2660-c8d8-2fa52c34f5ee/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Move files with ease by using drag and drop to upload to OneDrive and download into other apps.",
-            "version": "16.12.3"
+            "releaseNotes": "This update contains bug fixes and stability improvements.",
+            "version": "16.9.4"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -255,11 +255,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "April 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/f4/f5/e6f4f53a-5888-8116-eda0-e7bd29bd6d9d/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/14/c2/4e14c2c8-6ad9-8613-91b2-344419d87ea1/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25042.6"
+            "version": "3.25041.9"
         },
         {
             "name": "iOS Microsoft Authenticator",

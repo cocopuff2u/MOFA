@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 23, 2025 07:06 AM EDT",
+    "last_updated": "April 23, 2025 08:10 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "April 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/48/55/934855ab-e95f-eed1-5df8-1b5688022dc8/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "April 22, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/87/b3/1e87b348-5ec3-0d23-4e67-ed2eb7f2d73c/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Resolved Issues:\n\u2022 Accessibility: Fixed an issue where Voice Over does not read the text available in Automatic replies edit field.\n\u2022 Mail: Fixed an issue where Filter by categories is greyed out when using from the Menu bar.\n\u2022 Mail: Fixed an issue where Apple Handoff feature doesn't work as expected.\n\u2022 Mail: Fixed an issue where auto-capitalization wasn't working in Outlook when composing an email.\n\u2022 SMIME: Fixed an issue where the SMIME certificates dropdown was pulling certificates that didn't match the user's email address.\n\u2022 Search: Fixed an issue where searching using \"All Accounts\" search scope included results from all the available profiles.\n\nFeature Update:\n\u2022 Mail: Increased the maximum duration for the Undo Send feature to 120 seconds to match the behavior with Windows Outlook. \n\u2022 Copilot: Users will now have the option to disable Copilot from the Outlook settings.\n\u2022 Disallow reactions: Allows senders to prevent recipients from reacting to their emails. This greys out the reactions entry point in the reading pane, ensuring recipients cannot react to the message.\n\u2022 One Drive: Available to access from the left side bar. \n\u2022 Compliance Meeting V2: Allows tenants to create meeting-only labelling.",
-            "version": "16.96"
+            "releaseNotes": "Fixed an issue where the app may unexpectedly close when an iCloud account with invalid password is configured.\nFixed incorrect showing of privacy alert dialog.\nFixed an issue that prevents some messages from rendering correctly.\nUpdated Calendar event category colors.",
+            "version": "16.96.1"
         },
         {
             "name": "MacOS Microsoft OneNote",

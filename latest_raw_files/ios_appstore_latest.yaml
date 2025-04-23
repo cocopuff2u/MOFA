@@ -1,4 +1,4 @@
-last_updated: April 22, 2025 11:21 PM EDT
+last_updated: April 23, 2025 12:08 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -50,12 +50,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: April 22, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/cb/1a/f5cb1a50-47a3-2c67-bb66-6d1fda3cbdc4/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/36/4a/f6364aee-26ba-2660-c8d8-2fa52c34f5ee/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Move files with ease by using drag and drop to upload to OneDrive
-      and download into other apps.
-    version: 16.12.3
+    releaseNotes: This update contains bug fixes and stability improvements.
+    version: 16.9.4
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows

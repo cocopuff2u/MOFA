@@ -1,35 +1,35 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 23, 2025 05:06 PM EDT</last_updated>
+	<last_updated>April 23, 2025 06:06 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/7c/55/727c556a-d1b3-0943-d055-a0e8d680c8f0/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/ce/a6/fdcea67b-814a-efe5-3c84-850ff126d752/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.96</version>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/56/61/875661af-1eac-3943-f8ae-93b7fc45cc93/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/6b/5ad56b22-5820-3cfb-18a3-8b1502330b6a/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.96</version>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/57/09/bd570966-c1b0-16bb-7b9b-245ea9333985/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d3/0a/59d30a1b-ee1e-7071-520c-0cfb71435c1d/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.96</version>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>

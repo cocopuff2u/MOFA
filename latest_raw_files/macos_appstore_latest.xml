@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 24, 2025 02:07 PM EDT</last_updated>
+	<last_updated>April 24, 2025 03:05 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,44 +15,34 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/56/61/875661af-1eac-3943-f8ae-93b7fc45cc93/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/6b/5ad56b22-5820-3cfb-18a3-8b1502330b6a/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.96</version>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/57/09/bd570966-c1b0-16bb-7b9b-245ea9333985/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d3/0a/59d30a1b-ee1e-7071-520c-0cfb71435c1d/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.96</version>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/48/55/934855ab-e95f-eed1-5df8-1b5688022dc8/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/87/b3/1e87b348-5ec3-0d23-4e67-ed2eb7f2d73c/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Resolved Issues:
-• Accessibility: Fixed an issue where Voice Over does not read the text available in Automatic replies edit field.
-• Mail: Fixed an issue where Filter by categories is greyed out when using from the Menu bar.
-• Mail: Fixed an issue where Apple Handoff feature doesn't work as expected.
-• Mail: Fixed an issue where auto-capitalization wasn't working in Outlook when composing an email.
-• SMIME: Fixed an issue where the SMIME certificates dropdown was pulling certificates that didn't match the user's email address.
-• Search: Fixed an issue where searching using &quot;All Accounts&quot; search scope included results from all the available profiles.
-
-Feature Update:
-• Mail: Increased the maximum duration for the Undo Send feature to 120 seconds to match the behavior with Windows Outlook. 
-• Copilot: Users will now have the option to disable Copilot from the Outlook settings.
-• Disallow reactions: Allows senders to prevent recipients from reacting to their emails. This greys out the reactions entry point in the reading pane, ensuring recipients cannot react to the message.
-• One Drive: Available to access from the left side bar. 
-• Compliance Meeting V2: Allows tenants to create meeting-only labelling.</releaseNotes>
-		<version>16.96</version>
+		<releaseNotes>Fixed an issue where the app may unexpectedly close when an iCloud account with invalid password is configured.
+Fixed incorrect showing of privacy alert dialog.
+Fixed an issue that prevents some messages from rendering correctly.
+Updated Calendar event category colors.</releaseNotes>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

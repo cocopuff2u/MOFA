@@ -1,4 +1,4 @@
-last_updated: April 25, 2025 04:07 PM EDT
+last_updated: April 25, 2025 05:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -68,11 +68,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: April 04, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/cb/fd/e5cbfd0a-11e9-d56c-b88a-4040d93a0d8f/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: Bug fixes and improvements
-    version: 1.1.64030101
+    currentVersionReleaseDate: April 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/f4/e6/3cf4e675-2e94-f190-0c11-3622329371f1/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Bug fixes and Improvements
+    version: 1.1.64070101
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
@@ -216,15 +216,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: April 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/e4/39/21e43985-1442-b4d4-ecd0-be2f1c3e1c21/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 25, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/46/36/fb4636df-1f23-e652-f239-6a1d9478b356/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: Skype is retiring in May 2025. Sign in to Microsoft Teams Free with
-      your Skype credentials, and your chats and contacts will be right where you
-      left them. Enjoy the features you love about Skype, including free calling and
-      messaging, as well as new features like meetings and communities, all in Teams.
-      If you don't want to use Microsoft Teams Free, you can export your Skype data.
-    version: 7.7.0
+    releaseNotes: Bug fixes and performance improvements
+    version: 7.7.1
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
@@ -321,11 +317,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: April 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/2e/d5/842ed59e-0a81-0743-58ab-2cf889e9b978/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 25, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/77/e3/b377e354-b1ef-9a30-7045-2ab7120ee96f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.96'
+    version: 2.96.1
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

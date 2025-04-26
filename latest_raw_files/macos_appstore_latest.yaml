@@ -1,4 +1,4 @@
-last_updated: April 26, 2025 02:07 PM EDT
+last_updated: April 26, 2025 03:05 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -64,20 +64,20 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: March 26, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/9d/14/399d147a-4763-ede4-4724-4d433baddfc1/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: April 25, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d8/9b/aad89b19-626e-a8ce-c0f5-11d120712c95/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
     minimumOsVersion: '12.0'
-    releaseNotes: "In this release we made the following updates:\n\n\u2022 Added\
-      \ support for Retina mode when using RemoteApps (see Settings > General).\n\u2022\
-      \ Cleaned up the RemoteApp switcher (accessed using Option + Tab when a RemoteApp\
-      \ is in focus).\n\u2022 Improved graphics performance for non-hardware accelerated\
-      \ and RemoteApp sessions. \n\u2022 Optimized Cloud PC REST API usage during\
-      \ Mac sleep.\n\u2022 Resolved unexpected disconnect errors encountered when\
-      \ prompting for credentials.\n\u2022 Fixed issues with daylight savings and\
-      \ time zone redirection.\n\u2022 Show an error dialog if an RDP file cannot\
-      \ be imported.\n\nIf you encounter any errors, you can contact us via Help >\
-      \ Submit Feedback."
-    version: 11.1.4
+    releaseNotes: "In this release we made the following updates:\n\n\u2022 Fixed\
+      \ slurred audio that was being rendered when using Teams optimizations.\n\u2022\
+      \ Added a connecting/connected state indicator to workspace headers.\n\u2022\
+      \ Fixed some bad code that was corrupting app icons displayed in workspaces.\n\
+      \u2022 Added the ability to switch between remote apps from the Window menu\
+      \ and Dock icon.\n\u2022 Improved threading for the graphics decoder to improve\
+      \ performance.\n\u2022 Resolved z-order issues between remote apps and local\
+      \ windows.\n\u2022 Fixed a bug that caused incorrect mouse coordinates to be\
+      \ sent if the session window was resized while reconnecting.\n\nIf you encounter\
+      \ any errors, you can contact us via Help > Submit Feedback."
+    version: 11.1.5
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac

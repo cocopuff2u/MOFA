@@ -1,4 +1,4 @@
-last_updated: April 28, 2025 04:23 AM EDT
+last_updated: April 28, 2025 05:45 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -11,11 +11,11 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: April 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/6e/86/586e8693-04ba-7773-cbae-2ffaa6aa20c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/59/d8/e859d85a-72b9-5cba-b75d-053883194307/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.96.2
+    version: 2.96.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -132,11 +132,11 @@ packages:
   - name: iOS Microsoft Lists
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: April 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/67/d4/0567d494-5b18-a994-6ab4-efd90c5722f3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ab/11/24ab11e6-d471-360b-b9d9-c50d3a25029b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.96.2
+    version: 2.96.1
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
@@ -165,17 +165,17 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: April 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/16/78/0816789a-a5b3-f33a-b528-3eaaed8c64ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/47/2d/69472da5-8c42-3a2e-1444-09bcc21e2dda/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
-      \u2022 Fluid Copilot Experience: Enjoy a smoother, more immersive Copilot experience\
-      \ in a collapsible overlay, keeping you in context while browsing!\n\u2022 iPad\
-      \ Copilot in Side Panel: Access Copilot in a sleek side panel while remaining\
-      \ in your workflow.\n\u2022 Bug fixes, stability, and performance improvements.\n\
-      Upgrade to the latest version and enjoy a smarter, more efficient Microsoft\
-      \ Edge!"
-    version: 135.3179.98
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
+      \  \n\u2022 Custom app icon available: Celebrate Microsoft's 50th anniversary\
+      \ with a custom app icon.  \n\u2022 New widget available: Jump into the Surf\
+      \ Game right from your home screen.  \n\u2022 What's New: Curious about what\u2019\
+      s fresh? Check out the latest features in the Settings > What's New section!\
+      \  \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to\
+      \ the latest version and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 135.3179.85
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

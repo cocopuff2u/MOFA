@@ -1,4 +1,4 @@
-last_updated: April 28, 2025 01:05 PM EDT
+last_updated: April 28, 2025 02:09 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -40,14 +40,14 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.96.1 (25042021)
-  full_version: 16.96.25042021
-  last_updated: April 20, 2025
+  short_version: 16.96.2 (25042730)
+  full_version: 16.96.25042730
+  last_updated: April 27, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.96.25042021_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.96.25042021_Updater.pkg
-  sha1: a4f6f4e6167176754764c13f6aba0ada3a01c208
-  sha256: 3b095b1b8b50c0a3758b05795333aca3bb625eca94b5e9fb9bcee9876bd9e0fd
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.96.25042730_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.96.25042730_Updater.pkg
+  sha1: 001005e40392077128a1395ee46bb8304d6919c9
+  sha256: a2031563c2fbb25c33e2aa9f1f16f9f26eb4c24d4e01b4ce48eaf3952e3bf5c4
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app

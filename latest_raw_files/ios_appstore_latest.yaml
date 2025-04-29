@@ -1,4 +1,4 @@
-last_updated: April 28, 2025 11:21 PM EDT
+last_updated: April 29, 2025 12:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -19,22 +19,22 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: April 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/42/4e/93424e96-3d3a-8880-154c-75c42a993d1c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/7f/1c/067f1cd8-309b-935b-9577-db861def11c2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.96.1
+    version: 2.96.2
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: April 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/f0/d5/a0f0d540-5665-0569-aa18-3236ac9dabb9/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/3f/26/8b3f26ca-8b1f-bd4d-1bb9-07ef6679ba22/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2516.0
+    version: 4.2515.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -76,17 +76,17 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: April 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/47/2d/69472da5-8c42-3a2e-1444-09bcc21e2dda/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/16/78/0816789a-a5b3-f33a-b528-3eaaed8c64ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
-      \  \n\u2022 Custom app icon available: Celebrate Microsoft's 50th anniversary\
-      \ with a custom app icon.  \n\u2022 New widget available: Jump into the Surf\
-      \ Game right from your home screen.  \n\u2022 What's New: Curious about what\u2019\
-      s fresh? Check out the latest features in the Settings > What's New section!\
-      \  \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to\
-      \ the latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 135.3179.85
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
+      \u2022 Fluid Copilot Experience: Enjoy a smoother, more immersive Copilot experience\
+      \ in a collapsible overlay, keeping you in context while browsing!\n\u2022 iPad\
+      \ Copilot in Side Panel: Access Copilot in a sleek side panel while remaining\
+      \ in your workflow.\n\u2022 Bug fixes, stability, and performance improvements.\n\
+      Upgrade to the latest version and enjoy a smarter, more efficient Microsoft\
+      \ Edge!"
+    version: 135.3179.98
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -216,11 +216,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: April 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/46/36/fb4636df-1f23-e652-f239-6a1d9478b356/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/d2/97/4ad2973e-ed3f-af40-4ea7-30833788710d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.7.1
+    version: 7.7.2
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint

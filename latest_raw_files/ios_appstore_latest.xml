@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 28, 2025 11:21 PM EDT</last_updated>
+	<last_updated>April 29, 2025 12:07 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -25,23 +25,23 @@
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>April 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/42/4e/93424e96-3d3a-8880-154c-75c42a993d1c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/7f/1c/067f1cd8-309b-935b-9577-db861def11c2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.96.1</version>
+		<version>2.96.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>April 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/f0/d5/a0f0d540-5665-0569-aa18-3236ac9dabb9/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/3f/26/8b3f26ca-8b1f-bd4d-1bb9-07ef6679ba22/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2516.0</version>
+		<version>4.2515.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -92,16 +92,15 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>April 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/47/2d/69472da5-8c42-3a2e-1444-09bcc21e2dda/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/16/78/0816789a-a5b3-f33a-b528-3eaaed8c64ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:  
-• Custom app icon available: Celebrate Microsoft's 50th anniversary with a custom app icon.  
-• New widget available: Jump into the Surf Game right from your home screen.  
-• What's New: Curious about what’s fresh? Check out the latest features in the Settings &gt; What's New section!  
-• Bug fixes, stability, and performance improvements.  
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
+• Fluid Copilot Experience: Enjoy a smoother, more immersive Copilot experience in a collapsible overlay, keeping you in context while browsing!
+• iPad Copilot in Side Panel: Access Copilot in a sleek side panel while remaining in your workflow.
+• Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>135.3179.85</version>
+		<version>135.3179.98</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -244,11 +243,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>April 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/46/36/fb4636df-1f23-e652-f239-6a1d9478b356/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/d2/97/4ad2973e-ed3f-af40-4ea7-30833788710d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.7.1</version>
+		<version>7.7.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>

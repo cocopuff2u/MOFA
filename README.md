@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">April 29, 2025 11:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">April 29, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -122,7 +122,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">April 29, 2025 11:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">April 29, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -140,7 +140,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">April 29, 2025 11:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">April 29, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -157,7 +157,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Warehouse Management | `3.0.6` | `com.microsoft.WarehouseManagement` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/03/5e/e8035edd-1e7f-2c48-8cb4-28f7379987d4/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Warehouse Management" width="40"> |
 | WooCommerce | `22.1` | `com.automattic.woocommerce` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/35/14/1635142f-1317-96a9-9bd1-58b15b42cc24/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="WooCommerce" width="40"> |
 | Dynamics 365 Sales | `3.24104.15` | `com.microsoft.dynamics.iphone.moca.sales` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Sales" width="40"> |
-| Microsoft Word | `2.96.1` | `com.microsoft.Office.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ab/11/24ab11e6-d471-360b-b9d9-c50d3a25029b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Word" width="40"> |
+| Microsoft Word | `2.96.2` | `com.microsoft.Office.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/67/d4/0567d494-5b18-a994-6ab4-efd90c5722f3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Word" width="40"> |
 | Dynamics 365 Field Service | `13.25033.15` | `com.microsoft.dynamics.iphone.moca.fieldServices` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/03/39/ab0339fc-1503-1f22-0fb8-29279af96d65/FieldServices_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Field Service" width="40"> |
 | Viva Engage | `10.98.0` | `wefwef` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/9e/f7/779ef79f-5458-a9cf-df97-503a303378e1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Viva Engage" width="40"> |
 | Whiteboard - Infinity Canvas | `29.0` | `cn.readpad.tool.iwhiteboard` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/ff/a2/acffa226-ccc5-d004-4dde-6379d8355b2f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Whiteboard - Infinity Canvas" width="40"> |
@@ -166,7 +166,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Planner | `1.17.5` | `com.microsoft.PlannerMobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/a0/ba/3fa0bad2-8f10-259a-0f45-281c1c898093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft Planner" width="40"> |
 | Microsoft Azure | `7.4.0` | `com.microsoft.azure` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/7f/ef/f47fef2f-e921-6a3f-7949-725eac122027/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Azure" width="40"> |
 | Microsoft To Do | `2.142.1` | `com.microsoft.to-do` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/45/52/474552f1-a618-8840-8f82-1311a75506ed/To-Do-AppStore-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft To Do" width="40"> |
-| Microsoft Teams | `7.7.1` | `com.microsoft.skype.teams` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/46/36/fb4636df-1f23-e652-f239-6a1d9478b356/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Teams" width="40"> |
+| Microsoft Teams | `7.7.2` | `com.microsoft.skype.teams` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/d2/97/4ad2973e-ed3f-af40-4ea7-30833788710d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Teams" width="40"> |
 | Microsoft SharePoint | `4.54.7` | `com.microsoft.sharepoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a2/17/82a217ae-46b1-d002-9fdb-4fd4a4456baf/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft SharePoint" width="40"> |
 | Dynamics 365 Business Central | `4.0.9292` | `com.microsoft.dynamics.ProjectMadeira` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/18/ad/5618ad08-9054-c975-1517-43d29b51827c/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg" alt="Dynamics 365 Business Central" width="40"> |
 | Power Apps | `3.25042.6` | `com.microsoft.msapps` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/f4/f5/e6f4f53a-5888-8116-eda0-e7bd29bd6d9d/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Power Apps" width="40"> |

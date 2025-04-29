@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>April 29, 2025 04:07 PM EDT</last_updated>
+    <last_updated>April 29, 2025 05:06 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -86,16 +86,16 @@
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.96.1 (25042021)</short_version>
-        <full_version>16.96.25042021</full_version>
-        <last_updated>April 20, 2025</last_updated>
+        <short_version>16.96.2 (25042730)</short_version>
+        <full_version>16.96.25042730</full_version>
+        <last_updated>April 27, 2025</last_updated>
         <min_os>13.0</min_os>
-        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.96.25042021_Updater.pkg</app_only_update_download>
-        <app_update_sha1>a4f6f4e6167176754764c13f6aba0ada3a01c208</app_update_sha1>
-        <app_update_sha256>3b095b1b8b50c0a3758b05795333aca3bb625eca94b5e9fb9bcee9876bd9e0fd</app_update_sha256>
+        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.96.25042730_Updater.pkg</app_only_update_download>
+        <app_update_sha1>001005e40392077128a1395ee46bb8304d6919c9</app_update_sha1>
+        <app_update_sha256>a2031563c2fbb25c33e2aa9f1f16f9f26eb4c24d4e01b4ce48eaf3952e3bf5c4</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2228621</full_update_download>
-        <full_update_sha1>854231017cd4bb81cd73cfd8fe9f1dfa0f5e8b7f</full_update_sha1>
-        <full_update_sha256>ceb708918578e502affe2d3446f4029bd5e7f90699e4c76940f671bb904390ef</full_update_sha256>
+        <full_update_sha1>53d5dd0b98a56986c1709a98442f4a2ba38cc65d</full_update_sha1>
+        <full_update_sha256>b5db0b8d1f3904becf4443ff7f227b29507c9af3c141cc7b383ca210b621aa92</full_update_sha256>
     </package>
     <package>
         <name>OneNote</name>

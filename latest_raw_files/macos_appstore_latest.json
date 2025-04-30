@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 30, 2025 04:08 AM EDT",
+    "last_updated": "April 30, 2025 05:07 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "April 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/87/b3/1e87b348-5ec3-0d23-4e67-ed2eb7f2d73c/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "April 29, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/d3/49/1bd34917-b5e5-0cd5-2b5a-d511f674875f/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Fixed an issue where the app may unexpectedly close when an iCloud account with invalid password is configured.\nFixed incorrect showing of privacy alert dialog.\nFixed an issue that prevents some messages from rendering correctly.\nUpdated Calendar event category colors.",
-            "version": "16.96.1"
+            "releaseNotes": "\u2022 Themes by Copilot: Enable users to personalize their Outlook app with AI-generated themes that are unique to them, based on their favorite styles and contexts.\n\u2022 Fixed an issue where search was triggered without meaningful input.\n\u2022 General accessibility improvements.",
+            "version": "16.96.2"
         },
         {
             "name": "MacOS Microsoft OneNote",

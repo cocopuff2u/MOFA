@@ -1,15 +1,15 @@
 {
-    "last_updated": "April 30, 2025 06:06 PM EDT",
+    "last_updated": "April 30, 2025 07:06 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "April 30, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/b4/c0a3b4db-1080-d5ce-1aaf-22637b1fca98/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "April 23, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/ce/a6/fdcea67b-814a-efe5-3c84-850ff126d752/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Fixes an issue where editing equations may not work as expected.",
-            "version": "16.96.2"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "16.96.1"
         },
         {
             "name": "MacOS Microsoft Excel",

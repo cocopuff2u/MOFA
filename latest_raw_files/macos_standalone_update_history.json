@@ -1,6 +1,12 @@
 {
-    "last_scan_date": "May 01, 2025 01:05 PM EDT",
+    "last_scan_date": "May 01, 2025 02:08 PM EDT",
     "releases": [
+        {
+            "date": "April 30, 2025",
+            "version": "16.96.2 (25042933)",
+            "word_update": "https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.96.25042933_Updater.pkg",
+            "archive": "false"
+        },
         {
             "date": "April 29, 2025",
             "version": "16.96.2 (25042730)",

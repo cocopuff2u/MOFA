@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 01, 2025 06:07 AM EDT</last_updated>
+	<last_updated>May 01, 2025 07:05 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>April 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/b4/c0a3b4db-1080-d5ce-1aaf-22637b1fca98/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/ce/a6/fdcea67b-814a-efe5-3c84-850ff126d752/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Fixes an issue where editing equations may not work as expected.</releaseNotes>
-		<version>16.96.2</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>

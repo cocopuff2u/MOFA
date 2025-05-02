@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">May 02, 2025 01:05 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">May 02, 2025 02:08 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -122,7 +122,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">May 02, 2025 01:05 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">May 02, 2025 02:08 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -131,7 +131,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft PowerPoint | `16.96.1` | `com.microsoft.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d3/0a/59d30a1b-ee1e-7071-520c-0cfb71435c1d/PPT3.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `16.96.2` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/d3/49/1bd34917-b5e5-0cd5-2b5a-d511f674875f/Outlook.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
 | Microsoft OneNote | `16.96` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c3/66/5bc36683-1150-0cea-6af3-584963735890/OneNote.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
-| OneDrive | `25.060.0330` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/62/df/7462dfbf-f302-718f-0536-b3c83805bf53/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
+| OneDrive | `25.065.0406` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/49/6b/55496bc0-6c88-eb71-0e7b-2dc603d6bc9a/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
 | Windows App | `11.1.5` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d8/9b/aad89b19-626e-a8ce-c0f5-11d120712c95/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
 | Microsoft To Do | `2.142` | `com.microsoft.to-do-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/19/c9/3819c91e-74c5-a6e0-02d8-2c90c44df012/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png" alt="Microsoft To Do" width="40"> |
 | Azure VPN Client | `2.7.101` | `com.microsoft.AzureVpnMac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/60/df/2360df4b-4ac5-4480-bb3e-4f59df6c3e64/AppIcon-85-220-0-4-0-0-2x-0-0.png/512x512bb.png" alt="Azure VPN Client" width="40"> |
@@ -140,7 +140,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">May 02, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">May 02, 2025 02:08 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

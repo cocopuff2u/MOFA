@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 02, 2025 12:07 PM EDT</last_updated>
+	<last_updated>May 02, 2025 01:05 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -62,11 +62,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>May 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/49/6b/55496bc0-6c88-eb71-0e7b-2dc603d6bc9a/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/62/df/7462dfbf-f302-718f-0536-b3c83805bf53/OneDrive.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>25.065.0406</version>
+		<version>25.060.0330</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 03, 2025 03:06 AM EDT</last_updated>
+	<last_updated>May 03, 2025 04:07 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,13 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>May 02, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/62/e8/1c62e82c-f1fc-e5b9-4a63-9683e31d48d7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/f0/d5/a0f0d540-5665-0569-aa18-3236ac9dabb9/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2516.1</version>
+		<version>4.2516.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>

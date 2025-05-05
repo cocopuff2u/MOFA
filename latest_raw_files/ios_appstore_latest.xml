@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 05, 2025 12:07 PM EDT</last_updated>
+	<last_updated>May 05, 2025 01:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>April 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/67/d4/0567d494-5b18-a994-6ab4-efd90c5722f3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 05, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/59/21/3e592132-8fdc-8e00-ef8c-f72f54dffe6a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.96.2</version>
+		<version>2.96.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>April 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/6e/86/586e8693-04ba-7773-cbae-2ffaa6aa20c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 05, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/c2/7d/2dc27d08-45e6-edb1-efc9-d4947efa49b7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.96.2</version>
+		<version>2.96.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -127,11 +127,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>April 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/35/14/1635142f-1317-96a9-9bd1-58b15b42cc24/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 05, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/9e/27/c49e27ae-2363-c353-38be-fb88bb3ab3df/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>We’ve squashed bugs and polished your WooCommerce experience! Enjoy smoother order creation with fixes for unsaved changes, recalculations, and multi-word names. Plus, sharper icons for scanning and payments. Behind the scenes, we’ve improved login flows, POS functionality, and app performance. Update now!</releaseNotes>
-		<version>22.1</version>
+		<releaseNotes>We’ve tackled some important fixes for a smoother WooCommerce experience! This update resolves an issue where draft variable products couldn't be published. We've also improved the login flow during Jetpack setup for certain accounts, ensuring a more reliable connection. Update now!</releaseNotes>
+		<version>22.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -147,11 +147,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Lists</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>May 05, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/59/21/3e592132-8fdc-8e00-ef8c-f72f54dffe6a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>April 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/67/d4/0567d494-5b18-a994-6ab4-efd90c5722f3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.96.3</version>
+		<version>2.96.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>

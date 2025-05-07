@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 07, 2025 10:07 AM EDT",
+    "last_updated": "May 07, 2025 11:07 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -105,13 +105,13 @@
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
             "short_version": "5.2504.0",
-            "full_version": "53.2504244.003",
-            "last_updated": "April 30, 2025",
+            "full_version": "53.2505255.003",
+            "last_updated": "May 06, 2025",
             "min_os": "11.0",
             "update_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2504.0-Upgrade.pkg",
             "latest_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2504.0-Upgrade.pkg",
-            "sha1": "371439d4368b2308feae4c99dff18524caad5f3f",
-            "sha256": "053e27bae572fc71ebf7120ba7e375ba85efdc2b487f0d27ca4ae3c1f3bf7b80"
+            "sha1": "544725d1f9355e68491be46a5861143777e088c6",
+            "sha256": "abcc01870e7b1887ddf0bf51fa63602d1572b446bea4cb6c0a61cc7069a27c43"
         },
         {
             "name": "Edge",
@@ -176,12 +176,12 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.100.0-",
             "full_version": "1.100.0-insider",
-            "last_updated": "May 06, 2025",
+            "last_updated": "May 07, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/abe4aab6a7ddb38f4a83c38b53cb4f28dddf0c97/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/19e0f9e681ecb8e5c09d8784acaa601316ca4571/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
-            "sha1": "e531135569a5bdb311fa2f7a7b21452cd9737a6f",
-            "sha256": "9082e3ea3cafffe27c83d49fb937e1f1330e1d883185cb5f2e884d9d544714c3"
+            "sha1": "53f635d0e6733cede408047ea0a6bdedcf46b7bf",
+            "sha256": "ab24dcaa43b7800c526b3d73141cec40ad9c209df60a5a5b73c86936215e8682"
         },
         {
             "name": "MAU",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>May 08, 2025 10:06 AM EDT</last_updated>
+    <last_updated>May 08, 2025 11:06 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -48,14 +48,14 @@
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.98.0 (25050710)</short_version>
-        <full_version>16.98.25050710</full_version>
+        <short_version>16.98.0 (25050730)</short_version>
+        <full_version>16.98.25050730</full_version>
         <last_updated>May 07, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.98.25050710_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.98.25050710_Updater.pkg</latest_download>
-        <sha1>c693c66e164211ffcafca1f2d036d08aa08f57d2</sha1>
-        <sha256>109670bf79d5c7cbacf0dc807eff1b9878f262fcd1c746eaaf18afeadcf90f69</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.98.25050730_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.98.25050730_Updater.pkg</latest_download>
+        <sha1>15095a70af0120247909e893f2c565c65f5e7aaf</sha1>
+        <sha256>11789b48f889008fd0ca6db019e8b7f7a6c0e27f67d54a2955189f429a21382a</sha256>
     </package>
     <package>
         <name>OneNote</name>

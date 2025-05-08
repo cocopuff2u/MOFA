@@ -1,4 +1,4 @@
-last_updated: May 08, 2025 02:09 AM EDT
+last_updated: May 08, 2025 03:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,14 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: May 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d5/6d/53d56d56-2b7a-246b-70d8-87aafef97c7f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 02, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/62/e8/1c62e82c-f1fc-e5b9-4a63-9683e31d48d7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2517.0
+    version: 4.2516.1
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -164,18 +164,17 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: May 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/00/8f/d2008fd0-7337-e8df-9033-f112e7c82890/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/16/78/0816789a-a5b3-f33a-b528-3eaaed8c64ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
-      \  \n\u2022 Copilot video summary: Get quick, AI-powered summaries of videos\
-      \ while you watch. \n\u2022 Fluid Copilot Experience: Enjoy a smoother, more\
-      \ immersive Copilot experience in a collapsible overlay, keeping you in context\
-      \ while browsing!  \n\u2022 iPad Copilot in Side Panel: Access Copilot in a\
-      \ sleek side panel while remaining in your workflow. \n\u2022 Bug fixes, stability,\
-      \ and performance improvements.  \nUpgrade to the latest version and enjoy a\
-      \ smarter, more efficient Microsoft Edge!"
-    version: 136.3240.61
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
+      \u2022 Fluid Copilot Experience: Enjoy a smoother, more immersive Copilot experience\
+      \ in a collapsible overlay, keeping you in context while browsing!\n\u2022 iPad\
+      \ Copilot in Side Panel: Access Copilot in a sleek side panel while remaining\
+      \ in your workflow.\n\u2022 Bug fixes, stability, and performance improvements.\n\
+      Upgrade to the latest version and enjoy a smarter, more efficient Microsoft\
+      \ Edge!"
+    version: 135.3179.98
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

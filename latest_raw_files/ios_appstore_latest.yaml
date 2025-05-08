@@ -1,4 +1,4 @@
-last_updated: May 08, 2025 10:06 AM EDT
+last_updated: May 08, 2025 11:06 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -165,17 +165,18 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: April 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/16/78/0816789a-a5b3-f33a-b528-3eaaed8c64ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/00/8f/d2008fd0-7337-e8df-9033-f112e7c82890/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
-      \u2022 Fluid Copilot Experience: Enjoy a smoother, more immersive Copilot experience\
-      \ in a collapsible overlay, keeping you in context while browsing!\n\u2022 iPad\
-      \ Copilot in Side Panel: Access Copilot in a sleek side panel while remaining\
-      \ in your workflow.\n\u2022 Bug fixes, stability, and performance improvements.\n\
-      Upgrade to the latest version and enjoy a smarter, more efficient Microsoft\
-      \ Edge!"
-    version: 135.3179.98
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
+      \  \n\u2022 Copilot video summary: Get quick, AI-powered summaries of videos\
+      \ while you watch. \n\u2022 Fluid Copilot Experience: Enjoy a smoother, more\
+      \ immersive Copilot experience in a collapsible overlay, keeping you in context\
+      \ while browsing!  \n\u2022 iPad Copilot in Side Panel: Access Copilot in a\
+      \ sleek side panel while remaining in your workflow. \n\u2022 Bug fixes, stability,\
+      \ and performance improvements.  \nUpgrade to the latest version and enjoy a\
+      \ smarter, more efficient Microsoft Edge!"
+    version: 136.3240.61
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

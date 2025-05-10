@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 10, 2025 04:07 AM EDT</last_updated>
+	<last_updated>May 10, 2025 05:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -345,11 +345,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Intune Company Portal</name>
 		<application_name>Intune Company Portal</application_name>
 		<bundleId>com.microsoft.CompanyPortal</bundleId>
-		<currentVersionReleaseDate>March 11, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/92/a1/7d92a125-649a-4523-7f55-a80d0acea31b/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>14.0</minimumOsVersion>
+		<currentVersionReleaseDate>May 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3d/c9/083dc989-ee2f-4951-f657-871860a2177d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We’ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.</releaseNotes>
-		<version>5.2502.0</version>
+		<version>5.2504.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Azure Information Protection</name>

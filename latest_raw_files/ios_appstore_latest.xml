@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 10, 2025 10:36 PM EDT</last_updated>
+	<last_updated>May 10, 2025 11:25 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -245,11 +245,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>April 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/12/57/93125778-ff40-3fe2-51b7-f0de6027d86c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/6f/80/2c6f80af-924e-201e-8f75-f3cc6743ecc7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.7.3</version>
+		<releaseNotes>Skype will be discontinued in May 2025. Sign in to Microsoft Teams for free with your Skype credentials, and your chat history and contacts will remain intact. Enjoy familiar Skype features like free calling and messaging, as well as new features like meetings and communities, all within Teams. If you don't want to use the free version of Microsoft Teams, you can export your Skype data.</releaseNotes>
+		<version>7.8.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>
@@ -365,11 +365,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft 365 Office</name>
 		<application_name>Microsoft 365 Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>April 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/77/e3/b377e354-b1ef-9a30-7045-2ab7120ee96f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/02/6a/88026a7f-917d-5c25-f901-414a899c03e6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.96.1</version>
+		<version>2.97</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

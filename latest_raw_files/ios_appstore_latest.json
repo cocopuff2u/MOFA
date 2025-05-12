@@ -1,35 +1,35 @@
 {
-    "last_updated": "May 12, 2025 02:08 PM EDT",
+    "last_updated": "May 12, 2025 03:05 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "May 05, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/59/21/3e592132-8fdc-8e00-ef8c-f72f54dffe6a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/ba/88/74ba8825-66ab-fe18-a56f-4be53ec313ef/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.96.3"
+            "version": "2.97"
         },
         {
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "May 05, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/c2/7d/2dc27d08-45e6-edb1-efc9-d4947efa49b7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/e9/80/bde980da-c32d-2c78-5e87-baa33de5c6bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.96.3"
+            "version": "2.97"
         },
         {
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "May 05, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/fe/82/27fe826f-57ae-d06b-dc50-9181d2f59cc9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/66/f0/a366f090-e1a6-1c45-cc9c-2ef6a678a5bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.96.3"
+            "version": "2.97"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -85,21 +85,21 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "May 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/00/8f/d2008fd0-7337-e8df-9033-f112e7c82890/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/56/cd/9c56cd56-b68d-1ac3-fb24-fb5f0c2195ba/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:  \n\u2022 Copilot video summary: Get quick, AI-powered summaries of videos while you watch. \n\u2022 Fluid Copilot Experience: Enjoy a smoother, more immersive Copilot experience in a collapsible overlay, keeping you in context while browsing!  \n\u2022 iPad Copilot in Side Panel: Access Copilot in a sleek side panel while remaining in your workflow. \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "136.3240.61"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release.\n\u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!",
+            "version": "136.3240.71"
         },
         {
             "name": "iOS Microsoft Loop",
             "application_name": "Microsoft Loop",
             "bundleId": "com.microsoft.loop",
-            "currentVersionReleaseDate": "April 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/d7/27/08d72703-18f2-3b56-8767-578128084591/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/c8/47/7cc847bb-2a45-e3d6-22b0-f8a128608a17/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 We've grouped your Ideas pages into a dedicated workspace, making it easier to keep them organized. For work accounts, we\u2019ve also added a personal workspace where you can work in private and capture thoughts visible only to you.",
-            "version": "2.96"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.97"
         },
         {
             "name": "iOS Microsoft Warehouse Management",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "May 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/00/8f/d2008fd0-7337-e8df-9033-f112e7c82890/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/56/cd/9c56cd56-b68d-1ac3-fb24-fb5f0c2195ba/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:  \n\u2022 Copilot video summary: Get quick, AI-powered summaries of videos while you watch. \n\u2022 Fluid Copilot Experience: Enjoy a smoother, more immersive Copilot experience in a collapsible overlay, keeping you in context while browsing!  \n\u2022 iPad Copilot in Side Panel: Access Copilot in a sleek side panel while remaining in your workflow. \n\u2022 Bug fixes, stability, and performance improvements.  \nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "136.3240.61"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release.\n\u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!",
+            "version": "136.3240.71"
         },
         {
             "name": "iOS Microsoft Seeing AI",
@@ -305,11 +305,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "April 20, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/82/86/548286f0-0042-21e3-71db-12cba9dc6ce5/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/7f/e9/707fe95c-b8c4-30c9-6e75-d0bde8582492/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "34.0"
+            "version": "34.1"
         },
         {
             "name": "iOS Microsoft 365 Admin",

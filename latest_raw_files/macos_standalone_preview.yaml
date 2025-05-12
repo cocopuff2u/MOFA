@@ -1,4 +1,4 @@
-last_updated: May 12, 2025 02:08 PM EDT
+last_updated: May 12, 2025 03:06 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -88,14 +88,14 @@ packages:
   application_id: IMCP01
   application_name: Company Portal.app
   CFBundleVersion: com.microsoft.intune.companyportal
-  short_version: 5.2502.1
-  full_version: 53.2503180.003
-  last_updated: March 24, 2025
+  short_version: 5.2504.0
+  full_version: 53.2505255.003
+  last_updated: May 06, 2025
   min_os: '11.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2502.1-Upgrade.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2502.1-Upgrade.pkg
-  sha1: d2460dfb373e294fbfe996b425495aad8c7aa475
-  sha256: 72f773eec677deff1ca4440d6cb6c0b3c0e669c50c4966a56205c62e2f3f100b
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2504.0-Upgrade.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2504.0-Upgrade.pkg
+  sha1: 544725d1f9355e68491be46a5861143777e088c6
+  sha256: abcc01870e7b1887ddf0bf51fa63602d1572b446bea4cb6c0a61cc7069a27c43
 - name: Edge
   application_id: EDGE01
   application_name: Microsoft Edge.app

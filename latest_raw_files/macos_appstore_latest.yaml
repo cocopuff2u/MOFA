@@ -1,4 +1,4 @@
-last_updated: May 13, 2025 03:05 PM EDT
+last_updated: May 13, 2025 04:07 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -11,42 +11,60 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: April 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/6b/5ad56b22-5820-3cfb-18a3-8b1502330b6a/XCEL.png/512x512bb.png
+    currentVersionReleaseDate: May 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/86/68/b98668e1-0f91-023c-5942-6f505c6c4ecb/XCEL.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 16.96.1
+    releaseNotes: 'Copilot advanced text analysis in Excel: Copilot can now analyze
+      text by identifying themes or sentiments, cite examples in the data, and insert
+      a column with theme/sentiment labels.'
+    version: '16.97'
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: April 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d3/0a/59d30a1b-ee1e-7071-520c-0cfb71435c1d/PPT3.png/512x512bb.png
+    currentVersionReleaseDate: May 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/92/70/f8927097-c011-dc1d-df96-7add160a5fe3/PPT3.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 16.96.1
+    releaseNotes: 'Get suggestions from Copilot as you work: Introducing structured
+      content suggestions for slides while creating in PowerPoint. Insert a new slide,
+      choose a slide from the Design Suggestions pane and add in your own content.'
+    version: '16.97'
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: April 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/d3/49/1bd34917-b5e5-0cd5-2b5a-d511f674875f/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: May 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/46/73/ef4673e7-a2ac-fadd-38b2-3c4ee90a4628/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Themes by Copilot: Enable users to personalize their Outlook\
-      \ app with AI-generated themes that are unique to them, based on their favorite\
-      \ styles and contexts.\n\u2022 Fixed an issue where search was triggered without\
-      \ meaningful input.\n\u2022 General accessibility improvements."
-    version: 16.96.2
+    releaseNotes: "Resolved Issues:\n\u2022 Mail: Fixed an issue where contact card\
+      \ details weren't loading when clicking on a contact's name.\n\u2022 Mail: Fixed\
+      \ an issue where emails are not grouped in conversation in legacy Outlook client.\n\
+      \u2022 Mail: Fixed an issue in Outlook where the draft email window would unexpectedly\
+      \ disappear while typing in the body.\n\u2022 Calendar: Fixed an issue in Outlook\
+      \ where the calendar sidebar selection was not retained after closing the application\
+      \ using the traffic light.\n\nFeature Updates:\n\u2022 Attachment: Allow users\
+      \ to download a link and attach it as a local attachment.\n\u2022 Attachment:\
+      \ Allow users to upload large-size files to OneDrive and attach them as links.\n\
+      \u2022 Signatures: You can now deploy managed preferences to disable the default\
+      \ signature. Details available here.\n\u2022 Copilot Summarise default language\
+      \ has been updated to use the content language of the conversation. User has\
+      \ an option in the summarise card to switch to UI language if required.\n\u2022\
+      \ Themes by Copilot: enable users to personalise their Outlook app with AI-generated\
+      \ themes that are unique to them, based on their favourite styles and contexts.\n\
+      \u2022 Mail: Sort by categories allows users to organise and view emails based\
+      \ on categories, making it easier to locate and manage related emails efficiently.\n\
+      \u2022 Contacts: A new unified experience of Contacts with Teams is now available."
+    version: '16.97'
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: April 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c3/66/5bc36683-1150-0cea-6af3-584963735890/OneNote.png/512x512bb.png
+    currentVersionReleaseDate: May 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/41/12/664112ef-7f2d-55ed-b17d-8db225479b00/OneNote.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
-      \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
-      \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.96'
+      \ in the app by clicking on the feedback icon in the top-right of the app.\n\
+      Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
+    version: '16.97'
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac

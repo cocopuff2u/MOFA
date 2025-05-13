@@ -1,4 +1,4 @@
-last_updated: May 13, 2025 05:06 PM EDT
+last_updated: May 13, 2025 06:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -19,11 +19,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: May 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/66/f0/a366f090-e1a6-1c45-cc9c-2ef6a678a5bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 05, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/fe/82/27fe826f-57ae-d06b-dc50-9181d2f59cc9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.97'
+    version: 2.96.3
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -50,21 +50,12 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: May 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/85/02/3d850221-af5e-dc93-16b2-c95ba3aa857b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 02, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/d0/10/bdd010f3-2a0b-a2e6-f87b-6cb086040108/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "What\u2019s New* \nWe\u2019ve added a splash of color and fixed\
-      \ a whole lot of bugs. Some highlights include:\n \nNew\n- Colored Folders:\
-      \ Now you can view those colored folders you set on your PC wherever you are.\
-      \ Personalize your workspace and find what you need faster\n\nFixed & Improved\n\
-      - Dates now display correctly in OneUp view and File Details\n- Moving or scanning\
-      \ into Photos folders from Files now works as expected\n- TIFF file previews\
-      \ are now crisp and clear\n- Thumbnail loading is faster and more efficient\n\
-      - Share link handling for business users has been improved\n\nThanks for using\
-      \ OneDrive! We\u2019re always working to improve your experience. If you run\
-      \ into any issues, just shake your device and tap \u201CSend Feedback.\u201D\
-      \n\n*These notes were generated using Copilot"
-    version: 16.13.4
+    releaseNotes: Move files with ease by using drag and drop to upload to OneDrive
+      and download into other apps.
+    version: 16.12.5
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows
@@ -77,11 +68,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: May 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/d1/2c/b9d12c8f-43c4-1ab4-2513-64b11cc7ef32/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/f4/e6/3cf4e675-2e94-f190-0c11-3622329371f1/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: Bug fixes and improvements
-    version: 1.1.64230101
+    releaseNotes: Bug fixes and Improvements
+    version: 1.1.64070101
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
@@ -131,13 +122,13 @@ packages:
       can stay on top of their deals better than ever before.
     version: 3.24104.15
   - name: iOS Microsoft Lists
-    application_name: Microsoft Lists
-    bundleId: com.microsoft.splists
-    currentVersionReleaseDate: May 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/79/f7/9679f700-3409-7db4-23fc-8ce96e6fb613/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    application_name: Microsoft Word
+    bundleId: com.microsoft.Office.Word
+    currentVersionReleaseDate: May 05, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/59/21/3e592132-8fdc-8e00-ef8c-f72f54dffe6a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: This update contains bug fixes and stability improvements.
-    version: 2.24.1
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.96.3
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices

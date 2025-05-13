@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 13, 2025 04:07 PM EDT</last_updated>
+	<last_updated>May 13, 2025 05:06 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>April 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/b4/c0a3b4db-1080-d5ce-1aaf-22637b1fca98/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/c5/ca/23c5ca86-e5b9-0dbb-926a-9225b8e5ec43/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Fixes an issue where editing equations may not work as expected.</releaseNotes>
-		<version>16.96.2</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.97</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/86/68/b98668e1-0f91-023c-5942-6f505c6c4ecb/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/6b/5ad56b22-5820-3cfb-18a3-8b1502330b6a/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Copilot advanced text analysis in Excel: Copilot can now analyze text by identifying themes or sentiments, cite examples in the data, and insert a column with theme/sentiment labels.</releaseNotes>
-		<version>16.97</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
@@ -35,24 +35,13 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/46/73/ef4673e7-a2ac-fadd-38b2-3c4ee90a4628/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/d3/49/1bd34917-b5e5-0cd5-2b5a-d511f674875f/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Resolved Issues:
-• Mail: Fixed an issue where contact card details weren't loading when clicking on a contact's name.
-• Mail: Fixed an issue where emails are not grouped in conversation in legacy Outlook client.
-• Mail: Fixed an issue in Outlook where the draft email window would unexpectedly disappear while typing in the body.
-• Calendar: Fixed an issue in Outlook where the calendar sidebar selection was not retained after closing the application using the traffic light.
-
-Feature Updates:
-• Attachment: Allow users to download a link and attach it as a local attachment.
-• Attachment: Allow users to upload large-size files to OneDrive and attach them as links.
-• Signatures: You can now deploy managed preferences to disable the default signature. Details available here.
-• Copilot Summarise default language has been updated to use the content language of the conversation. User has an option in the summarise card to switch to UI language if required.
-• Themes by Copilot: enable users to personalise their Outlook app with AI-generated themes that are unique to them, based on their favourite styles and contexts.
-• Mail: Sort by categories allows users to organise and view emails based on categories, making it easier to locate and manage related emails efficiently.
-• Contacts: A new unified experience of Contacts with Teams is now available.</releaseNotes>
-		<version>16.97</version>
+		<releaseNotes>• Themes by Copilot: Enable users to personalize their Outlook app with AI-generated themes that are unique to them, based on their favorite styles and contexts.
+• Fixed an issue where search was triggered without meaningful input.
+• General accessibility improvements.</releaseNotes>
+		<version>16.96.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

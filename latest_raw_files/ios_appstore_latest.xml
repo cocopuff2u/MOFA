@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 13, 2025 04:07 PM EDT</last_updated>
+	<last_updated>May 13, 2025 05:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -62,11 +62,26 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>May 02, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/d0/10/bdd010f3-2a0b-a2e6-f87b-6cb086040108/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/85/02/3d850221-af5e-dc93-16b2-c95ba3aa857b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Move files with ease by using drag and drop to upload to OneDrive and download into other apps.</releaseNotes>
-		<version>16.12.5</version>
+		<releaseNotes>What’s New* 
+We’ve added a splash of color and fixed a whole lot of bugs. Some highlights include:
+ 
+New
+- Colored Folders: Now you can view those colored folders you set on your PC wherever you are. Personalize your workspace and find what you need faster
+
+Fixed &amp; Improved
+- Dates now display correctly in OneUp view and File Details
+- Moving or scanning into Photos folders from Files now works as expected
+- TIFF file previews are now crisp and clear
+- Thumbnail loading is faster and more efficient
+- Share link handling for business users has been improved
+
+Thanks for using OneDrive! We’re always working to improve your experience. If you run into any issues, just shake your device and tap “Send Feedback.”
+
+*These notes were generated using Copilot</releaseNotes>
+		<version>16.13.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>

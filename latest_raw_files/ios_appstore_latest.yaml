@@ -1,4 +1,4 @@
-last_updated: May 13, 2025 06:06 PM EDT
+last_updated: May 13, 2025 07:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -19,11 +19,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: May 05, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/fe/82/27fe826f-57ae-d06b-dc50-9181d2f59cc9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/66/f0/a366f090-e1a6-1c45-cc9c-2ef6a678a5bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.96.3
+    version: '2.97'
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -68,11 +68,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: April 24, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/f4/e6/3cf4e675-2e94-f190-0c11-3622329371f1/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/d1/2c/b9d12c8f-43c4-1ab4-2513-64b11cc7ef32/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: Bug fixes and Improvements
-    version: 1.1.64070101
+    releaseNotes: Bug fixes and improvements
+    version: 1.1.64230101
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
@@ -122,13 +122,13 @@ packages:
       can stay on top of their deals better than ever before.
     version: 3.24104.15
   - name: iOS Microsoft Lists
-    application_name: Microsoft Word
-    bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: May 05, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/59/21/3e592132-8fdc-8e00-ef8c-f72f54dffe6a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    application_name: Microsoft Lists
+    bundleId: com.microsoft.splists
+    currentVersionReleaseDate: May 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/79/f7/9679f700-3409-7db4-23fc-8ce96e6fb613/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.96.3
+    releaseNotes: This update contains bug fixes and stability improvements.
+    version: 2.24.1
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices

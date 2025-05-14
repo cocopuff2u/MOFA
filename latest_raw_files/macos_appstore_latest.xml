@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 14, 2025 02:09 AM EDT</last_updated>
+	<last_updated>May 14, 2025 03:07 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -25,11 +25,11 @@
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/92/70/f8927097-c011-dc1d-df96-7add160a5fe3/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d3/0a/59d30a1b-ee1e-7071-520c-0cfb71435c1d/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Get suggestions from Copilot as you work: Introducing structured content suggestions for slides while creating in PowerPoint. Insert a new slide, choose a slide from the Design Suggestions pane and add in your own content.</releaseNotes>
-		<version>16.97</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.96.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
@@ -58,16 +58,16 @@ Feature Updates:
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/41/12/664112ef-7f2d-55ed-b17d-8db225479b00/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c3/66/5bc36683-1150-0cea-6af3-584963735890/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
 Thanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. 
  
-Having trouble? Send feedback in the app by clicking on the feedback icon in the top-right of the app.
+Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.97</version>
+		<version>16.96</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>

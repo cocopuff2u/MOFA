@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 14, 2025 01:07 AM EDT",
+    "last_updated": "May 14, 2025 02:09 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "25122.1202.3647.7912",
-            "full_version": "25122.1202.3647.7912",
+            "short_version": "25130.502.3648.9012",
+            "full_version": "25130.502.3648.9012",
             "last_updated": "May 13, 2025",
             "min_os": "13.0",
-            "update_download": "https://statics.teams.cdn.office.net/production-osx/25122.1202.3647.7912/MicrosoftTeams.pkg",
-            "latest_download": "https://statics.teams.cdn.office.net/production-osx/25122.1202.3647.7912/MicrosoftTeams.pkg",
-            "sha1": "a79b4bb698158179ee69b5c01a74c31edfe74d1a",
-            "sha256": "dbe296bccf566dd24792065d5335a2b3aa5181e36bd7c02b98b50c9b29660375"
+            "update_download": "https://statics.teams.cdn.office.net/production-osx/25130.502.3648.9012/MicrosoftTeams.pkg",
+            "latest_download": "https://statics.teams.cdn.office.net/production-osx/25130.502.3648.9012/MicrosoftTeams.pkg",
+            "sha1": "9a7fcdf596cb0dddb534aa84d921eb68d3e675b6",
+            "sha256": "698619475670bdb32e47acf4c65c15fa8515595014d036d63db270a40e30a22e"
         },
         {
             "name": "Intune",
@@ -176,12 +176,12 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.101.0-",
             "full_version": "1.101.0-insider",
-            "last_updated": "May 13, 2025",
+            "last_updated": "May 14, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/4b88fa7949c13eea3369e8a05042a03f2f9df8be/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/53524ccad173e498ee03286727e3434fc9d51d5e/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
-            "sha1": "c4a13c7402422a972563f9ed3c8b28c78adbb8fa",
-            "sha256": "51a4fb026fd21a8fb9b3de93e6ae7ad22e4d86823d539260a576f65d6bea51c3"
+            "sha1": "4354665d6c22affc6c07650e21dde384fca57aca",
+            "sha256": "ac3d8c285b2d8381c4c409793f5401cb215d5822d790b50380e2b192d064db1a"
         },
         {
             "name": "MAU",

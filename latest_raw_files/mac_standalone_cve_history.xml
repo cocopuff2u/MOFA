@@ -1,6 +1,40 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>May 14, 2025 05:05 PM EDT</last_scan_date>
+    <last_scan_date>May 14, 2025 06:05 PM EDT</last_scan_date>
+    <Update>
+        <Date>May 13, 2025</Date>
+        <Version>Version 16.97 (Build 25051114)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2025-29977</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29977</URL>
+                <CVE>CVE-2025-29979</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29979</URL>
+                <CVE>CVE-2025-30375</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30375</URL>
+                <CVE>CVE-2025-30376</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30376</URL>
+                <CVE>CVE-2025-30393</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30393</URL>
+                <CVE>CVE-2025-30379</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30379</URL>
+                <CVE>CVE-2025-30381</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30381</URL>
+                <CVE>CVE-2025-30383</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30383</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2025-30388</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30388</URL>
+                <CVE>CVE-2025-30377</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30377</URL>
+                <CVE>CVE-2025-30386</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30386</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>April 30, 2025</Date>
         <Version>Version 16.96.2 (Build 25042933)</Version>

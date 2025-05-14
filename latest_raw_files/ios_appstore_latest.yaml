@@ -1,4 +1,4 @@
-last_updated: May 14, 2025 01:07 AM EDT
+last_updated: May 14, 2025 02:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -50,12 +50,21 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: May 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/d0/10/bdd010f3-2a0b-a2e6-f87b-6cb086040108/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/85/02/3d850221-af5e-dc93-16b2-c95ba3aa857b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Move files with ease by using drag and drop to upload to OneDrive
-      and download into other apps.
-    version: 16.12.5
+    releaseNotes: "What\u2019s New* \nWe\u2019ve added a splash of color and fixed\
+      \ a whole lot of bugs. Some highlights include:\n \nNew\n- Colored Folders:\
+      \ Now you can view those colored folders you set on your PC wherever you are.\
+      \ Personalize your workspace and find what you need faster\n\nFixed & Improved\n\
+      - Dates now display correctly in OneUp view and File Details\n- Moving or scanning\
+      \ into Photos folders from Files now works as expected\n- TIFF file previews\
+      \ are now crisp and clear\n- Thumbnail loading is faster and more efficient\n\
+      - Share link handling for business users has been improved\n\nThanks for using\
+      \ OneDrive! We\u2019re always working to improve your experience. If you run\
+      \ into any issues, just shake your device and tap \u201CSend Feedback.\u201D\
+      \n\n*These notes were generated using Copilot"
+    version: 16.13.4
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows

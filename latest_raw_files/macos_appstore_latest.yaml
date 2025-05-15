@@ -1,4 +1,4 @@
-last_updated: May 14, 2025 09:34 PM EDT
+last_updated: May 14, 2025 10:35 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -56,25 +56,25 @@ packages:
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: May 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/41/12/664112ef-7f2d-55ed-b17d-8db225479b00/OneNote.png/512x512bb.png
+    currentVersionReleaseDate: April 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c3/66/5bc36683-1150-0cea-6af3-584963735890/OneNote.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
-      \ in the app by clicking on the feedback icon in the top-right of the app.\n\
-      Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.97'
+      \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
+      \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
+    version: '16.96'
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: May 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/f8/8d/acf88d26-d928-c428-5435-e54440c4fa46/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: May 01, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/49/6b/55496bc0-6c88-eb71-0e7b-2dc603d6bc9a/OneDrive.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 25.075.0420
+    version: 25.065.0406
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

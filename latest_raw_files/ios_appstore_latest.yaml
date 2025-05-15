@@ -1,4 +1,4 @@
-last_updated: May 15, 2025 03:07 AM EDT
+last_updated: May 15, 2025 04:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -238,11 +238,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: May 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/65/cf/f365cf21-907b-0f70-207c-2ca9657a9fdf/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/db/4a/33db4a93-8f0f-c563-2fb6-b978b057a798/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25044.8
+    version: 3.25051.12
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator

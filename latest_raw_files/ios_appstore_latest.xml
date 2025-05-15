@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 14, 2025 11:23 PM EDT</last_updated>
+	<last_updated>May 15, 2025 12:08 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -254,11 +254,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>May 09, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/6f/80/2c6f80af-924e-201e-8f75-f3cc6743ecc7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/bc/567fbc61-70f1-bd16-c72e-2f5eeae4114f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Skype will be discontinued in May 2025. Sign in to Microsoft Teams for free with your Skype credentials, and your chat history and contacts will remain intact. Enjoy familiar Skype features like free calling and messaging, as well as new features like meetings and communities, all within Teams. If you don't want to use the free version of Microsoft Teams, you can export your Skype data.</releaseNotes>
-		<version>7.8.0</version>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>7.8.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>
@@ -294,11 +294,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Authenticator</name>
 		<application_name>Microsoft Authenticator</application_name>
 		<bundleId>com.microsoft.azureauthenticator</bundleId>
-		<currentVersionReleaseDate>April 14, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/6d/88/506d88fd-8195-0b7a-f654-870715665ff5/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/38/4d/96384d0f-b684-c972-c304-7b136092a811/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.</releaseNotes>
-		<version>6.8.24</version>
+		<version>6.8.25</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>

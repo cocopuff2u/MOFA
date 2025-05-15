@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 15, 2025 01:07 AM EDT</last_updated>
+	<last_updated>May 15, 2025 02:09 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -58,26 +58,26 @@ Feature Updates:
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/41/12/664112ef-7f2d-55ed-b17d-8db225479b00/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>April 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c3/66/5bc36683-1150-0cea-6af3-584963735890/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
 Thanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. 
  
-Having trouble? Send feedback in the app by clicking on the feedback icon in the top-right of the app.
+Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.97</version>
+		<version>16.96</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>May 14, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/f8/8d/acf88d26-d928-c428-5435-e54440c4fa46/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/49/6b/55496bc0-6c88-eb71-0e7b-2dc603d6bc9a/OneDrive.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>25.075.0420</version>
+		<version>25.065.0406</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

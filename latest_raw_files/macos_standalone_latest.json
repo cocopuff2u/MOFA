@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 16, 2025 09:14 AM EDT",
+    "last_updated": "May 16, 2025 10:06 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -150,16 +150,16 @@
             "application_id": "IMCP01",
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
-            "short_version": "5.2502.1",
-            "full_version": "53.2503180.003",
-            "last_updated": "March 24, 2025",
+            "short_version": "5.2504.0",
+            "full_version": "53.2505255.003",
+            "last_updated": "May 06, 2025",
             "min_os": "11.0",
-            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2502.1-Upgrade.pkg",
-            "app_update_sha1": "d2460dfb373e294fbfe996b425495aad8c7aa475",
-            "app_update_sha256": "72f773eec677deff1ca4440d6cb6c0b3c0e669c50c4966a56205c62e2f3f100b",
+            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2504.0-Upgrade.pkg",
+            "app_update_sha1": "544725d1f9355e68491be46a5861143777e088c6",
+            "app_update_sha256": "abcc01870e7b1887ddf0bf51fa63602d1572b446bea4cb6c0a61cc7069a27c43",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=853070",
-            "full_update_sha1": "281e91a80e393a5629014246336a2e9549786de8",
-            "full_update_sha256": "d5fce20926d01bc6038a5e2ef39a9c7313bfcb4ed29309745d844c5cc2bced5b"
+            "full_update_sha1": "a20c799341f30556bb12cd7e28ae7734949ad5da",
+            "full_update_sha256": "931db4af2fe6320a1bfb6776fae75b6f7280a947203a5a622b2cae00e8f6b6e6"
         },
         {
             "name": "Edge",

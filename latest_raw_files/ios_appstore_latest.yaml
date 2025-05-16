@@ -1,4 +1,4 @@
-last_updated: May 16, 2025 03:07 AM EDT
+last_updated: May 16, 2025 04:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -205,11 +205,11 @@ packages:
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
-    currentVersionReleaseDate: April 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/45/52/474552f1-a618-8840-8f82-1311a75506ed/To-Do-AppStore-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/53/b1/5b53b1d0-d043-0e8a-e775-ba48d85e9607/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: We fixed some bugs to improve the app experience.
-    version: 2.142.1
+    version: '2.147'
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams

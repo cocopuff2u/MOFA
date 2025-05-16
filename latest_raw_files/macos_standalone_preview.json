@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 16, 2025 01:05 PM EDT",
+    "last_updated": "May 16, 2025 02:08 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -176,12 +176,12 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.101.0-",
             "full_version": "1.101.0-insider",
-            "last_updated": "May 15, 2025",
+            "last_updated": "May 16, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/17d1fa2d33e93d129c7deff16be86ad360abd2a8/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/2d6afddc470bf44f7e60fb5b6e6fdd08e771409b/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
-            "sha1": "f559a562fde39fd5bf02c2f7b7fd73affc082099",
-            "sha256": "f975d262ea88e3974b6c035393d2e8fc1bbff614b8dee8e1c739349c5c601c3a"
+            "sha1": "cb060fd8513ac82063f900b672a907759a1efdf5",
+            "sha256": "2365e3d7477da5900a2103a8e9454940485c8dfac1bca95b03ece32c7ee03f74"
         },
         {
             "name": "MAU",

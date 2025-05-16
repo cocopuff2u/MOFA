@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 15, 2025 08:29 PM EDT",
+    "last_updated": "May 15, 2025 09:34 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "MacOS Microsoft OneDrive",
             "application_name": "OneDrive",
             "bundleId": "com.microsoft.OneDrive-mac",
-            "currentVersionReleaseDate": "May 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/f8/8d/acf88d26-d928-c428-5435-e54440c4fa46/OneDrive.png/512x512bb.png",
+            "currentVersionReleaseDate": "May 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/49/6b/55496bc0-6c88-eb71-0e7b-2dc603d6bc9a/OneDrive.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.",
-            "version": "25.075.0420"
+            "version": "25.065.0406"
         },
         {
             "name": "MacOS Microsoft Windows App",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 18, 2025 05:05 PM EDT</last_updated>
+	<last_updated>May 18, 2025 06:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -334,11 +334,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>May 18, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/41/26/624126e7-56bf-736a-09fd-cd36db0ae899/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 11, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/7f/e9/707fe95c-b8c4-30c9-6e75-d0bde8582492/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>34.2</version>
+		<version>34.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>

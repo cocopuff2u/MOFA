@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>May 19, 2025 06:06 PM EDT</last_updated>
+    <last_updated>May 19, 2025 07:06 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -20,14 +20,14 @@
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.98.0 (25051413)</short_version>
-        <full_version>16.98.25051413</full_version>
-        <last_updated>May 14, 2025</last_updated>
+        <short_version>16.98.0 (25051820)</short_version>
+        <full_version>16.98.25051820</full_version>
+        <last_updated>May 18, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.98.25051413_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.98.25051413_Updater.pkg</latest_download>
-        <sha1>6dc570c9c931d680f894d3a64c0aecfa9df01ead</sha1>
-        <sha256>21796e661c2778ab84c3deeabc9bace190f29f9f2d5a813f75f77b29b89365d6</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.98.25051820_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.98.25051820_Updater.pkg</latest_download>
+        <sha1>d50cfe27eb1f9900e49b93baaffac3900c832b91</sha1>
+        <sha256>aa9a0f412b01f052c5cc03c216cb607c2c6db4afacf56563b9af9979f6c40f1f</sha256>
     </package>
     <package>
         <name>PowerPoint</name>

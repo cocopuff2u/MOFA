@@ -1,40 +1,38 @@
-last_updated: May 20, 2025 02:09 AM EDT
+last_updated: May 20, 2025 03:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: May 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/ba/88/74ba8825-66ab-fe18-a56f-4be53ec313ef/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/96/9c/d9969c7e-7fe3-a046-aa50-da785ce314ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.97'
+    version: 2.97.1
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: May 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/e9/80/bde980da-c32d-2c78-5e87-baa33de5c6bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/cd/c3/bbcdc3cc-c7c3-f55f-b456-3632e9417352/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.97'
+    version: 2.97.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: May 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/66/f0/a366f090-e1a6-1c45-cc9c-2ef6a678a5bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/02/fc/5002fcc4-c298-dff6-bb4a-1b8800e3e7e7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.97'
+    version: 2.97.1
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: May 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d5/6d/53d56d56-2b7a-246b-70d8-87aafef97c7f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/43/6f/47436fca-e54c-d824-33c6-efba9119e1a5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "This update includes performance improvements and bug fixes to\
-      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
-      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
-      \ you."
-    version: 4.2517.0
+    releaseNotes: Now your folders on mobile now matches the custom order you've set
+      in Outlook on your computer or on the web.
+    version: 4.2519.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -226,11 +224,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: May 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/bc/567fbc61-70f1-bd16-c72e-2f5eeae4114f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/2a/60/fe2a60d8-3913-a859-7727-b63b454765b9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.8.1
+    version: 7.8.2
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
@@ -327,11 +325,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: May 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/02/6a/88026a7f-917d-5c25-f901-414a899c03e6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/c4/68/8ac46841-23b2-6c32-46a6-458f28925beb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.97'
+    version: 2.97.1
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

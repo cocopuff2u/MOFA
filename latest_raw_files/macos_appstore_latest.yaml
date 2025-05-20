@@ -1,4 +1,4 @@
-last_updated: May 20, 2025 02:09 AM EDT
+last_updated: May 20, 2025 03:07 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -78,20 +78,17 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: April 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d8/9b/aad89b19-626e-a8ce-c0f5-11d120712c95/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 20, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/69/77/0d6977ab-392a-b2f6-4471-7404ccbe85eb/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
     minimumOsVersion: '12.0'
-    releaseNotes: "In this release we made the following updates:\n\n\u2022 Fixed\
-      \ slurred audio that was being rendered when using Teams optimizations.\n\u2022\
-      \ Added a connecting/connected state indicator to workspace headers.\n\u2022\
-      \ Fixed some bad code that was corrupting app icons displayed in workspaces.\n\
-      \u2022 Added the ability to switch between remote apps from the Window menu\
-      \ and Dock icon.\n\u2022 Improved threading for the graphics decoder to improve\
-      \ performance.\n\u2022 Resolved z-order issues between remote apps and local\
-      \ windows.\n\u2022 Fixed a bug that caused incorrect mouse coordinates to be\
-      \ sent if the session window was resized while reconnecting.\n\nIf you encounter\
-      \ any errors, you can contact us via Help > Submit Feedback."
-    version: 11.1.5
+    releaseNotes: "In this release we made some bug fixes and included the following\
+      \ updates:\n\n\u2022 Improved AVC codec support to ensure session graphics are\
+      \ rendered faster with no mispaints.\n\u2022 Added a user default (\"ClientSettings.RequireFreshCredentials\"\
+      ) to block credential saving and usage.\n\u2022 Added smart tip notifications\
+      \ that provide contextual usage hints (can be enabled or disabled in Settings\
+      \ > General).\n\u2022 Improved multiple monitor support for remote sessions.\n\
+      \nIf you encounter any errors, you can contact us via Help > Submit Feedback."
+    version: 11.1.6
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac

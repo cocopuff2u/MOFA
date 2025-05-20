@@ -1,13 +1,13 @@
-last_updated: May 20, 2025 09:15 AM EDT
+last_updated: May 20, 2025 10:06 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/96/9c/d9969c7e-7fe3-a046-aa50-da785ce314ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/ba/88/74ba8825-66ab-fe18-a56f-4be53ec313ef/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.97.1
+    version: '2.97'
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
@@ -27,12 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/43/6f/47436fca-e54c-d824-33c6-efba9119e1a5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d5/6d/53d56d56-2b7a-246b-70d8-87aafef97c7f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Now your folders on mobile now matches the custom order you've set
-      in Outlook on your computer or on the web.
-    version: 4.2519.0
+    releaseNotes: "This update includes performance improvements and bug fixes to\
+      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
+      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
+      \ you."
+    version: 4.2517.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -116,17 +118,14 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/19/50/46195001-baa7-479d-639c-280d54f50ab5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 05, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/9e/27/c49e27ae-2363-c353-38be-fb88bb3ab3df/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "This release brings major improvements to the WooCommerce Point\
-      \ of Sale (POS) experience, including the ability to search for products and\
-      \ apply coupons directly from the app. We\u2019ve also improved the Tap to Pay\
-      \ onboarding flow and updated documentation links to ensure a smoother setup.\
-      \ Enhancements to the order form now make entering custom amounts more intuitive.\
-      \ Behind the scenes, we\u2019ve made fixes to improve app stability and refined\
-      \ the POS interface for better usability."
-    version: '22.3'
+    releaseNotes: "We\u2019ve tackled some important fixes for a smoother WooCommerce\
+      \ experience! This update resolves an issue where draft variable products couldn't\
+      \ be published. We've also improved the login flow during Jetpack setup for\
+      \ certain accounts, ensuring a more reliable connection. Update now!"
+    version: '22.2'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
@@ -172,18 +171,13 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/f9/e8/f7f9e873-a03a-c725-264f-04764a0fd8e8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/56/cd/9c56cd56-b68d-1ac3-fb24-fb5f0c2195ba/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
-      \ \n\u2022 Copilot video summary: Get quick, AI-powered summaries of videos\
-      \ while you watch. \n\u2022 Fluid Copilot Experience: Enjoy a smoother, more\
-      \ immersive Copilot experience in a collapsible overlay, keeping you in context\
-      \ while browsing! \n\u2022 iPad Copilot in Side Panel: Access Copilot in a sleek\
-      \ side panel while remaining in your workflow. \n\u2022 Bug fixes, stability,\
-      \ and performance improvements. \nUpgrade to the latest version and enjoy a\
-      \ smarter, more efficient Microsoft Edge!"
-    version: 136.3240.77
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
+      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
+      \ version and enjoy a smarter and more efficient Microsoft Edge!"
+    version: 136.3240.71
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
@@ -325,11 +319,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/c4/68/8ac46841-23b2-6c32-46a6-458f28925beb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/02/6a/88026a7f-917d-5c25-f901-414a899c03e6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.97.1
+    version: '2.97'
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

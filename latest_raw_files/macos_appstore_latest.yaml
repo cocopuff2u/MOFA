@@ -1,4 +1,4 @@
-last_updated: May 20, 2025 02:09 PM EDT
+last_updated: May 20, 2025 03:05 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -31,13 +31,28 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: May 20, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/df/9e/cfdf9ef8-f93c-738a-78bd-f5b24a670868/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: May 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/46/73/ef4673e7-a2ac-fadd-38b2-3c4ee90a4628/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Calendar: Fixed an issue that prevents users from creating\
-      \ a new event using the 'Create new event' button on the My Day/Calendar Peek\
-      \ page for OnPrem accounts."
-    version: 16.97.1
+    releaseNotes: "Resolved Issues:\n\u2022 Mail: Fixed an issue where contact card\
+      \ details weren't loading when clicking on a contact's name.\n\u2022 Mail: Fixed\
+      \ an issue where emails are not grouped in conversation in legacy Outlook client.\n\
+      \u2022 Mail: Fixed an issue in Outlook where the draft email window would unexpectedly\
+      \ disappear while typing in the body.\n\u2022 Calendar: Fixed an issue in Outlook\
+      \ where the calendar sidebar selection was not retained after closing the application\
+      \ using the traffic light.\n\nFeature Updates:\n\u2022 Attachment: Allow users\
+      \ to download a link and attach it as a local attachment.\n\u2022 Attachment:\
+      \ Allow users to upload large-size files to OneDrive and attach them as links.\n\
+      \u2022 Signatures: You can now deploy managed preferences to disable the default\
+      \ signature. Details available here.\n\u2022 Copilot Summarise default language\
+      \ has been updated to use the content language of the conversation. User has\
+      \ an option in the summarise card to switch to UI language if required.\n\u2022\
+      \ Themes by Copilot: enable users to personalise their Outlook app with AI-generated\
+      \ themes that are unique to them, based on their favourite styles and contexts.\n\
+      \u2022 Mail: Sort by categories allows users to organise and view emails based\
+      \ on categories, making it easier to locate and manage related emails efficiently.\n\
+      \u2022 Contacts: A new unified experience of Contacts with Teams is now available."
+    version: '16.97'
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac

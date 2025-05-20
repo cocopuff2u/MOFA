@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>May 19, 2025 09:34 PM EDT</last_updated>
+    <last_updated>May 19, 2025 10:36 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -230,13 +230,13 @@
         <application_id>MSRD10</application_id>
         <application_name>Windows App.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.1.5</short_version>
-        <full_version>2585</full_version>
-        <last_updated>April 22, 2025</last_updated>
+        <short_version>11.1.6</short_version>
+        <full_version>2605</full_version>
+        <last_updated>May 18, 2025</last_updated>
         <min_os>12.0</min_os>
-        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.5_updater.pkg</app_only_update_download>
-        <app_update_sha1>a6260a9798750c29d178f7d7977d88af22f9ee15</app_update_sha1>
-        <app_update_sha256>2bd947d0b1c56393b563adcfd485ec798ca82c288c31da20e1b299e87152fc2c</app_update_sha256>
+        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.6_updater.pkg</app_only_update_download>
+        <app_update_sha1>a5789dd0c05d5ce3d42bffb5fafb0e91805ffe44</app_update_sha1>
+        <app_update_sha256>c9f64798b0bef8dc12bb97ed362d87f005757e1aa3f53dc87f44e626fda19a20</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=868963</full_update_download>
         <full_update_sha1>5200869b39c19b34bd170eefcc6e673371dd5683</full_update_sha1>
         <full_update_sha256>af163e136d9d9021d743a064114f100f11c31416dfb6ad2d46b430951f346381</full_update_sha256>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 20, 2025 03:05 PM EDT</last_updated>
+	<last_updated>May 20, 2025 04:07 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,13 +35,11 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>May 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d5/6d/53d56d56-2b7a-246b-70d8-87aafef97c7f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/43/6f/47436fca-e54c-d824-33c6-efba9119e1a5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
-
-Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2517.0</version>
+		<releaseNotes>Now your folders on mobile now matches the custom order you've set in Outlook on your computer or on the web.</releaseNotes>
+		<version>4.2519.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -203,13 +201,16 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>May 12, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/56/cd/9c56cd56-b68d-1ac3-fb24-fb5f0c2195ba/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/f9/e8/f7f9e873-a03a-c725-264f-04764a0fd8e8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
-• Bug fixes, stability and performance improvements.
-Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
-		<version>136.3240.71</version>
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release: 
+• Copilot video summary: Get quick, AI-powered summaries of videos while you watch. 
+• Fluid Copilot Experience: Enjoy a smoother, more immersive Copilot experience in a collapsible overlay, keeping you in context while browsing! 
+• iPad Copilot in Side Panel: Access Copilot in a sleek side panel while remaining in your workflow. 
+• Bug fixes, stability, and performance improvements. 
+Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
+		<version>136.3240.77</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

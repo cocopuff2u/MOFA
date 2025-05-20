@@ -1,21 +1,21 @@
-last_updated: May 20, 2025 02:09 PM EDT
+last_updated: May 20, 2025 03:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: May 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/ba/88/74ba8825-66ab-fe18-a56f-4be53ec313ef/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/96/9c/d9969c7e-7fe3-a046-aa50-da785ce314ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.97'
+    version: 2.97.1
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: May 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/e9/80/bde980da-c32d-2c78-5e87-baa33de5c6bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/cd/c3/bbcdc3cc-c7c3-f55f-b456-3632e9417352/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.97'
+    version: 2.97.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -157,12 +157,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: May 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/3c/0c/093c0cc4-fe89-766d-8100-ecbc59c64db1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f6/60/6af660ba-5b76-93bd-5b6a-e3f3e3702c50/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: We've improved the stability of Viva Engage in this release. We
-      hope you enjoy it!
-    version: 10.100.0
+    releaseNotes: This update includes stability enhancements and bug fixes to improve
+      your overall experience.
+    version: 10.101.0
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard
@@ -174,18 +174,13 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/f9/e8/f7f9e873-a03a-c725-264f-04764a0fd8e8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/56/cd/9c56cd56-b68d-1ac3-fb24-fb5f0c2195ba/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
-      \ \n\u2022 Copilot video summary: Get quick, AI-powered summaries of videos\
-      \ while you watch. \n\u2022 Fluid Copilot Experience: Enjoy a smoother, more\
-      \ immersive Copilot experience in a collapsible overlay, keeping you in context\
-      \ while browsing! \n\u2022 iPad Copilot in Side Panel: Access Copilot in a sleek\
-      \ side panel while remaining in your workflow. \n\u2022 Bug fixes, stability,\
-      \ and performance improvements. \nUpgrade to the latest version and enjoy a\
-      \ smarter, more efficient Microsoft Edge!"
-    version: 136.3240.77
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
+      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
+      \ version and enjoy a smarter and more efficient Microsoft Edge!"
+    version: 136.3240.71
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
@@ -198,11 +193,11 @@ packages:
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile
-    currentVersionReleaseDate: May 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/0d/8e/ee0d8e99-4d48-f194-df0b-000ddb565db8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/62/bc/1762bc83-c2b2-4bfe-81bb-f3ddce5c8b06/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements.
-    version: 1.17.6
+    version: 1.17.7
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure
@@ -226,11 +221,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: May 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/bc/567fbc61-70f1-bd16-c72e-2f5eeae4114f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/2a/60/fe2a60d8-3913-a859-7727-b63b454765b9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.8.1
+    version: 7.8.2
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
@@ -327,11 +322,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/c4/68/8ac46841-23b2-6c32-46a6-458f28925beb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/02/6a/88026a7f-917d-5c25-f901-414a899c03e6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.97.1
+    version: '2.97'
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

@@ -1,13 +1,13 @@
-last_updated: May 20, 2025 10:06 AM EDT
+last_updated: May 20, 2025 11:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: May 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/ba/88/74ba8825-66ab-fe18-a56f-4be53ec313ef/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/96/9c/d9969c7e-7fe3-a046-aa50-da785ce314ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.97'
+    version: 2.97.1
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
@@ -190,11 +190,11 @@ packages:
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile
-    currentVersionReleaseDate: May 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/0d/8e/ee0d8e99-4d48-f194-df0b-000ddb565db8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/62/bc/1762bc83-c2b2-4bfe-81bb-f3ddce5c8b06/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements.
-    version: 1.17.6
+    version: 1.17.7
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure

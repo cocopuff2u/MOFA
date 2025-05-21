@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 21, 2025 04:09 AM EDT</last_updated>
+	<last_updated>May 21, 2025 05:07 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,24 +35,11 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/46/73/ef4673e7-a2ac-fadd-38b2-3c4ee90a4628/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 20, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/df/9e/cfdf9ef8-f93c-738a-78bd-f5b24a670868/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Resolved Issues:
-• Mail: Fixed an issue where contact card details weren't loading when clicking on a contact's name.
-• Mail: Fixed an issue where emails are not grouped in conversation in legacy Outlook client.
-• Mail: Fixed an issue in Outlook where the draft email window would unexpectedly disappear while typing in the body.
-• Calendar: Fixed an issue in Outlook where the calendar sidebar selection was not retained after closing the application using the traffic light.
-
-Feature Updates:
-• Attachment: Allow users to download a link and attach it as a local attachment.
-• Attachment: Allow users to upload large-size files to OneDrive and attach them as links.
-• Signatures: You can now deploy managed preferences to disable the default signature. Details available here.
-• Copilot Summarise default language has been updated to use the content language of the conversation. User has an option in the summarise card to switch to UI language if required.
-• Themes by Copilot: enable users to personalise their Outlook app with AI-generated themes that are unique to them, based on their favourite styles and contexts.
-• Mail: Sort by categories allows users to organise and view emails based on categories, making it easier to locate and manage related emails efficiently.
-• Contacts: A new unified experience of Contacts with Teams is now available.</releaseNotes>
-		<version>16.97</version>
+		<releaseNotes>• Calendar: Fixed an issue that prevents users from creating a new event using the 'Create new event' button on the My Day/Calendar Peek page for OnPrem accounts.</releaseNotes>
+		<version>16.97.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
@@ -83,21 +70,18 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>April 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d8/9b/aad89b19-626e-a8ce-c0f5-11d120712c95/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 20, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/69/77/0d6977ab-392a-b2f6-4471-7404ccbe85eb/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates:
+		<releaseNotes>In this release we made some bug fixes and included the following updates:
 
-• Fixed slurred audio that was being rendered when using Teams optimizations.
-• Added a connecting/connected state indicator to workspace headers.
-• Fixed some bad code that was corrupting app icons displayed in workspaces.
-• Added the ability to switch between remote apps from the Window menu and Dock icon.
-• Improved threading for the graphics decoder to improve performance.
-• Resolved z-order issues between remote apps and local windows.
-• Fixed a bug that caused incorrect mouse coordinates to be sent if the session window was resized while reconnecting.
+• Improved AVC codec support to ensure session graphics are rendered faster with no mispaints.
+• Added a user default (&quot;ClientSettings.RequireFreshCredentials&quot;) to block credential saving and usage.
+• Added smart tip notifications that provide contextual usage hints (can be enabled or disabled in Settings &gt; General).
+• Improved multiple monitor support for remote sessions.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.1.5</version>
+		<version>11.1.6</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

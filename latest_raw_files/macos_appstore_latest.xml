@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 20, 2025 09:34 PM EDT</last_updated>
+	<last_updated>May 20, 2025 10:36 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/c5/ca/23c5ca86-e5b9-0dbb-926a-9225b8e5ec43/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 20, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/bb/02/75bb02dd-22c2-0b74-960c-6fef4bd9301d/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.97</version>
+		<releaseNotes>Fixes an issue where 3rd party add-ins may trigger an error when opening files.</releaseNotes>
+		<version>16.97.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
@@ -35,24 +35,11 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/46/73/ef4673e7-a2ac-fadd-38b2-3c4ee90a4628/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 20, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/df/9e/cfdf9ef8-f93c-738a-78bd-f5b24a670868/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Resolved Issues:
-• Mail: Fixed an issue where contact card details weren't loading when clicking on a contact's name.
-• Mail: Fixed an issue where emails are not grouped in conversation in legacy Outlook client.
-• Mail: Fixed an issue in Outlook where the draft email window would unexpectedly disappear while typing in the body.
-• Calendar: Fixed an issue in Outlook where the calendar sidebar selection was not retained after closing the application using the traffic light.
-
-Feature Updates:
-• Attachment: Allow users to download a link and attach it as a local attachment.
-• Attachment: Allow users to upload large-size files to OneDrive and attach them as links.
-• Signatures: You can now deploy managed preferences to disable the default signature. Details available here.
-• Copilot Summarise default language has been updated to use the content language of the conversation. User has an option in the summarise card to switch to UI language if required.
-• Themes by Copilot: enable users to personalise their Outlook app with AI-generated themes that are unique to them, based on their favourite styles and contexts.
-• Mail: Sort by categories allows users to organise and view emails based on categories, making it easier to locate and manage related emails efficiently.
-• Contacts: A new unified experience of Contacts with Teams is now available.</releaseNotes>
-		<version>16.97</version>
+		<releaseNotes>• Calendar: Fixed an issue that prevents users from creating a new event using the 'Create new event' button on the My Day/Calendar Peek page for OnPrem accounts.</releaseNotes>
+		<version>16.97.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

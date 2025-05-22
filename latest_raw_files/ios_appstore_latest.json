@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 21, 2025 08:29 PM EDT",
+    "last_updated": "May 21, 2025 09:34 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -75,11 +75,11 @@
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "May 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/d1/2c/b9d12c8f-43c4-1ab4-2513-64b11cc7ef32/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 21, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/93/89/f493896a-fa18-982f-7d13-1759a61f8c88/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and improvements",
-            "version": "1.1.64230101"
+            "version": "1.1.65130101"
         },
         {
             "name": "iOS Microsoft Copilot",
@@ -265,11 +265,11 @@
             "name": "iOS Microsoft Authenticator",
             "application_name": "Microsoft Authenticator",
             "bundleId": "com.microsoft.azureauthenticator",
-            "currentVersionReleaseDate": "May 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/38/4d/96384d0f-b684-c972-c304-7b136092a811/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 21, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/7d/94/5c7d949c-ada8-20da-c975-127428965cfe/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
-            "version": "6.8.25"
+            "version": "6.8.26"
         },
         {
             "name": "iOS Microsoft Advertising",

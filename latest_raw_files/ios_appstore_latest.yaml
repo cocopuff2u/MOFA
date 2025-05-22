@@ -1,4 +1,4 @@
-last_updated: May 22, 2025 02:08 PM EDT
+last_updated: May 22, 2025 03:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -116,8 +116,8 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/19/50/46195001-baa7-479d-639c-280d54f50ab5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/b3/06/b1b30683-085e-3126-9626-74f0a216fde1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "This release brings major improvements to the WooCommerce Point\
       \ of Sale (POS) experience, including the ability to search for products and\
@@ -126,7 +126,7 @@ packages:
       \ Enhancements to the order form now make entering custom amounts more intuitive.\
       \ Behind the scenes, we\u2019ve made fixes to improve app stability and refined\
       \ the POS interface for better usability."
-    version: '22.3'
+    version: 22.3.1
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
@@ -257,13 +257,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: May 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/38/4d/96384d0f-b684-c972-c304-7b136092a811/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/7d/94/5c7d949c-ada8-20da-c975-127428965cfe/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
       improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.25
+    version: 6.8.26
   - name: iOS Microsoft Advertising
     application_name: Microsoft Advertising
     bundleId: com.microsoft.bingadsmobile

@@ -1,4 +1,4 @@
-last_updated: May 23, 2025 09:34 PM EDT
+last_updated: May 23, 2025 10:33 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -224,11 +224,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: May 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/20/25/a420250a-c5db-8585-7bdf-3422461a0dd3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/2a/60/fe2a60d8-3913-a859-7727-b63b454765b9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.9.0
+    version: 7.8.2
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
@@ -325,11 +325,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: May 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/f4/63/11f463d9-13f3-c345-c6b4-0f9cc8c34a3b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/c4/68/8ac46841-23b2-6c32-46a6-458f28925beb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.97.2
+    version: 2.97.1
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

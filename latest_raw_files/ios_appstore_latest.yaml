@@ -1,4 +1,4 @@
-last_updated: May 26, 2025 07:06 PM EDT
+last_updated: May 26, 2025 08:28 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -11,11 +11,11 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/cd/c3/bbcdc3cc-c7c3-f55f-b456-3632e9417352/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/59/62/bf59624c-1dc4-7165-6eef-030c3f6d0935/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.97.1
+    version: 2.97.2
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -83,18 +83,13 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/f9/e8/f7f9e873-a03a-c725-264f-04764a0fd8e8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/f8/45/0df845ae-b967-49fb-b1ee-f3de3b39c9f4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\
-      \ \n\u2022 Copilot video summary: Get quick, AI-powered summaries of videos\
-      \ while you watch. \n\u2022 Fluid Copilot Experience: Enjoy a smoother, more\
-      \ immersive Copilot experience in a collapsible overlay, keeping you in context\
-      \ while browsing! \n\u2022 iPad Copilot in Side Panel: Access Copilot in a sleek\
-      \ side panel while remaining in your workflow. \n\u2022 Bug fixes, stability,\
-      \ and performance improvements. \nUpgrade to the latest version and enjoy a\
-      \ smarter, more efficient Microsoft Edge!"
-    version: 136.3240.77
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
+      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
+      \ version and enjoy a smarter and more efficient Microsoft Edge!"
+    version: 136.3240.91
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop

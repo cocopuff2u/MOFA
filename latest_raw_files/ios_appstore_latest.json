@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 27, 2025 03:08 PM EDT",
+    "last_updated": "May 27, 2025 04:07 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "May 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/85/02/3d850221-af5e-dc93-16b2-c95ba3aa857b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/be/af/78beafe0-5518-269d-a3f7-75fd626679a3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "What\u2019s New* \nWe\u2019ve added a splash of color and fixed a whole lot of bugs. Some highlights include:\n \nNew\n- Colored Folders: Now you can view those colored folders you set on your PC wherever you are. Personalize your workspace and find what you need faster\n\nFixed & Improved\n- Dates now display correctly in OneUp view and File Details\n- Moving or scanning into Photos folders from Files now works as expected\n- TIFF file previews are now crisp and clear\n- Thumbnail loading is faster and more efficient\n- Share link handling for business users has been improved\n\nThanks for using OneDrive! We\u2019re always working to improve your experience. If you run into any issues, just shake your device and tap \u201cSend Feedback.\u201d\n\n*These notes were generated using Copilot",
-            "version": "16.13.4"
+            "releaseNotes": "This update contains bug fixes and stability improvements.",
+            "version": "16.14.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -155,11 +155,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "May 19, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f6/60/6af660ba-5b76-93bd-5b6a-e3f3e3702c50/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/74/89/d174895d-a005-5986-f68a-36277a9d65a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "10.101.0"
+            "version": "10.102.0"
         },
         {
             "name": "iOS Microsoft Whiteboard",
@@ -345,11 +345,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "May 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/f4/63/11f463d9-13f3-c345-c6b4-0f9cc8c34a3b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/98/83/5398834b-563c-bdc9-44b1-b6602a770c77/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.97.2"
+            "version": "2.97.3"
         },
         {
             "name": "iOS Microsoft Skype for Business",

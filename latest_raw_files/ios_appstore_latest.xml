@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 27, 2025 04:07 PM EDT</last_updated>
+	<last_updated>May 27, 2025 05:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -60,11 +60,26 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/be/af/78beafe0-5518-269d-a3f7-75fd626679a3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/85/02/3d850221-af5e-dc93-16b2-c95ba3aa857b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>16.14.3</version>
+		<releaseNotes>What’s New* 
+We’ve added a splash of color and fixed a whole lot of bugs. Some highlights include:
+ 
+New
+- Colored Folders: Now you can view those colored folders you set on your PC wherever you are. Personalize your workspace and find what you need faster
+
+Fixed &amp; Improved
+- Dates now display correctly in OneUp view and File Details
+- Moving or scanning into Photos folders from Files now works as expected
+- TIFF file previews are now crisp and clear
+- Thumbnail loading is faster and more efficient
+- Share link handling for business users has been improved
+
+Thanks for using OneDrive! We’re always working to improve your experience. If you run into any issues, just shake your device and tap “Send Feedback.”
+
+*These notes were generated using Copilot</releaseNotes>
+		<version>16.13.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
@@ -163,11 +178,11 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/74/89/d174895d-a005-5986-f68a-36277a9d65a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f6/60/6af660ba-5b76-93bd-5b6a-e3f3e3702c50/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>10.102.0</version>
+		<version>10.101.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>
@@ -357,11 +372,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft 365 Office</name>
 		<application_name>Microsoft 365 Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/98/83/5398834b-563c-bdc9-44b1-b6602a770c77/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/f4/63/11f463d9-13f3-c345-c6b4-0f9cc8c34a3b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.97.3</version>
+		<version>2.97.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

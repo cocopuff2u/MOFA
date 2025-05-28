@@ -1,4 +1,4 @@
-last_updated: May 28, 2025 03:05 PM EDT
+last_updated: May 28, 2025 04:07 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -186,16 +186,16 @@ packages:
   application_id: MSRD10
   application_name: Windows App.app
   CFBundleVersion: com.microsoft.windows.app
-  short_version: 11.1.6
-  full_version: '2605'
-  last_updated: May 18, 2025
+  short_version: 11.1.7
+  full_version: '2622'
+  last_updated: May 28, 2025
   min_os: '12.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.6_updater.pkg
-  app_update_sha1: a5789dd0c05d5ce3d42bffb5fafb0e91805ffe44
-  app_update_sha256: c9f64798b0bef8dc12bb97ed362d87f005757e1aa3f53dc87f44e626fda19a20
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.1.7_updater.pkg
+  app_update_sha1: cb680c81d0c37ec069b7d4dbf076f94bc34d248f
+  app_update_sha256: 2d47c0301aaed827007736aae301e9ce4d210601b968faed5003d900beb6954f
   full_update_download: https://go.microsoft.com/fwlink/?linkid=868963
-  full_update_sha1: 5200869b39c19b34bd170eefcc6e673371dd5683
-  full_update_sha256: af163e136d9d9021d743a064114f100f11c31416dfb6ad2d46b430951f346381
+  full_update_sha1: b19102053a39f1f20d4a236fe5283f29b1078469
+  full_update_sha256: 65dd3cb5273c33303e61f06a5b2d0d8422589c8d7066f3d670291824a6f8e0da
 - name: Visual
   application_id: N/A
   application_name: Visual Studio Code.app

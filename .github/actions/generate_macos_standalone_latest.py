@@ -215,22 +215,22 @@ apps = {
             "min_os": "Minimum OS Version"
         }
     },
-    "Edge": {
-        "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409EDGE01.xml",
-        "manual_entries": {
-            "CFBundleVersion": "com.microsoft.edgemac",
-            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2093504",
-            "application_name": "Microsoft Edge.app",
-        },
-        "keys": {
-            "application_id": "Application ID",
-            "short_version": "Title",
-            "full_version": "Update Version",
-            "app_only_update_download": "Location",
-            "last_updated": "Date",
-            "min_os": "Minimum OS"
-        }
-    },
+    # "Edge": { ######## MOVED OVER TO ITS OWN FILE MACOS_STANDALONE_EDGE_LATEST.* ########
+    #     "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409EDGE01.xml",
+    #     "manual_entries": {
+    #         "CFBundleVersion": "com.microsoft.edgemac",
+    #         "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2093504",
+    #         "application_name": "Microsoft Edge.app",
+    #     },
+    #     "keys": {
+    #         "application_id": "Application ID",
+    #         "short_version": "Title",
+    #         "full_version": "Update Version",
+    #         "app_only_update_download": "Location",
+    #         "last_updated": "Date",
+    #         "min_os": "Minimum OS"
+    #     }
+    # },
     "Defender For Endpoint": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409WDAV00.xml",
         "manual_entries": {

@@ -1,2 +1,3 @@
 
 .DS_Store
+.github/actions/generate_edge_all.py

@@ -123,6 +123,46 @@ def parse_onedrive_xml(file_path):
             "full_update_sha256": "Unknown"
         }
 
+def parse_edge_xml(file_path):
+    """
+    Parse the Edge XML file and extract details for the 'current' version.
+    """
+    logging.info(f"Parsing Edge XML file: {file_path}")
+
+    try:
+        # Parse the XML file
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+        logging.debug("Edge XML file parsed successfully")
+
+        # Extract the 'current' version details
+        current_version = None
+        for version in root.findall("Version"):
+            if version.find("Name").text.strip().lower() == "current":
+                current_version = {
+                    "name": "Microsoft Edge",
+                    "short_version": version.find("Version").text.strip(),
+                    "application_id": version.find("Application_ID").text.strip(),
+                    "application_name": version.find("Application_Name").text.strip(),
+                    "cfbundle_id": version.find("CFBundleVersion").text.strip(),
+                    "full_update_download": version.find("Full_Update_Download").text.strip(),
+                    "full_update_sha1": version.find("Full_Update_Sha1").text.strip(),
+                    "full_update_sha256": version.find("Full_Update_Sha256").text.strip(),
+                    "last_updated": version.find("Last_Update").text.strip(),
+                }
+                break
+
+        if current_version:
+            logging.info("Edge 'current' version details extracted successfully")
+            return current_version
+        else:
+            logging.warning("No 'current' version found in Edge XML")
+            return None
+
+    except Exception as e:
+        logging.error(f"Error parsing Edge XML: {e}")
+        return None
+
 def get_onedrive_package_detail(onedrive_data, ring_name, detail):
     """
     Get a specific detail from a specific OneDrive package/ring.
@@ -261,7 +301,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Teams Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Teams', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Teams', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Teams', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.teams2` | <a href="https://go.microsoft.com/fwlink/?linkid=2249065"><img src=".github/images/teams_512x512x32.png" alt="Download Image" width="80"></a> |
 | **InTune Company Portal Standalone Installer**<br><a href="https://aka.ms/intuneupdates" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Intune', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Intune', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Intune', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.CompanyPortalMac` | <a href="https://go.microsoft.com/fwlink/?linkid=853070"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> |
 | **InTune Company Portal App Only Installer**<br><a href="https://aka.ms/intuneupdates" style="text-decoration: none;"><small>_Release Notes_</small></a> <sub>_(Does Not Contain MAU)_</sub><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Intune', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Intune', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Intune', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.CompanyPortalMac` | <a href="{get_standalone_package_detail(packages, 'Intune', 'app_only_update_download')}"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> |
-| **Edge Standalone Installer** <sup>_(Stable Channel)_</sup><br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Edge', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Edge', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Edge', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.edgemac` | <a href="https://go.microsoft.com/fwlink/?linkid=2093504"><img src=".github/images/edge_app.png" alt="Download Image" width="80"></a>|
+| **Edge** <sup>_(Current Channel)_</sup><br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Edge', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Edge', 'short_version')}`<br><br>**Min OS:**<br>`11.0`<br><br>**CFBundle ID:**<br>`com.microsoft.edgemac` | <a href="https://go.microsoft.com/fwlink/?linkid=2093504"><img src=".github/images/edge_app.png" alt="Download Image" width="80"></a>|
 | **Defender for Endpoint Installer**<br><a href="https://learn.microsoft.com/microsoft-365/security/defender-endpoint/mac-whatsnew" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Defender For Endpoint', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Defender For Endpoint', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Defender For Endpoint', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.wdav` | <a href="https://go.microsoft.com/fwlink/?linkid=2097502"><img src=".github/images/defender_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Defender for Consumers Installer**<br><a href="https://learn.microsoft.com/microsoft-365/security/defender-endpoint/mac-whatsnew" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Defender For Consumers', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Defender For Consumers', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Defender For Consumers', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.wdav` | <a href="https://go.microsoft.com/fwlink/?linkid=2247001"><img src=".github/images/defender_512x512x32.png" alt="Download Image" width="80"></a> |
 | **Defender SHIM Installer**<br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Defender Shim', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Defender Shim', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Defender Shim', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.wdav.shim` | <a href="{get_standalone_package_detail(packages, 'Defender Shim', 'app_only_update_download')}"><img src=".github/images/defender_512x512x32.png" alt="Download Image" width="80"></a> |
@@ -457,6 +497,7 @@ if __name__ == "__main__":
     ios_appstore_xml_path = "latest_raw_files/ios_appstore_latest.xml"
     macos_appstore_xml_path = "latest_raw_files/macos_appstore_latest.xml"
     onedrive_xml_path = "latest_raw_files/macos_standalone_onedrive_all.xml"
+    edge_xml_path = "latest_raw_files/macos_standalone_edge_all.xml"  # Update this path if the file is located elsewhere
     readme_file_path = "README.md"
 
     # Parse the XML and generate content
@@ -470,6 +511,11 @@ if __name__ == "__main__":
     # Update the OneDrive package information with data from the specific XML
     packages["onedrive"] = onedrive_data
     
+    # Parse Edge XML
+    edge_data = parse_edge_xml(edge_xml_path)
+    if edge_data:
+        packages["edge"] = edge_data
+
     # Merge packages
     packages.update(ios_packages)
     packages.update(macos_packages)

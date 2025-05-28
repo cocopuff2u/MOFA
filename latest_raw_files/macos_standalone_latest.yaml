@@ -1,4 +1,4 @@
-last_updated: May 28, 2025 07:05 AM EDT
+last_updated: May 28, 2025 08:11 AM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -140,20 +140,6 @@ packages:
   full_update_download: https://go.microsoft.com/fwlink/?linkid=853070
   full_update_sha1: a20c799341f30556bb12cd7e28ae7734949ad5da
   full_update_sha256: 931db4af2fe6320a1bfb6776fae75b6f7280a947203a5a622b2cae00e8f6b6e6
-- name: Edge
-  application_id: EDGE01
-  application_name: Microsoft Edge.app
-  CFBundleVersion: com.microsoft.edgemac
-  short_version: 134.0.3124.51
-  full_version: 134.3124.25030551
-  last_updated: March 05, 2025
-  min_os: '11.0'
-  app_only_update_download: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-134.0.3124.51.pkg
-  app_update_sha1: 85d10b2ba411bc62513ead7c6cc4dde3b66ad2a1
-  app_update_sha256: c6f0e912f0c98cfdbaf63812bbeb831f3ab003c99c9de4882ddee75a0ce64559
-  full_update_download: https://go.microsoft.com/fwlink/?linkid=2093504
-  full_update_sha1: 5ccddf4fcbc49b3a2b6b49d53658b0e627f86a25
-  full_update_sha256: 7bb07e3722866a4b5e44f0efe42c204a72105cbcfd3abe96811d6f00d08e8a61
 - name: Defender For Endpoint
   application_id: WDAV00
   application_name: Microsoft Defender.app

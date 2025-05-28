@@ -1,45 +1,45 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 28, 2025 01:07 AM EDT</last_updated>
+	<last_updated>May 28, 2025 02:09 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>May 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/bb/02/75bb02dd-22c2-0b74-960c-6fef4bd9301d/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/7a/5b/227a5be8-8fda-c996-ab5a-d2fdc3690d8e/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Fixes an issue where 3rd party add-ins may trigger an error when opening files.</releaseNotes>
-		<version>16.97.1</version>
+		<releaseNotes>Fix support for connected services when turning off the Download Content privacy setting.</releaseNotes>
+		<version>16.97.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/86/68/b98668e1-0f91-023c-5942-6f505c6c4ecb/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/80/9c/66809cd6-5554-64e1-3d6c-da9c3d97e7bc/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Copilot advanced text analysis in Excel: Copilot can now analyze text by identifying themes or sentiments, cite examples in the data, and insert a column with theme/sentiment labels.</releaseNotes>
-		<version>16.97</version>
+		<releaseNotes>Fix support for connected services when turning off the Download Content privacy setting.</releaseNotes>
+		<version>16.97.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>May 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/92/70/f8927097-c011-dc1d-df96-7add160a5fe3/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/05/1b/96051bf4-1fa6-21fe-b018-06095fa5b957/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Get suggestions from Copilot as you work: Introducing structured content suggestions for slides while creating in PowerPoint. Insert a new slide, choose a slide from the Design Suggestions pane and add in your own content.</releaseNotes>
-		<version>16.97</version>
+		<releaseNotes>Fix support for connected services when turning off the Download Content privacy setting.</releaseNotes>
+		<version>16.97.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>May 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/df/9e/cfdf9ef8-f93c-738a-78bd-f5b24a670868/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/9e/f8/269ef80b-2e7d-7fc6-4851-71350d17f4d7/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Calendar: Fixed an issue that prevents users from creating a new event using the 'Create new event' button on the My Day/Calendar Peek page for OnPrem accounts.</releaseNotes>
-		<version>16.97.1</version>
+		<releaseNotes>• Quality and performance improvements</releaseNotes>
+		<version>16.97.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

@@ -158,6 +158,23 @@ jobs:
           git commit -m "Auto updating macOS standalone beta XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
+      - name: Run update script for Edge XML
+        continue-on-error: true
+        run: |
+          python3 .github/actions/generate_edge_all.py
+          git add latest_raw_files/macos_standalone_edge_all.xml latest_raw_files/macos_standalone_edge_all.yaml latest_raw_files/macos_standalone_edge_all.json
+
+      - name: Commit changes for macOS Edge All (if any)
+        continue-on-error: true
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'cocopuff2u'
+          git config --global user.email 'cocopuff2u@yahoo.com'
+          git add latest_raw_files/macos_standalone_edge_all.xml latest_raw_files/macos_standalone_edge_all.yaml latest_raw_files/macos_standalone_edge_all.json
+          git commit -m "Auto updating macOS standalone beta XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
       - name: Run update script for README
         run: |
           python3 .github/actions/update_readme.py

@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 28, 2025 04:07 PM EDT",
+    "last_updated": "May 28, 2025 04:45 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -14,8 +14,8 @@
             "app_update_sha1": "N/A",
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525133",
-            "full_update_sha1": "67edc3562628cbef77fc81298b4d2a93a08b148e",
-            "full_update_sha256": "dcb0ff36701a198dbee7132ab01b2bb5ddb578c2a56d51c0e20b36b9bae7b052"
+            "full_update_sha1": "cbd496b41e77c0c0b708a580362b00d45f30d72d",
+            "full_update_sha256": "f6be333273757487ef5394c1a154126396389f5312d3e266197143d4a69edbeb"
         },
         {
             "name": "Microsoft BusinessPro Suite",
@@ -30,8 +30,8 @@
             "app_update_sha1": "N/A",
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
-            "full_update_sha1": "48b576cc8d55501cab3ad035b6c0ebf88fa13ce7",
-            "full_update_sha256": "cd1ab6e24e9c0c41b22a21f1bfeb9fc29f7cd69853c5f83dc9858463ea980456"
+            "full_update_sha1": "466e56a303eb3268b771086ae5cd87c1e2e83f47",
+            "full_update_sha256": "e5e6576246f1de52525b8e04bd5da241db5b069d29702945ef5eef0de62f6f20"
         },
         {
             "name": "Word",
@@ -94,8 +94,8 @@
             "app_update_sha1": "c5b7561db7cd5adce49e3aa918683a6066c969bc",
             "app_update_sha256": "6f82a6dede6f8cbd18a9cc2a6716e24cb6030b3a506e67fde722a3d6cc8a52ce",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2228621",
-            "full_update_sha1": "dd92f403905defc73ecce0506f3a80b5eefc3a9d",
-            "full_update_sha256": "913d9b895a5d2bc99b62be82a800b526e654e5d985c8995aa53ba1723d5ef15b"
+            "full_update_sha1": "f1d3ada6c8ba266762e45fd9d6c9635c0546089c",
+            "full_update_sha256": "4d75ccde12f923398681328ca3c72d85252e4e13315f0fc956e90e60c713d3fa"
         },
         {
             "name": "OneNote",
@@ -110,8 +110,8 @@
             "app_update_sha1": "e4a6fab6ddf87b4bc4ae84bc3f0944a87c005684",
             "app_update_sha256": "c4657ce8f20c6f624c6a542d0316ef141886d9f527e8f8a2ee2305b70c1be845",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=820886",
-            "full_update_sha1": "ba2b3072c63de28a3856d582aa0cbaf19f8c9f9c",
-            "full_update_sha256": "d6683c68f9a27f24728993e9588e8d3b1c952813b31ff8a1d58f99cf56129b94"
+            "full_update_sha1": "e4a6fab6ddf87b4bc4ae84bc3f0944a87c005684",
+            "full_update_sha256": "c4657ce8f20c6f624c6a542d0316ef141886d9f527e8f8a2ee2305b70c1be845"
         },
         {
             "name": "Skype",
@@ -142,8 +142,8 @@
             "app_update_sha1": "cfb06612c1955fdae9abccd3c2e88a8d50d453be",
             "app_update_sha256": "9e130cb1c3ff7d14404a14f4fd781eaaceb0b03f706382cf95c9e3927c2a614a",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2249065",
-            "full_update_sha1": "0878f41031a532dae512068c2859a528b3144782",
-            "full_update_sha256": "e68d8220a4e89b27224baaa73c505ae4a1b2ebd32a07bf04e05fb3e361367b10"
+            "full_update_sha1": "cfb06612c1955fdae9abccd3c2e88a8d50d453be",
+            "full_update_sha256": "9e130cb1c3ff7d14404a14f4fd781eaaceb0b03f706382cf95c9e3927c2a614a"
         },
         {
             "name": "Intune",
@@ -254,8 +254,8 @@
             "app_update_sha1": "b899c20c3cab09cd72c3e204b0335fc81023d823",
             "app_update_sha256": "5e4cac055805c69bbc670b1188820d78bc33119bf66c2e81f2fe4c2710749b6c",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=830196",
-            "full_update_sha1": "c1e02e0c916fa4ab2818558192a9da29b70394d5",
-            "full_update_sha256": "8b08471fd5f11adee33c33c8f0b0634f5601218308fb89466a27ed0e66748952"
+            "full_update_sha1": "b899c20c3cab09cd72c3e204b0335fc81023d823",
+            "full_update_sha256": "5e4cac055805c69bbc670b1188820d78bc33119bf66c2e81f2fe4c2710749b6c"
         },
         {
             "name": "Licensing Helper Tool",

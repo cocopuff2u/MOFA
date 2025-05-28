@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 28, 2025 01:07 AM EDT",
+    "last_updated": "May 28, 2025 02:09 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "May 19, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/43/6f/47436fca-e54c-d824-33c6-efba9119e1a5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/96/5b/db965b9c-698c-c7bc-145e-f1a010a5daf5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Now your folders on mobile now matches the custom order you've set in Outlook on your computer or on the web.",
-            "version": "4.2519.0"
+            "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
+            "version": "4.2520.0"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -55,21 +55,21 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "May 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/85/02/3d850221-af5e-dc93-16b2-c95ba3aa857b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/be/af/78beafe0-5518-269d-a3f7-75fd626679a3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "What\u2019s New* \nWe\u2019ve added a splash of color and fixed a whole lot of bugs. Some highlights include:\n \nNew\n- Colored Folders: Now you can view those colored folders you set on your PC wherever you are. Personalize your workspace and find what you need faster\n\nFixed & Improved\n- Dates now display correctly in OneUp view and File Details\n- Moving or scanning into Photos folders from Files now works as expected\n- TIFF file previews are now crisp and clear\n- Thumbnail loading is faster and more efficient\n- Share link handling for business users has been improved\n\nThanks for using OneDrive! We\u2019re always working to improve your experience. If you run into any issues, just shake your device and tap \u201cSend Feedback.\u201d\n\n*These notes were generated using Copilot",
-            "version": "16.13.4"
+            "releaseNotes": "This update contains bug fixes and stability improvements.",
+            "version": "16.14.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Link to Windows",
             "bundleId": "com.microsoft.LinkToWindows",
-            "currentVersionReleaseDate": "April 28, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/c4/3b/7dc43bee-05aa-5db4-4368-4fb0bdaf7630/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/3e/62/d43e6228-9e52-6143-1d28-05af9cb571d4/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.6",
-            "releaseNotes": "Now you can seamlessly share files between your PC and iPhone. You can set up file sharing by linking your iPhone to your Microsoft account.",
-            "version": "1.25032.22"
+            "releaseNotes": "Bug fixes and performance improvements.",
+            "version": "1.25042.21"
         },
         {
             "name": "iOS Microsoft Defender Security",
@@ -155,11 +155,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "May 19, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f6/60/6af660ba-5b76-93bd-5b6a-e3f3e3702c50/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/74/89/d174895d-a005-5986-f68a-36277a9d65a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "10.101.0"
+            "version": "10.102.0"
         },
         {
             "name": "iOS Microsoft Whiteboard",
@@ -255,11 +255,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "May 17, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/16/a1/7c16a12d-0dec-3fc0-2d01-6c58abf02817/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/9a/71/dd9a71d0-baed-3f7b-3ce1-79a8c80ad484/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25051.14"
+            "version": "3.25053.5"
         },
         {
             "name": "iOS Microsoft Authenticator",
@@ -315,11 +315,11 @@
             "name": "iOS Microsoft 365 Admin",
             "application_name": "Microsoft 365 Admin",
             "bundleId": "com.microsoft.o365shdmobileapp",
-            "currentVersionReleaseDate": "April 29, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/0f/8a/8d0f8ae1-c629-de7a-e225-7302e680f5ff/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 28, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/39/cc/9039cced-3fc9-9b80-a91a-3a07661fe311/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This release contains few bug fixes to improve the app reliability.",
-            "version": "5.6.0"
+            "version": "5.6.2"
         },
         {
             "name": "iOS Microsoft Intune Company Portal",
@@ -345,11 +345,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "May 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/f4/63/11f463d9-13f3-c345-c6b4-0f9cc8c34a3b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/98/83/5398834b-563c-bdc9-44b1-b6602a770c77/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.97.2"
+            "version": "2.97.3"
         },
         {
             "name": "iOS Microsoft Skype for Business",

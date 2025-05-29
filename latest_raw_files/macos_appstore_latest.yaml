@@ -1,4 +1,4 @@
-last_updated: May 29, 2025 01:06 PM EDT
+last_updated: May 29, 2025 02:08 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -50,25 +50,27 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: May 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a1/78/ada17882-f345-d66b-87fe-7178d23ce013/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: May 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/6d/1a/d16d1a4f-3eaf-fe4f-974d-01dd93b34293/OneDrive.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 25.085.0504
+    version: 25.080.0427
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: May 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/b1/ad/c4b1ad4f-85e6-fbd5-c821-0dce0d92a915/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 20, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/69/77/0d6977ab-392a-b2f6-4471-7404ccbe85eb/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
     minimumOsVersion: '12.0'
-    releaseNotes: 'This is a quick update to gracefully handle scenarios where the
-      Teams process in the remote session crashes during an optimized Teams call.
-
-
-      If you encounter any errors, you can contact us via Help > Submit Feedback.'
-    version: 11.1.7
+    releaseNotes: "In this release we made some bug fixes and included the following\
+      \ updates:\n\n\u2022 Improved AVC codec support to ensure session graphics are\
+      \ rendered faster with no mispaints.\n\u2022 Added a user default (\"ClientSettings.RequireFreshCredentials\"\
+      ) to block credential saving and usage.\n\u2022 Added smart tip notifications\
+      \ that provide contextual usage hints (can be enabled or disabled in Settings\
+      \ > General).\n\u2022 Improved multiple monitor support for remote sessions.\n\
+      \nIf you encounter any errors, you can contact us via Help > Submit Feedback."
+    version: 11.1.6
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac

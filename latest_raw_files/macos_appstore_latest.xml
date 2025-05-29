@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 29, 2025 12:10 AM EDT</last_updated>
+	<last_updated>May 29, 2025 01:07 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,11 +35,11 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>May 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/df/9e/cfdf9ef8-f93c-738a-78bd-f5b24a670868/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/9e/f8/269ef80b-2e7d-7fc6-4851-71350d17f4d7/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Calendar: Fixed an issue that prevents users from creating a new event using the 'Create new event' button on the My Day/Calendar Peek page for OnPrem accounts.</releaseNotes>
-		<version>16.97.1</version>
+		<releaseNotes>• Quality and performance improvements</releaseNotes>
+		<version>16.97.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
@@ -70,18 +70,13 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>May 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/69/77/0d6977ab-392a-b2f6-4471-7404ccbe85eb/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/b1/ad/c4b1ad4f-85e6-fbd5-c821-0dce0d92a915/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>In this release we made some bug fixes and included the following updates:
-
-• Improved AVC codec support to ensure session graphics are rendered faster with no mispaints.
-• Added a user default (&quot;ClientSettings.RequireFreshCredentials&quot;) to block credential saving and usage.
-• Added smart tip notifications that provide contextual usage hints (can be enabled or disabled in Settings &gt; General).
-• Improved multiple monitor support for remote sessions.
+		<releaseNotes>This is a quick update to gracefully handle scenarios where the Teams process in the remote session crashes during an optimized Teams call.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.1.6</version>
+		<version>11.1.7</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

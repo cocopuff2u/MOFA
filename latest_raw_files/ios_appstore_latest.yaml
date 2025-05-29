@@ -1,4 +1,4 @@
-last_updated: May 29, 2025 01:06 PM EDT
+last_updated: May 29, 2025 02:08 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -185,15 +185,15 @@ packages:
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure
-    currentVersionReleaseDate: May 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/00/57/43005754-17f5-e071-110f-2d42fd15183b/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/7f/ef/f47fef2f-e921-6a3f-7949-725eac122027/AppIcons-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: 'Thank you for using the Azure app. Our regular updates include
       performance improvements and bug fixes to make the app faster and more reliable.
 
 
       Please reach out to us for any questions, concerns, or feature requests.'
-    version: 7.5.4
+    version: 7.4.0
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
@@ -205,11 +205,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: May 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/91/5a/a4915aff-6968-b70e-2d97-848b7831db20/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/20/25/a420250a-c5db-8585-7bdf-3422461a0dd3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.9.1
+    version: 7.9.0
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint

@@ -1,6 +1,6 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "May 29, 2025 10:07 AM EDT",
+        "last_updated": "May 29, 2025 02:11 PM EDT",
         "Version": [
             {
                 "Name": "current",
@@ -37,14 +37,14 @@
             },
             {
                 "Name": "beta",
-                "Version": "137.0.3296.50",
+                "Version": "137.0.3296.52",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a314a836-4722-4662-b728-5d08a8756822/MicrosoftEdgeBeta-137.0.3296.50.pkg",
-                "Full_Update_Sha1": "0eca3e9ea4d30c7abb4c771fa39defcfbedbe540",
-                "Full_Update_Sha256": "7bb66a35f12cdc9a5aad779f0f531efde78510d344b29b7368f740da105d8a9b",
-                "Last_Update": "May 28, 2025 03:27 PM EDT"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0799ee88-672a-4f6d-9b35-1f9266861b0a/MicrosoftEdgeBeta-137.0.3296.52.pkg",
+                "Full_Update_Sha1": "1f5586734d61b7b17488827eee8fb018119034db",
+                "Full_Update_Sha256": "8a7b0895b258f4f22f59f09687aae9df6f1406f67558e0185926c79d2e050f2a",
+                "Last_Update": "May 29, 2025 01:28 PM EDT"
             }
         ]
     }

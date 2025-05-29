@@ -1,4 +1,4 @@
-last_updated: May 28, 2025 10:36 PM EDT
+last_updated: May 28, 2025 11:26 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -50,19 +50,30 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: May 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/be/af/78beafe0-5518-269d-a3f7-75fd626679a3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/85/02/3d850221-af5e-dc93-16b2-c95ba3aa857b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: This update contains bug fixes and stability improvements.
-    version: 16.14.3
+    releaseNotes: "What\u2019s New* \nWe\u2019ve added a splash of color and fixed\
+      \ a whole lot of bugs. Some highlights include:\n \nNew\n- Colored Folders:\
+      \ Now you can view those colored folders you set on your PC wherever you are.\
+      \ Personalize your workspace and find what you need faster\n\nFixed & Improved\n\
+      - Dates now display correctly in OneUp view and File Details\n- Moving or scanning\
+      \ into Photos folders from Files now works as expected\n- TIFF file previews\
+      \ are now crisp and clear\n- Thumbnail loading is faster and more efficient\n\
+      - Share link handling for business users has been improved\n\nThanks for using\
+      \ OneDrive! We\u2019re always working to improve your experience. If you run\
+      \ into any issues, just shake your device and tap \u201CSend Feedback.\u201D\
+      \n\n*These notes were generated using Copilot"
+    version: 16.13.4
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows
-    currentVersionReleaseDate: May 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/3e/62/d43e6228-9e52-6143-1d28-05af9cb571d4/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/c4/3b/7dc43bee-05aa-5db4-4368-4fb0bdaf7630/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.6'
-    releaseNotes: Bug fixes and performance improvements.
-    version: 1.25042.21
+    releaseNotes: Now you can seamlessly share files between your PC and iPhone. You
+      can set up file sharing by linking your iPhone to your Microsoft account.
+    version: 1.25032.22
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
@@ -133,11 +144,11 @@ packages:
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
-    currentVersionReleaseDate: May 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/bf/c9/51bfc999-3912-df62-1836-d8dab815f3f6/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
+    currentVersionReleaseDate: April 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/03/39/ab0339fc-1503-1f22-0fb8-29279af96d65/FieldServices_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '15.0'
     releaseNotes: Minor updates, bug fixes, and performance improvements.
-    version: 13.25051.16
+    version: 13.25033.15
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
@@ -230,11 +241,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: May 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/9a/71/dd9a71d0-baed-3f7b-3ce1-79a8c80ad484/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/16/a1/7c16a12d-0dec-3fc0-2d01-6c58abf02817/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25053.5
+    version: 3.25051.14
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator

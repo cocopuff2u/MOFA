@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 28, 2025 10:36 PM EDT",
+    "last_updated": "May 28, 2025 11:26 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -15,11 +15,11 @@
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "May 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/86/68/b98668e1-0f91-023c-5942-6f505c6c4ecb/XCEL.png/512x512bb.png",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/80/9c/66809cd6-5554-64e1-3d6c-da9c3d97e7bc/XCEL.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Copilot advanced text analysis in Excel: Copilot can now analyze text by identifying themes or sentiments, cite examples in the data, and insert a column with theme/sentiment labels.",
-            "version": "16.97"
+            "releaseNotes": "Fix support for connected services when turning off the Download Content privacy setting.",
+            "version": "16.97.2"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
@@ -35,11 +35,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "May 20, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/df/9e/cfdf9ef8-f93c-738a-78bd-f5b24a670868/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "May 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/9e/f8/269ef80b-2e7d-7fc6-4851-71350d17f4d7/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Calendar: Fixed an issue that prevents users from creating a new event using the 'Create new event' button on the My Day/Calendar Peek page for OnPrem accounts.",
-            "version": "16.97.1"
+            "releaseNotes": "\u2022 Quality and performance improvements",
+            "version": "16.97.2"
         },
         {
             "name": "MacOS Microsoft OneNote",

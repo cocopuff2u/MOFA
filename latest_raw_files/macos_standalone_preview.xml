@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 02, 2025 03:05 PM EDT</last_updated>
+    <last_updated>June 02, 2025 04:07 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.97.2 (25052611)</short_version>
-        <full_version>16.97.25052611</full_version>
-        <last_updated>May 26, 2025</last_updated>
+        <short_version>16.98.0 (25060125)</short_version>
+        <full_version>16.98.25060125</full_version>
+        <last_updated>June 01, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.97.25052611_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.97.25052611_Updater.pkg</latest_download>
-        <sha1>3c881815bb0380eb7acf53e0f6ca8d357cbaefdc</sha1>
-        <sha256>5bb5a424be299b61b75858196bfba9375064cdae71d5be0980fca642ec42e6da</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.98.25060125_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.98.25060125_Updater.pkg</latest_download>
+        <sha1>d9407f8c85f923abbb3196578c7d65f4399b3acb</sha1>
+        <sha256>687ee9950b1709ddafa6b6883eb240959bd100122ec74aaaeba05cf4ef6f1f4b</sha256>
     </package>
     <package>
         <name>Excel</name>

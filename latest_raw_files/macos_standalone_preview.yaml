@@ -1,17 +1,17 @@
-last_updated: June 02, 2025 03:05 PM EDT
+last_updated: June 02, 2025 04:07 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.97.2 (25052611)
-  full_version: 16.97.25052611
-  last_updated: May 26, 2025
+  short_version: 16.98.0 (25060125)
+  full_version: 16.98.25060125
+  last_updated: June 01, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.97.25052611_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.97.25052611_Updater.pkg
-  sha1: 3c881815bb0380eb7acf53e0f6ca8d357cbaefdc
-  sha256: 5bb5a424be299b61b75858196bfba9375064cdae71d5be0980fca642ec42e6da
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.98.25060125_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.98.25060125_Updater.pkg
+  sha1: d9407f8c85f923abbb3196578c7d65f4399b3acb
+  sha256: 687ee9950b1709ddafa6b6883eb240959bd100122ec74aaaeba05cf4ef6f1f4b
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app

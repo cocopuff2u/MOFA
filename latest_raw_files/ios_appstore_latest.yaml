@@ -1,13 +1,13 @@
-last_updated: June 02, 2025 09:35 PM EDT
+last_updated: June 02, 2025 10:36 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: June 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/b6/41/66b6412a-d679-6556-88f0-a7b79dfd9203/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/f1/55/cff15551-1bc2-26b3-285c-cd58c1eb5653/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.97.3
+    version: 2.97.2
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
@@ -102,15 +102,17 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: June 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/38/da/a638daf4-27bd-225d-2849-6d4086819ff0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/b3/06/b1b30683-085e-3126-9626-74f0a216fde1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: With this version of the Woo app, you'll be able to see receipts
-      for failed transactions, and enter addresses more easily in order creation.
-      On iPad, we've improved POS search by adding coupon search, and you'll see your
-      most popular products before you search. We've also fixed a crash when reloading
-      order details after a refund on the web.
-    version: '22.4'
+    releaseNotes: "This release brings major improvements to the WooCommerce Point\
+      \ of Sale (POS) experience, including the ability to search for products and\
+      \ apply coupons directly from the app. We\u2019ve also improved the Tap to Pay\
+      \ onboarding flow and updated documentation links to ensure a smoother setup.\
+      \ Enhancements to the order form now make entering custom amounts more intuitive.\
+      \ Behind the scenes, we\u2019ve made fixes to improve app stability and refined\
+      \ the POS interface for better usability."
+    version: 22.3.1
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales

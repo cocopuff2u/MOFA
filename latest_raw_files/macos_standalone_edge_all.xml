@@ -1,16 +1,16 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>June 03, 2025 02:09 PM EDT</last_updated>
+  <last_updated>June 03, 2025 03:07 PM EDT</last_updated>
   <Version>
     <Name>current</Name>
-    <Version>137.0.3296.58</Version>
+    <Version>137.0.3296.62</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/99acce63-17e1-4bf2-a245-e7ad53dc3cc7/MicrosoftEdge-137.0.3296.58.pkg</Full_Update_Download>
-    <Full_Update_Sha1>cbb92642f8fe59b5df16b9129116c48d48f6efa5</Full_Update_Sha1>
-    <Full_Update_Sha256>b73a5cd54ef6afc29577a6d7b54ba284aef647671af5f3019ea361da740c84d5</Full_Update_Sha256>
-    <Last_Update>June 02, 2025 01:25 PM EDT</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b7ce123-70b7-486d-a381-9e418df1feb8/MicrosoftEdge-137.0.3296.62.pkg</Full_Update_Download>
+    <Full_Update_Sha1>701b4b62ad901144a562886093f7fdf31b5c4983</Full_Update_Sha1>
+    <Full_Update_Sha256>e2c537663569fc81ff14f3278495e071e7b1e5d8c759b7bcf17f7d807403f957</Full_Update_Sha256>
+    <Last_Update>June 03, 2025 02:50 PM EDT</Last_Update>
   </Version>
   <Version>
     <Name>canary</Name>
@@ -36,13 +36,13 @@
   </Version>
   <Version>
     <Name>beta</Name>
-    <Version>137.0.3296.58</Version>
+    <Version>137.0.3296.62</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/11aaa64b-c575-4263-8192-c6f0202bbab1/MicrosoftEdgeBeta-137.0.3296.58.pkg</Full_Update_Download>
-    <Full_Update_Sha1>f0942f060d96b8c6129db3fb576004a12bb700cf</Full_Update_Sha1>
-    <Full_Update_Sha256>15adeefc775a62d24e0762d043b6ed826eeac405f05ad8b5d89d027aac0c42b1</Full_Update_Sha256>
-    <Last_Update>June 02, 2025 12:49 PM EDT</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/35ad2cb5-429b-4ea9-9814-4ce55eff0d0d/MicrosoftEdgeBeta-137.0.3296.62.pkg</Full_Update_Download>
+    <Full_Update_Sha1>7d196d2e6a411722bc6ff17354c789b4f74c13cb</Full_Update_Sha1>
+    <Full_Update_Sha256>dfd167b404457aaac0ce88a11b70b804d94be315185dc91ea08ddbe62c900732</Full_Update_Sha256>
+    <Last_Update>June 03, 2025 02:35 PM EDT</Last_Update>
   </Version>
 </EdgeInsiderVersions>

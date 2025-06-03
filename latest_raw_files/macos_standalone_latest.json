@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 03, 2025 12:08 PM EDT",
+    "last_updated": "June 03, 2025 01:06 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -230,16 +230,16 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code.app",
             "CFBundleVersion": "com.microsoft.visualstudio",
-            "short_version": "1.100.2",
-            "full_version": "1.100.2",
-            "last_updated": "May 14, 2025",
+            "short_version": "1.100.3",
+            "full_version": "1.100.3",
+            "last_updated": "June 02, 2025",
             "min_os": "N/A",
-            "app_only_update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/848b80aeb52026648a8ff9f7c45a9b0a80641e2e/VSCode-darwin-universal.zip",
-            "app_update_sha1": "8a3828a0689bf4f88b97f55f23a3513a92f89037",
-            "app_update_sha256": "ad1ad6fd972d239cc05fa936949ba0b32d6b87af4ea750b2a07af42d0b29b012",
+            "app_only_update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/VSCode-darwin-universal.zip",
+            "app_update_sha1": "5ffaa61a7a92a6ca7775c1bed2d6e253ad1ccf76",
+            "app_update_sha256": "4914bdf02927e0dd904000b2955e041b415a2926f610ccd4dd088a06a1753fd0",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
-            "full_update_sha1": "8a3828a0689bf4f88b97f55f23a3513a92f89037",
-            "full_update_sha256": "ad1ad6fd972d239cc05fa936949ba0b32d6b87af4ea750b2a07af42d0b29b012"
+            "full_update_sha1": "5ffaa61a7a92a6ca7775c1bed2d6e253ad1ccf76",
+            "full_update_sha256": "4914bdf02927e0dd904000b2955e041b415a2926f610ccd4dd088a06a1753fd0"
         },
         {
             "name": "MAU",

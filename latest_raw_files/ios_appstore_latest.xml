@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 03, 2025 11:27 PM EDT</last_updated>
+	<last_updated>June 04, 2025 12:11 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -82,11 +82,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>June 03, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/1a/fc/331afcc7-d4cc-432e-f7eb-ed43224e9d8d/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/93/89/f493896a-fa18-982f-7d13-1759a61f8c88/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and improvements</releaseNotes>
-		<version>1.1.65280104</version>
+		<version>1.1.65130101</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>
@@ -188,16 +188,13 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>June 03, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/78/16/547816c4-166b-54bf-9729-25d8b50f8697/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 26, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/f8/45/0df845ae-b967-49fb-b1ee-f3de3b39c9f4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release:
-• Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.
-• Redesigned Settings: Find settings instantly and manage preferences effortlessly.
-• iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.
-• Fixed some bugs and improved stability and performance.
-Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>137.3296.53</version>
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
+• Bug fixes, stability and performance improvements.
+Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
+		<version>136.3240.91</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

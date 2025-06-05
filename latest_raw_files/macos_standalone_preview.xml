@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 05, 2025 06:06 PM EDT</last_updated>
+    <last_updated>June 05, 2025 07:07 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -90,14 +90,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>25122.1207.3700.1444</short_version>
-        <full_version>25122.1207.3700.1444</full_version>
-        <last_updated>June 03, 2025</last_updated>
+        <short_version>25151.503.3707.3268</short_version>
+        <full_version>25151.503.3707.3268</full_version>
+        <last_updated>June 05, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://statics.teams.cdn.office.net/production-osx/25122.1207.3700.1444/MicrosoftTeams.pkg</update_download>
-        <latest_download>https://statics.teams.cdn.office.net/production-osx/25122.1207.3700.1444/MicrosoftTeams.pkg</latest_download>
-        <sha1>d2b5f584e176c7492cbc77d077bbbcd93e2c5ee2</sha1>
-        <sha256>73f12c604e25b04f914cf1b183dd3ccb302a0f7067230465a37901ca15b0e7b0</sha256>
+        <update_download>https://statics.teams.cdn.office.net/production-osx/25151.503.3707.3268/MicrosoftTeams.pkg</update_download>
+        <latest_download>https://statics.teams.cdn.office.net/production-osx/25151.503.3707.3268/MicrosoftTeams.pkg</latest_download>
+        <sha1>6d0b13fb788fc15fca73dc6271117d318c932b17</sha1>
+        <sha256>ea9df840ef4488ca225372baa8985dd844b36c77d82bdf534ab3ae3b42d6a0e5</sha256>
     </package>
     <package>
         <name>Intune</name>
@@ -178,10 +178,10 @@
         <full_version>1.101.0-insider</full_version>
         <last_updated>June 05, 2025</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/15805d0e299a7c20edcc1ef741cb17de27de1ee7/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/0264176af12df64d7449558cca4c8e5b1fb34d8a/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
-        <sha1>8b6df6eb79c76f355531679ec6f5b3b982bae26c</sha1>
-        <sha256>6b7beb54735496f6024aa7ce5b44d1f5f9c3bbe1792458bf2e3657d7591d6952</sha256>
+        <sha1>ec34b34d5614e609a5bf3c59f72c0d421a6ac85a</sha1>
+        <sha256>d9adf88cb561fd5c72e2bfaccd5437edb335725068a32491a50f3bbac73d1a42</sha256>
     </package>
     <package>
         <name>MAU</name>

@@ -1,4 +1,4 @@
-last_updated: June 05, 2025 01:05 PM EDT
+last_updated: June 05, 2025 03:05 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -76,14 +76,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 25151.502.3704.2048
-  full_version: 25151.502.3704.2048
-  last_updated: June 04, 2025
+  short_version: 25151.503.3707.3268
+  full_version: 25151.503.3707.3268
+  last_updated: June 05, 2025
   min_os: '13.0'
-  update_download: https://statics.teams.cdn.office.net/production-osx/25151.502.3704.2048/MicrosoftTeams.pkg
-  latest_download: https://statics.teams.cdn.office.net/production-osx/25151.502.3704.2048/MicrosoftTeams.pkg
-  sha1: 25bb98c0a25f5d80a9b26125062f51c8f166f6eb
-  sha256: ee2de5de18073d82eb0e2f5d86de07d88d058afff485bcf2a4aeb9a603eb212b
+  update_download: https://statics.teams.cdn.office.net/production-osx/25151.503.3707.3268/MicrosoftTeams.pkg
+  latest_download: https://statics.teams.cdn.office.net/production-osx/25151.503.3707.3268/MicrosoftTeams.pkg
+  sha1: 6d0b13fb788fc15fca73dc6271117d318c932b17
+  sha256: ea9df840ef4488ca225372baa8985dd844b36c77d82bdf534ab3ae3b42d6a0e5
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app
@@ -152,10 +152,10 @@ packages:
   full_version: 1.101.0-insider
   last_updated: June 05, 2025
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/e9972800ddeda721b33e968650eed4c20fa8ed61/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/15805d0e299a7c20edcc1ef741cb17de27de1ee7/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
-  sha1: 3d54247f250b76856cb7da89109cd0c46590fa3c
-  sha256: 9926569f2b00df5b3e8b2b2a25a686969ce64f74155f492582105a1b04521525
+  sha1: 8b6df6eb79c76f355531679ec6f5b3b982bae26c
+  sha256: 6b7beb54735496f6024aa7ce5b44d1f5f9c3bbe1792458bf2e3657d7591d6952
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 06, 2025 07:06 AM EDT</last_updated>
+	<last_updated>June 06, 2025 08:11 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -245,11 +245,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>May 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/91/5a/a4915aff-6968-b70e-2d97-848b7831db20/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 06, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/9d/1d/ae9d1def-1df2-0fa9-baaf-908ae11ed8ea/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.9.1</version>
+		<releaseNotes>Skype is retiring in May 2025. Sign in to Microsoft Teams Free with your Skype credentials, and your chats and contacts will be right where you left them. Enjoy the features you love about Skype, including free calling and messaging, as well as new features like meetings and communities, all in Teams.</releaseNotes>
+		<version>7.10.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>

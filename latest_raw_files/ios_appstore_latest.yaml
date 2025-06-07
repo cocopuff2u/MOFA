@@ -1,4 +1,4 @@
-last_updated: June 06, 2025 11:26 PM EDT
+last_updated: June 07, 2025 12:08 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -50,11 +50,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: June 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/0b/92/540b929c-bf80-8e47-ec27-0d94017d884e/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 27, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/be/af/78beafe0-5518-269d-a3f7-75fd626679a3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: This update contains bug fixes and stability improvements.
-    version: 16.14.4
+    version: 16.14.3
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows

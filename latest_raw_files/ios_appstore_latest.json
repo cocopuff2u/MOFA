@@ -1,15 +1,15 @@
 {
-    "last_updated": "June 09, 2025 11:07 AM EDT",
+    "last_updated": "June 09, 2025 12:07 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "June 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/b1/3a/25b13a1d-ef48-8118-be48-9b48f13cc68d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 02, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/b6/41/66b6412a-d679-6556-88f0-a7b79dfd9203/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Shortcuts now available on iPhone and iPad.",
-            "version": "2.98"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.97.3"
         },
         {
             "name": "iOS Microsoft Excel",
@@ -25,11 +25,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "June 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/5f/1c/b25f1c10-bd4d-64c6-90ac-93edc6b3d223/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 02, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/76/3c/20763cd6-8eae-58ca-b6e9-b427449f89b8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 Shortcuts now available on iPhone and iPad.\n\u2022 Notification emails for mentions, tasks, comments, and replies will now contain context previews even when the source document is encrypted, and the email will inherit the document's security policies.",
-            "version": "2.98"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.97.3"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -45,11 +45,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "May 12, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/95/61/1c9561b6-9fa8-2456-fbfa-33ccabfd822b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 09, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/4d/e2/ff4de227-3ba6-25e4-ecb4-894d5edb23f5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.97"
+            "version": "16.98"
         },
         {
             "name": "iOS Microsoft OneDrive",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "June 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/78/16/547816c4-166b-54bf-9729-25d8b50f8697/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 09, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/97/4f/18974f21-fde3-5e09-3f51-c1c0275494f2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.\n\u2022 Redesigned Settings: Find settings instantly and manage preferences effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "137.3296.53"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Customize New Tab Page: Now you have more control with the New Tab Page\u2019s top-right page settings! Enjoy greater freedom to customize shortcuts and wallpaper.\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.\n\u2022 Redesigned settings: Find settings instantly and manage preferences effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "137.3296.65"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "June 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/78/16/547816c4-166b-54bf-9729-25d8b50f8697/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 09, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/97/4f/18974f21-fde3-5e09-3f51-c1c0275494f2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.\n\u2022 Redesigned Settings: Find settings instantly and manage preferences effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "137.3296.53"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Customize New Tab Page: Now you have more control with the New Tab Page\u2019s top-right page settings! Enjoy greater freedom to customize shortcuts and wallpaper.\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.\n\u2022 Redesigned settings: Find settings instantly and manage preferences effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "137.3296.65"
         },
         {
             "name": "iOS Microsoft Seeing AI",

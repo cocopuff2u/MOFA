@@ -1,65 +1,65 @@
-last_updated: June 09, 2025 12:08 PM EDT
+last_updated: June 09, 2025 01:06 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.98.0 (25060125)
-  full_version: 16.98.25060125
-  last_updated: June 01, 2025
+  short_version: 16.98.0 (25060824)
+  full_version: 16.98.25060824
+  last_updated: June 08, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.98.25060125_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.98.25060125_Updater.pkg
-  sha1: d9407f8c85f923abbb3196578c7d65f4399b3acb
-  sha256: 687ee9950b1709ddafa6b6883eb240959bd100122ec74aaaeba05cf4ef6f1f4b
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.98.25060824_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.98.25060824_Updater.pkg
+  sha1: e46a72dcec3697f2e47f27187b93672cd8dbfaa8
+  sha256: ac445b679c86f9d1b3f49a37dbc3a71573dc5310e174e00e986006384a9c2168
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.98.0 (25060125)
-  full_version: 16.98.25060125
-  last_updated: June 01, 2025
+  short_version: 16.98.0 (25060824)
+  full_version: 16.98.25060824
+  last_updated: June 08, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.98.25060125_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.98.25060125_Updater.pkg
-  sha1: d434e2c419b9edd242e40f15ebd23bfed3ab5678
-  sha256: 666ddcdd0073776af905d133d67fe2b304a94ab67889d913bac58ac518569ef6
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.98.25060824_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.98.25060824_Updater.pkg
+  sha1: eee6524d7be824f76bdcf68a016089391f68564c
+  sha256: 8ea27f553b676d51677476456e979cdcbad6c8ea2849e2108f0a5fa28bdb14c3
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.98.0 (25060125)
-  full_version: 16.98.25060125
-  last_updated: June 01, 2025
+  short_version: 16.98.0 (25060824)
+  full_version: 16.98.25060824
+  last_updated: June 08, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.98.25060125_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.98.25060125_Updater.pkg
-  sha1: d4cdb35e8ecf8610d600d76c2ac1e3357895f823
-  sha256: f0f7fe2f9995584af3b2d2981ffb021d637428dedd062f8de1b00546baba43c5
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.98.25060824_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.98.25060824_Updater.pkg
+  sha1: 714fb6fbc88b592e97a58e65c173636a55668db3
+  sha256: 3e015df11f75800bc1a4eb995d334d444cbc92060281e4aadde20b6ae94a106a
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.98.0 (25060125)
-  full_version: 16.98.25060125
-  last_updated: June 01, 2025
+  short_version: 16.98.0 (25060824)
+  full_version: 16.98.25060824
+  last_updated: June 08, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.98.25060125_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.98.25060125_Updater.pkg
-  sha1: 86d60c6f8e3102bfeb6b1aa000fbacc38a32c162
-  sha256: 5d6392c582ea05348752eb8913e6335418de0e55b802963fb69351d82abb3955
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.98.25060824_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.98.25060824_Updater.pkg
+  sha1: ff22e011e64108a871c9fb85b038bc97439ec687
+  sha256: fa97db4c583de75e0e9b1564d1d56d1f4eb4573e0064548dd367dabdfdbf8d1d
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.98.0 (25060125)
-  full_version: 16.98.25060125
-  last_updated: June 01, 2025
+  short_version: 16.98.0 (25060824)
+  full_version: 16.98.25060824
+  last_updated: June 08, 2025
   min_os: '13.0'
-  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.98.25060125_Updater.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.98.25060125_Updater.pkg
-  sha1: 2a9e44e6ad32f94b629c5f6fc40a7af09d03e7aa
-  sha256: 2112ab746fac8948e9790491d31df0109eb15856b4f0841cbcd2260034697e43
+  update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.98.25060824_Updater.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.98.25060824_Updater.pkg
+  sha1: 5023e3043a2995723872b1ce58ea63cfc2140bf2
+  sha256: b28f2f5335d543e901d611ebd52a1e787c16c2f05ebdd054c09a9f2d913ac0b1
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app

@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 09, 2025 02:10 AM EDT",
+    "last_updated": "June 09, 2025 03:08 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -45,11 +45,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "June 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/4d/e2/ff4de227-3ba6-25e4-ecb4-894d5edb23f5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/95/61/1c9561b6-9fa8-2456-fbfa-33ccabfd822b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.98"
+            "version": "16.97"
         },
         {
             "name": "iOS Microsoft OneDrive",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "June 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/97/4f/18974f21-fde3-5e09-3f51-c1c0275494f2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 03, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/78/16/547816c4-166b-54bf-9729-25d8b50f8697/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Customize New Tab Page: Now you have more control with the New Tab Page\u2019s top-right page settings! Enjoy greater freedom to customize shortcuts and wallpaper.\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.\n\u2022 Redesigned settings: Find settings instantly and manage preferences effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "137.3296.65"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.\n\u2022 Redesigned Settings: Find settings instantly and manage preferences effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "137.3296.53"
         },
         {
             "name": "iOS Microsoft Loop",

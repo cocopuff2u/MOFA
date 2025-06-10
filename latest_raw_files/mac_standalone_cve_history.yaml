@@ -1,5 +1,32 @@
-last_scan_date: June 10, 2025 06:06 PM EDT
+last_scan_date: June 10, 2025 07:06 PM EDT
 updates:
+- date_text: June 10, 2025
+  security_updates:
+    Excel:
+    - cve_name: CVE-2025-47165
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47165
+    Office Suite:
+    - cve_name: CVE-2025-47173
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47173
+    - cve_name: CVE-2025-47953
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47953
+    - cve_name: CVE-2025-47164
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47164
+    - cve_name: CVE-2025-47167
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47167
+    - cve_name: CVE-2025-47162
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47162
+    PowerPoint:
+    - cve_name: CVE-2025-47175
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47175
+    Word:
+    - cve_name: CVE-2025-47168
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47168
+    - cve_name: CVE-2025-47170
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47170
+    - cve_name: CVE-2025-47169
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47169
+  version: Version 16.98 (Build 25060824)
 - date_text: May 27, 2025
   security_updates:
     N/A:

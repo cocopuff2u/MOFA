@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">June 10, 2025 11:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">June 10, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -122,7 +122,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">June 10, 2025 11:07 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">June 10, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -132,7 +132,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Outlook | `16.97.2` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/9e/f8/269ef80b-2e7d-7fc6-4851-71350d17f4d7/Outlook.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
 | Microsoft OneNote | `16.97` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/41/12/664112ef-7f2d-55ed-b17d-8db225479b00/OneNote.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
 | OneDrive | `25.085.0504` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a1/78/ada17882-f345-d66b-87fe-7178d23ce013/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
-| Windows App | `11.1.7` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/b1/ad/c4b1ad4f-85e6-fbd5-c821-0dce0d92a915/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
+| Windows App | `11.1.8` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9c/43/d29c4383-7913-1ebe-e774-1fa018b1fd25/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
 | Microsoft To Do | `2.147` | `com.microsoft.to-do-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/bf/cf/27bfcf9c-3196-e934-6429-fe256e90aac2/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png" alt="Microsoft To Do" width="40"> |
 | Azure VPN Client | `2.7.101` | `com.microsoft.AzureVpnMac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/60/df/2360df4b-4ac5-4480-bb3e-4f59df6c3e64/AppIcon-85-220-0-4-0-0-2x-0-0.png/512x512bb.png" alt="Azure VPN Client" width="40"> |
 
@@ -140,7 +140,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">June 10, 2025 11:07 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">June 10, 2025 12:07 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -174,12 +174,12 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Advertising | `2.22.9` | `com.microsoft.bingadsmobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6d/0a/156d0acd-9621-4f06-dd8a-3c4f57b2ea77/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" alt="Microsoft Advertising" width="40"> |
 | Microsoft Lens: PDF Scanner | `2.96.1` | `com.microsoft.officelens` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/73/86/33738651-9bd7-6164-2027-f072699effcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft Lens: PDF Scanner" width="40"> |
 | Work Folders | `2.2.0` | `com.microsoft.workfolders` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/46/15/ed46150c-83ff-e2bc-4caa-8b5948d65bd2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" alt="Work Folders" width="40"> |
-| Microsoft Power BI | `34.4` | `com.microsoft.powerbimobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/8f/f1/5a8ff113-abf7-5611-d9d2-bdac3c13f484/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |
+| Microsoft Power BI | `34.3` | `com.microsoft.powerbimobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/23/04/f6230493-7a60-cd5a-c088-45d1c0822443/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |
 | Microsoft 365 Admin | `5.6.3` | `com.microsoft.o365shdmobileapp` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/fb/17/59fb177b-466f-f323-daac-fc07964112e1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft 365 Admin" width="40"> |
 | Intune Company Portal | `5.2504.0` | `com.microsoft.CompanyPortal` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3d/c9/083dc989-ee2f-4951-f657-871860a2177d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Intune Company Portal" width="40"> |
 | Azure Information Protection | `2.1.1` | `com.microsoft.rms-sharing` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/92/ec/bb92ece4-b3e9-7fff-de38-a1f64c6a6b20/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg" alt="Azure Information Protection" width="40"> |
 | Microsoft 365 Copilot | `2.97.3` | `com.microsoft.officemobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/98/83/5398834b-563c-bdc9-44b1-b6602a770c77/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft 365 Copilot" width="40"> |
-| Skype for Business | `6.34.119` | `com.microsoft.lync2013.iphone` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" alt="Skype for Business" width="40"> |
+| Skype for Business | `6.32.112` | `com.microsoft.lync2013.iphone` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/b5/87/a1b587ab-1a78-94d2-1999-1f6dcbb5d55b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" alt="Skype for Business" width="40"> |
 
 
 ## 🛠️ Microsoft Office Repair Tools & Scripts 🛠️

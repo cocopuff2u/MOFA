@@ -1,15 +1,15 @@
 {
-    "last_updated": "June 11, 2025 04:09 AM EDT",
+    "last_updated": "June 11, 2025 05:07 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "May 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/7a/5b/227a5be8-8fda-c996-ab5a-d2fdc3690d8e/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "June 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/4e/c1/194ec1ba-31a1-6da5-a4e2-bfaf15a2a366/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Fix support for connected services when turning off the Download Content privacy setting.",
-            "version": "16.97.2"
+            "releaseNotes": "\u2022 Shortcuts now available for MacOS.\n\u2022 Notification emails for mentions, tasks, comments, and replies will now contain context previews even when the source document is encrypted, and the email will inherit the document's security policies.",
+            "version": "16.98"
         },
         {
             "name": "MacOS Microsoft Excel",

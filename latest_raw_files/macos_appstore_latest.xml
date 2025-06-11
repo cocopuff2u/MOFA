@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 11, 2025 10:06 AM EDT</last_updated>
+	<last_updated>June 11, 2025 11:07 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -27,11 +27,15 @@
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/05/1b/96051bf4-1fa6-21fe-b018-06095fa5b957/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/4b/cb/9c4bcbfa-b71b-02d5-9d92-769525f6ce5a/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Fix support for connected services when turning off the Download Content privacy setting.</releaseNotes>
-		<version>16.97.2</version>
+		<releaseNotes>• Shortcuts now available for MacOS.
+• Design Suggestions: Combining the Power of Designer and Microsoft Copilot Microsoft 365 Copilot users can now access tailored template and slide design suggestions alongside familiar Designer layouts under Design Suggestions. These suggestions will offer creative options to make your slides both informative and visually captivating. Design suggestions makes presentation and slide creation easy and efficient.
+• Notification emails for mentions, tasks, comments, and replies will now contain context previews even when the source document is encrypted, and the email will inherit the document's security policies.
+• You can now reference a TXT file when you create a presentation with Copilot within the PowerPoint application.
+PowerPoint is introducing Copilot text editing! Rewrite text to convert your text block (paragraphs) to bullets/lists.</releaseNotes>
+		<version>16.98</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
@@ -67,11 +71,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>May 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a1/78/ada17882-f345-d66b-87fe-7178d23ce013/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/5c/32/4c5c32b1-adeb-5ec7-3f75-3fc06bfaa428/OneDrive.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>25.085.0504</version>
+		<version>25.091.0512</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

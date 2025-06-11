@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 10, 2025 08:29 PM EDT",
+    "last_updated": "June 10, 2025 09:35 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "June 02, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/2d/f3/9d2df3b7-a3cc-6371-cb57-0e2d7e014bc9/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 09, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/27/0b/cf270bc0-fa45-b345-91bb-0b28ffa1e093/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2521.0"
+            "version": "4.2522.0"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -355,11 +355,11 @@
             "name": "iOS Microsoft Skype for Business",
             "application_name": "Skype for Business",
             "bundleId": "com.microsoft.lync2013.iphone",
-            "currentVersionReleaseDate": "June 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/b5/87/a1b587ab-1a78-94d2-1999-1f6dcbb5d55b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "6.34.119"
+            "version": "6.32.112"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 11, 2025 06:07 AM EDT",
+    "last_updated": "June 11, 2025 07:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "June 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f9/6b/14f96b60-e9d8-8df7-089b-efea1f2ff0c0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/0b/92/540b929c-bf80-8e47-ec27-0d94017d884e/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Some users have been unable to see all their files or photos. If you notice some files missing, please go to Settings, tap on your account and tap \"Reset Account\". This will resync your account anew. Signing out and signing back in should also fix the issue. This might take a while for accounts with many files. Keeping the app in the foreground will speed things up.",
-            "version": "16.15.2"
+            "releaseNotes": "This update contains bug fixes and stability improvements.",
+            "version": "16.14.4"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "June 11, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/89/9b/db899bd2-c94b-a789-5b19-8108041609a5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 06, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/9d/1d/ae9d1def-1df2-0fa9-baaf-908ae11ed8ea/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.10.1"
+            "releaseNotes": "Skype is retiring in May 2025. Sign in to Microsoft Teams Free with your Skype credentials, and your chats and contacts will be right where you left them. Enjoy the features you love about Skype, including free calling and messaging, as well as new features like meetings and communities, all in Teams.",
+            "version": "7.10.0"
         },
         {
             "name": "iOS Microsoft Sharepoint",

@@ -1,4 +1,4 @@
-last_updated: June 11, 2025 12:13 AM EDT
+last_updated: June 11, 2025 01:08 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -12,41 +12,67 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: May 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/80/9c/66809cd6-5554-64e1-3d6c-da9c3d97e7bc/XCEL.png/512x512bb.png
+    currentVersionReleaseDate: June 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c4/22/5bc422fe-9402-20fd-c82a-fb0be41959ec/XCEL.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: Fix support for connected services when turning off the Download
-      Content privacy setting.
-    version: 16.97.2
+    releaseNotes: "\u2022 Shortcuts now available for MacOS.\n\u2022 Users can now\
+      \ sync responses on Mac create a new Microsoft Form directly within an Excel\
+      \ workbook, linking the form to the workbook seamlessly."
+    version: '16.98'
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: May 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/05/1b/96051bf4-1fa6-21fe-b018-06095fa5b957/PPT3.png/512x512bb.png
+    currentVersionReleaseDate: June 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/4b/cb/9c4bcbfa-b71b-02d5-9d92-769525f6ce5a/PPT3.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: Fix support for connected services when turning off the Download
-      Content privacy setting.
-    version: 16.97.2
+    releaseNotes: "\u2022 Shortcuts now available for MacOS.\n\u2022 Design Suggestions:\
+      \ Combining the Power of Designer and Microsoft Copilot Microsoft 365 Copilot\
+      \ users can now access tailored template and slide design suggestions alongside\
+      \ familiar Designer layouts under Design Suggestions. These suggestions will\
+      \ offer creative options to make your slides both informative and visually captivating.\
+      \ Design suggestions makes presentation and slide creation easy and efficient.\n\
+      \u2022 Notification emails for mentions, tasks, comments, and replies will now\
+      \ contain context previews even when the source document is encrypted, and the\
+      \ email will inherit the document's security policies.\n\u2022 You can now reference\
+      \ a TXT file when you create a presentation with Copilot within the PowerPoint\
+      \ application.\nPowerPoint is introducing Copilot text editing! Rewrite text\
+      \ to convert your text block (paragraphs) to bullets/lists."
+    version: '16.98'
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: May 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/9e/f8/269ef80b-2e7d-7fc6-4851-71350d17f4d7/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: June 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/8c/73/058c7340-228a-f8aa-8986-21429b659b41/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Quality and performance improvements"
-    version: 16.97.2
+    releaseNotes: "\u2022 Copilot Command Center: a centralized interface that consolidates\
+      \ Copilot features like summarization, drafts, schedule, etc. into a single,\
+      \ accessible entry point. It dynamically adapts based on account eligibility,\
+      \ ensuring users can access relevant Copilot powered features right when they\
+      \ need them. \n\u2022 Mail merge account setting: users can now choose a specific\
+      \ account\u2014such as a shared mailbox or a non-default account\u2014as the\
+      \ sender for Merge to Email in Word for Mac, instead of always using the default\
+      \ account. \n\u2022 Copilot Attachment Summaries - Users can now generate Copilot\
+      \ summaries for PDFs, Word, and PowerPoint attachments from the attachment well\
+      \ or from the summarize card. This feature helps users quickly grasp key content\
+      \ without opening the file.\n\u2022 Calendar Sharing for On-Premises Mailboxes:\
+      \ Users can now share calendars from Exchange On-Premises accounts. \n\u2022\
+      \ Add-ins for On-Premises Mailboxes: Users can now use add-ins, such as Zoom\
+      \ & Webex, with Exchange On-Premises accounts. \n\u2022 Up next in menu bar:\
+      \ Users now have the option to configure the visibility of upcoming meetings\
+      \ & appointments in the menu bar via the My Day settings."
+    version: '16.98'
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: May 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/41/12/664112ef-7f2d-55ed-b17d-8db225479b00/OneNote.png/512x512bb.png
+    currentVersionReleaseDate: June 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/23/5f/4a235fde-9635-9b0b-a244-288747e6fb8b/OneNote.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
-      \ in the app by clicking on the feedback icon in the top-right of the app.\n\
-      Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.97'
+      \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
+      \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
+    version: '16.98'
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac

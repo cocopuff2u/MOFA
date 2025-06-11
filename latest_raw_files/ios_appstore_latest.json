@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 11, 2025 12:13 AM EDT",
+    "last_updated": "June 11, 2025 01:08 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "June 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/0b/92/540b929c-bf80-8e47-ec27-0d94017d884e/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f9/6b/14f96b60-e9d8-8df7-089b-efea1f2ff0c0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.14.4"
+            "releaseNotes": "Some users have been unable to see all their files or photos. If you notice some files missing, please go to Settings, tap on your account and tap \"Reset Account\". This will resync your account anew. Signing out and signing back in should also fix the issue. This might take a while for accounts with many files. Keeping the app in the foreground will speed things up.",
+            "version": "16.15.2"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "June 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/9d/1d/ae9d1def-1df2-0fa9-baaf-908ae11ed8ea/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/89/9b/db899bd2-c94b-a789-5b19-8108041609a5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Skype is retiring in May 2025. Sign in to Microsoft Teams Free with your Skype credentials, and your chats and contacts will be right where you left them. Enjoy the features you love about Skype, including free calling and messaging, as well as new features like meetings and communities, all in Teams.",
-            "version": "7.10.0"
+            "releaseNotes": "Bug fixes and performance improvements",
+            "version": "7.10.1"
         },
         {
             "name": "iOS Microsoft Sharepoint",
@@ -305,11 +305,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "May 25, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/23/04/f6230493-7a60-cd5a-c088-45d1c0822443/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/8f/f1/5a8ff113-abf7-5611-d9d2-bdac3c13f484/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "34.3"
+            "releaseNotes": "- You can find org apps next to workspace apps in the apps section or reach them via the workspaces you have access to. Org apps function like any other item type, appearing on the home page, searchable, and able to be marked as favorites.",
+            "version": "34.4"
         },
         {
             "name": "iOS Microsoft 365 Admin",
@@ -355,11 +355,11 @@
             "name": "iOS Microsoft Skype for Business",
             "application_name": "Skype for Business",
             "bundleId": "com.microsoft.lync2013.iphone",
-            "currentVersionReleaseDate": "March 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/b5/87/a1b587ab-1a78-94d2-1999-1f6dcbb5d55b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "6.32.112"
+            "version": "6.34.119"
         }
     ]
 }

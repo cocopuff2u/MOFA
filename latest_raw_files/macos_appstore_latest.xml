@@ -1,15 +1,16 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 11, 2025 09:35 PM EDT</last_updated>
+	<last_updated>June 11, 2025 10:36 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/7a/5b/227a5be8-8fda-c996-ab5a-d2fdc3690d8e/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/4e/c1/194ec1ba-31a1-6da5-a4e2-bfaf15a2a366/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Fix support for connected services when turning off the Download Content privacy setting.</releaseNotes>
-		<version>16.97.2</version>
+		<releaseNotes>• Shortcuts now available for MacOS.
+• Notification emails for mentions, tasks, comments, and replies will now contain context previews even when the source document is encrypted, and the email will inherit the document's security policies.</releaseNotes>
+		<version>16.98</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
@@ -70,11 +71,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>May 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a1/78/ada17882-f345-d66b-87fe-7178d23ce013/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/5c/32/4c5c32b1-adeb-5ec7-3f75-3fc06bfaa428/OneDrive.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>25.085.0504</version>
+		<version>25.091.0512</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

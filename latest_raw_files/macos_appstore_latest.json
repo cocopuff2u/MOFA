@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 12, 2025 03:07 AM EDT",
+    "last_updated": "June 12, 2025 04:09 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "May 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/05/1b/96051bf4-1fa6-21fe-b018-06095fa5b957/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "June 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/4b/cb/9c4bcbfa-b71b-02d5-9d92-769525f6ce5a/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Fix support for connected services when turning off the Download Content privacy setting.",
-            "version": "16.97.2"
+            "releaseNotes": "\u2022 Shortcuts now available for MacOS.\n\u2022 Design Suggestions: Combining the Power of Designer and Microsoft Copilot Microsoft 365 Copilot users can now access tailored template and slide design suggestions alongside familiar Designer layouts under Design Suggestions. These suggestions will offer creative options to make your slides both informative and visually captivating. Design suggestions makes presentation and slide creation easy and efficient.\n\u2022 Notification emails for mentions, tasks, comments, and replies will now contain context previews even when the source document is encrypted, and the email will inherit the document's security policies.\n\u2022 You can now reference a TXT file when you create a presentation with Copilot within the PowerPoint application.\nPowerPoint is introducing Copilot text editing! Rewrite text to convert your text block (paragraphs) to bullets/lists.",
+            "version": "16.98"
         },
         {
             "name": "MacOS Microsoft Outlook",

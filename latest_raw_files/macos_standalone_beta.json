@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 12, 2025 01:06 PM EDT",
+    "last_updated": "June 12, 2025 02:09 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -174,14 +174,14 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code - Insiders.app",
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
-            "short_version": "1.101.0-",
-            "full_version": "1.101.0-insider",
-            "last_updated": "June 11, 2025",
+            "short_version": "1.102.0-",
+            "full_version": "1.102.0-insider",
+            "last_updated": "June 12, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/8ece07a028f7e5f0e9f41031828f60a2a36d7411/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
-            "sha1": "68df1a384a7d7d5c5ffabfb71249ff25535d5069",
-            "sha256": "0236b042f0b8df47088dc48a0c3d2f21cdbbb5037c5d7e73520a012376cd61db"
+            "sha1": "7508093e0d52d97200c91870f8d233e44678ecd4",
+            "sha256": "611c24d462f6a6262052cf056aef81b7fba8373e77050b89770a25b87a66c0fb"
         },
         {
             "name": "MAU",

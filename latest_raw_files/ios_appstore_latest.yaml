@@ -1,4 +1,4 @@
-last_updated: June 13, 2025 03:07 AM EDT
+last_updated: June 13, 2025 04:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -145,20 +145,20 @@ packages:
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
-    currentVersionReleaseDate: June 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cb/31/bdcb314c-028a-1657-060e-cef3e45f8bf9/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 27, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/bf/c9/51bfc999-3912-df62-1836-d8dab815f3f6/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Minor updates, bug fixes, and performance improvements.
-    version: 13.25051.17
+    version: 13.25051.16
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: June 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/f9/e0/2af9e0f0-2432-2562-4214-3e3a61fb1632/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 02, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/41/1e/f4411e95-cd9b-23bf-2e21-2ac4a5c2c823/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 10.104.0
+    version: 10.103.0
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard

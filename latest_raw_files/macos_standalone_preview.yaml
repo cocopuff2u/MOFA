@@ -1,4 +1,4 @@
-last_updated: June 13, 2025 12:08 PM EDT
+last_updated: June 13, 2025 01:06 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -152,10 +152,10 @@ packages:
   full_version: 1.102.0-insider
   last_updated: June 13, 2025
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/7e4e0f4e55d0d0a2a931aa4e0b7acc518e5da0dd/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/5d1bd8f13d9cd0d9c84ae96fd7a86f3fd51d6979/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
-  sha1: 7508093e0d52d97200c91870f8d233e44678ecd4
-  sha256: 611c24d462f6a6262052cf056aef81b7fba8373e77050b89770a25b87a66c0fb
+  sha1: 714d2696ad27af27bbe0ca674e3f3c4aa8fb167b
+  sha256: f34b79d4b9166b36beb52700cf9010d0ec36dbf68a684b39b856d1d30f1ca494
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

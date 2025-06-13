@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 12, 2025 08:30 PM EDT",
+    "last_updated": "June 12, 2025 09:35 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -155,11 +155,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "June 02, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/41/1e/f4411e95-cd9b-23bf-2e21-2ac4a5c2c823/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/f9/e0/2af9e0f0-2432-2562-4214-3e3a61fb1632/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "10.103.0"
+            "version": "10.104.0"
         },
         {
             "name": "iOS Microsoft Whiteboard",
@@ -255,11 +255,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "June 04, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/7c/57/6b7c5780-d8d1-181d-8bc6-4b90fe5700a9/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/65/7f/93657fdf-e151-23cb-c0c0-7c618a9804d6/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25054.2"
+            "version": "3.25061.3"
         },
         {
             "name": "iOS Microsoft Authenticator",

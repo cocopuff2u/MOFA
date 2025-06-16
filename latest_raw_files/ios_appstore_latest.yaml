@@ -1,4 +1,4 @@
-last_updated: June 16, 2025 05:08 AM EDT
+last_updated: June 16, 2025 06:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -19,11 +19,14 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: June 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/96/bc/1296bcca-891f-6bcb-c8a5-c659c237f33a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 09, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/5f/1c/b25f1c10-bd4d-64c6-90ac-93edc6b3d223/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.1
+    releaseNotes: "\u2022 Shortcuts now available on iPhone and iPad.\n\u2022 Notification\
+      \ emails for mentions, tasks, comments, and replies will now contain context\
+      \ previews even when the source document is encrypted, and the email will inherit\
+      \ the document's security policies."
+    version: '2.98'
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook

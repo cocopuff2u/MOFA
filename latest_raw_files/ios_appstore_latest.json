@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 15, 2025 09:35 PM EDT",
+    "last_updated": "June 15, 2025 10:40 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "June 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/97/4f/18974f21-fde3-5e09-3f51-c1c0275494f2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/49/f9/1449f95a-8135-a942-6622-b1aa92d6b852/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Customize New Tab Page: Now you have more control with the New Tab Page\u2019s top-right page settings! Enjoy greater freedom to customize shortcuts and wallpaper.\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.\n\u2022 Redesigned settings: Find settings instantly and manage preferences effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "137.3296.65"
+            "version": "137.3296.82"
         },
         {
             "name": "iOS Microsoft Loop",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 17, 2025 06:07 AM EDT",
+    "last_updated": "June 17, 2025 07:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -65,11 +65,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Link to Windows",
             "bundleId": "com.microsoft.LinkToWindows",
-            "currentVersionReleaseDate": "May 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/3e/62/d43e6228-9e52-6143-1d28-05af9cb571d4/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/c1/ac/dac1ace2-1609-bcbb-b0f6-6da40f827cbb/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.6",
-            "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "1.25042.21"
+            "releaseNotes": "Bug fixes and performance improvements",
+            "version": "1.25052.18"
         },
         {
             "name": "iOS Microsoft Defender Security",

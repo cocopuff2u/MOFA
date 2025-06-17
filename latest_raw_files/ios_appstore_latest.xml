@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 17, 2025 06:07 AM EDT</last_updated>
+	<last_updated>June 17, 2025 07:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -72,11 +72,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Link to Windows</application_name>
 		<bundleId>com.microsoft.LinkToWindows</bundleId>
-		<currentVersionReleaseDate>May 27, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/3e/62/d43e6228-9e52-6143-1d28-05af9cb571d4/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 17, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/c1/ac/dac1ace2-1609-bcbb-b0f6-6da40f827cbb/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.6</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>1.25042.21</version>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>1.25052.18</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Defender Security</name>

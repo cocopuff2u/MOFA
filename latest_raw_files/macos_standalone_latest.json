@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 17, 2025 04:07 PM EDT",
+    "last_updated": "June 17, 2025 05:06 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -86,16 +86,16 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.98.0 (25060824)",
-            "full_version": "16.98.25060824",
-            "last_updated": "June 08, 2025",
+            "short_version": "16.98.1 (25061520)",
+            "full_version": "16.98.25061520",
+            "last_updated": "June 15, 2025",
             "min_os": "13.0",
-            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.98.25060824_Updater.pkg",
-            "app_update_sha1": "ff22e011e64108a871c9fb85b038bc97439ec687",
-            "app_update_sha256": "fa97db4c583de75e0e9b1564d1d56d1f4eb4573e0064548dd367dabdfdbf8d1d",
+            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.98.25061520_Updater.pkg",
+            "app_update_sha1": "6b025f229d38b48bdff032d810875d13c0794d7c",
+            "app_update_sha256": "10935781207b059e27ad0c2d3619c6cd89c322c8ed1c3ebd051bee855f9a960a",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2228621",
-            "full_update_sha1": "f1d3ada6c8ba266762e45fd9d6c9635c0546089c",
-            "full_update_sha256": "4d75ccde12f923398681328ca3c72d85252e4e13315f0fc956e90e60c713d3fa"
+            "full_update_sha1": "81c0c8371617ead1ec41abda913000d7f46fd78d",
+            "full_update_sha256": "d0566fa73d9a3f67d620472cfa77a5b07f643a4d912508e99af833daceb51078"
         },
         {
             "name": "OneNote",

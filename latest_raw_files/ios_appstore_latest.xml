@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 17, 2025 01:07 PM EDT</last_updated>
+	<last_updated>June 17, 2025 02:09 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,11 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>June 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/db/f4/e7dbf406-344a-d314-9249-f6580cc773a7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/27/0b/cf270bc0-fa45-b345-91bb-0b28ffa1e093/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>You can now edit a recurring event from a certain date forward by selecting &quot;This and All Following Events&quot;</releaseNotes>
-		<version>4.2523.0</version>
+		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
+
+Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
+		<version>4.2522.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>

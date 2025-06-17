@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 17, 2025 09:16 AM EDT</last_updated>
+	<last_updated>June 17, 2025 10:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -129,11 +129,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>June 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/db/da/80dbdae6-b25b-ba84-bb91-764c0c4f3490/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 02, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/38/da/a638daf4-27bd-225d-2849-6d4086819ff0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>In this update we’ve fixed blurry payment icons, optimized image handling, improved accessibility, added a card payment timeout, and removed domain purchase features for a cleaner experience. We've also added new improvements to email receipts for POS (available from WooCommerce 10.0.0)</releaseNotes>
-		<version>22.5</version>
+		<releaseNotes>With this version of the Woo app, you'll be able to see receipts for failed transactions, and enter addresses more easily in order creation. On iPad, we've improved POS search by adding coupon search, and you'll see your most popular products before you search. We've also fixed a crash when reloading order details after a refund on the web.</releaseNotes>
+		<version>22.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -327,11 +327,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>June 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/e8/92/10e89225-0874-090f-5e60-d5401e0c74ec/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/8f/f1/5a8ff113-abf7-5611-d9d2-bdac3c13f484/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>34.5</version>
+		<releaseNotes>- You can find org apps next to workspace apps in the apps section or reach them via the workspaces you have access to. Org apps function like any other item type, appearing on the home page, searchable, and able to be marked as favorites.</releaseNotes>
+		<version>34.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>

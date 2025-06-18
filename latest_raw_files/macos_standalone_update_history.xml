@@ -1,6 +1,12 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>June 18, 2025 12:08 PM EDT</last_scan_date>
+    <last_scan_date>June 18, 2025 01:07 PM EDT</last_scan_date>
+    <release>
+        <date>June 17, 2025</date>
+        <version>16.98 (25061520)</version>
+        <outlook_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.98.25061520_Updater.pkg</outlook_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>June 10, 2025</date>
         <version>16.98 (25060824)</version>

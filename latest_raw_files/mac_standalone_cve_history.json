@@ -1,6 +1,18 @@
 {
-    "last_scan_date": "June 17, 2025 07:06 PM EDT",
+    "last_scan_date": "June 17, 2025 08:31 PM EDT",
     "updates": [
+        {
+            "date_text": "June 17, 2025",
+            "version": "Version 16.98.1 (Build 25061520)",
+            "security_updates": {
+                "N/A": [
+                    {
+                        "cve_name": "N/A",
+                        "url": null
+                    }
+                ]
+            }
+        },
         {
             "date_text": "June 10, 2025",
             "version": "Version 16.98 (Build 25060824)",

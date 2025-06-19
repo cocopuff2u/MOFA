@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 18, 2025 07:06 PM EDT",
+    "last_updated": "June 18, 2025 08:30 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "June 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/8c/73/058c7340-228a-f8aa-8986-21429b659b41/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "June 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/f0/93/93f09371-1d78-d768-a0ad-2813489ea985/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Copilot Command Center: a centralized interface that consolidates Copilot features like summarization, drafts, schedule, etc. into a single, accessible entry point. It dynamically adapts based on account eligibility, ensuring users can access relevant Copilot powered features right when they need them. \n\u2022 Mail merge account setting: users can now choose a specific account\u2014such as a shared mailbox or a non-default account\u2014as the sender for Merge to Email in Word for Mac, instead of always using the default account. \n\u2022 Copilot Attachment Summaries - Users can now generate Copilot summaries for PDFs, Word, and PowerPoint attachments from the attachment well or from the summarize card. This feature helps users quickly grasp key content without opening the file.\n\u2022 Calendar Sharing for On-Premises Mailboxes: Users can now share calendars from Exchange On-Premises accounts. \n\u2022 Add-ins for On-Premises Mailboxes: Users can now use add-ins, such as Zoom & Webex, with Exchange On-Premises accounts. \n\u2022 Up next in menu bar: Users now have the option to configure the visibility of upcoming meetings & appointments in the menu bar via the My Day settings.",
-            "version": "16.98"
+            "releaseNotes": "\u2022 Quality and performance improvements",
+            "version": "16.98.1"
         },
         {
             "name": "MacOS Microsoft OneNote",

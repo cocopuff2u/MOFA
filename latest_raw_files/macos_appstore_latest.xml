@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 18, 2025 07:06 PM EDT</last_updated>
+	<last_updated>June 18, 2025 08:30 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -41,16 +41,11 @@ PowerPoint is introducing Copilot text editing! Rewrite text to convert your tex
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/8c/73/058c7340-228a-f8aa-8986-21429b659b41/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 17, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/f0/93/93f09371-1d78-d768-a0ad-2813489ea985/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Copilot Command Center: a centralized interface that consolidates Copilot features like summarization, drafts, schedule, etc. into a single, accessible entry point. It dynamically adapts based on account eligibility, ensuring users can access relevant Copilot powered features right when they need them. 
-• Mail merge account setting: users can now choose a specific account—such as a shared mailbox or a non-default account—as the sender for Merge to Email in Word for Mac, instead of always using the default account. 
-• Copilot Attachment Summaries - Users can now generate Copilot summaries for PDFs, Word, and PowerPoint attachments from the attachment well or from the summarize card. This feature helps users quickly grasp key content without opening the file.
-• Calendar Sharing for On-Premises Mailboxes: Users can now share calendars from Exchange On-Premises accounts. 
-• Add-ins for On-Premises Mailboxes: Users can now use add-ins, such as Zoom &amp; Webex, with Exchange On-Premises accounts. 
-• Up next in menu bar: Users now have the option to configure the visibility of upcoming meetings &amp; appointments in the menu bar via the My Day settings.</releaseNotes>
-		<version>16.98</version>
+		<releaseNotes>• Quality and performance improvements</releaseNotes>
+		<version>16.98.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

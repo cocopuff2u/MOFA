@@ -1,4 +1,4 @@
-last_updated: June 19, 2025 07:07 PM EDT
+last_updated: June 19, 2025 08:29 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -68,11 +68,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: June 03, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/1a/fc/331afcc7-d4cc-432e-f7eb-ed43224e9d8d/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: June 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/b2/79/84b2796f-0574-a3fe-f751-a62a4ad36264/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and improvements
-    version: 1.1.65280104
+    version: 1.1.66120101
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge

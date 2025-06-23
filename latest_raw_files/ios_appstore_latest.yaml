@@ -1,29 +1,29 @@
-last_updated: June 23, 2025 06:06 PM EDT
+last_updated: June 23, 2025 07:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: June 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c3/ee/9ec3ee06-f0dc-faeb-22a2-34277f3b7d64/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/3e/8b/bf3e8b70-4875-d58e-be89-b5872e427767/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.2
+    version: 2.98.1
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: June 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/a8/b1/25a8b1b1-98a8-b35c-d80d-ea5a2fe69818/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/b3/94/a9b39491-d0bb-ffa9-22b4-2b233a57b131/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.2
+    version: 2.98.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: June 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/2b/cf/b22bcff3-4260-c119-8093-6f1bd650a827/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/96/bc/1296bcca-891f-6bcb-c8a5-c659c237f33a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.2
+    version: 2.98.1
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -76,13 +76,20 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: June 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/48/76/db48767f-2582-ea56-fd72-7c4c0d45b066/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/49/f9/1449f95a-8135-a942-6622-b1aa92d6b852/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
-      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
-      \ version and enjoy a smarter and more efficient Microsoft Edge!"
-    version: 137.3296.92
+    releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
+      \u2022 Customize New Tab Page: Now you have more control with the New Tab Page\u2019\
+      s top-right page settings! Enjoy greater freedom to customize shortcuts and\
+      \ wallpaper.\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch\
+      \ tabs with the improved swipe gesture, now faster, more fluid, and simply delightful\
+      \ to use.\n\u2022 Redesigned settings: Find settings instantly and manage preferences\
+      \ effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads,\
+      \ and browsing history in a sleek side panel while remaining in your workflow.\n\
+      \u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the\
+      \ latest version and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 137.3296.82
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -157,13 +164,20 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: June 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/48/76/db48767f-2582-ea56-fd72-7c4c0d45b066/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/49/f9/1449f95a-8135-a942-6622-b1aa92d6b852/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
-      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
-      \ version and enjoy a smarter and more efficient Microsoft Edge!"
-    version: 137.3296.92
+    releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
+      \u2022 Customize New Tab Page: Now you have more control with the New Tab Page\u2019\
+      s top-right page settings! Enjoy greater freedom to customize shortcuts and\
+      \ wallpaper.\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch\
+      \ tabs with the improved swipe gesture, now faster, more fluid, and simply delightful\
+      \ to use.\n\u2022 Redesigned settings: Find settings instantly and manage preferences\
+      \ effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads,\
+      \ and browsing history in a sleek side panel while remaining in your workflow.\n\
+      \u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the\
+      \ latest version and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 137.3296.82
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

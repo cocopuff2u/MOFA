@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 24, 2025 02:10 AM EDT",
+    "last_updated": "June 24, 2025 03:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "June 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/ee/fd/d3eefdd4-5d55-a44c-ed24-eedad49e1a83/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/db/f4/e7dbf406-344a-d314-9249-f6580cc773a7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "When you tap on a folder in the Edit menu, you can delete, move, rename it, and more.",
-            "version": "4.2524.0"
+            "releaseNotes": "You can now edit a recurring event from a certain date forward by selecting \"This and All Following Events\"",
+            "version": "4.2523.0"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "June 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/48/76/db48767f-2582-ea56-fd72-7c4c0d45b066/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/49/f9/1449f95a-8135-a942-6622-b1aa92d6b852/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release.\n\u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!",
-            "version": "137.3296.92"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Customize New Tab Page: Now you have more control with the New Tab Page\u2019s top-right page settings! Enjoy greater freedom to customize shortcuts and wallpaper.\n\u2022 Smoother Tab Switching with Swipe: Effortlessly switch tabs with the improved swipe gesture, now faster, more fluid, and simply delightful to use.\n\u2022 Redesigned settings: Find settings instantly and manage preferences effortlessly.\n\u2022 iPad Side Panel: Access Copilot, your favorites, downloads, and browsing history in a sleek side panel while remaining in your workflow.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "137.3296.82"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -195,11 +195,11 @@
             "name": "iOS Microsoft Planner",
             "application_name": "Microsoft Planner",
             "bundleId": "com.microsoft.PlannerMobile",
-            "currentVersionReleaseDate": "June 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f0/64/c5f064b9-6f75-9821-aabe-203270f5aaa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 19, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/62/bc/1762bc83-c2b2-4bfe-81bb-f3ddce5c8b06/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "1.17.8"
+            "version": "1.17.7"
         },
         {
             "name": "iOS Microsoft Azure",

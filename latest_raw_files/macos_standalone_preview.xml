@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 24, 2025 10:07 AM EDT</last_updated>
+    <last_updated>June 24, 2025 11:07 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -104,14 +104,14 @@
         <application_id>IMCP01</application_id>
         <application_name>Company Portal.app</application_name>
         <CFBundleVersion>com.microsoft.intune.companyportal</CFBundleVersion>
-        <short_version>5.2504.1</short_version>
-        <full_version>53.2505284.003</full_version>
-        <last_updated>May 29, 2025</last_updated>
+        <short_version>5.2504.2</short_version>
+        <full_version>53.2506311.003</full_version>
+        <last_updated>June 20, 2025</last_updated>
         <min_os>11.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2504.1-Upgrade.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2504.1-Upgrade.pkg</latest_download>
-        <sha1>168be9b75131cbfcf829ac0a3e6b3665994565d7</sha1>
-        <sha256>20a51177d0669ca993d3cda41d1fc838f47dd7780687a8f0287b18dcc2ef341e</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2504.2-Upgrade.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2504.2-Upgrade.pkg</latest_download>
+        <sha1>063ddf7bb4ff189fac1b60ca354414f980b6d4b8</sha1>
+        <sha256>bd14df3b7a5dc2b24a86b5d988eb433103ecaae16e5e4ed211048fe04186c588</sha256>
     </package>
     <package>
         <name>Edge</name>

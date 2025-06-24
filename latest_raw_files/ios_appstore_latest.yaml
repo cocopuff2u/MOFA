@@ -1,4 +1,4 @@
-last_updated: June 24, 2025 01:08 AM EDT
+last_updated: June 24, 2025 02:10 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,12 +27,12 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: June 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/db/f4/e7dbf406-344a-d314-9249-f6580cc773a7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/ee/fd/d3eefdd4-5d55-a44c-ed24-eedad49e1a83/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: You can now edit a recurring event from a certain date forward by
-      selecting "This and All Following Events"
-    version: 4.2523.0
+    releaseNotes: When you tap on a folder in the Edit menu, you can delete, move,
+      rename it, and more.
+    version: 4.2524.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -176,11 +176,11 @@ packages:
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile
-    currentVersionReleaseDate: May 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/62/bc/1762bc83-c2b2-4bfe-81bb-f3ddce5c8b06/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f0/64/c5f064b9-6f75-9821-aabe-203270f5aaa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements.
-    version: 1.17.7
+    version: 1.17.8
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure

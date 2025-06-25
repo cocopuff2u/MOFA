@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 25, 2025 12:13 AM EDT</last_updated>
+	<last_updated>June 25, 2025 01:08 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -60,11 +60,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f9/6b/14f96b60-e9d8-8df7-089b-efea1f2ff0c0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/f3/88/8ef3886d-5c70-6bbf-331a-e0d826c3e632/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Some users have been unable to see all their files or photos. If you notice some files missing, please go to Settings, tap on your account and tap &quot;Reset Account&quot;. This will resync your account anew. Signing out and signing back in should also fix the issue. This might take a while for accounts with many files. Keeping the app in the foreground will speed things up.</releaseNotes>
-		<version>16.15.2</version>
+		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
+		<version>16.16.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>

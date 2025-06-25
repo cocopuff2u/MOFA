@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 25, 2025 01:08 AM EDT",
+    "last_updated": "June 25, 2025 02:10 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "June 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/f3/88/8ef3886d-5c70-6bbf-331a-e0d826c3e632/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f9/6b/14f96b60-e9d8-8df7-089b-efea1f2ff0c0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.16.3"
+            "releaseNotes": "Some users have been unable to see all their files or photos. If you notice some files missing, please go to Settings, tap on your account and tap \"Reset Account\". This will resync your account anew. Signing out and signing back in should also fix the issue. This might take a while for accounts with many files. Keeping the app in the foreground will speed things up.",
+            "version": "16.15.2"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",

@@ -1,4 +1,4 @@
-last_updated: June 26, 2025 02:09 PM EDT
+last_updated: June 26, 2025 03:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -200,14 +200,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: June 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/61/66/d5616688-2a40-93b9-263c-9915eb9daba3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/37/49/2c374970-8653-7a7c-77e9-f9794d781e83/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: Skype is retiring in May 2025. Sign in to Microsoft Teams Free with
-      your Skype credentials, and your chats and contacts will be right where you
-      left them. Enjoy the features you love about Skype, including free calling and
-      messaging, as well as new features like meetings and communities, all in Teams.
-    version: 7.11.0
+    releaseNotes: Bug fixes and performance improvements
+    version: 7.11.1
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint

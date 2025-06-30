@@ -1,29 +1,29 @@
-last_updated: June 30, 2025 09:16 AM EDT
+last_updated: June 30, 2025 10:06 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: June 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/9b/2b/0a9b2b5b-7a15-6e7c-9962-e114b58e7c69/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c3/ee/9ec3ee06-f0dc-faeb-22a2-34277f3b7d64/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.3
+    version: 2.98.2
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: June 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/3f/40/ad3f4020-494a-af4f-89ee-97471a726ac0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/a8/b1/25a8b1b1-98a8-b35c-d80d-ea5a2fe69818/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.3
+    version: 2.98.2
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: June 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/de/15/1dde1543-e9f2-daa1-719e-a8ecdc693860/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/2b/cf/b22bcff3-4260-c119-8093-6f1bd650a827/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.3
+    version: 2.98.2
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -36,15 +36,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: June 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/2a/db/542adb43-1882-ea3a-ec55-7e68fb413108/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 09, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/4d/e2/ff4de227-3ba6-25e4-ecb4-894d5edb23f5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.98.3
+    version: '16.98'
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
@@ -72,18 +72,13 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: June 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/2c/a8/0f2ca859-1f9b-c1cb-db65-be1ca3747340/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
-      \u2022 Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly\
-      \ layout, and smooth tab gestures.\n\u2022 Copilot Pages: After each Copilot\
-      \ response, you can tap \u201CEdit\u201D to turn it into a customizable Page\
-      \ to brainstorm, draft and iterate with Copilot.\n\u2022 Copilot Deep Research:\
-      \ Now you can get detailed, multi-source reports with references via Deep Research.\n\
-      \u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the\
-      \ latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 138.3351.55
+    currentVersionReleaseDate: June 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/48/76/db48767f-2582-ea56-fd72-7c4c0d45b066/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
+      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
+      \ version and enjoy a smarter and more efficient Microsoft Edge!"
+    version: 137.3296.92
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -141,12 +136,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: June 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/3b/83/5d3b832f-2883-5e0f-109b-c86bdf2932cc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/a7/20/75a72056-116f-32aa-be16-43adde6b2bf2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 11.1.0
+    version: 11.0.0
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard

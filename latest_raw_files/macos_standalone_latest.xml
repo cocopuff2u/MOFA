@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 01, 2025 12:08 PM EDT</last_updated>
+    <last_updated>July 01, 2025 01:06 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -102,16 +102,16 @@
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote</CFBundleVersion>
-        <short_version>16.98.0 (25060824)</short_version>
-        <full_version>16.98.25060824</full_version>
-        <last_updated>June 08, 2025</last_updated>
+        <short_version>16.98.3 (25062733)</short_version>
+        <full_version>16.98.25062733</full_version>
+        <last_updated>June 27, 2025</last_updated>
         <min_os>13.0</min_os>
-        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.98.25060824_Updater.pkg</app_only_update_download>
-        <app_update_sha1>5023e3043a2995723872b1ce58ea63cfc2140bf2</app_update_sha1>
-        <app_update_sha256>b28f2f5335d543e901d611ebd52a1e787c16c2f05ebdd054c09a9f2d913ac0b1</app_update_sha256>
+        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.98.25062733_Updater.pkg</app_only_update_download>
+        <app_update_sha1>c73288c8cfd27d66b9f0418e0415676d8573cf20</app_update_sha1>
+        <app_update_sha256>a12e4e2c6b834deb7147d6bdaa4f2613727e7125fe80c57ec69ce7258e34c298</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=820886</full_update_download>
-        <full_update_sha1>e4a6fab6ddf87b4bc4ae84bc3f0944a87c005684</full_update_sha1>
-        <full_update_sha256>c4657ce8f20c6f624c6a542d0316ef141886d9f527e8f8a2ee2305b70c1be845</full_update_sha256>
+        <full_update_sha1>5023e3043a2995723872b1ce58ea63cfc2140bf2</full_update_sha1>
+        <full_update_sha256>b28f2f5335d543e901d611ebd52a1e787c16c2f05ebdd054c09a9f2d913ac0b1</full_update_sha256>
     </package>
     <package>
         <name>Skype</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 30, 2025 11:36 PM EDT",
+    "last_updated": "July 01, 2025 12:20 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "June 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/48/76/db48767f-2582-ea56-fd72-7c4c0d45b066/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release.\n\u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!",
-            "version": "137.3296.92"
+            "currentVersionReleaseDate": "June 29, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/2c/a8/0f2ca859-1f9b-c1cb-db65-be1ca3747340/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "17.0",
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly layout, and smooth tab gestures.\n\u2022 Copilot Pages: After each Copilot response, you can tap \u201cEdit\u201d to turn it into a customizable Page to brainstorm, draft and iterate with Copilot.\n\u2022 Copilot Deep Research: Now you can get detailed, multi-source reports with references via Deep Research.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "138.3351.55"
         },
         {
             "name": "iOS Microsoft Seeing AI",

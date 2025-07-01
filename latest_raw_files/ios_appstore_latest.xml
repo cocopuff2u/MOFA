@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 30, 2025 08:34 PM EDT</last_updated>
+	<last_updated>June 30, 2025 09:36 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -186,16 +186,13 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>June 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/2c/a8/0f2ca859-1f9b-c1cb-db65-be1ca3747340/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release:
-• Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly layout, and smooth tab gestures.
-• Copilot Pages: After each Copilot response, you can tap “Edit” to turn it into a customizable Page to brainstorm, draft and iterate with Copilot.
-• Copilot Deep Research: Now you can get detailed, multi-source reports with references via Deep Research.
-• Fixed some bugs and improved stability and performance.
-Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>138.3351.55</version>
+		<currentVersionReleaseDate>June 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/48/76/db48767f-2582-ea56-fd72-7c4c0d45b066/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
+• Bug fixes, stability and performance improvements.
+Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
+		<version>137.3296.92</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

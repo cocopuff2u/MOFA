@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>July 01, 2025 09:35 PM EDT</last_updated>
+  <last_updated>July 01, 2025 10:38 PM EDT</last_updated>
   <package>
     <name>Production Ring</name>
     <short_version>25.110.0608</short_version>
@@ -36,14 +36,14 @@
   </package>
   <package>
     <name>Upcoming Deferred  Ring</name>
-    <short_version>25.056.0324</short_version>
+    <short_version>25.095.0518</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=861010</full_update_download>
-    <full_update_sha1>bef4705d29e3939446ef8666814467d5c88a8b90</full_update_sha1>
-    <full_update_sha256>f3bbd264da8d72f7e95200d87b675028dfb65b16de4dc888a421cb0a156eaa76</full_update_sha256>
-    <last_updated>April 16, 2025 02:09 AM EDT</last_updated>
+    <full_update_sha1>c232e2db28fcbf9b2c67b5fca241269c849026bf</full_update_sha1>
+    <full_update_sha256>d821e2c8d4295b17689afae55cdf4d35607880ccbb02e0e2383b4d6dcdb16541</full_update_sha256>
+    <last_updated>July 01, 2025 10:38 PM EDT</last_updated>
   </package>
   <package>
     <name>Insider Ring</name>
@@ -58,14 +58,14 @@
   </package>
   <package>
     <name>Rolling Out (Unknown Use)</name>
-    <short_version>25.080.0427</short_version>
+    <short_version>25.110.0608</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=861011</full_update_download>
-    <full_update_sha1>754e01a828a92ddee5c2325ab96b6412d0d59908</full_update_sha1>
-    <full_update_sha256>04b99f050361d351b4e29c185ee5382e9bc977adbb5deeb1209fbe5df2523aed</full_update_sha256>
-    <last_updated>May 23, 2025 02:07 PM EDT</last_updated>
+    <full_update_sha1>e8761e26f2aecbc3df705cae8b58c28647222eca</full_update_sha1>
+    <full_update_sha256>0ffe2ac792b0d4c29b1605743afc50272216de3ae78a8880386d2e925a4c7d42</full_update_sha256>
+    <last_updated>July 01, 2025 10:38 PM EDT</last_updated>
   </package>
   <package>
     <name>App New Version (Unknown Use)</name>

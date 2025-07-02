@@ -1,7 +1,11 @@
-last_scan_date: July 01, 2025 07:06 PM EDT
+last_scan_date: July 01, 2025 08:30 PM EDT
 releases:
+- date: July 01, 2025
+  version: 16.98.3 (25062733)
+  onenote_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.98.25062733_Updater.pkg
+  archive: 'false'
 - date: June 17, 2025
-  version: 16.98 (25061520)
+  version: 16.98.1 (25061520)
   outlook_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.98.25061520_Updater.pkg
   archive: 'false'
 - date: June 10, 2025

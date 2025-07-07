@@ -1,4 +1,4 @@
-last_updated: July 07, 2025 05:06 PM EDT
+last_updated: July 07, 2025 06:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -19,11 +19,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: July 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/8d/34/2d8d34c5-ffa4-38dc-4721-b62fa22b8744/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 30, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/de/15/1dde1543-e9f2-daa1-719e-a8ecdc693860/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.4
+    version: 2.98.3
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -74,8 +74,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: June 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/2c/a8/0f2ca859-1f9b-c1cb-db65-be1ca3747340/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/9f/d8f99f3f-d68d-98df-5234-0078e7775420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
       \u2022 Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly\
@@ -85,7 +85,7 @@ packages:
       \ Now you can get detailed, multi-source reports with references via Deep Research.\n\
       \u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the\
       \ latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 138.3351.55
+    version: 138.3351.70
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -161,8 +161,8 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: July 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/9f/d8f99f3f-d68d-98df-5234-0078e7775420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 29, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/2c/a8/0f2ca859-1f9b-c1cb-db65-be1ca3747340/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
       \u2022 Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly\
@@ -172,7 +172,7 @@ packages:
       \ Now you can get detailed, multi-source reports with references via Deep Research.\n\
       \u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the\
       \ latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 138.3351.70
+    version: 138.3351.55
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

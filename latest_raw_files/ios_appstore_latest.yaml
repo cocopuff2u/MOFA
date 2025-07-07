@@ -1,4 +1,4 @@
-last_updated: July 07, 2025 05:09 AM EDT
+last_updated: July 07, 2025 06:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -74,8 +74,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: June 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/2c/a8/0f2ca859-1f9b-c1cb-db65-be1ca3747340/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/9f/d8f99f3f-d68d-98df-5234-0078e7775420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
       \u2022 Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly\
@@ -85,7 +85,7 @@ packages:
       \ Now you can get detailed, multi-source reports with references via Deep Research.\n\
       \u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the\
       \ latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 138.3351.55
+    version: 138.3351.70
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop

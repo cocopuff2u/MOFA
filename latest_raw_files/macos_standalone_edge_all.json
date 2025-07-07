@@ -1,17 +1,17 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "July 07, 2025 09:18 AM EDT",
+        "last_updated": "July 07, 2025 04:09 PM EDT",
         "Version": [
             {
                 "Name": "current",
-                "Version": "138.0.3351.65",
+                "Version": "138.0.3351.77",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/84bbc955-86c8-45ec-a520-da2c4026e2e1/MicrosoftEdge-138.0.3351.65.pkg",
-                "Full_Update_Sha1": "95e965335ad735f3ddf316e7749f5d14da7d0a4d",
-                "Full_Update_Sha256": "ff125c9e9f5e15372e3a62affa4bb63ada11cb49226c78de1ca5b1b6ffdc3a1b",
-                "Last_Update": "July 01, 2025 01:19 PM EDT"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d98b72a-4c14-4c48-a73a-35f6c2587eba/MicrosoftEdge-138.0.3351.77.pkg",
+                "Full_Update_Sha1": "8a5cdd685fe65724319723fa6e7f2a478b719721",
+                "Full_Update_Sha256": "efba38365a5de0888c172cae50cb43877e0fc3ed2ae6e8d76ce50fa89d62952d",
+                "Last_Update": "July 07, 2025 03:12 PM EDT"
             },
             {
                 "Name": "canary",
@@ -37,14 +37,14 @@
             },
             {
                 "Name": "beta",
-                "Version": "139.0.3405.13",
+                "Version": "139.0.3405.21",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/269344fa-2be7-4583-8926-309850dbc2f8/MicrosoftEdgeBeta-139.0.3405.13.pkg",
-                "Full_Update_Sha1": "f1300afbdcea18782dac33d29fd6d35bc71fe100",
-                "Full_Update_Sha256": "d26136e04fc35df123c9d895fb4bc76ec558313112390bbe0818a2d14120acd8",
-                "Last_Update": "July 03, 2025 01:37 PM EDT"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9bc43e61-0050-4218-bf17-c8eeb95fe481/MicrosoftEdgeBeta-139.0.3405.21.pkg",
+                "Full_Update_Sha1": "897adbeeaf85480856210e4c0087103021bddb7e",
+                "Full_Update_Sha256": "8d6bcea3ce5e10b882765bc60f267939405d66ac6799b4018785d1f6c4f6b7db",
+                "Last_Update": "July 07, 2025 03:07 PM EDT"
             }
         ]
     }

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 06, 2025 08:32 PM EDT</last_updated>
+	<last_updated>July 06, 2025 09:35 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -325,11 +325,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>June 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/b5/29/99b52981-4782-6ee3-a8b5-1ea1c8c766a1/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 06, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/be/9e/bdbe9e41-4be4-2955-979b-fe6de3854373/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>34.6</version>
+		<releaseNotes>- The Home screen has been reorganized to make it easier to access your key items. Recent and frequent items now appear together, and Favorites have been added to Home for quicker access. Navigation buttons have also been updated to better support this new layout.</releaseNotes>
+		<version>34.7</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>

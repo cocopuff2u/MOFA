@@ -1,25 +1,25 @@
 {
-    "last_updated": "July 07, 2025 12:08 PM EDT",
+    "last_updated": "July 07, 2025 01:06 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "June 30, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/9b/2b/0a9b2b5b-7a15-6e7c-9962-e114b58e7c69/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/fc/1b/17fc1b70-2356-b498-c5ee-8797b3bd5f83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.98.3"
+            "version": "2.98.4"
         },
         {
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "June 30, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/3f/40/ad3f4020-494a-af4f-89ee-97471a726ac0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8a/a7/c38aa76b-f751-7fad-ea05-a126b37a68ca/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.98.3"
+            "version": "2.98.4"
         },
         {
             "name": "iOS Microsoft PowerPoint",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "June 29, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/2c/a8/0f2ca859-1f9b-c1cb-db65-be1ca3747340/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/9f/d8f99f3f-d68d-98df-5234-0078e7775420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\u2022 Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly layout, and smooth tab gestures.\n\u2022 Copilot Pages: After each Copilot response, you can tap \u201cEdit\u201d to turn it into a customizable Page to brainstorm, draft and iterate with Copilot.\n\u2022 Copilot Deep Research: Now you can get detailed, multi-source reports with references via Deep Research.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
-            "version": "138.3351.55"
+            "version": "138.3351.70"
         },
         {
             "name": "iOS Microsoft Seeing AI",

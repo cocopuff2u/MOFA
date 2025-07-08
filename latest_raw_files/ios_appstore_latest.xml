@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 08, 2025 02:09 AM EDT</last_updated>
+	<last_updated>July 08, 2025 03:07 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/fc/1b/17fc1b70-2356-b498-c5ee-8797b3bd5f83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 30, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/9b/2b/0a9b2b5b-7a15-6e7c-9962-e114b58e7c69/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.98.4</version>
+		<version>2.98.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
@@ -35,11 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/8a/b1/8f8ab1da-77a7-11d3-428d-e6abf2646296/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 30, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/5c/e0/0c5ce07a-50c7-76b3-de22-77165bf61355/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>When an organizer updates the location of an event you've already responded to, the email will show &quot;Event updated&quot; with the new location.</releaseNotes>
-		<version>4.2526.0</version>
+		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
+
+Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
+		<version>4.2525.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -233,11 +235,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft To-Do</name>
 		<application_name>Microsoft To Do</application_name>
 		<bundleId>com.microsoft.to-do</bundleId>
-		<currentVersionReleaseDate>May 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/53/b1/5b53b1d0-d043-0e8a-e775-ba48d85e9607/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/5c/ed/505ced16-1611-3a45-94e6-b0750961713f/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>We fixed some bugs to improve the app experience.</releaseNotes>
-		<version>2.147</version>
+		<version>2.151</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Teams</name>

@@ -1,4 +1,4 @@
-last_updated: July 07, 2025 11:30 PM EDT
+last_updated: July 08, 2025 12:13 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -19,22 +19,20 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: June 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/de/15/1dde1543-e9f2-daa1-719e-a8ecdc693860/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/8d/34/2d8d34c5-ffa4-38dc-4721-b62fa22b8744/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.98.3
+    version: 2.98.4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: June 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/5c/e0/0c5ce07a-50c7-76b3-de22-77165bf61355/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/8a/b1/8f8ab1da-77a7-11d3-428d-e6abf2646296/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "This update includes performance improvements and bug fixes to\
-      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
-      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
-      \ you."
-    version: 4.2525.0
+    releaseNotes: When an organizer updates the location of an event you've already
+      responded to, the email will show "Event updated" with the new location.
+    version: 4.2526.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote

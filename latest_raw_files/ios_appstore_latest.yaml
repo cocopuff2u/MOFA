@@ -1,4 +1,4 @@
-last_updated: July 08, 2025 09:35 PM EDT
+last_updated: July 08, 2025 10:40 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -64,11 +64,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: June 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/b2/79/84b2796f-0574-a3fe-f751-a62a4ad36264/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: July 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/6e/5e/4d6e5e71-54d6-f1e9-bd30-ebaa40d27350/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: Bug fixes and improvements
-    version: 1.1.66120101
+    releaseNotes: Bug fixes and Improvements
+    version: 1.1.67040101
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
@@ -142,12 +142,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: June 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/3b/83/5d3b832f-2883-5e0f-109b-c86bdf2932cc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/05/da/1205da67-d28c-d581-8088-c8a487e8da05/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 11.1.0
+    version: 11.3.0
   - name: iOS Microsoft Whiteboard
     application_name: Whiteboard - Infinity Canvas
     bundleId: cn.readpad.tool.iwhiteboard
@@ -203,11 +203,11 @@ packages:
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
-    currentVersionReleaseDate: May 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/53/b1/5b53b1d0-d043-0e8a-e775-ba48d85e9607/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/5c/ed/505ced16-1611-3a45-94e6-b0750961713f/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: We fixed some bugs to improve the app experience.
-    version: '2.147'
+    version: '2.151'
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
@@ -239,11 +239,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: July 01, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c2/d9/6bc2d9b1-1b42-18d2-005c-3ef8cbd6a7d9/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: July 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/8a/97/fa8a97bd-ae84-ed73-d9e0-5d9c903f31ac/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25064.3
+    version: 3.25065.4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 09, 2025 09:35 PM EDT</last_updated>
+	<last_updated>July 09, 2025 10:40 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -243,11 +243,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>July 03, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/28/e0/1928e018-9483-cbf6-bcf4-044006cdc574/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/0e/0f/fa0e0fb6-2e46-3031-66ac-e0e553a63146/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Skype is retiring in May 2025. Sign in to Microsoft Teams Free with your Skype credentials, and your chats and contacts will be right where you left them. Enjoy the features you love about Skype, including free calling and messaging, as well as new features like meetings and communities, all in Teams.</releaseNotes>
-		<version>7.12.0</version>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>7.12.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>
@@ -343,11 +343,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Intune Company Portal</name>
 		<application_name>Intune Company Portal</application_name>
 		<bundleId>com.microsoft.CompanyPortal</bundleId>
-		<currentVersionReleaseDate>July 09, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/db/55/23db550d-3c86-7fd8-a83d-c6dc169596a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/df/ce/ccdfced4-030b-7b7d-911a-ffd71a8dd9ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We’ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.</releaseNotes>
-		<version>5.2504.2</version>
+		<version>5.2504.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Azure Information Protection</name>

@@ -499,4 +499,11 @@ if __name__ == "__main__":
         # Always update last_updated field even if no channel data changed
         if os.path.isfile(global_file):
             update_last_updated_in_xml(global_file)
+            # Regenerate JSON and YAML to reflect new last_updated
+            json_file = global_file.replace(".xml", ".json")
+            yaml_file = global_file.replace(".xml", ".yaml")
+            log(f"Regenerating JSON output at '{json_file}'...")
+            convert_xml_to_json(global_file, json_file)
+            log(f"Regenerating YAML output at '{yaml_file}'...")
+            convert_xml_to_yaml(global_file, yaml_file)
     log("Edge version update process completed.")

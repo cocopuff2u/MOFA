@@ -179,7 +179,7 @@ jobs:
         run: |
           python3 .github/actions/update_readme.py
 
-      - name: Commit changes for README (if any)ßßß
+      - name: Commit changes for README (if any)
         env:
           TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |

@@ -496,4 +496,7 @@ if __name__ == "__main__":
         update_global_file(global_file, info_list)
     else:
         log("No updates needed for any channel.", "SUCCESS")
+        # Always update last_updated field even if no channel data changed
+        if os.path.isfile(global_file):
+            update_last_updated_in_xml(global_file)
     log("Edge version update process completed.")

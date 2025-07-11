@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 11, 2025 02:10 AM EDT</last_updated>
+	<last_updated>July 11, 2025 05:08 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -60,11 +60,26 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>June 26, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/d4/29/8ad42976-a7c4-035d-45a6-4d79182474a3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/4b/e5/184be569-19f2-b485-46c7-af35e179dda3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>16.16.4</version>
+		<releaseNotes>**What’s New**
+We’ve been busy behind the scenes making OneDrive even better. Here’s what’s new and improved:
+
+**New**
+Shared Folders in Folder Picker: You can now access shared folders directly from the folder picker—making it easier to organize and collaborate on the go.
+
+**Fixed &amp; Improved**
+- Uploads in the Files Provider Extension are now reliable—no more duplicates or failed attempts
+- Tapping quickly on a photo no longer opens it multiple times
+- File details now display correctly when using \“Open in New Window\”
+- Album experience is smoother with fixed shimmer effects
+- Folder picker rename and scan issues have been resolved
+
+Thanks for using OneDrive! We’re always working to improve your experience. If you run into any issues, just shake your device and tap \“Send Feedback.\”
+
+\*These notes were generated using Copilot</releaseNotes>
+		<version>16.17.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>

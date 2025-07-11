@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 11, 2025 02:10 AM EDT</last_updated>
+	<last_updated>July 11, 2025 03:08 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -76,20 +76,13 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>June 09, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9c/43/d29c4383-7913-1ebe-e774-1fa018b1fd25/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 11, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/28/4d/a5284d7b-bb8b-07f8-bdee-4ae23603268f/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates:
-
-• Fixed an issue that prevented switching focus between local and remote apps.
-• Improved the reliability of mouse cursor shape updates.
-• Resolved problems with the Quick Launcher filter.
-• Reworked the UI to better handle empty states in the Devices and Apps tabs.
-• Cleaned up the text for some menu bar and pop-up menus entries.
-• Resolved connectivity issues affecting users in Zscaler-protected environments.
+		<releaseNotes>In this release we fixed a bug that prevented the workspaces subscription dialog from discovering active feeds.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.1.8</version>
+		<version>11.1.9</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

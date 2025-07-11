@@ -26,7 +26,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_latest.py
-          git add latest_raw_files/macos_standalone_latest.xml latest_raw_files/macos_standalone_latest.yaml latest_raw_files/macos_standalone_latest.json
+          git add latest_raw_files/*
 
       - name: Commit changes for standalone XML (if any)
         continue-on-error: true
@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/macos_standalone_latest.xml latest_raw_files/macos_standalone_latest.yaml latest_raw_files/macos_standalone_latest.json
+          git add latest_raw_files/*
           git commit -m "Auto updating standalone XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
@@ -43,7 +43,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_update_history.py
-          git add latest_raw_files/macos_standalone_update_history.xml latest_raw_files/macos_standalone_update_history.yaml latest_raw_files/macos_standalone_update_history.json
+          git add latest_raw_files/*
 
       - name: Commit changes for standalone update history (if any)
         continue-on-error: true
@@ -52,7 +52,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/macos_standalone_update_history.xml latest_raw_files/macos_standalone_update_history.yaml latest_raw_files/macos_standalone_update_history.json
+          git add latest_raw_files/*
           git commit -m "Auto updating standalone update history XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
@@ -60,7 +60,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_cve_history.py
-          git add latest_raw_files/mac_standalone_cve_history.xml latest_raw_files/mac_standalone_cve_history.yaml latest_raw_files/mac_standalone_cve_history.json
+          git add latest_raw_files/*
 
       - name: Commit changes for standalone CVE history (if any)
         continue-on-error: true
@@ -69,7 +69,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/mac_standalone_cve_history.xml latest_raw_files/mac_standalone_cve_history.yaml latest_raw_files/mac_standalone_cve_history.json
+          git add latest_raw_files/*
           git commit -m "Auto updating standalone CVE history XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
@@ -77,7 +77,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_appstore_latest.py
-          git add latest_raw_files/macos_appstore_latest.xml latest_raw_files/macos_appstore_latest.yaml latest_raw_files/macos_appstore_latest.json
+          git add latest_raw_files/*
 
       - name: Commit changes for macOS XML (if any)
         continue-on-error: true
@@ -86,7 +86,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/macos_appstore_latest.xml latest_raw_files/macos_appstore_latest.yaml latest_raw_files/macos_appstore_latest.json
+          git add latest_raw_files/*
           git commit -m "Auto updating macOS XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
@@ -94,7 +94,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_ios_appstore_latest.py
-          git add latest_raw_files/ios_appstore_latest.xml latest_raw_files/ios_appstore_latest.yaml latest_raw_files/ios_appstore_latest.json
+          git add latest_raw_files/*
 
       - name: Commit changes for iOS XML (if any)
         continue-on-error: true
@@ -103,7 +103,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/ios_appstore_latest.xml latest_raw_files/ios_appstore_latest.yaml latest_raw_files/ios_appstore_latest.json
+          git add latest_raw_files/*
           git commit -m "Auto updating iOS XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
@@ -111,7 +111,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_onedrive_all.py
-          git add latest_raw_files/macos_standalone_onedrive_all.xml latest_raw_files/macos_standalone_onedrive_all.yaml latest_raw_files/macos_standalone_onedrive_all.json
+          git add latest_raw_files/*
 
       - name: Commit changes for OneDrive XML (if any)
         continue-on-error: true
@@ -120,7 +120,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/macos_standalone_onedrive_all.xml latest_raw_files/macos_standalone_onedrive_all.yaml latest_raw_files/macos_standalone_onedrive_all.json
+          git add latest_raw_files/*
           git commit -m "Auto updating iOS XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
@@ -128,7 +128,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_preview.py
-          git add latest_raw_files/macos_standalone_preview.xml latest_raw_files/macos_standalone_preview.yaml latest_raw_files/macos_standalone_preview.json
+          git add latest_raw_files/*
 
       - name: Commit changes for macOS standalone preview (if any)
         continue-on-error: true
@@ -137,7 +137,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/macos_standalone_preview.xml latest_raw_files/macos_standalone_preview.yaml latest_raw_files/macos_standalone_preview.json
+          git add latest_raw_files/*
           git commit -m "Auto updating macOS standalone preview XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
@@ -145,7 +145,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_macos_standalone_beta.py
-          git add latest_raw_files/macos_standalone_beta.xml latest_raw_files/macos_standalone_beta.yaml latest_raw_files/macos_standalone_beta.json
+          git add latest_raw_files/*
 
       - name: Commit changes for macOS standalone beta (if any)
         continue-on-error: true
@@ -154,7 +154,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/macos_standalone_beta.xml latest_raw_files/macos_standalone_beta.yaml latest_raw_files/macos_standalone_beta.json
+          git add latest_raw_files/*
           git commit -m "Auto updating macOS standalone beta XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
@@ -162,7 +162,7 @@ jobs:
         continue-on-error: true
         run: |
           python3 .github/actions/generate_edge_all.py
-          git add latest_raw_files/macos_standalone_edge_all.xml latest_raw_files/macos_standalone_edge_all.yaml latest_raw_files/macos_standalone_edge_all.json
+          git add latest_raw_files/*
 
       - name: Commit changes for macOS Edge All (if any)
         continue-on-error: true
@@ -171,8 +171,8 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest_raw_files/macos_standalone_edge_all.xml latest_raw_files/macos_standalone_edge_all.yaml latest_raw_files/macos_standalone_edge_all.json
-          git commit -m "Auto updating macOS standalone beta XML, YAML, JSON files" || echo "No changes to commit"
+          git add latest_raw_files/*
+          git commit -m "Auto updating macOS Edge All XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
       - name: Run update script for README

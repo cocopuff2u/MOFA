@@ -1,24 +1,24 @@
 latest:
-  last_updated: July 11, 2025 07:06 PM EDT
+  last_updated: July 11, 2025 08:30 PM EDT
   package:
   - name: Production Ring
-    short_version: 25.115.0615
+    short_version: 25.122.0624
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.115.0615.0002/universal/OneDrive.pkg
-    full_update_sha1: 7e106772d8ba1360b693623183ada919dc2e86d0
-    full_update_sha256: 286da29f27b1fb6190b4b13039893d93f3ed663f41bef5369c95e3a3a6eec155
-    last_updated: July 07, 2025 04:07 PM EDT
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.122.0624.0003/universal/OneDrive.pkg
+    full_update_sha1: ca9feeb9d96fd15731e4e3e69d6b98072ef32a7d
+    full_update_sha256: bb308fb37adfb3c84ead5e160f9c67de78df30a871e4a8c0a66224795f136a55
+    last_updated: July 11, 2025 08:30 PM EDT
   - name: Upcoming Production Ring
-    short_version: 25.115.0615
+    short_version: 25.122.0624
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.115.0615.0002/universal/OneDrive.pkg
-    full_update_sha1: 7e106772d8ba1360b693623183ada919dc2e86d0
-    full_update_sha256: 286da29f27b1fb6190b4b13039893d93f3ed663f41bef5369c95e3a3a6eec155
-    last_updated: July 07, 2025 04:07 PM EDT
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.122.0624.0003/universal/OneDrive.pkg
+    full_update_sha1: ca9feeb9d96fd15731e4e3e69d6b98072ef32a7d
+    full_update_sha256: bb308fb37adfb3c84ead5e160f9c67de78df30a871e4a8c0a66224795f136a55
+    last_updated: July 11, 2025 08:30 PM EDT
   - name: Deferred Ring
     short_version: 25.056.0324
     application_id: ONDR18
@@ -38,14 +38,14 @@ latest:
     full_update_sha256: d821e2c8d4295b17689afae55cdf4d35607880ccbb02e0e2383b4d6dcdb16541
     last_updated: July 01, 2025 10:38 PM EDT
   - name: Insider Ring
-    short_version: 25.110.0608
+    short_version: 25.122.0624
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.110.0608.0001/universal/OneDrive.pkg
-    full_update_sha1: e8761e26f2aecbc3df705cae8b58c28647222eca
-    full_update_sha256: 0ffe2ac792b0d4c29b1605743afc50272216de3ae78a8880386d2e925a4c7d42
-    last_updated: June 27, 2025 01:06 PM EDT
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.122.0624.0003/universal/OneDrive.pkg
+    full_update_sha1: ca9feeb9d96fd15731e4e3e69d6b98072ef32a7d
+    full_update_sha256: bb308fb37adfb3c84ead5e160f9c67de78df30a871e4a8c0a66224795f136a55
+    last_updated: July 11, 2025 08:30 PM EDT
   - name: Rolling Out (Unknown Use)
     short_version: 25.110.0608
     application_id: ONDR18

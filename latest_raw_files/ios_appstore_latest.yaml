@@ -1,21 +1,21 @@
-last_updated: July 14, 2025 11:07 AM EDT
+last_updated: July 14, 2025 12:08 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: July 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/b0/b1/6bb0b1bd-516e-f723-5226-c5ec14d2caed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/fc/1b/17fc1b70-2356-b498-c5ee-8797b3bd5f83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.99'
+    version: 2.98.4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: July 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/4e/a6/324ea6df-ea41-622b-36ea-e3dc4aec8d21/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8a/a7/c38aa76b-f751-7fad-ea05-a126b37a68ca/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.99'
+    version: 2.98.4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -36,15 +36,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: July 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/3d/e2/e13de285-11c2-717d-102f-8c0b3f541e1a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 30, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/2a/db/542adb43-1882-ea3a-ec55-7e68fb413108/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.99'
+    version: 16.98.3
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
@@ -83,8 +83,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: July 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/bc/30/0dbc305d-2575-64b9-0bcf-371f7697cd60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/9f/d8f99f3f-d68d-98df-5234-0078e7775420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
       \u2022 Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly\
@@ -94,15 +94,15 @@ packages:
       \ Now you can get detailed, multi-source reports with references via Deep Research.\n\
       \u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the\
       \ latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 138.3351.83
+    version: 138.3351.70
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
-    currentVersionReleaseDate: July 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/08/cb/ef08cbbd-5851-10eb-b09b-d7ca66203765/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 09, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/7d/8e/5b7d8ee9-3e7d-2e7b-77c6-f47ab88ddae6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.99'
+    version: '2.98'
   - name: iOS Microsoft Warehouse Management
     application_name: Microsoft Warehouse Management
     bundleId: com.microsoft.WarehouseManagement
@@ -116,15 +116,15 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: July 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/a6/fe/2aa6fecc-c238-994e-9862-fe61fd122c12/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 01, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/04/d3/8a04d3e7-c983-e8db-f4e9-e25b7b7d60f4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: "Say hello to smoother shipping and sales! We\u2019ve enhanced Shipping\
-      \ Labels with UPS extras and smarter forms, fixed price and display glitches,\
-      \ and made shipment management easier. Plus, Point of Sale now has its own tab\
-      \ for eligible stores, barcode scanning, and smoother product refresh for faster\
-      \ checkout."
-    version: '22.7'
+    releaseNotes: Shipping just got a major upgrade! Our revamped flow makes it easier
+      than ever to create and manage shipping labels for stores using WooCommerce
+      Shipping. We've also improved some icons and fixed a display issue with the
+      order list's last updated time. This release includes some behind-the-scenes
+      performance improvements too.
+    version: '22.6'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
@@ -170,8 +170,8 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: July 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/bc/30/0dbc305d-2575-64b9-0bcf-371f7697cd60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/9f/d8f99f3f-d68d-98df-5234-0078e7775420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release:\n\
       \u2022 Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly\
@@ -181,7 +181,7 @@ packages:
       \ Now you can get detailed, multi-source reports with references via Deep Research.\n\
       \u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the\
       \ latest version and enjoy a smarter, more efficient Microsoft Edge!"
-    version: 138.3351.83
+    version: 138.3351.70
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

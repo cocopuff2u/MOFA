@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 14, 2025 04:07 PM EDT</last_updated>
+	<last_updated>July 14, 2025 05:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/fc/1b/17fc1b70-2356-b498-c5ee-8797b3bd5f83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/b0/b1/6bb0b1bd-516e-f723-5226-c5ec14d2caed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.98.4</version>
+		<version>2.99</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8a/a7/c38aa76b-f751-7fad-ea05-a126b37a68ca/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/4e/a6/324ea6df-ea41-622b-36ea-e3dc4aec8d21/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.98.4</version>
+		<version>2.99</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -60,8 +60,8 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>July 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/4b/e5/184be569-19f2-b485-46c7-af35e179dda3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/ce/8b/40ce8b7b-3a93-9ef9-5ca0-1e458112ad04/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>**What’s New**
 We’ve been busy behind the scenes making OneDrive even better. Here’s what’s new and improved:
@@ -79,7 +79,7 @@ Shared Folders in Folder Picker: You can now access shared folders directly from
 Thanks for using OneDrive! We’re always working to improve your experience. If you run into any issues, just shake your device and tap \“Send Feedback.\”
 
 \*These notes were generated using Copilot</releaseNotes>
-		<version>16.17.2</version>
+		<version>16.17.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
@@ -105,8 +105,8 @@ Thanks for using OneDrive! We’re always working to improve your experience. If
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/9f/d8f99f3f-d68d-98df-5234-0078e7775420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/bc/30/0dbc305d-2575-64b9-0bcf-371f7697cd60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release:
 • Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly layout, and smooth tab gestures.
@@ -114,17 +114,17 @@ Thanks for using OneDrive! We’re always working to improve your experience. If
 • Copilot Deep Research: Now you can get detailed, multi-source reports with references via Deep Research.
 • Fixed some bugs and improved stability and performance.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>138.3351.70</version>
+		<version>138.3351.83</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
 		<application_name>Microsoft Loop</application_name>
 		<bundleId>com.microsoft.loop</bundleId>
-		<currentVersionReleaseDate>June 09, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/7d/8e/5b7d8ee9-3e7d-2e7b-77c6-f47ab88ddae6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/08/cb/ef08cbbd-5851-10eb-b09b-d7ca66203765/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.98</version>
+		<version>2.99</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Warehouse Management</name>
@@ -141,11 +141,11 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>July 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/04/d3/8a04d3e7-c983-e8db-f4e9-e25b7b7d60f4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/a6/fe/2aa6fecc-c238-994e-9862-fe61fd122c12/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Shipping just got a major upgrade! Our revamped flow makes it easier than ever to create and manage shipping labels for stores using WooCommerce Shipping. We've also improved some icons and fixed a display issue with the order list's last updated time. This release includes some behind-the-scenes performance improvements too.</releaseNotes>
-		<version>22.6</version>
+		<releaseNotes>Say hello to smoother shipping and sales! We’ve enhanced Shipping Labels with UPS extras and smarter forms, fixed price and display glitches, and made shipment management easier. Plus, Point of Sale now has its own tab for eligible stores, barcode scanning, and smoother product refresh for faster checkout.</releaseNotes>
+		<version>22.7</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -201,8 +201,8 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/9f/d8f99f3f-d68d-98df-5234-0078e7775420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/bc/30/0dbc305d-2575-64b9-0bcf-371f7697cd60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release:
 • Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly layout, and smooth tab gestures.
@@ -210,7 +210,7 @@ Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge
 • Copilot Deep Research: Now you can get detailed, multi-source reports with references via Deep Research.
 • Fixed some bugs and improved stability and performance.
 Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
-		<version>138.3351.70</version>
+		<version>138.3351.83</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

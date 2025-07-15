@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 15, 2025 03:06 PM EDT</last_updated>
+	<last_updated>July 15, 2025 04:07 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/b0/b1/6bb0b1bd-516e-f723-5226-c5ec14d2caed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/fc/1b/17fc1b70-2356-b498-c5ee-8797b3bd5f83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99</version>
+		<version>2.98.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
@@ -35,11 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/8a/b1/8f8ab1da-77a7-11d3-428d-e6abf2646296/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/ee/db/0aeedbc4-35f2-cc2c-ead9-19479e08ed68/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>When an organizer updates the location of an event you've already responded to, the email will show &quot;Event updated&quot; with the new location.</releaseNotes>
-		<version>4.2526.0</version>
+		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
+
+Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
+		<version>4.2527.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -288,11 +290,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/df/82/31df8283-72d0-1b34-091e-984fc7af88d0/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/8a/97/fa8a97bd-ae84-ed73-d9e0-5d9c903f31ac/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.25071.6</version>
+		<version>3.25065.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>

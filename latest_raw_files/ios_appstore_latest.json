@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 15, 2025 02:10 AM EDT",
+    "last_updated": "July 15, 2025 03:09 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -45,21 +45,21 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "July 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/3d/e2/e13de285-11c2-717d-102f-8c0b3f541e1a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 30, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/2a/db/542adb43-1882-ea3a-ec55-7e68fb413108/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.99"
+            "version": "16.98.3"
         },
         {
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "July 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/4b/e5/184be569-19f2-b485-46c7-af35e179dda3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 14, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/ce/8b/40ce8b7b-3a93-9ef9-5ca0-1e458112ad04/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "**What\u2019s New**\nWe\u2019ve been busy behind the scenes making OneDrive even better. Here\u2019s what\u2019s new and improved:\n\n**New**\nShared Folders in Folder Picker: You can now access shared folders directly from the folder picker\u2014making it easier to organize and collaborate on the go.\n\n**Fixed & Improved**\n- Uploads in the Files Provider Extension are now reliable\u2014no more duplicates or failed attempts\n- Tapping quickly on a photo no longer opens it multiple times\n- File details now display correctly when using \\\u201cOpen in New Window\\\u201d\n- Album experience is smoother with fixed shimmer effects\n- Folder picker rename and scan issues have been resolved\n\nThanks for using OneDrive! We\u2019re always working to improve your experience. If you run into any issues, just shake your device and tap \\\u201cSend Feedback.\\\u201d\n\n\\*These notes were generated using Copilot",
-            "version": "16.17.2"
+            "version": "16.17.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",

@@ -184,8 +184,8 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 
 /bin/rm -rf /Applications/.Microsoft\ OneNote.app.installBackup
 
-/bin/rm -rf $HOME/Library/Group\ Containers/UBF8T369G9.Office/OneNote
-/bin/rm -rf $HOME/Library/Group\ Containers/UBF8T369G9.Office/FontCache
-/bin/rm -rf $HOME/Library/Group\ Containers/UBF8T369G9.Office/TemporaryItems
+/bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/OneNote
+/bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/FontCache
+/bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/TemporaryItems
 
 exit 0

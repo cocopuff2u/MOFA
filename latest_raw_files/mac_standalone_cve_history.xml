@@ -1,6 +1,44 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>July 16, 2025 01:08 PM EDT</last_scan_date>
+    <last_scan_date>July 16, 2025 02:09 PM EDT</last_scan_date>
+    <Update>
+        <Date>July 15, 2025</Date>
+        <Version>Version 16.99 (Build 25071321)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2025-48812</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-48812</URL>
+                <CVE>CVE-2025-49711</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49711</URL>
+            </Application>
+            <Application>
+                <Name>PowerPoint</Name>
+                <CVE>CVE-2025-49705</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49705</URL>
+            </Application>
+            <Application>
+                <Name>Word</Name>
+                <CVE>CVE-2025-49698</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49698</URL>
+                <CVE>CVE-2025-49703</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49703</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2025-49695</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49695</URL>
+                <CVE>CVE-2025-49696</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49696</URL>
+                <CVE>CVE-2025-49697</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49697</URL>
+                <CVE>CVE-2025-49699</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49699</URL>
+                <CVE>CVE-2025-49702</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49702</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>July 1, 2025</Date>
         <Version>Version 16.98.3 (Build 25062733)</Version>

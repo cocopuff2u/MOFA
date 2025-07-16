@@ -1,5 +1,32 @@
-last_scan_date: July 16, 2025 01:08 PM EDT
+last_scan_date: July 16, 2025 02:09 PM EDT
 updates:
+- date_text: July 15, 2025
+  security_updates:
+    Excel:
+    - cve_name: CVE-2025-48812
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-48812
+    - cve_name: CVE-2025-49711
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49711
+    Office Suite:
+    - cve_name: CVE-2025-49695
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49695
+    - cve_name: CVE-2025-49696
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49696
+    - cve_name: CVE-2025-49697
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49697
+    - cve_name: CVE-2025-49699
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49699
+    - cve_name: CVE-2025-49702
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49702
+    PowerPoint:
+    - cve_name: CVE-2025-49705
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49705
+    Word:
+    - cve_name: CVE-2025-49698
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49698
+    - cve_name: CVE-2025-49703
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49703
+  version: Version 16.99 (Build 25071321)
 - date_text: July 1, 2025
   security_updates:
     N/A:

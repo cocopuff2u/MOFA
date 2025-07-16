@@ -1,15 +1,16 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 16, 2025 12:19 AM EDT</last_updated>
+	<last_updated>July 16, 2025 01:11 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/c5/4b/66c54b6b-0ea7-cd7f-e1d8-8bdc2a84eb84/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/4e/c1/194ec1ba-31a1-6da5-a4e2-bfaf15a2a366/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Easily write a prompt or choose quick actions from the Copilot icon in your Word doc: The Copilot icon in your document margin makes it easy to quickly add a prompt or choose from a range of quick options Copilot can offer.</releaseNotes>
-		<version>16.99</version>
+		<releaseNotes>• Shortcuts now available for MacOS.
+• Notification emails for mentions, tasks, comments, and replies will now contain context previews even when the source document is encrypted, and the email will inherit the document's security policies.</releaseNotes>
+		<version>16.98</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
@@ -29,25 +30,23 @@ View multiple panes, sheets or workbooks Side by Side: You can now quickly compa
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/4b/cb/9c4bcbfa-b71b-02d5-9d92-769525f6ce5a/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/ea/f6/d7eaf68e-d6a2-80eb-9c5c-71024ca43246/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Shortcuts now available for MacOS.
-• Design Suggestions: Combining the Power of Designer and Microsoft Copilot Microsoft 365 Copilot users can now access tailored template and slide design suggestions alongside familiar Designer layouts under Design Suggestions. These suggestions will offer creative options to make your slides both informative and visually captivating. Design suggestions makes presentation and slide creation easy and efficient.
-• Notification emails for mentions, tasks, comments, and replies will now contain context previews even when the source document is encrypted, and the email will inherit the document's security policies.
-• You can now reference a TXT file when you create a presentation with Copilot within the PowerPoint application.
-PowerPoint is introducing Copilot text editing! Rewrite text to convert your text block (paragraphs) to bullets/lists.</releaseNotes>
-		<version>16.98</version>
+		<releaseNotes>Create a PowerPoint slide from a file or prompt: Creating impactful slides can be challenging and time-consuming. Copilot helps you quickly turn your ideas and files into a fully designed slide with content ready to edit and refine, making the presentation creation and refinement process more personalized and efficient.</releaseNotes>
+		<version>16.99</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>June 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/f0/93/93f09371-1d78-d768-a0ad-2813489ea985/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/b8/02/45b80293-cb7c-d508-09db-e3ea56f6cf9b/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Quality and performance improvements</releaseNotes>
-		<version>16.98.1</version>
+		<releaseNotes>Paragraph Settings: Added support for paragraph spacing in the new email editor. 
+
+Keyboard Shortcut Customization in Settings: You can now customize keyboard shortcuts directly from the main app settings—making it easier to find and use.</releaseNotes>
+		<version>16.99</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

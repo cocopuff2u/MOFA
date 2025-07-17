@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 17, 2025 10:05 AM EDT",
+    "last_updated": "July 17, 2025 11:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -65,21 +65,21 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Link to Windows",
             "bundleId": "com.microsoft.LinkToWindows",
-            "currentVersionReleaseDate": "June 17, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/c1/ac/dac1ace2-1609-bcbb-b0f6-6da40f827cbb/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/9b/5f/e39b5f68-dadf-5d46-4a9f-e388e37325de/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.6",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "1.25052.18"
+            "version": "1.25062.16"
         },
         {
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "July 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/6e/5e/4d6e5e71-54d6-f1e9-bd30-ebaa40d27350/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/57/d5/0957d591-622d-99c7-9771-c961eca0faab/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and Improvements",
-            "version": "1.1.67040101"
+            "version": "1.1.67140102"
         },
         {
             "name": "iOS Microsoft Copilot",

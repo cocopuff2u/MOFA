@@ -1,15 +1,16 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 16, 2025 07:07 PM EDT</last_updated>
+	<last_updated>July 16, 2025 08:31 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/c5/4b/66c54b6b-0ea7-cd7f-e1d8-8bdc2a84eb84/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/4e/c1/194ec1ba-31a1-6da5-a4e2-bfaf15a2a366/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Easily write a prompt or choose quick actions from the Copilot icon in your Word doc: The Copilot icon in your document margin makes it easy to quickly add a prompt or choose from a range of quick options Copilot can offer.</releaseNotes>
-		<version>16.99</version>
+		<releaseNotes>• Shortcuts now available for MacOS.
+• Notification emails for mentions, tasks, comments, and replies will now contain context previews even when the source document is encrypted, and the email will inherit the document's security policies.</releaseNotes>
+		<version>16.98</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>

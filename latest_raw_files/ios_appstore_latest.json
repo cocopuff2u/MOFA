@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 18, 2025 07:06 PM EDT",
+    "last_updated": "July 18, 2025 08:31 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -275,11 +275,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Microsoft Advertising",
             "bundleId": "com.microsoft.bingadsmobile",
-            "currentVersionReleaseDate": "February 25, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6d/0a/156d0acd-9621-4f06-dd8a-3c4f57b2ea77/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c2/98/7ec298fd-bc75-b3fb-71a7-08f70b8e361c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.4",
             "releaseNotes": "With the latest release, the app now supports the Simplified Chinese language and locale formatting.",
-            "version": "2.22.9"
+            "version": "2.22.16"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",

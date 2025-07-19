@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 18, 2025 07:06 PM EDT</last_updated>
+	<last_updated>July 18, 2025 08:31 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -310,11 +310,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Microsoft Advertising</application_name>
 		<bundleId>com.microsoft.bingadsmobile</bundleId>
-		<currentVersionReleaseDate>February 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6d/0a/156d0acd-9621-4f06-dd8a-3c4f57b2ea77/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 18, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c2/98/7ec298fd-bc75-b3fb-71a7-08f70b8e361c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>13.4</minimumOsVersion>
 		<releaseNotes>With the latest release, the app now supports the Simplified Chinese language and locale formatting.</releaseNotes>
-		<version>2.22.9</version>
+		<version>2.22.16</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>

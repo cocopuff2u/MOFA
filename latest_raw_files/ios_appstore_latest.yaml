@@ -1,4 +1,4 @@
-last_updated: July 19, 2025 07:05 AM EDT
+last_updated: July 19, 2025 08:10 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -267,12 +267,12 @@ packages:
   - name: iOS Microsoft Advertising
     application_name: Microsoft Advertising
     bundleId: com.microsoft.bingadsmobile
-    currentVersionReleaseDate: February 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6d/0a/156d0acd-9621-4f06-dd8a-3c4f57b2ea77/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c2/98/7ec298fd-bc75-b3fb-71a7-08f70b8e361c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '13.4'
     releaseNotes: With the latest release, the app now supports the Simplified Chinese
       language and locale formatting.
-    version: 2.22.9
+    version: 2.22.16
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Microsoft Lens: PDF Scanner'
     bundleId: com.microsoft.officelens
@@ -328,11 +328,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: July 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/4f/38/b14f3876-5d3d-c89f-03ec-ae42ea92a2b1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/6d/ca/e66dca96-fc67-5ae8-c975-a3ab6ecc94e8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.99'
+    version: 2.99.1
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

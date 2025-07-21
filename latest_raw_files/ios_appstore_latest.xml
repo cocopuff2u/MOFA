@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 21, 2025 09:18 AM EDT</last_updated>
+	<last_updated>July 21, 2025 10:08 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>July 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/d9/95/98d99502-2ba0-5611-039c-b286d3ec62d6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/b0/b1/6bb0b1bd-516e-f723-5226-c5ec14d2caed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99.1</version>
+		<version>2.99</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>July 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/59/7e/fd597e8f-a4a7-a19f-fc76-3186267fb239/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/4e/a6/324ea6df-ea41-622b-36ea-e3dc4aec8d21/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99.1</version>
+		<version>2.99</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -35,13 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>July 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/5c/87/325c8782-5c7f-ac47-69be-f6640efc6d6f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/ee/db/0aeedbc4-35f2-cc2c-ead9-19479e08ed68/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2527.1</version>
+		<version>4.2527.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -107,13 +107,16 @@ Thanks for using OneDrive! We’re always working to improve your experience. If
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>July 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/9f/6c/6d9f6c50-5578-7ea4-0426-ed7962459af4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/bc/30/0dbc305d-2575-64b9-0bcf-371f7697cd60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
-• Bug fixes, stability and performance improvements.
-Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
-		<version>138.3351.98</version>
+		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release:
+• Browse with One-Hand: Navigate easily with a bottom address bar, thumb-friendly layout, and smooth tab gestures.
+• Copilot Pages: After each Copilot response, you can tap “Edit” to turn it into a customizable Page to brainstorm, draft and iterate with Copilot.
+• Copilot Deep Research: Now you can get detailed, multi-source reports with references via Deep Research.
+• Fixed some bugs and improved stability and performance.
+Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
+		<version>138.3351.83</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>

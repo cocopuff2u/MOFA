@@ -1,16 +1,13 @@
-last_updated: July 22, 2025 03:06 PM EDT
+last_updated: July 22, 2025 04:07 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Word
-    currentVersionReleaseDate: July 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/c5/4b/66c54b6b-0ea7-cd7f-e1d8-8bdc2a84eb84/MSWD.png/512x512bb.png
+    currentVersionReleaseDate: July 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/bc/4d/ddbc4d76-80d0-7df7-9269-bb7d6579b1b5/MSWD.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: 'Easily write a prompt or choose quick actions from the Copilot
-      icon in your Word doc: The Copilot icon in your document margin makes it easy
-      to quickly add a prompt or choose from a range of quick options Copilot can
-      offer.'
-    version: '16.99'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 16.99.1
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
@@ -49,14 +46,17 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: July 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/b8/02/45b80293-cb7c-d508-09db-e3ea56f6cf9b/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: July 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/33/b0/4c33b0c5-414d-7247-1f3c-93830d408bfe/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "Paragraph Settings: Added support for paragraph spacing in the\
-      \ new email editor. \n\nKeyboard Shortcut Customization in Settings: You can\
-      \ now customize keyboard shortcuts directly from the main app settings\u2014\
-      making it easier to find and use."
-    version: '16.99'
+    releaseNotes: "\u2022 Fixed an issue where the \"Received for\" infobar was not\
+      \ showing for delegates in meeting requests.\n\u2022 Fixed an issue where the\
+      \ subject and body were stripped when sending S/MIME emails in GCCH tenants.\n\
+      \u2022 Fixed an issue where the Chat toolbar button was incorrectly shown when\
+      \ the Microsoft Teams app was not installed.\n\u2022 Fixed an issue where \u201C\
+      Reply All\u201D was not functional when using keyboard shortcuts.\n\u2022 Fixed\
+      \ an issue where S/MIME messages with large bodies were losing their content."
+    version: 16.99.1
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac

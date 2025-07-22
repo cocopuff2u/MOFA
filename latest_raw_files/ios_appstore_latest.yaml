@@ -1,4 +1,4 @@
-last_updated: July 22, 2025 03:09 AM EDT
+last_updated: July 22, 2025 04:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -19,11 +19,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: July 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6a/1e/8b6a1e5c-4e17-1a4f-8170-92ca04d823d3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/68/f0/4d68f0af-7fdf-27df-c717-7cca9252278e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.99'
+    version: 2.99.1
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook

@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 22, 2025 04:07 PM EDT",
+    "last_updated": "July 22, 2025 05:06 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -25,21 +25,21 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "July 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/ea/f6/d7eaf68e-d6a2-80eb-9c5c-71024ca43246/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 22, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/21/c5/ed21c579-ce9b-0096-631f-322b50ff3056/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Create a PowerPoint slide from a file or prompt: Creating impactful slides can be challenging and time-consuming. Copilot helps you quickly turn your ideas and files into a fully designed slide with content ready to edit and refine, making the presentation creation and refinement process more personalized and efficient.",
-            "version": "16.99"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "16.99.1"
         },
         {
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "July 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/33/b0/4c33b0c5-414d-7247-1f3c-93830d408bfe/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/b8/02/45b80293-cb7c-d508-09db-e3ea56f6cf9b/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Fixed an issue where the \"Received for\" infobar was not showing for delegates in meeting requests.\n\u2022 Fixed an issue where the subject and body were stripped when sending S/MIME emails in GCCH tenants.\n\u2022 Fixed an issue where the Chat toolbar button was incorrectly shown when the Microsoft Teams app was not installed.\n\u2022 Fixed an issue where \u201cReply All\u201d was not functional when using keyboard shortcuts.\n\u2022 Fixed an issue where S/MIME messages with large bodies were losing their content.",
-            "version": "16.99.1"
+            "releaseNotes": "Paragraph Settings: Added support for paragraph spacing in the new email editor. \n\nKeyboard Shortcut Customization in Settings: You can now customize keyboard shortcuts directly from the main app settings\u2014making it easier to find and use.",
+            "version": "16.99"
         },
         {
             "name": "MacOS Microsoft OneNote",

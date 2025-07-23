@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 23, 2025 05:07 PM EDT",
+    "last_updated": "July 23, 2025 06:06 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "July 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/ce/8b/40ce8b7b-3a93-9ef9-5ca0-1e458112ad04/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 22, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d3/32/35d33219-40f7-8860-bc03-8a16591bac65/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "**What\u2019s New**\nWe\u2019ve been busy behind the scenes making OneDrive even better. Here\u2019s what\u2019s new and improved:\n\n**New**\nShared Folders in Folder Picker: You can now access shared folders directly from the folder picker\u2014making it easier to organize and collaborate on the go.\n\n**Fixed & Improved**\n- Uploads in the Files Provider Extension are now reliable\u2014no more duplicates or failed attempts\n- Tapping quickly on a photo no longer opens it multiple times\n- File details now display correctly when using \\\u201cOpen in New Window\\\u201d\n- Album experience is smoother with fixed shimmer effects\n- Folder picker rename and scan issues have been resolved\n\nThanks for using OneDrive! We\u2019re always working to improve your experience. If you run into any issues, just shake your device and tap \\\u201cSend Feedback.\\\u201d\n\n\\*These notes were generated using Copilot",
-            "version": "16.17.3"
+            "releaseNotes": "This update contains bug fixes and stability improvements.",
+            "version": "16.18.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -165,11 +165,11 @@
             "name": "iOS Microsoft Whiteboard",
             "application_name": "Whiteboard - Infinity Canvas",
             "bundleId": "cn.readpad.tool.iwhiteboard",
-            "currentVersionReleaseDate": "July 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/6c/00/da6c00f8-385b-ebb7-5bbd-aedbbb7d522c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 31, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/f5/91/94f59144-c9bf-f061-d22e-faef095d191f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Fixed known bugs.",
-            "version": "32.0"
+            "version": "31.0"
         },
         {
             "name": "iOS Microsoft Edge AI Browser",

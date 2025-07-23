@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 22, 2025 10:45 PM EDT</last_updated>
+	<last_updated>July 22, 2025 11:35 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/c5/4b/66c54b6b-0ea7-cd7f-e1d8-8bdc2a84eb84/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/bc/4d/ddbc4d76-80d0-7df7-9269-bb7d6579b1b5/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Easily write a prompt or choose quick actions from the Copilot icon in your Word doc: The Copilot icon in your document margin makes it easy to quickly add a prompt or choose from a range of quick options Copilot can offer.</releaseNotes>
-		<version>16.99</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.99.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
@@ -29,11 +29,11 @@ View multiple panes, sheets or workbooks Side by Side: You can now quickly compa
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/ea/f6/d7eaf68e-d6a2-80eb-9c5c-71024ca43246/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/21/c5/ed21c579-ce9b-0096-631f-322b50ff3056/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Create a PowerPoint slide from a file or prompt: Creating impactful slides can be challenging and time-consuming. Copilot helps you quickly turn your ideas and files into a fully designed slide with content ready to edit and refine, making the presentation creation and refinement process more personalized and efficient.</releaseNotes>
-		<version>16.99</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.99.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 23, 2025 10:44 PM EDT</last_updated>
+	<last_updated>July 23, 2025 11:35 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -62,26 +62,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/ce/8b/40ce8b7b-3a93-9ef9-5ca0-1e458112ad04/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d3/32/35d33219-40f7-8860-bc03-8a16591bac65/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>**What’s New**
-We’ve been busy behind the scenes making OneDrive even better. Here’s what’s new and improved:
-
-**New**
-Shared Folders in Folder Picker: You can now access shared folders directly from the folder picker—making it easier to organize and collaborate on the go.
-
-**Fixed &amp; Improved**
-- Uploads in the Files Provider Extension are now reliable—no more duplicates or failed attempts
-- Tapping quickly on a photo no longer opens it multiple times
-- File details now display correctly when using \“Open in New Window\”
-- Album experience is smoother with fixed shimmer effects
-- Folder picker rename and scan issues have been resolved
-
-Thanks for using OneDrive! We’re always working to improve your experience. If you run into any issues, just shake your device and tap \“Send Feedback.\”
-
-\*These notes were generated using Copilot</releaseNotes>
-		<version>16.17.3</version>
+		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
+		<version>16.18.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
@@ -180,11 +165,11 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/86/75/1a867586-7fc9-1377-ea6e-f4a6058d57d9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/05/da/1205da67-d28c-d581-8088-c8a487e8da05/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.4.0</version>
+		<version>11.3.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>

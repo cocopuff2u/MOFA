@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 23, 2025 10:44 PM EDT</last_updated>
+	<last_updated>July 23, 2025 11:35 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,15 +15,11 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/d9/9f/d6d99f1e-8c67-96d9-3621-1435ebfae194/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/be/71/63be71b1-e168-d692-08e9-a01b95b13c35/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Smarter Context Awareness for Copilot in Excel: Copilot in Excel now intelligently infers the relevant table or data range based on your query, enhancing usability. Additionally, it visually highlights the inferred data for clarity.
-
-Value tokens to visually indicate a date type or other rich format: Value tokens provide a clear visual indication that a cell contains a data type or other richer format. The addition of an icon next to the value further helps differentiate between data types in a spreadsheet.
-
-View multiple panes, sheets or workbooks Side by Side: You can now quickly compare worksheets in the same workbook or in different workbooks by viewing them side by side with synchronous scrolling and reset window positioning, just like in Excel Windows.</releaseNotes>
-		<version>16.99</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.99.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
@@ -39,15 +35,13 @@ View multiple panes, sheets or workbooks Side by Side: You can now quickly compa
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/33/b0/4c33b0c5-414d-7247-1f3c-93830d408bfe/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/b8/02/45b80293-cb7c-d508-09db-e3ea56f6cf9b/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Fixed an issue where the &quot;Received for&quot; infobar was not showing for delegates in meeting requests.
-• Fixed an issue where the subject and body were stripped when sending S/MIME emails in GCCH tenants.
-• Fixed an issue where the Chat toolbar button was incorrectly shown when the Microsoft Teams app was not installed.
-• Fixed an issue where “Reply All” was not functional when using keyboard shortcuts.
-• Fixed an issue where S/MIME messages with large bodies were losing their content.</releaseNotes>
-		<version>16.99.1</version>
+		<releaseNotes>Paragraph Settings: Added support for paragraph spacing in the new email editor. 
+
+Keyboard Shortcut Customization in Settings: You can now customize keyboard shortcuts directly from the main app settings—making it easier to find and use.</releaseNotes>
+		<version>16.99</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

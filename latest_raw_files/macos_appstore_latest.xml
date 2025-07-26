@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 25, 2025 07:07 PM EDT</last_updated>
+	<last_updated>July 25, 2025 08:30 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -74,26 +74,13 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>July 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/de/38/fade381b-0635-9ca5-6629-b468c32620b0/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 11, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/28/4d/a5284d7b-bb8b-07f8-bdee-4ae23603268f/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>12.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates:
-
-• Added support to prevent the title and menu bars from appearing in full screen mode.
-• Integrated support for trackpad pinch and zoom gestures.
-• Improved the Add menu by integrating help text (macOS 15 and later).
-• Improved the resize behavior for the Connection Center tile view by leveraging scaling.
-• Disabled applicable toolbar commands for empty Favorites, Devices and Apps tabs.
-• Added the app version to log file names.
-• Fixed some scenarios where the app would hang.
-• Hovering over an in-app notification will now prevent it from disappearing.
-• Made improvements to the code behind AVD feed discovery.
-• Resolved accessibility bugs.
-
-This is the last Windows App version that will support macOS 12. Future updates to Windows App will require macOS 13. If you are using macOS 12, the app will continue to work, but you won't receive new updates.
+		<releaseNotes>In this release we fixed a bug that prevented the workspaces subscription dialog from discovering active feeds.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.0</version>
+		<version>11.1.9</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

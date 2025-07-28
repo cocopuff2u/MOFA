@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 28, 2025 06:08 AM EDT",
+    "last_updated": "July 28, 2025 07:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "July 28, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/10/92/561092c9-a890-35a6-7b5c-d75c8b552d3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 21, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/9f/6c/6d9f6c50-5578-7ea4-0426-ed7962459af4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release.\n\u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!",
-            "version": "138.3351.109"
+            "version": "138.3351.98"
         },
         {
             "name": "iOS Microsoft Seeing AI",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 28, 2025 01:08 PM EDT</last_updated>
+	<last_updated>July 28, 2025 02:09 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -185,13 +185,13 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/10/92/561092c9-a890-35a6-7b5c-d75c8b552d3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/9f/6c/6d9f6c50-5578-7ea4-0426-ed7962459af4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
 • Bug fixes, stability and performance improvements.
 Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
-		<version>138.3351.109</version>
+		<version>138.3351.98</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

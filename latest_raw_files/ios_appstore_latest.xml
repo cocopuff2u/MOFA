@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 29, 2025 02:10 AM EDT</last_updated>
+	<last_updated>July 29, 2025 03:10 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>July 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/d9/95/98d99502-2ba0-5611-039c-b286d3ec62d6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/9b/39/539b3904-7c46-592d-e4d4-c6c7e5f1b4d9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99.1</version>
+		<version>2.99.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>July 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/59/7e/fd597e8f-a4a7-a19f-fc76-3186267fb239/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b8/ce/bbb8ce3f-cf0c-860c-4950-70069f21c7eb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99.1</version>
+		<version>2.99.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -125,11 +125,11 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>July 14, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/a6/fe/2aa6fecc-c238-994e-9862-fe61fd122c12/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/a0/7a/cca07a01-c2fc-e714-dbfe-b2651d60b345/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Say hello to smoother shipping and sales! We’ve enhanced Shipping Labels with UPS extras and smarter forms, fixed price and display glitches, and made shipment management easier. Plus, Point of Sale now has its own tab for eligible stores, barcode scanning, and smoother product refresh for faster checkout.</releaseNotes>
-		<version>22.7</version>
+		<releaseNotes>Our latest update brings smoother split shipment screens and improved accessibility for Shipping Labels, plus easier label size selection, and POS badges within the order list. In Point of Sale, enjoy a new barcode scan flow, and a safer cart clear button.</releaseNotes>
+		<version>22.8</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>

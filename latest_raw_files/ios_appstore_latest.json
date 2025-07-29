@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 29, 2025 04:07 PM EDT",
+    "last_updated": "July 29, 2025 05:06 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "July 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/8e/25/fd8e2576-4162-b63b-aa0b-7e12ff669293/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 29, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8a/67/738a674a-d0e2-2120-af04-0c58b0389b89/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2528.0"
+            "version": "4.2529.0"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -65,11 +65,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Link to Windows",
             "bundleId": "com.microsoft.LinkToWindows",
-            "currentVersionReleaseDate": "July 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/9b/5f/e39b5f68-dadf-5d46-4a9f-e388e37325de/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 28, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/dc/37/1ddc379b-5d1c-0c4d-38e6-7958dce42993/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.6",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "1.25062.16"
+            "version": "1.25071.36"
         },
         {
             "name": "iOS Microsoft Defender Security",

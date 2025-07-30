@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 30, 2025 10:08 AM EDT",
+    "last_updated": "July 30, 2025 11:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -335,11 +335,11 @@
             "name": "iOS Microsoft Azure Information Protection",
             "application_name": "Azure Information Protection",
             "bundleId": "com.microsoft.rms-sharing",
-            "currentVersionReleaseDate": "July 29, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d7/bf/41d7bfcc-c553-1f39-c76d-d4099252c905/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "14.0",
-            "releaseNotes": "Bug fixes",
-            "version": "2.1.2"
+            "currentVersionReleaseDate": "July 23, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/92/ec/bb92ece4-b3e9-7fff-de38-a1f64c6a6b20/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "11.0",
+            "releaseNotes": "Intune Fixes",
+            "version": "2.1.1"
         },
         {
             "name": "iOS Microsoft 365 Office",

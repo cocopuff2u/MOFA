@@ -1,53 +1,56 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 30, 2025 10:08 AM EDT</last_updated>
+	<last_updated>July 30, 2025 11:07 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/ec/88/e9ec88d0-c644-9a6a-9c81-c2955a9e6d81/MSWD.png/512x512bb.png</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.99.2</version>
-	</package>
-	<package>
-		<name>MacOS Microsoft Excel</name>
-		<application_name>Microsoft Excel</application_name>
-		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/5f/c6ab5fa2-1798-db36-b5bd-a53875d77d4f/XCEL.png/512x512bb.png</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.99.2</version>
-	</package>
-	<package>
-		<name>MacOS Microsoft PowerPoint</name>
-		<application_name>Microsoft PowerPoint</application_name>
-		<bundleId>com.microsoft.Powerpoint</bundleId>
 		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/21/c5/ed21c579-ce9b-0096-631f-322b50ff3056/PPT3.png/512x512bb.png</icon_image>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/bc/4d/ddbc4d76-80d0-7df7-9269-bb7d6579b1b5/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
 		<version>16.99.1</version>
 	</package>
 	<package>
+		<name>MacOS Microsoft Excel</name>
+		<application_name>Microsoft Excel</application_name>
+		<bundleId>com.microsoft.Excel</bundleId>
+		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/be/71/63be71b1-e168-d692-08e9-a01b95b13c35/XCEL.png/512x512bb.png</icon_image>
+		<minimumOsVersion>13.0</minimumOsVersion>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.99.1</version>
+	</package>
+	<package>
+		<name>MacOS Microsoft PowerPoint</name>
+		<application_name>Microsoft PowerPoint</application_name>
+		<bundleId>com.microsoft.Powerpoint</bundleId>
+		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/f2/4e/f3f24e57-83db-d2fc-b619-c3364cc48bd4/PPT3.png/512x512bb.png</icon_image>
+		<minimumOsVersion>13.0</minimumOsVersion>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.99.2</version>
+	</package>
+	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/88/32/388832b1-e556-8ea5-ef96-52cee2161a01/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/33/b0/4c33b0c5-414d-7247-1f3c-93830d408bfe/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>•	Fixed an issue where Outlook may unexpectedly close when saving an event.
-•	Fixed an issue where Chat option was incorrectly shown in the toolbar and contextual menus when the Microsoft Teams app is not installed.</releaseNotes>
-		<version>16.99.2</version>
+		<releaseNotes>• Fixed an issue where the &quot;Received for&quot; infobar was not showing for delegates in meeting requests.
+• Fixed an issue where the subject and body were stripped when sending S/MIME emails in GCCH tenants.
+• Fixed an issue where the Chat toolbar button was incorrectly shown when the Microsoft Teams app was not installed.
+• Fixed an issue where “Reply All” was not functional when using keyboard shortcuts.
+• Fixed an issue where S/MIME messages with large bodies were losing their content.</releaseNotes>
+		<version>16.99.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/ce/ae/12ceaeda-f350-b53c-c1b8-e6495ada3e26/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/7d/e9/427de960-50a9-0afe-65b1-02a49cf04037/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -55,7 +58,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.99.2</version>
+		<version>16.99.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>

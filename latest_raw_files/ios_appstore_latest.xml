@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 30, 2025 09:19 AM EDT</last_updated>
+	<last_updated>July 30, 2025 10:08 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -350,11 +350,11 @@ Now on iPad, you can open chats and channels in separate windows</releaseNotes>
 		<name>iOS Microsoft Azure Information Protection</name>
 		<application_name>Azure Information Protection</application_name>
 		<bundleId>com.microsoft.rms-sharing</bundleId>
-		<currentVersionReleaseDate>July 23, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/92/ec/bb92ece4-b3e9-7fff-de38-a1f64c6a6b20/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>11.0</minimumOsVersion>
-		<releaseNotes>Intune Fixes</releaseNotes>
-		<version>2.1.1</version>
+		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d7/bf/41d7bfcc-c553-1f39-c76d-d4099252c905/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>14.0</minimumOsVersion>
+		<releaseNotes>Bug fixes</releaseNotes>
+		<version>2.1.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>

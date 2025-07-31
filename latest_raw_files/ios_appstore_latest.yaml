@@ -1,4 +1,4 @@
-last_updated: July 31, 2025 01:12 AM EDT
+last_updated: July 31, 2025 02:10 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -165,13 +165,12 @@ packages:
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
-    currentVersionReleaseDate: July 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/01/d3/4301d330-78bd-a4be-4de6-6bbf809bd5d3/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: "\u2022 You can now review recently taken photos and their descriptions.\
-      \ Select \"History\" in the menu.\n\u2022 Updated the main screen layout based\
-      \ on your feedback.\n\u2022 Plus, various bug fixes under the hood."
-    version: '5.6'
+    currentVersionReleaseDate: March 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/02/c6/0202c6d4-fa33-a4bb-8d25-a01412697cb8/AppIcons-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '12.0'
+    releaseNotes: This release includes several bug fixes to make your experience
+      even better.
+    version: 5.5.1
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile

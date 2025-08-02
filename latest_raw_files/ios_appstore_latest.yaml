@@ -1,4 +1,4 @@
-last_updated: August 01, 2025 09:35 PM EDT
+last_updated: August 01, 2025 10:41 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -58,11 +58,11 @@ packages:
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows
-    currentVersionReleaseDate: July 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/dc/37/1ddc379b-5d1c-0c4d-38e6-7958dce42993/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: August 01, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/1c/05/711c050b-f930-7ce9-6b23-80db5caa44d3/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.6'
     releaseNotes: Bug fixes and performance improvements
-    version: 1.25071.36
+    version: 1.25071.37
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx

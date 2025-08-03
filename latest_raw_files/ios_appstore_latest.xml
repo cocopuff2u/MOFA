@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 02, 2025 11:39 PM EDT</last_updated>
+	<last_updated>August 03, 2025 12:25 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -362,11 +362,11 @@ Now on iPad, you can open chats and channels in separate windows</releaseNotes>
 		<name>iOS Microsoft 365 Office</name>
 		<application_name>Microsoft 365 Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>August 02, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/98/75/949875fb-46a9-361f-eb80-82f26ab6887b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 25, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/9a/8b/bb9a8bfb-abbf-6a6d-9ac8-d1c7b39af557/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99.3</version>
+		<version>2.99.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

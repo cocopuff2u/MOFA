@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 04, 2025 01:18 AM EDT</last_updated>
+    <last_updated>August 04, 2025 02:14 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -90,14 +90,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>25205.3001.3828.9044</short_version>
-        <full_version>25205.3001.3828.9044</full_version>
-        <last_updated>July 25, 2025</last_updated>
+        <short_version>25212.2401.3846.5187</short_version>
+        <full_version>25212.2401.3846.5187</full_version>
+        <last_updated>August 01, 2025</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://statics.teams.cdn.office.net/production-osx/25205.3001.3828.9044/MicrosoftTeams.pkg</update_download>
-        <latest_download>https://statics.teams.cdn.office.net/production-osx/25205.3001.3828.9044/MicrosoftTeams.pkg</latest_download>
-        <sha1>da04f864a47e0af2c6dbb2d9c10f146283105113</sha1>
-        <sha256>6f9e91dafc6f42a2284f2f569d38612f1631138a517c67961da7dbe9914a0365</sha256>
+        <update_download>https://statics.teams.cdn.office.net/production-osx/25212.2401.3846.5187/MicrosoftTeams.pkg</update_download>
+        <latest_download>https://statics.teams.cdn.office.net/production-osx/25212.2401.3846.5187/MicrosoftTeams.pkg</latest_download>
+        <sha1>5f3d44cbf29bd185cae068c108f691ba32a53551</sha1>
+        <sha256>3ed532db8f9adbadddedda19c221438c4518770900b723f8bd670db68839b591</sha256>
     </package>
     <package>
         <name>Intune</name>

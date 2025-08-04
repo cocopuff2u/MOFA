@@ -1,35 +1,35 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 04, 2025 11:07 AM EDT</last_updated>
+	<last_updated>August 04, 2025 12:09 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/9b/39/539b3904-7c46-592d-e4d4-c6c7e5f1b4d9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/e9/a6/26e9a6cc-910b-c2a8-d650-bc2ba1b96211/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99.2</version>
+		<version>2.99.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b8/ce/bbb8ce3f-cf0c-860c-4950-70069f21c7eb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/b8/99/32b89966-94aa-7007-bae1-f53b89af1407/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99.2</version>
+		<version>2.99.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/40/dc/a240dc7a-c5cc-6cbf-9c48-a757848a2716/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/99/46/cc9946bb-3354-1253-f775-9a1e64542295/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.99.2</version>
+		<version>2.99.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
@@ -92,13 +92,15 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/10/92/561092c9-a890-35a6-7b5c-d75c8b552d3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/78/6a/37786a4f-bd46-3c87-31a5-6a779fcd3b3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
-• Bug fixes, stability and performance improvements.
-Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
-		<version>138.3351.109</version>
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
+• Copilot persistent chat: Copilot now keeps your conversation when switching tabs, so you can pick up right where you left off.
+• Copilot video summary: Get quick, AI-powered summaries of videos while you watch.
+• Fixed some bugs and improved stability and performance.
+Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
+		<version>138.3351.121</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -185,13 +187,15 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>July 28, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/10/92/561092c9-a890-35a6-7b5c-d75c8b552d3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/78/6a/37786a4f-bd46-3c87-31a5-6a779fcd3b3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
-• Bug fixes, stability and performance improvements.
-Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
-		<version>138.3351.109</version>
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release:
+• Copilot persistent chat: Copilot now keeps your conversation when switching tabs, so you can pick up right where you left off.
+• Copilot video summary: Get quick, AI-powered summaries of videos while you watch.
+• Fixed some bugs and improved stability and performance.
+Upgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!</releaseNotes>
+		<version>138.3351.121</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
@@ -241,12 +245,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>July 23, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/f7/e5/d0f7e5e8-c8f7-9f96-8bdd-ebb50635be00/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/08/2c/0d082c22-cd8b-f9cb-b164-a8e521cff217/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Use Copilot to summarize channel meetings
-Now on iPad, you can open chats and channels in separate windows</releaseNotes>
-		<version>7.13.0</version>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>7.13.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>

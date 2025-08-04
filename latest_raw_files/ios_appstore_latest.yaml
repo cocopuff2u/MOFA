@@ -1,4 +1,4 @@
-last_updated: August 04, 2025 09:20 AM EDT
+last_updated: August 04, 2025 10:10 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -74,13 +74,16 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: July 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/10/92/561092c9-a890-35a6-7b5c-d75c8b552d3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/78/6a/37786a4f-bd46-3c87-31a5-6a779fcd3b3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
-      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
-      \ version and enjoy a smarter and more efficient Microsoft Edge!"
-    version: 138.3351.109
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
+      \u2022 Copilot persistent chat: Copilot now keeps your conversation when switching\
+      \ tabs, so you can pick up right where you left off.\n\u2022 Copilot video summary:\
+      \ Get quick, AI-powered summaries of videos while you watch.\n\u2022 Fixed some\
+      \ bugs and improved stability and performance.\nUpgrade to the latest version\
+      \ and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 138.3351.121
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -155,13 +158,16 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: July 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/10/92/561092c9-a890-35a6-7b5c-d75c8b552d3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/78/6a/37786a4f-bd46-3c87-31a5-6a779fcd3b3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
-      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
-      \ version and enjoy a smarter and more efficient Microsoft Edge!"
-    version: 138.3351.109
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
+      \u2022 Copilot persistent chat: Copilot now keeps your conversation when switching\
+      \ tabs, so you can pick up right where you left off.\n\u2022 Copilot video summary:\
+      \ Get quick, AI-powered summaries of videos while you watch.\n\u2022 Fixed some\
+      \ bugs and improved stability and performance.\nUpgrade to the latest version\
+      \ and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 138.3351.121
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

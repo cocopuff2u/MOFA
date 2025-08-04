@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 04, 2025 06:07 PM EDT</last_updated>
+    <last_updated>August 04, 2025 07:07 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -166,32 +166,32 @@
         <application_id>WDAV00</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
-        <short_version>101.25052.0012</short_version>
-        <full_version>101.25052.0012</full_version>
-        <last_updated>June 25, 2025</last_updated>
+        <short_version>101.25062.0005</short_version>
+        <full_version>101.25062.0005</full_version>
+        <last_updated>July 20, 2025</last_updated>
         <min_os>12.0</min_os>
         <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg</app_only_update_download>
-        <app_update_sha1>ff74765ad7b04fc69c184ba629e2b4e8e0db81e3</app_update_sha1>
-        <app_update_sha256>d6a448e10c12ab6e0b23fce3de94010b1de05ba2d115eefb727ffed6e043282a</app_update_sha256>
+        <app_update_sha1>edc6e622eda27ec059c00784cc4e19dc41f3220a</app_update_sha1>
+        <app_update_sha256>5a0c2099250187582c8d3c16f34050f2d15aefcb9adb355b0cab8252b5948387</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2097502</full_update_download>
-        <full_update_sha1>ad970a2b6af30c474c03c3fd31dc60fd7663adc1</full_update_sha1>
-        <full_update_sha256>b884c3db28fd470ac4da10335b5dd926a3e736c118c17743507cdd37417d7af8</full_update_sha256>
+        <full_update_sha1>5c9e02db911d8a13107de6611893eaf3c2d3ae54</full_update_sha1>
+        <full_update_sha256>9873fdccf488116251387f0173ce706e7d48f300e5d51b7aad50f4c9f173404e</full_update_sha256>
     </package>
     <package>
         <name>Defender for Consumers</name>
         <application_id>WDAVCONSUMER</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
-        <short_version>101.25052.0012</short_version>
-        <full_version>101.25052.0012</full_version>
-        <last_updated>June 25, 2025</last_updated>
+        <short_version>101.25062.0005</short_version>
+        <full_version>101.25062.0005</full_version>
+        <last_updated>July 20, 2025</last_updated>
         <min_os>12.0</min_os>
-        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.25052.0012_Individuals_Installer.pkg</app_only_update_download>
-        <app_update_sha1>2593c6efb24e440f8fa5a4328192b41e80467df8</app_update_sha1>
-        <app_update_sha256>3ec983ca4cd5e3fb1d9e093b7e928279f4243011c0a26ae48cb2a9684a689490</app_update_sha256>
+        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.25062.0005_Individuals_Installer.pkg</app_only_update_download>
+        <app_update_sha1>aca5faf8e702ff56821c76fe0300a1d29386fd55</app_update_sha1>
+        <app_update_sha256>eb3e81fa8d1766a159d63cc2fd899e377a99fbd7fac94233b29360029f212925</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2247001</full_update_download>
-        <full_update_sha1>eb0b43efdf1b6ceaac7f394773d00434745cf808</full_update_sha1>
-        <full_update_sha256>4ef73140d0f38811a61237f70a2f43727a8182b374cb39d00ef6aea9238749aa</full_update_sha256>
+        <full_update_sha1>2593c6efb24e440f8fa5a4328192b41e80467df8</full_update_sha1>
+        <full_update_sha256>3ec983ca4cd5e3fb1d9e093b7e928279f4243011c0a26ae48cb2a9684a689490</full_update_sha256>
     </package>
     <package>
         <name>Defender Shim</name>

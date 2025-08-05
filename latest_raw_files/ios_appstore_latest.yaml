@@ -1,4 +1,4 @@
-last_updated: August 05, 2025 12:25 AM EDT
+last_updated: August 05, 2025 01:14 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,14 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: July 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8a/67/738a674a-d0e2-2120-af04-0c58b0389b89/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/ba/7b/cfba7b30-2ef7-afd0-3af7-91c891b86c60/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2529.0
+    version: 4.2530.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -50,11 +50,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: July 22, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d3/32/35d33219-40f7-8860-bc03-8a16591bac65/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: August 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/54/0b/b8540bbb-9dd1-54ac-2f13-1f5ceea373c3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: This update contains bug fixes and stability improvements.
-    version: 16.18.3
+    version: 16.19.8
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows

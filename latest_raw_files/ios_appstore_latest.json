@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 04, 2025 08:33 PM EDT",
+    "last_updated": "August 04, 2025 09:36 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "August 04, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/99/46/cc9946bb-3354-1253-f775-9a1e64542295/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 28, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/40/dc/a240dc7a-c5cc-6cbf-9c48-a757848a2716/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.99.3"
+            "version": "2.99.2"
         },
         {
             "name": "iOS Microsoft Outlook",

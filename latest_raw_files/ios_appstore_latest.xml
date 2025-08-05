@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 05, 2025 02:11 AM EDT</last_updated>
+	<last_updated>August 05, 2025 03:11 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -62,11 +62,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>July 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d3/32/35d33219-40f7-8860-bc03-8a16591bac65/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/54/0b/b8540bbb-9dd1-54ac-2f13-1f5ceea373c3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>16.18.3</version>
+		<version>16.19.8</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>

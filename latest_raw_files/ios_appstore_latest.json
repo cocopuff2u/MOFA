@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 06, 2025 01:14 AM EDT",
+    "last_updated": "August 06, 2025 02:11 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "August 04, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/ba/7b/cfba7b30-2ef7-afd0-3af7-91c891b86c60/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 05, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/39/90/7d3990b1-eea8-8f41-ca94-0910e8d07c76/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2530.0"
+            "version": "4.2530.1"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -305,11 +305,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "July 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/77/c1/e177c165-1d1a-c883-d877-2fb67c0e9594/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 05, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/00/b2/9a00b2b7-04b4-36cf-31e4-d9bc109d8a6f/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "34.9"
+            "version": "35.0"
         },
         {
             "name": "iOS Microsoft 365 Admin",

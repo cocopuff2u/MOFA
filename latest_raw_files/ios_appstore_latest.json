@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 06, 2025 12:09 PM EDT",
+    "last_updated": "August 06, 2025 01:09 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -193,13 +193,13 @@
         },
         {
             "name": "iOS Microsoft Planner",
-            "application_name": "Microsoft Planner",
-            "bundleId": "com.microsoft.PlannerMobile",
-            "currentVersionReleaseDate": "June 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f0/64/c5f064b9-6f75-9821-aabe-203270f5aaa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "1.17.8"
+            "application_name": "Microsoft Outlook",
+            "bundleId": "com.microsoft.Office.Outlook",
+            "currentVersionReleaseDate": "August 05, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/39/90/7d3990b1-eea8-8f41-ca94-0910e8d07c76/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "17.0",
+            "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
+            "version": "4.2530.1"
         },
         {
             "name": "iOS Microsoft Azure",

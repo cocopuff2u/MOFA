@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 07, 2025 01:08 PM EDT",
+    "last_updated": "August 07, 2025 02:09 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "August 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c5/86/13c5860c-5370-e924-622a-fc9e71e77926/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/08/2c/0d082c22-cd8b-f9cb-b164-a8e521cff217/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.14.0"
+            "version": "7.13.1"
         },
         {
             "name": "iOS Microsoft Sharepoint",

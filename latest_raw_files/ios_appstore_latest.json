@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 10, 2025 10:48 PM EDT",
+    "last_updated": "August 10, 2025 11:36 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -95,11 +95,11 @@
             "name": "iOS Microsoft Loop",
             "application_name": "Microsoft Loop",
             "bundleId": "com.microsoft.loop",
-            "currentVersionReleaseDate": "July 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/08/cb/ef08cbbd-5851-10eb-b09b-d7ca66203765/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/b4/97/38b49708-1903-2ddc-bb2c-b1c72f59ef20/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.99"
+            "version": "2.100"
         },
         {
             "name": "iOS Microsoft Warehouse Management",

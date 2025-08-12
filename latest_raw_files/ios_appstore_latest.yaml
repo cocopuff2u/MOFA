@@ -1,4 +1,4 @@
-last_updated: August 12, 2025 04:07 PM EDT
+last_updated: August 12, 2025 05:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,14 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: August 05, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/39/90/7d3990b1-eea8-8f41-ca94-0910e8d07c76/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/4d/3b/6e4d3be5-f2cf-a99e-7e5f-c1cc06e36802/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2530.1
+    version: 4.2531.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -58,11 +58,11 @@ packages:
   - name: iOS Microsoft Windows App Mobile
     application_name: Link to Windows
     bundleId: com.microsoft.LinkToWindows
-    currentVersionReleaseDate: August 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/4f/e9/104fe952-1b8c-97e1-65cc-e9ac22d7918f/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: August 01, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/1c/05/711c050b-f930-7ce9-6b23-80db5caa44d3/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.6'
     releaseNotes: Bug fixes and performance improvements
-    version: 1.25072.15
+    version: 1.25071.37
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
@@ -160,17 +160,16 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: August 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/2b/3c/602b3c57-2929-64af-b983-19331ad9c4be/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/78/6a/37786a4f-bd46-3c87-31a5-6a779fcd3b3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
-      \ release:\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate,\
-      \ Keepa, Coupert, and more for a personalized and productive browsing experience.\n\
-      \u2022 Tab Management: Pin tabs, search tabs, group them, and sync your tab\
-      \ groups across devices.\n\u2022 Performance Improvements: Fixed bugs and enhanced\
-      \ stability and speed.\nUpgrade now to experience a smarter, faster, and more\
-      \ productive Microsoft Edge!"
-    version: 139.3405.86
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release:\n\
+      \u2022 Copilot persistent chat: Copilot now keeps your conversation when switching\
+      \ tabs, so you can pick up right where you left off.\n\u2022 Copilot video summary:\
+      \ Get quick, AI-powered summaries of videos while you watch.\n\u2022 Fixed some\
+      \ bugs and improved stability and performance.\nUpgrade to the latest version\
+      \ and enjoy a smarter, more efficient Microsoft Edge!"
+    version: 138.3351.121
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

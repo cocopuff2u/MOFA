@@ -1,26 +1,21 @@
-last_updated: August 13, 2025 07:06 AM EDT
+last_updated: August 13, 2025 08:11 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Word
-    currentVersionReleaseDate: August 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/90/da/5990da16-b7b5-ca2c-9c3d-09fc706bad53/MSWD.png/512x512bb.png
+    currentVersionReleaseDate: July 29, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/ec/88/e9ec88d0-c644-9a6a-9c81-c2955a9e6d81/MSWD.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '16.100'
+    version: 16.99.2
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: August 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/0c/d5/4f0cd524-ce36-111e-caac-54164f70675b/XCEL.png/512x512bb.png
+    currentVersionReleaseDate: July 29, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/5f/c6ab5fa2-1798-db36-b5bd-a53875d77d4f/XCEL.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "Compatibility Versions: Compatibility Versions are set per workbook.\
-      \ Version 1 reflects historical calculation behavior while Version 2 contains\
-      \ the improvements to Excel text functions.\n\t \nView multiple panes, sheets\
-      \ or workbooks side by side: You can now quickly compare worksheets in the same\
-      \ workbook or in different workbooks by viewing them side by side with synchronous\
-      \ scrolling and reset window positioning, just like in Excel Windows."
-    version: '16.100'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 16.99.2
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
@@ -32,31 +27,26 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: August 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/0e/e6/c20ee6ee-e803-d729-57bf-c00e2b52893a/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: July 29, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/88/32/388832b1-e556-8ea5-ef96-52cee2161a01/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: 'Mail: Linked file indicator now appears in the message list for
-      conversations that include file links, making it easier to spot messages with
-      shared content at a glance.
-
-
-      Auto Reply: Users can now block their calendar when setting an automatic reply.
-
-
-      Shared Mailbox: Added support for shared mailboxes in hybrid environments.'
-    version: '16.100'
+    releaseNotes: "\u2022\tFixed an issue where Outlook may unexpectedly close when\
+      \ saving an event.\n\u2022\tFixed an issue where Chat option was incorrectly\
+      \ shown in the toolbar and contextual menus when the Microsoft Teams app is\
+      \ not installed."
+    version: 16.99.2
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: August 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/20/6c/35206cdb-ceb7-123b-7b18-81bc7064576a/OneNote.png/512x512bb.png
+    currentVersionReleaseDate: July 29, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/ce/ae/12ceaeda-f350-b53c-c1b8-e6495ada3e26/OneNote.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.100'
+    version: 16.99.2
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac

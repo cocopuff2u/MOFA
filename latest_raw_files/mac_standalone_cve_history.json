@@ -1,6 +1,62 @@
 {
-    "last_scan_date": "August 12, 2025 07:06 PM EDT",
+    "last_scan_date": "August 12, 2025 08:30 PM EDT",
     "updates": [
+        {
+            "date_text": "August 12, 2025",
+            "version": "Version 16.100 (Build 25081015)",
+            "security_updates": {
+                "Excel": [
+                    {
+                        "cve_name": "CVE-2025-53735",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53735"
+                    },
+                    {
+                        "cve_name": "CVE-2025-53737",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53737"
+                    },
+                    {
+                        "cve_name": "CVE-2025-53739",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53739"
+                    },
+                    {
+                        "cve_name": "CVE-2025-53741",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53741"
+                    },
+                    {
+                        "cve_name": "CVE-2025-53759",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53759"
+                    }
+                ],
+                "Word": [
+                    {
+                        "cve_name": "CVE-2025-53733",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53733"
+                    },
+                    {
+                        "cve_name": "CVE-2025-53736",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53736"
+                    },
+                    {
+                        "cve_name": "CVE-2025-53738",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53738"
+                    },
+                    {
+                        "cve_name": "CVE-2025-53784",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53784"
+                    }
+                ],
+                "Office Suite": [
+                    {
+                        "cve_name": "CVE-2025-53731",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53731"
+                    },
+                    {
+                        "cve_name": "CVE-2025-53740",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53740"
+                    }
+                ]
+            }
+        },
         {
             "date_text": "July 29, 2025",
             "version": "Version 16.99.2 (Build 25072714)",

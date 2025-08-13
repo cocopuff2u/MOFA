@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 13, 2025 04:07 PM EDT</last_updated>
+	<last_updated>August 13, 2025 05:06 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -27,25 +27,22 @@ View multiple panes, sheets or workbooks side by side: You can now quickly compa
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>August 12, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/53/27/a753273c-64da-0864-eea7-16e4292e554b/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/f2/4e/f3f24e57-83db-d2fc-b619-c3364cc48bd4/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.100</version>
+		<version>16.99.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>August 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/0e/e6/c20ee6ee-e803-d729-57bf-c00e2b52893a/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/88/32/388832b1-e556-8ea5-ef96-52cee2161a01/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Mail: Linked file indicator now appears in the message list for conversations that include file links, making it easier to spot messages with shared content at a glance.
-
-Auto Reply: Users can now block their calendar when setting an automatic reply.
-
-Shared Mailbox: Added support for shared mailboxes in hybrid environments.</releaseNotes>
-		<version>16.100</version>
+		<releaseNotes>•	Fixed an issue where Outlook may unexpectedly close when saving an event.
+•	Fixed an issue where Chat option was incorrectly shown in the toolbar and contextual menus when the Microsoft Teams app is not installed.</releaseNotes>
+		<version>16.99.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

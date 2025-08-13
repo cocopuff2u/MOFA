@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 13, 2025 09:17 AM EDT",
+    "last_updated": "August 13, 2025 10:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "August 11, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/2b/3c/602b3c57-2929-64af-b983-19331ad9c4be/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/78/6a/37786a4f-bd46-3c87-31a5-6a779fcd3b3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience.\n\u2022 Tab Management: Pin tabs, search tabs, group them, and sync your tab groups across devices.\n\u2022 Performance Improvements: Fixed bugs and enhanced stability and speed.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "139.3405.86"
+            "releaseNotes": "Welcome to Microsoft Edge! Check out what's new in this release:\n\u2022 Copilot persistent chat: Copilot now keeps your conversation when switching tabs, so you can pick up right where you left off.\n\u2022 Copilot video summary: Get quick, AI-powered summaries of videos while you watch.\n\u2022 Fixed some bugs and improved stability and performance.\nUpgrade to the latest version and enjoy a smarter, more efficient Microsoft Edge!",
+            "version": "138.3351.121"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "WooCommerce",
             "bundleId": "com.automattic.woocommerce",
-            "currentVersionReleaseDate": "August 11, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c2/0f/7bc20f74-2745-134e-2fb6-5a657b7012d8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/f3/ec/1bf3ec53-ada6-e926-9ff6-8cbd0f2ecddb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update enhances Shipping Labels with improved accessibility, smarter address validation, and faster performance. We've also added a dedicated Point of Sale tab for quicker access, and POS orders are now filterable in your order list for better organization. Plus, we've optimized assets to reduce the app's size!",
-            "version": "22.9"
+            "version": "22.9.1"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
@@ -255,11 +255,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "August 12, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/f0/a6/2df0a6cd-2920-a6a8-7cf0-550e741c99cf/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 05, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/b6/b2/20b6b23c-5e42-1d6f-35bf-cfd8384250e8/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25081.8"
+            "version": "3.25074.6"
         },
         {
             "name": "iOS Microsoft Authenticator",

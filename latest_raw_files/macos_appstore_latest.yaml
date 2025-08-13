@@ -1,4 +1,4 @@
-last_updated: August 13, 2025 05:06 PM EDT
+last_updated: August 13, 2025 06:07 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -11,35 +11,35 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: August 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/0c/d5/4f0cd524-ce36-111e-caac-54164f70675b/XCEL.png/512x512bb.png
-    minimumOsVersion: '13.0'
-    releaseNotes: "Compatibility Versions: Compatibility Versions are set per workbook.\
-      \ Version 1 reflects historical calculation behavior while Version 2 contains\
-      \ the improvements to Excel text functions.\n\t \nView multiple panes, sheets\
-      \ or workbooks side by side: You can now quickly compare worksheets in the same\
-      \ workbook or in different workbooks by viewing them side by side with synchronous\
-      \ scrolling and reset window positioning, just like in Excel Windows."
-    version: '16.100'
-  - name: MacOS Microsoft PowerPoint
-    application_name: Microsoft PowerPoint
-    bundleId: com.microsoft.Powerpoint
     currentVersionReleaseDate: July 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/f2/4e/f3f24e57-83db-d2fc-b619-c3364cc48bd4/PPT3.png/512x512bb.png
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/5f/c6ab5fa2-1798-db36-b5bd-a53875d77d4f/XCEL.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "\u2022 Bug fixes"
     version: 16.99.2
+  - name: MacOS Microsoft PowerPoint
+    application_name: Microsoft PowerPoint
+    bundleId: com.microsoft.Powerpoint
+    currentVersionReleaseDate: August 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/53/27/a753273c-64da-0864-eea7-16e4292e554b/PPT3.png/512x512bb.png
+    minimumOsVersion: '13.0'
+    releaseNotes: "\u2022 Bug fixes"
+    version: '16.100'
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: July 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/88/32/388832b1-e556-8ea5-ef96-52cee2161a01/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: August 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/0e/e6/c20ee6ee-e803-d729-57bf-c00e2b52893a/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022\tFixed an issue where Outlook may unexpectedly close when\
-      \ saving an event.\n\u2022\tFixed an issue where Chat option was incorrectly\
-      \ shown in the toolbar and contextual menus when the Microsoft Teams app is\
-      \ not installed."
-    version: 16.99.2
+    releaseNotes: 'Mail: Linked file indicator now appears in the message list for
+      conversations that include file links, making it easier to spot messages with
+      shared content at a glance.
+
+
+      Auto Reply: Users can now block their calendar when setting an automatic reply.
+
+
+      Shared Mailbox: Added support for shared mailboxes in hybrid environments.'
+    version: '16.100'
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
@@ -55,13 +55,13 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: August 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/3d/a6/843da640-f2ff-c217-eadc-5b60fb17c14b/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: August 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/e8/a1/a1e8a1f0-2f03-2bdc-24dd-a58d8c1ae7d9/OneDrive.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 25.137.0715
+    version: 25.140.0720
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

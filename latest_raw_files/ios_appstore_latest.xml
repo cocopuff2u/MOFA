@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 13, 2025 07:06 AM EDT</last_updated>
+	<last_updated>August 13, 2025 08:11 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -127,11 +127,11 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>WooCommerce</application_name>
 		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>August 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/f3/ec/1bf3ec53-ada6-e926-9ff6-8cbd0f2ecddb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 11, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c2/0f/7bc20f74-2745-134e-2fb6-5a657b7012d8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This update enhances Shipping Labels with improved accessibility, smarter address validation, and faster performance. We've also added a dedicated Point of Sale tab for quicker access, and POS orders are now filterable in your order list for better organization. Plus, we've optimized assets to reduce the app's size!</releaseNotes>
-		<version>22.9.1</version>
+		<version>22.9</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>

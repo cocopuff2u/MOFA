@@ -1,25 +1,27 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 12, 2025 08:30 PM EDT</last_updated>
+	<last_updated>August 12, 2025 09:35 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/ec/88/e9ec88d0-c644-9a6a-9c81-c2955a9e6d81/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 12, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/90/da/5990da16-b7b5-ca2c-9c3d-09fc706bad53/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.99.2</version>
+		<version>16.100</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/5f/c6ab5fa2-1798-db36-b5bd-a53875d77d4f/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 12, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/0c/d5/4f0cd524-ce36-111e-caac-54164f70675b/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.99.2</version>
+		<releaseNotes>Compatibility Versions: Compatibility Versions are set per workbook. Version 1 reflects historical calculation behavior while Version 2 contains the improvements to Excel text functions.
+	 
+View multiple panes, sheets or workbooks side by side: You can now quickly compare worksheets in the same workbook or in different workbooks by viewing them side by side with synchronous scrolling and reset window positioning, just like in Excel Windows.</releaseNotes>
+		<version>16.100</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
@@ -46,8 +48,8 @@
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/ce/ae/12ceaeda-f350-b53c-c1b8-e6495ada3e26/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 12, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/20/6c/35206cdb-ceb7-123b-7b18-81bc7064576a/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -55,7 +57,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.99.2</version>
+		<version>16.100</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>

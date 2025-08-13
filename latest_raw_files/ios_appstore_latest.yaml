@@ -1,4 +1,4 @@
-last_updated: August 13, 2025 12:06 PM EDT
+last_updated: August 13, 2025 01:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -106,15 +106,15 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: August 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c2/0f/7bc20f74-2745-134e-2fb6-5a657b7012d8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/f3/ec/1bf3ec53-ada6-e926-9ff6-8cbd0f2ecddb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: This update enhances Shipping Labels with improved accessibility,
       smarter address validation, and faster performance. We've also added a dedicated
       Point of Sale tab for quicker access, and POS orders are now filterable in your
       order list for better organization. Plus, we've optimized assets to reduce the
       app's size!
-    version: '22.9'
+    version: 22.9.1
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 13, 2025 08:30 PM EDT</last_updated>
+	<last_updated>August 13, 2025 09:35 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,13 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>July 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/5f/c6ab5fa2-1798-db36-b5bd-a53875d77d4f/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 12, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/0c/d5/4f0cd524-ce36-111e-caac-54164f70675b/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.99.2</version>
+		<releaseNotes>Compatibility Versions: Compatibility Versions are set per workbook. Version 1 reflects historical calculation behavior while Version 2 contains the improvements to Excel text functions.
+	 
+View multiple panes, sheets or workbooks side by side: You can now quickly compare worksheets in the same workbook or in different workbooks by viewing them side by side with synchronous scrolling and reset window positioning, just like in Excel Windows.</releaseNotes>
+		<version>16.100</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>

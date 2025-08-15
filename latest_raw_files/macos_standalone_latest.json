@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 15, 2025 06:06 PM EDT",
+    "last_updated": "August 15, 2025 07:06 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -214,16 +214,16 @@
             "application_id": "MSRD10",
             "application_name": "Windows App.app",
             "CFBundleVersion": "com.microsoft.windows.app",
-            "short_version": "11.2.0",
-            "full_version": "2667",
-            "last_updated": "July 17, 2025",
+            "short_version": "11.2.1",
+            "full_version": "2678",
+            "last_updated": "August 09, 2025",
             "min_os": "12.0",
-            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.2.0_updater.pkg",
-            "app_update_sha1": "79339f93ee80915615894b56bb0a847888233854",
-            "app_update_sha256": "e43af38ab42bb7f900ec03ad9e4b7ae66f559b7c890e34abdef62fbe23000c00",
+            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.2.1_updater.pkg",
+            "app_update_sha1": "fb6585e43f174978b3a00ee7abcdf7fe7303ae28",
+            "app_update_sha256": "381ecff08aa810504308d6a7582dc911c50c679777c3d5a0c75cb642f9ca1340",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=868963",
-            "full_update_sha1": "bca6e1246f0ab4ce13d2119c7387b3eae14fbd6a",
-            "full_update_sha256": "598480cf0754129d8558b698e6e20bb081979919e3754e2b524324d7ce6906ef"
+            "full_update_sha1": "c4697f28d9a776be77855adac1cb449dab4f4587",
+            "full_update_sha256": "224ea300a0dbda116e9614f7bf35db81e571e0e4b1dcf5b3411a622bbe3c700a"
         },
         {
             "name": "Visual",

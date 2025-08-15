@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 15, 2025 05:05 PM EDT</last_updated>
+	<last_updated>August 15, 2025 06:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -177,11 +177,11 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 		<name>iOS Microsoft Whiteboard</name>
 		<application_name>Whiteboard - Infinity Canvas</application_name>
 		<bundleId>cn.readpad.tool.iwhiteboard</bundleId>
-		<currentVersionReleaseDate>July 23, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/6c/00/da6c00f8-385b-ebb7-5bbd-aedbbb7d522c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/88/40/bb884072-a60f-80e7-f716-8e8f18ac9e37/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Fixed known bugs.</releaseNotes>
-		<version>32.0</version>
+		<version>33.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>

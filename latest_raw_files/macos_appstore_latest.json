@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 15, 2025 09:34 PM EDT",
+    "last_updated": "August 15, 2025 10:36 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -65,11 +65,11 @@
             "name": "MacOS Microsoft Windows App",
             "application_name": "Windows App",
             "bundleId": "com.microsoft.rdc.macos",
-            "currentVersionReleaseDate": "July 25, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/de/38/fade381b-0635-9ca5-6629-b468c32620b0/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png",
-            "minimumOsVersion": "12.0",
-            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added support to prevent the title and menu bars from appearing in full screen mode.\n\u2022 Integrated support for trackpad pinch and zoom gestures.\n\u2022 Improved the Add menu by integrating help text (macOS 15 and later).\n\u2022 Improved the resize behavior for the Connection Center tile view by leveraging scaling.\n\u2022 Disabled applicable toolbar commands for empty Favorites, Devices and Apps tabs.\n\u2022 Added the app version to log file names.\n\u2022 Fixed some scenarios where the app would hang.\n\u2022 Hovering over an in-app notification will now prevent it from disappearing.\n\u2022 Made improvements to the code behind AVD feed discovery.\n\u2022 Resolved accessibility bugs.\n\nThis is the last Windows App version that will support macOS 12. Future updates to Windows App will require macOS 13. If you are using macOS 12, the app will continue to work, but you won't receive new updates.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.2.0"
+            "currentVersionReleaseDate": "August 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/c2/5c/7cc25c2b-c23d-e2f1-9924-fdbf29f37a0a/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Lots of under-the-hood changes to clean up code and prepare for upcoming features.\n\u2022 Introduced an error message for cases where the connection is closed due to the remote PC restarting.\n\u2022 Added an in-app notification to indicate when an update is available to download from the App Store.\n\u2022 Made some improvements to Teams optimizations.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
+            "version": "11.2.1"
         },
         {
             "name": "MacOS Microsoft To-Do",

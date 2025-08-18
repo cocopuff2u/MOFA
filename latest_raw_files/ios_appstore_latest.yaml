@@ -1,4 +1,4 @@
-last_updated: August 18, 2025 07:06 AM EDT
+last_updated: August 18, 2025 09:17 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -160,8 +160,8 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: August 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e6/49/d7e649a6-5e33-b1b1-2824-a24d6956e4ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/2b/3c/602b3c57-2929-64af-b983-19331ad9c4be/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate,\
@@ -170,7 +170,7 @@ packages:
       \ groups across devices.\n\u2022 Performance Improvements: Fixed bugs and enhanced\
       \ stability and speed.\nUpgrade now to experience a smarter, faster, and more\
       \ productive Microsoft Edge!"
-    version: 139.3405.101
+    version: 139.3405.86
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

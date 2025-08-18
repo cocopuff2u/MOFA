@@ -1,21 +1,21 @@
-last_updated: August 18, 2025 04:07 PM EDT
+last_updated: August 18, 2025 05:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: August 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a9/eb/78a9eb83-ee22-2953-2d81-d7d5f53ecec3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/28/ae/d128ae73-8dd8-7961-ab5b-44fd61fc3130/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.100.1
+    version: '2.100'
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: August 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/cb/b8/0ecbb8ca-c3fb-32b8-14d1-556c3efbf427/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2a/9a/4f2a9a33-e76f-ddc6-e34a-cec752fc683f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.100.1
+    version: '2.100'
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -38,15 +38,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: August 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/77/2a/48772acc-79c5-dbd1-6204-ae9d873d6cc0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/65/3f/cc653f53-da62-4fef-aa00-9701991029aa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.100.1
+    version: '16.100'
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
@@ -74,8 +74,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: August 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e6/49/d7e649a6-5e33-b1b1-2824-a24d6956e4ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/2b/3c/602b3c57-2929-64af-b983-19331ad9c4be/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate,\
@@ -84,7 +84,7 @@ packages:
       \ groups across devices.\n\u2022 Performance Improvements: Fixed bugs and enhanced\
       \ stability and speed.\nUpgrade now to experience a smarter, faster, and more\
       \ productive Microsoft Edge!"
-    version: 139.3405.101
+    version: 139.3405.86
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -160,8 +160,8 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: August 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e6/49/d7e649a6-5e33-b1b1-2824-a24d6956e4ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/2b/3c/602b3c57-2929-64af-b983-19331ad9c4be/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate,\
@@ -170,7 +170,7 @@ packages:
       \ groups across devices.\n\u2022 Performance Improvements: Fixed bugs and enhanced\
       \ stability and speed.\nUpgrade now to experience a smarter, faster, and more\
       \ productive Microsoft Edge!"
-    version: 139.3405.101
+    version: 139.3405.86
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 19, 2025 02:09 AM EDT",
+    "last_updated": "August 19, 2025 03:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "August 11, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/4d/3b/6e4d3be5-f2cf-a99e-7e5f-c1cc06e36802/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/ef/0e/faef0e18-0036-ef4d-c7bb-7d172d6b838f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2531.0"
+            "releaseNotes": "Easily turn email threads into meeting invites\u2014Copilot suggests a title and agenda based on the context of the email, so you can send with just a few taps.",
+            "version": "4.2532.0"
         },
         {
             "name": "iOS Microsoft OneNote",

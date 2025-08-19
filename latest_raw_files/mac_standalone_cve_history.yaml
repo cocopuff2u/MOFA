@@ -1,5 +1,11 @@
-last_scan_date: August 19, 2025 04:11 PM EDT
+last_scan_date: August 19, 2025 05:05 PM EDT
 updates:
+- date_text: August 19, 2025
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.100.1 (Build 25081721)
 - date_text: August 12, 2025
   security_updates:
     Excel:

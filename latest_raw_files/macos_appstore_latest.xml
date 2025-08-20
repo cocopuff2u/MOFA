@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 20, 2025 01:07 AM EDT</last_updated>
+	<last_updated>August 20, 2025 02:10 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>August 12, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/90/da/5990da16-b7b5-ca2c-9c3d-09fc706bad53/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/3d/d9/4b3dd9fe-efeb-91a5-9e5a-8f8ec05aa70c/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.100</version>
+		<version>16.100.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
@@ -37,15 +37,18 @@ View multiple panes, sheets or workbooks side by side: You can now quickly compa
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>August 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/0e/e6/c20ee6ee-e803-d729-57bf-c00e2b52893a/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/d5/5b/01d55bdf-747f-4609-225c-388d3d6e33e3/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Mail: Linked file indicator now appears in the message list for conversations that include file links, making it easier to spot messages with shared content at a glance.
+		<releaseNotes>Feature Updates
+• Added capability to zoom in on email content with a trackpad.
 
-Auto Reply: Users can now block their calendar when setting an automatic reply.
-
-Shared Mailbox: Added support for shared mailboxes in hybrid environments.</releaseNotes>
-		<version>16.100</version>
+Resolved Issues
+• Fixed potential formatting issue of empty drafts.
+• Fixed potential data loss in email drafts.
+• Fixed incorrect Copilot entries on devices without capability.
+• Fixed various crashes to improve overall quality.</releaseNotes>
+		<version>16.100.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>

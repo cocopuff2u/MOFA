@@ -1,5 +1,5 @@
 EdgeInsiderVersions:
-  last_updated: August 20, 2025 01:06 PM EDT
+  last_updated: August 20, 2025 02:09 PM EDT
   Version:
   - Name: current
     Version: 139.0.3405.102
@@ -20,14 +20,14 @@ EdgeInsiderVersions:
     Full_Update_Sha256: d1e4b53d4092538ccae1976550d0574f8c0b9b25ca520641094e46c2ea7857b3
     Last_Update: August 20, 2025 09:21 AM EDT
   - Name: dev
-    Version: 140.0.3485.6
+    Version: 141.0.3500.1
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e321a5f2-a51b-4def-a6c3-d63646907754/MicrosoftEdgeDev-140.0.3485.6.pkg
-    Full_Update_Sha1: 8440676eb374e5fdafa506d2ee60649f6423f8f6
-    Full_Update_Sha256: 36480e452f27522082b89b4f904c3b9770ccd15939214d71a5ba8c8cd3e63270
-    Last_Update: August 12, 2025 05:35 PM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/84ce67ce-d9ab-4e85-b9c0-888d3fa625e7/MicrosoftEdgeDev-141.0.3500.1.pkg
+    Full_Update_Sha1: 56697a0e2c2cbf999387905ec08dc3308b927f19
+    Full_Update_Sha256: 58845dd72ed8fa689e12c2e74bdb0fad3aac11ad6328d0e48d113d3ca2969c85
+    Last_Update: August 20, 2025 01:10 PM EDT
   - Name: beta
     Version: 140.0.3485.14
     Application_ID: EDGE01

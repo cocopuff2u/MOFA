@@ -1,4 +1,4 @@
-last_updated: August 20, 2025 04:07 PM EDT
+last_updated: August 20, 2025 05:05 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -11,24 +11,19 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: August 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/0c/d5/4f0cd524-ce36-111e-caac-54164f70675b/XCEL.png/512x512bb.png
-    minimumOsVersion: '13.0'
-    releaseNotes: "Compatibility Versions: Compatibility Versions are set per workbook.\
-      \ Version 1 reflects historical calculation behavior while Version 2 contains\
-      \ the improvements to Excel text functions.\n\t \nView multiple panes, sheets\
-      \ or workbooks side by side: You can now quickly compare worksheets in the same\
-      \ workbook or in different workbooks by viewing them side by side with synchronous\
-      \ scrolling and reset window positioning, just like in Excel Windows."
-    version: '16.100'
-  - name: MacOS Microsoft PowerPoint
-    application_name: Microsoft PowerPoint
-    bundleId: com.microsoft.Powerpoint
     currentVersionReleaseDate: August 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/3b/13/b03b1340-d185-9ba4-3361-20d915aece79/PPT3.png/512x512bb.png
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/9f/f7/779ff7c3-0e76-f078-39a5-2e90b6143276/XCEL.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "\u2022 Bug fixes"
     version: 16.100.1
+  - name: MacOS Microsoft PowerPoint
+    application_name: Microsoft PowerPoint
+    bundleId: com.microsoft.Powerpoint
+    currentVersionReleaseDate: August 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/53/27/a753273c-64da-0864-eea7-16e4292e554b/PPT3.png/512x512bb.png
+    minimumOsVersion: '13.0'
+    releaseNotes: "\u2022 Bug fixes"
+    version: '16.100'
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook

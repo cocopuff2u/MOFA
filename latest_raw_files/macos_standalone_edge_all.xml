@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>August 23, 2025 03:06 AM EDT</last_updated>
+  <last_updated>August 23, 2025 04:07 AM EDT</last_updated>
   <Version>
     <Name>current</Name>
     <Version>139.0.3405.111</Version>
@@ -10,7 +10,7 @@
     <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/017e25fc-2906-45b2-958c-1c71c4667dc1/MicrosoftEdge-139.0.3405.111.pkg</Full_Update_Download>
     <Full_Update_Sha1>0da204d7573bd3b9dd84ba48d98569e13baa60eb</Full_Update_Sha1>
     <Full_Update_Sha256>1aa42cbaaf38b035e17d43fbbe0a293ceb286c5fd298d463b1a369ed900a03ac</Full_Update_Sha256>
-    <Last_Update>August 21, 2025 02:30 PM EDT</Last_Update>
+    <Last_Update>August 23, 2025 03:06 AM EDT</Last_Update>
   </Version>
   <Version>
     <Name>canary</Name>

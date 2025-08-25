@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 25, 2025 09:15 AM EDT",
+    "last_updated": "August 25, 2025 10:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "August 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e6/49/d7e649a6-5e33-b1b1-2824-a24d6956e4ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 25, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/ca/49/27ca4959-ef41-7a09-9ad8-e87a1dc834b8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience.\n\u2022 Tab Management: Pin tabs, search tabs, group them, and sync your tab groups across devices.\n\u2022 Performance Improvements: Fixed bugs and enhanced stability and speed.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "139.3405.101"
+            "version": "139.3405.111"
         },
         {
             "name": "iOS Microsoft Loop",

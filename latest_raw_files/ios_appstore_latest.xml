@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 25, 2025 08:11 AM EDT</last_updated>
+	<last_updated>August 25, 2025 09:15 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -45,8 +45,8 @@
 		<name>iOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote</bundleId>
-		<currentVersionReleaseDate>August 18, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/77/2a/48772acc-79c5-dbd1-6204-ae9d873d6cc0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/c8/7d/10c87da1-c3b7-5b9b-eb9f-caed578f0d40/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -54,7 +54,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.100.1</version>
+		<version>16.100.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneDrive</name>
@@ -90,15 +90,15 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/ca/49/27ca4959-ef41-7a09-9ad8-e87a1dc834b8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 18, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e6/49/d7e649a6-5e33-b1b1-2824-a24d6956e4ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Here’s what’s new in this release:
 • Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience.
 • Tab Management: Pin tabs, search tabs, group them, and sync your tab groups across devices.
 • Performance Improvements: Fixed bugs and enhanced stability and speed.
 Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!</releaseNotes>
-		<version>139.3405.111</version>
+		<version>139.3405.101</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>

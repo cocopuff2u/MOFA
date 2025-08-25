@@ -1,29 +1,29 @@
-last_updated: August 25, 2025 02:10 AM EDT
+last_updated: August 25, 2025 03:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: August 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/59/0d/ae590d9d-4ffc-ea1e-4331-7546429f2b93/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a9/eb/78a9eb83-ee22-2953-2d81-d7d5f53ecec3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.100.2
+    version: 2.100.1
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: August 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/45/ce/8645ce21-7777-d89a-1402-22d95597e9ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/cb/b8/0ecbb8ca-c3fb-32b8-14d1-556c3efbf427/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.100.2
+    version: 2.100.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: August 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/3d/fa/ca3dfad9-057f-bb57-6323-4480007cbc06/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/0f/99/5e0f99c6-5e1d-bea2-3f9f-9a68bc48fbee/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.100.2
+    version: 2.100.1
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -73,8 +73,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: August 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/ca/49/27ca4959-ef41-7a09-9ad8-e87a1dc834b8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e6/49/d7e649a6-5e33-b1b1-2824-a24d6956e4ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate,\
@@ -83,7 +83,7 @@ packages:
       \ groups across devices.\n\u2022 Performance Improvements: Fixed bugs and enhanced\
       \ stability and speed.\nUpgrade now to experience a smarter, faster, and more\
       \ productive Microsoft Edge!"
-    version: 139.3405.111
+    version: 139.3405.101
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop

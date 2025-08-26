@@ -1,4 +1,4 @@
-last_updated: August 26, 2025 11:06 AM EDT
+last_updated: August 26, 2025 12:07 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -88,16 +88,16 @@ packages:
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.100.1 (25081721)
-  full_version: 16.100.25081721
-  last_updated: August 17, 2025
+  short_version: 16.100.2 (25082415)
+  full_version: 16.100.25082415
+  last_updated: August 24, 2025
   min_os: '13.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.100.25081721_Updater.pkg
-  app_update_sha1: 440c3f2f6092e9e70b638de1d06fd353340f322d
-  app_update_sha256: 2b33645eeca39e9627e683eddd153c5ea7f332c7afab7a62a3979c54c71a76e1
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.100.25082415_Updater.pkg
+  app_update_sha1: 7ea8bc66b79618186ca2afa11b0c92d1d09f4b8c
+  app_update_sha256: 805a6ca38054f1be0b45efb7b78c12d93a8a386e69594ca4d730c6fd446928e7
   full_update_download: https://go.microsoft.com/fwlink/?linkid=820886
-  full_update_sha1: 1ec663c532aed6eac032ff68183aab4cac603316
-  full_update_sha256: 4086895b4acc43de2f40b0728bc8ea7f5fe5e8f1e4a362f316da3e30d3fffd48
+  full_update_sha1: 440c3f2f6092e9e70b638de1d06fd353340f322d
+  full_update_sha256: 2b33645eeca39e9627e683eddd153c5ea7f332c7afab7a62a3979c54c71a76e1
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 26, 2025 09:15 AM EDT</last_updated>
+	<last_updated>August 26, 2025 10:06 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -353,11 +353,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Azure Information Protection</name>
 		<application_name>Azure Information Protection</application_name>
 		<bundleId>com.microsoft.rms-sharing</bundleId>
-		<currentVersionReleaseDate>August 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/20/2a/ad202a0f-e642-84e5-b313-3f2de4a241c0/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/d8/9df6d87e-66ad-d6ab-aad9-d030ef4aa9cb/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>Bug fixes</releaseNotes>
-		<version>2.1.3</version>
+		<version>2.1.4</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>

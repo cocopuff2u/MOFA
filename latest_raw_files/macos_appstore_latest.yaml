@@ -1,4 +1,4 @@
-last_updated: August 27, 2025 08:11 AM EDT
+last_updated: August 27, 2025 09:13 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -19,32 +19,35 @@ packages:
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: August 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/3b/13/b03b1340-d185-9ba4-3361-20d915aece79/PPT3.png/512x512bb.png
+    currentVersionReleaseDate: August 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/6a/61/b16a61fb-a449-63ea-264b-69fb1e7bdde2/PPT3.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.100.1
+    version: 16.100.2
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: August 26, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/98/04/ff98042f-7f01-a49a-3ad5-48d25664fc73/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: August 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/d5/5b/01d55bdf-747f-4609-225c-388d3d6e33e3/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Fixed an issue affecting NTLM authentication for on-premises\
-      \ shared mailboxes.\n\u2022 General quality and performance enhancements."
-    version: 16.100.2
+    releaseNotes: "Feature Updates\n\u2022 Added capability to zoom in on email content\
+      \ with a trackpad.\n\nResolved Issues\n\u2022 Fixed potential formatting issue\
+      \ of empty drafts.\n\u2022 Fixed potential data loss in email drafts.\n\u2022\
+      \ Fixed incorrect Copilot entries on devices without capability.\n\u2022 Fixed\
+      \ various crashes to improve overall quality."
+    version: 16.100.1
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: August 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/ed/cd/a3edcde7-67a2-a7b9-80e8-02604f4e625f/OneNote.png/512x512bb.png
+    currentVersionReleaseDate: August 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/be/cd/1cbecd68-84ef-bca2-e300-792c31ee9afe/OneNote.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.100.1
+    version: 16.100.2
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac

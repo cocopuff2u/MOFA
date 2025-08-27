@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 27, 2025 05:07 AM EDT</last_updated>
+	<last_updated>August 27, 2025 06:07 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -25,35 +25,29 @@
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>August 26, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/6a/61/b16a61fb-a449-63ea-264b-69fb1e7bdde2/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/3b/13/b03b1340-d185-9ba4-3361-20d915aece79/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.100.2</version>
+		<version>16.100.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>August 19, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/d5/5b/01d55bdf-747f-4609-225c-388d3d6e33e3/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 26, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/98/04/ff98042f-7f01-a49a-3ad5-48d25664fc73/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Feature Updates
-• Added capability to zoom in on email content with a trackpad.
-
-Resolved Issues
-• Fixed potential formatting issue of empty drafts.
-• Fixed potential data loss in email drafts.
-• Fixed incorrect Copilot entries on devices without capability.
-• Fixed various crashes to improve overall quality.</releaseNotes>
-		<version>16.100.1</version>
+		<releaseNotes>• Fixed an issue affecting NTLM authentication for on-premises shared mailboxes.
+• General quality and performance enhancements.</releaseNotes>
+		<version>16.100.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>August 26, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/be/cd/1cbecd68-84ef-bca2-e300-792c31ee9afe/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/ed/cd/a3edcde7-67a2-a7b9-80e8-02604f4e625f/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -61,7 +55,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.100.2</version>
+		<version>16.100.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>

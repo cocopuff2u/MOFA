@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 27, 2025 11:07 AM EDT</last_updated>
+	<last_updated>August 27, 2025 12:07 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,11 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>August 26, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/39/11/df3911d9-6c2e-c161-12de-39a31e948d91/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/9f/f7/779ff7c3-0e76-f078-39a5-2e90b6143276/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.100.2</version>
+		<version>16.100.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>

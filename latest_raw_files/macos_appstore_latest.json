@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 28, 2025 07:06 AM EDT",
+    "last_updated": "August 28, 2025 08:11 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "August 19, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/3b/13/b03b1340-d185-9ba4-3361-20d915aece79/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "August 26, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/6a/61/b16a61fb-a449-63ea-264b-69fb1e7bdde2/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.100.1"
+            "version": "16.100.2"
         },
         {
             "name": "MacOS Microsoft Outlook",

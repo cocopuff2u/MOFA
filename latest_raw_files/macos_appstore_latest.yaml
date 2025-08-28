@@ -1,4 +1,4 @@
-last_updated: August 28, 2025 12:07 AM EDT
+last_updated: August 28, 2025 01:07 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -27,12 +27,15 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: August 26, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/98/04/ff98042f-7f01-a49a-3ad5-48d25664fc73/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: August 19, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/d5/5b/01d55bdf-747f-4609-225c-388d3d6e33e3/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Fixed an issue affecting NTLM authentication for on-premises\
-      \ shared mailboxes.\n\u2022 General quality and performance enhancements."
-    version: 16.100.2
+    releaseNotes: "Feature Updates\n\u2022 Added capability to zoom in on email content\
+      \ with a trackpad.\n\nResolved Issues\n\u2022 Fixed potential formatting issue\
+      \ of empty drafts.\n\u2022 Fixed potential data loss in email drafts.\n\u2022\
+      \ Fixed incorrect Copilot entries on devices without capability.\n\u2022 Fixed\
+      \ various crashes to improve overall quality."
+    version: 16.100.1
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac

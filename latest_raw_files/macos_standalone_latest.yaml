@@ -1,4 +1,4 @@
-last_updated: August 29, 2025 06:06 PM EDT
+last_updated: August 29, 2025 07:06 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -186,13 +186,13 @@ packages:
   application_id: MSRD10
   application_name: Windows App.app
   CFBundleVersion: com.microsoft.windows.app
-  short_version: 11.2.1
-  full_version: '2678'
-  last_updated: August 09, 2025
+  short_version: 11.2.2
+  full_version: '2698'
+  last_updated: August 29, 2025
   min_os: '12.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.2.1_updater.pkg
-  app_update_sha1: fb6585e43f174978b3a00ee7abcdf7fe7303ae28
-  app_update_sha256: 381ecff08aa810504308d6a7582dc911c50c679777c3d5a0c75cb642f9ca1340
+  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.2.2_updater.pkg
+  app_update_sha1: d70d4fa446b63c01a3d00258affd234811cb32d0
+  app_update_sha256: 92ca45b3c10a1141dd3ac93e158bd0fc31e5a9b3cebad5a8174c8519efddb35c
   full_update_download: https://go.microsoft.com/fwlink/?linkid=868963
   full_update_sha1: c4697f28d9a776be77855adac1cb449dab4f4587
   full_update_sha256: 224ea300a0dbda116e9614f7bf35db81e571e0e4b1dcf5b3411a622bbe3c700a

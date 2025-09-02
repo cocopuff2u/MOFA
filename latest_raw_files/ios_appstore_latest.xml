@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 01, 2025 08:28 PM EDT</last_updated>
+	<last_updated>September 01, 2025 09:34 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -25,11 +25,11 @@
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/e4/82/b7e48266-7734-2d1a-7abb-6bbad89e7575/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/3d/fa/ca3dfad9-057f-bb57-6323-4480007cbc06/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.100.3</version>
+		<version>2.100.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
@@ -45,8 +45,8 @@
 		<name>iOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote</bundleId>
-		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/c8/7d/10c87da1-c3b7-5b9b-eb9f-caed578f0d40/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/62/76/a06276bb-1cad-fdd0-5ba6-a8a893f94ab4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -54,7 +54,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.100.2</version>
+		<version>16.100.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneDrive</name>
@@ -90,15 +90,15 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/ca/49/27ca4959-ef41-7a09-9ad8-e87a1dc834b8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/e0/a4/28e0a4e3-fe5b-4b08-75f5-53a0f81540ee/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Here’s what’s new in this release:
 • Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience.
 • Tab Management: Pin tabs, search tabs, group them, and sync your tab groups across devices.
 • Performance Improvements: Fixed bugs and enhanced stability and speed.
 Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!</releaseNotes>
-		<version>139.3405.111</version>
+		<version>139.3405.125</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -185,15 +185,15 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/ca/49/27ca4959-ef41-7a09-9ad8-e87a1dc834b8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/e0/a4/28e0a4e3-fe5b-4b08-75f5-53a0f81540ee/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Here’s what’s new in this release:
 • Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience.
 • Tab Management: Pin tabs, search tabs, group them, and sync your tab groups across devices.
 • Performance Improvements: Fixed bugs and enhanced stability and speed.
 Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!</releaseNotes>
-		<version>139.3405.111</version>
+		<version>139.3405.125</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
@@ -323,11 +323,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/00/22/eb002203-f6b7-4d63-5fe6-8731b304e999/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 19, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/10/64/1110644c-0f0c-3d64-05ea-21531edac408/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>- NFC tag support is now generally available in Power BI Mobile - making data access faster than ever. To set up the connection between any Power BI item and an NFC tag, open the item on a supported device, and select the ‘Register on an NFC tag’ action. Done setting up? Tap your device on the tag to view your data instantly.</releaseNotes>
-		<version>35.2</version>
+		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
+		<version>35.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>

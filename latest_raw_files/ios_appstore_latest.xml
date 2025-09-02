@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 02, 2025 12:07 AM EDT</last_updated>
+	<last_updated>September 02, 2025 01:07 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,21 +15,21 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/45/ce/8645ce21-7777-d89a-1402-22d95597e9ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/d2/ed/12d2ed39-c2dc-ec9b-313c-daabf14fe62e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.100.2</version>
+		<version>2.100.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/3d/fa/ca3dfad9-057f-bb57-6323-4480007cbc06/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/e4/82/b7e48266-7734-2d1a-7abb-6bbad89e7575/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.100.2</version>
+		<version>2.100.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
@@ -323,11 +323,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>August 19, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/10/64/1110644c-0f0c-3d64-05ea-21531edac408/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/00/22/eb002203-f6b7-4d63-5fe6-8731b304e999/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>35.1</version>
+		<releaseNotes>- NFC tag support is now generally available in Power BI Mobile - making data access faster than ever. To set up the connection between any Power BI item and an NFC tag, open the item on a supported device, and select the ‘Register on an NFC tag’ action. Done setting up? Tap your device on the tag to view your data instantly.</releaseNotes>
+		<version>35.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>

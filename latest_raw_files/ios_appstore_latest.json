@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 01, 2025 07:06 PM EDT",
+    "last_updated": "September 01, 2025 08:28 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "August 25, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/3d/fa/ca3dfad9-057f-bb57-6323-4480007cbc06/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/e4/82/b7e48266-7734-2d1a-7abb-6bbad89e7575/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.100.2"
+            "version": "2.100.3"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -305,11 +305,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "August 19, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/10/64/1110644c-0f0c-3d64-05ea-21531edac408/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/00/22/eb002203-f6b7-4d63-5fe6-8731b304e999/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "35.1"
+            "releaseNotes": "- NFC tag support is now generally available in Power BI Mobile - making data access faster than ever. To set up the connection between any Power BI item and an NFC tag, open the item on a supported device, and select the \u2018Register on an NFC tag\u2019 action. Done setting up? Tap your device on the tag to view your data instantly.",
+            "version": "35.2"
         },
         {
             "name": "iOS Microsoft 365 Admin",

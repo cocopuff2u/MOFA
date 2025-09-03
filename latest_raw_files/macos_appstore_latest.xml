@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 03, 2025 08:11 AM EDT</last_updated>
+	<last_updated>September 03, 2025 09:12 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -25,11 +25,11 @@
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>September 02, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/04/fd/1804fdac-56e0-e542-cd92-d2b99a981b4f/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 26, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/6a/61/b16a61fb-a449-63ea-264b-69fb1e7bdde2/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.100.3</version>
+		<version>16.100.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
@@ -71,13 +71,18 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>September 02, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/2f/49/c72f4946-41be-9d6f-bf69-edb23bf9e5c0/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/c2/5c/7cc25c2b-c23d-e2f1-9924-fdbf29f37a0a/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>This is a quick release to address a customer-reported issue with folder redirection.
+		<releaseNotes>In this release we made the following updates:
+
+• Lots of under-the-hood changes to clean up code and prepare for upcoming features.
+• Introduced an error message for cases where the connection is closed due to the remote PC restarting.
+• Added an in-app notification to indicate when an update is available to download from the App Store.
+• Made some improvements to Teams optimizations.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.2</version>
+		<version>11.2.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

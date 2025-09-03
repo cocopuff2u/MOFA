@@ -1,4 +1,4 @@
-last_updated: September 03, 2025 08:11 AM EDT
+last_updated: September 03, 2025 09:12 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -19,11 +19,11 @@ packages:
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: September 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/04/fd/1804fdac-56e0-e542-cd92-d2b99a981b4f/PPT3.png/512x512bb.png
+    currentVersionReleaseDate: August 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/6a/61/b16a61fb-a449-63ea-264b-69fb1e7bdde2/PPT3.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.100.3
+    version: 16.100.2
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
@@ -58,15 +58,17 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: September 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/2f/49/c72f4946-41be-9d6f-bf69-edb23bf9e5c0/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: August 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/c2/5c/7cc25c2b-c23d-e2f1-9924-fdbf29f37a0a/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: 'This is a quick release to address a customer-reported issue with
-      folder redirection.
-
-
-      If you encounter any errors, you can contact us via Help > Submit Feedback.'
-    version: 11.2.2
+    releaseNotes: "In this release we made the following updates:\n\n\u2022 Lots of\
+      \ under-the-hood changes to clean up code and prepare for upcoming features.\n\
+      \u2022 Introduced an error message for cases where the connection is closed\
+      \ due to the remote PC restarting.\n\u2022 Added an in-app notification to indicate\
+      \ when an update is available to download from the App Store.\n\u2022 Made some\
+      \ improvements to Teams optimizations.\n\nIf you encounter any errors, you can\
+      \ contact us via Help > Submit Feedback."
+    version: 11.2.1
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac

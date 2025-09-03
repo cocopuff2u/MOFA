@@ -1,15 +1,15 @@
 {
-    "last_updated": "September 03, 2025 06:05 PM EDT",
+    "last_updated": "September 03, 2025 07:06 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "September 02, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/bc/d1/b6bcd18d-c867-3882-0fff-39314aad91bd/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "August 26, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/85/53/578553c4-58a0-953f-1a03-d9546366f3c4/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.100.3"
+            "version": "16.100.2"
         },
         {
             "name": "MacOS Microsoft Excel",

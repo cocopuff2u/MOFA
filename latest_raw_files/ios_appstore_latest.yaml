@@ -1,4 +1,4 @@
-last_updated: September 02, 2025 09:33 PM EDT
+last_updated: September 02, 2025 10:30 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,12 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: August 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/f4/1d/75f41d38-ec00-4c2e-7a02-d3d688437d51/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 02, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ec/cb/37eccb12-da29-188c-0564-837c87536ae7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Copilot helps you prepare for your meeting in minutes by summarizing
-      key documents, tasks, and past meetings.
-    version: 4.2533.0
+    releaseNotes: "This update includes performance improvements and bug fixes to\
+      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
+      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
+      \ you."
+    version: 4.2534.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -235,11 +237,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: August 26, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/72/34/2d72342b-e688-c8b1-5ecd-ede9b3c7c9db/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 02, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/d1/80/7cd180fe-c6f4-8895-662b-502f04c89b26/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25083.5
+    version: 3.25084.6
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator

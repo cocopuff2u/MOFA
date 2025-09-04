@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 03, 2025 07:06 PM EDT",
+    "last_updated": "September 03, 2025 08:26 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "September 02, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/a8/c1/e1a8c1af-22a1-77c4-d133-e48542d7103c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 19, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/44/65/2d446527-a000-1572-de92-9402b0763277/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.21.4"
+            "version": "16.20.8"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",

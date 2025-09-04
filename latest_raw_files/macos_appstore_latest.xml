@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 03, 2025 09:34 PM EDT</last_updated>
+	<last_updated>September 03, 2025 10:31 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>August 26, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/85/53/578553c4-58a0-953f-1a03-d9546366f3c4/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 02, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/bc/d1/b6bcd18d-c867-3882-0fff-39314aad91bd/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.100.2</version>
+		<version>16.100.3</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>August 26, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/39/11/df3911d9-6c2e-c161-12de-39a31e948d91/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 02, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/cc/ba/92ccbaca-b1ff-0cf2-5fae-e86e3c72fce6/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.100.2</version>
+		<version>16.100.3</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>

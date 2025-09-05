@@ -1,4 +1,4 @@
-last_updated: September 05, 2025 06:07 AM EDT
+last_updated: September 05, 2025 07:05 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,14 +27,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: September 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ec/cb/37eccb12-da29-188c-0564-837c87536ae7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 03, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/42/b3/8a42b311-952a-1edf-66a0-4d4f4b2b1213/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2534.0
+    version: 4.2534.1
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -66,11 +66,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: August 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/d8/2f/94d82f85-3e4d-e187-eb5e-4aaf7d24d33a/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/e8/c7/b1e8c768-5657-3525-e081-f5eb8d9db593/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: Bug fixes and improvements
-    version: 1.1.68140102
+    releaseNotes: Bug fixes and Improvements
+    version: 1.1.68200103
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
@@ -174,13 +174,12 @@ packages:
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
-    currentVersionReleaseDate: July 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/01/d3/4301d330-78bd-a4be-4de6-6bbf809bd5d3/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/a6/66/bea6661d-294b-f35d-34e1-3128b7b12006/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
-    releaseNotes: "\u2022 You can now review recently taken photos and their descriptions.\
-      \ Select \"History\" in the menu.\n\u2022 Updated the main screen layout based\
-      \ on your feedback.\n\u2022 Plus, various bug fixes under the hood."
-    version: '5.6'
+    releaseNotes: This release includes several bug fixes to make your experience
+      even better.
+    version: 5.6.1
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile
@@ -292,11 +291,13 @@ packages:
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin
     bundleId: com.microsoft.o365shdmobileapp
-    currentVersionReleaseDate: May 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/fb/17/59fb177b-466f-f323-daac-fc07964112e1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 05, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0d/b8/e10db871-3c82-f649-3686-5eb88efa87aa/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: This release contains few bug fixes to improve the app reliability.
-    version: 5.6.3
+    releaseNotes: "As part of this release, Admins will now receive real-time notifications\
+      \ on their mobile devices when Copilot license requests are submitted \u2014\
+      \ enabling quicker response and streamlined license management on the go."
+    version: 5.7.2
   - name: iOS Microsoft Intune Company Portal
     application_name: Intune Company Portal
     bundleId: com.microsoft.CompanyPortal

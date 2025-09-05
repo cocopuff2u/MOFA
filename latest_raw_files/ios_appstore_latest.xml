@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 05, 2025 06:07 AM EDT</last_updated>
+	<last_updated>September 05, 2025 07:05 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -35,13 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>September 02, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ec/cb/37eccb12-da29-188c-0564-837c87536ae7/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 03, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/42/b3/8a42b311-952a-1edf-66a0-4d4f4b2b1213/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2534.0</version>
+		<version>4.2534.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -82,11 +82,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>August 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/d8/2f/94d82f85-3e4d-e187-eb5e-4aaf7d24d33a/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/e8/c7/b1e8c768-5657-3525-e081-f5eb8d9db593/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and improvements</releaseNotes>
-		<version>1.1.68140102</version>
+		<releaseNotes>Bug fixes and Improvements</releaseNotes>
+		<version>1.1.68200103</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>
@@ -201,13 +201,11 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 		<name>iOS Microsoft Seeing AI</name>
 		<application_name>Seeing AI</application_name>
 		<bundleId>com.microsoft.seeingai</bundleId>
-		<currentVersionReleaseDate>July 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/01/d3/4301d330-78bd-a4be-4de6-6bbf809bd5d3/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/a6/66/bea6661d-294b-f35d-34e1-3128b7b12006/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>• You can now review recently taken photos and their descriptions. Select &quot;History&quot; in the menu.
-• Updated the main screen layout based on your feedback.
-• Plus, various bug fixes under the hood.</releaseNotes>
-		<version>5.6</version>
+		<releaseNotes>This release includes several bug fixes to make your experience even better.</releaseNotes>
+		<version>5.6.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Planner</name>
@@ -335,11 +333,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft 365 Admin</name>
 		<application_name>Microsoft 365 Admin</application_name>
 		<bundleId>com.microsoft.o365shdmobileapp</bundleId>
-		<currentVersionReleaseDate>May 31, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/fb/17/59fb177b-466f-f323-daac-fc07964112e1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 05, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0d/b8/e10db871-3c82-f649-3686-5eb88efa87aa/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>This release contains few bug fixes to improve the app reliability.</releaseNotes>
-		<version>5.6.3</version>
+		<releaseNotes>As part of this release, Admins will now receive real-time notifications on their mobile devices when Copilot license requests are submitted — enabling quicker response and streamlined license management on the go.</releaseNotes>
+		<version>5.7.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Intune Company Portal</name>

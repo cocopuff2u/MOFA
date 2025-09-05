@@ -1,15 +1,15 @@
 EdgeInsiderVersions:
-  last_updated: September 05, 2025 04:07 PM EDT
+  last_updated: September 05, 2025 05:08 PM EDT
   Version:
   - Name: current
-    Version: 139.0.3405.125
+    Version: 140.0.3485.54
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/213af808-089e-4cb4-b2ac-5f03a3f94766/MicrosoftEdge-139.0.3405.125.pkg
-    Full_Update_Sha1: 558b8519e1fe5817358232da4c974f6688dadbe6
-    Full_Update_Sha256: 0d87f4e785524ead26fe48b10bc1f0cfd847e28faa1c63d72134282f3fd40f53
-    Last_Update: August 30, 2025 03:01 AM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/31b9aeb9-9251-4eda-8133-047734bfd5a1/MicrosoftEdge-140.0.3485.54.pkg
+    Full_Update_Sha1: c775af2509229c9ea3d367dba6716b0b278db553
+    Full_Update_Sha256: 2acae5f524f7e824e8fd39b03395884b723308be89622070779cacdd444f26de
+    Last_Update: September 05, 2025 04:17 PM EDT
   - Name: canary
     Version: 142.0.3538.0
     Application_ID: EDGE01
@@ -29,11 +29,11 @@ EdgeInsiderVersions:
     Full_Update_Sha256: 35b66c0bf153fa722ccf2d23834c83c196aaa27941108922a84d1d08ced5eecf
     Last_Update: September 03, 2025 04:59 PM EDT
   - Name: beta
-    Version: 140.0.3485.49
+    Version: 140.0.3485.54
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/91094a1f-125e-41d4-a468-1e3bd62c200e/MicrosoftEdgeBeta-140.0.3485.49.pkg
-    Full_Update_Sha1: 556cfa4c1298c3f21b0d419dc0d209aa74364e47
-    Full_Update_Sha256: 90ce0ec38c6f83de5f1dc6840da47eb1a8b7b54e73097bd70db1ebd8edcb417c
-    Last_Update: September 03, 2025 03:45 PM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d8e770d-1b19-4c93-97b9-71b38dc8b085/MicrosoftEdgeBeta-140.0.3485.54.pkg
+    Full_Update_Sha1: e4525b428805678e16107aecdb213b54f32e5dec
+    Full_Update_Sha256: a2ff3ff1d9edb4356dcce9067a1599eafec6f3497eb5332966df53b530c3e27b
+    Last_Update: September 05, 2025 04:30 PM EDT

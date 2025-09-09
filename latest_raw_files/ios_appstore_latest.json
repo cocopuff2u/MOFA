@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 08, 2025 11:20 PM EDT",
+    "last_updated": "September 09, 2025 12:08 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -15,21 +15,21 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "September 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/d2/ed/12d2ed39-c2dc-ec9b-313c-daabf14fe62e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c2/ef/7dc2ef48-b5de-3be7-2a08-846b46dbad0f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.100.3"
+            "version": "2.100.4"
         },
         {
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "September 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/e4/82/b7e48266-7734-2d1a-7abb-6bbad89e7575/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ee/7f/ddee7f2b-8ff5-e620-7a53-10a8ff9983a2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.100.3"
+            "version": "2.100.4"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -45,11 +45,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "September 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/62/76/a06276bb-1cad-fdd0-5ba6-a8a893f94ab4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/c6/42/3fc64200-823b-83f3-55dd-188985af9097/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.100.3"
+            "version": "16.100.4"
         },
         {
             "name": "iOS Microsoft OneDrive",
@@ -155,11 +155,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "September 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f6/37/d8f637a4-203f-44c3-30e0-42b95fd8e6be/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 29, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/ec/80/84ec80d7-fde3-ec1c-9e6b-0076f85963b6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "11.11.0"
+            "version": "11.8.1"
         },
         {
             "name": "iOS Microsoft Whiteboard",

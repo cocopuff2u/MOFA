@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 10, 2025 12:07 PM EDT",
+    "last_updated": "September 10, 2025 01:06 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -45,11 +45,11 @@
             "name": "MacOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote.mac",
-            "currentVersionReleaseDate": "September 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/ae/78/3bae787e-8275-dd17-776e-6501b5ca4c94/OneNote.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 02, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/d3/cc/2ed3cc29-cf19-dc9f-2ef3-2ab72dbe9fe1/OneNote.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.\nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.100.4"
+            "version": "16.100.3"
         },
         {
             "name": "MacOS Microsoft OneDrive",

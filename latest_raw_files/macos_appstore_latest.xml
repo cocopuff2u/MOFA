@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 11, 2025 12:08 AM EDT</last_updated>
+	<last_updated>September 11, 2025 01:06 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -25,11 +25,11 @@
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>September 02, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/04/fd/1804fdac-56e0-e542-cd92-d2b99a981b4f/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cd/c8/facdc87e-4d4d-4b77-2e93-0839f54f2a78/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.100.3</version>
+		<version>16.100.4</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>

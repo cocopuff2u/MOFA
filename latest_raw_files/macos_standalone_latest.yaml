@@ -1,4 +1,4 @@
-last_updated: September 11, 2025 01:06 PM EDT
+last_updated: September 11, 2025 02:07 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -116,13 +116,13 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 25227.301.3887.7726
-  full_version: 25227.301.3887.7726
-  last_updated: August 16, 2025
+  short_version: 25240.1602.3947.6163
+  full_version: 25240.1602.3947.6163
+  last_updated: September 10, 2025
   min_os: '13.0'
-  app_only_update_download: https://statics.teams.cdn.office.net/production-osx/25227.301.3887.7726/MicrosoftTeams.pkg
-  app_update_sha1: 401b73148c974f8b68426b5a1071c8d82896e1e0
-  app_update_sha256: 6632f35f7a330fa2cb64871aa553d0d935379eb3e34678cd54af92fc3cacfedf
+  app_only_update_download: https://statics.teams.cdn.office.net/production-osx/25240.1602.3947.6163/MicrosoftTeams.pkg
+  app_update_sha1: 2e54e63f9bbe4be4bda0c166fe469ddeec1d8f29
+  app_update_sha256: 08389c89e18ba0170fd59cdfa1befdf5ffe61a0c6892bf1518768801b87fa524
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2249065
   full_update_sha1: e257e52eff9424693eb5aae0148e431df21ab8ea
   full_update_sha256: abf7cce01abed62a1ba7c3f7fbec765e3322a7789244f2da41b933582fba0ff5

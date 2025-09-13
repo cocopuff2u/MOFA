@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 13, 2025 04:06 PM EDT",
+    "last_updated": "September 13, 2025 05:05 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -75,11 +75,11 @@
             "name": "MacOS Microsoft To-Do",
             "application_name": "Microsoft To Do",
             "bundleId": "com.microsoft.to-do-mac",
-            "currentVersionReleaseDate": "May 17, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/bf/cf/27bfcf9c-3196-e934-6429-fe256e90aac2/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/e5/33/a4e533cf-2fa7-3563-f9f9-dfd9608e2064/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png",
             "minimumOsVersion": "10.15",
             "releaseNotes": "We fixed some bugs to improve the app experience.",
-            "version": "2.147"
+            "version": "2.156"
         },
         {
             "name": "MacOS Microsoft Azure VPN Client",

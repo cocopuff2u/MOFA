@@ -1,4 +1,4 @@
-last_updated: September 13, 2025 07:05 AM EDT
+last_updated: September 13, 2025 08:09 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -50,13 +50,13 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: August 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/e8/a1/a1e8a1f0-2f03-2bdc-24dd-a58d8c1ae7d9/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: September 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/ea/66/c3ea6687-fa83-9fec-b5c4-cf9609d17d76/OneDrive.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 25.140.0720
+    version: 25.159.0817
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 13, 2025 12:06 PM EDT</last_updated>
+	<last_updated>September 13, 2025 01:05 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -65,11 +65,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>August 13, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/e8/a1/a1e8a1f0-2f03-2bdc-24dd-a58d8c1ae7d9/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 12, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/ea/66/c3ea6687-fa83-9fec-b5c4-cf9609d17d76/OneDrive.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>25.140.0720</version>
+		<version>25.159.0817</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>
@@ -87,11 +87,11 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<name>MacOS Microsoft To-Do</name>
 		<application_name>Microsoft To Do</application_name>
 		<bundleId>com.microsoft.to-do-mac</bundleId>
-		<currentVersionReleaseDate>May 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/bf/cf/27bfcf9c-3196-e934-6429-fe256e90aac2/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/e5/33/a4e533cf-2fa7-3563-f9f9-dfd9608e2064/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png</icon_image>
 		<minimumOsVersion>10.15</minimumOsVersion>
 		<releaseNotes>We fixed some bugs to improve the app experience.</releaseNotes>
-		<version>2.147</version>
+		<version>2.156</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Azure VPN Client</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 14, 2025 04:06 PM EDT",
+    "last_updated": "September 14, 2025 05:05 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -265,11 +265,11 @@
             "name": "iOS Microsoft Authenticator",
             "application_name": "Microsoft Authenticator",
             "bundleId": "com.microsoft.azureauthenticator",
-            "currentVersionReleaseDate": "September 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/70/1c/2a701c72-8950-d547-c05d-5f8bf49180ad/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/59/56/59595697-05b7-f918-2b5e-7cf90dd569c0/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
-            "version": "6.8.32"
+            "version": "6.8.31"
         },
         {
             "name": "iOS Microsoft Advertising",

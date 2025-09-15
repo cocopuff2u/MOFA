@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 15, 2025 05:08 AM EDT</last_updated>
+	<last_updated>September 15, 2025 06:07 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>September 08, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/5d/46/6a5d4653-ee20-2114-5da3-38026a125e75/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/63/05/9f6305ee-aeab-4663-fabb-acc6f8bd6a71/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.100.4</version>
+		<version>2.101</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
@@ -25,11 +25,11 @@
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>September 08, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ee/7f/ddee7f2b-8ff5-e620-7a53-10a8ff9983a2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/d7/66/1cd766fc-a822-9bf2-92a5-3de43cf33e98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.100.4</version>
+		<version>2.101</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>

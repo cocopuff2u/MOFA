@@ -1,13 +1,13 @@
-last_updated: September 15, 2025 06:07 AM EDT
+last_updated: September 15, 2025 07:06 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: September 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/63/05/9f6305ee-aeab-4663-fabb-acc6f8bd6a71/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/5d/46/6a5d4653-ee20-2114-5da3-38026a125e75/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.101'
+    version: 2.100.4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
@@ -19,11 +19,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: September 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/d7/66/1cd766fc-a822-9bf2-92a5-3de43cf33e98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ee/7f/ddee7f2b-8ff5-e620-7a53-10a8ff9983a2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.101'
+    version: 2.100.4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -244,13 +244,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: September 11, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/59/56/59595697-05b7-f918-2b5e-7cf90dd569c0/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/70/1c/2a701c72-8950-d547-c05d-5f8bf49180ad/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
       improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.31
+    version: 6.8.32
   - name: iOS Microsoft Advertising
     application_name: Microsoft Advertising
     bundleId: com.microsoft.bingadsmobile

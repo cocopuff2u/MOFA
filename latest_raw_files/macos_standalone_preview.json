@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 16, 2025 06:06 PM EDT",
+    "last_updated": "September 16, 2025 07:06 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "25240.1603.3956.3103",
-            "full_version": "25240.1603.3956.3103",
-            "last_updated": "September 12, 2025",
+            "short_version": "25255.702.3963.1832",
+            "full_version": "25255.702.3963.1832",
+            "last_updated": "September 16, 2025",
             "min_os": "13.0",
-            "update_download": "https://statics.teams.cdn.office.net/production-osx/25240.1603.3956.3103/MicrosoftTeams.pkg",
-            "latest_download": "https://statics.teams.cdn.office.net/production-osx/25240.1603.3956.3103/MicrosoftTeams.pkg",
-            "sha1": "1e05fe172a3cedccb5e906ced782bc835f719612",
-            "sha256": "fb15401d9d2704bda6d3b14838267cc88174ed855210d70df8e5195710b0ce60"
+            "update_download": "https://statics.teams.cdn.office.net/production-osx/25255.702.3963.1832/MicrosoftTeams.pkg",
+            "latest_download": "https://statics.teams.cdn.office.net/production-osx/25255.702.3963.1832/MicrosoftTeams.pkg",
+            "sha1": "4bcfbae8f2c01a0c2d77fac746202309a2b54aea",
+            "sha256": "587c2a60b733034f96be9927197b8b7c175f8a33b23ee2df39b437f3cd553fef"
         },
         {
             "name": "Intune",

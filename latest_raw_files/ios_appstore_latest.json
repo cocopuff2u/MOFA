@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 16, 2025 08:27 PM EDT",
+    "last_updated": "September 16, 2025 09:34 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -45,11 +45,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "September 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/4f/bb/564fbb10-ea45-4828-9a3a-1320ecc7e83c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/c6/42/3fc64200-823b-83f3-55dd-188985af9097/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.101"
+            "version": "16.100.4"
         },
         {
             "name": "iOS Microsoft OneDrive",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "September 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8f/1d/458f1d64-aecc-b991-ed49-040edf67a3f5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/38/34/b8383409-bbe9-a225-a7f8-7a53a72ac18c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts to your needs, delivering quick answers or deeper insights with expert results.\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience. (Available now on iPhone with iOS 18.4 or later. Extension support for iPad is coming soon.)\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "140.3485.71"
+            "version": "140.3485.52"
         },
         {
             "name": "iOS Microsoft Seeing AI",
@@ -255,11 +255,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "September 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/bc/c5/62bcc52f-6265-12dc-dc71-3f7dc2bc98a6/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 09, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/1c/11/1d1c1110-94f6-b189-d199-babe22c26ce8/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25092.8"
+            "version": "3.25091.5"
         },
         {
             "name": "iOS Microsoft Authenticator",
@@ -325,11 +325,11 @@
             "name": "iOS Microsoft Intune Company Portal",
             "application_name": "Intune Company Portal",
             "bundleId": "com.microsoft.CompanyPortal",
-            "currentVersionReleaseDate": "August 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/d7/85/2ad78557-3de8-d029-55ec-7cc4100c766c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/ef/2d/ceef2d03-b5a0-a822-db5b-c8e8a2da45a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We\u2019ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.",
-            "version": "5.2508.0"
+            "version": "5.2509.0"
         },
         {
             "name": "iOS Microsoft Azure Information Protection",
@@ -345,11 +345,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "September 05, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/f6/3e/a1f63e30-efa7-5802-7617-9f6c239e90ab/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/f1/cb/def1cb60-5dc2-de5f-1abd-323a9b0c72c6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.100.5"
+            "version": "2.101"
         },
         {
             "name": "iOS Microsoft Skype for Business",

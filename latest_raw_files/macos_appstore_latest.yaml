@@ -1,14 +1,13 @@
-last_updated: September 17, 2025 02:09 PM EDT
+last_updated: September 17, 2025 03:06 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Word
-    currentVersionReleaseDate: September 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/09/89/b3098939-32b7-d8d3-9bf3-047bd7bc8a65/MSWD.png/512x512bb.png
+    currentVersionReleaseDate: September 09, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/1e/dc/691edc7b-61c5-8265-ac96-d18a1d54abd4/MSWD.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: 'Spotlight Search: You can now use Spotlight Search to find your
-      content.'
-    version: '16.101'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 16.100.4
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel

@@ -1,4 +1,4 @@
-last_updated: September 17, 2025 11:07 AM EDT
+last_updated: September 17, 2025 12:08 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -126,11 +126,11 @@ packages:
   - name: iOS Microsoft Lists
     application_name: Microsoft Lists
     bundleId: com.microsoft.splists
-    currentVersionReleaseDate: July 19, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/b4/9073b47d-8130-ad7a-a23f-2ffa9dce0d2b/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b8/f0/5eb8f0ee-bbc1-de10-6242-dd1fd26b117d/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: App Deprectaion message.
-    version: 2.26.0
+    releaseNotes: This build contains several bug fixes.
+    version: 2.29.1
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices

@@ -1,39 +1,35 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 17, 2025 08:11 AM EDT</last_updated>
+	<last_updated>September 17, 2025 09:13 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>September 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/09/89/b3098939-32b7-d8d3-9bf3-047bd7bc8a65/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/1e/dc/691edc7b-61c5-8265-ac96-d18a1d54abd4/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Spotlight Search: You can now use Spotlight Search to find your content.</releaseNotes>
-		<version>16.101</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.100.4</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>September 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/10/c1/ed10c1d8-ac00-665c-18a7-54575c05fdab/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f4/48/c4f44823-2612-fa4a-521b-65401fb54680/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Spotlight Search: You can now use Spotlight Search to find your content.</releaseNotes>
-		<version>16.101</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.100.4</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>September 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/a3/af/9aa3af70-a3c2-560a-d95e-ac820dcaf850/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cd/c8/facdc87e-4d4d-4b77-2e93-0839f54f2a78/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Spotlight Search: You can now use Spotlight Search to find your content.
-
-Reference an Excel file when creating a presentation with Copilot: You can now reference an Excel file when you create a presentation with Copilot within the PowerPoint application.
-
-Reading Order Pane for Mac Client: The Reading Order Pane for PowerPoint on Mac introduces a streamlined interface to review and adjust the screen reader order of slide content, enhancing accessibility compliance.</releaseNotes>
-		<version>16.101</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.100.4</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
@@ -53,8 +49,8 @@ Mail Merge: Users can export contacts and personal distribution lists from Outlo
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>September 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/2d/a6/8b2da6e1-8878-483e-7c90-26a244fe76dd/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 09, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/ae/78/3bae787e-8275-dd17-776e-6501b5ca4c94/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -62,7 +58,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.101</version>
+		<version>16.100.4</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>

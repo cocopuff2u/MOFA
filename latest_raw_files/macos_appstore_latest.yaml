@@ -1,4 +1,4 @@
-last_updated: September 17, 2025 01:07 AM EDT
+last_updated: September 17, 2025 02:09 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -11,11 +11,12 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: September 09, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f4/48/c4f44823-2612-fa4a-521b-65401fb54680/XCEL.png/512x512bb.png
+    currentVersionReleaseDate: September 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/10/c1/ed10c1d8-ac00-665c-18a7-54575c05fdab/XCEL.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 16.100.4
+    releaseNotes: 'Spotlight Search: You can now use Spotlight Search to find your
+      content.'
+    version: '16.101'
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 17, 2025 04:08 AM EDT</last_updated>
+	<last_updated>September 17, 2025 05:07 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -146,11 +146,11 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 		<name>iOS Microsoft Lists</name>
 		<application_name>Microsoft Lists</application_name>
 		<bundleId>com.microsoft.splists</bundleId>
-		<currentVersionReleaseDate>July 19, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/b4/9073b47d-8130-ad7a-a23f-2ffa9dce0d2b/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 17, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b8/f0/5eb8f0ee-bbc1-de10-6242-dd1fd26b117d/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>App Deprectaion message.</releaseNotes>
-		<version>2.26.0</version>
+		<releaseNotes>This build contains several bug fixes.</releaseNotes>
+		<version>2.29.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>

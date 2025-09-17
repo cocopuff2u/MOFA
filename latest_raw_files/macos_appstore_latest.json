@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 17, 2025 10:06 AM EDT",
+    "last_updated": "September 17, 2025 11:07 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -25,21 +25,21 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "September 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cd/c8/facdc87e-4d4d-4b77-2e93-0839f54f2a78/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/a3/af/9aa3af70-a3c2-560a-d95e-ac820dcaf850/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.100.4"
+            "releaseNotes": "Spotlight Search: You can now use Spotlight Search to find your content.\n\nReference an Excel file when creating a presentation with Copilot: You can now reference an Excel file when you create a presentation with Copilot within the PowerPoint application.\n\nReading Order Pane for Mac Client: The Reading Order Pane for PowerPoint on Mac introduces a streamlined interface to review and adjust the screen reader order of slide content, enhancing accessibility compliance.",
+            "version": "16.101"
         },
         {
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "September 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/bc/83/b9bc83ca-3414-590d-e3a1-9359371ae517/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/01/8b/c4018b2a-9621-0015-7b23-03f2a02c19f3/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Feature Updates\n\u2022 Added support for Hybrid Calendar Sharing. \n\u2022 Outlook for Mac with LTSC 2021 licenses will now respect New Outlook Admin Preferences.\n\nResolved Issues\n\u2022 General quality and performance enhancements.",
-            "version": "16.100.4"
+            "releaseNotes": "Calendar Sharing: Added support for calendar sharing in hybrid environments. \n\nScheduling Assistant Update: Meeting organizers are now able to view the time zone information of attendees located in different time zones when using Scheduling Assistant. \n\nMail Merge: Users can export contacts and personal distribution lists from Outlook and import them into Word to perform Mail Merge",
+            "version": "16.101"
         },
         {
             "name": "MacOS Microsoft OneNote",

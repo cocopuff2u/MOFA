@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">September 18, 2025 02:09 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">September 18, 2025 03:07 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -122,7 +122,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">September 18, 2025 02:09 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">September 18, 2025 03:07 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -140,7 +140,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">September 18, 2025 02:09 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">September 18, 2025 03:07 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -149,7 +149,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft PowerPoint | `2.101` | `com.microsoft.Office.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/d7/66/1cd766fc-a822-9bf2-92a5-3de43cf33e98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `4.2535.0` | `com.microsoft.Office.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/92/05/2c920526-d63b-6d00-4c5c-4a7a1a0c5b9a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Outlook" width="40"> |
 | Microsoft OneNote | `16.101` | `com.microsoft.onenote` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/4f/bb/564fbb10-ea45-4828-9a3a-1320ecc7e83c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft OneNote" width="40"> |
-| Microsoft OneDrive | `16.21.4` | `com.microsoft.skydrive` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/a8/c1/e1a8c1af-22a1-77c4-d133-e48542d7103c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
+| Microsoft OneDrive | `16.23.3` | `com.microsoft.skydrive` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c1/c8/ebc1c8a4-57c2-5538-cadf-fb3420981e60/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
 | Link to Windows | `1.25082.12` | `com.microsoft.LinkToWindows` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/62/b0/ba62b0a9-53a1-57b4-853c-5d25e9aa396a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg" alt="Link to Windows" width="40"> |
 | Microsoft Defender: Security | `1.1.69090105` | `com.microsoft.scmx` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/20/e7/b320e767-7dd6-59c5-b8d8-9ed8022aa704/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Defender: Security" width="40"> |
 | Microsoft Edge: AI Browser | `140.3485.71` | `com.microsoft.msedge` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8f/1d/458f1d64-aecc-b991-ed49-040edf67a3f5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
@@ -157,7 +157,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Warehouse Management | `3.0.6` | `com.microsoft.WarehouseManagement` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/03/5e/e8035edd-1e7f-2c48-8cb4-28f7379987d4/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Warehouse Management" width="40"> |
 | WooCommerce | `23.1` | `com.automattic.woocommerce` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/fa/36/1ffa3634-de29-e676-03e1-7d878d108719/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="WooCommerce" width="40"> |
 | Dynamics 365 Sales | `3.24104.15` | `com.microsoft.dynamics.iphone.moca.sales` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Sales" width="40"> |
-| Microsoft Lists | `2.26.0` | `com.microsoft.splists` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/b4/9073b47d-8130-ad7a-a23f-2ffa9dce0d2b/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft Lists" width="40"> |
+| Microsoft Lists | `2.29.1` | `com.microsoft.splists` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b8/f0/5eb8f0ee-bbc1-de10-6242-dd1fd26b117d/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft Lists" width="40"> |
 | Dynamics 365 Field Service | `13.25063.8` | `com.microsoft.dynamics.iphone.moca.fieldServices` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d3/64/9ad36405-9082-deff-7581-6d94c6e7b978/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Field Service" width="40"> |
 | Viva Engage | `11.12.0` | `wefwef` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/d0/0f/19d00f6c-e1c9-95f8-b728-445ba0f28b91/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Viva Engage" width="40"> |
 | Whiteboard - Infinity Canvas | `35.0` | `cn.readpad.tool.iwhiteboard` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/d2/f7/a8d2f789-7ca1-4475-6fc8-ca796dfa8c7b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Whiteboard - Infinity Canvas" width="40"> |
@@ -170,7 +170,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft SharePoint | `4.54.7` | `com.microsoft.sharepoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a2/17/82a217ae-46b1-d002-9fdb-4fd4a4456baf/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft SharePoint" width="40"> |
 | Dynamics 365 Business Central | `4.0.9292` | `com.microsoft.dynamics.ProjectMadeira` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/18/ad/5618ad08-9054-c975-1517-43d29b51827c/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg" alt="Dynamics 365 Business Central" width="40"> |
 | Power Apps | `3.25092.8` | `com.microsoft.msapps` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/bc/c5/62bcc52f-6265-12dc-dc71-3f7dc2bc98a6/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Power Apps" width="40"> |
-| Microsoft Authenticator | `6.8.33` | `com.microsoft.azureauthenticator` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/43/6a/0e436a58-cc64-3cd9-67bc-66b56a3a6cb2/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft Authenticator" width="40"> |
+| Microsoft Authenticator | `6.8.32` | `com.microsoft.azureauthenticator` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/70/1c/2a701c72-8950-d547-c05d-5f8bf49180ad/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft Authenticator" width="40"> |
 | Microsoft Advertising | `2.22.16` | `com.microsoft.bingadsmobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c2/98/7ec298fd-bc75-b3fb-71a7-08f70b8e361c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" alt="Microsoft Advertising" width="40"> |
 | Microsoft Lens: PDF Scanner | `2.96.1` | `com.microsoft.officelens` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/73/86/33738651-9bd7-6164-2027-f072699effcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft Lens: PDF Scanner" width="40"> |
 | Work Folders | `2.2.0` | `com.microsoft.workfolders` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/46/15/ed46150c-83ff-e2bc-4caa-8b5948d65bd2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" alt="Work Folders" width="40"> |

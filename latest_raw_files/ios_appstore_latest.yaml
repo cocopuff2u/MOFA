@@ -1,4 +1,4 @@
-last_updated: September 18, 2025 02:40 PM EDT
+last_updated: September 18, 2025 03:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -211,11 +211,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: September 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/77/2b/b0772b1d-99b9-07e5-7eb6-f101baa31625/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/97/57/a0975742-311d-6fec-f776-9ddc0d34df7d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.17.0
+    version: 7.16.2
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
@@ -244,13 +244,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: September 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/43/6a/0e436a58-cc64-3cd9-67bc-66b56a3a6cb2/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/70/1c/2a701c72-8950-d547-c05d-5f8bf49180ad/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
       improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.33
+    version: 6.8.32
   - name: iOS Microsoft Advertising
     application_name: Microsoft Advertising
     bundleId: com.microsoft.bingadsmobile

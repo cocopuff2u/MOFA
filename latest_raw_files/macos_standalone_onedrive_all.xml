@@ -1,27 +1,27 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>September 18, 2025 05:06 PM EDT</last_updated>
+  <last_updated>September 18, 2025 06:06 PM EDT</last_updated>
   <package>
     <name>Production Ring</name>
-    <short_version>25.164.0824</short_version>
+    <short_version>25.170.0901</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.164.0824.0003/universal/OneDrive.pkg</full_update_download>
-    <full_update_sha1>58be3622459277582dcb9cfa9dc16e63137540bd</full_update_sha1>
-    <full_update_sha256>9dd2ae5a3acc3f6d32944ffceac6eb61abf7c312267a2d0dc9f8243f94fa7b6d</full_update_sha256>
-    <last_updated>September 12, 2025 08:25 PM EDT</last_updated>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.170.0901.0002/universal/OneDrive.pkg</full_update_download>
+    <full_update_sha1>a57448bb01626ea46cbb9aa9a77a5013259b4376</full_update_sha1>
+    <full_update_sha256>02360ff1d1359c7d7ed43c2f53d5a5b18b96317ca4258fcfcd3d1f4f44a45e2c</full_update_sha256>
+    <last_updated>September 18, 2025 06:06 PM EDT</last_updated>
   </package>
   <package>
     <name>Upcoming Production Ring</name>
-    <short_version>25.164.0824</short_version>
+    <short_version>25.170.0901</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.164.0824.0003/universal/OneDrive.pkg</full_update_download>
-    <full_update_sha1>58be3622459277582dcb9cfa9dc16e63137540bd</full_update_sha1>
-    <full_update_sha256>9dd2ae5a3acc3f6d32944ffceac6eb61abf7c312267a2d0dc9f8243f94fa7b6d</full_update_sha256>
-    <last_updated>September 12, 2025 08:25 PM EDT</last_updated>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.170.0901.0002/universal/OneDrive.pkg</full_update_download>
+    <full_update_sha1>a57448bb01626ea46cbb9aa9a77a5013259b4376</full_update_sha1>
+    <full_update_sha256>02360ff1d1359c7d7ed43c2f53d5a5b18b96317ca4258fcfcd3d1f4f44a45e2c</full_update_sha256>
+    <last_updated>September 18, 2025 06:06 PM EDT</last_updated>
   </package>
   <package>
     <name>Deferred Ring</name>

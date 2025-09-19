@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 18, 2025 08:27 PM EDT",
+    "last_updated": "September 18, 2025 09:34 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -75,11 +75,11 @@
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "September 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/20/e7/b320e767-7dd6-59c5-b8d8-9ed8022aa704/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/ef/c2/a8efc254-7ab7-a667-fdb8-68f7040bd12e/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "Bug fixes and Improvements",
-            "version": "1.1.69090105"
+            "releaseNotes": "Bug fixes and improvements",
+            "version": "1.1.69090106"
         },
         {
             "name": "iOS Microsoft Copilot",

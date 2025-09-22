@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 22, 2025 06:08 AM EDT",
+    "last_updated": "September 22, 2025 07:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -175,11 +175,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "September 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8f/1d/458f1d64-aecc-b991-ed49-040edf67a3f5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 22, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b1/9b/f8b19bdc-2e5e-eaf6-7570-2ef4340c43cd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts to your needs, delivering quick answers or deeper insights with expert results.\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience. (Available now on iPhone with iOS 18.4 or later. Extension support for iPad is coming soon.)\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "140.3485.71"
+            "version": "140.3485.81"
         },
         {
             "name": "iOS Microsoft Seeing AI",

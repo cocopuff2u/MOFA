@@ -1,4 +1,4 @@
-last_updated: September 22, 2025 07:06 AM EDT
+last_updated: September 22, 2025 08:11 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -11,11 +11,11 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: September 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/35/7a/4c357ab8-b9f7-d574-dfaa-67ff6b7560ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/95/c6/b795c612-c0fb-e876-ff97-3133e7eaf045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.101'
+    version: 2.101.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
@@ -38,15 +38,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: September 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/4f/bb/564fbb10-ea45-4828-9a3a-1320ecc7e83c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/a5/c5/67a5c57d-02b0-7005-ae8c-6db0118ac8f8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.101'
+    version: 16.101.1
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
@@ -74,8 +74,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: September 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8f/1d/458f1d64-aecc-b991-ed49-040edf67a3f5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b1/9b/f8b19bdc-2e5e-eaf6-7570-2ef4340c43cd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts\
@@ -85,7 +85,7 @@ packages:
       \ now on iPhone with iOS 18.4 or later. Extension support for iPad is coming\
       \ soon.)\nUpgrade now to experience a smarter, faster, and more productive Microsoft\
       \ Edge!"
-    version: 140.3485.71
+    version: 140.3485.81
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -107,13 +107,14 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: WooCommerce
     bundleId: com.automattic.woocommerce
-    currentVersionReleaseDate: September 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/fa/36/1ffa3634-de29-e676-03e1-7d878d108719/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/62/6f/7f626f78-9ea1-77b9-f860-9bcc844e69dc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Managing your store just got smoother with a more reliable shipping
-      label workflow! Jetpack setup has also been improved for a faster, easier connection.
-      Update now and enjoy the improvements!
-    version: '23.1'
+    releaseNotes: "This update smooths your WooCommerce experience with improved cash\
+      \ payments, easier access to POS settings, and accurate HAZMAT details on shipping\
+      \ labels. Plus, we fixed a Blaze flow issue so campaigns behave as expected.\
+      \ Faster, clearer, and more reliable \u2014 just how you need it!"
+    version: '23.2'
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales

@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 23, 2025 07:06 AM EDT",
+    "last_updated": "September 23, 2025 08:11 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -83,13 +83,13 @@
         },
         {
             "name": "iOS Microsoft Copilot",
-            "application_name": "Microsoft Edge: AI Browser",
-            "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "September 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b1/9b/f8b19bdc-2e5e-eaf6-7570-2ef4340c43cd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "17.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts to your needs, delivering quick answers or deeper insights with expert results.\n\u2022 Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience. (Available now on iPhone with iOS 18.4 or later. Extension support for iPad is coming soon.)\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "140.3485.81"
+            "application_name": "Microsoft Copilot",
+            "bundleId": "com.microsoft.copilot",
+            "currentVersionReleaseDate": "September 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/2a/24/692a24e3-c761-bb77-a699-65bef8127681/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
+            "version": "30.0.430915001"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -205,11 +205,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "August 25, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/43/88/774388ab-e9dd-931d-06e3-15f4bb190c91/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 22, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/fb/af/f2fbaff9-49c8-df44-82b8-03ea6688c5fc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.8.0"
+            "version": "7.8.3"
         },
         {
             "name": "iOS Microsoft To-Do",

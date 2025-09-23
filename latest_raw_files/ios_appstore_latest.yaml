@@ -1,4 +1,4 @@
-last_updated: September 23, 2025 03:07 AM EDT
+last_updated: September 23, 2025 04:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -116,13 +116,14 @@ packages:
       \ Faster, clearer, and more reliable \u2014 just how you need it!"
     version: '23.2'
   - name: iOS Microsoft Dynamics 365 Sales
-    application_name: Dynamics 365 for phones
-    bundleId: com.microsoft.dynamics.iphone.moca
-    currentVersionReleaseDate: September 11, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    application_name: Dynamics 365 Sales
+    bundleId: com.microsoft.dynamics.iphone.moca.sales
+    currentVersionReleaseDate: November 11, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '14.0'
-    releaseNotes: "\u2022 Bug fixes and performance improvements."
-    version: 13.24093.1
+    releaseNotes: This version includes experience improvements and bug fixes so sellers
+      can stay on top of their deals better than ever before.
+    version: 3.24104.15
   - name: iOS Microsoft Lists
     application_name: Microsoft Lists
     bundleId: com.microsoft.splists
@@ -211,11 +212,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: September 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/77/2b/b0772b1d-99b9-07e5-7eb6-f101baa31625/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/d4/00/45d4006f-9b1b-6c4e-d630-454b5ac386e0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.17.0
+    version: 7.17.1
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint

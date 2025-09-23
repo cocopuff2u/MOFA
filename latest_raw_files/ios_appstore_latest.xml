@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 23, 2025 02:09 PM EDT</last_updated>
+	<last_updated>September 23, 2025 03:05 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -70,13 +70,43 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
-		<application_name>Link to Windows</application_name>
-		<bundleId>com.microsoft.LinkToWindows</bundleId>
-		<currentVersionReleaseDate>September 09, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/62/b0/ba62b0a9-53a1-57b4-853c-5d25e9aa396a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.6</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>1.25082.12</version>
+		<application_name>Windows App Mobile</application_name>
+		<bundleId>com.microsoft.rdc.ios</bundleId>
+		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6e/67/ba6e67fa-dbce-42af-24bc-cf1f863a3d15/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.0</minimumOsVersion>
+		<releaseNotes>In this release we made the following updates:
+
+• Added support for the Windows 365 &quot;Under Review&quot; feature.
+• Added support for the Windows 365 &quot;Reserve&quot; feature.
+• Added support for client-side connectivity and system health checks.
+
+• Added an in-app &quot;Authentication Required&quot; notification to signal when the Entra Identity token needs to be renewed.
+• Added tutorials to guide users through sign-in notifications and account switching.
+
+• Added support for tapping the &quot;Favorite&quot; overlay icon on a device card to unfavorite the device.
+• Added support for tapping a device card tag to show more information about the device.
+• Made changes to ensure that device card tags are always visible in thumbnail view to help identify the card type.
+
+• Added the &quot;View Details&quot; action to all device cards.
+• Reworked the in-session connection information sheet.
+• Made layout improvements to the devices list view and Connection Center navigation bar.
+
+• Added categories to the Notifications sheet.
+• Enhanced in-app notification interaction with drag, swipe and trackpad gestures.
+• Improved the local on-screen keyboard layout and appearance.
+
+• Introduced a disconnect message for cases where the connection is closed due to the remote PC restarting.
+
+• Addressed a number of crashes that were showing up in error reporting.
+• Addressed reported accessibility bugs.
+• Fixed an issue where the Space key did not work for some apps in the remote session.
+• Resolved an issue where location redirection would not work after reconnecting to a remote session.
+
+In addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for upcoming features.
+
+If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
+		<version>11.2.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Defender Security</name>
@@ -134,13 +164,13 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
-		<application_name>Dynamics 365 Sales</application_name>
-		<bundleId>com.microsoft.dynamics.iphone.moca.sales</bundleId>
-		<currentVersionReleaseDate>November 11, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<application_name>Dynamics 365 for phones</application_name>
+		<bundleId>com.microsoft.dynamics.iphone.moca</bundleId>
+		<currentVersionReleaseDate>September 11, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>This version includes experience improvements and bug fixes so sellers can stay on top of their deals better than ever before.</releaseNotes>
-		<version>3.24104.15</version>
+		<releaseNotes>• Bug fixes and performance improvements.</releaseNotes>
+		<version>13.24093.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Lists</name>
@@ -166,11 +196,11 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>September 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/d0/0f/19d00f6c-e1c9-95f8-b728-445ba0f28b91/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/60/c2/ec60c20b-495b-6a0d-4aaa-c93332dd182e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.12.0</version>
+		<version>11.13.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>
@@ -271,11 +301,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>September 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/bc/c5/62bcc52f-6265-12dc-dc71-3f7dc2bc98a6/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/74/65/437465b6-4893-7ee7-752f-5b4ddfdc3064/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.25092.8</version>
+		<version>3.25093.15</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>

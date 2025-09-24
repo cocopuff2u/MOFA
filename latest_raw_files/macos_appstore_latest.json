@@ -1,15 +1,15 @@
 {
-    "last_updated": "September 23, 2025 07:06 PM EDT",
+    "last_updated": "September 23, 2025 08:28 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "September 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/7c/da/287cda12-69b9-847b-efe4-6ab9aeb9c355/MSWD.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/09/89/b3098939-32b7-d8d3-9bf3-047bd7bc8a65/MSWD.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.101.1"
+            "releaseNotes": "Spotlight Search: You can now use Spotlight Search to find your content.",
+            "version": "16.101"
         },
         {
             "name": "MacOS Microsoft Excel",
@@ -25,21 +25,21 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "September 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/a3/af/9aa3af70-a3c2-560a-d95e-ac820dcaf850/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 23, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/61/85/ac6185c7-06c2-b22e-9770-270260a695df/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "Spotlight Search: You can now use Spotlight Search to find your content.\n\nReference an Excel file when creating a presentation with Copilot: You can now reference an Excel file when you create a presentation with Copilot within the PowerPoint application.\n\nReading Order Pane for Mac Client: The Reading Order Pane for PowerPoint on Mac introduces a streamlined interface to review and adjust the screen reader order of slide content, enhancing accessibility compliance.",
-            "version": "16.101"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "16.101.1"
         },
         {
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "September 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/9c/f9/a99cf98a-9c94-d589-cb3a-b84fc85e3a89/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/01/8b/c4018b2a-9621-0015-7b23-03f2a02c19f3/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "General quality and performance enhancements.",
-            "version": "16.101.1"
+            "releaseNotes": "Calendar Sharing: Added support for calendar sharing in hybrid environments. \n\nScheduling Assistant Update: Meeting organizers are now able to view the time zone information of attendees located in different time zones when using Scheduling Assistant. \n\nMail Merge: Users can export contacts and personal distribution lists from Outlook and import them into Word to perform Mail Merge",
+            "version": "16.101"
         },
         {
             "name": "MacOS Microsoft OneNote",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 24, 2025 04:09 AM EDT",
+    "last_updated": "September 24, 2025 05:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -123,13 +123,13 @@
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
-            "application_name": "Dynamics 365 Sales",
-            "bundleId": "com.microsoft.dynamics.iphone.moca.sales",
-            "currentVersionReleaseDate": "November 11, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "application_name": "Dynamics 365 for phones",
+            "bundleId": "com.microsoft.dynamics.iphone.moca",
+            "currentVersionReleaseDate": "September 11, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "This version includes experience improvements and bug fixes so sellers can stay on top of their deals better than ever before.",
-            "version": "3.24104.15"
+            "releaseNotes": "\u2022 Bug fixes and performance improvements.",
+            "version": "13.24093.1"
         },
         {
             "name": "iOS Microsoft Lists",
@@ -163,13 +163,13 @@
         },
         {
             "name": "iOS Microsoft Whiteboard",
-            "application_name": "Whiteboard: just draw together",
-            "bundleId": "com.jimschultz.WhiteBoard",
-            "currentVersionReleaseDate": "August 26, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/2d/31/ba2d3186-54d3-43c7-dedd-b916e2c969a8/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "17.6",
-            "releaseNotes": "Thanks everyone for using Whiteboard. Here's what's new in this version:) Please keep the feedback coming y'all! Enjoy.\n\nFIXED\n* Improvements to drawing gallery\n* Added link to Youtube channel\n* Added Quarterly Creator Kit Plan\n* General stability improvements\n\n\n2.0 Additions and Improvements\n* Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n* Introducing CreatorKit, get the most out of Whiteboard and support Indie development\n* Now you can zoom in and out on drawings and images!\n* Scroll around in freedom on the all new, expansive, drawing board.\n* Autorotate from portrait to landscape and back, or you can choose to lock orientation.\n* Drawing library, open and continue working on your recent drawings.\n* Add new drawing button, create a new drawing anytime. \n* Significant performance and stability improvements\n* Adds lock for drawing board zoom/pan/scroll\n* Many more excited things are coming\n* Stay tuned\n\n- Jim\n\nIssues, questions or suggestions?\n\u2022 jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022 Please subscribe to CreatorKit to help support development\n\u2022 Please rate the app 5 stars so more people find it\n\u2022 Please share Whiteboard with a friend or family member to help get the word out.\n\u2022 Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard.",
-            "version": "2.4.2"
+            "application_name": "Whiteboard - Infinity Canvas",
+            "bundleId": "cn.readpad.tool.iwhiteboard",
+            "currentVersionReleaseDate": "September 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/d2/f7/a8d2f789-7ca1-4475-6fc8-ca796dfa8c7b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "Fixed known bugs.",
+            "version": "35.0"
         },
         {
             "name": "iOS Microsoft Edge AI Browser",
@@ -325,11 +325,11 @@
             "name": "iOS Microsoft Intune Company Portal",
             "application_name": "Intune Company Portal",
             "bundleId": "com.microsoft.CompanyPortal",
-            "currentVersionReleaseDate": "September 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/1b/0e/091b0e6a-1d33-a735-deda-7045dd528a00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/ef/2d/ceef2d03-b5a0-a822-db5b-c8e8a2da45a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We\u2019ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.",
-            "version": "5.2509.1"
+            "version": "5.2509.0"
         },
         {
             "name": "iOS Microsoft Azure Information Protection",

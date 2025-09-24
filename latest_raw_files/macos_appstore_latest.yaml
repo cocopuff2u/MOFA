@@ -1,14 +1,13 @@
-last_updated: September 23, 2025 09:35 PM EDT
+last_updated: September 23, 2025 10:32 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Word
-    currentVersionReleaseDate: September 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/09/89/b3098939-32b7-d8d3-9bf3-047bd7bc8a65/MSWD.png/512x512bb.png
+    currentVersionReleaseDate: September 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/7c/da/287cda12-69b9-847b-efe4-6ab9aeb9c355/MSWD.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: 'Spotlight Search: You can now use Spotlight Search to find your
-      content.'
-    version: '16.101'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 16.101.1
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
@@ -29,28 +28,23 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: September 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/01/8b/c4018b2a-9621-0015-7b23-03f2a02c19f3/Outlook.png/512x512bb.png
+    currentVersionReleaseDate: September 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/9c/f9/a99cf98a-9c94-d589-cb3a-b84fc85e3a89/Outlook.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "Calendar Sharing: Added support for calendar sharing in hybrid\
-      \ environments. \n\nScheduling Assistant Update: Meeting organizers are now\
-      \ able to view the time zone information of attendees located in different time\
-      \ zones when using Scheduling Assistant. \n\nMail Merge: Users can export contacts\
-      \ and personal distribution lists from Outlook and import them into Word to\
-      \ perform Mail Merge"
-    version: '16.101'
+    releaseNotes: General quality and performance enhancements.
+    version: 16.101.1
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: September 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f9/27/f1f92731-3cdf-3f2c-d61f-4d72cfa2d219/OneNote.png/512x512bb.png
+    currentVersionReleaseDate: September 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/2d/a6/8b2da6e1-8878-483e-7c90-26a244fe76dd/OneNote.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.101.1
+    version: '16.101'
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac

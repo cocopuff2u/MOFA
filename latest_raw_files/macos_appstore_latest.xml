@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 24, 2025 03:06 PM EDT</last_updated>
+	<last_updated>September 24, 2025 04:07 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,25 +15,21 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>September 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/10/c1/ed10c1d8-ac00-665c-18a7-54575c05fdab/XCEL.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b4/ef/bbb4ef27-ddde-acf6-5d78-0955cef45777/XCEL.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Spotlight Search: You can now use Spotlight Search to find your content.</releaseNotes>
-		<version>16.101</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.101.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>September 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/a3/af/9aa3af70-a3c2-560a-d95e-ac820dcaf850/PPT3.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/61/85/ac6185c7-06c2-b22e-9770-270260a695df/PPT3.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Spotlight Search: You can now use Spotlight Search to find your content.
-
-Reference an Excel file when creating a presentation with Copilot: You can now reference an Excel file when you create a presentation with Copilot within the PowerPoint application.
-
-Reading Order Pane for Mac Client: The Reading Order Pane for PowerPoint on Mac introduces a streamlined interface to review and adjust the screen reader order of slide content, enhancing accessibility compliance.</releaseNotes>
-		<version>16.101</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>16.101.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
@@ -74,13 +70,30 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>September 02, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/2f/49/c72f4946-41be-9d6f-bf69-edb23bf9e5c0/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/52/d7/ce52d7c1-4aed-3358-7843-cd8cb537effc/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>This is a quick release to address a customer-reported issue with folder redirection.
+		<releaseNotes>In this release we included the following new features:
+
+• Added support for the Windows 365 &quot;Under Review&quot; feature.
+• Added support for the Windows 365 &quot;Reserve&quot; feature.
+• Added support for the Windows 365 &quot;Cloud Apps&quot; feature.
+• Modernized the Connection Information and Cloud PC Details dialogs.
+• Made changes to ensure that device card tags are always visible in thumbnail view to help identify the card type.
+
+We also worked through the following bugs:
+
+• Fixed an issue where duplicate workspaces appeared after a refresh action.
+• Resolved a bug where Immersive mode wasn't correctly applied after toggling between windowed and full screen mode.
+• Fixed a bug where the Fn+F shortcut occasionally stopped working after switching between keyboard layouts.
+• Fixed an issue where the &quot;Refresh All&quot; toolbar button was enabled before all workspaces finished refreshing.
+• Addressed an issue where the remote Start menu unexpectedly appeared when clicking local menu bar commands.
+• Resolved reported localization issues.
+
+In addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for upcoming features.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.2</version>
+		<version>11.2.3</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

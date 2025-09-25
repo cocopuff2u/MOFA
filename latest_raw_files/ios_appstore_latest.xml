@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 25, 2025 01:07 AM EDT</last_updated>
+	<last_updated>September 25, 2025 02:11 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -70,13 +70,43 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
-		<application_name>Link to Windows</application_name>
-		<bundleId>com.microsoft.LinkToWindows</bundleId>
-		<currentVersionReleaseDate>September 09, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/62/b0/ba62b0a9-53a1-57b4-853c-5d25e9aa396a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.6</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>1.25082.12</version>
+		<application_name>Windows App Mobile</application_name>
+		<bundleId>com.microsoft.rdc.ios</bundleId>
+		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6e/67/ba6e67fa-dbce-42af-24bc-cf1f863a3d15/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.0</minimumOsVersion>
+		<releaseNotes>In this release we made the following updates:
+
+• Added support for the Windows 365 &quot;Under Review&quot; feature.
+• Added support for the Windows 365 &quot;Reserve&quot; feature.
+• Added support for client-side connectivity and system health checks.
+
+• Added an in-app &quot;Authentication Required&quot; notification to signal when the Entra Identity token needs to be renewed.
+• Added tutorials to guide users through sign-in notifications and account switching.
+
+• Added support for tapping the &quot;Favorite&quot; overlay icon on a device card to unfavorite the device.
+• Added support for tapping a device card tag to show more information about the device.
+• Made changes to ensure that device card tags are always visible in thumbnail view to help identify the card type.
+
+• Added the &quot;View Details&quot; action to all device cards.
+• Reworked the in-session connection information sheet.
+• Made layout improvements to the devices list view and Connection Center navigation bar.
+
+• Added categories to the Notifications sheet.
+• Enhanced in-app notification interaction with drag, swipe and trackpad gestures.
+• Improved the local on-screen keyboard layout and appearance.
+
+• Introduced a disconnect message for cases where the connection is closed due to the remote PC restarting.
+
+• Addressed a number of crashes that were showing up in error reporting.
+• Addressed reported accessibility bugs.
+• Fixed an issue where the Space key did not work for some apps in the remote session.
+• Resolved an issue where location redirection would not work after reconnecting to a remote session.
+
+In addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for upcoming features.
+
+If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
+		<version>11.2.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Defender Security</name>
@@ -90,16 +120,16 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>
-		<application_name>Microsoft Edge: AI Browser</application_name>
-		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b1/9b/f8b19bdc-2e5e-eaf6-7570-2ef4340c43cd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Here’s what’s new in this release:
-• Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts to your needs, delivering quick answers or deeper insights with expert results.
-• Extensions Now Available on iOS: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience. (Available now on iPhone with iOS 18.4 or later. Extension support for iPad is coming soon.)
-Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!</releaseNotes>
-		<version>140.3485.81</version>
+		<application_name>Microsoft Copilot</application_name>
+		<bundleId>com.microsoft.copilot</bundleId>
+		<currentVersionReleaseDate>September 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/90/ea/dd90ead6-fee3-9cc4-ef51-2aff80071d27/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
+		<releaseNotes>Introducing the New Copilot: Your AI Companion
+This update includes an intuitive design with more digestible and faster answers, plus new features.
+Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
+Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
+		<version>30.0.430924001</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -124,13 +154,13 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 	</package>
 	<package>
 		<name>iOS Microsoft Store Commerce</name>
-		<application_name>WooCommerce</application_name>
-		<bundleId>com.automattic.woocommerce</bundleId>
-		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/62/6f/7f626f78-9ea1-77b9-f860-9bcc844e69dc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>This update smooths your WooCommerce experience with improved cash payments, easier access to POS settings, and accurate HAZMAT details on shipping labels. Plus, we fixed a Blaze flow issue so campaigns behave as expected. Faster, clearer, and more reliable — just how you need it!</releaseNotes>
-		<version>23.2</version>
+		<application_name>Store Commerce</application_name>
+		<bundleId>com.microsoft.storecommerce</bundleId>
+		<currentVersionReleaseDate>September 21, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/ca/de/d1cade8e-cce8-3a6d-7559-924cdb34dc07/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
+		<version>9.55.25262</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -174,46 +204,13 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>
-		<application_name>Whiteboard: just draw together</application_name>
-		<bundleId>com.jimschultz.WhiteBoard</bundleId>
-		<currentVersionReleaseDate>September 24, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/1f/12/461f1235-a692-4647-6452-68446ee82f03/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.6</minimumOsVersion>
-		<releaseNotes>Thanks everyone for using Whiteboard. Here's what's new in this version:) Please keep the feedback coming y'all! Enjoy.
-
-CHANGELOG
-* Fixes an issue where drawings were disappearing
-* Significant drawing and rendering performance improvements&quot;
-* Better error reporting for improved debugging and support
-* General stability improvements
-
-
-2.0 Additions and Improvements
-* Introducing SharePlay drawing, draw with others over FaceTime or Messages.
-* Introducing CreatorKit, get the most out of Whiteboard and support Indie development
-* Now you can zoom in and out on drawings and images!
-* Scroll around in freedom on the all new, expansive, drawing board.
-* Autorotate from portrait to landscape and back, or you can choose to lock orientation.
-* Drawing library, open and continue working on your recent drawings.
-* Add new drawing button, create a new drawing anytime. 
-* Significant performance and stability improvements
-* Adds lock for drawing board zoom/pan/scroll
-* Many more excited things are coming
-* Stay tuned
-
-- Jim
-
-Issues, questions or suggestions?
-• jim@getwhiteboard.com
-
-Like Whiteboard?
-• Please subscribe to CreatorKit to help support development
-• Please rate the app 5 stars so more people find it
-• Please share Whiteboard with a friend or family member to help get the word out.
-• Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.
-• Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw
-• Please send me your Whiteboard drawings on Instagram @getwhiteboard.</releaseNotes>
-		<version>2.5.0</version>
+		<application_name>Whiteboard - Infinity Canvas</application_name>
+		<bundleId>cn.readpad.tool.iwhiteboard</bundleId>
+		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fa/02/86fa024c-bfbf-7571-2d4c-4791d8ca5eaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>13.0</minimumOsVersion>
+		<releaseNotes>Fixed known bugs.</releaseNotes>
+		<version>36.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>
@@ -354,11 +351,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>September 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/00/22/eb002203-f6b7-4d63-5fe6-8731b304e999/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/6f/ea/696fea7c-d98b-5155-df22-7e9e007339f8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>- NFC tag support is now generally available in Power BI Mobile - making data access faster than ever. To set up the connection between any Power BI item and an NFC tag, open the item on a supported device, and select the ‘Register on an NFC tag’ action. Done setting up? Tap your device on the tag to view your data instantly.</releaseNotes>
-		<version>35.2</version>
+		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
+		<version>35.3</version>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>
@@ -374,11 +371,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Intune Company Portal</name>
 		<application_name>Intune Company Portal</application_name>
 		<bundleId>com.microsoft.CompanyPortal</bundleId>
-		<currentVersionReleaseDate>September 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/ef/2d/ceef2d03-b5a0-a822-db5b-c8e8a2da45a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/1b/0e/091b0e6a-1d33-a735-deda-7045dd528a00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We’ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.</releaseNotes>
-		<version>5.2509.0</version>
+		<version>5.2509.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Azure Information Protection</name>

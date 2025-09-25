@@ -1,4 +1,4 @@
-last_updated: September 25, 2025 12:08 PM EDT
+last_updated: September 25, 2025 01:06 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -57,15 +57,28 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: September 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/2f/49/c72f4946-41be-9d6f-bf69-edb23bf9e5c0/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: September 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/52/d7/ce52d7c1-4aed-3358-7843-cd8cb537effc/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: 'This is a quick release to address a customer-reported issue with
-      folder redirection.
-
-
-      If you encounter any errors, you can contact us via Help > Submit Feedback.'
-    version: 11.2.2
+    releaseNotes: "In this release we included the following new features:\n\n\u2022\
+      \ Added support for the Windows 365 \"Under Review\" feature.\n\u2022 Added\
+      \ support for the Windows 365 \"Reserve\" feature.\n\u2022 Added support for\
+      \ the Windows 365 \"Cloud Apps\" feature.\n\u2022 Modernized the Connection\
+      \ Information and Cloud PC Details dialogs.\n\u2022 Made changes to ensure that\
+      \ device card tags are always visible in thumbnail view to help identify the\
+      \ card type.\n\nWe also worked through the following bugs:\n\n\u2022 Fixed an\
+      \ issue where duplicate workspaces appeared after a refresh action.\n\u2022\
+      \ Resolved a bug where Immersive mode wasn't correctly applied after toggling\
+      \ between windowed and full screen mode.\n\u2022 Fixed a bug where the Fn+F\
+      \ shortcut occasionally stopped working after switching between keyboard layouts.\n\
+      \u2022 Fixed an issue where the \"Refresh All\" toolbar button was enabled before\
+      \ all workspaces finished refreshing.\n\u2022 Addressed an issue where the remote\
+      \ Start menu unexpectedly appeared when clicking local menu bar commands.\n\u2022\
+      \ Resolved reported localization issues.\n\nIn addition, we've also made numerous\
+      \ behind-the-scenes updates to improve performance and stability, and to lay\
+      \ the groundwork for upcoming features.\n\nIf you encounter any errors, you\
+      \ can contact us via Help > Submit Feedback."
+    version: 11.2.3
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac

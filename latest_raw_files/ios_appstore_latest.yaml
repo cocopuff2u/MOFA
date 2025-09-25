@@ -1,4 +1,4 @@
-last_updated: September 25, 2025 03:08 AM EDT
+last_updated: September 25, 2025 04:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -56,37 +56,13 @@ packages:
     releaseNotes: This update contains bug fixes and stability improvements.
     version: 16.23.3
   - name: iOS Microsoft Windows App Mobile
-    application_name: Windows App Mobile
-    bundleId: com.microsoft.rdc.ios
-    currentVersionReleaseDate: September 22, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6e/67/ba6e67fa-dbce-42af-24bc-cf1f863a3d15/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "In this release we made the following updates:\n\n\u2022 Added\
-      \ support for the Windows 365 \"Under Review\" feature.\n\u2022 Added support\
-      \ for the Windows 365 \"Reserve\" feature.\n\u2022 Added support for client-side\
-      \ connectivity and system health checks.\n\n\u2022 Added an in-app \"Authentication\
-      \ Required\" notification to signal when the Entra Identity token needs to be\
-      \ renewed.\n\u2022 Added tutorials to guide users through sign-in notifications\
-      \ and account switching.\n\n\u2022 Added support for tapping the \"Favorite\"\
-      \ overlay icon on a device card to unfavorite the device.\n\u2022 Added support\
-      \ for tapping a device card tag to show more information about the device.\n\
-      \u2022 Made changes to ensure that device card tags are always visible in thumbnail\
-      \ view to help identify the card type.\n\n\u2022 Added the \"View Details\"\
-      \ action to all device cards.\n\u2022 Reworked the in-session connection information\
-      \ sheet.\n\u2022 Made layout improvements to the devices list view and Connection\
-      \ Center navigation bar.\n\n\u2022 Added categories to the Notifications sheet.\n\
-      \u2022 Enhanced in-app notification interaction with drag, swipe and trackpad\
-      \ gestures.\n\u2022 Improved the local on-screen keyboard layout and appearance.\n\
-      \n\u2022 Introduced a disconnect message for cases where the connection is closed\
-      \ due to the remote PC restarting.\n\n\u2022 Addressed a number of crashes that\
-      \ were showing up in error reporting.\n\u2022 Addressed reported accessibility\
-      \ bugs.\n\u2022 Fixed an issue where the Space key did not work for some apps\
-      \ in the remote session.\n\u2022 Resolved an issue where location redirection\
-      \ would not work after reconnecting to a remote session.\n\nIn addition, we've\
-      \ also made numerous behind-the-scenes updates to improve performance and stability,\
-      \ and to lay the groundwork for upcoming features.\n\nIf you encounter any errors,\
-      \ you can contact us via Settings > Submit Feedback."
-    version: 11.2.0
+    application_name: Link to Windows
+    bundleId: com.microsoft.LinkToWindows
+    currentVersionReleaseDate: September 09, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/62/b0/ba62b0a9-53a1-57b4-853c-5d25e9aa396a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.6'
+    releaseNotes: Bug fixes and performance improvements
+    version: 1.25082.12
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
@@ -129,22 +105,24 @@ packages:
       \ the connection on devices."
     version: 3.0.6
   - name: iOS Microsoft Store Commerce
-    application_name: Store Commerce
-    bundleId: com.microsoft.storecommerce
-    currentVersionReleaseDate: September 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/ca/de/d1cade8e-cce8-3a6d-7559-924cdb34dc07/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
-    releaseNotes: Bug fixes and performance improvements.
-    version: 9.55.25262
+    application_name: WooCommerce
+    bundleId: com.automattic.woocommerce
+    currentVersionReleaseDate: September 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/62/6f/7f626f78-9ea1-77b9-f860-9bcc844e69dc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "This update smooths your WooCommerce experience with improved cash\
+      \ payments, easier access to POS settings, and accurate HAZMAT details on shipping\
+      \ labels. Plus, we fixed a Blaze flow issue so campaigns behave as expected.\
+      \ Faster, clearer, and more reliable \u2014 just how you need it!"
+    version: '23.2'
   - name: iOS Microsoft Dynamics 365 Sales
-    application_name: Dynamics 365 Sales
-    bundleId: com.microsoft.dynamics.iphone.moca.sales
-    currentVersionReleaseDate: November 11, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    application_name: Dynamics 365 for phones
+    bundleId: com.microsoft.dynamics.iphone.moca
+    currentVersionReleaseDate: September 11, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '14.0'
-    releaseNotes: This version includes experience improvements and bug fixes so sellers
-      can stay on top of their deals better than ever before.
-    version: 3.24104.15
+    releaseNotes: "\u2022 Bug fixes and performance improvements."
+    version: 13.24093.1
   - name: iOS Microsoft Lists
     application_name: Microsoft Lists
     bundleId: com.microsoft.splists
@@ -171,13 +149,33 @@ packages:
       your overall experience.
     version: 11.13.0
   - name: iOS Microsoft Whiteboard
-    application_name: Whiteboard - Infinity Canvas
-    bundleId: cn.readpad.tool.iwhiteboard
-    currentVersionReleaseDate: September 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fa/02/86fa024c-bfbf-7571-2d4c-4791d8ca5eaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: Fixed known bugs.
-    version: '36.0'
+    application_name: 'Whiteboard: just draw together'
+    bundleId: com.jimschultz.WhiteBoard
+    currentVersionReleaseDate: September 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/1f/12/461f1235-a692-4647-6452-68446ee82f03/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '17.6'
+    releaseNotes: "Thanks everyone for using Whiteboard. Here's what's new in this\
+      \ version:) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Fixes\
+      \ an issue where drawings were disappearing\n* Significant drawing and rendering\
+      \ performance improvements\"\n* Better error reporting for improved debugging\
+      \ and support\n* General stability improvements\n\n\n2.0 Additions and Improvements\n\
+      * Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n\
+      * Introducing CreatorKit, get the most out of Whiteboard and support Indie development\n\
+      * Now you can zoom in and out on drawings and images!\n* Scroll around in freedom\
+      \ on the all new, expansive, drawing board.\n* Autorotate from portrait to landscape\
+      \ and back, or you can choose to lock orientation.\n* Drawing library, open\
+      \ and continue working on your recent drawings.\n* Add new drawing button, create\
+      \ a new drawing anytime. \n* Significant performance and stability improvements\n\
+      * Adds lock for drawing board zoom/pan/scroll\n* Many more excited things are\
+      \ coming\n* Stay tuned\n\n- Jim\n\nIssues, questions or suggestions?\n\u2022\
+      \ jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022 Please subscribe to CreatorKit\
+      \ to help support development\n\u2022 Please rate the app 5 stars so more people\
+      \ find it\n\u2022 Please share Whiteboard with a friend or family member to\
+      \ help get the word out.\n\u2022 Please email me jim@getwhiteboard.com and let\
+      \ me know how you're using Whiteboard, send me drawings, questions, concerns\
+      \ and feedback.\n\u2022 Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\
+      \u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard."
+    version: 2.5.0
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge

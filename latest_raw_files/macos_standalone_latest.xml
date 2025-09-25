@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 25, 2025 12:08 PM EDT</last_updated>
+    <last_updated>September 25, 2025 01:06 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -230,16 +230,16 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code.app</application_name>
         <CFBundleVersion>com.microsoft.visualstudio</CFBundleVersion>
-        <short_version>1.104.1</short_version>
-        <full_version>1.104.1</full_version>
-        <last_updated>September 17, 2025</last_updated>
+        <short_version>1.104.2</short_version>
+        <full_version>1.104.2</full_version>
+        <last_updated>September 24, 2025</last_updated>
         <min_os>N/A</min_os>
-        <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/0f0d87fa9e96c856c5212fc86db137ac0d783365/VSCode-darwin-universal.zip</app_only_update_download>
-        <app_update_sha1>3513d40a7dacf12b5ac22b1147402e36a8313040</app_update_sha1>
-        <app_update_sha256>b011f3fa81829fd749f0171c29671ced49e9770589cbf59e2d604017702b92c7</app_update_sha256>
+        <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/e3a5acfb517a443235981655413d566533107e92/VSCode-darwin-universal.zip</app_only_update_download>
+        <app_update_sha1>c17c2e16a51556e295986f98b880e331426e01cc</app_update_sha1>
+        <app_update_sha256>6e52843b4fe6844c85105df25e7a1d96b9568cc495b27cfd238486ddb74796cb</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2156837</full_update_download>
-        <full_update_sha1>3513d40a7dacf12b5ac22b1147402e36a8313040</full_update_sha1>
-        <full_update_sha256>b011f3fa81829fd749f0171c29671ced49e9770589cbf59e2d604017702b92c7</full_update_sha256>
+        <full_update_sha1>c17c2e16a51556e295986f98b880e331426e01cc</full_update_sha1>
+        <full_update_sha256>6e52843b4fe6844c85105df25e7a1d96b9568cc495b27cfd238486ddb74796cb</full_update_sha256>
     </package>
     <package>
         <name>MAU</name>

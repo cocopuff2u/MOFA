@@ -1,4 +1,4 @@
-last_updated: September 25, 2025 10:07 AM EDT
+last_updated: September 25, 2025 11:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -96,21 +96,20 @@ packages:
     releaseNotes: Bug fixes and improvements
     version: 1.1.69090106
   - name: iOS Microsoft Copilot
-    application_name: Microsoft Copilot
-    bundleId: com.microsoft.copilot
-    currentVersionReleaseDate: September 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/2a/24/692a24e3-c761-bb77-a699-65bef8127681/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
-    releaseNotes: 'Introducing the New Copilot: Your AI Companion
-
-      This update includes an intuitive design with more digestible and faster answers,
-      plus new features.
-
-      Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
-
-      Copilot Daily: Start your day with a news and weather summary. Clean, simple,
-      and easy to digest.'
-    version: 30.0.430915001
+    application_name: 'Microsoft Edge: AI Browser'
+    bundleId: com.microsoft.msedge
+    currentVersionReleaseDate: September 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b1/9b/f8b19bdc-2e5e-eaf6-7570-2ef4340c43cd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
+      \ release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts\
+      \ to your needs, delivering quick answers or deeper insights with expert results.\n\
+      \u2022 Extensions Now Available on iOS: Explore Immersive Translate, Keepa,\
+      \ Coupert, and more for a personalized and productive browsing experience. (Available\
+      \ now on iPhone with iOS 18.4 or later. Extension support for iPad is coming\
+      \ soon.)\nUpgrade now to experience a smarter, faster, and more productive Microsoft\
+      \ Edge!"
+    version: 140.3485.81
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -130,22 +129,24 @@ packages:
       \ the connection on devices."
     version: 3.0.6
   - name: iOS Microsoft Store Commerce
-    application_name: Store Commerce
-    bundleId: com.microsoft.storecommerce
-    currentVersionReleaseDate: September 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/ca/de/d1cade8e-cce8-3a6d-7559-924cdb34dc07/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
-    releaseNotes: Bug fixes and performance improvements.
-    version: 9.55.25262
+    application_name: WooCommerce
+    bundleId: com.automattic.woocommerce
+    currentVersionReleaseDate: September 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/62/6f/7f626f78-9ea1-77b9-f860-9bcc844e69dc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "This update smooths your WooCommerce experience with improved cash\
+      \ payments, easier access to POS settings, and accurate HAZMAT details on shipping\
+      \ labels. Plus, we fixed a Blaze flow issue so campaigns behave as expected.\
+      \ Faster, clearer, and more reliable \u2014 just how you need it!"
+    version: '23.2'
   - name: iOS Microsoft Dynamics 365 Sales
-    application_name: Dynamics 365 Sales
-    bundleId: com.microsoft.dynamics.iphone.moca.sales
-    currentVersionReleaseDate: November 11, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    application_name: Dynamics 365 for phones
+    bundleId: com.microsoft.dynamics.iphone.moca
+    currentVersionReleaseDate: September 11, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '14.0'
-    releaseNotes: This version includes experience improvements and bug fixes so sellers
-      can stay on top of their deals better than ever before.
-    version: 3.24104.15
+    releaseNotes: "\u2022 Bug fixes and performance improvements."
+    version: 13.24093.1
   - name: iOS Microsoft Lists
     application_name: Microsoft Lists
     bundleId: com.microsoft.splists
@@ -172,13 +173,32 @@ packages:
       your overall experience.
     version: 11.13.0
   - name: iOS Microsoft Whiteboard
-    application_name: Whiteboard - Infinity Canvas
-    bundleId: cn.readpad.tool.iwhiteboard
-    currentVersionReleaseDate: September 23, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fa/02/86fa024c-bfbf-7571-2d4c-4791d8ca5eaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: Fixed known bugs.
-    version: '36.0'
+    application_name: 'Whiteboard: just draw together'
+    bundleId: com.jimschultz.WhiteBoard
+    currentVersionReleaseDate: August 26, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/2d/31/ba2d3186-54d3-43c7-dedd-b916e2c969a8/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '17.6'
+    releaseNotes: "Thanks everyone for using Whiteboard. Here's what's new in this\
+      \ version:) Please keep the feedback coming y'all! Enjoy.\n\nFIXED\n* Improvements\
+      \ to drawing gallery\n* Added link to Youtube channel\n* Added Quarterly Creator\
+      \ Kit Plan\n* General stability improvements\n\n\n2.0 Additions and Improvements\n\
+      * Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n\
+      * Introducing CreatorKit, get the most out of Whiteboard and support Indie development\n\
+      * Now you can zoom in and out on drawings and images!\n* Scroll around in freedom\
+      \ on the all new, expansive, drawing board.\n* Autorotate from portrait to landscape\
+      \ and back, or you can choose to lock orientation.\n* Drawing library, open\
+      \ and continue working on your recent drawings.\n* Add new drawing button, create\
+      \ a new drawing anytime. \n* Significant performance and stability improvements\n\
+      * Adds lock for drawing board zoom/pan/scroll\n* Many more excited things are\
+      \ coming\n* Stay tuned\n\n- Jim\n\nIssues, questions or suggestions?\n\u2022\
+      \ jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022 Please subscribe to CreatorKit\
+      \ to help support development\n\u2022 Please rate the app 5 stars so more people\
+      \ find it\n\u2022 Please share Whiteboard with a friend or family member to\
+      \ help get the word out.\n\u2022 Please email me jim@getwhiteboard.com and let\
+      \ me know how you're using Whiteboard, send me drawings, questions, concerns\
+      \ and feedback.\n\u2022 Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\
+      \u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard."
+    version: 2.4.2
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge

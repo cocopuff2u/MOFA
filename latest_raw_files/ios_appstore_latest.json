@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 26, 2025 10:06 AM EDT",
+    "last_updated": "September 26, 2025 11:07 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -163,13 +163,13 @@
         },
         {
             "name": "iOS Microsoft Whiteboard",
-            "application_name": "Whiteboard: just draw together",
-            "bundleId": "com.jimschultz.WhiteBoard",
-            "currentVersionReleaseDate": "September 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/1f/12/461f1235-a692-4647-6452-68446ee82f03/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "17.6",
-            "releaseNotes": "Thanks everyone for using Whiteboard. Here's what's new in this version:) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Fixes an issue where drawings were disappearing\n* Significant drawing and rendering performance improvements\"\n* Better error reporting for improved debugging and support\n* General stability improvements\n\n\n2.0 Additions and Improvements\n* Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n* Introducing CreatorKit, get the most out of Whiteboard and support Indie development\n* Now you can zoom in and out on drawings and images!\n* Scroll around in freedom on the all new, expansive, drawing board.\n* Autorotate from portrait to landscape and back, or you can choose to lock orientation.\n* Drawing library, open and continue working on your recent drawings.\n* Add new drawing button, create a new drawing anytime. \n* Significant performance and stability improvements\n* Adds lock for drawing board zoom/pan/scroll\n* Many more excited things are coming\n* Stay tuned\n\n- Jim\n\nIssues, questions or suggestions?\n\u2022 jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022 Please subscribe to CreatorKit to help support development\n\u2022 Please rate the app 5 stars so more people find it\n\u2022 Please share Whiteboard with a friend or family member to help get the word out.\n\u2022 Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard.",
-            "version": "2.5.0"
+            "application_name": "Whiteboard - Infinity Canvas",
+            "bundleId": "cn.readpad.tool.iwhiteboard",
+            "currentVersionReleaseDate": "September 23, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fa/02/86fa024c-bfbf-7571-2d4c-4791d8ca5eaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "Fixed known bugs.",
+            "version": "36.0"
         },
         {
             "name": "iOS Microsoft Edge AI Browser",

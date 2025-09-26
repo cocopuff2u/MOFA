@@ -1,4 +1,4 @@
-last_updated: September 25, 2025 11:18 PM EDT
+last_updated: September 26, 2025 12:07 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -247,14 +247,13 @@ packages:
     releaseNotes: Stability improvements and fixes.
     version: 4.54.7
   - name: iOS Microsoft Dynamics 365 Business Central
-    application_name: Dynamics 365 Business Central
-    bundleId: com.microsoft.dynamics.ProjectMadeira
-    currentVersionReleaseDate: October 03, 2023
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/18/ad/5618ad08-9054-c975-1517-43d29b51827c/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: Added support for latest mobile OS, added support for barcode scanning,
-      updated internal components, fixed minor issues.
-    version: 4.0.9292
+    application_name: Dynamics 365 for phones
+    bundleId: com.microsoft.dynamics.iphone.moca
+    currentVersionReleaseDate: September 11, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '14.0'
+    releaseNotes: "\u2022 Bug fixes and performance improvements."
+    version: 13.24093.1
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps

@@ -1,4 +1,4 @@
-last_updated: September 26, 2025 02:09 AM EDT
+last_updated: September 26, 2025 03:07 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -16,14 +16,14 @@ packages:
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.102.0 (25092340)
-  full_version: 16.102.25092340
-  last_updated: September 23, 2025
+  short_version: 16.102.0 (25092521)
+  full_version: 16.102.25092521
+  last_updated: September 25, 2025
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.102.25092340_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.102.25092340_Updater.pkg
-  sha1: ab9c45396aea24a2fe9c7b2e5fd7ab2d545fd5a8
-  sha256: b6254ee6bfffea8b6b7c0343342d0055297d7255290c4cdf29ad5057a38d3287
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.102.25092521_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.102.25092521_Updater.pkg
+  sha1: c5208270a0f2eafefeb935cbe3b561b75e3d3800
+  sha256: fb9e66974356f16af4bfa078bc9562b7d30da70be8ae94563a942e13f932f602
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app

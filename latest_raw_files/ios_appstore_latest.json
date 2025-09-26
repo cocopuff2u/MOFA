@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 25, 2025 10:33 PM EDT",
+    "last_updated": "September 25, 2025 11:18 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -163,13 +163,13 @@
         },
         {
             "name": "iOS Microsoft Whiteboard",
-            "application_name": "Whiteboard: just draw together",
-            "bundleId": "com.jimschultz.WhiteBoard",
-            "currentVersionReleaseDate": "September 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/1f/12/461f1235-a692-4647-6452-68446ee82f03/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "17.6",
-            "releaseNotes": "Thanks everyone for using Whiteboard. Here's what's new in this version:) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Fixes an issue where drawings were disappearing\n* Significant drawing and rendering performance improvements\"\n* Better error reporting for improved debugging and support\n* General stability improvements\n\n\n2.0 Additions and Improvements\n* Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n* Introducing CreatorKit, get the most out of Whiteboard and support Indie development\n* Now you can zoom in and out on drawings and images!\n* Scroll around in freedom on the all new, expansive, drawing board.\n* Autorotate from portrait to landscape and back, or you can choose to lock orientation.\n* Drawing library, open and continue working on your recent drawings.\n* Add new drawing button, create a new drawing anytime. \n* Significant performance and stability improvements\n* Adds lock for drawing board zoom/pan/scroll\n* Many more excited things are coming\n* Stay tuned\n\n- Jim\n\nIssues, questions or suggestions?\n\u2022 jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022 Please subscribe to CreatorKit to help support development\n\u2022 Please rate the app 5 stars so more people find it\n\u2022 Please share Whiteboard with a friend or family member to help get the word out.\n\u2022 Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard.",
-            "version": "2.5.0"
+            "application_name": "Whiteboard - Infinity Canvas",
+            "bundleId": "cn.readpad.tool.iwhiteboard",
+            "currentVersionReleaseDate": "September 23, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fa/02/86fa024c-bfbf-7571-2d4c-4791d8ca5eaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "Fixed known bugs.",
+            "version": "36.0"
         },
         {
             "name": "iOS Microsoft Edge AI Browser",
@@ -243,13 +243,13 @@
         },
         {
             "name": "iOS Microsoft Dynamics 365 Business Central",
-            "application_name": "Dynamics 365 for phones",
-            "bundleId": "com.microsoft.dynamics.iphone.moca",
-            "currentVersionReleaseDate": "September 11, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 Bug fixes and performance improvements.",
-            "version": "13.24093.1"
+            "application_name": "Dynamics 365 Business Central",
+            "bundleId": "com.microsoft.dynamics.ProjectMadeira",
+            "currentVersionReleaseDate": "October 03, 2023",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/18/ad/5618ad08-9054-c975-1517-43d29b51827c/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "Added support for latest mobile OS, added support for barcode scanning, updated internal components, fixed minor issues.",
+            "version": "4.0.9292"
         },
         {
             "name": "iOS Microsoft Power Apps",

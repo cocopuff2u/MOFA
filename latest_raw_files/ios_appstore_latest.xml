@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 29, 2025 06:06 PM EDT</last_updated>
+	<last_updated>September 29, 2025 07:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/fa/d8/f2fad85d-03ed-c3de-9af1-c2be1776b84f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/22/b0/bd22b0d7-f418-d08a-dbed-cfb9dc65618e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.101.1</version>
+		<version>2.101.2</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>September 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/14/63/87146392-14be-d29b-5779-e8cfe6938c22/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/95/c6/b795c612-c0fb-e876-ff97-3133e7eaf045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.101.2</version>
+		<version>2.101.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -304,11 +304,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/d4/00/45d4006f-9b1b-6c4e-d630-454b5ac386e0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 29, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/ee/68/9fee68ac-11cd-2bd9-04f4-ccaaf4648619/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.17.1</version>
+		<version>7.18.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>

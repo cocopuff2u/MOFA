@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 29, 2025 03:08 AM EDT</last_updated>
+    <last_updated>September 29, 2025 04:10 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -176,12 +176,12 @@
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
         <short_version>1.105.0-</short_version>
         <full_version>1.105.0-insider</full_version>
-        <last_updated>September 26, 2025</last_updated>
+        <last_updated>September 29, 2025</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/588279f5b77b10bc41f3f8bb864350814e3823f4/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/ceb07bd32d461c726db89293f007f4acb700df6c/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
-        <sha1>23d09f6332fba2eecd00907a544f474db873d762</sha1>
-        <sha256>eabdb819c3a1cea67beb49b4e2868b7f0baba8d13ec55c89f7d39984a94c389c</sha256>
+        <sha1>ac3b8f6a477db08ad3f69af380f3e3b3ed612602</sha1>
+        <sha256>c1bae8503f7ee8c5fd29481ed9c254926addec9a0a7e95702227705afe830287</sha256>
     </package>
     <package>
         <name>MAU</name>

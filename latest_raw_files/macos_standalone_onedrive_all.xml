@@ -1,27 +1,27 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>September 29, 2025 04:08 PM EDT</last_updated>
+  <last_updated>September 29, 2025 05:06 PM EDT</last_updated>
   <package>
     <name>Production Ring</name>
-    <short_version>25.170.0901</short_version>
+    <short_version>25.174.0907</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.170.0901.0002/universal/OneDrive.pkg</full_update_download>
-    <full_update_sha1>a57448bb01626ea46cbb9aa9a77a5013259b4376</full_update_sha1>
-    <full_update_sha256>02360ff1d1359c7d7ed43c2f53d5a5b18b96317ca4258fcfcd3d1f4f44a45e2c</full_update_sha256>
-    <last_updated>September 18, 2025 06:06 PM EDT</last_updated>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.174.0907.0003/universal/OneDrive.pkg</full_update_download>
+    <full_update_sha1>d30d20594333e899169cca9a846c39f66d76fbc5</full_update_sha1>
+    <full_update_sha256>4809ad78c87df61762cf017c1a04cd832c74fc66e07dba285d20c30f47b08d57</full_update_sha256>
+    <last_updated>September 29, 2025 05:06 PM EDT</last_updated>
   </package>
   <package>
     <name>Upcoming Production Ring</name>
-    <short_version>25.170.0901</short_version>
+    <short_version>25.174.0907</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.170.0901.0002/universal/OneDrive.pkg</full_update_download>
-    <full_update_sha1>a57448bb01626ea46cbb9aa9a77a5013259b4376</full_update_sha1>
-    <full_update_sha256>02360ff1d1359c7d7ed43c2f53d5a5b18b96317ca4258fcfcd3d1f4f44a45e2c</full_update_sha256>
-    <last_updated>September 18, 2025 06:06 PM EDT</last_updated>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.174.0907.0003/universal/OneDrive.pkg</full_update_download>
+    <full_update_sha1>d30d20594333e899169cca9a846c39f66d76fbc5</full_update_sha1>
+    <full_update_sha256>4809ad78c87df61762cf017c1a04cd832c74fc66e07dba285d20c30f47b08d57</full_update_sha256>
+    <last_updated>September 29, 2025 05:06 PM EDT</last_updated>
   </package>
   <package>
     <name>Deferred Ring</name>
@@ -47,14 +47,14 @@
   </package>
   <package>
     <name>Insider Ring</name>
-    <short_version>25.189.0928</short_version>
+    <short_version>25.174.0907</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.189.0928.0001/universal/OneDrive.pkg</full_update_download>
-    <full_update_sha1>b29fab996213df22e393d8cd915c985776cd2c28</full_update_sha1>
-    <full_update_sha256>77320128f23b7f288c8f6be31693fa5d35ca88ac33c55eb5392e654082985e65</full_update_sha256>
-    <last_updated>September 29, 2025 04:08 PM EDT</last_updated>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/25.174.0907.0003/universal/OneDrive.pkg</full_update_download>
+    <full_update_sha1>d30d20594333e899169cca9a846c39f66d76fbc5</full_update_sha1>
+    <full_update_sha256>4809ad78c87df61762cf017c1a04cd832c74fc66e07dba285d20c30f47b08d57</full_update_sha256>
+    <last_updated>September 29, 2025 05:06 PM EDT</last_updated>
   </package>
   <package>
     <name>Rolling Out (Unknown Use)</name>

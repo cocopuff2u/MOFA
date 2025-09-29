@@ -1,13 +1,13 @@
-last_updated: September 29, 2025 04:10 AM EDT
+last_updated: September 29, 2025 05:08 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: September 22, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/fa/d8/f2fad85d-03ed-c3de-9af1-c2be1776b84f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 29, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/22/b0/bd22b0d7-f418-d08a-dbed-cfb9dc65618e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.101.1
+    version: 2.101.2
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
@@ -38,15 +38,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: September 22, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/a5/c5/67a5c57d-02b0-7005-ae8c-6db0118ac8f8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 29, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/83/26/f383260a-2d73-4c7a-167d-d93d9dd2aafa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.101.1
+    version: 16.101.2
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive

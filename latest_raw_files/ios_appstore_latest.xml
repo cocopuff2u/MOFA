@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 30, 2025 01:10 PM EDT</last_updated>
+	<last_updated>September 30, 2025 02:10 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -15,11 +15,11 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>September 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/14/63/87146392-14be-d29b-5779-e8cfe6938c22/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/95/c6/b795c612-c0fb-e876-ff97-3133e7eaf045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.101.2</version>
+		<version>2.101.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -35,13 +35,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>September 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/20/33/ec20335d-0786-dcca-3b16-23d05ccb9fb5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 26, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/ec/9b/4cec9b0d-912b-51bf-193b-b85b2b1d860c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>4.2538.0</version>
+		<version>4.2537.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>

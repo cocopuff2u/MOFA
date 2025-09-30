@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 30, 2025 06:07 AM EDT",
+    "last_updated": "September 30, 2025 07:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -15,11 +15,11 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "September 29, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/14/63/87146392-14be-d29b-5779-e8cfe6938c22/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 22, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/95/c6/b795c612-c0fb-e876-ff97-3133e7eaf045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.101.2"
+            "version": "2.101.1"
         },
         {
             "name": "iOS Microsoft PowerPoint",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "September 29, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/20/33/ec20335d-0786-dcca-3b16-23d05ccb9fb5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 26, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/ec/9b/4cec9b0d-912b-51bf-193b-b85b2b1d860c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2538.0"
+            "version": "4.2537.1"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "September 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c1/c8/ebc1c8a4-57c2-5538-cadf-fb3420981e60/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 29, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/5e/b9/355eb913-8db0-74e1-c5ce-2067822c986d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.23.3"
+            "releaseNotes": "We\u2019ve been busy behind the scenes making OneDrive even better. Here\u2019s what\u2019s new and improved:\n\nNew\n- Audio Overviews for Business: Stay informed with quick audio summaries tailored for your business files \u2014 perfect for catching up while on the move.\n- Moments Pivot: Introducing the new Moments Pivot \u2014 a dedicated space where you can revisit your most memorable and meaningful photo highlights. It\u2019s your personal gallery of joy, curated by OneDrive.\n- Photo Stacks: Similar photos are now grouped together, clearing the clutter of your gallery and easier to browse\n- Shared Folders in Folder Picker: Access shared folders directly from the folder picker \u2014 making collaboration smoother than ever.\n\nFixed & Improved\nWe\u2019ve made a number of behind-the-scenes improvements to keep things running smoothly:\n- Gallery updates: Deleted items now disappear instantly.\n- Folder Picker: Improved folder creation, rename, and scan flows.\n- Vault: Enhanced settings and empty vault view experience.\n- Capture: Scan flows are now more responsive.\n- General performance and stability improvements across the app.\n\nThanks for using OneDrive! We\u2019re always working to improve your experience. If you run into any issues, just shake your device and tap \u201cSend Feedback.\u201d\n\n/** These notes were generated using Copilot\n\n\nWe would like to let our users know that we are planning on dropping support for the OneDrive app on iOS 17 and iPadOS 17 versions soon. Please ensure you're on one of the later versions of iOS/iPadOS (18 or 26) to make sure you're still able to access the latest version of the OneDrive app.",
+            "version": "16.24.2"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 30, 2025 03:07 AM EDT",
+    "last_updated": "September 30, 2025 04:10 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -25,11 +25,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "September 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/22/10/8e221075-b17e-efff-5409-3625dd310ba7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 29, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/6d/1a/e56d1a7b-523f-931a-50a6-a7f4cb5d2a1d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.101.1"
+            "version": "2.101.2"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "September 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/d4/00/45d4006f-9b1b-6c4e-d630-454b5ac386e0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 29, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/ee/68/9fee68ac-11cd-2bd9-04f4-ccaaf4648619/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.17.1"
+            "version": "7.18.0"
         },
         {
             "name": "iOS Microsoft Sharepoint",

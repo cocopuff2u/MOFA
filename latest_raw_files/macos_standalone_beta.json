@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 01, 2025 02:10 PM EDT",
+    "last_updated": "October 01, 2025 03:06 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -188,14 +188,14 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.80 (25073044)",
-            "full_version": "4.80.25073044",
-            "last_updated": "July 30, 2025",
+            "short_version": "4.80 (25092610)",
+            "full_version": "4.80.25092610",
+            "last_updated": "September 26, 2025",
             "min_os": "10.14.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.80.25073044_Updater.pkg",
-            "latest_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.80.25073044_Updater.pkg",
-            "sha1": "7f940094fe60d562d74cec2e2c7a06d39ead4c14",
-            "sha256": "faea6b0b7ec5a16427387be1a4a08bb3915ffd7fba5ef5c49b94cb4e011d0dab"
+            "update_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg",
+            "latest_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg",
+            "sha1": "3a8b0ba79343fdbdba5029cfc6c7db66fe9acfdf",
+            "sha256": "0bf87390c369931fab790d9e7570c66f5f160e0c120b4bc0564bfacffcb74742"
         }
     ]
 }

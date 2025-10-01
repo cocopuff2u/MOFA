@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 01, 2025 04:09 AM EDT",
+    "last_updated": "October 01, 2025 05:08 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -35,11 +35,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "September 29, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/20/33/ec20335d-0786-dcca-3b16-23d05ccb9fb5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 26, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/ec/9b/4cec9b0d-912b-51bf-193b-b85b2b1d860c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2538.0"
+            "version": "4.2537.1"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -65,11 +65,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Windows App Mobile",
             "bundleId": "com.microsoft.rdc.ios",
-            "currentVersionReleaseDate": "September 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6e/67/ba6e67fa-dbce-42af-24bc-cf1f863a3d15/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/0d/57/370d5745-807e-05d6-082f-0176f0c5c142/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added support for the Windows 365 \"Under Review\" feature.\n\u2022 Added support for the Windows 365 \"Reserve\" feature.\n\u2022 Added support for client-side connectivity and system health checks.\n\n\u2022 Added an in-app \"Authentication Required\" notification to signal when the Entra Identity token needs to be renewed.\n\u2022 Added tutorials to guide users through sign-in notifications and account switching.\n\n\u2022 Added support for tapping the \"Favorite\" overlay icon on a device card to unfavorite the device.\n\u2022 Added support for tapping a device card tag to show more information about the device.\n\u2022 Made changes to ensure that device card tags are always visible in thumbnail view to help identify the card type.\n\n\u2022 Added the \"View Details\" action to all device cards.\n\u2022 Reworked the in-session connection information sheet.\n\u2022 Made layout improvements to the devices list view and Connection Center navigation bar.\n\n\u2022 Added categories to the Notifications sheet.\n\u2022 Enhanced in-app notification interaction with drag, swipe and trackpad gestures.\n\u2022 Improved the local on-screen keyboard layout and appearance.\n\n\u2022 Introduced a disconnect message for cases where the connection is closed due to the remote PC restarting.\n\n\u2022 Addressed a number of crashes that were showing up in error reporting.\n\u2022 Addressed reported accessibility bugs.\n\u2022 Fixed an issue where the Space key did not work for some apps in the remote session.\n\u2022 Resolved an issue where location redirection would not work after reconnecting to a remote session.\n\nIn addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for upcoming features.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.2.0"
+            "releaseNotes": "This is a quick release to address a customer-reported issue impacting connections utilizing RD Gateways running on Windows Server 2012 R2 or earlier. We've also added in handling for the ALT+ENTER shortcut (which was not working in Teams and some other apps).\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
+            "version": "11.2.1"
         },
         {
             "name": "iOS Microsoft Defender Security",
@@ -255,11 +255,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "September 23, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/74/65/437465b6-4893-7ee7-752f-5b4ddfdc3064/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 30, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/05/6a/99056a5a-cbff-3b93-63fb-4d68e77235b2/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25093.15"
+            "version": "3.25094.9"
         },
         {
             "name": "iOS Microsoft Authenticator",

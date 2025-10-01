@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 01, 2025 02:10 AM EDT</last_updated>
+	<last_updated>October 01, 2025 03:07 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -93,41 +93,13 @@ We would like to let our users know that we are planning on dropping support for
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Windows App Mobile</application_name>
 		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6e/67/ba6e67fa-dbce-42af-24bc-cf1f863a3d15/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/0d/57/370d5745-807e-05d6-082f-0176f0c5c142/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates:
-
-• Added support for the Windows 365 &quot;Under Review&quot; feature.
-• Added support for the Windows 365 &quot;Reserve&quot; feature.
-• Added support for client-side connectivity and system health checks.
-
-• Added an in-app &quot;Authentication Required&quot; notification to signal when the Entra Identity token needs to be renewed.
-• Added tutorials to guide users through sign-in notifications and account switching.
-
-• Added support for tapping the &quot;Favorite&quot; overlay icon on a device card to unfavorite the device.
-• Added support for tapping a device card tag to show more information about the device.
-• Made changes to ensure that device card tags are always visible in thumbnail view to help identify the card type.
-
-• Added the &quot;View Details&quot; action to all device cards.
-• Reworked the in-session connection information sheet.
-• Made layout improvements to the devices list view and Connection Center navigation bar.
-
-• Added categories to the Notifications sheet.
-• Enhanced in-app notification interaction with drag, swipe and trackpad gestures.
-• Improved the local on-screen keyboard layout and appearance.
-
-• Introduced a disconnect message for cases where the connection is closed due to the remote PC restarting.
-
-• Addressed a number of crashes that were showing up in error reporting.
-• Addressed reported accessibility bugs.
-• Fixed an issue where the Space key did not work for some apps in the remote session.
-• Resolved an issue where location redirection would not work after reconnecting to a remote session.
-
-In addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for upcoming features.
+		<releaseNotes>This is a quick release to address a customer-reported issue impacting connections utilizing RD Gateways running on Windows Server 2012 R2 or earlier. We've also added in handling for the ALT+ENTER shortcut (which was not working in Teams and some other apps).
 
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.0</version>
+		<version>11.2.1</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Defender Security</name>
@@ -143,14 +115,14 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot</bundleId>
-		<currentVersionReleaseDate>September 24, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/90/ea/dd90ead6-fee3-9cc4-ef51-2aff80071d27/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/7c/ad/4e7cad08-28ed-f3f6-5b56-5b5e6140fe49/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Introducing the New Copilot: Your AI Companion
 This update includes an intuitive design with more digestible and faster answers, plus new features.
 Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
 Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
-		<version>30.0.430924001</version>
+		<version>30.0.430930001</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -207,21 +179,21 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Dynamics 365 Field Service</name>
 		<application_name>Dynamics 365 Field Service</application_name>
 		<bundleId>com.microsoft.dynamics.iphone.moca.fieldServices</bundleId>
-		<currentVersionReleaseDate>July 11, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d3/64/9ad36405-9082-deff-7581-6d94c6e7b978/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 30, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e9/5d/3ce95d85-a73c-6789-1064-146c69fccaa6/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Minor updates, bug fixes, and performance improvements.</releaseNotes>
-		<version>13.25063.8</version>
+		<version>13.25091.10</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>September 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/60/c2/ec60c20b-495b-6a0d-4aaa-c93332dd182e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 30, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/be/20/68be201e-c159-49aa-409d-4f480df182f0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.13.0</version>
+		<version>11.14.0</version>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>

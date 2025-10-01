@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 01, 2025 04:09 AM EDT</last_updated>
+	<last_updated>October 01, 2025 05:08 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/7c/da/287cda12-69b9-847b-efe4-6ab9aeb9c355/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 30, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/61/ed/2061edcf-cabc-c0ef-f97f-12f23a4a7c15/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.101.1</version>
+		<version>16.101.2</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>

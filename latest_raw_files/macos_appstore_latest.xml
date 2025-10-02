@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 01, 2025 08:26 PM EDT</last_updated>
+	<last_updated>October 01, 2025 09:34 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>September 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/61/ed/2061edcf-cabc-c0ef-f97f-12f23a4a7c15/MSWD.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/7c/da/287cda12-69b9-847b-efe4-6ab9aeb9c355/MSWD.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.101.2</version>
+		<version>16.101.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
@@ -35,18 +35,18 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>September 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/18/a2/d218a295-78d9-e06d-0fb2-84a12b26e65b/Outlook.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/9c/f9/a99cf98a-9c94-d589-cb3a-b84fc85e3a89/Outlook.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.101.2</version>
+		<releaseNotes>General quality and performance enhancements.</releaseNotes>
+		<version>16.101.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>September 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/78/a7/6d78a792-db0a-3ee4-1fe9-9f0f062ca414/OneNote.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f9/27/f1f92731-3cdf-3f2c-d61f-4d72cfa2d219/OneNote.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -54,7 +54,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.101.2</version>
+		<version>16.101.1</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>
@@ -70,13 +70,30 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>September 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c2/04/eac2049c-e5b5-cf01-b6dc-83415b44ab06/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/52/d7/ce52d7c1-4aed-3358-7843-cd8cb537effc/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>This is a quick release to address a customer-reported issue impacting connections utilizing RD Gateways running on Windows Server 2012 R2 or earlier.
+		<releaseNotes>In this release we included the following new features:
+
+• Added support for the Windows 365 &quot;Under Review&quot; feature.
+• Added support for the Windows 365 &quot;Reserve&quot; feature.
+• Added support for the Windows 365 &quot;Cloud Apps&quot; feature.
+• Modernized the Connection Information and Cloud PC Details dialogs.
+• Made changes to ensure that device card tags are always visible in thumbnail view to help identify the card type.
+
+We also worked through the following bugs:
+
+• Fixed an issue where duplicate workspaces appeared after a refresh action.
+• Resolved a bug where Immersive mode wasn't correctly applied after toggling between windowed and full screen mode.
+• Fixed a bug where the Fn+F shortcut occasionally stopped working after switching between keyboard layouts.
+• Fixed an issue where the &quot;Refresh All&quot; toolbar button was enabled before all workspaces finished refreshing.
+• Addressed an issue where the remote Start menu unexpectedly appeared when clicking local menu bar commands.
+• Resolved reported localization issues.
+
+In addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for upcoming features.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.4</version>
+		<version>11.2.3</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>

@@ -1,4 +1,4 @@
-last_updated: October 02, 2025 01:05 PM EDT
+last_updated: October 02, 2025 02:09 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -200,16 +200,16 @@ packages:
   application_id: N/A
   application_name: Visual Studio Code.app
   CFBundleVersion: com.microsoft.visualstudio
-  short_version: 1.104.2
-  full_version: 1.104.2
-  last_updated: September 24, 2025
+  short_version: 1.104.3
+  full_version: 1.104.3
+  last_updated: October 02, 2025
   min_os: N/A
-  app_only_update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/e3a5acfb517a443235981655413d566533107e92/VSCode-darwin-universal.zip
-  app_update_sha1: c17c2e16a51556e295986f98b880e331426e01cc
-  app_update_sha256: 6e52843b4fe6844c85105df25e7a1d96b9568cc495b27cfd238486ddb74796cb
+  app_only_update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCode-darwin-universal.zip
+  app_update_sha1: f21067d260fb476d5f18b442cce6e6d2ec525e81
+  app_update_sha256: 0f8d5c1f7dc9978dd856b75514e3dfbfffd375ef269374b473c98ca56999e24b
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2156837
-  full_update_sha1: c17c2e16a51556e295986f98b880e331426e01cc
-  full_update_sha256: 6e52843b4fe6844c85105df25e7a1d96b9568cc495b27cfd238486ddb74796cb
+  full_update_sha1: f21067d260fb476d5f18b442cce6e6d2ec525e81
+  full_update_sha256: 0f8d5c1f7dc9978dd856b75514e3dfbfffd375ef269374b473c98ca56999e24b
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>October 03, 2025 11:06 AM EDT</last_updated>
+  <last_updated>October 03, 2025 12:10 PM EDT</last_updated>
   <Version>
     <Name>current</Name>
     <Version>140.0.3485.94</Version>
@@ -14,14 +14,14 @@
   </Version>
   <Version>
     <Name>canary</Name>
-    <Version>142.0.3587.0</Version>
+    <Version>142.0.3594.0</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/808cc7a8-562f-4a5b-8e3f-d31407281caa/MicrosoftEdgeCanary-142.0.3587.0.pkg</Full_Update_Download>
-    <Full_Update_Sha1>ea16959de482c0c21b4ae870d053397d4d06e141</Full_Update_Sha1>
-    <Full_Update_Sha256>b8494305c74270d657b7e22ba0d4e5ba545e0ea5a4618f852efadd4ab91bf16b</Full_Update_Sha256>
-    <Last_Update>September 29, 2025 08:50 AM EDT</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1a69c79a-364a-448c-8223-2c2498d87de6/MicrosoftEdgeCanary-142.0.3594.0.pkg</Full_Update_Download>
+    <Full_Update_Sha1>2e4c3e6aa28924a4e441b3c021826903e4004e37</Full_Update_Sha1>
+    <Full_Update_Sha256>f324b903aefd61aec8b1f5534e2d64f6d1bc3c72ae7121372f8ed8d80b68364e</Full_Update_Sha256>
+    <Last_Update>October 03, 2025 12:01 PM EDT</Last_Update>
   </Version>
   <Version>
     <Name>dev</Name>
@@ -36,13 +36,13 @@
   </Version>
   <Version>
     <Name>beta</Name>
-    <Version>141.0.3537.44</Version>
+    <Version>141.0.3537.57</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/169e2b1a-51c6-405f-a525-dd2d3a14e98b/MicrosoftEdgeBeta-141.0.3537.44.pkg</Full_Update_Download>
-    <Full_Update_Sha1>61cd836d5d5af9c5c958bf75b00c158056e3dcc8</Full_Update_Sha1>
-    <Full_Update_Sha256>41021a69c3731cdc8158e1468ccf3b4faff41c4f441036152bb8ab22ab0b90f3</Full_Update_Sha256>
-    <Last_Update>September 26, 2025 01:50 PM EDT</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc14d90e-f76f-47cb-a0cc-c79104deb5fc/MicrosoftEdgeBeta-141.0.3537.57.pkg</Full_Update_Download>
+    <Full_Update_Sha1>70d58063d2d2566a6b98249c5b2336ce141ba2c4</Full_Update_Sha1>
+    <Full_Update_Sha256>434a8a86782e6ab2e03f4877b1d9d9850f98fd17a3a381508dd41887edfe94a9</Full_Update_Sha256>
+    <Last_Update>October 03, 2025 11:57 AM EDT</Last_Update>
   </Version>
 </EdgeInsiderVersions>

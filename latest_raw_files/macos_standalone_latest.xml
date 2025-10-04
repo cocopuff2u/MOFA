@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 03, 2025 08:26 PM EDT</last_updated>
+    <last_updated>October 03, 2025 09:33 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -151,15 +151,15 @@
         <application_name>Company Portal.app</application_name>
         <CFBundleVersion>com.microsoft.intune.companyportal</CFBundleVersion>
         <short_version>5.2508.1</short_version>
-        <full_version>53.2509391.003</full_version>
-        <last_updated>September 24, 2025</last_updated>
+        <full_version>53.2510398.003</full_version>
+        <last_updated>October 03, 2025</last_updated>
         <min_os>11.0</min_os>
         <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg</app_only_update_download>
         <app_update_sha1>a8417ea53b0e6850f02103e2709c1c18640e9aee</app_update_sha1>
         <app_update_sha256>1122aca4be1798d8a21bfab165419a74ed80af9d28b4eed459cdc6e6c224d7a3</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=853070</full_update_download>
-        <full_update_sha1>0b7695bc21a342ab752865881a0ed35757ae082e</full_update_sha1>
-        <full_update_sha256>90f8d1ecd9ca775eb8270bbae41a357f590866baad0e2916e1bb4a3af93706a0</full_update_sha256>
+        <full_update_sha1>10d1a414b73f688a1c863931e39e8d1b453a5af3</full_update_sha1>
+        <full_update_sha256>338cf15c374d24c3467492f55300fbad74b2c75cc09eda8a9f7fd57fb289cc48</full_update_sha256>
     </package>
     <package>
         <name>Defender For Endpoint</name>

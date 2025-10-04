@@ -1,4 +1,4 @@
-last_updated: October 03, 2025 08:26 PM EDT
+last_updated: October 03, 2025 09:34 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -89,8 +89,8 @@ packages:
   application_name: Company Portal.app
   CFBundleVersion: com.microsoft.intune.companyportal
   short_version: 5.2508.1
-  full_version: 53.2509391.003
-  last_updated: September 24, 2025
+  full_version: 53.2510398.003
+  last_updated: October 03, 2025
   min_os: '11.0'
   update_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg
   latest_download: https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 05, 2025 10:05 AM EDT",
+    "last_updated": "October 05, 2025 11:06 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -305,11 +305,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "September 24, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/6f/ea/696fea7c-d98b-5155-df22-7e9e007339f8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 05, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/a8/72/99a87281-2ad7-00f1-cdc9-24325fbd92a0/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "35.3"
+            "version": "35.4"
         },
         {
             "name": "iOS Microsoft 365 Admin",

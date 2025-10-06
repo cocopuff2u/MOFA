@@ -1,29 +1,29 @@
-last_updated: October 06, 2025 04:07 PM EDT
+last_updated: October 06, 2025 05:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: September 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/22/b0/bd22b0d7-f418-d08a-dbed-cfb9dc65618e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/d3/06/d4d306d1-2f8e-c9a7-d8d1-41d95e6ea213/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.101.2
+    version: 2.101.3
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: September 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/14/63/87146392-14be-d29b-5779-e8cfe6938c22/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/79/84/ff798481-6efa-5437-956a-b9ce9485f244/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.101.2
+    version: 2.101.3
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: September 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/6d/1a/e56d1a7b-523f-931a-50a6-a7f4cb5d2a1d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/67/3f/ba673fb3-5638-268d-1965-3036a1a18cd8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.101.2
+    version: 2.101.3
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -135,11 +135,11 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: Store Commerce
     bundleId: com.microsoft.storecommerce
-    currentVersionReleaseDate: September 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/84/fa/0a84fa3e-f437-e265-7426-9e51db64d613/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: October 05, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/29/9a/38299ab4-f9a1-9f1e-d6e5-559029584f5a/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements.
-    version: 9.54.25267
+    version: 9.55.25276
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 for phones
     bundleId: com.microsoft.dynamics.iphone.moca

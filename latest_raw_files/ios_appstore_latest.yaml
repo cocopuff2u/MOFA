@@ -1,4 +1,4 @@
-last_updated: October 06, 2025 06:06 PM EDT
+last_updated: October 06, 2025 07:06 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -27,26 +27,26 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: September 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/20/33/ec20335d-0786-dcca-3b16-23d05ccb9fb5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f3/c9/edf3c9d9-acbc-6a36-352b-7e59f2553957/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2538.0
+    version: 4.2539.0
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: September 29, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/83/26/f383260a-2d73-4c7a-167d-d93d9dd2aafa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/53/b0/5753b02b-38df-a1d0-ccc3-cce8a95122e0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.101.2
+    version: 16.101.3
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive

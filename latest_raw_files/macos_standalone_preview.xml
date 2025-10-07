@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 07, 2025 01:06 PM EDT</last_updated>
+    <last_updated>October 07, 2025 02:15 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -105,8 +105,8 @@
         <application_name>Company Portal.app</application_name>
         <CFBundleVersion>com.microsoft.intune.companyportal</CFBundleVersion>
         <short_version>5.2508.1</short_version>
-        <full_version>53.2510398.003</full_version>
-        <last_updated>October 03, 2025</last_updated>
+        <full_version>53.2510402.003</full_version>
+        <last_updated>October 06, 2025</last_updated>
         <min_os>11.0</min_os>
         <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg</update_download>
         <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg</latest_download>
@@ -188,13 +188,13 @@
         <application_id>MSau04</application_id>
         <application_name>Microsoft AutoUpdate.app</application_name>
         <CFBundleVersion>com.microsoft.autoupdate</CFBundleVersion>
-        <short_version>4.80 (25073044)</short_version>
-        <full_version>4.80.25073044</full_version>
-        <last_updated>July 30, 2025</last_updated>
+        <short_version>4.80 (25092610)</short_version>
+        <full_version>4.80.25092610</full_version>
+        <last_updated>September 26, 2025</last_updated>
         <min_os>10.14.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.80.25073044_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.80.25073044_Updater.pkg</latest_download>
-        <sha1>7f940094fe60d562d74cec2e2c7a06d39ead4c14</sha1>
-        <sha256>faea6b0b7ec5a16427387be1a4a08bb3915ffd7fba5ef5c49b94cb4e011d0dab</sha256>
+        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg</update_download>
+        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg</latest_download>
+        <sha1>3a8b0ba79343fdbdba5029cfc6c7db66fe9acfdf</sha1>
+        <sha256>0bf87390c369931fab790d9e7570c66f5f160e0c120b4bc0564bfacffcb74742</sha256>
     </package>
 </latest>

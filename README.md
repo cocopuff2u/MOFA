@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 08, 2025 06:07 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 08, 2025 07:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -122,15 +122,15 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 08, 2025 06:07 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 08, 2025 07:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
 | Microsoft Word | `16.101.2` | `com.microsoft.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/61/ed/2061edcf-cabc-c0ef-f97f-12f23a4a7c15/MSWD.png/512x512bb.png" alt="Microsoft Word" width="40"> |
-| Microsoft Excel | `16.101.3` | `com.microsoft.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/55/21/4e552157-c653-71a3-0a4f-e199e67dc009/XCEL.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
-| Microsoft PowerPoint | `16.101.3` | `com.microsoft.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/a1/d283a1f0-2c72-ed02-3e77-e8dc0cb33ec7/PPT3.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
-| Microsoft Outlook | `16.101.3` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/dc/a4/6cdca40c-ef09-03ea-70a7-430d43cf4b51/Outlook.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
-| Microsoft OneNote | `16.101.3` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/83/06/a383065c-71e5-96ae-d0a6-906bc4008b96/OneNote.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
+| Microsoft Excel | `16.101.2` | `com.microsoft.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/99/d5/c499d5b2-0b5f-cbc3-fd87-3b335c187d13/XCEL.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
+| Microsoft PowerPoint | `16.101.2` | `com.microsoft.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/48/41/d1484150-15dc-e729-e98b-be94211bfa21/PPT3.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
+| Microsoft Outlook | `16.101.2` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/18/a2/d218a295-78d9-e06d-0fb2-84a12b26e65b/Outlook.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
+| Microsoft OneNote | `16.101.2` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/78/a7/6d78a792-db0a-3ee4-1fe9-9f0f062ca414/OneNote.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
 | OneDrive | `25.174.0907` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/6e/d1/0f6ed1ec-875d-8688-b076-d59edaaf4aab/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
 | Windows App | `11.2.4` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c2/04/eac2049c-e5b5-cf01-b6dc-83415b44ab06/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
 | Microsoft To Do | `2.156` | `com.microsoft.to-do-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/e5/33/a4e533cf-2fa7-3563-f9f9-dfd9608e2064/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png" alt="Microsoft To Do" width="40"> |
@@ -140,7 +140,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 08, 2025 06:07 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 08, 2025 07:06 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

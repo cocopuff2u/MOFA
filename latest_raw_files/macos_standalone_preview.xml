@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 08, 2025 12:08 PM EDT</last_updated>
+    <last_updated>October 08, 2025 01:07 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -105,13 +105,13 @@
         <application_name>Company Portal.app</application_name>
         <CFBundleVersion>com.microsoft.intune.companyportal</CFBundleVersion>
         <short_version>5.2508.1</short_version>
-        <full_version>53.2510402.003</full_version>
-        <last_updated>October 06, 2025</last_updated>
+        <full_version>53.2510404.003</full_version>
+        <last_updated>October 07, 2025</last_updated>
         <min_os>11.0</min_os>
         <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg</update_download>
         <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg</latest_download>
-        <sha1>a8417ea53b0e6850f02103e2709c1c18640e9aee</sha1>
-        <sha256>1122aca4be1798d8a21bfab165419a74ed80af9d28b4eed459cdc6e6c224d7a3</sha256>
+        <sha1>b780994ea36313281dec49619c1b895956725394</sha1>
+        <sha256>ac165e3a3c364b9def29c07a7719ac0c4fd541309dbdb1e3a57485bedb8f526d</sha256>
     </package>
     <package>
         <name>Edge</name>

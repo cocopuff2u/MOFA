@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 08, 2025 12:08 PM EDT",
+    "last_updated": "October 08, 2025 01:07 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -105,13 +105,13 @@
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
             "short_version": "5.2508.1",
-            "full_version": "53.2510402.003",
-            "last_updated": "October 06, 2025",
+            "full_version": "53.2510404.003",
+            "last_updated": "October 07, 2025",
             "min_os": "11.0",
             "update_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg",
             "latest_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg",
-            "sha1": "e17035117e098e1455f768e81896daa7bd65411a",
-            "sha256": "f999265ed98a7a795ef7bceec0051e6bd7c09fefbf4548279c8557609fcb1336"
+            "sha1": "b780994ea36313281dec49619c1b895956725394",
+            "sha256": "ac165e3a3c364b9def29c07a7719ac0c4fd541309dbdb1e3a57485bedb8f526d"
         },
         {
             "name": "Edge",

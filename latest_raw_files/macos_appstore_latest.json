@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 08, 2025 06:07 AM EDT",
+    "last_updated": "October 08, 2025 07:06 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -15,41 +15,41 @@
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "October 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/55/21/4e552157-c653-71a3-0a4f-e199e67dc009/XCEL.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 30, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/99/d5/c499d5b2-0b5f-cbc3-fd87-3b335c187d13/XCEL.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.101.3"
+            "version": "16.101.2"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "October 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/a1/d283a1f0-2c72-ed02-3e77-e8dc0cb33ec7/PPT3.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 30, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/48/41/d1484150-15dc-e729-e98b-be94211bfa21/PPT3.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.101.3"
+            "version": "16.101.2"
         },
         {
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "October 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/dc/a4/6cdca40c-ef09-03ea-70a7-430d43cf4b51/Outlook.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 30, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/18/a2/d218a295-78d9-e06d-0fb2-84a12b26e65b/Outlook.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "General quality and performance enhancements.",
-            "version": "16.101.3"
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "16.101.2"
         },
         {
             "name": "MacOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote.mac",
-            "currentVersionReleaseDate": "October 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/83/06/a383065c-71e5-96ae-d0a6-906bc4008b96/OneNote.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 30, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/78/a7/6d78a792-db0a-3ee4-1fe9-9f0f062ca414/OneNote.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.\nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.101.3"
+            "version": "16.101.2"
         },
         {
             "name": "MacOS Microsoft OneDrive",

@@ -278,6 +278,23 @@ apps = {
             "min_os": "Minimum OS",
             "latest_download": "Location"
         }
+    },
+    "Windows App Beta": {
+        "type": "appcenter",
+        "base": "https://install.appcenter.ms/api/v0.1/apps/rdmacios-k2vy/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac",
+        "manual_entries": {
+            "CFBundleVersion": "com.microsoft.windows.app",
+            "application_name": "Windows App Beta.app",
+            "application_id": "N/A",
+            "min_os": "N/A"
+        },
+        "keys": {
+            "short_version": "short_version",
+            "full_version": "short_version",
+            "last_updated": "uploaded_at",
+            "update_download": "download_url",
+            "latest_download": "download_url"
+        }
     }
 }
 
@@ -325,6 +342,73 @@ existing_data = read_existing_xml("latest_raw_files/macos_standalone_beta.xml")
 def fetch_and_process(app_name, config):
     try:
         logging.info("-" * 50)
+        # App Center special handling (two-step JSON: list then details)
+        if config.get("type") == "appcenter":
+            base = config.get("base")
+            if not base:
+                raise ValueError(f"Missing 'base' for App Center app: {app_name}")
+
+            list_url = f"{base}/public_releases"
+            logging.info(f"Fetching App Center releases for {app_name} from {list_url}...")
+            list_resp = requests.get(list_url, timeout=30)
+            list_resp.raise_for_status()
+            releases = list_resp.json()
+
+            if not releases:
+                raise ValueError(f"No App Center releases found for {app_name} (group may be private).")
+
+            latest = releases[0]
+            release_id = latest.get("id")
+            if not release_id:
+                raise ValueError(f"Latest App Center release missing 'id' for {app_name}.")
+
+            detail_url = f"{base}/releases/{release_id}"
+            logging.info(f"Fetching App Center release details for {app_name} from {detail_url}...")
+            detail_resp = requests.get(detail_url, timeout=30)
+            detail_resp.raise_for_status()
+            info = detail_resp.json()
+
+            extracted_data = process_json_data(info, config)
+            extracted_data.update(config.get("manual_entries", {}))
+            logging.info(f"Extracted data (App Center): {extracted_data}")
+
+            # Special handling for OneDrive
+            if app_name == "OneDrive":
+                extracted_data["last_updated"] = last_update_date_time
+
+            # Change detection and SHA handling
+            if app_name in existing_data:
+                existing_app_data = existing_data[app_name]["data"]
+                # Only compare short_version for App Center updates
+                old_short = existing_app_data.get("short_version", "N/A")
+                new_short = extracted_data.get("short_version", "N/A")
+                changes_detected = old_short != new_short
+                logging.info(f"App Center change check (short_version): old={old_short}, new={new_short}, changed={changes_detected}")
+
+                if not changes_detected:
+                    logging.info(f"No update for {app_name}. Skipping SHA checks.")
+                    add_to_combined_xml(app_name, existing_app_data)
+                else:
+                    logging.info(f"Update detected for {app_name}.")
+                    download_url = extracted_data.get("latest_download")
+                    if extracted_data.get("sha1", "N/A") == "N/A":
+                        logging.info(f"Download URL for SHA1: {download_url}")
+                        extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
+                    if extracted_data.get("sha256", "N/A") == "N/A":
+                        logging.info(f"Download URL for SHA256: {download_url}")
+                        extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
+                    add_to_combined_xml(app_name, extracted_data)
+            else:
+                logging.info(f"New app {app_name} detected.")
+                download_url = extracted_data.get("latest_download")
+                logging.info(f"Download URL for SHA1: {download_url}")
+                extracted_data["sha1"] = compute_sha1(download_url) if download_url else "N/A"
+                logging.info(f"Download URL for SHA256: {download_url}")
+                extracted_data["sha256"] = compute_sha256(download_url) if download_url else "N/A"
+                add_to_combined_xml(app_name, extracted_data)
+
+            return  # Important: stop here for App Center path
+
         logging.info(f"Fetching data for {app_name} from {config['url']}...")
         response = requests.get(config["url"], allow_redirects=True)
         response.raise_for_status()

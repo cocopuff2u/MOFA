@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 09, 2025 02:09 PM EDT",
+    "last_updated": "October 09, 2025 02:24 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -196,6 +196,20 @@
             "latest_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg",
             "sha1": "3a8b0ba79343fdbdba5029cfc6c7db66fe9acfdf",
             "sha256": "0bf87390c369931fab790d9e7570c66f5f160e0c120b4bc0564bfacffcb74742"
+        },
+        {
+            "name": "Windows App Beta",
+            "application_id": "N/A",
+            "application_name": "Windows App Beta.app",
+            "CFBundleVersion": "com.microsoft.windows.app",
+            "short_version": "11.2.4",
+            "full_version": "11.2.4",
+            "last_updated": "September 30, 2025",
+            "min_os": "N/A",
+            "update_download": "https://appcenter-filemanagement-distrib1ede6f06e-a6b7akbshagxhcfs.z01.azurefd.net/c743f01a-b3a8-4b8c-ba41-472fe4f12bcc/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=7nzjW%2BPHT2e2G4UFobGAO3yy1wQ1EFAzrWNKntJv950%3D&skoid=a1849515-0f61-4610-b6c3-e62ad91d7412&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2025-10-09T06%3A35%3A04Z&ske=2025-10-10T06%3A40%3A04Z&sks=b&skv=2019-07-07&se=2025-10-10T06%3A40%3A04Z&sp=r",
+            "latest_download": "https://appcenter-filemanagement-distrib1ede6f06e-a6b7akbshagxhcfs.z01.azurefd.net/c743f01a-b3a8-4b8c-ba41-472fe4f12bcc/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=7nzjW%2BPHT2e2G4UFobGAO3yy1wQ1EFAzrWNKntJv950%3D&skoid=a1849515-0f61-4610-b6c3-e62ad91d7412&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2025-10-09T06%3A35%3A04Z&ske=2025-10-10T06%3A40%3A04Z&sks=b&skv=2019-07-07&se=2025-10-10T06%3A40%3A04Z&sp=r",
+            "sha1": "ae56b89c1bcd57109725af198567dea9dc8648a3",
+            "sha256": "c4fc99e21952f4a73a616cca480abe19d9dd545ac2b9d4a2569a0ea885f37b9b"
         }
     ]
 }

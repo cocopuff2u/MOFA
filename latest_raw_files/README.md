@@ -4,7 +4,7 @@ This directory contains raw output information related to Microsoft Standalone A
 
 ## 🛠️ Repository Overview
 
-- **Scripts Location**: All scripts used to retrieve and process the data are located in the `/.github/actions/` directory of the repository. These scripts automate the fetching and formatting of app data from Microsoft-provided feeds. The raw data is automatically updated every 4 hours using a GitHub Action, which is triggered by workflows located in the `/.github/workflows/` directory.
+- **Scripts Location**: All scripts used to retrieve and process the data are located in the `/.github/actions/` directory of the repository. These scripts automate the fetching and formatting of app data from Microsoft-provided feeds. The raw data is automatically updated every 1 hour using a GitHub Action, which is triggered by workflows located in the `/.github/workflows/` directory.
   - **Purpose**: The scripts collect app metadata, convert it into multiple formats, and ensure the information remains current.
 
 ## 📄 File Outputs

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 09, 2025 03:06 PM EDT",
+    "last_updated": "October 09, 2025 04:07 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -246,16 +246,16 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.80 (25073044)",
-            "full_version": "4.80.25073044",
-            "last_updated": "July 30, 2025",
+            "short_version": "4.80 (25092610)",
+            "full_version": "4.80.25092610",
+            "last_updated": "September 26, 2025",
             "min_os": "10.14.0",
-            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.80.25073044_Updater.pkg",
-            "app_update_sha1": "7f940094fe60d562d74cec2e2c7a06d39ead4c14",
-            "app_update_sha256": "faea6b0b7ec5a16427387be1a4a08bb3915ffd7fba5ef5c49b94cb4e011d0dab",
+            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg",
+            "app_update_sha1": "3a8b0ba79343fdbdba5029cfc6c7db66fe9acfdf",
+            "app_update_sha256": "0bf87390c369931fab790d9e7570c66f5f160e0c120b4bc0564bfacffcb74742",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=830196",
-            "full_update_sha1": "7f940094fe60d562d74cec2e2c7a06d39ead4c14",
-            "full_update_sha256": "faea6b0b7ec5a16427387be1a4a08bb3915ffd7fba5ef5c49b94cb4e011d0dab"
+            "full_update_sha1": "3a8b0ba79343fdbdba5029cfc6c7db66fe9acfdf",
+            "full_update_sha256": "0bf87390c369931fab790d9e7570c66f5f160e0c120b4bc0564bfacffcb74742"
         },
         {
             "name": "Licensing Helper Tool",

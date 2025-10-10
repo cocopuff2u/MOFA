@@ -1,4 +1,4 @@
-last_updated: October 10, 2025 02:10 AM EDT
+last_updated: October 10, 2025 03:07 AM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -242,16 +242,16 @@ packages:
   application_id: MSQA01
   application_name: Microsoft Quick Assist.app
   CFBundleVersion: com.microsoft.quickassist
-  short_version: 1.0.2411113
-  full_version: 1.0.2411113
-  last_updated: November 12, 2024
+  short_version: 1.0.2510032
+  full_version: 1.0.2510032
+  last_updated: October 09, 2025
   min_os: '12.0'
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2411113_updater.pkg
-  app_update_sha1: 49db1be5bbb8091ea260631247d7de93c49afb9c
-  app_update_sha256: 2fdab5e1815862c9b3583257c485b088aa46c86e5609cad09bfa13a3a092a0e1
-  full_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2411113_updater.pkg
-  full_update_sha1: 49db1be5bbb8091ea260631247d7de93c49afb9c
-  full_update_sha256: 2fdab5e1815862c9b3583257c485b088aa46c86e5609cad09bfa13a3a092a0e1
+  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2510032_updater.pkg
+  app_update_sha1: d1a7b8628817f73133f9508b3f1321b50af93d69
+  app_update_sha256: 294bed3d1cab280056ff20b22c65486381c976b10c1e4e2ae9559404484ec55a
+  full_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2510032_updater.pkg
+  full_update_sha1: d1a7b8628817f73133f9508b3f1321b50af93d69
+  full_update_sha256: 294bed3d1cab280056ff20b22c65486381c976b10c1e4e2ae9559404484ec55a
 - name: Remote Help
   application_id: MSRH01
   application_name: Microsoft Remote Help.app

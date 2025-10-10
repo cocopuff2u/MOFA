@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 10, 2025 02:10 AM EDT</last_updated>
+    <last_updated>October 10, 2025 03:07 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -278,16 +278,16 @@
         <application_id>MSQA01</application_id>
         <application_name>Microsoft Quick Assist.app</application_name>
         <CFBundleVersion>com.microsoft.quickassist</CFBundleVersion>
-        <short_version>1.0.2411113</short_version>
-        <full_version>1.0.2411113</full_version>
-        <last_updated>November 12, 2024</last_updated>
+        <short_version>1.0.2510032</short_version>
+        <full_version>1.0.2510032</full_version>
+        <last_updated>October 09, 2025</last_updated>
         <min_os>12.0</min_os>
-        <app_only_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2411113_updater.pkg</app_only_update_download>
-        <app_update_sha1>49db1be5bbb8091ea260631247d7de93c49afb9c</app_update_sha1>
-        <app_update_sha256>2fdab5e1815862c9b3583257c485b088aa46c86e5609cad09bfa13a3a092a0e1</app_update_sha256>
-        <full_update_download>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2411113_updater.pkg</full_update_download>
-        <full_update_sha1>49db1be5bbb8091ea260631247d7de93c49afb9c</full_update_sha1>
-        <full_update_sha256>2fdab5e1815862c9b3583257c485b088aa46c86e5609cad09bfa13a3a092a0e1</full_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2510032_updater.pkg</app_only_update_download>
+        <app_update_sha1>d1a7b8628817f73133f9508b3f1321b50af93d69</app_update_sha1>
+        <app_update_sha256>294bed3d1cab280056ff20b22c65486381c976b10c1e4e2ae9559404484ec55a</app_update_sha256>
+        <full_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Quick_Assist_1.0.2510032_updater.pkg</full_update_download>
+        <full_update_sha1>d1a7b8628817f73133f9508b3f1321b50af93d69</full_update_sha1>
+        <full_update_sha256>294bed3d1cab280056ff20b22c65486381c976b10c1e4e2ae9559404484ec55a</full_update_sha256>
     </package>
     <package>
         <name>Remote Help</name>

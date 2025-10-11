@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 11, 2025 10:05 AM EDT",
+    "last_updated": "October 11, 2025 11:05 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -345,11 +345,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "October 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/8b/37/8d8b3705-3270-cb43-1496-c19b68455869/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "17.0",
+            "currentVersionReleaseDate": "October 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/3f/b4/6d3fb450-0e39-c2eb-9782-9f729a2b1a5a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.101.3"
+            "version": "2.102.1"
         },
         {
             "name": "iOS Microsoft Skype for Business",

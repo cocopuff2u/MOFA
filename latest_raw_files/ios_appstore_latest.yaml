@@ -1,4 +1,4 @@
-last_updated: October 13, 2025 05:08 AM EDT
+last_updated: October 13, 2025 06:08 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -15,19 +15,27 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: October 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/79/84/ff798481-6efa-5437-956a-b9ce9485f244/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.101.3
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/cb/4c/4fcb4cbd-5a77-0964-c1ed-47b8e2a24441/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
+    releaseNotes: "\u2022 Introducing the New Home Experience: Now available on iOS\
+      \ 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid\
+      \ Glass effects, streamlined file and template browsing, and a simplified search\
+      \ experience. Optimized for better performance, this update brings a refreshed\
+      \ look and smoother navigation to help you get to your content faster."
+    version: 2.102.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: October 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/67/3f/ba673fb3-5638-268d-1965-3036a1a18cd8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.101.3
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/15/56/cb155672-aeb3-07cd-70c3-4a28967dc57f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
+    releaseNotes: "\u2022 Introducing the New Home Experience: Now available on iOS\
+      \ 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid\
+      \ Glass effects, streamlined file and template browsing, and a simplified search\
+      \ experience. Optimized for better performance, this update brings a refreshed\
+      \ look and smoother navigation to help you get to your content faster."
+    version: 2.102.1
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -329,11 +337,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: October 05, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/a8/72/99a87281-2ad7-00f1-cdc9-24325fbd92a0/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: October 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/66/51/e16651d0-b182-3f83-3a6b-ddbe7971d189/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "- Improved stability and fixed various bugs.\u200B"
-    version: '35.4'
+    version: '35.5'
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin
     bundleId: com.microsoft.o365shdmobileapp

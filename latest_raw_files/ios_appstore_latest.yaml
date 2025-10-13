@@ -1,29 +1,41 @@
-last_updated: October 13, 2025 03:05 PM EDT
+last_updated: October 13, 2025 04:07 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: October 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/b1/99/acb199bc-5251-7069-9d0a-bffce58f50d5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/9c/75/9f9c7527-38e1-e9f1-9270-07ebec1d40f5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: '2.102'
+    releaseNotes: "\u2022 Introducing the New Home Experience: Now available on iOS\
+      \ 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid\
+      \ Glass effects, streamlined file and template browsing, and a simplified search\
+      \ experience. Optimized for better performance, this update brings a refreshed\
+      \ look and smoother navigation to help you get to your content faster."
+    version: 2.102.1
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: October 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/79/84/ff798481-6efa-5437-956a-b9ce9485f244/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.101.3
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/cb/4c/4fcb4cbd-5a77-0964-c1ed-47b8e2a24441/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
+    releaseNotes: "\u2022 Introducing the New Home Experience: Now available on iOS\
+      \ 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid\
+      \ Glass effects, streamlined file and template browsing, and a simplified search\
+      \ experience. Optimized for better performance, this update brings a refreshed\
+      \ look and smoother navigation to help you get to your content faster."
+    version: 2.102.1
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: October 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/67/3f/ba673fb3-5638-268d-1965-3036a1a18cd8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.101.3
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/15/56/cb155672-aeb3-07cd-70c3-4a28967dc57f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
+    releaseNotes: "\u2022 Introducing the New Home Experience: Now available on iOS\
+      \ 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid\
+      \ Glass effects, streamlined file and template browsing, and a simplified search\
+      \ experience. Optimized for better performance, this update brings a refreshed\
+      \ look and smoother navigation to help you get to your content faster."
+    version: 2.102.1
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -38,44 +50,23 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: October 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/53/b0/5753b02b-38df-a1d0-ccc3-cce8a95122e0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/d8/bb/f3d8bb81-d347-8346-7903-321d31d4e732/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.101.3
+    version: 16.102.1
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: October 03, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/e4/17/59e4178c-0b8f-4e78-0c97-a417fd91baf3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/78/b3/cf78b39d-0e61-5230-b8ed-a048f7dbb158/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "We\u2019ve been busy behind the scenes making OneDrive even better.\
-      \ Here\u2019s what\u2019s new and improved:\n\nNew\n- Audio Overviews for Business:\
-      \ Stay informed with quick audio summaries tailored for your business files\
-      \ \u2014 perfect for catching up while on the move.\n- Moments Pivot: Introducing\
-      \ the new Moments Pivot \u2014 a dedicated space where you can revisit your\
-      \ most memorable and meaningful photo highlights. It\u2019s your personal gallery\
-      \ of joy, curated by OneDrive.\n- Photo Stacks: Similar photos are now grouped\
-      \ together, clearing the clutter of your gallery and easier to browse\n- Shared\
-      \ Folders in Folder Picker: Access shared folders directly from the folder picker\
-      \ \u2014 making collaboration smoother than ever.\n\nFixed & Improved\nWe\u2019\
-      ve made a number of behind-the-scenes improvements to keep things running smoothly:\n\
-      - Gallery updates: Deleted items now disappear instantly.\n- Folder Picker:\
-      \ Improved folder creation, rename, and scan flows.\n- Vault: Enhanced settings\
-      \ and empty vault view experience.\n- Capture: Scan flows are now more responsive.\n\
-      - General performance and stability improvements across the app.\n\nThanks for\
-      \ using OneDrive! We\u2019re always working to improve your experience. If you\
-      \ run into any issues, just shake your device and tap \u201CSend Feedback.\u201D\
-      \n\n/** These notes were generated using Copilot\n\n\nWe would like to let our\
-      \ users know that we are planning on dropping support for the OneDrive app on\
-      \ iOS 17 and iPadOS 17 versions soon. Please ensure you're on one of the later\
-      \ versions of iOS/iPadOS (18 or 26) to make sure you're still able to access\
-      \ the latest version of the OneDrive app."
-    version: 16.24.3
+    releaseNotes: This update contains bug fixes and stability improvements.
+    version: 16.25.5
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
     bundleId: com.microsoft.rdc.ios
@@ -117,11 +108,11 @@ packages:
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
-    currentVersionReleaseDate: September 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7d/6e/a67d6e7b-d86a-0068-7227-d4686d67c96f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/7f/ce/667fce09-43ef-b6a1-d1d1-74a5b72cf3b3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '2.101'
+    version: 2.102.1
   - name: iOS Microsoft Warehouse Management
     application_name: Microsoft Warehouse Management
     bundleId: com.microsoft.WarehouseManagement
@@ -206,18 +197,16 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: September 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/70/e0/3870e00e-2baf-9bb7-94e0-a641be45d54b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/ee/16/9bee16de-7b0a-975b-e73e-9ef68f8b00bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts\
       \ to your needs, delivering quick answers or deeper insights with expert results.\n\
-      \u2022 Extensions Now Available on iOS: Explore Immersive Translate, Keepa,\
-      \ Coupert, and more for a personalized and productive browsing experience. (Available\
-      \ now on iPhone with iOS 18.4 or later. Extension support for iPad is coming\
-      \ soon.)\nUpgrade now to experience a smarter, faster, and more productive Microsoft\
+      \u2022 Clear Browsing Data: Protect your privacy easily with one tap from the\
+      \ menu.\nUpgrade now to experience a smarter, faster, and more productive Microsoft\
       \ Edge!"
-    version: 140.3485.94
+    version: 141.3537.72
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai

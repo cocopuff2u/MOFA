@@ -1,41 +1,29 @@
-last_updated: October 13, 2025 02:09 PM EDT
+last_updated: October 13, 2025 03:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: October 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/9c/75/9f9c7527-38e1-e9f1-9270-07ebec1d40f5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/b1/99/acb199bc-5251-7069-9d0a-bffce58f50d5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Introducing the New Home Experience: Now available on iOS\
-      \ 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid\
-      \ Glass effects, streamlined file and template browsing, and a simplified search\
-      \ experience. Optimized for better performance, this update brings a refreshed\
-      \ look and smoother navigation to help you get to your content faster."
-    version: 2.102.1
+    releaseNotes: "\u2022 Bug fixes"
+    version: '2.102'
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: October 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/cb/4c/4fcb4cbd-5a77-0964-c1ed-47b8e2a24441/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Introducing the New Home Experience: Now available on iOS\
-      \ 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid\
-      \ Glass effects, streamlined file and template browsing, and a simplified search\
-      \ experience. Optimized for better performance, this update brings a refreshed\
-      \ look and smoother navigation to help you get to your content faster."
-    version: 2.102.1
+    currentVersionReleaseDate: October 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/79/84/ff798481-6efa-5437-956a-b9ce9485f244/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.101.3
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: October 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/15/56/cb155672-aeb3-07cd-70c3-4a28967dc57f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Introducing the New Home Experience: Now available on iOS\
-      \ 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid\
-      \ Glass effects, streamlined file and template browsing, and a simplified search\
-      \ experience. Optimized for better performance, this update brings a refreshed\
-      \ look and smoother navigation to help you get to your content faster."
-    version: 2.102.1
+    currentVersionReleaseDate: October 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/67/3f/ba673fb3-5638-268d-1965-3036a1a18cd8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.101.3
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
@@ -50,15 +38,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: October 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/d8/bb/f3d8bb81-d347-8346-7903-321d31d4e732/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.0'
+    currentVersionReleaseDate: October 06, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/53/b0/5753b02b-38df-a1d0-ccc3-cce8a95122e0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.102.1
+    version: 16.101.3
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
@@ -129,11 +117,11 @@ packages:
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
-    currentVersionReleaseDate: October 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/7f/ce/667fce09-43ef-b6a1-d1d1-74a5b72cf3b3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.0'
+    currentVersionReleaseDate: September 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7d/6e/a67d6e7b-d86a-0068-7227-d4686d67c96f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.102.1
+    version: '2.101'
   - name: iOS Microsoft Warehouse Management
     application_name: Microsoft Warehouse Management
     bundleId: com.microsoft.WarehouseManagement

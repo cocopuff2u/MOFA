@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 14, 2025 12:08 PM EDT",
+    "last_updated": "October 14, 2025 01:08 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "Store Commerce",
             "bundleId": "com.microsoft.storecommerce",
-            "currentVersionReleaseDate": "October 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/20/f2/8c20f2e0-f963-bf56-2d1d-7932e4cc0e20/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 05, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/29/9a/38299ab4-f9a1-9f1e-d6e5-559029584f5a/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "9.55.25283"
+            "version": "9.55.25276"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",

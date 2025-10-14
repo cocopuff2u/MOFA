@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 14, 2025 06:06 PM EDT",
+    "last_updated": "October 14, 2025 07:06 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -55,11 +55,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "October 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/78/b3/cf78b39d-0e61-5230-b8ed-a048f7dbb158/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 03, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/e4/17/59e4178c-0b8f-4e78-0c97-a417fd91baf3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.25.5"
+            "releaseNotes": "We\u2019ve been busy behind the scenes making OneDrive even better. Here\u2019s what\u2019s new and improved:\n\nNew\n- Audio Overviews for Business: Stay informed with quick audio summaries tailored for your business files \u2014 perfect for catching up while on the move.\n- Moments Pivot: Introducing the new Moments Pivot \u2014 a dedicated space where you can revisit your most memorable and meaningful photo highlights. It\u2019s your personal gallery of joy, curated by OneDrive.\n- Photo Stacks: Similar photos are now grouped together, clearing the clutter of your gallery and easier to browse\n- Shared Folders in Folder Picker: Access shared folders directly from the folder picker \u2014 making collaboration smoother than ever.\n\nFixed & Improved\nWe\u2019ve made a number of behind-the-scenes improvements to keep things running smoothly:\n- Gallery updates: Deleted items now disappear instantly.\n- Folder Picker: Improved folder creation, rename, and scan flows.\n- Vault: Enhanced settings and empty vault view experience.\n- Capture: Scan flows are now more responsive.\n- General performance and stability improvements across the app.\n\nThanks for using OneDrive! We\u2019re always working to improve your experience. If you run into any issues, just shake your device and tap \u201cSend Feedback.\u201d\n\n/** These notes were generated using Copilot\n\n\nWe would like to let our users know that we are planning on dropping support for the OneDrive app on iOS 17 and iPadOS 17 versions soon. Please ensure you're on one of the later versions of iOS/iPadOS (18 or 26) to make sure you're still able to access the latest version of the OneDrive app.",
+            "version": "16.24.3"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",

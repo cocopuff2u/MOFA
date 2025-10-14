@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 14, 2025 04:08 AM EDT",
+    "last_updated": "October 14, 2025 05:08 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -25,41 +25,41 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "October 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/67/3f/ba673fb3-5638-268d-1965-3036a1a18cd8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.101.3"
+            "currentVersionReleaseDate": "October 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/15/56/cb155672-aeb3-07cd-70c3-4a28967dc57f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "18.0",
+            "releaseNotes": "\u2022 Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.",
+            "version": "2.102.1"
         },
         {
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "October 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f3/c9/edf3c9d9-acbc-6a36-352b-7e59f2553957/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/07/75/5f077594-580b-9908-ef80-50299e3d340a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2539.0"
+            "version": "4.2539.1"
         },
         {
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "October 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/53/b0/5753b02b-38df-a1d0-ccc3-cce8a95122e0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "17.0",
+            "currentVersionReleaseDate": "October 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/d8/bb/f3d8bb81-d347-8346-7903-321d31d4e732/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "18.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.101.3"
+            "version": "16.102.1"
         },
         {
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "October 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/e4/17/59e4178c-0b8f-4e78-0c97-a417fd91baf3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/78/b3/cf78b39d-0e61-5230-b8ed-a048f7dbb158/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "We\u2019ve been busy behind the scenes making OneDrive even better. Here\u2019s what\u2019s new and improved:\n\nNew\n- Audio Overviews for Business: Stay informed with quick audio summaries tailored for your business files \u2014 perfect for catching up while on the move.\n- Moments Pivot: Introducing the new Moments Pivot \u2014 a dedicated space where you can revisit your most memorable and meaningful photo highlights. It\u2019s your personal gallery of joy, curated by OneDrive.\n- Photo Stacks: Similar photos are now grouped together, clearing the clutter of your gallery and easier to browse\n- Shared Folders in Folder Picker: Access shared folders directly from the folder picker \u2014 making collaboration smoother than ever.\n\nFixed & Improved\nWe\u2019ve made a number of behind-the-scenes improvements to keep things running smoothly:\n- Gallery updates: Deleted items now disappear instantly.\n- Folder Picker: Improved folder creation, rename, and scan flows.\n- Vault: Enhanced settings and empty vault view experience.\n- Capture: Scan flows are now more responsive.\n- General performance and stability improvements across the app.\n\nThanks for using OneDrive! We\u2019re always working to improve your experience. If you run into any issues, just shake your device and tap \u201cSend Feedback.\u201d\n\n/** These notes were generated using Copilot\n\n\nWe would like to let our users know that we are planning on dropping support for the OneDrive app on iOS 17 and iPadOS 17 versions soon. Please ensure you're on one of the later versions of iOS/iPadOS (18 or 26) to make sure you're still able to access the latest version of the OneDrive app.",
-            "version": "16.24.3"
+            "releaseNotes": "This update contains bug fixes and stability improvements.",
+            "version": "16.25.5"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",

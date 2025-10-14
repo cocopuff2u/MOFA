@@ -1,4 +1,4 @@
-last_updated: October 14, 2025 02:10 PM EDT
+last_updated: October 14, 2025 03:08 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -27,28 +27,23 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: October 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/9e/37/1b9e3744-1e33-4558-6b3f-d2a5dda3992d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
-    minimumOsVersion: '14.0'
-    releaseNotes: "Feature Updates: \n\u2022 Sync window: lets users manage how much\
-      \ email data is downloaded and stored locally for offline access by setting\
-      \ a date range (default: 60 days, maximum: 180 days). Users can also choose\
-      \ specific folders they always want to sync. \n\nResolved Issues: \n\u2022 Calendar:\
-      \ Resolved an issue that caused attendees marked as tentative to appear as free\
-      \ in the mini scheduler."
-    version: '16.102'
+    currentVersionReleaseDate: October 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/dc/a4/6cdca40c-ef09-03ea-70a7-430d43cf4b51/Outlook.png/512x512bb.png
+    minimumOsVersion: '13.0'
+    releaseNotes: General quality and performance enhancements.
+    version: 16.101.3
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: October 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/17/c9/0517c975-0e05-9b95-e0ae-e3e919aec4bb/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
-    minimumOsVersion: '14.0'
+    currentVersionReleaseDate: October 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/83/06/a383065c-71e5-96ae-d0a6-906bc4008b96/OneNote.png/512x512bb.png
+    minimumOsVersion: '13.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.102'
+    version: 16.101.3
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac

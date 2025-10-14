@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 14, 2025 04:07 PM EDT</last_updated>
+	<last_updated>October 14, 2025 05:06 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -25,36 +25,41 @@
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>October 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/a1/d283a1f0-2c72-ed02-3e77-e8dc0cb33ec7/PPT3.png/512x512bb.png</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>16.101.3</version>
+		<currentVersionReleaseDate>October 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/6b/f9/9f6bf919-930b-dfb3-fa62-b4588af0d9b5/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<minimumOsVersion>14.0</minimumOsVersion>
+		<releaseNotes>• Reference a Loop/Page when creating a presentation with Copilot: You can now reference a Loop/Page when you create a presentation with Copilot within the PowerPoint application.
+• Add topic(s) through Copilot to your existing presentation: Now, you will be able to add more content to your existing presentation using Copilot. It would help you generate/add new topic(s) with slides that are consistent in look and feel of your existing presentations.</releaseNotes>
+		<version>16.102</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>October 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/dc/a4/6cdca40c-ef09-03ea-70a7-430d43cf4b51/Outlook.png/512x512bb.png</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>General quality and performance enhancements.</releaseNotes>
-		<version>16.101.3</version>
+		<currentVersionReleaseDate>October 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/9e/37/1b9e3744-1e33-4558-6b3f-d2a5dda3992d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<minimumOsVersion>14.0</minimumOsVersion>
+		<releaseNotes>Feature Updates: 
+• Sync window: lets users manage how much email data is downloaded and stored locally for offline access by setting a date range (default: 60 days, maximum: 180 days). Users can also choose specific folders they always want to sync. 
+
+Resolved Issues: 
+• Calendar: Resolved an issue that caused attendees marked as tentative to appear as free in the mini scheduler.</releaseNotes>
+		<version>16.102</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>October 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/83/06/a383065c-71e5-96ae-d0a6-906bc4008b96/OneNote.png/512x512bb.png</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
+		<currentVersionReleaseDate>October 14, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/17/c9/0517c975-0e05-9b95-e0ae-e3e919aec4bb/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
 Thanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. 
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.101.3</version>
+		<version>16.102</version>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>

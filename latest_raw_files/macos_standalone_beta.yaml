@@ -1,4 +1,4 @@
-last_updated: October 14, 2025 04:07 PM EDT
+last_updated: October 14, 2025 05:06 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -88,14 +88,14 @@ packages:
   application_id: IMCP01
   application_name: Company Portal.app
   CFBundleVersion: com.microsoft.intune.companyportal
-  short_version: 5.2508.1
-  full_version: 53.2510404.003
-  last_updated: October 07, 2025
+  short_version: 5.2510.0
+  full_version: 53.2510408.003
+  last_updated: October 09, 2025
   min_os: '11.0'
-  update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg
-  sha1: b780994ea36313281dec49619c1b895956725394
-  sha256: ac165e3a3c364b9def29c07a7719ac0c4fd541309dbdb1e3a57485bedb8f526d
+  update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2510.0-Upgrade.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2510.0-Upgrade.pkg
+  sha1: c221f40ef784a5508c97442f9cbc28dfab16d60f
+  sha256: d62f1512045cb9c0630bb31e7f65031292e032c6aad131bd4d0ef43443e97499
 - name: Edge
   application_id: EDGE01
   application_name: Microsoft Edge.app
@@ -150,12 +150,12 @@ packages:
   CFBundleVersion: com.microsoft.VSCodeInsiders
   short_version: 1.106.0-
   full_version: 1.106.0-insider
-  last_updated: October 13, 2025
+  last_updated: October 14, 2025
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/bf56edffb59c43fa0de636c3aa1d548770b168b8/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/359fa23b39bb37e5157e99c2bc5fc81088dd8431/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
-  sha1: c9d3bd0313eb1c87e557eec14d747c02e73f700e
-  sha256: ca9c52914af256a884d27c06b786fa4515d7c562e18d6562a3e4e6f10a22fcfc
+  sha1: 99245cd9f39bbbc01a491bc76b206c5e59878bbb
+  sha256: a207e0ea97af3cbe644932c064d63561f0f6c345b9eaab570cad7c769bb7dbd4
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

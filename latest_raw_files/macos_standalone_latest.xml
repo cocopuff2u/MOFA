@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 14, 2025 02:09 PM EDT</last_updated>
+    <last_updated>October 14, 2025 03:06 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
         <application_name>Data sourced from Outlook (CurrentThrottle)</application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.101.0 (25091314)</short_version>
-        <full_version>16.101.25091314</full_version>
-        <last_updated>September 13, 2025</last_updated>
-        <min_os>13.0</min_os>
+        <short_version>16.102.0 (25101223)</short_version>
+        <full_version>16.102.25101223</full_version>
+        <last_updated>October 12, 2025</last_updated>
+        <min_os>14.0</min_os>
         <app_only_update_download>N/A</app_only_update_download>
         <app_update_sha1>N/A</app_update_sha1>
         <app_update_sha256>N/A</app_update_sha256>
@@ -22,10 +22,10 @@
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
         <application_name>Data sourced from Outlook (CurrentThrottle)</application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.101.0 (25091314)</short_version>
-        <full_version>16.101.25091314</full_version>
-        <last_updated>September 13, 2025</last_updated>
-        <min_os>13.0</min_os>
+        <short_version>16.102.0 (25101223)</short_version>
+        <full_version>16.102.25101223</full_version>
+        <last_updated>October 12, 2025</last_updated>
+        <min_os>14.0</min_os>
         <app_only_update_download>N/A</app_only_update_download>
         <app_update_sha1>N/A</app_update_sha1>
         <app_update_sha256>N/A</app_update_sha256>

@@ -1,4 +1,4 @@
-last_updated: October 13, 2025 09:34 PM EDT
+last_updated: October 13, 2025 10:33 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -39,14 +39,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: October 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f3/c9/edf3c9d9-acbc-6a36-352b-7e59f2553957/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/07/75/5f077594-580b-9908-ef80-50299e3d340a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2539.0
+    version: 4.2539.1
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
@@ -126,11 +126,11 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: Store Commerce
     bundleId: com.microsoft.storecommerce
-    currentVersionReleaseDate: October 05, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/29/9a/38299ab4-f9a1-9f1e-d6e5-559029584f5a/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/20/f2/8c20f2e0-f963-bf56-2d1d-7932e4cc0e20/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements.
-    version: 9.55.25276
+    version: 9.55.25283
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 for phones
     bundleId: com.microsoft.dynamics.iphone.moca

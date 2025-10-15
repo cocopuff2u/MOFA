@@ -1,4 +1,4 @@
-last_updated: October 15, 2025 08:12 AM EDT
+last_updated: October 15, 2025 08:26 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -156,6 +156,18 @@ packages:
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: eb2ffcc3484f6aebada13fc33066bbce1229531e
   sha256: 1a2fbe9f83d9464f919842651a1cf5214f803dcdd711d5509bae379efacb20f7
+- name: Copilot
+  application_id: MSCP10
+  application_name: Microsoft 365 Copilot.app
+  CFBundleVersion: com.microsoft.m365copilot
+  short_version: 1.2510 (0802)
+  full_version: 1.2510.0802
+  last_updated: October 08, 2025
+  min_os: '14.0'
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2510.0802_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2510.0802_Updater.pkg
+  sha1: dc9647f1f6dfd4e80d392b00e802ed528c390a7a
+  sha256: 08c3f8d2b9b18908410c319045106921d9cb207ca519d92c4e28249c680ad75e
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

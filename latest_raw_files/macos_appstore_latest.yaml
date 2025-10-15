@@ -1,13 +1,13 @@
-last_updated: October 15, 2025 12:07 PM EDT
+last_updated: October 15, 2025 01:06 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Word
-    currentVersionReleaseDate: October 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/a1/42/7ba1427b-9b7c-8fcb-1607-804c4a81ef9a/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
-    minimumOsVersion: '14.0'
+    currentVersionReleaseDate: October 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/c2/f8/fcc2f899-7560-e714-d2d2-2ff533e1e43a/MSWD.png/512x512bb.png
+    minimumOsVersion: '13.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: '16.102'
+    version: 16.101.3
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
@@ -19,17 +19,11 @@ packages:
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: October 14, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/6b/f9/9f6bf919-930b-dfb3-fa62-b4588af0d9b5/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
-    minimumOsVersion: '14.0'
-    releaseNotes: "\u2022 Reference a Loop/Page when creating a presentation with\
-      \ Copilot: You can now reference a Loop/Page when you create a presentation\
-      \ with Copilot within the PowerPoint application.\n\u2022 Add topic(s) through\
-      \ Copilot to your existing presentation: Now, you will be able to add more content\
-      \ to your existing presentation using Copilot. It would help you generate/add\
-      \ new topic(s) with slides that are consistent in look and feel of your existing\
-      \ presentations."
-    version: '16.102'
+    currentVersionReleaseDate: October 07, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/a1/d283a1f0-2c72-ed02-3e77-e8dc0cb33ec7/PPT3.png/512x512bb.png
+    minimumOsVersion: '13.0'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 16.101.3
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook

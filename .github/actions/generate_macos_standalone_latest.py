@@ -311,6 +311,22 @@ apps = {
             "min_os": "Minimum OS"
         }
     },
+    "Copilot": {
+        "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSCP10.xml",
+        "manual_entries": {
+            "CFBundleVersion": "com.microsoft.m365copilot",
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2325438",
+            "application_name": "Microsoft 365 Copilot.app",
+        },
+        "keys": {
+            "application_id": "Application ID",
+            "short_version": "Title",
+            "full_version": "Update Version",
+            "app_only_update_download": "Location",
+            "last_updated": "Date",
+            "min_os": "Minimum OS"
+        }
+    },
     "MAU": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSau04.xml",
         "manual_entries": {
@@ -446,6 +462,12 @@ def fetch_and_process(app_name, config):
 
         # Add manual entries
         extracted_data.update(config["manual_entries"])
+
+        # Special handling for Copilot short_version: remove leading "365"
+        if app_name == "Copilot":
+            sv = extracted_data.get("short_version", "")
+            if isinstance(sv, str):
+                extracted_data["short_version"] = re.sub(r'^\s*365[\s\-–—]*', '', sv).strip()
 
         logging.info(f"Extracted data: {extracted_data}")
 

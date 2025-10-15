@@ -263,6 +263,22 @@ apps = {
             "min_os": "Minimum OS"
         }
     },
+    "Copilot": {
+        "url": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409MSCP10.xml",
+        "manual_entries": {
+            "CFBundleVersion": "com.microsoft.m365copilot",
+            "application_name": "Microsoft 365 Copilot.app",
+        },
+        "keys": {
+            "application_id": "Application ID",
+            "short_version": "Title",
+            "full_version": "Update Version",
+            "update_download": "Location",
+            "last_updated": "Date",
+            "min_os": "Minimum OS",
+            "latest_download": "Location"
+        }
+    },
     "MAU": {
         "url": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409MSau04.xml",
         "manual_entries": {
@@ -370,6 +386,11 @@ def fetch_and_process(app_name, config):
 
             extracted_data = process_json_data(info, config)
             extracted_data.update(config.get("manual_entries", {}))
+            # Special handling for Copilot short_version: remove leading "365"
+            if app_name == "Copilot":
+                sv = extracted_data.get("short_version", "")
+                if isinstance(sv, str):
+                    extracted_data["short_version"] = re.sub(r'^\s*365[\s\-–—]*', '', sv).strip()
             logging.info(f"Extracted data (App Center): {extracted_data}")
 
             # Special handling for OneDrive
@@ -429,6 +450,11 @@ def fetch_and_process(app_name, config):
 
         # Add manual entries
         extracted_data.update(config["manual_entries"])
+        # Special handling for Copilot short_version: remove leading "365"
+        if app_name == "Copilot":
+            sv = extracted_data.get("short_version", "")
+            if isinstance(sv, str):
+                extracted_data["short_version"] = re.sub(r'^\s*365[\s\-–—]*', '', sv).strip()
 
         logging.info(f"Extracted data: {extracted_data}")
 

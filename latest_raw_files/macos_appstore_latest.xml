@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 15, 2025 07:06 AM EDT</last_updated>
+	<last_updated>October 15, 2025 07:50 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -72,6 +72,16 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<version>25.174.0907</version>
 	</package>
 	<package>
+		<name>MacOS RMS Sharing</name>
+		<application_name>RMS Sharing</application_name>
+		<bundleId>com.microsoft.protection.rms-sharing-mac</bundleId>
+		<currentVersionReleaseDate>March 19, 2021</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/09/a4/f4/09a4f4b3-7aed-51c0-8e6b-5cb95ec6dada/rmssharing.png/512x512bb.png</icon_image>
+		<minimumOsVersion>10.9</minimumOsVersion>
+		<releaseNotes>Bug fixes, security updates</releaseNotes>
+		<version>1.3.4</version>
+	</package>
+	<package>
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
@@ -94,6 +104,22 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<version>2.159</version>
 	</package>
 	<package>
+		<name>MacOS Microsoft CoPilot</name>
+		<application_name>Microsoft Copilot</application_name>
+		<bundleId>com.microsoft.copilot-mac</bundleId>
+		<currentVersionReleaseDate>October 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/8d/45/ba8d4576-57dd-5353-864b-c7bf1e34d914/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png</icon_image>
+		<minimumOsVersion>14.0</minimumOsVersion>
+		<releaseNotes>A Smarter, Faster, and More Mac-Native Copilot Experience
+ 
+• Say hello to GPT-5 — our most advanced AI yet, now in Smart Mode for more intuitive conversations and deeper reasoning.
+ 
+• Copilot is now fully native on macOS, with faster performance, smoother interactions, and a look that feels right at home.
+ 
+Update now to experience the new Copilot.</releaseNotes>
+		<version>23.7.431011002</version>
+	</package>
+	<package>
 		<name>MacOS Microsoft Azure VPN Client</name>
 		<application_name>Azure VPN Client</application_name>
 		<bundleId>com.microsoft.AzureVpnMac</bundleId>
@@ -104,5 +130,45 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 Added notification which notifies user to install rosetta in case its not installed in arm machines. 
 Minor bug fixes and performance improvements.</releaseNotes>
 		<version>2.7.101</version>
+	</package>
+	<package>
+		<name>MacOS Universal Print</name>
+		<application_name>Universal Print</application_name>
+		<bundleId>com.microsoft.universalprintmac</bundleId>
+		<currentVersionReleaseDate>May 30, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/42/98/35429802-8ef5-c306-5279-ea3873609e14/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png</icon_image>
+		<minimumOsVersion>14.6.1</minimumOsVersion>
+		<releaseNotes>Includes support for more customers.</releaseNotes>
+		<version>1.0.5</version>
+	</package>
+	<package>
+		<name>MacOS Microsoft Rewards for Safari</name>
+		<application_name>Microsoft Rewards for Safari</application_name>
+		<bundleId>com.microsoft.Microsoft-Rewards-for-Safari</bundleId>
+		<currentVersionReleaseDate>December 20, 2022</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/59/04/4b5904a2-060d-f5e1-707f-c96da43bd11f/AppIcon-85-220-4-2x.png/512x512bb.png</icon_image>
+		<minimumOsVersion>11.3</minimumOsVersion>
+		<releaseNotes>NA</releaseNotes>
+		<version>1.0.0</version>
+	</package>
+	<package>
+		<name>MacOS Microsoft Bing for Safari</name>
+		<application_name>Microsoft Bing for Safari</application_name>
+		<bundleId>com.microsoft.MicrosoftBingSearch</bundleId>
+		<currentVersionReleaseDate>September 10, 2022</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/9b/5a/fe9b5a2a-6cc9-41bd-604f-a6f3913dd240/AppIcon-0-0-85-220-4-2x.png/512x512bb.png</icon_image>
+		<minimumOsVersion>11.3</minimumOsVersion>
+		<releaseNotes>Additional instrumentation. Updated information with more detail about app and its features.</releaseNotes>
+		<version>3.0.0</version>
+	</package>
+	<package>
+		<name>MacOS Microsoft Accessory Updater</name>
+		<application_name>Microsoft Accessory Updater</application_name>
+		<bundleId>com.microsoft.Microsoft-Accessory-Firmware-Updater</bundleId>
+		<currentVersionReleaseDate>February 10, 2022</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/10/ce/9e10cee9-e04d-26b7-65b9-7dc32679c10a/AppIcon-85-220-0-4-2x.png/512x512bb.png</icon_image>
+		<minimumOsVersion>11.3</minimumOsVersion>
+		<releaseNotes>NA</releaseNotes>
+		<version>1.2</version>
 	</package>
 </latest>

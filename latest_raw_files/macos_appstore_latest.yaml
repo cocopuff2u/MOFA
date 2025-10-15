@@ -1,4 +1,4 @@
-last_updated: October 15, 2025 07:06 AM EDT
+last_updated: October 15, 2025 07:50 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -65,6 +65,14 @@ packages:
       to bring you the latest performance improvements and bug fixes for the best
       experience.
     version: 25.174.0907
+  - name: MacOS RMS Sharing
+    application_name: RMS Sharing
+    bundleId: com.microsoft.protection.rms-sharing-mac
+    currentVersionReleaseDate: March 19, 2021
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/09/a4/f4/09a4f4b3-7aed-51c0-8e6b-5cb95ec6dada/rmssharing.png/512x512bb.png
+    minimumOsVersion: '10.9'
+    releaseNotes: Bug fixes, security updates
+    version: 1.3.4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
@@ -85,6 +93,18 @@ packages:
     minimumOsVersion: '10.15'
     releaseNotes: We fixed some bugs to improve the app experience.
     version: '2.159'
+  - name: MacOS Microsoft CoPilot
+    application_name: Microsoft Copilot
+    bundleId: com.microsoft.copilot-mac
+    currentVersionReleaseDate: October 13, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/8d/45/ba8d4576-57dd-5353-864b-c7bf1e34d914/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png
+    minimumOsVersion: '14.0'
+    releaseNotes: "A Smarter, Faster, and More Mac-Native Copilot Experience\n \n\u2022\
+      \ Say hello to GPT-5 \u2014 our most advanced AI yet, now in Smart Mode for\
+      \ more intuitive conversations and deeper reasoning.\n \n\u2022 Copilot is now\
+      \ fully native on macOS, with faster performance, smoother interactions, and\
+      \ a look that feels right at home.\n \nUpdate now to experience the new Copilot."
+    version: 23.7.431011002
   - name: MacOS Microsoft Azure VPN Client
     application_name: Azure VPN Client
     bundleId: com.microsoft.AzureVpnMac
@@ -95,3 +115,36 @@ packages:
       \ failures. \nAdded notification which notifies user to install rosetta in case\
       \ its not installed in arm machines. \nMinor bug fixes and performance improvements."
     version: 2.7.101
+  - name: MacOS Universal Print
+    application_name: Universal Print
+    bundleId: com.microsoft.universalprintmac
+    currentVersionReleaseDate: May 30, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/42/98/35429802-8ef5-c306-5279-ea3873609e14/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png
+    minimumOsVersion: 14.6.1
+    releaseNotes: Includes support for more customers.
+    version: 1.0.5
+  - name: MacOS Microsoft Rewards for Safari
+    application_name: Microsoft Rewards for Safari
+    bundleId: com.microsoft.Microsoft-Rewards-for-Safari
+    currentVersionReleaseDate: December 20, 2022
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/59/04/4b5904a2-060d-f5e1-707f-c96da43bd11f/AppIcon-85-220-4-2x.png/512x512bb.png
+    minimumOsVersion: '11.3'
+    releaseNotes: NA
+    version: 1.0.0
+  - name: MacOS Microsoft Bing for Safari
+    application_name: Microsoft Bing for Safari
+    bundleId: com.microsoft.MicrosoftBingSearch
+    currentVersionReleaseDate: September 10, 2022
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/9b/5a/fe9b5a2a-6cc9-41bd-604f-a6f3913dd240/AppIcon-0-0-85-220-4-2x.png/512x512bb.png
+    minimumOsVersion: '11.3'
+    releaseNotes: Additional instrumentation. Updated information with more detail
+      about app and its features.
+    version: 3.0.0
+  - name: MacOS Microsoft Accessory Updater
+    application_name: Microsoft Accessory Updater
+    bundleId: com.microsoft.Microsoft-Accessory-Firmware-Updater
+    currentVersionReleaseDate: February 10, 2022
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/10/ce/9e10cee9-e04d-26b7-65b9-7dc32679c10a/AppIcon-85-220-0-4-2x.png/512x512bb.png
+    minimumOsVersion: '11.3'
+    releaseNotes: NA
+    version: '1.2'

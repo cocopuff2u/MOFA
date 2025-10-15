@@ -73,6 +73,10 @@ apps = {
         "url": "https://itunes.apple.com/search?term=microsoft-onedrive&country=us&entity=macSoftware",
         "keys": common_keys
     },
+    "MacOS RMS Sharing": {
+        "url": "https://itunes.apple.com/search?term=rms-sharing&country=us&entity=macSoftware",
+        "keys": common_keys
+    },
     "MacOS Microsoft Windows App": {
         "url": "https://itunes.apple.com/search?term=windows-app&country=us&entity=macSoftware",
         "keys": common_keys
@@ -81,8 +85,28 @@ apps = {
         "url": "https://itunes.apple.com/search?term=microsoft-to-do&country=us&entity=macSoftware",
         "keys": common_keys
     },
+    "MacOS Microsoft CoPilot": {
+        "url": "https://itunes.apple.com/search?term=microsoft-copilot&country=us&entity=macSoftware",
+        "keys": common_keys
+    },
     "MacOS Microsoft Azure VPN Client": {
         "url": "https://itunes.apple.com/search?term=azure-vpn-client&country=us&entity=macSoftware",
+        "keys": common_keys
+    },
+    "MacOS Universal Print": {
+        "url": "https://itunes.apple.com/search?term=universal-print&country=us&entity=macSoftware",
+        "keys": common_keys
+    },
+    "MacOS Microsoft Rewards for Safari": {
+        "url": "https://itunes.apple.com/search?term=microsoft-rewards-for-safari&country=us&entity=macSoftware",
+        "keys": common_keys
+    },
+    "MacOS Microsoft Bing for Safari": {
+        "url": "https://itunes.apple.com/search?term=microsoft-bing-for-safari&country=us&entity=macSoftware",
+        "keys": common_keys
+    },
+    "MacOS Microsoft Accessory Updater": {
+        "url": "https://itunes.apple.com/search?term=microsoft-accessory-updater&country=us&entity=macSoftware",
         "keys": common_keys
     }
 }

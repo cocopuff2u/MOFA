@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 16, 2025 12:07 AM EDT",
+    "last_updated": "October 16, 2025 01:07 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -310,16 +310,16 @@
             "application_id": "MSRH01",
             "application_name": "Microsoft Remote Help.app",
             "CFBundleVersion": "com.microsoft.remotehelp",
-            "short_version": "1.0.2501211",
-            "full_version": "1.0.2501211",
-            "last_updated": "January 24, 2025",
+            "short_version": "1.0.2510032",
+            "full_version": "1.0.2510032",
+            "last_updated": "October 07, 2025",
             "min_os": "12.0",
-            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2501211_updater.pkg",
-            "app_update_sha1": "304f3a4247c99d016df8734fa5d8524591ac1b14",
-            "app_update_sha256": "8ffe881653742ce83ebaf60636906f7f47596569e2c36d71aa33f6c85f70536e",
-            "full_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2501211_updater.pkg",
-            "full_update_sha1": "304f3a4247c99d016df8734fa5d8524591ac1b14",
-            "full_update_sha256": "8ffe881653742ce83ebaf60636906f7f47596569e2c36d71aa33f6c85f70536e"
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2510032_updater.pkg",
+            "app_update_sha1": "29114bbc3a7e7a5a0dbe5ee5b07079d4ea683b47",
+            "app_update_sha256": "0b6aa5800c5aa1790b2e08356502eeafcd128fbff2c3cb27e89b6963f6185e23",
+            "full_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2510032_updater.pkg",
+            "full_update_sha1": "29114bbc3a7e7a5a0dbe5ee5b07079d4ea683b47",
+            "full_update_sha256": "0b6aa5800c5aa1790b2e08356502eeafcd128fbff2c3cb27e89b6963f6185e23"
         }
     ]
 }

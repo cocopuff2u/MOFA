@@ -1,4 +1,4 @@
-last_updated: October 16, 2025 03:05 PM EDT
+last_updated: October 16, 2025 04:07 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -40,14 +40,14 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.103.0 (25101317)
-  full_version: 16.103.25101317
-  last_updated: October 13, 2025
+  short_version: 16.103.0 (25101539)
+  full_version: 16.103.25101539
+  last_updated: October 15, 2025
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.103.25101317_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.103.25101317_Updater.pkg
-  sha1: 872c231ba6899a3c246b189e42f248414799de92
-  sha256: d12d8050a2f5e00cc2303313f570ee0c82a962df93f0b11f329bcbec4c9510ac
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.103.25101539_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.103.25101539_Updater.pkg
+  sha1: ef6ffaad386df9c8f872120fa7237aeee0b56aea
+  sha256: 7263930aed9e1c136621a3c684da338b2c8a2614d1b9a5e2e218f1a5aa46e018
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app

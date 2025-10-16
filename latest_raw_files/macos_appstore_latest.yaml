@@ -1,4 +1,4 @@
-last_updated: October 16, 2025 03:05 PM EDT
+last_updated: October 16, 2025 04:07 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -11,11 +11,11 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: October 07, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/55/21/4e552157-c653-71a3-0a4f-e199e67dc009/XCEL.png/512x512bb.png
-    minimumOsVersion: '13.0'
+    currentVersionReleaseDate: October 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/29/3c/97293c2f-2b67-fdea-6b8a-14b5b0d2198f/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    minimumOsVersion: '14.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.101.3
+    version: '16.102'
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint

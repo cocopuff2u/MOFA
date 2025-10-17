@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 17, 2025 12:08 PM EDT</last_updated>
+    <last_updated>October 17, 2025 01:06 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -202,13 +202,13 @@
         <application_id>MSau04</application_id>
         <application_name>Microsoft AutoUpdate.app</application_name>
         <CFBundleVersion>com.microsoft.autoupdate</CFBundleVersion>
-        <short_version>4.80 (25092610)</short_version>
-        <full_version>4.80.25092610</full_version>
-        <last_updated>September 26, 2025</last_updated>
+        <short_version>4.81 (25101344)</short_version>
+        <full_version>4.81.25101344</full_version>
+        <last_updated>October 13, 2025</last_updated>
         <min_os>10.14.0</min_os>
-        <update_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg</update_download>
-        <latest_download>https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg</latest_download>
-        <sha1>3a8b0ba79343fdbdba5029cfc6c7db66fe9acfdf</sha1>
-        <sha256>0bf87390c369931fab790d9e7570c66f5f160e0c120b4bc0564bfacffcb74742</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.81.25101344_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.81.25101344_Updater.pkg</latest_download>
+        <sha1>796b8838e57ed6110fe31c476ed0c12623a1a7b9</sha1>
+        <sha256>396de9c54f596834985e6af644a52831e6cb658838e06486a01bc754baceb513</sha256>
     </package>
 </latest>

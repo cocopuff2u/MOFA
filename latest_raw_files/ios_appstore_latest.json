@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 17, 2025 02:08 PM EDT",
+    "last_updated": "October 17, 2025 02:45 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -9,7 +9,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/9c/75/9f9c7527-38e1-e9f1-9270-07ebec1d40f5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.",
-            "version": "2.102.1"
+            "version": "2.102.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
         },
         {
             "name": "iOS Microsoft Excel",
@@ -19,7 +20,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/cb/4c/4fcb4cbd-5a77-0964-c1ed-47b8e2a24441/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.",
-            "version": "2.102.1"
+            "version": "2.102.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
         },
         {
             "name": "iOS Microsoft PowerPoint",
@@ -29,7 +31,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/15/56/cb155672-aeb3-07cd-70c3-4a28967dc57f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 \u2014 enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.",
-            "version": "2.102.1"
+            "version": "2.102.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4"
         },
         {
             "name": "iOS Microsoft Outlook",
@@ -39,7 +42,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/07/75/5f077594-580b-9908-ef80-50299e3d340a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "4.2539.1"
+            "version": "4.2539.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
             "name": "iOS Microsoft OneNote",
@@ -49,7 +53,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/d8/bb/f3d8bb81-d347-8346-7903-321d31d4e732/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.102.1"
+            "version": "16.102.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4"
         },
         {
             "name": "iOS Microsoft OneDrive",
@@ -59,7 +64,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/78/b3/cf78b39d-0e61-5230-b8ed-a048f7dbb158/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.25.5"
+            "version": "16.25.5",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",
@@ -69,7 +75,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/0d/57/370d5745-807e-05d6-082f-0176f0c5c142/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This is a quick release to address a customer-reported issue impacting connections utilizing RD Gateways running on Windows Server 2012 R2 or earlier. We've also added in handling for the ALT+ENTER shortcut (which was not working in Teams and some other apps).\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.2.1"
+            "version": "11.2.1",
+            "app_store_url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
         },
         {
             "name": "iOS Microsoft Defender Security",
@@ -79,17 +86,19 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/5a/df/205adf42-cab4-7b42-fbad-748a84799b93/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and improvements",
-            "version": "1.1.69250104"
+            "version": "1.1.69250104",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4"
         },
         {
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot",
-            "currentVersionReleaseDate": "October 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5d/da/7c5dda17-dd25-92f1-c46c-d529a9621fa7/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/dd/5c/dbdd5c4a-edcf-4ece-d3ca-2ad9404991cb/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
-            "version": "30.0.431014002"
+            "version": "30.0.431015002",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -99,7 +108,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/7f/ce/667fce09-43ef-b6a1-d1d1-74a5b72cf3b3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.102.1"
+            "version": "2.102.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4"
         },
         {
             "name": "iOS Microsoft Warehouse Management",
@@ -109,7 +119,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/03/5e/e8035edd-1e7f-2c48-8cb4-28f7379987d4/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "10.0",
             "releaseNotes": "This version of the Warehouse Management mobile app introduces the following fixes and improvements:\n\u2022Fixed an issue that affected the connection on devices.",
-            "version": "3.0.6"
+            "version": "3.0.6",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4"
         },
         {
             "name": "iOS Microsoft Store Commerce",
@@ -119,7 +130,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/20/f2/8c20f2e0-f963-bf56-2d1d-7932e4cc0e20/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "9.55.25283"
+            "version": "9.55.25283",
+            "app_store_url": "https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
@@ -129,7 +141,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements.",
-            "version": "13.24093.1"
+            "version": "13.24093.1",
+            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4"
         },
         {
             "name": "iOS Microsoft Lists",
@@ -139,7 +152,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b8/f0/5eb8f0ee-bbc1-de10-6242-dd1fd26b117d/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "This build contains several bug fixes.",
-            "version": "2.29.1"
+            "version": "2.29.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-lists/id1530637363?uo=4"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Field Service",
@@ -149,17 +163,19 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e9/5d/3ce95d85-a73c-6789-1064-146c69fccaa6/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Minor updates, bug fixes, and performance improvements.",
-            "version": "13.25091.10"
+            "version": "13.25091.10",
+            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-field-service/id1485579247?uo=4"
         },
         {
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "October 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/fe/88/b9fe88e4-3ff2-a417-4a11-c4906462f8a7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/72/cb/2872cb37-c247-6e3a-0cc4-cbd3f4cd0541/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "11.15.0"
+            "version": "11.16.0",
+            "app_store_url": "https://apps.apple.com/us/app/viva-engage/id289559439?uo=4"
         },
         {
             "name": "iOS Microsoft Whiteboard",
@@ -169,7 +185,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/5f/52/b15f52cc-85ae-9e8f-3201-143fe8951ba8/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.6",
             "releaseNotes": "Thanks everyone for using Whiteboard. Here's what's new in this version:) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Fixes an issue with undo/redo actions\n* Fixes an issue with incidental touches affecting drawing with pencil\n* Fixes an issue where drawings were disappearing\n* Significant drawing and rendering performance improvements\"\n* Better error reporting for improved debugging and support\n* General stability improvements\n\n\n2.0 Additions and Improvements\n* Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n* Introducing CreatorKit, get the most out of Whiteboard and support Indie development\n* Now you can zoom in and out on drawings and images!\n* Scroll around in freedom on the all new, expansive, drawing board.\n* Autorotate from portrait to landscape and back, or you can choose to lock orientation.\n* Drawing library, open and continue working on your recent drawings.\n* Add new drawing button, create a new drawing anytime. \n* Significant performance and stability improvements\n* Adds lock for drawing board zoom/pan/scroll\n* Many more excited things are coming\n* Stay tuned\n\n- Jim\n\nIssues, questions or suggestions?\n\u2022 jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022 Please subscribe to CreatorKit to help support development\n\u2022 Please rate the app 5 stars so more people find it\n\u2022 Please share Whiteboard with a friend or family member to help get the word out.\n\u2022 Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard.",
-            "version": "2.5.1"
+            "version": "2.5.1",
+            "app_store_url": "https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4"
         },
         {
             "name": "iOS Microsoft Edge AI Browser",
@@ -179,7 +196,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/ee/16/9bee16de-7b0a-975b-e73e-9ef68f8b00bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts to your needs, delivering quick answers or deeper insights with expert results.\n\u2022 Clear Browsing Data: Protect your privacy easily with one tap from the menu.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "141.3537.72"
+            "version": "141.3537.72",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {
             "name": "iOS Microsoft Seeing AI",
@@ -189,7 +207,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/a6/66/bea6661d-294b-f35d-34e1-3128b7b12006/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "This release includes several bug fixes to make your experience even better.",
-            "version": "5.6.1"
+            "version": "5.6.1",
+            "app_store_url": "https://apps.apple.com/us/app/seeing-ai/id999062298?uo=4"
         },
         {
             "name": "iOS Microsoft Planner",
@@ -199,7 +218,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/6b/f8/426bf890-ef13-2778-2566-2fb379f190f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "1.17.9"
+            "version": "1.17.9",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4"
         },
         {
             "name": "iOS Microsoft Azure",
@@ -209,7 +229,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/e4/b0/fae4b0f5-5b98-bece-d1a4-625782fae270/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.9.1"
+            "version": "7.9.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4"
         },
         {
             "name": "iOS Microsoft To-Do",
@@ -219,7 +240,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/e6/67/1de66769-8408-c9b0-4cbf-e86f4195033c/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "We fixed some bugs to improve the app experience.",
-            "version": "2.159"
+            "version": "2.159",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4"
         },
         {
             "name": "iOS Microsoft Teams",
@@ -229,7 +251,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/5f/b3/b45fb37c-6c5a-f025-196e-9fb5a5c74b00/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.18.1"
+            "version": "7.18.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
         },
         {
             "name": "iOS Microsoft Sharepoint",
@@ -239,7 +262,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a2/17/82a217ae-46b1-d002-9fdb-4fd4a4456baf/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Stability improvements and fixes.",
-            "version": "4.54.7"
+            "version": "4.54.7",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4"
         },
         {
             "name": "iOS Microsoft Dynamics 365 Business Central",
@@ -249,7 +273,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements.",
-            "version": "13.24093.1"
+            "version": "13.24093.1",
+            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4"
         },
         {
             "name": "iOS Microsoft Power Apps",
@@ -259,7 +284,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/39/e6/8a39e65a-42d3-9b10-75b0-2064c3289e0b/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25101.13"
+            "version": "3.25101.13",
+            "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {
             "name": "iOS Microsoft Authenticator",
@@ -269,7 +295,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8e/52/4d8e525d-922b-ff8f-171d-0dd14ec3e88f/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
-            "version": "6.8.36(5)"
+            "version": "6.8.36(5)",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4"
         },
         {
             "name": "iOS Microsoft Advertising",
@@ -279,7 +306,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c2/98/7ec298fd-bc75-b3fb-71a7-08f70b8e361c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.4",
             "releaseNotes": "With the latest release, the app now supports the Simplified Chinese language and locale formatting.",
-            "version": "2.22.16"
+            "version": "2.22.16",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-advertising/id979729863?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
@@ -289,7 +317,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/73/86/33738651-9bd7-6164-2027-f072699effcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "2.96.1"
+            "version": "2.96.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",
@@ -299,7 +328,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/46/15/ed46150c-83ff-e2bc-4caa-8b5948d65bd2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg",
             "minimumOsVersion": "12.1",
             "releaseNotes": "\u2022 Bug Fixes",
-            "version": "2.2.0"
+            "version": "2.2.0",
+            "app_store_url": "https://apps.apple.com/us/app/work-folders/id950878067?uo=4"
         },
         {
             "name": "iOS Microsoft Power BI",
@@ -309,7 +339,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/66/51/e16651d0-b182-3f83-3a6b-ddbe7971d189/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "35.5"
+            "version": "35.5",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4"
         },
         {
             "name": "iOS Microsoft 365 Admin",
@@ -319,7 +350,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0d/b8/e10db871-3c82-f649-3686-5eb88efa87aa/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "As part of this release, Admins will now receive real-time notifications on their mobile devices when Copilot license requests are submitted \u2014 enabling quicker response and streamlined license management on the go.",
-            "version": "5.7.2"
+            "version": "5.7.2",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-365-admin/id761397963?uo=4"
         },
         {
             "name": "iOS Microsoft Intune Company Portal",
@@ -329,7 +361,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/1b/0e/091b0e6a-1d33-a735-deda-7045dd528a00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We\u2019ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.",
-            "version": "5.2509.1"
+            "version": "5.2509.1",
+            "app_store_url": "https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4"
         },
         {
             "name": "iOS Microsoft Azure Information Protection",
@@ -339,7 +372,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/d8/9df6d87e-66ad-d6ab-aad9-d030ef4aa9cb/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "14.0",
             "releaseNotes": "Bug fixes",
-            "version": "2.1.4"
+            "version": "2.1.4",
+            "app_store_url": "https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4"
         },
         {
             "name": "iOS Microsoft 365 Office",
@@ -349,7 +383,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/3f/b4/6d3fb450-0e39-c2eb-9782-9f729a2b1a5a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.102.1"
+            "version": "2.102.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
         },
         {
             "name": "iOS Microsoft Skype for Business",
@@ -359,7 +394,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "6.34.119"
+            "version": "6.34.119",
+            "app_store_url": "https://apps.apple.com/us/app/skype-for-business/id605841731?uo=4"
         }
     ]
 }

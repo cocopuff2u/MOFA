@@ -44,7 +44,8 @@ common_keys = {
     "currentVersionReleaseDate": "currentVersionReleaseDate",
     "releaseNotes": "releaseNotes",
     "minimumOsVersion": "minimumOsVersion",
-    "icon_image": "artworkUrl512"
+    "icon_image": "artworkUrl512",
+    "app_store_url": "trackViewUrl"
 }
 
 # Define app-specific configurations
@@ -140,7 +141,7 @@ def create_xml(apps):
         app_data = fetch_app_data(app_info["url"])
         package = ET.SubElement(root, "package")
         ET.SubElement(package, "name").text = app_name
-        for key in ["application_name", "bundleId", "currentVersionReleaseDate", "icon_image", "minimumOsVersion", "releaseNotes", "version"]:
+        for key in ["application_name", "bundleId", "currentVersionReleaseDate", "icon_image", "minimumOsVersion", "releaseNotes", "version", "app_store_url"]:
             json_key = app_info["keys"][key]
             value = app_data.get(json_key, "NA")
             if key == "currentVersionReleaseDate" and value != "NA":
@@ -198,6 +199,7 @@ def xml_to_json_and_yaml(xml_file):
         package_data['minimumOsVersion'] = package['minimumOsVersion']
         package_data['releaseNotes'] = package['releaseNotes']
         package_data['version'] = package['version']
+        package_data['app_store_url'] = package.get('app_store_url', 'NA')
         packages.append(package_data)
 
     output_data = OrderedDict()

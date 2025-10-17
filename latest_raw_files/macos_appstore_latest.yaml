@@ -1,4 +1,4 @@
-last_updated: October 17, 2025 02:08 PM EDT
+last_updated: October 17, 2025 02:48 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -8,6 +8,7 @@ packages:
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 Bug fixes"
     version: '16.102'
+    app_store_url: https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
@@ -16,6 +17,7 @@ packages:
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 Bug fixes"
     version: '16.102'
+    app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
@@ -30,6 +32,7 @@ packages:
       \ new topic(s) with slides that are consistent in look and feel of your existing\
       \ presentations."
     version: '16.102'
+    app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
@@ -43,6 +46,7 @@ packages:
       \ Resolved an issue that caused attendees marked as tentative to appear as free\
       \ in the mini scheduler."
     version: '16.102'
+    app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
@@ -55,6 +59,7 @@ packages:
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
     version: '16.102'
+    app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
@@ -65,6 +70,7 @@ packages:
       to bring you the latest performance improvements and bug fixes for the best
       experience.
     version: 25.174.0907
+    app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
     application_name: RMS Sharing
     bundleId: com.microsoft.protection.rms-sharing-mac
@@ -73,6 +79,7 @@ packages:
     minimumOsVersion: '10.9'
     releaseNotes: Bug fixes, security updates
     version: 1.3.4
+    app_store_url: https://apps.apple.com/us/app/rms-sharing/id908570259?mt=12&uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
@@ -85,6 +92,7 @@ packages:
 
       If you encounter any errors, you can contact us via Help > Submit Feedback.'
     version: 11.2.4
+    app_store_url: https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do-mac
@@ -93,6 +101,7 @@ packages:
     minimumOsVersion: '10.15'
     releaseNotes: We fixed some bugs to improve the app experience.
     version: '2.159'
+    app_store_url: https://apps.apple.com/us/app/microsoft-to-do/id1274495053?mt=12&uo=4
   - name: MacOS Microsoft CoPilot
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot-mac
@@ -144,6 +153,7 @@ packages:
       \ all in one place. Download Microsoft Copilot, the AI companion that\u2019\
       s here to help."
     version: 23.8.431015005
+    app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&uo=4
   - name: MacOS Microsoft Azure VPN Client
     application_name: Azure VPN Client
     bundleId: com.microsoft.AzureVpnMac
@@ -154,6 +164,7 @@ packages:
       \ failures. \nAdded notification which notifies user to install rosetta in case\
       \ its not installed in arm machines. \nMinor bug fixes and performance improvements."
     version: 2.7.101
+    app_store_url: https://apps.apple.com/us/app/azure-vpn-client/id1553936137?mt=12&uo=4
   - name: MacOS Universal Print
     application_name: Universal Print
     bundleId: com.microsoft.universalprintmac
@@ -162,6 +173,7 @@ packages:
     minimumOsVersion: 14.6.1
     releaseNotes: Includes support for more customers.
     version: 1.0.5
+    app_store_url: https://apps.apple.com/us/app/universal-print/id6450432292?mt=12&uo=4
   - name: MacOS Microsoft Rewards for Safari
     application_name: Microsoft Rewards for Safari
     bundleId: com.microsoft.Microsoft-Rewards-for-Safari
@@ -170,6 +182,7 @@ packages:
     minimumOsVersion: '11.3'
     releaseNotes: NA
     version: 1.0.0
+    app_store_url: https://apps.apple.com/us/app/microsoft-rewards-for-safari/id6443944644?mt=12&uo=4
   - name: MacOS Microsoft Bing for Safari
     application_name: Microsoft Bing for Safari
     bundleId: com.microsoft.MicrosoftBingSearch
@@ -179,6 +192,7 @@ packages:
     releaseNotes: Additional instrumentation. Updated information with more detail
       about app and its features.
     version: 3.0.0
+    app_store_url: https://apps.apple.com/us/app/microsoft-bing-for-safari/id1560727432?mt=12&uo=4
   - name: MacOS Microsoft Accessory Updater
     application_name: Microsoft Accessory Updater
     bundleId: com.microsoft.Microsoft-Accessory-Firmware-Updater
@@ -187,3 +201,4 @@ packages:
     minimumOsVersion: '11.3'
     releaseNotes: NA
     version: '1.2'
+    app_store_url: https://apps.apple.com/us/app/microsoft-accessory-updater/id1599783787?mt=12&uo=4

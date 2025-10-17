@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 17, 2025 02:08 PM EDT</last_updated>
+	<last_updated>October 17, 2025 02:48 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -10,6 +10,7 @@
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
 		<version>16.102</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
@@ -20,6 +21,7 @@
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
 		<version>16.102</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
@@ -31,6 +33,7 @@
 		<releaseNotes>• Reference a Loop/Page when creating a presentation with Copilot: You can now reference a Loop/Page when you create a presentation with Copilot within the PowerPoint application.
 • Add topic(s) through Copilot to your existing presentation: Now, you will be able to add more content to your existing presentation using Copilot. It would help you generate/add new topic(s) with slides that are consistent in look and feel of your existing presentations.</releaseNotes>
 		<version>16.102</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
@@ -45,6 +48,7 @@
 Resolved Issues: 
 • Calendar: Resolved an issue that caused attendees marked as tentative to appear as free in the mini scheduler.</releaseNotes>
 		<version>16.102</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
@@ -60,6 +64,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
 		<version>16.102</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneDrive</name>
@@ -70,6 +75,7 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
 		<version>25.174.0907</version>
+		<app_store_url>https://apps.apple.com/us/app/onedrive/id823766827?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
@@ -80,6 +86,7 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<minimumOsVersion>10.9</minimumOsVersion>
 		<releaseNotes>Bug fixes, security updates</releaseNotes>
 		<version>1.3.4</version>
+		<app_store_url>https://apps.apple.com/us/app/rms-sharing/id908570259?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>
@@ -92,6 +99,7 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
 		<version>11.2.4</version>
+		<app_store_url>https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft To-Do</name>
@@ -102,6 +110,7 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<minimumOsVersion>10.15</minimumOsVersion>
 		<releaseNotes>We fixed some bugs to improve the app experience.</releaseNotes>
 		<version>2.159</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-to-do/id1274495053?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft CoPilot</name>
@@ -110,7 +119,7 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<currentVersionReleaseDate>October 17, 2025</currentVersionReleaseDate>
 		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/aa/b7/1daab7e2-576f-9574-ce34-dec5fc0facee/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>Copilot just landed AI's leading model. GPT-5 is AI at its smartest and most intuitive, combining the best of our reasoning and chat models into one cohesive experience. Select &quot;Smart&quot; mode to try GPT-5 today. 
+		<releaseNotes>Copilot just landed AI's leading model. GPT-5 is AI at its smartest and most intuitive, combining the best of our reasoning and chat models into one cohesive experience. Select "Smart" mode to try GPT-5 today. 
 
 Microsoft Copilot is your daily AI companion. Talking with Copilot is an easy way to learn, grow and gain confidence, all with the help of the latest OpenAI and Microsoft AI models. 
 
@@ -158,6 +167,7 @@ Your AI companion and AI photo generator
 
 Copilot combines the power of AI with the imaginative capabilities of the latest OpenAI models all in one place. Download Microsoft Copilot, the AI companion that’s here to help.</releaseNotes>
 		<version>23.8.431015005</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Azure VPN Client</name>
@@ -170,6 +180,7 @@ Copilot combines the power of AI with the imaginative capabilities of the latest
 Added notification which notifies user to install rosetta in case its not installed in arm machines. 
 Minor bug fixes and performance improvements.</releaseNotes>
 		<version>2.7.101</version>
+		<app_store_url>https://apps.apple.com/us/app/azure-vpn-client/id1553936137?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Universal Print</name>
@@ -180,6 +191,7 @@ Minor bug fixes and performance improvements.</releaseNotes>
 		<minimumOsVersion>14.6.1</minimumOsVersion>
 		<releaseNotes>Includes support for more customers.</releaseNotes>
 		<version>1.0.5</version>
+		<app_store_url>https://apps.apple.com/us/app/universal-print/id6450432292?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Rewards for Safari</name>
@@ -190,6 +202,7 @@ Minor bug fixes and performance improvements.</releaseNotes>
 		<minimumOsVersion>11.3</minimumOsVersion>
 		<releaseNotes>NA</releaseNotes>
 		<version>1.0.0</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-rewards-for-safari/id6443944644?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Bing for Safari</name>
@@ -200,6 +213,7 @@ Minor bug fixes and performance improvements.</releaseNotes>
 		<minimumOsVersion>11.3</minimumOsVersion>
 		<releaseNotes>Additional instrumentation. Updated information with more detail about app and its features.</releaseNotes>
 		<version>3.0.0</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-bing-for-safari/id1560727432?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Accessory Updater</name>
@@ -210,5 +224,6 @@ Minor bug fixes and performance improvements.</releaseNotes>
 		<minimumOsVersion>11.3</minimumOsVersion>
 		<releaseNotes>NA</releaseNotes>
 		<version>1.2</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-accessory-updater/id1599783787?mt=12&amp;uo=4</app_store_url>
 	</package>
 </latest>

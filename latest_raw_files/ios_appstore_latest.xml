@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 17, 2025 02:08 PM EDT</last_updated>
+	<last_updated>October 17, 2025 02:45 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -10,6 +10,7 @@
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 — enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.</releaseNotes>
 		<version>2.102.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
@@ -20,6 +21,7 @@
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 — enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.</releaseNotes>
 		<version>2.102.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
@@ -30,6 +32,7 @@
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 — enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.</releaseNotes>
 		<version>2.102.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
@@ -42,6 +45,7 @@
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
 		<version>4.2539.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
@@ -57,6 +61,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
 		<version>16.102.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft OneDrive</name>
@@ -67,6 +72,7 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
 		<version>16.25.5</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
@@ -79,6 +85,7 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
 		<version>11.2.1</version>
+		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Defender Security</name>
@@ -89,19 +96,21 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and improvements</releaseNotes>
 		<version>1.1.69250104</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot</bundleId>
-		<currentVersionReleaseDate>October 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5d/da/7c5dda17-dd25-92f1-c46c-d529a9621fa7/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/dd/5c/dbdd5c4a-edcf-4ece-d3ca-2ad9404991cb/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Introducing the New Copilot: Your AI Companion
 This update includes an intuitive design with more digestible and faster answers, plus new features.
 Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
 Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
-		<version>30.0.431014002</version>
+		<version>30.0.431015002</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -112,6 +121,7 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
 		<version>2.102.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Warehouse Management</name>
@@ -123,6 +133,7 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<releaseNotes>This version of the Warehouse Management mobile app introduces the following fixes and improvements:
 •Fixed an issue that affected the connection on devices.</releaseNotes>
 		<version>3.0.6</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Store Commerce</name>
@@ -133,6 +144,7 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
 		<version>9.55.25283</version>
+		<app_store_url>https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -143,6 +155,7 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements.</releaseNotes>
 		<version>13.24093.1</version>
+		<app_store_url>https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lists</name>
@@ -153,6 +166,7 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This build contains several bug fixes.</releaseNotes>
 		<version>2.29.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-lists/id1530637363?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>
@@ -163,16 +177,18 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Minor updates, bug fixes, and performance improvements.</releaseNotes>
 		<version>13.25091.10</version>
+		<app_store_url>https://apps.apple.com/us/app/dynamics-365-field-service/id1485579247?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>October 07, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/fe/88/b9fe88e4-3ff2-a417-4a11-c4906462f8a7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 16, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/72/cb/2872cb37-c247-6e3a-0cc4-cbd3f4cd0541/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.15.0</version>
+		<version>11.16.0</version>
+		<app_store_url>https://apps.apple.com/us/app/viva-engage/id289559439?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Whiteboard</name>
@@ -187,7 +203,7 @@ CHANGELOG
 * Fixes an issue with undo/redo actions
 * Fixes an issue with incidental touches affecting drawing with pencil
 * Fixes an issue where drawings were disappearing
-* Significant drawing and rendering performance improvements&quot;
+* Significant drawing and rendering performance improvements"
 * Better error reporting for improved debugging and support
 * General stability improvements
 
@@ -218,6 +234,7 @@ Like Whiteboard?
 • Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw
 • Please send me your Whiteboard drawings on Instagram @getwhiteboard.</releaseNotes>
 		<version>2.5.1</version>
+		<app_store_url>https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>
@@ -231,6 +248,7 @@ Like Whiteboard?
 • Clear Browsing Data: Protect your privacy easily with one tap from the menu.
 Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!</releaseNotes>
 		<version>141.3537.72</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
@@ -241,6 +259,7 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>This release includes several bug fixes to make your experience even better.</releaseNotes>
 		<version>5.6.1</version>
+		<app_store_url>https://apps.apple.com/us/app/seeing-ai/id999062298?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Planner</name>
@@ -251,6 +270,7 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
 		<version>1.17.9</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Azure</name>
@@ -263,6 +283,7 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 
 Please reach out to us for any questions, concerns, or feature requests.</releaseNotes>
 		<version>7.9.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft To-Do</name>
@@ -273,6 +294,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>We fixed some bugs to improve the app experience.</releaseNotes>
 		<version>2.159</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Teams</name>
@@ -283,6 +305,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
 		<version>7.18.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>
@@ -293,6 +316,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Stability improvements and fixes.</releaseNotes>
 		<version>4.54.7</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Business Central</name>
@@ -303,6 +327,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements.</releaseNotes>
 		<version>13.24093.1</version>
+		<app_store_url>https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Power Apps</name>
@@ -313,6 +338,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
 		<version>3.25101.13</version>
+		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>
@@ -323,6 +349,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.</releaseNotes>
 		<version>6.8.36(5)</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>
@@ -333,6 +360,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>13.4</minimumOsVersion>
 		<releaseNotes>With the latest release, the app now supports the Simplified Chinese language and locale formatting.</releaseNotes>
 		<version>2.22.16</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-advertising/id979729863?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
@@ -343,6 +371,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
 		<version>2.96.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>
@@ -353,6 +382,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>12.1</minimumOsVersion>
 		<releaseNotes>• Bug Fixes</releaseNotes>
 		<version>2.2.0</version>
+		<app_store_url>https://apps.apple.com/us/app/work-folders/id950878067?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Power BI</name>
@@ -363,6 +393,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
 		<version>35.5</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>
@@ -373,6 +404,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>As part of this release, Admins will now receive real-time notifications on their mobile devices when Copilot license requests are submitted — enabling quicker response and streamlined license management on the go.</releaseNotes>
 		<version>5.7.2</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-365-admin/id761397963?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Intune Company Portal</name>
@@ -383,6 +415,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We’ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.</releaseNotes>
 		<version>5.2509.1</version>
+		<app_store_url>https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Azure Information Protection</name>
@@ -393,6 +426,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>Bug fixes</releaseNotes>
 		<version>2.1.4</version>
+		<app_store_url>https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
@@ -403,6 +437,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
 		<version>2.102.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>
@@ -413,5 +448,6 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
 		<version>6.34.119</version>
+		<app_store_url>https://apps.apple.com/us/app/skype-for-business/id605841731?uo=4</app_store_url>
 	</package>
 </latest>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 17, 2025 02:08 PM EDT",
+    "last_updated": "October 17, 2025 02:48 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -9,7 +9,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/a1/42/7ba1427b-9b7c-8fcb-1607-804c4a81ef9a/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.102"
+            "version": "16.102",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Excel",
@@ -19,7 +20,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/29/3c/97293c2f-2b67-fdea-6b8a-14b5b0d2198f/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.102"
+            "version": "16.102",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
@@ -29,7 +31,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/6b/f9/9f6bf919-930b-dfb3-fa62-b4588af0d9b5/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 Reference a Loop/Page when creating a presentation with Copilot: You can now reference a Loop/Page when you create a presentation with Copilot within the PowerPoint application.\n\u2022 Add topic(s) through Copilot to your existing presentation: Now, you will be able to add more content to your existing presentation using Copilot. It would help you generate/add new topic(s) with slides that are consistent in look and feel of your existing presentations.",
-            "version": "16.102"
+            "version": "16.102",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Outlook",
@@ -39,7 +42,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/9e/37/1b9e3744-1e33-4558-6b3f-d2a5dda3992d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "Feature Updates: \n\u2022 Sync window: lets users manage how much email data is downloaded and stored locally for offline access by setting a date range (default: 60 days, maximum: 180 days). Users can also choose specific folders they always want to sync. \n\nResolved Issues: \n\u2022 Calendar: Resolved an issue that caused attendees marked as tentative to appear as free in the mini scheduler.",
-            "version": "16.102"
+            "version": "16.102",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft OneNote",
@@ -49,7 +53,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/17/c9/0517c975-0e05-9b95-e0ae-e3e919aec4bb/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.\nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.102"
+            "version": "16.102",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft OneDrive",
@@ -59,7 +64,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/6e/d1/0f6ed1ec-875d-8688-b076-d59edaaf4aab/OneDrive.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.",
-            "version": "25.174.0907"
+            "version": "25.174.0907",
+            "app_store_url": "https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4"
         },
         {
             "name": "MacOS RMS Sharing",
@@ -69,7 +75,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/09/a4/f4/09a4f4b3-7aed-51c0-8e6b-5cb95ec6dada/rmssharing.png/512x512bb.png",
             "minimumOsVersion": "10.9",
             "releaseNotes": "Bug fixes, security updates",
-            "version": "1.3.4"
+            "version": "1.3.4",
+            "app_store_url": "https://apps.apple.com/us/app/rms-sharing/id908570259?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Windows App",
@@ -79,7 +86,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c2/04/eac2049c-e5b5-cf01-b6dc-83415b44ab06/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "This is a quick release to address a customer-reported issue impacting connections utilizing RD Gateways running on Windows Server 2012 R2 or earlier.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.2.4"
+            "version": "11.2.4",
+            "app_store_url": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft To-Do",
@@ -89,7 +97,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/6f/73/dc6f735a-d9fb-e2eb-bb0e-733a1dec0cad/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png",
             "minimumOsVersion": "10.15",
             "releaseNotes": "We fixed some bugs to improve the app experience.",
-            "version": "2.159"
+            "version": "2.159",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-to-do/id1274495053?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft CoPilot",
@@ -99,7 +108,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/aa/b7/1daab7e2-576f-9574-ce34-dec5fc0facee/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "Copilot just landed AI's leading model. GPT-5 is AI at its smartest and most intuitive, combining the best of our reasoning and chat models into one cohesive experience. Select \"Smart\" mode to try GPT-5 today. \n\nMicrosoft Copilot is your daily AI companion. Talking with Copilot is an easy way to learn, grow and gain confidence, all with the help of the latest OpenAI and Microsoft AI models. \n\nAccomplish anything with Copilot\u2019s AI chat assistant.  Our AI photo generator helps you create images from words. Chat with AI to get a fresh perspective on your ideas. Air your thoughts out and get the support you need with Copilot\u2019s AI chat assistant. Copilot is your AI helper that boosts productivity, acts as your personal AI writing assistant, and drives business.  \n\nChat with AI, either through messages or with your voice, to bring the vast world of information straight to you. Your personal AI can answer hard questions and give straightforward answers, giving you complex insights from simple conversations. \n\nMicrosoft Copilot is in your corner and by your side for whatever comes your way. Your AI chat assistant can help when you want it to and give you a boost for when you\u2019re almost there. Explore endless possibilities with instant sharp summaries, helpful rewrites, or AI image generation. Our AI writing assistant can write, edit, or research topics to create well-rounded content. Smart AI technology allows you to use a text prompt to create artwork or designs with our AI photo generator. From finding inspiration on new projects to creating a grocery list with AI shopping - with Copilot, you\u2019ve got this. \n\nAchieve more with Copilot, the ultimate AI companion. \n\nWork smarter, enhanced with AI chat assistant \n\n\u2022 Smart AI gets you summarized answers quickly - get straightforward answers to your complex questions, all from simple conversations with our AI helper \n\n\u2022 Chat with AI to simplify your grocery list or weekly meal prep list with a shopping list generated with AI \n\n\u2022 AI chat assistant can translate and proofread across multiple languages, optimizing the text you need in hundreds of languages, including regional dialects \n\n\u2022 Compose and draft emails, cover letters, and update your resume \n\nAI voice chat with Copilot is the support you need, when you need it \n\n\u2022 Compose stories or scripts when you talk to our AI helper \n\n\u2022 AI photo generator technology turns your ideas into reality \n\n\u2022 Create high quality visuals from text prompts, rendering your concepts into stunning visuals, from the abstract to the photorealistic with voice chat \n\n\u2022 AI chat assistant can spark inspiration for a new task \n\nYour AI companion and AI photo generator \n\n\u2022 Search by images with AI helper \n\n\u2022 Explore and develop new styles and ideas, including logo designs and brand motifs \n\n\u2022 Create illustrations for children's books \n\n\u2022 Curate social media content \n\n\u2022 AI image generation helps you visualize film and video storyboards \n\n\u2022 Chat with AI to help build and update a portfolio \n\nCopilot combines the power of AI with the imaginative capabilities of the latest OpenAI models all in one place. Download Microsoft Copilot, the AI companion that\u2019s here to help.",
-            "version": "23.8.431015005"
+            "version": "23.8.431015005",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Azure VPN Client",
@@ -109,7 +119,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/60/df/2360df4b-4ac5-4480-bb3e-4f59df6c3e64/AppIcon-85-220-0-4-0-0-2x-0-0.png/512x512bb.png",
             "minimumOsVersion": "10.15",
             "releaseNotes": "Added auto reconnect on VPN connections for intermittent/ server failures. \nAdded notification which notifies user to install rosetta in case its not installed in arm machines. \nMinor bug fixes and performance improvements.",
-            "version": "2.7.101"
+            "version": "2.7.101",
+            "app_store_url": "https://apps.apple.com/us/app/azure-vpn-client/id1553936137?mt=12&uo=4"
         },
         {
             "name": "MacOS Universal Print",
@@ -119,7 +130,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/42/98/35429802-8ef5-c306-5279-ea3873609e14/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png",
             "minimumOsVersion": "14.6.1",
             "releaseNotes": "Includes support for more customers.",
-            "version": "1.0.5"
+            "version": "1.0.5",
+            "app_store_url": "https://apps.apple.com/us/app/universal-print/id6450432292?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Rewards for Safari",
@@ -129,7 +141,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/59/04/4b5904a2-060d-f5e1-707f-c96da43bd11f/AppIcon-85-220-4-2x.png/512x512bb.png",
             "minimumOsVersion": "11.3",
             "releaseNotes": "NA",
-            "version": "1.0.0"
+            "version": "1.0.0",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-rewards-for-safari/id6443944644?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Bing for Safari",
@@ -139,7 +152,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/9b/5a/fe9b5a2a-6cc9-41bd-604f-a6f3913dd240/AppIcon-0-0-85-220-4-2x.png/512x512bb.png",
             "minimumOsVersion": "11.3",
             "releaseNotes": "Additional instrumentation. Updated information with more detail about app and its features.",
-            "version": "3.0.0"
+            "version": "3.0.0",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-bing-for-safari/id1560727432?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Accessory Updater",
@@ -149,7 +163,8 @@
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/10/ce/9e10cee9-e04d-26b7-65b9-7dc32679c10a/AppIcon-85-220-0-4-2x.png/512x512bb.png",
             "minimumOsVersion": "11.3",
             "releaseNotes": "NA",
-            "version": "1.2"
+            "version": "1.2",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-accessory-updater/id1599783787?mt=12&uo=4"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 17, 2025 07:06 AM EDT",
+    "last_updated": "October 17, 2025 08:11 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -85,11 +85,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot",
-            "currentVersionReleaseDate": "October 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5d/da/7c5dda17-dd25-92f1-c46c-d529a9621fa7/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/dd/5c/dbdd5c4a-edcf-4ece-d3ca-2ad9404991cb/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
-            "version": "30.0.431014002"
+            "version": "30.0.431015002"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -155,11 +155,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "October 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/fe/88/b9fe88e4-3ff2-a417-4a11-c4906462f8a7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 16, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/72/cb/2872cb37-c247-6e3a-0cc4-cbd3f4cd0541/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "11.15.0"
+            "version": "11.16.0"
         },
         {
             "name": "iOS Microsoft Whiteboard",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "October 07, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/5f/b3/b45fb37c-6c5a-f025-196e-9fb5a5c74b00/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/ee/79/67ee798f-41e7-ff37-a08b-688484b37a7e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.18.1"
+            "version": "7.18.2"
         },
         {
             "name": "iOS Microsoft Sharepoint",

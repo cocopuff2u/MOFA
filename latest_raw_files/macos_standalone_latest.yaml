@@ -1,4 +1,4 @@
-last_updated: October 17, 2025 01:06 PM EDT
+last_updated: October 17, 2025 02:08 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -228,16 +228,16 @@ packages:
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app
   CFBundleVersion: com.microsoft.autoupdate
-  short_version: 4.80 (25092610)
-  full_version: 4.80.25092610
-  last_updated: September 26, 2025
+  short_version: 4.81 (25101344)
+  full_version: 4.81.25101344
+  last_updated: October 13, 2025
   min_os: 10.14.0
-  app_only_update_download: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.80.25092610_Updater.pkg
-  app_update_sha1: 3a8b0ba79343fdbdba5029cfc6c7db66fe9acfdf
-  app_update_sha256: 0bf87390c369931fab790d9e7570c66f5f160e0c120b4bc0564bfacffcb74742
+  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.81.25101344_Updater.pkg
+  app_update_sha1: 796b8838e57ed6110fe31c476ed0c12623a1a7b9
+  app_update_sha256: 396de9c54f596834985e6af644a52831e6cb658838e06486a01bc754baceb513
   full_update_download: https://go.microsoft.com/fwlink/?linkid=830196
-  full_update_sha1: 3a8b0ba79343fdbdba5029cfc6c7db66fe9acfdf
-  full_update_sha256: 0bf87390c369931fab790d9e7570c66f5f160e0c120b4bc0564bfacffcb74742
+  full_update_sha1: 796b8838e57ed6110fe31c476ed0c12623a1a7b9
+  full_update_sha256: 396de9c54f596834985e6af644a52831e6cb658838e06486a01bc754baceb513
 - name: Licensing Helper Tool
   application_id: OLIC02
   application_name: N/A

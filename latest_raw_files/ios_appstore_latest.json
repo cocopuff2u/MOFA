@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 18, 2025 06:06 AM EDT",
+    "last_updated": "October 18, 2025 07:05 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -247,11 +247,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "October 17, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/ee/79/67ee798f-41e7-ff37-a08b-688484b37a7e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/5f/b3/b45fb37c-6c5a-f025-196e-9fb5a5c74b00/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.18.2",
+            "version": "7.18.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
         },
         {

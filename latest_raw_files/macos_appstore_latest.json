@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 17, 2025 09:33 PM EDT",
+    "last_updated": "October 17, 2025 10:30 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -60,11 +60,11 @@
             "name": "MacOS Microsoft OneDrive",
             "application_name": "OneDrive",
             "bundleId": "com.microsoft.OneDrive-mac",
-            "currentVersionReleaseDate": "October 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/6e/d1/0f6ed1ec-875d-8688-b076-d59edaaf4aab/OneDrive.png/512x512bb.png",
+            "currentVersionReleaseDate": "October 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/33/41/61334149-92d8-b535-aa78-bf81b9f33596/OneDrive.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.",
-            "version": "25.174.0907",
+            "version": "25.184.0921",
             "app_store_url": "https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4"
         },
         {
@@ -104,11 +104,11 @@
             "name": "MacOS Microsoft CoPilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot-mac",
-            "currentVersionReleaseDate": "October 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/8d/45/ba8d4576-57dd-5353-864b-c7bf1e34d914/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png",
+            "currentVersionReleaseDate": "October 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/aa/b7/1daab7e2-576f-9574-ce34-dec5fc0facee/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "A Smarter, Faster, and More Mac-Native Copilot Experience\n \n\u2022 Say hello to GPT-5 \u2014 our most advanced AI yet, now in Smart Mode for more intuitive conversations and deeper reasoning.\n \n\u2022 Copilot is now fully native on macOS, with faster performance, smoother interactions, and a look that feels right at home.\n \nUpdate now to experience the new Copilot.",
-            "version": "23.7.431011002",
+            "releaseNotes": "Copilot just landed AI's leading model. GPT-5 is AI at its smartest and most intuitive, combining the best of our reasoning and chat models into one cohesive experience. Select \"Smart\" mode to try GPT-5 today. \n\nMicrosoft Copilot is your daily AI companion. Talking with Copilot is an easy way to learn, grow and gain confidence, all with the help of the latest OpenAI and Microsoft AI models. \n\nAccomplish anything with Copilot\u2019s AI chat assistant.  Our AI photo generator helps you create images from words. Chat with AI to get a fresh perspective on your ideas. Air your thoughts out and get the support you need with Copilot\u2019s AI chat assistant. Copilot is your AI helper that boosts productivity, acts as your personal AI writing assistant, and drives business.  \n\nChat with AI, either through messages or with your voice, to bring the vast world of information straight to you. Your personal AI can answer hard questions and give straightforward answers, giving you complex insights from simple conversations. \n\nMicrosoft Copilot is in your corner and by your side for whatever comes your way. Your AI chat assistant can help when you want it to and give you a boost for when you\u2019re almost there. Explore endless possibilities with instant sharp summaries, helpful rewrites, or AI image generation. Our AI writing assistant can write, edit, or research topics to create well-rounded content. Smart AI technology allows you to use a text prompt to create artwork or designs with our AI photo generator. From finding inspiration on new projects to creating a grocery list with AI shopping - with Copilot, you\u2019ve got this. \n\nAchieve more with Copilot, the ultimate AI companion. \n\nWork smarter, enhanced with AI chat assistant \n\n\u2022 Smart AI gets you summarized answers quickly - get straightforward answers to your complex questions, all from simple conversations with our AI helper \n\n\u2022 Chat with AI to simplify your grocery list or weekly meal prep list with a shopping list generated with AI \n\n\u2022 AI chat assistant can translate and proofread across multiple languages, optimizing the text you need in hundreds of languages, including regional dialects \n\n\u2022 Compose and draft emails, cover letters, and update your resume \n\nAI voice chat with Copilot is the support you need, when you need it \n\n\u2022 Compose stories or scripts when you talk to our AI helper \n\n\u2022 AI photo generator technology turns your ideas into reality \n\n\u2022 Create high quality visuals from text prompts, rendering your concepts into stunning visuals, from the abstract to the photorealistic with voice chat \n\n\u2022 AI chat assistant can spark inspiration for a new task \n\nYour AI companion and AI photo generator \n\n\u2022 Search by images with AI helper \n\n\u2022 Explore and develop new styles and ideas, including logo designs and brand motifs \n\n\u2022 Create illustrations for children's books \n\n\u2022 Curate social media content \n\n\u2022 AI image generation helps you visualize film and video storyboards \n\n\u2022 Chat with AI to help build and update a portfolio \n\nCopilot combines the power of AI with the imaginative capabilities of the latest OpenAI models all in one place. Download Microsoft Copilot, the AI companion that\u2019s here to help.",
+            "version": "23.8.431015005",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&uo=4"
         },
         {

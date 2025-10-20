@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 20, 2025 05:06 PM EDT</last_updated>
+	<last_updated>October 20, 2025 06:06 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>October 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/07/1a/9c071abc-4a01-02dd-4a99-320121e7211e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/9c/75/9f9c7527-38e1-e9f1-9270-07ebec1d40f5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.102.2</version>
+		<releaseNotes>• Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 — enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.</releaseNotes>
+		<version>2.102.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>October 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/a0/e5/04a0e550-78fc-9779-b046-4646e8c69cc0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/cb/4c/4fcb4cbd-5a77-0964-c1ed-47b8e2a24441/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.102.2</version>
+		<releaseNotes>• Introducing the New Home Experience: Now available on iOS 26, iPadOS 26, and VisionOS 26 — enjoy an all-new design with Liquid Glass effects, streamlined file and template browsing, and a simplified search experience. Optimized for better performance, this update brings a refreshed look and smoother navigation to help you get to your content faster.</releaseNotes>
+		<version>2.102.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>
@@ -263,25 +263,27 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 	</package>
 	<package>
 		<name>iOS Microsoft Planner</name>
-		<application_name>NA</application_name>
-		<bundleId>NA</bundleId>
-		<currentVersionReleaseDate>NA</currentVersionReleaseDate>
-		<icon_image>NA</icon_image>
-		<minimumOsVersion>NA</minimumOsVersion>
-		<releaseNotes>NA</releaseNotes>
-		<version>NA</version>
-		<app_store_url>NA</app_store_url>
+		<application_name>Microsoft Planner</application_name>
+		<bundleId>com.microsoft.PlannerMobile</bundleId>
+		<currentVersionReleaseDate>August 11, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/6b/f8/426bf890-ef13-2778-2566-2fb379f190f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
+		<version>1.17.9</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Azure</name>
-		<application_name>NA</application_name>
-		<bundleId>NA</bundleId>
-		<currentVersionReleaseDate>NA</currentVersionReleaseDate>
-		<icon_image>NA</icon_image>
-		<minimumOsVersion>NA</minimumOsVersion>
-		<releaseNotes>NA</releaseNotes>
-		<version>NA</version>
-		<app_store_url>NA</app_store_url>
+		<application_name>Microsoft Azure</application_name>
+		<bundleId>com.microsoft.azure</bundleId>
+		<currentVersionReleaseDate>October 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/e4/b0/fae4b0f5-5b98-bece-d1a4-625782fae270/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
+		<releaseNotes>Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.
+
+Please reach out to us for any questions, concerns, or feature requests.</releaseNotes>
+		<version>7.9.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft To-Do</name>
@@ -395,14 +397,14 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Admin</name>
-		<application_name>NA</application_name>
-		<bundleId>NA</bundleId>
-		<currentVersionReleaseDate>NA</currentVersionReleaseDate>
-		<icon_image>NA</icon_image>
-		<minimumOsVersion>NA</minimumOsVersion>
-		<releaseNotes>NA</releaseNotes>
-		<version>NA</version>
-		<app_store_url>NA</app_store_url>
+		<application_name>Microsoft 365 Admin</application_name>
+		<bundleId>com.microsoft.o365shdmobileapp</bundleId>
+		<currentVersionReleaseDate>September 05, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0d/b8/e10db871-3c82-f649-3686-5eb88efa87aa/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
+		<releaseNotes>As part of this release, Admins will now receive real-time notifications on their mobile devices when Copilot license requests are submitted — enabling quicker response and streamlined license management on the go.</releaseNotes>
+		<version>5.7.2</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-365-admin/id761397963?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Intune Company Portal</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 21, 2025 08:12 AM EDT",
+    "last_updated": "October 21, 2025 09:17 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -104,14 +104,14 @@
             "application_id": "IMCP01",
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
-            "short_version": "5.2508.1",
-            "full_version": "53.2510404.003",
-            "last_updated": "October 07, 2025",
+            "short_version": "5.2510.0",
+            "full_version": "53.2510408.003",
+            "last_updated": "October 09, 2025",
             "min_os": "11.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg",
-            "latest_download": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2508.1-Upgrade.pkg",
-            "sha1": "b780994ea36313281dec49619c1b895956725394",
-            "sha256": "ac165e3a3c364b9def29c07a7719ac0c4fd541309dbdb1e3a57485bedb8f526d"
+            "update_download": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2510.0-Upgrade.pkg",
+            "latest_download": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2510.0-Upgrade.pkg",
+            "sha1": "c221f40ef784a5508c97442f9cbc28dfab16d60f",
+            "sha256": "d62f1512045cb9c0630bb31e7f65031292e032c6aad131bd4d0ef43443e97499"
         },
         {
             "name": "Edge",

@@ -1,4 +1,4 @@
-last_updated: October 21, 2025 01:07 AM EDT
+last_updated: October 21, 2025 02:10 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: October 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/07/75/5f077594-580b-9908-ef80-50299e3d340a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b9/ab/cbb9ab71-8ec1-ba1b-c336-d09776350260/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 4.2539.1
+    version: 5.2541.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -224,14 +224,14 @@ packages:
     version: 5.6.1
     app_store_url: https://apps.apple.com/us/app/seeing-ai/id999062298?uo=4
   - name: iOS Microsoft Planner
-    application_name: NA
-    bundleId: NA
-    currentVersionReleaseDate: NA
-    icon_image: NA
-    minimumOsVersion: NA
-    releaseNotes: NA
-    version: NA
-    app_store_url: NA
+    application_name: Microsoft Planner
+    bundleId: com.microsoft.PlannerMobile
+    currentVersionReleaseDate: August 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/6b/f8/426bf890-ef13-2778-2566-2fb379f190f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Bug fixes and performance improvements.
+    version: 1.17.9
+    app_store_url: https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4
   - name: iOS Microsoft Azure
     application_name: NA
     bundleId: NA
@@ -335,14 +335,16 @@ packages:
     version: '35.5'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
-    application_name: NA
-    bundleId: NA
-    currentVersionReleaseDate: NA
-    icon_image: NA
-    minimumOsVersion: NA
-    releaseNotes: NA
-    version: NA
-    app_store_url: NA
+    application_name: Microsoft 365 Admin
+    bundleId: com.microsoft.o365shdmobileapp
+    currentVersionReleaseDate: September 05, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0d/b8/e10db871-3c82-f649-3686-5eb88efa87aa/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: "As part of this release, Admins will now receive real-time notifications\
+      \ on their mobile devices when Copilot license requests are submitted \u2014\
+      \ enabling quicker response and streamlined license management on the go."
+    version: 5.7.2
+    app_store_url: https://apps.apple.com/us/app/microsoft-365-admin/id761397963?uo=4
   - name: iOS Microsoft Intune Company Portal
     application_name: Intune Company Portal
     bundleId: com.microsoft.CompanyPortal

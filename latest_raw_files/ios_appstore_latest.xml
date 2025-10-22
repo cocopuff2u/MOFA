@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 22, 2025 11:31 AM EDT</last_updated>
+	<last_updated>October 22, 2025 12:08 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -203,7 +203,7 @@ CHANGELOG
 * Fixes an issue with undo/redo actions
 * Fixes an issue with incidental touches affecting drawing with pencil
 * Fixes an issue where drawings were disappearing
-* Significant drawing and rendering performance improvements"
+* Significant drawing and rendering performance improvements&quot;
 * Better error reporting for improved debugging and support
 * General stability improvements
 

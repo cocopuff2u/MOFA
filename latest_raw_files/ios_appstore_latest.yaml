@@ -1,4 +1,4 @@
-last_updated: October 22, 2025 09:16 AM EDT
+last_updated: October 22, 2025 10:08 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -233,18 +233,14 @@ packages:
     version: 1.17.9
     app_store_url: https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4
   - name: iOS Microsoft Azure
-    application_name: Microsoft Azure
-    bundleId: com.microsoft.azure
-    currentVersionReleaseDate: October 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/e4/b0/fae4b0f5-5b98-bece-d1a4-625782fae270/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
-    releaseNotes: 'Thank you for using the Azure app. Our regular updates include
-      performance improvements and bug fixes to make the app faster and more reliable.
-
-
-      Please reach out to us for any questions, concerns, or feature requests.'
-    version: 7.9.1
-    app_store_url: https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4
+    application_name: NA
+    bundleId: NA
+    currentVersionReleaseDate: NA
+    icon_image: NA
+    minimumOsVersion: NA
+    releaseNotes: NA
+    version: NA
+    app_store_url: NA
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
@@ -284,11 +280,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: October 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/12/49/be1249f3-aec6-f6af-b197-6349f946dc54/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: October 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/39/e6/8a39e65a-42d3-9b10-75b0-2064c3289e0b/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25102.14
+    version: 3.25101.13
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator

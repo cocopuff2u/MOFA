@@ -175,6 +175,20 @@ jobs:
           git commit -m "Auto updating macOS Edge All XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
+      - name: Run update script for RSS feed
+        run: |
+          python3 .github/actions/generate_macos_standalone_rss.py
+
+      - name: Commit changes for RSS feed (if any)
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add latest_raw_files/*
+          git commit -m "Auto Updating RSS Feed Files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
       - name: Run update script for README
         run: |
           python3 .github/actions/update_readme.py

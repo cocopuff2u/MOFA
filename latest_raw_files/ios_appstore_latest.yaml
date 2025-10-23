@@ -1,4 +1,4 @@
-last_updated: October 23, 2025 08:33 AM EDT
+last_updated: October 23, 2025 09:15 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -88,8 +88,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot
-    currentVersionReleaseDate: October 22, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/8c/35/268c3502-e4d7-7663-1c1b-f8859ac38264/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/dd/5c/dbdd5c4a-edcf-4ece-d3ca-2ad9404991cb/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Introducing the New Copilot: Your AI Companion
 
@@ -100,7 +100,7 @@ packages:
 
       Copilot Daily: Start your day with a news and weather summary. Clean, simple,
       and easy to digest.'
-    version: 30.0.431021004
+    version: 30.0.431015002
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
@@ -371,11 +371,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: October 22, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/c2/29/03c22905-3a29-65e5-cfb4-ade57ffe219e/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/3f/b4/6d3fb450-0e39-c2eb-9782-9f729a2b1a5a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.103.0
+    version: 2.102.1
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

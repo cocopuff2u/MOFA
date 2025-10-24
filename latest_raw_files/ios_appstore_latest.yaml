@@ -1,4 +1,4 @@
-last_updated: October 24, 2025 08:12 AM EDT
+last_updated: October 24, 2025 09:15 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -21,11 +21,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: October 20, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/f3/f5/5bf3f52b-8a11-7350-933d-dc9940e43754/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/5a/c7/e05ac7e9-41a8-feee-bdca-b1d2587f2676/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.102.2
+    releaseNotes: "\u2022 Fixes an issue where app may become temporarily unresponsive."
+    version: 2.102.3
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -161,12 +161,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: October 16, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/72/cb/2872cb37-c247-6e3a-0cc4-cbd3f4cd0541/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/1c/37/b61c3768-8371-7cf9-4dc6-c3ac53c63abc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 11.16.0
+    version: 11.17.0
     app_store_url: https://apps.apple.com/us/app/viva-engage/id289559439?uo=4
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'
@@ -257,11 +257,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: October 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/ee/79/67ee798f-41e7-ff37-a08b-688484b37a7e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 23, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ee/3d/02ee3d31-de82-03c5-efb3-ed9c87bf0564/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.18.2
+    version: 7.19.0
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint

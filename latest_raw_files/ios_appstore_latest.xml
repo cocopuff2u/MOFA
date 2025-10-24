@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 24, 2025 07:06 AM EDT</last_updated>
+	<last_updated>October 24, 2025 08:12 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -16,11 +16,11 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>October 20, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/a0/e5/04a0e550-78fc-9779-b046-4646e8c69cc0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/ac/6d/d7ac6d0c-f441-14af-07aa-903d1f9b123f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.102.2</version>
+		<releaseNotes>• Fixes an issue where app may become temporarily unresponsive.</releaseNotes>
+		<version>2.102.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>

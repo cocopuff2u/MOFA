@@ -1,6 +1,6 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "October 25, 2025 02:09 AM EDT",
+        "last_updated": "October 25, 2025 03:06 AM EDT",
         "Version": [
             {
                 "Name": "current",
@@ -11,7 +11,7 @@
                 "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5c33cc04-5a2d-4dc9-b7f7-67335b4ce1fb/MicrosoftEdge-141.0.3537.99.pkg",
                 "Full_Update_Sha1": "591c2da4c2f0475716a4b57c1712c20e196aeba1",
                 "Full_Update_Sha256": "d76f2ff87a4e56badb9e9b4dc7f3b95d1b0142cc843b9181ab94b72c6cb89fb3",
-                "Last_Update": "October 23, 2025 02:15 PM EDT"
+                "Last_Update": "October 25, 2025 02:48 AM EDT"
             },
             {
                 "Name": "canary",

@@ -1,4 +1,4 @@
-last_updated: October 27, 2025 05:09 AM EDT
+last_updated: October 27, 2025 06:08 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -94,8 +94,8 @@ packages:
   - name: MacOS Microsoft CoPilot
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot-mac
-    currentVersionReleaseDate: October 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/7d/b3/177db37f-e907-55a5-93dd-7934a7be8c1c/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png
+    currentVersionReleaseDate: October 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/aa/b7/1daab7e2-576f-9574-ce34-dec5fc0facee/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "Copilot just landed AI's leading model. GPT-5 is AI at its smartest\
       \ and most intuitive, combining the best of our reasoning and chat models into\
@@ -141,7 +141,7 @@ packages:
       \ the power of AI with the imaginative capabilities of the latest OpenAI models\
       \ all in one place. Download Microsoft Copilot, the AI companion that\u2019\
       s here to help."
-    version: 23.9.431024003
+    version: 23.8.431015005
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&uo=4
   - name: MacOS Microsoft Azure VPN Client
     application_name: Azure VPN Client

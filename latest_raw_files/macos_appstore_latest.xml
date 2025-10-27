@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 27, 2025 04:10 AM EDT</last_updated>
+	<last_updated>October 27, 2025 05:09 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -111,8 +111,8 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<name>MacOS Microsoft CoPilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot-mac</bundleId>
-		<currentVersionReleaseDate>October 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/aa/b7/1daab7e2-576f-9574-ce34-dec5fc0facee/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>October 27, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/7d/b3/177db37f-e907-55a5-93dd-7934a7be8c1c/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>Copilot just landed AI's leading model. GPT-5 is AI at its smartest and most intuitive, combining the best of our reasoning and chat models into one cohesive experience. Select &quot;Smart&quot; mode to try GPT-5 today. 
 
@@ -161,7 +161,7 @@ Your AI companion and AI photo generator
 • Chat with AI to help build and update a portfolio 
 
 Copilot combines the power of AI with the imaginative capabilities of the latest OpenAI models all in one place. Download Microsoft Copilot, the AI companion that’s here to help.</releaseNotes>
-		<version>23.8.431015005</version>
+		<version>23.9.431024003</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

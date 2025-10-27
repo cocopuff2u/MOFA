@@ -1,4 +1,4 @@
-last_updated: October 26, 2025 08:31 PM EDT
+last_updated: October 26, 2025 09:36 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -150,12 +150,12 @@ packages:
   CFBundleVersion: com.microsoft.VSCodeInsiders
   short_version: 1.106.0-
   full_version: 1.106.0-insider
-  last_updated: October 24, 2025
+  last_updated: October 26, 2025
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/a24e4c509a43ed2fed08fe6e65c9f26d89c81c75/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/ddb5b646abd33712d820e8e6830e5fc49abb2572/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
-  sha1: 6ff856109d131129f377f767e67b20ed8154e249
-  sha256: 52b9c6db1e057536ba3c7d9b9395ef066ef647d365a821d9775e8560145085f1
+  sha1: 7993768fbd1f9b6a7e913cc837297c32692af70b
+  sha256: 727bb8f83d2e1d3e498519921bdedcf62bd5df22cd5df8ddb338e02562b00b61
 - name: Copilot
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app

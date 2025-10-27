@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 26, 2025 07:06 PM EDT",
+    "last_updated": "October 26, 2025 08:31 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -335,11 +335,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "October 26, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/00/81/17008124-a019-a036-43d3-6e0087c47c65/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/66/51/e16651d0-b182-3f83-3a6b-ddbe7971d189/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "35.6",
+            "version": "35.5",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4"
         },
         {

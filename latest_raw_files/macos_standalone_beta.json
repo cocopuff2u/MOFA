@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 27, 2025 08:28 PM EDT",
+    "last_updated": "October 27, 2025 09:35 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -105,8 +105,8 @@
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
             "short_version": "5.2510.0",
-            "full_version": "53.2510408.003",
-            "last_updated": "October 09, 2025",
+            "full_version": "53.2510420.003",
+            "last_updated": "October 22, 2025",
             "min_os": "11.0",
             "update_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2510.0-Upgrade.pkg",
             "latest_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2510.0-Upgrade.pkg",

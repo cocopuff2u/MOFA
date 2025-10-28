@@ -1,22 +1,22 @@
-last_updated: October 28, 2025 03:06 PM EDT
+last_updated: October 28, 2025 04:07 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Word
-    currentVersionReleaseDate: October 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/a5/b6/faa5b6f0-eca2-c7d1-8a2d-6fbba56e3ea1/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: October 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/c3/08/ccc30800-ee3f-94a3-8501-3f3cf3945b3c/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.102.1
+    version: 16.102.2
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: October 21, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/44/92/514492ec-44d3-6cb7-13c3-3689ef2bc863/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: October 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/5a/2a/315a2a9b-dfe9-0697-5a4b-f325cec45d2d/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.102.1
+    version: 16.102.2
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -146,13 +146,12 @@ packages:
   - name: MacOS Microsoft Azure VPN Client
     application_name: Azure VPN Client
     bundleId: com.microsoft.AzureVpnMac
-    currentVersionReleaseDate: September 04, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/60/df/2360df4b-4ac5-4480-bb3e-4f59df6c3e64/AppIcon-85-220-0-4-0-0-2x-0-0.png/512x512bb.png
-    minimumOsVersion: '10.15'
-    releaseNotes: "Added auto reconnect on VPN connections for intermittent/ server\
-      \ failures. \nAdded notification which notifies user to install rosetta in case\
-      \ its not installed in arm machines. \nMinor bug fixes and performance improvements."
-    version: 2.7.101
+    currentVersionReleaseDate: October 28, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e1/79/fde1796c-45de-a318-3f02-419cdd1d2003/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
+    minimumOsVersion: '13.0'
+    releaseNotes: "1. macOS minimum version supported updated to 13.0 (Earlier 10.15)\
+      \ \n2. Server HA feature disabled \n3. Phantom window bug fix during Entra login"
+    version: 2.8.100
     app_store_url: https://apps.apple.com/us/app/azure-vpn-client/id1553936137?mt=12&uo=4
   - name: MacOS Universal Print
     application_name: Universal Print

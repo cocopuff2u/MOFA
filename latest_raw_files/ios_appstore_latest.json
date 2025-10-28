@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 27, 2025 09:34 PM EDT",
+    "last_updated": "October 27, 2025 10:35 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -49,11 +49,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "October 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/d8/bb/f3d8bb81-d347-8346-7903-321d31d4e732/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/a0/a5/f2a0a50b-a1e4-4c5c-0e1e-2425b5bd279a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.102.1",
+            "version": "16.102.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4"
         },
         {
@@ -82,11 +82,11 @@
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "October 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/db/fc/12dbfc4e-aafa-9a76-1599-22914154eb80/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/5a/df/205adf42-cab4-7b42-fbad-748a84799b93/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and improvements",
-            "version": "1.1.70230101",
+            "version": "1.1.69250104",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4"
         },
         {
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "October 20, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/eb/88/25eb8800-8edd-0066-f6ec-1e0520fa42b5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 27, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/46/89/094689e0-655c-6c37-3094-f52a4b61a1a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts to your needs, delivering quick answers or deeper insights with expert results.\n\u2022 Clear Browsing Data: Protect your privacy easily with one tap from the menu.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "141.3537.85",
+            "version": "141.3537.99",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {

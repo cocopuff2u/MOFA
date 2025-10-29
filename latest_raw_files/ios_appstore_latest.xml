@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 29, 2025 03:06 PM EDT</last_updated>
+	<last_updated>October 29, 2025 04:07 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -102,14 +102,14 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot</bundleId>
-		<currentVersionReleaseDate>October 22, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/8c/35/268c3502-e4d7-7663-1c1b-f8859ac38264/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 28, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/2b/66/5e2b66c0-4fd1-d6f0-9058-8a175ffb23fb/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Introducing the New Copilot: Your AI Companion
 This update includes an intuitive design with more digestible and faster answers, plus new features.
 Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
 Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
-		<version>30.0.431021004</version>
+		<version>30.0.431028001</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4</app_store_url>
 	</package>
 	<package>
@@ -311,11 +311,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Sharepoint</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>October 29, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/23/15/a9231587-fc2c-1612-75e5-9cbdeb0e3b1e/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.6</minimumOsVersion>
+		<currentVersionReleaseDate>March 20, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a2/17/82a217ae-46b1-d002-9fdb-4fd4a4456baf/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Stability improvements and fixes.</releaseNotes>
-		<version>4.55.1</version>
+		<version>4.54.7</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>

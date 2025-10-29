@@ -1,4 +1,4 @@
-last_updated: October 29, 2025 01:07 AM EDT
+last_updated: October 29, 2025 02:10 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -235,15 +235,15 @@ packages:
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure
-    currentVersionReleaseDate: October 27, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/07/f2/3b07f2e4-35e2-334f-b72f-d5dadf527430/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: October 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/e4/b0/fae4b0f5-5b98-bece-d1a4-625782fae270/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Thank you for using the Azure app. Our regular updates include
       performance improvements and bug fixes to make the app faster and more reliable.
 
 
       Please reach out to us for any questions, concerns, or feature requests.'
-    version: 7.9.3
+    version: 7.9.1
     app_store_url: https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do

@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 01, 2025 03:05 PM EDT",
+    "last_updated": "November 01, 2025 04:06 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -236,11 +236,11 @@
             "name": "iOS Microsoft To-Do",
             "application_name": "Microsoft To Do",
             "bundleId": "com.microsoft.to-do",
-            "currentVersionReleaseDate": "October 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/e6/67/1de66769-8408-c9b0-4cbf-e86f4195033c/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/cd/04/bacd04cd-5d15-dc6e-e3ec-2518dd416d67/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "We fixed some bugs to improve the app experience.",
-            "version": "2.159",
+            "version": "2.159.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4"
         },
         {
@@ -379,11 +379,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "October 29, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/50/ac/6250ace8-73c8-008f-4ac6-31c0e42de15c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 31, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/2b/87/3a2b87f6-6995-6539-f9f6-93cba8d8e1d8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.103.2",
+            "version": "2.103.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
         },
         {

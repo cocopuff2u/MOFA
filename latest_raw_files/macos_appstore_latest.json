@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 01, 2025 03:05 PM EDT",
+    "last_updated": "November 01, 2025 04:06 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -82,11 +82,11 @@
             "name": "MacOS Microsoft Windows App",
             "application_name": "Windows App",
             "bundleId": "com.microsoft.rdc.macos",
-            "currentVersionReleaseDate": "September 30, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c2/04/eac2049c-e5b5-cf01-b6dc-83415b44ab06/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "October 31, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/82/c8/fd82c8ef-0c2d-aa55-6428-39034211adcd/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "This is a quick release to address a customer-reported issue impacting connections utilizing RD Gateways running on Windows Server 2012 R2 or earlier.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.2.4",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added support for displaying whether a Windows 365 Cloud PC endpoint is AI-enabled.\n\u2022 Added support for Windows 365 Cloud App reset.\n\u2022 Added support for Windows 365 Reserve self-provisioning.\n\u2022 Added support for client-side connectivity and system health checks.\n\u2022 Added a \"Type\" field to the Apps tab Connection Center filter for \"Cloud Apps\" and \"Azure Virtual Desktop\".\n\u2022 Added a Favorite/Unfavorite command (Command + T) for devices and apps to the Connections menu.\n\u2022 Resolved a layout issue with device cards on the Favorites tab.\n\u2022 Resolved RDS connectivity issues triggered by authentication certificate processing.\n\u2022 Fixed a bug that caused shortcuts to fail for selected device and app cards in the Connection Center.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
+            "version": "11.2.5",
             "app_store_url": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4"
         },
         {

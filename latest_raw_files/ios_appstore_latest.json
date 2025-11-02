@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 01, 2025 10:38 PM EDT",
+    "last_updated": "November 01, 2025 11:27 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -236,11 +236,11 @@
             "name": "iOS Microsoft To-Do",
             "application_name": "Microsoft To Do",
             "bundleId": "com.microsoft.to-do",
-            "currentVersionReleaseDate": "November 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/cd/04/bacd04cd-5d15-dc6e-e3ec-2518dd416d67/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/e6/67/1de66769-8408-c9b0-4cbf-e86f4195033c/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "We fixed some bugs to improve the app experience.",
-            "version": "2.159.1",
+            "version": "2.159",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4"
         },
         {

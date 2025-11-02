@@ -1,4 +1,4 @@
-last_updated: November 02, 2025 12:09 AM EDT
+last_updated: November 02, 2025 01:06 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -184,11 +184,11 @@ packages:
   application_id: N/A
   application_name: Windows App Beta.app
   CFBundleVersion: com.microsoft.windows.app
-  short_version: 11.2.5
-  full_version: 11.2.5
-  last_updated: October 15, 2025
+  short_version: 11.2.6
+  full_version: 11.2.6
+  last_updated: November 02, 2025
   min_os: N/A
-  update_download: https://appcenter-filemanagement-distrib1ede6f06e-a6b7akbshagxhcfs.z01.azurefd.net/7bb12c32-205e-4f47-a038-f077515f16c6/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=fetVoau0UI5pyP%2BZZfRNc8NL%2FrHOK90lGuiv0Fmh88g%3D&skoid=a1849515-0f61-4610-b6c3-e62ad91d7412&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2025-10-16T03%3A29%3A30Z&ske=2025-10-17T03%3A34%3A30Z&sks=b&skv=2019-07-07&se=2025-10-17T03%3A34%3A30Z&sp=r
-  latest_download: https://appcenter-filemanagement-distrib1ede6f06e-a6b7akbshagxhcfs.z01.azurefd.net/7bb12c32-205e-4f47-a038-f077515f16c6/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=fetVoau0UI5pyP%2BZZfRNc8NL%2FrHOK90lGuiv0Fmh88g%3D&skoid=a1849515-0f61-4610-b6c3-e62ad91d7412&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2025-10-16T03%3A29%3A30Z&ske=2025-10-17T03%3A34%3A30Z&sks=b&skv=2019-07-07&se=2025-10-17T03%3A34%3A30Z&sp=r
-  sha1: 0489c9196da23fe2196c776c24e71298ea44b69c
-  sha256: 52313289f5d2d068ffb5570be13cf34197a913905432963b4c6f2a3c62f0e229
+  update_download: https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/61cbfb0c-f6d9-4c63-9cb1-2c2b1acde4b0/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=QKbbUI%2FzxakHkpwbW9IFpWAIZETTbOdov8wyc60C0Po%3D&skoid=a1849515-0f61-4610-b6c3-e62ad91d7412&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2025-11-02T04%3A23%3A33Z&ske=2025-11-03T04%3A28%3A33Z&sks=b&skv=2019-07-07&se=2025-11-03T04%3A28%3A33Z&sp=r
+  latest_download: https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/61cbfb0c-f6d9-4c63-9cb1-2c2b1acde4b0/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=QKbbUI%2FzxakHkpwbW9IFpWAIZETTbOdov8wyc60C0Po%3D&skoid=a1849515-0f61-4610-b6c3-e62ad91d7412&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2025-11-02T04%3A23%3A33Z&ske=2025-11-03T04%3A28%3A33Z&sks=b&skv=2019-07-07&se=2025-11-03T04%3A28%3A33Z&sp=r
+  sha1: 81b84704b37d6537345b9e386fc62d713ca8d067
+  sha256: 4b3274064485658eb645d9d6ae6342da073512758d0f4cf16b6d936ed6f480b6

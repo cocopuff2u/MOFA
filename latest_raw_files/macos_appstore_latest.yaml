@@ -1,4 +1,4 @@
-last_updated: November 03, 2025 03:08 PM EST
+last_updated: November 03, 2025 04:06 PM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -72,8 +72,8 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: October 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/82/c8/fd82c8ef-0c2d-aa55-6428-39034211adcd/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 02, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/54/e8/e954e89f-15d6-eeff-c28b-0b3b785df1c6/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: "In this release we made the following updates:\n\n\u2022 Added\
       \ support for displaying whether a Windows 365 Cloud PC endpoint is AI-enabled.\n\
@@ -86,8 +86,9 @@ packages:
       \ cards on the Favorites tab.\n\u2022 Resolved RDS connectivity issues triggered\
       \ by authentication certificate processing.\n\u2022 Fixed a bug that caused\
       \ shortcuts to fail for selected device and app cards in the Connection Center.\n\
-      \nIf you encounter any errors, you can contact us via Help > Submit Feedback."
-    version: 11.2.5
+      \u2022 Improved handling for AVD connection orchestration failures.\n\nIf you\
+      \ encounter any errors, you can contact us via Help > Submit Feedback."
+    version: 11.2.6
     app_store_url: https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do

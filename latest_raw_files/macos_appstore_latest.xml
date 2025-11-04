@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 03, 2025 07:29 PM EST</last_updated>
+	<last_updated>November 03, 2025 08:35 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -87,8 +87,8 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>October 31, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/82/c8/fd82c8ef-0c2d-aa55-6428-39034211adcd/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>November 02, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/54/e8/e954e89f-15d6-eeff-c28b-0b3b785df1c6/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>In this release we made the following updates:
 
@@ -101,9 +101,10 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 • Resolved a layout issue with device cards on the Favorites tab.
 • Resolved RDS connectivity issues triggered by authentication certificate processing.
 • Fixed a bug that caused shortcuts to fail for selected device and app cards in the Connection Center.
+• Improved handling for AVD connection orchestration failures.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.5</version>
+		<version>11.2.6</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

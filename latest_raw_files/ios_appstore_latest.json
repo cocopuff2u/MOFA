@@ -1,15 +1,15 @@
 {
-    "last_updated": "November 04, 2025 12:07 AM EST",
+    "last_updated": "November 04, 2025 01:10 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "November 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/df/b1/10dfb173-3434-8045-78c3-8fdb2c65ab4e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 23, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/04/e6/b804e665-2ca1-c450-bd02-d091a21acb8a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.102.4",
+            "releaseNotes": "\u2022 Fixes an issue where app may become temporarily unresponsive.",
+            "version": "2.102.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
         },
         {

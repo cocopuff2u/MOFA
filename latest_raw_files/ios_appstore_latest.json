@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 05, 2025 05:06 PM EST",
+    "last_updated": "November 05, 2025 06:06 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "October 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/46/89/094689e0-655c-6c37-3094-f52a4b61a1a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/4e/b5/864eb519-f4fc-ae9c-5b58-6f259f008d5b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Copilot Smart Mode (GPT-5): Copilot in Edge Mobile now adapts to your needs, delivering quick answers or deeper insights with expert results.\n\u2022 Clear Browsing Data: Protect your privacy easily with one tap from the menu.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "141.3537.99",
+            "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Copilot Composer: Compose faster with streamlined menus and a refreshed design.\n\u2022 Copilot Deep Research Export: Export your deep research reports as a doc, PDF, or even a podcast.\n\u2022 Extensions Now Available on your iPad: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience. (Available now on iPad with iOS 18.4 or later.)\n\u2022 PDF annotation: Your PDFs, your notes \u2014 annotate anywhere with Edge.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
+            "version": "142.3595.53",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 05, 2025 07:12 AM EST</last_updated>
+	<last_updated>November 05, 2025 08:16 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -183,11 +183,11 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>November 04, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/4e/cc/2a4eccf5-5f35-be3a-df35-fbbc720b4e8b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 30, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/81/fe/0881fe41-b378-a2f4-ee64-127564daf9fe/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.19.0</version>
+		<version>11.18.1</version>
 		<app_store_url>https://apps.apple.com/us/app/viva-engage/id289559439?uo=4</app_store_url>
 	</package>
 	<package>
@@ -430,11 +430,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft 365 Office</name>
 		<application_name>Microsoft 365 Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>November 05, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/e8/e9/4ee8e97f-9be7-3e01-a414-4cb288f4cb1d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 31, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/2b/87/3a2b87f6-6995-6539-f9f6-93cba8d8e1d8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.103.4</version>
+		<version>2.103.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>

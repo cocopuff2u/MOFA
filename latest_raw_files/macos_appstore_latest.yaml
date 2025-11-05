@@ -1,4 +1,4 @@
-last_updated: November 05, 2025 03:09 AM EST
+last_updated: November 05, 2025 04:08 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -39,15 +39,15 @@ packages:
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: October 28, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/01/49/49014954-43f8-c111-5c21-16858a8b5c85/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 04, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/85/57/52855775-4f06-5962-5226-8646495a4234/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.102.2
+    version: 16.102.3
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive

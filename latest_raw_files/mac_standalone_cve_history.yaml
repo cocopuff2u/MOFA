@@ -1,4 +1,4 @@
-last_scan_date: November 06, 2025 02:06 PM EST
+last_scan_date: November 06, 2025 03:07 PM EST
 updates:
 - date_text: November 4, 2025
   security_updates:
@@ -20,9 +20,33 @@ updates:
   version: Version 16.102.1 (Build 25101829)
 - date_text: October 14, 2025
   security_updates:
-    N/A:
-    - cve_name: N/A
-      url: null
+    Excel:
+    - cve_name: CVE-2025-59223
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59223
+    - cve_name: CVE-2025-59224
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59224
+    - cve_name: CVE-2025-59225
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59225
+    - cve_name: CVE-2025-59231
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59231
+    - cve_name: CVE-2025-59232
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59232
+    - cve_name: CVE-2025-59233
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59233
+    - cve_name: CVE-2025-59235
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59235
+    - cve_name: CVE-2025-59236
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59236
+    Office Suite:
+    - cve_name: CVE-2025-59227
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59227
+    - cve_name: CVE-2025-59234
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59234
+    Word:
+    - cve_name: CVE-2025-59221
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59221
+    - cve_name: CVE-2025-59222
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-59222
   version: Version 16.102 (Build 25101223)
 - date_text: October 7, 2025
   security_updates:

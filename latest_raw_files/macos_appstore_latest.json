@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 05, 2025 10:28 PM EST",
+    "last_updated": "November 05, 2025 11:11 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "November 04, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/c1/1c/1cc11c79-1a90-ab04-2b06-09ac7dfa59b5/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "October 28, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/b0/88/83b088e0-1486-96fb-2ccc-e80da9331149/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "1. Fixed a bug that ensures the Copilot UI is hidden when it's disabled through the M365 admin portal.\n2. Removed the Coach Nudge based on user feedback.\n3. General improvements to quality and performance.",
-            "version": "16.102.3",
+            "releaseNotes": "General quality and performance enhancements.",
+            "version": "16.102.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {

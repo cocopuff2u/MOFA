@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 06, 2025 04:08 AM EST",
+    "last_updated": "November 06, 2025 05:08 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -170,11 +170,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "October 30, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/81/fe/0881fe41-b378-a2f4-ee64-127564daf9fe/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/4e/cc/2a4eccf5-5f35-be3a-df35-fbbc720b4e8b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "11.18.1",
+            "version": "11.19.0",
             "app_store_url": "https://apps.apple.com/us/app/viva-engage/id289559439?uo=4"
         },
         {

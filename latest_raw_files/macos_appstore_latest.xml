@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 07, 2025 08:34 PM EST</last_updated>
+	<last_updated>November 07, 2025 09:33 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -124,11 +124,11 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<name>MacOS Microsoft CoPilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot-mac</bundleId>
-		<currentVersionReleaseDate>October 31, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/f2/a2/8ef2a2b6-5554-47cc-9d27-693cea84c2d5/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>November 07, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/da/a9/f3daa907-b7b1-9462-27e1-413e90dc31de/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>24.0.431030001</version>
+		<version>24.1.431106005</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

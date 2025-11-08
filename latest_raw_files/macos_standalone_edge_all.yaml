@@ -1,5 +1,5 @@
 EdgeInsiderVersions:
-  last_updated: November 08, 2025 04:06 AM EST
+  last_updated: November 08, 2025 05:06 AM EST
   Version:
   - Name: current
     Version: 142.0.3595.65
@@ -9,7 +9,7 @@ EdgeInsiderVersions:
     Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/99d2f1f6-1009-4e0b-bd37-4db143a6d322/MicrosoftEdge-142.0.3595.65.pkg
     Full_Update_Sha1: 8d27c9aea111a8c1acb550a9ee4af8b084103c7b
     Full_Update_Sha256: da1183c6f48a8a73e3c5d86128f75d56ac375f5f5a4ba56ba41b536b803b44e9
-    Last_Update: November 06, 2025 03:40 PM EST
+    Last_Update: November 08, 2025 04:34 AM EST
   - Name: canary
     Version: 144.0.3664.0
     Application_ID: EDGE01

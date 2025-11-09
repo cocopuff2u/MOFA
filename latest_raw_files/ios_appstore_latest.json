@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 09, 2025 03:06 PM EST",
+    "last_updated": "November 09, 2025 04:05 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -36,14 +36,14 @@
         },
         {
             "name": "iOS Microsoft Outlook",
-            "application_name": "Microsoft Outlook",
-            "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "November 04, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/13/53/d1135323-dab8-bf3a-3579-8b1f4eaac535/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "18.0",
-            "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2543.1",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
+            "application_name": "Yahoo Mail",
+            "bundleId": "com.yahoo.Aerogram",
+            "currentVersionReleaseDate": "November 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f2/0c/b3f20c96-c0fe-70df-193d-9ccf40e3189b/MailAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "17.0",
+            "releaseNotes": "The new Yahoo Mail experience includes features designed to simplify your life including AI-powered capabilities, making it easier to help stay organized, in touch and on top of your inbox.",
+            "version": "7.76.0",
+            "app_store_url": "https://apps.apple.com/us/app/yahoo-mail/id577586159?uo=4"
         },
         {
             "name": "iOS Microsoft OneNote",

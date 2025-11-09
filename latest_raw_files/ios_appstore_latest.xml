@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 09, 2025 04:05 PM EST</last_updated>
+	<last_updated>November 09, 2025 05:06 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -36,14 +36,16 @@
 	</package>
 	<package>
 		<name>iOS Microsoft Outlook</name>
-		<application_name>Yahoo Mail</application_name>
-		<bundleId>com.yahoo.Aerogram</bundleId>
-		<currentVersionReleaseDate>November 08, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f2/0c/b3f20c96-c0fe-70df-193d-9ccf40e3189b/MailAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>The new Yahoo Mail experience includes features designed to simplify your life including AI-powered capabilities, making it easier to help stay organized, in touch and on top of your inbox.</releaseNotes>
-		<version>7.76.0</version>
-		<app_store_url>https://apps.apple.com/us/app/yahoo-mail/id577586159?uo=4</app_store_url>
+		<application_name>Microsoft Outlook</application_name>
+		<bundleId>com.microsoft.Office.Outlook</bundleId>
+		<currentVersionReleaseDate>November 04, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/13/53/d1135323-dab8-bf3a-3579-8b1f4eaac535/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
+		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
+
+Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
+		<version>5.2543.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>

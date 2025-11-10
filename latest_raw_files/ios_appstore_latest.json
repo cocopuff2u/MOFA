@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 10, 2025 07:12 AM EST",
+    "last_updated": "November 10, 2025 08:15 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -104,11 +104,11 @@
             "name": "iOS Microsoft Loop",
             "application_name": "Microsoft Loop",
             "bundleId": "com.microsoft.loop",
-            "currentVersionReleaseDate": "November 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/4e/b4/544eb49b-ce8d-a0b1-43f2-15e5ef273032/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/7f/ce/667fce09-43ef-b6a1-d1d1-74a5b72cf3b3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.103",
+            "version": "2.102.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4"
         },
         {

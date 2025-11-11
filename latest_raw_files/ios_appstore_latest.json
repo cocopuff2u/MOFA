@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 11, 2025 12:06 PM EST",
+    "last_updated": "November 11, 2025 01:09 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,22 +38,22 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "November 04, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/13/53/d1135323-dab8-bf3a-3579-8b1f4eaac535/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/16/4f/5f164f70-afb9-b165-17a6-df93ae9204f4/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2543.1",
+            "version": "5.2544.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "November 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/03/3d/59033d85-a738-7ba9-c6f2-a78823e91d83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/70/54/d27054b5-d6d8-9cc3-431d-b17f39720ce4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.102.3",
+            "version": "16.103",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4"
         },
         {
@@ -170,11 +170,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "November 04, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/4e/cc/2a4eccf5-5f35-be3a-df35-fbbc720b4e8b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/3e/16/dc3e1620-a795-bc93-9ec2-7daddd4f9d3f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "11.19.0",
+            "version": "11.20.0",
             "app_store_url": "https://apps.apple.com/us/app/viva-engage/id289559439?uo=4"
         },
         {

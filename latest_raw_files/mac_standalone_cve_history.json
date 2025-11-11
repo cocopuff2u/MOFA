@@ -1,6 +1,36 @@
 {
-    "last_scan_date": "November 11, 2025 05:07 PM EST",
+    "last_scan_date": "November 11, 2025 06:13 PM EST",
     "updates": [
+        {
+            "date_text": "November 11, 2025",
+            "version": "Version 16.103 (Build 25110922)",
+            "security_updates": {
+                "Excel": [
+                    {
+                        "cve_name": "CVE-2025-60728",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60728"
+                    },
+                    {
+                        "cve_name": "CVE-2025-62201",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62201"
+                    },
+                    {
+                        "cve_name": "CVE-2025-62202",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62202"
+                    }
+                ],
+                "Office Suite": [
+                    {
+                        "cve_name": "CVE-2025-62199",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62199"
+                    },
+                    {
+                        "cve_name": "CVE-2025-60724",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60724"
+                    }
+                ]
+            }
+        },
         {
             "date_text": "November 4, 2025",
             "version": "Version 16.102.3 (Build 25110228)",

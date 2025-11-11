@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>November 11, 2025 05:07 PM EST</last_scan_date>
+    <last_scan_date>November 11, 2025 06:13 PM EST</last_scan_date>
+    <Update>
+        <Date>November 11, 2025</Date>
+        <Version>Version 16.103 (Build 25110922)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2025-60728</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60728</URL>
+                <CVE>CVE-2025-62201</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62201</URL>
+                <CVE>CVE-2025-62202</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62202</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2025-62199</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62199</URL>
+                <CVE>CVE-2025-60724</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60724</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>November 4, 2025</Date>
         <Version>Version 16.102.3 (Build 25110228)</Version>

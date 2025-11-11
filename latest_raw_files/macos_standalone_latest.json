@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 11, 2025 02:07 AM EST",
+    "last_updated": "November 11, 2025 03:09 AM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -246,16 +246,16 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2511 (0301)",
-            "full_version": "1.2511.0301",
-            "last_updated": "November 03, 2025",
+            "short_version": "1.2511 (0501)",
+            "full_version": "1.2511.0501",
+            "last_updated": "November 05, 2025",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.0301_Updater.pkg",
-            "app_update_sha1": "bdc0f4fccc95a8e94f3416ea721518cedf5fadfd",
-            "app_update_sha256": "2a6c35d5a839880a011d45068a0d002c595bf822ee386346d88f58fb99944d70",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.0501_Updater.pkg",
+            "app_update_sha1": "dba6a0d139837904d32accff52dc3948d382fa79",
+            "app_update_sha256": "7f655a38d9416c70fd0ecff81a5cd861a61e0c5f25a11d292d52565ea2910476",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2325438",
-            "full_update_sha1": "737c57d4c69eb6bc0a128da36f187548bca504d3",
-            "full_update_sha256": "edaa08af0786cf1ff416a799d426e44e4ca268e94ddcceb0c3b01af5c4ab92cd"
+            "full_update_sha1": "8b88dfa7891e7d8bdaf9d7055d6a03c7b8c736ce",
+            "full_update_sha256": "c8825287e10bd09bb735dd3b9fcef8f85e201fcea22fc0865ea25f934f06c0c0"
         },
         {
             "name": "MAU",

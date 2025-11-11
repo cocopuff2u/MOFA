@@ -1,37 +1,37 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>November 11, 2025 05:06 PM EST</last_updated>
+    <last_updated>November 11, 2025 06:11 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
         <application_name>Data sourced from Outlook (CurrentThrottle)</application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.102.0 (25101223)</short_version>
-        <full_version>16.102.25101223</full_version>
-        <last_updated>October 12, 2025</last_updated>
+        <short_version>16.103.0 (25110922)</short_version>
+        <full_version>16.103.25110922</full_version>
+        <last_updated>November 09, 2025</last_updated>
         <min_os>14.0</min_os>
         <app_only_update_download>N/A</app_only_update_download>
         <app_update_sha1>N/A</app_update_sha1>
         <app_update_sha256>N/A</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525133</full_update_download>
-        <full_update_sha1>4d5b1d4a37ed1c26a47a33e2591579778423b58a</full_update_sha1>
-        <full_update_sha256>783ff93c0914617645a9206d9da7967cf02a9a3bf874ce7372088745d77f9f7f</full_update_sha256>
+        <full_update_sha1>a725b88eb969812bfdb3d483b6f306c4e61023df</full_update_sha1>
+        <full_update_sha256>54e2fc1ccbc0f48fb5576ea07fd6e10556832ee9d7df8615091b5e2286dd0269</full_update_sha256>
     </package>
     <package>
         <name>Microsoft BusinessPro Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
         <application_name>Data sourced from Outlook (CurrentThrottle)</application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.102.0 (25101223)</short_version>
-        <full_version>16.102.25101223</full_version>
-        <last_updated>October 12, 2025</last_updated>
+        <short_version>16.103.0 (25110922)</short_version>
+        <full_version>16.103.25110922</full_version>
+        <last_updated>November 09, 2025</last_updated>
         <min_os>14.0</min_os>
         <app_only_update_download>N/A</app_only_update_download>
         <app_update_sha1>N/A</app_update_sha1>
         <app_update_sha256>N/A</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2009112</full_update_download>
-        <full_update_sha1>f68496a2633426941247e2c27a73061dd0493a89</full_update_sha1>
-        <full_update_sha256>306b7893b0559c80fc0fafe71be947e2fd6f5ff7885f26d0c026e135550e7510</full_update_sha256>
+        <full_update_sha1>ca015b0be80f8834caf663c3e4dea2bdf3450c55</full_update_sha1>
+        <full_update_sha256>8b7343aa4d6f1ca4e7db7ef6467170bf5f613238cd6fe2bd68e284f4160131a1</full_update_sha256>
     </package>
     <package>
         <name>Word</name>

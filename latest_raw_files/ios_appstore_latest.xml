@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 12, 2025 09:38 PM EST</last_updated>
+	<last_updated>November 12, 2025 10:28 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>November 03, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/df/b1/10dfb173-3434-8045-78c3-8fdb2c65ab4e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 12, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/55/4a/fa554a1d-a42f-221e-66ea-c02c1bfe246d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.102.4</version>
+		<version>2.103</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>

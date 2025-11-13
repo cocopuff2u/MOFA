@@ -1,5 +1,5 @@
 {
-    "last_scan_date": "November 12, 2025 07:29 PM EST",
+    "last_scan_date": "November 12, 2025 08:35 PM EST",
     "updates": [
         {
             "date_text": "November 11, 2025",
@@ -17,6 +17,18 @@
                     {
                         "cve_name": "CVE-2025-62202",
                         "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62202"
+                    },
+                    {
+                        "cve_name": "CVE-2025-60726",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60726"
+                    },
+                    {
+                        "cve_name": "CVE-2025-60727",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60727"
+                    },
+                    {
+                        "cve_name": "CVE-2025-62203",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62203"
                     }
                 ],
                 "Office Suite": [

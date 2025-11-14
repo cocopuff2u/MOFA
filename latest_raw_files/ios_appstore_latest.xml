@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 13, 2025 11:09 PM EST</last_updated>
+	<last_updated>November 14, 2025 12:07 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -102,14 +102,14 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot</bundleId>
-		<currentVersionReleaseDate>November 06, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/e0/7f/5ae07f17-1892-be83-7a4a-9379f0bcc697/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/5b/cd/1a5bcd14-43f8-1b1e-47e6-ca41ec5c3735/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Introducing the New Copilot: Your AI Companion
 This update includes an intuitive design with more digestible and faster answers, plus new features.
 Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
 Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
-		<version>30.0.431104001</version>
+		<version>30.0.431112002</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4</app_store_url>
 	</package>
 	<package>
@@ -161,11 +161,11 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Lists</name>
 		<application_name>Microsoft Lists</application_name>
 		<bundleId>com.microsoft.splists</bundleId>
-		<currentVersionReleaseDate>September 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b8/f0/5eb8f0ee-bbc1-de10-6242-dd1fd26b117d/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 13, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/73/51/877351cf-892e-e8a3-84c4-ea3334f93901/ListsAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>This build contains several bug fixes.</releaseNotes>
-		<version>2.29.1</version>
+		<releaseNotes>This is the last version of the app, Please use Microsoft Lists on the web for continued access to your lists.</releaseNotes>
+		<version>2.30.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-lists/id1530637363?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 17, 2025 04:06 PM EST</last_updated>
+	<last_updated>November 17, 2025 05:06 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -78,13 +78,27 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Windows App Mobile</application_name>
 		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>October 01, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/0d/57/370d5745-807e-05d6-082f-0176f0c5c142/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 17, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/80/f0/bb80f086-8973-7ed6-f8b8-a1b9f53c7372/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>This is a quick release to address a customer-reported issue impacting connections utilizing RD Gateways running on Windows Server 2012 R2 or earlier. We've also added in handling for the ALT+ENTER shortcut (which was not working in Teams and some other apps).
+		<releaseNotes>In this release we made the following updates:
+
+• Added support for displaying whether a Windows 365 Cloud PC endpoint is AI-enabled.
+• Added support for the Windows 365 &quot;Cloud Apps&quot; feature.
+• Added support for Windows 365 Cloud App reset.
+• Added support for Windows 365 Reserve self-provisioning.
+• Added a &quot;Type&quot; field to the Apps tab Connection Center filter for &quot;Cloud Apps&quot; and &quot;Azure Virtual Desktop&quot;.
+• The immersive switcher now supports light mode.
+• In-app notifications no longer display the current timestamp.
+• Improved handling for concurrent in-app notifications.
+• Tapping on the &quot;Authentication Required&quot; in-app notification will now immediately redirect to the sign-in UI.
+• Fixed device card corner masking issues.
+• Resolved RDS connectivity issues triggered by authentication certificate processing.
+• Sorted out some RemoteApp bugs.
+• Addressed a number of crashes that were showing up in error reporting.
 
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.1</version>
+		<version>11.2.2</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>

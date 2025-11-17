@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 17, 2025 04:06 PM EST",
+    "last_updated": "November 17, 2025 05:06 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -71,11 +71,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Windows App Mobile",
             "bundleId": "com.microsoft.rdc.ios",
-            "currentVersionReleaseDate": "October 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/0d/57/370d5745-807e-05d6-082f-0176f0c5c142/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/80/f0/bb80f086-8973-7ed6-f8b8-a1b9f53c7372/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "This is a quick release to address a customer-reported issue impacting connections utilizing RD Gateways running on Windows Server 2012 R2 or earlier. We've also added in handling for the ALT+ENTER shortcut (which was not working in Teams and some other apps).\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.2.1",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added support for displaying whether a Windows 365 Cloud PC endpoint is AI-enabled.\n\u2022 Added support for the Windows 365 \"Cloud Apps\" feature.\n\u2022 Added support for Windows 365 Cloud App reset.\n\u2022 Added support for Windows 365 Reserve self-provisioning.\n\u2022 Added a \"Type\" field to the Apps tab Connection Center filter for \"Cloud Apps\" and \"Azure Virtual Desktop\".\n\u2022 The immersive switcher now supports light mode.\n\u2022 In-app notifications no longer display the current timestamp.\n\u2022 Improved handling for concurrent in-app notifications.\n\u2022 Tapping on the \"Authentication Required\" in-app notification will now immediately redirect to the sign-in UI.\n\u2022 Fixed device card corner masking issues.\n\u2022 Resolved RDS connectivity issues triggered by authentication certificate processing.\n\u2022 Sorted out some RemoteApp bugs.\n\u2022 Addressed a number of crashes that were showing up in error reporting.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
+            "version": "11.2.2",
             "app_store_url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
         },
         {

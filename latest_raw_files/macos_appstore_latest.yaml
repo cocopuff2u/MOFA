@@ -1,4 +1,4 @@
-last_updated: November 18, 2025 09:06 AM EST
+last_updated: November 18, 2025 10:07 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -54,13 +54,13 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: November 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/a3/3c/6aa33c12-dbe9-fb5b-9e6a-e816afaef22a/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: October 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/33/41/61334149-92d8-b535-aa78-bf81b9f33596/OneDrive.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 25.206.1021
+    version: 25.184.0921
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
     application_name: RMS Sharing
@@ -74,18 +74,24 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: November 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/86/bf/b286bf93-b41a-1597-53bb-6d8c0431e2dc/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 03, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/39/40/373940ac-07db-63c7-5eca-c580199bb5c7/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "In this release we made the following updates:\n\n\u2022 Fixed\
-      \ a bug that caused the client to stall during Frontline license activation\
-      \ if the access token was expired.\n\u2022 Added support for Continuous Access\
-      \ Evaluation during workspace download and connection orchestration.\n\u2022\
-      \ Tweaked the appearance of the Quick Launcher header.\n\nTo enable UDP shortpath\
-      \ for AVD and Windows 365 connections, set the \"ClientSettings.EnableAvdUdpSideTransport\"\
-      \ user default to true.\n\nIf you encounter any errors, you can contact us via\
-      \ Help > Submit Feedback."
-    version: 11.2.8
+    releaseNotes: "In this release we made the following updates:\n\n\u2022 Added\
+      \ support for displaying whether a Windows 365 Cloud PC endpoint is AI-enabled.\n\
+      \u2022 Added support for Windows 365 Cloud App reset.\n\u2022 Added support\
+      \ for Windows 365 Reserve self-provisioning.\n\u2022 Added support for client-side\
+      \ connectivity and system health checks.\n\u2022 Added a \"Type\" field to the\
+      \ Apps tab Connection Center filter for \"Cloud Apps\" and \"Azure Virtual Desktop\"\
+      .\n\u2022 Added a Favorite/Unfavorite command (Command + T) for devices and\
+      \ apps to the Connections menu.\n\u2022 Resolved a layout issue with device\
+      \ cards on the Favorites tab.\n\u2022 Resolved RDS connectivity issues triggered\
+      \ by authentication certificate processing.\n\u2022 Fixed a bug that caused\
+      \ shortcuts to fail for selected device and app cards in the Connection Center.\n\
+      \u2022 Improved handling, processing and error detection for AVD connection\
+      \ orchestration messages.\n\nIf you encounter any errors, you can contact us\
+      \ via Help > Submit Feedback."
+    version: 11.2.7
     app_store_url: https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do

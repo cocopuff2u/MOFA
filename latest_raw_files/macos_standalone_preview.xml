@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>November 18, 2025 12:07 AM EST</last_updated>
+    <last_updated>November 18, 2025 01:15 AM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -174,28 +174,28 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code - Insiders.app</application_name>
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
-        <short_version>1.107.0-</short_version>
-        <full_version>1.107.0-insider</full_version>
-        <last_updated>November 17, 2025</last_updated>
+        <short_version>1.107.20251118007-</short_version>
+        <full_version>1.107.20251118007-insider</full_version>
+        <last_updated>November 18, 2025</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/7ba6cc6685504e207bf21dcefde21eb300cfa132/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/af29d352965dd3b3ed8f3cf46e9f55b896533fcc/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
-        <sha1>4e4679bba12d39d8bf9df2b70abe1bbb4d7dfc3a</sha1>
-        <sha256>47b90e4ad1be23a618e3855c350668f5296b9c0088158eebb0529b65d22079ca</sha256>
+        <sha1>9de317a532f9a79edef0e1a232a1a772c60e9c38</sha1>
+        <sha256>894c924987b303211b27adcf7deed2a6b938c3f1667d06865110e3244c8c1083</sha256>
     </package>
     <package>
         <name>Copilot</name>
         <application_id>MSCP10</application_id>
         <application_name>Microsoft 365 Copilot.app</application_name>
         <CFBundleVersion>com.microsoft.m365copilot</CFBundleVersion>
-        <short_version>1.2511 (1001)</short_version>
-        <full_version>1.2511.1001</full_version>
-        <last_updated>November 11, 2025</last_updated>
+        <short_version>1.2511 (1201)</short_version>
+        <full_version>1.2511.1201</full_version>
+        <last_updated>November 12, 2025</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.1001_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.1001_Updater.pkg</latest_download>
-        <sha1>49ec6678f02db1aefee2965544b1b2957c8d42d3</sha1>
-        <sha256>7ea7cd3d924dc185662fa287be3324f7f0e60eebfe803b30c5e6d4c90b4d9b9a</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.1201_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.1201_Updater.pkg</latest_download>
+        <sha1>446ea73a011bc6cde9a6191dfc24c2dd79e2caf9</sha1>
+        <sha256>15c13591cc4e46d440e846027971add22c3396f418b6c83755712d0870f4bc0a</sha256>
     </package>
     <package>
         <name>MAU</name>

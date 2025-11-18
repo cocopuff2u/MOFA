@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 18, 2025 07:11 AM EST</last_updated>
+	<last_updated>November 18, 2025 08:15 AM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -91,19 +91,24 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>November 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/86/bf/b286bf93-b41a-1597-53bb-6d8c0431e2dc/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>November 03, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/39/40/373940ac-07db-63c7-5eca-c580199bb5c7/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>In this release we made the following updates:
 
-• Fixed a bug that caused the client to stall during Frontline license activation if the access token was expired.
-• Added support for Continuous Access Evaluation during workspace download and connection orchestration.
-• Tweaked the appearance of the Quick Launcher header.
-
-To enable UDP shortpath for AVD and Windows 365 connections, set the &quot;ClientSettings.EnableAvdUdpSideTransport&quot; user default to true.
+• Added support for displaying whether a Windows 365 Cloud PC endpoint is AI-enabled.
+• Added support for Windows 365 Cloud App reset.
+• Added support for Windows 365 Reserve self-provisioning.
+• Added support for client-side connectivity and system health checks.
+• Added a &quot;Type&quot; field to the Apps tab Connection Center filter for &quot;Cloud Apps&quot; and &quot;Azure Virtual Desktop&quot;.
+• Added a Favorite/Unfavorite command (Command + T) for devices and apps to the Connections menu.
+• Resolved a layout issue with device cards on the Favorites tab.
+• Resolved RDS connectivity issues triggered by authentication certificate processing.
+• Fixed a bug that caused shortcuts to fail for selected device and app cards in the Connection Center.
+• Improved handling, processing and error detection for AVD connection orchestration messages.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.8</version>
+		<version>11.2.7</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,4 +1,4 @@
-last_updated: November 18, 2025 05:06 PM EST
+last_updated: November 18, 2025 06:06 PM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -12,20 +12,20 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: November 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/06/51/230651d6-8ac0-f169-c908-9851bafda7b3/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/b5/cb/fbb5cb90-e9d5-e572-2f17-03b472ae9d7b/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.103.1
+    version: '16.103'
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: November 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/77/34/bb773475-2a78-8669-e229-eaf9dc4ee22c/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/f3/63/0bf363ed-2f71-3f6c-e7bb-77d06a4f0d08/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.103.1
+    version: '16.103'
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -74,18 +74,24 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: November 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/86/bf/b286bf93-b41a-1597-53bb-6d8c0431e2dc/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 03, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/39/40/373940ac-07db-63c7-5eca-c580199bb5c7/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "In this release we made the following updates:\n\n\u2022 Fixed\
-      \ a bug that caused the client to stall during Frontline license activation\
-      \ if the access token was expired.\n\u2022 Added support for Continuous Access\
-      \ Evaluation during workspace download and connection orchestration.\n\u2022\
-      \ Tweaked the appearance of the Quick Launcher header.\n\nTo enable UDP shortpath\
-      \ for AVD and Windows 365 connections, set the \"ClientSettings.EnableAvdUdpSideTransport\"\
-      \ user default to true.\n\nIf you encounter any errors, you can contact us via\
-      \ Help > Submit Feedback."
-    version: 11.2.8
+    releaseNotes: "In this release we made the following updates:\n\n\u2022 Added\
+      \ support for displaying whether a Windows 365 Cloud PC endpoint is AI-enabled.\n\
+      \u2022 Added support for Windows 365 Cloud App reset.\n\u2022 Added support\
+      \ for Windows 365 Reserve self-provisioning.\n\u2022 Added support for client-side\
+      \ connectivity and system health checks.\n\u2022 Added a \"Type\" field to the\
+      \ Apps tab Connection Center filter for \"Cloud Apps\" and \"Azure Virtual Desktop\"\
+      .\n\u2022 Added a Favorite/Unfavorite command (Command + T) for devices and\
+      \ apps to the Connections menu.\n\u2022 Resolved a layout issue with device\
+      \ cards on the Favorites tab.\n\u2022 Resolved RDS connectivity issues triggered\
+      \ by authentication certificate processing.\n\u2022 Fixed a bug that caused\
+      \ shortcuts to fail for selected device and app cards in the Connection Center.\n\
+      \u2022 Improved handling, processing and error detection for AVD connection\
+      \ orchestration messages.\n\nIf you encounter any errors, you can contact us\
+      \ via Help > Submit Feedback."
+    version: 11.2.7
     app_store_url: https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do

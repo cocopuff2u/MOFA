@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 19, 2025 06:06 AM EST",
+    "last_updated": "November 19, 2025 07:11 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -16,22 +16,22 @@
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "November 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/06/51/230651d6-8ac0-f169-c908-9851bafda7b3/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "November 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/b5/cb/fbb5cb90-e9d5-e572-2f17-03b472ae9d7b/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.103.1",
+            "version": "16.103",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "November 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/77/34/bb773475-2a78-8669-e229-eaf9dc4ee22c/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "November 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/f3/63/0bf363ed-2f71-3f6c-e7bb-77d06a4f0d08/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "16.103.1",
+            "version": "16.103",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {
@@ -49,11 +49,11 @@
             "name": "MacOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote.mac",
-            "currentVersionReleaseDate": "November 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/3f/6f/163f6faa-4f8c-2b86-752c-bf1d58f0ec50/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "November 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/08/5e/16085e6e-4264-f1d9-45f8-b2c77f07b24f/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.\nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.103.1",
+            "version": "16.103",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4"
         },
         {

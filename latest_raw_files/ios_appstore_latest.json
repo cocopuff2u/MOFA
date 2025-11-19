@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 19, 2025 12:07 AM EST",
+    "last_updated": "November 19, 2025 01:10 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -93,11 +93,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot",
-            "currentVersionReleaseDate": "November 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/5b/cd/1a5bcd14-43f8-1b1e-47e6-ca41ec5c3735/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/89/40/0a8940e6-429a-619b-392b-2a6cd03901a2/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
-            "version": "30.0.431112002",
+            "version": "30.0.431118005",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
         },
         {
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "October 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/07/f2/3b07f2e4-35e2-334f-b72f-d5dadf527430/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/ce/b8/00ceb87f-f030-ba17-6974-67fa24cd0101/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "7.9.3",
+            "version": "7.10.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4"
         },
         {

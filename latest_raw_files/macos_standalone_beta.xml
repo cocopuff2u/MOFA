@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>November 19, 2025 11:09 AM EST</last_updated>
+    <last_updated>November 19, 2025 12:07 PM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -216,13 +216,13 @@
         <application_id>N/A</application_id>
         <application_name>Windows App Beta.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.2.8</short_version>
-        <full_version>11.2.8</full_version>
-        <last_updated>November 10, 2025</last_updated>
+        <short_version>11.2.9</short_version>
+        <full_version>11.2.9</full_version>
+        <last_updated>November 19, 2025</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/48738017-02ce-4e6b-97f0-96367fa69504/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=aRwuNkb3UnLU0fbstSyhhixKS8toggnRZvxgRlLiTnc%3D&amp;skoid=a1849515-0f61-4610-b6c3-e62ad91d7412&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2025-11-10T22%3A52%3A21Z&amp;ske=2025-11-11T22%3A57%3A21Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2025-11-11T22%3A57%3A21Z&amp;sp=r</update_download>
-        <latest_download>https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/48738017-02ce-4e6b-97f0-96367fa69504/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=aRwuNkb3UnLU0fbstSyhhixKS8toggnRZvxgRlLiTnc%3D&amp;skoid=a1849515-0f61-4610-b6c3-e62ad91d7412&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2025-11-10T22%3A52%3A21Z&amp;ske=2025-11-11T22%3A57%3A21Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2025-11-11T22%3A57%3A21Z&amp;sp=r</latest_download>
-        <sha1>802dc4a10fea8fe6dcce8a4b940c56b564c3428b</sha1>
-        <sha256>6481ad20d7f20c7c11d13cdaa3ca6c83b7dfa46d6ebafb7f33f10f489bfe173a</sha256>
+        <update_download>https://appcenter-filemanagement-distrib5ede6f06e-gkh9drg4gafqbsbt.z01.azurefd.net/885e6595-5925-4feb-bd6b-7caae5bf8e11/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=183jlJLQaxfIkRiXod0yZ%2BrruB27m9WOmBCBOGX2mRI%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2025-11-19T16%3A26%3A54Z&amp;ske=2025-11-20T16%3A31%3A54Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2025-11-20T16%3A31%3A54Z&amp;sp=r</update_download>
+        <latest_download>https://appcenter-filemanagement-distrib5ede6f06e-gkh9drg4gafqbsbt.z01.azurefd.net/885e6595-5925-4feb-bd6b-7caae5bf8e11/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=183jlJLQaxfIkRiXod0yZ%2BrruB27m9WOmBCBOGX2mRI%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2025-11-19T16%3A26%3A54Z&amp;ske=2025-11-20T16%3A31%3A54Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2025-11-20T16%3A31%3A54Z&amp;sp=r</latest_download>
+        <sha1>244cf2daced92e2da56d32b1b9e521fda18be9c2</sha1>
+        <sha256>9490f9402a0e11a5a94787f0c238b2cafedcfcf44b18c0696333c9907dcf7a0f</sha256>
     </package>
 </latest>

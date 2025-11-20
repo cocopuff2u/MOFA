@@ -1,6 +1,25 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>November 20, 2025 05:06 PM EST</last_scan_date>
+    <last_scan_date>November 20, 2025 06:06 PM EST</last_scan_date>
+    <release>
+        <date>November 18, 2025</date>
+        <version>16.103.1 (25111719)</version>
+        <powerpoint_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.103.25111719_Updater.pkg</powerpoint_update>
+        <archive>false</archive>
+    </release>
+    <release>
+        <date>November 18, 2025</date>
+        <version>16.103.1 (25111624)</version>
+        <excel_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.103.25111624_Updater.pkg</excel_update>
+        <onenote_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.103.25111624_Updater.pkg</onenote_update>
+        <archive>false</archive>
+    </release>
+    <release>
+        <date>November 14, 2025</date>
+        <version>16.103.1 (25111410)</version>
+        <word_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.103.25111410_Updater.pkg</word_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>November 11, 2025</date>
         <version>16.103 (25110922)</version>
@@ -25,11 +44,11 @@
     <release>
         <date>October 28, 2025</date>
         <version>16.102.2 (25102623)</version>
-        <word_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.101.25100321_Updater.pkg</word_update>
-        <excel_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.101.25100321_Updater.pkg</excel_update>
-        <powerpoint_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.101.25100321_Updater.pkg</powerpoint_update>
-        <outlook_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.101.25100321_Updater.pkg</outlook_update>
-        <onenote_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.101.25100321_Updater.pkg</onenote_update>
+        <word_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.102.25102623_Updater.pkg</word_update>
+        <excel_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.102.25102623_Updater.pkg</excel_update>
+        <powerpoint_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.102.25102623_Updater.pkg</powerpoint_update>
+        <outlook_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.102.25102623_Updater.pkg</outlook_update>
+        <onenote_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.102.25102623_Updater.pkg</onenote_update>
         <archive>false</archive>
     </release>
     <release>

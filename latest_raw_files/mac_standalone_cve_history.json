@@ -1,6 +1,30 @@
 {
-    "last_scan_date": "November 20, 2025 05:06 PM EST",
+    "last_scan_date": "November 20, 2025 06:06 PM EST",
     "updates": [
+        {
+            "date_text": "November 18, 2025",
+            "version": "Version 16.103.1 (Build 25111624) - Excel, OneNote;Version 16.103.1 (Build 276111719) - PowerPoint",
+            "security_updates": {
+                "N/A": [
+                    {
+                        "cve_name": "N/A",
+                        "url": null
+                    }
+                ]
+            }
+        },
+        {
+            "date_text": "November 14, 2025",
+            "version": "Version 16.103.1 (Build 25111410)",
+            "security_updates": {
+                "N/A": [
+                    {
+                        "cve_name": "N/A",
+                        "url": null
+                    }
+                ]
+            }
+        },
         {
             "date_text": "November 11, 2025",
             "version": "Version 16.103 (Build 25110922)",

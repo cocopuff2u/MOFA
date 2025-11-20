@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>November 20, 2025 05:06 PM EST</last_scan_date>
+    <last_scan_date>November 20, 2025 06:06 PM EST</last_scan_date>
+    <Update>
+        <Date>November 18, 2025</Date>
+        <Version>Version 16.103.1 (Build 25111624) - Excel, OneNote;Version 16.103.1 (Build 276111719) - PowerPoint</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>N/A</Name>
+                <CVE>N/A</CVE>
+                <URL>N/A</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
+    <Update>
+        <Date>November 14, 2025</Date>
+        <Version>Version 16.103.1 (Build 25111410)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>N/A</Name>
+                <CVE>N/A</CVE>
+                <URL>N/A</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>November 11, 2025</Date>
         <Version>Version 16.103 (Build 25110922)</Version>

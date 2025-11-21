@@ -1,6 +1,6 @@
 {
   "latest": {
-    "last_updated": "November 20, 2025 07:30 PM EST",
+    "last_updated": "November 20, 2025 08:35 PM EST",
     "package": [
       {
         "name": "Production Ring",
@@ -70,14 +70,14 @@
       },
       {
         "name": "App New Version (Unknown Use)",
-        "short_version": "25.184.0921",
+        "short_version": "N/A",
         "application_id": "ONDR18",
         "application_name": "OneDrive.app",
         "CFBundleVersion": "com.microsoft.onedrive",
         "full_update_download": "https://go.microsoft.com/fwlink/?linkid=823060",
-        "full_update_sha1": "27284131792df9fc82620f15c4053ea75f687102",
-        "full_update_sha256": "c8e2f57a159f1c67ecad1d2028134e4209e799f0392b35835963e90f7f605cb2",
-        "last_updated": "October 18, 2025 03:06 AM EDT"
+        "full_update_sha1": "e14ac3d6c3dd2d4917a40a0cca0b271edb3cd8de",
+        "full_update_sha256": "c540aa486f7919d8e7aa6e1ab85073e5499736dbb3aedd44ccd731792f399948",
+        "last_updated": "November 20, 2025 08:35 PM EST"
       }
     ]
   }

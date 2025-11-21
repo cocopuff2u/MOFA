@@ -1,6 +1,6 @@
 {
   "latest": {
-    "last_updated": "November 20, 2025 09:37 PM EST",
+    "last_updated": "November 20, 2025 10:26 PM EST",
     "package": [
       {
         "name": "Production Ring",
@@ -37,14 +37,14 @@
       },
       {
         "name": "Upcoming Deferred  Ring",
-        "short_version": "25.179.0914",
+        "short_version": "N/A",
         "application_id": "ONDR18",
         "application_name": "OneDrive.app",
         "CFBundleVersion": "com.microsoft.onedrive",
         "full_update_download": "https://go.microsoft.com/fwlink/?linkid=861010",
         "full_update_sha1": "0c3009cc89d8e8cd65152f4c8572462d9b1e144d",
         "full_update_sha256": "414aec9b3892fe0bf207fe67408072c274d064aadf1ce062473cff91f3d276b0",
-        "last_updated": "October 18, 2025 03:06 AM EDT"
+        "last_updated": "November 20, 2025 10:26 PM EST"
       },
       {
         "name": "Insider Ring",
@@ -70,14 +70,14 @@
       },
       {
         "name": "App New Version (Unknown Use)",
-        "short_version": "N/A",
+        "short_version": "25.184.0921",
         "application_id": "ONDR18",
         "application_name": "OneDrive.app",
         "CFBundleVersion": "com.microsoft.onedrive",
         "full_update_download": "https://go.microsoft.com/fwlink/?linkid=823060",
-        "full_update_sha1": "e14ac3d6c3dd2d4917a40a0cca0b271edb3cd8de",
-        "full_update_sha256": "c540aa486f7919d8e7aa6e1ab85073e5499736dbb3aedd44ccd731792f399948",
-        "last_updated": "November 20, 2025 08:35 PM EST"
+        "full_update_sha1": "9d158102596a286b975ca8c5560296021fc95a62",
+        "full_update_sha256": "2fd172d064a1cd19000d55c3c3008b8df00ca0b09d5333ffdff452894c3b602d",
+        "last_updated": "November 20, 2025 10:26 PM EST"
       }
     ]
   }

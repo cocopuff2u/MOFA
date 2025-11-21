@@ -1,28 +1,28 @@
 {
   "latest": {
-    "last_updated": "November 21, 2025 12:06 PM EST",
+    "last_updated": "November 21, 2025 01:09 PM EST",
     "package": [
       {
         "name": "Production Ring",
-        "short_version": "25.209.1026",
+        "short_version": "25.216.1104",
         "application_id": "ONDR18",
         "application_name": "OneDrive.app",
         "CFBundleVersion": "com.microsoft.onedrive",
-        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.209.1026.0002/universal/OneDrive.pkg",
-        "full_update_sha1": "2a835d0e4618caa7f162c9bbe630a51d8da13229",
-        "full_update_sha256": "507e5241cd5aa0664caccca23a909cb371fb40b8345ce1f557fd71ecbfaf7ea3",
-        "last_updated": "November 14, 2025 02:07 PM EST"
+        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.216.1104.0002/universal/OneDrive.pkg",
+        "full_update_sha1": "dee44ce1db5de6e1e6f787eb0003d1a44cd093eb",
+        "full_update_sha256": "8a1168cdb0c06c6dcd51a882eda8ddf3a8547c4e2f6590173d45bc1e5bccb028",
+        "last_updated": "November 21, 2025 01:09 PM EST"
       },
       {
         "name": "Upcoming Production Ring",
-        "short_version": "25.209.1026",
+        "short_version": "25.216.1104",
         "application_id": "ONDR18",
         "application_name": "OneDrive.app",
         "CFBundleVersion": "com.microsoft.onedrive",
-        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.209.1026.0002/universal/OneDrive.pkg",
-        "full_update_sha1": "2a835d0e4618caa7f162c9bbe630a51d8da13229",
-        "full_update_sha256": "507e5241cd5aa0664caccca23a909cb371fb40b8345ce1f557fd71ecbfaf7ea3",
-        "last_updated": "November 14, 2025 02:07 PM EST"
+        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/25.216.1104.0002/universal/OneDrive.pkg",
+        "full_update_sha1": "dee44ce1db5de6e1e6f787eb0003d1a44cd093eb",
+        "full_update_sha256": "8a1168cdb0c06c6dcd51a882eda8ddf3a8547c4e2f6590173d45bc1e5bccb028",
+        "last_updated": "November 21, 2025 01:09 PM EST"
       },
       {
         "name": "Deferred Ring",

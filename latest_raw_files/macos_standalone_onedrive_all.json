@@ -1,6 +1,6 @@
 {
   "latest": {
-    "last_updated": "November 20, 2025 08:35 PM EST",
+    "last_updated": "November 20, 2025 09:37 PM EST",
     "package": [
       {
         "name": "Production Ring",
@@ -26,14 +26,14 @@
       },
       {
         "name": "Deferred Ring",
-        "short_version": "25.137.0715",
+        "short_version": "N/A",
         "application_id": "ONDR18",
         "application_name": "OneDrive.app",
         "CFBundleVersion": "com.microsoft.onedrive",
         "full_update_download": "https://go.microsoft.com/fwlink/?linkid=861009",
-        "full_update_sha1": "fa17ac4bfa94ff3da5533b7354a4e9089be39548",
-        "full_update_sha256": "90cf7dab78d0632bf3479f52b3b1218c1c5df0cbde310a0264575e0e132568e1",
-        "last_updated": "October 18, 2025 03:06 AM EDT"
+        "full_update_sha1": "0d3f777a16718fae305acb3c48424bed770c99ea",
+        "full_update_sha256": "2e784770ad2bc5c9bd3cb2b6b563388d3cf557d3a9a86d1b2acd8c43e356c98d",
+        "last_updated": "November 20, 2025 09:37 PM EST"
       },
       {
         "name": "Upcoming Deferred  Ring",

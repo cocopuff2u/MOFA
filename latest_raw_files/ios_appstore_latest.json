@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 22, 2025 02:06 AM EST",
+    "last_updated": "November 22, 2025 03:08 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -49,11 +49,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "November 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/58/b8/1058b8f3-eabf-392a-b1b2-bfeac08adc3e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/66/a2/ca66a2a1-443e-62f0-c9f7-276b542fdc6b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.103.2",
+            "version": "16.103.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4"
         },
         {
@@ -93,11 +93,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot",
-            "currentVersionReleaseDate": "November 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/94/dd/a994dd51-bea0-71ae-43dd-ed60fb8521ba/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/89/40/0a8940e6-429a-619b-392b-2a6cd03901a2/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
-            "version": "30.0.431121003",
+            "version": "30.0.431118005",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
         },
         {
@@ -135,14 +135,14 @@
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
-            "application_name": "Dynamics 365 Sales",
-            "bundleId": "com.microsoft.dynamics.iphone.moca.sales",
-            "currentVersionReleaseDate": "November 11, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "application_name": "Dynamics 365 for phones",
+            "bundleId": "com.microsoft.dynamics.iphone.moca",
+            "currentVersionReleaseDate": "September 11, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "This version includes experience improvements and bug fixes so sellers can stay on top of their deals better than ever before.",
-            "version": "3.24104.15",
-            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4"
+            "releaseNotes": "\u2022 Bug fixes and performance improvements.",
+            "version": "13.24093.1",
+            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4"
         },
         {
             "name": "iOS Microsoft Lists",

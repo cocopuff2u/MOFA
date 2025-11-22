@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 22, 2025 07:10 AM EST",
+    "last_updated": "November 22, 2025 08:09 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -82,11 +82,11 @@
             "name": "MacOS Microsoft Windows App",
             "application_name": "Windows App",
             "bundleId": "com.microsoft.rdc.macos",
-            "currentVersionReleaseDate": "November 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/32/ce/be32cee8-86df-68d5-be15-f59c2f99d700/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "November 17, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/86/bf/b286bf93-b41a-1597-53bb-6d8c0431e2dc/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "This is a quick update to improve connection success when NetBIOS-based name lookup is used for direct PC connections. \n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.2.9",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Fixed a bug that caused the client to stall during Frontline license activation if the access token was expired.\n\u2022 Added support for Continuous Access Evaluation during workspace download and connection orchestration.\n\u2022 Tweaked the appearance of the Quick Launcher header.\n\nTo enable UDP shortpath for AVD and Windows 365 connections, set the \"ClientSettings.EnableAvdUdpSideTransport\" user default to true.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
+            "version": "11.2.8",
             "app_store_url": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4"
         },
         {

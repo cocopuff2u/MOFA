@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 24, 2025 09:07 AM EST</last_updated>
+	<last_updated>November 24, 2025 10:07 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -16,11 +16,11 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>November 24, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/c1/1c/50c11c83-9c99-aa72-c213-74143ccfb574/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 17, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/89/e9/1189e9b9-6ef3-3529-ffaf-cec77dc64c25/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.103.2</version>
+		<version>2.103.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>
@@ -252,8 +252,8 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>November 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/60/2c/bb602c51-96c9-b9d9-515b-a56947483c6c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/20/26/5d202641-abd2-3c6b-c964-9739901cabe4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Here’s what’s new in this release:
 • Copilot Multi-Tab Context: Ask questions across multiple tabs — Copilot now understands the context from all your open pages.
@@ -261,7 +261,7 @@ Like Whiteboard?
 • Extensions Now Available on your iPad: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience. (Available now on iPad with iOS 18.4 or later.)
 • PDF annotation: Your PDFs, your notes — annotate anywhere with Edge.
 Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!</releaseNotes>
-		<version>142.3595.80</version>
+		<version>142.3595.95</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
@@ -402,11 +402,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>November 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/50/94/dd509405-be5c-f3f3-a858-ee2cb16dfde9/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/03/5e/b7035e3c-63ed-3185-7d5e-9c67f9265f9b/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>35.7</version>
+		<releaseNotes>- Start a conversation with Copilot to find content, and get the answers you need on the go. Get AI-driven insights on your data, anytime, anywhere.</releaseNotes>
+		<version>35.8</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4</app_store_url>
 	</package>
 	<package>

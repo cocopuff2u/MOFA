@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 25, 2025 12:08 AM EST",
+    "last_updated": "November 25, 2025 01:11 AM EST",
     "packages": [
         {
             "name": "Word",
@@ -104,14 +104,14 @@
             "application_id": "IMCP01",
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
-            "short_version": "5.2510.0",
-            "full_version": "53.2510420.003",
-            "last_updated": "October 22, 2025",
+            "short_version": "5.2510.1",
+            "full_version": "53.2511449.003",
+            "last_updated": "November 20, 2025",
             "min_os": "11.0",
-            "update_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2510.0-Upgrade.pkg",
-            "latest_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2510.0-Upgrade.pkg",
-            "sha1": "c221f40ef784a5508c97442f9cbc28dfab16d60f",
-            "sha256": "d62f1512045cb9c0630bb31e7f65031292e032c6aad131bd4d0ef43443e97499"
+            "update_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2510.1-Upgrade.pkg",
+            "latest_download": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2510.1-Upgrade.pkg",
+            "sha1": "a553a9ebc72bb83bc9b64ac4a61db18082e6cb0e",
+            "sha256": "7eeb700b1e753fcb1423e20d7fb32d12c285345e4850752c0077b2afef1439ea"
         },
         {
             "name": "Edge",
@@ -188,14 +188,14 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2511 (1701)",
-            "full_version": "1.2511.1701",
-            "last_updated": "November 17, 2025",
+            "short_version": "1.2511 (1901)",
+            "full_version": "1.2511.1901",
+            "last_updated": "November 19, 2025",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.1701_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.1701_Updater.pkg",
-            "sha1": "f9397767b0342db42975814dfa38b056ccbadc12",
-            "sha256": "21a947afd7f9b924ee6dda1ae99654ddc2cf7ce4b16364c6aed51e2b7bdda80d"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.1901_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.1901_Updater.pkg",
+            "sha1": "N/A",
+            "sha256": "N/A"
         },
         {
             "name": "MAU",

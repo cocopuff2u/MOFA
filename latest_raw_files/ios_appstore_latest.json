@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 25, 2025 03:07 PM EST",
+    "last_updated": "November 25, 2025 04:06 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "November 19, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/38/510a386c-1f8f-e1d0-c6f2-10a315da59da/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 25, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/48/f8/9a48f8fa-95c4-844a-29df-6b022fdad3ad/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2545.1",
+            "version": "5.2546.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -170,11 +170,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "November 19, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/36/c4/e936c437-f5ab-917b-fa7a-6fd3207ce67b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 24, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/8e/b1/528eb1b8-7e6f-9e36-0d21-388bf50e0bd6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "11.21.0",
+            "version": "11.22.0",
             "app_store_url": "https://apps.apple.com/us/app/viva-engage/id289559439?uo=4"
         },
         {

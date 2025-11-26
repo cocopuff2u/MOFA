@@ -1,4 +1,4 @@
-last_updated: November 26, 2025 02:07 AM EST
+last_updated: November 26, 2025 03:09 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -96,8 +96,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot
-    currentVersionReleaseDate: November 25, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/10/1f/7e101ffb-970d-fd79-b52c-3249c25294c0/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 22, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/94/dd/a994dd51-bea0-71ae-43dd-ed60fb8521ba/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Introducing the New Copilot: Your AI Companion
 
@@ -108,7 +108,7 @@ packages:
 
       Copilot Daily: Start your day with a news and weather summary. Clean, simple,
       and easy to digest.'
-    version: 30.0.431125001
+    version: 30.0.431121003
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop

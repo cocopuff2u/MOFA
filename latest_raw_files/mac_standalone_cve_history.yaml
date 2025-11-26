@@ -1,12 +1,11 @@
-last_scan_date: November 25, 2025 10:29 PM EST
+last_scan_date: November 25, 2025 11:11 PM EST
 updates:
 - date_text: November 25, 2025
   security_updates:
     N/A:
     - cve_name: N/A
       url: null
-  version: Version 16.103.1 (Build 25111624) - Excel, OneNote;Version 16.103.1 (Build
-    276111719) - PowerPoint
+  version: Version 16.103.2 (Build 25112216)
 - date_text: November 18, 2025
   security_updates:
     N/A:

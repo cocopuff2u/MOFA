@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>November 25, 2025 10:29 PM EST</last_scan_date>
+    <last_scan_date>November 25, 2025 11:11 PM EST</last_scan_date>
     <Update>
         <Date>November 25, 2025</Date>
-        <Version>Version 16.103.1 (Build 25111624) - Excel, OneNote;Version 16.103.1 (Build 276111719) - PowerPoint</Version>
+        <Version>Version 16.103.2 (Build 25112216)</Version>
         <SecurityUpdates>
             <Application>
                 <Name>N/A</Name>

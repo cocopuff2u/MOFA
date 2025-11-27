@@ -1,67 +1,6 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>November 27, 2025 02:08 AM EST</last_scan_date>
-    <Update>
-        <Date>November 25, 2025</Date>
-        <Version>Version 16.103.2 (Build 25112216)</Version>
-        <SecurityUpdates>
-            <Application>
-                <Name>N/A</Name>
-                <CVE>N/A</CVE>
-                <URL>N/A</URL>
-            </Application>
-        </SecurityUpdates>
-    </Update>
-    <Update>
-        <Date>November 18, 2025</Date>
-        <Version>Version 16.103.1 (Build 25111624) - Excel, OneNote;Version 16.103.1 (Build 276111719) - PowerPoint</Version>
-        <SecurityUpdates>
-            <Application>
-                <Name>N/A</Name>
-                <CVE>N/A</CVE>
-                <URL>N/A</URL>
-            </Application>
-        </SecurityUpdates>
-    </Update>
-    <Update>
-        <Date>November 14, 2025</Date>
-        <Version>Version 16.103.1 (Build 25111410)</Version>
-        <SecurityUpdates>
-            <Application>
-                <Name>N/A</Name>
-                <CVE>N/A</CVE>
-                <URL>N/A</URL>
-            </Application>
-        </SecurityUpdates>
-    </Update>
-    <Update>
-        <Date>November 11, 2025</Date>
-        <Version>Version 16.103 (Build 25110922)</Version>
-        <SecurityUpdates>
-            <Application>
-                <Name>Excel</Name>
-                <CVE>CVE-2025-60728</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60728</URL>
-                <CVE>CVE-2025-62201</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62201</URL>
-                <CVE>CVE-2025-62202</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62202</URL>
-                <CVE>CVE-2025-60726</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60726</URL>
-                <CVE>CVE-2025-60727</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60727</URL>
-                <CVE>CVE-2025-62203</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62203</URL>
-            </Application>
-            <Application>
-                <Name>Office Suite</Name>
-                <CVE>CVE-2025-62199</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62199</URL>
-                <CVE>CVE-2025-60724</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60724</URL>
-            </Application>
-        </SecurityUpdates>
-    </Update>
+    <last_scan_date>November 27, 2025 03:10 AM EST</last_scan_date>
     <Update>
         <Date>November 4, 2025</Date>
         <Version>Version 16.102.3 (Build 25110228)</Version>

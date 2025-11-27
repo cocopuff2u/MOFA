@@ -1,5 +1,45 @@
-last_scan_date: November 27, 2025 03:10 AM EST
+last_scan_date: November 27, 2025 04:08 AM EST
 updates:
+- date_text: November 25, 2025
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.103.2 (Build 25112216)
+- date_text: November 18, 2025
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.103.1 (Build 25111624) - Excel, OneNote;Version 16.103.1 (Build
+    276111719) - PowerPoint
+- date_text: November 14, 2025
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.103.1 (Build 25111410)
+- date_text: November 11, 2025
+  security_updates:
+    Excel:
+    - cve_name: CVE-2025-60728
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60728
+    - cve_name: CVE-2025-62201
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62201
+    - cve_name: CVE-2025-62202
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62202
+    - cve_name: CVE-2025-60726
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60726
+    - cve_name: CVE-2025-60727
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60727
+    - cve_name: CVE-2025-62203
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62203
+    Office Suite:
+    - cve_name: CVE-2025-62199
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62199
+    - cve_name: CVE-2025-60724
+      url: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-60724
+  version: Version 16.103 (Build 25110922)
 - date_text: November 4, 2025
   security_updates:
     N/A:

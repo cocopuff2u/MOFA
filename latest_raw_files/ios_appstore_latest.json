@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 27, 2025 08:35 PM EST",
+    "last_updated": "November 27, 2025 09:37 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -335,11 +335,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "November 27, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/d3/16/8bd316fc-530b-5edb-9d4e-354589861c69/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 23, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/03/5e/b7035e3c-63ed-3185-7d5e-9c67f9265f9b/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Start a conversation with Copilot to find content, and get the answers you need on the go. Get AI-driven insights on your data, anytime, anywhere.",
-            "version": "35.9",
+            "version": "35.8",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4"
         },
         {

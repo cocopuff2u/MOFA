@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 28, 2025 08:15 AM EST",
+    "last_updated": "November 28, 2025 09:06 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -104,11 +104,11 @@
             "name": "MacOS Microsoft CoPilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot-mac",
-            "currentVersionReleaseDate": "November 28, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/65/2e/8a652e11-1b3a-91cc-626c-f57d730ee81a/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png",
+            "currentVersionReleaseDate": "November 20, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/e2/d2/81e2d21a-b697-e355-e754-82838b46ef4d/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "24.4.431125002",
+            "version": "24.3.431120001",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&uo=4"
         },
         {

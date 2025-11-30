@@ -1,4 +1,4 @@
-last_updated: November 30, 2025 12:07 AM EST
+last_updated: November 30, 2025 01:10 AM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -112,26 +112,26 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.25082.0006
-  full_version: 101.25082.0006
-  last_updated: September 30, 2025
+  short_version: 101.25102.0016
+  full_version: 101.25102.0016
+  last_updated: November 30, 2025
   min_os: '12.0'
   update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg
-  sha1: 9f4c8d110b911c40f864045961e3532594772494
-  sha256: 5c707b63ab5c0ad53e6b3b62999494f45c5c6eb6b4f564b73972429244d55aa4
+  sha1: 886a61d45fca2541bf90ea817e41dbdb67f5dc81
+  sha256: fe637a4d2c2047adc622740ba89b4c324b5674485bee98700cf49b155d251c1f
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.25082.0006
-  full_version: 101.25082.0006
-  last_updated: September 30, 2025
+  short_version: 101.25102.0016
+  full_version: 101.25102.0016
+  last_updated: November 30, 2025
   min_os: '12.0'
-  update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.25082.0006_Individuals_Installer.pkg
-  latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.25082.0006_Individuals_Installer.pkg
-  sha1: a05d1b0d707f090bc75da61dbb857e3f5756311f
-  sha256: 4b4a4c06988d7eff45a790dbd3b62f5ee821f5887cb0085a1e59f93ea1a25cf2
+  update_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.25102.0016_Individuals_Installer.pkg
+  latest_download: https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.25102.0016_Individuals_Installer.pkg
+  sha1: ce57fc58fafd0ce3886bd82dcecf3705196257f8
+  sha256: be9b0da79550d8cc6d4adea3ed6f5395799b9def020329a646f999002b812c49
 - name: Defender Shim
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app

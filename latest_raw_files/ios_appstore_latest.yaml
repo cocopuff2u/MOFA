@@ -1,4 +1,4 @@
-last_updated: December 01, 2025 01:10 PM EST
+last_updated: December 01, 2025 02:08 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -12,20 +12,20 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: December 01, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/9e/eb/519eeb8a-2e5e-1ea9-1f88-6ba8c6f3cbd7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/c1/1c/50c11c83-9c99-aa72-c213-74143ccfb574/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.103.3
+    version: 2.103.2
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: December 01, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/74/e1/aa74e11a-2490-9e62-4c9e-71521b0f6439/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/e7/7d/cae77d91-6c27-71ad-0e0c-6f60174bfd80/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.103.3
+    version: 2.103.2
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -42,15 +42,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: December 01, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/d4/1d/0fd41d5a-1395-98ec-f428-5307a2ea9d9a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/58/b8/1058b8f3-eabf-392a-b1b2-bfeac08adc3e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.103.3
+    version: 16.103.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
@@ -140,15 +140,14 @@ packages:
     version: 9.55.25314
     app_store_url: https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4
   - name: iOS Microsoft Dynamics 365 Sales
-    application_name: Dynamics 365 Sales
-    bundleId: com.microsoft.dynamics.iphone.moca.sales
-    currentVersionReleaseDate: November 11, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    application_name: Dynamics 365 for phones
+    bundleId: com.microsoft.dynamics.iphone.moca
+    currentVersionReleaseDate: September 11, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '14.0'
-    releaseNotes: This version includes experience improvements and bug fixes so sellers
-      can stay on top of their deals better than ever before.
-    version: 3.24104.15
-    app_store_url: https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4
+    releaseNotes: "\u2022 Bug fixes and performance improvements."
+    version: 13.24093.1
+    app_store_url: https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4
   - name: iOS Microsoft Lists
     application_name: Microsoft Lists
     bundleId: com.microsoft.splists
@@ -210,8 +209,8 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: November 24, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/20/26/5d202641-abd2-3c6b-c964-9739901cabe4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 01, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/fd/46/74fd461f-2065-afc4-6939-6c92c468c529/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Copilot Multi-Tab Context: Ask questions across multiple\
@@ -222,7 +221,7 @@ packages:
       \ productive browsing experience. (Available now on iPad with iOS 18.4 or later.)\n\
       \u2022 PDF annotation: Your PDFs, your notes \u2014 annotate anywhere with Edge.\n\
       Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!"
-    version: 142.3595.95
+    version: 142.3595.107
     app_store_url: https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI

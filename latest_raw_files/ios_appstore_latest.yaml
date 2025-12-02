@@ -1,4 +1,4 @@
-last_updated: December 02, 2025 02:07 PM EST
+last_updated: December 02, 2025 03:08 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -55,11 +55,29 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: November 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/89/70/4c89704a-d7cd-e9d4-3315-028c35520d20/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 01, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/d4/22/d0d422e1-7a27-f13f-61cc-5ac8b692efe7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: This update contains bug fixes and stability improvements.
-    version: 16.27.3
+    releaseNotes: "We\u2019ve been busy behind the scenes making OneDrive even better.\
+      \ Here\u2019s what\u2019s new and improved:\n\nNew\n\n- Update album covers:\
+      \ Personalize your photo albums by choosing the perfect cover image.\n- Sync\
+      \ status in settings: Quickly check your sync status right from account settings\
+      \ \u2014 no more guessing.\n\nFixed & Improved\n\nWe\u2019ve made a number of\
+      \ behind-the-scenes improvements to keep things running smoothly:\n- Drag and\
+      \ drop and sort by date: Enhanced drag-and-drop experience and made sort by\
+      \ date consistent across all environments.\n- Gallery and albums: Updated empty\
+      \ state when filtering to the Pictures folder and fixed various album UI bugs.\n\
+      - Live photos: Resolved playback issues and download errors for a smoother experience.\n\
+      - Folder picker: Improved default selection, fixed crashes, and enhanced folder\
+      \ creation flows.\n- Error handling: Clearer alerts when moving files with duplicate\
+      \ names or to read-only folders.\n- Uploads and sync: Fixed manual photo upload\
+      \ failures, refreshed service endpoints, and enabled Vroom multiformat uploader\
+      \ for OneDrive Business.\n- Shared with me and vault: Fixed vault sync root\
+      \ issues.\n- General performance and stability improvements across the app.\n\
+      \nThanks for using OneDrive! We\u2019re always working to improve your experience.\
+      \ If you run into any issues, just shake your device and tap \u201CSend Feedback.\u201C\
+      \n\n/** These notes were generated using Copilot"
+    version: 16.28.3
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile

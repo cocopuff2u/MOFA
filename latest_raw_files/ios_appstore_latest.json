@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 01, 2025 06:06 PM EST",
+    "last_updated": "December 01, 2025 07:30 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -16,22 +16,22 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "December 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/9e/eb/519eeb8a-2e5e-1ea9-1f88-6ba8c6f3cbd7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 24, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/c1/1c/50c11c83-9c99-aa72-c213-74143ccfb574/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.103.3",
+            "version": "2.103.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
         },
         {
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "December 01, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/74/e1/aa74e11a-2490-9e62-4c9e-71521b0f6439/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 24, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/e7/7d/cae77d91-6c27-71ad-0e0c-6f60174bfd80/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.103.3",
+            "version": "2.103.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4"
         },
         {
@@ -60,11 +60,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "November 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/89/70/4c89704a-d7cd-e9d4-3315-028c35520d20/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/b6/ec/70b6ece6-92e9-edb2-1fb8-086052b8aa2c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.27.3",
+            "releaseNotes": "We\u2019ve been busy behind the scenes making OneDrive even better. Here\u2019s what\u2019s new and improved:\n\nNew\n\n- Update album covers: Personalize your photo albums by choosing the perfect cover image.\n- Sync status in settings: Quickly check your sync status right from account settings \u2014 no more guessing.\n\nFixed & Improved\n\nWe\u2019ve made a number of behind-the-scenes improvements to keep things running smoothly:\n- Drag and drop and sort by date: Enhanced drag-and-drop experience and made sort by date consistent across all environments.\n- Gallery and albums: Updated empty state when filtering to the Pictures folder and fixed various album UI bugs.\n- Live photos: Resolved playback issues and download errors for a smoother experience.\n- Folder picker: Improved default selection, fixed crashes, and enhanced folder creation flows.\n- Error handling: Clearer alerts when moving files with duplicate names or to read-only folders.\n- Uploads and sync: Fixed manual photo upload failures, refreshed service endpoints, and enabled Vroom multiformat uploader for OneDrive Business.\n- Shared with me and vault: Fixed vault sync root issues.\n- General performance and stability improvements across the app.\n\nThanks for using OneDrive! We\u2019re always working to improve your experience. If you run into any issues, just shake your device and tap \u201cSend Feedback.\u201c\n\n/** These notes were generated using Copilot",
+            "version": "16.28.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
         },
         {

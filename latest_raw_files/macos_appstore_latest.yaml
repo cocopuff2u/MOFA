@@ -1,4 +1,4 @@
-last_updated: December 04, 2025 02:08 AM EST
+last_updated: December 04, 2025 03:10 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -30,24 +30,24 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: December 03, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/ad/8e/f5ad8e03-47c0-92bf-f493-5809c9f01410/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 25, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/3d/6f/123d6f3e-77e0-b533-42c4-9460fa224e93/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: Improved overall performance and accessibility experience.
-    version: 16.103.3
+    version: 16.103.2
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: December 02, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/e6/18/cfe61863-573d-f497-2a07-6d876d426bd9/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 25, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/08/69/7e0869c3-3b31-8de3-458d-aca104401f5e/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.103.3
+    version: 16.103.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
@@ -72,16 +72,13 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: December 03, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/d9/88/0dd9884f-36a5-d722-230d-0b4e8412a9a6/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/32/ce/be32cee8-86df-68d5-be15-f59c2f99d700/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "In this release we made the following updates:\n \n\u2022 Addressed\
-      \ invalid layouts encountered when using Microsoft Teams optimizations in multiple\
-      \ monitor scenarios.\n\u2022 Resolved performance bottlenecks in the Connection\
-      \ Center that were causing the app to hang.\n\u2022 Added infrastructure to\
-      \ improve resiliency for single-sign-on workflows.\n \nIf you encounter any\
-      \ errors, you can contact us via Help > Submit Feedback."
-    version: 11.3.0
+    releaseNotes: "This is a quick update to improve connection success when NetBIOS-based\
+      \ name lookup is used for direct PC connections. \n\nIf you encounter any errors,\
+      \ you can contact us via Help > Submit Feedback."
+    version: 11.2.9
     app_store_url: https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do

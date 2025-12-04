@@ -1,65 +1,65 @@
-last_updated: December 03, 2025 06:06 PM EST
+last_updated: December 03, 2025 07:31 PM EST
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.105.0 (25120111)
-  full_version: 16.105.25120111
-  last_updated: December 01, 2025
+  short_version: 16.105.0 (25120234)
+  full_version: 16.105.25120234
+  last_updated: December 02, 2025
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.105.25120111_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.105.25120111_Updater.pkg
-  sha1: 612a641d67f9715811f7b7bf2c840c40ac28f370
-  sha256: 3487c3b0708ba415b540d5a9068962549ed2f1a91d32f6fe150498f3ee8158f6
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.105.25120234_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.105.25120234_Updater.pkg
+  sha1: 93dbbd18723f0edfce647e5c3201c90cb08e99f0
+  sha256: 5afde5a77f4c163eb14eb9941ee531ad2f1cf16720eabd792daf835eb0cc74e6
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.105.0 (25120111)
-  full_version: 16.105.25120111
-  last_updated: December 01, 2025
+  short_version: 16.105.0 (25120234)
+  full_version: 16.105.25120234
+  last_updated: December 02, 2025
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.105.25120111_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.105.25120111_Updater.pkg
-  sha1: d5601f5594e5ab12e90d3472fffb277558c65c41
-  sha256: 60f88638a7e120027ed74903a9a14c0a2d31563fb48afc6648da166d08a3845d
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.105.25120234_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.105.25120234_Updater.pkg
+  sha1: 78f6bce0845bd3b61981225bace6b9c45384c70e
+  sha256: ed297e7cb5f7cd6d872c630b866e72953657dd0386e326600a8eac9dc1aae181
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.105.0 (25120111)
-  full_version: 16.105.25120111
-  last_updated: December 01, 2025
+  short_version: 16.105.0 (25120234)
+  full_version: 16.105.25120234
+  last_updated: December 02, 2025
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.105.25120111_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.105.25120111_Updater.pkg
-  sha1: f7242b2907b63df1993a557a99b30e0e3e991602
-  sha256: 5a84a87adf300640f991527196289032ae5f1f38270a7b34ba2503dad09127de
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.105.25120234_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.105.25120234_Updater.pkg
+  sha1: 2294f9e6c07e7066d1dce85cca099db9f878eea6
+  sha256: 5d3af85ad9ea73ccd7795d34d536b253b6836e3d0e3e558533e59998872675e4
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.105.0 (25120111)
-  full_version: 16.105.25120111
-  last_updated: December 01, 2025
+  short_version: 16.105.0 (25120234)
+  full_version: 16.105.25120234
+  last_updated: December 02, 2025
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.105.25120111_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.105.25120111_Updater.pkg
-  sha1: 361232319621e6f5079f8576052f313b9071b261
-  sha256: 160bb5a2e2cf81475e94776048036decee3c1fab58213bb6263e4ae21c67f76f
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.105.25120234_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.105.25120234_Updater.pkg
+  sha1: 7dc9209cbf39b6a7cedf4e308ec5a944facb90fd
+  sha256: 9ec7fabd31ae22e72da5cb4305a792c57c959711b69253ff19c3ec76bfcd519a
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.105.0 (25120111)
-  full_version: 16.105.25120111
-  last_updated: December 01, 2025
+  short_version: 16.105.0 (25120234)
+  full_version: 16.105.25120234
+  last_updated: December 02, 2025
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.105.25120111_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.105.25120111_Updater.pkg
-  sha1: fe2248cb0353b5f6742573ba8c09d775bd50acf4
-  sha256: 8b2eddcf789b5940978a2b4175eb2ff804035f7c7e14f77a954b653b96d8d945
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.105.25120234_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.105.25120234_Updater.pkg
+  sha1: e7937eefb408684a7d45f9ae055c5acc3fc343f0
+  sha256: 21110d832fe24071a1de8886d6e85ff0ea5a66630277b9d830cfca593b2e1c88
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app

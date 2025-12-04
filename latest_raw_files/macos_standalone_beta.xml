@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>December 04, 2025 01:12 AM EST</last_updated>
+    <last_updated>December 04, 2025 02:09 AM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -176,12 +176,12 @@
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
         <short_version>1.107.0-</short_version>
         <full_version>1.107.0-insider</full_version>
-        <last_updated>December 03, 2025</last_updated>
+        <last_updated>December 04, 2025</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/13086c796c3a200f920ae765ef0a38489488d6b2/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/a44beb9c392505cf7897ad5a20c5b83d26537fd1/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
-        <sha1>e176e3065d874fddd3b40765780e87e63f7d0846</sha1>
-        <sha256>8f54b4ae7a5327ecd4ee958f6c2a74a480155cdd3b3695c09637292a96625c9c</sha256>
+        <sha1>6ee4e5260c5afda88fcbca2946accf5b8bd5be88</sha1>
+        <sha256>1e24ea42f79d3281931d2583b5bc8b2192cadf09cc7424b56ee50a85b4782c97</sha256>
     </package>
     <package>
         <name>Copilot</name>

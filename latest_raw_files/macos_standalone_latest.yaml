@@ -1,4 +1,4 @@
-last_updated: December 04, 2025 12:07 AM EST
+last_updated: December 04, 2025 01:10 AM EST
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -214,16 +214,16 @@ packages:
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app
   CFBundleVersion: com.microsoft.m365copilot
-  short_version: 1.2511 (2601)
-  full_version: 1.2511.2601
-  last_updated: November 26, 2025
+  short_version: 1.2512 (0102)
+  full_version: 1.2512.0102
+  last_updated: December 02, 2025
   min_os: '14.0'
-  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.2601_Updater.pkg
-  app_update_sha1: ba0b876c7d93fbe3cab0e6c6dc7272562ffa371c
-  app_update_sha256: 4057c0ff45f09f3d307142a38bc7c901fc2463769583e242e7b60213abf118cc
+  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2512.0102_Updater.pkg
+  app_update_sha1: 143cbf55a2aea3f0362ef9fa35eba5c5ae3e0080
+  app_update_sha256: 1982bf3369670081b23c7b5b1d7e3c0e33e6db6e09c96a3afca5b7d800ea9e8e
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2325438
-  full_update_sha1: 5fa42bdab7289c7a640f05c7b25cf90e92a932a6
-  full_update_sha256: b5ee5e9cc22ed0d20a38cbc57c8d6a39394826644adff91eaef4a01eb1a28f69
+  full_update_sha1: 5692b0dbf719b839bb627c02d3bfc6d4ce3f1526
+  full_update_sha256: 04546f404ebb05fca6b210328f76422ff1c453c90c8b437844bfe7e3e6ae685d
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

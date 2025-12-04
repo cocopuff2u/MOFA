@@ -1,4 +1,4 @@
-last_updated: December 04, 2025 12:07 AM EST
+last_updated: December 04, 2025 01:11 AM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -160,14 +160,14 @@ packages:
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app
   CFBundleVersion: com.microsoft.m365copilot
-  short_version: 1.2511 (2601)
-  full_version: 1.2511.2601
-  last_updated: November 26, 2025
+  short_version: 1.2512 (0102)
+  full_version: 1.2512.0102
+  last_updated: December 02, 2025
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.2601_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2511.2601_Updater.pkg
-  sha1: ba0b876c7d93fbe3cab0e6c6dc7272562ffa371c
-  sha256: 4057c0ff45f09f3d307142a38bc7c901fc2463769583e242e7b60213abf118cc
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2512.0102_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2512.0102_Updater.pkg
+  sha1: 143cbf55a2aea3f0362ef9fa35eba5c5ae3e0080
+  sha256: 1982bf3369670081b23c7b5b1d7e3c0e33e6db6e09c96a3afca5b7d800ea9e8e
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 05, 2025 12:08 PM EST",
+    "last_updated": "December 05, 2025 01:09 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -178,10 +178,10 @@
             "full_version": "1.107.0-insider",
             "last_updated": "December 05, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/1eea41f3b8dcd80f2f2b49e1a8e3cd859872c8f5/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/4038871b29e9b3d7bae2518c9ac424574cdd9316/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
-            "sha1": "898a8fd4f9e8009056698930ee20bbdb318c5aa8",
-            "sha256": "5403a3cea15e1b297584dd5e794fb4166ccb9cf7a984daed8c32158ce8b3f475"
+            "sha1": "d5db23d20ad75db27da69e3feaa399f28af4a13f",
+            "sha256": "512861720f50cf80cde997f5072b9e12bd688147a7b0520d7c168b11a73c19c8"
         },
         {
             "name": "Copilot",

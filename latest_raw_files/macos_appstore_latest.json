@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 05, 2025 03:09 AM EST",
+    "last_updated": "December 05, 2025 04:08 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -60,11 +60,11 @@
             "name": "MacOS Microsoft OneDrive",
             "application_name": "OneDrive",
             "bundleId": "com.microsoft.OneDrive-mac",
-            "currentVersionReleaseDate": "November 18, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/a3/3c/6aa33c12-dbe9-fb5b-9e6a-e816afaef22a/OneDrive.png/512x512bb.png",
+            "currentVersionReleaseDate": "December 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/ac/0f/dbac0f39-47c7-76e7-ee3f-1f7a1156d8c4/OneDrive.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.",
-            "version": "25.206.1021",
+            "version": "25.216.1104",
             "app_store_url": "https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4"
         },
         {
@@ -82,11 +82,11 @@
             "name": "MacOS Microsoft Windows App",
             "application_name": "Windows App",
             "bundleId": "com.microsoft.rdc.macos",
-            "currentVersionReleaseDate": "November 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/32/ce/be32cee8-86df-68d5-be15-f59c2f99d700/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "December 03, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/d9/88/0dd9884f-36a5-d722-230d-0b4e8412a9a6/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "This is a quick update to improve connection success when NetBIOS-based name lookup is used for direct PC connections. \n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.2.9",
+            "releaseNotes": "In this release we made the following updates:\n \n\u2022 Addressed invalid layouts encountered when using Microsoft Teams optimizations in multiple monitor scenarios.\n\u2022 Resolved performance bottlenecks in the Connection Center that were causing the app to hang.\n\u2022 Added infrastructure to improve resiliency for single-sign-on workflows.\n \nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
+            "version": "11.3.0",
             "app_store_url": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4"
         },
         {
@@ -104,11 +104,11 @@
             "name": "MacOS Microsoft CoPilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot-mac",
-            "currentVersionReleaseDate": "November 28, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/65/2e/8a652e11-1b3a-91cc-626c-f57d730ee81a/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png",
+            "currentVersionReleaseDate": "December 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/29/e1/d329e1d1-c691-9727-3992-42db99e7f49f/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "24.4.431125002",
+            "version": "24.5.431203002",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&uo=4"
         },
         {

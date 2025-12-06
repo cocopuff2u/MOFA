@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 06, 2025 05:07 AM EST",
+    "last_updated": "December 06, 2025 06:06 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -379,11 +379,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "December 06, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/51/2a/58512aac-5351-ddd2-5f95-c35304b6628f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 04, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/10/6e/1c106e08-8945-1660-0b0d-0ded5396d827/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.104.3",
+            "version": "2.104.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
         },
         {

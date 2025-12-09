@@ -1,5 +1,11 @@
-last_scan_date: December 09, 2025 01:08 PM EST
+last_scan_date: December 09, 2025 02:06 PM EST
 updates:
+- date_text: December 09, 2025
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.103.4 (25120717)
 - date_text: December 02, 2025
   security_updates:
     N/A:

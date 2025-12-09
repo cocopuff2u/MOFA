@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>December 08, 2025 06:07 PM EST</last_updated>
+	<last_updated>December 08, 2025 07:31 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>December 08, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/82/98/95829812-d0f7-09d2-137f-b80b0868e915/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/22/04/dd22047d-020f-c96b-0e9e-3b560ca07169/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes</releaseNotes>
-		<version>2.103.4</version>
+		<version>2.103.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
@@ -51,8 +51,8 @@ Feel free to send us any comments or questions by going to Settings &gt; Help &a
 		<name>iOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote</bundleId>
-		<currentVersionReleaseDate>December 08, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/8e/2a/a88e2ad1-d43b-4656-4fdb-6d8690e94a4c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 01, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/d4/1d/0fd41d5a-1395-98ec-f428-5307a2ea9d9a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -60,7 +60,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.103.4</version>
+		<version>16.103.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4</app_store_url>
 	</package>
 	<package>
@@ -99,27 +99,20 @@ Thanks for using OneDrive! We’re always working to improve your experience. If
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Windows App Mobile</application_name>
 		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>November 17, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/80/f0/bb80f086-8973-7ed6-f8b8-a1b9f53c7372/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/16/2b/31162bf1-371c-ab88-cbfd-fab847ffcabb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>In this release we made the following updates:
 
-• Added support for displaying whether a Windows 365 Cloud PC endpoint is AI-enabled.
-• Added support for the Windows 365 &quot;Cloud Apps&quot; feature.
-• Added support for Windows 365 Cloud App reset.
-• Added support for Windows 365 Reserve self-provisioning.
-• Added a &quot;Type&quot; field to the Apps tab Connection Center filter for &quot;Cloud Apps&quot; and &quot;Azure Virtual Desktop&quot;.
-• The immersive switcher now supports light mode.
-• In-app notifications no longer display the current timestamp.
-• Improved handling for concurrent in-app notifications.
-• Tapping on the &quot;Authentication Required&quot; in-app notification will now immediately redirect to the sign-in UI.
-• Fixed device card corner masking issues.
-• Resolved RDS connectivity issues triggered by authentication certificate processing.
-• Sorted out some RemoteApp bugs.
+• Improved connection success when NetBIOS-based name lookup is used for direct PC connections.
+• Added support for updated safe area insets on iPhone 17 devices.
+• Improved external display support for iPad Pro M5 and iPad Air M3 devices.
+• Resolved deadlocks that occurred during account sign-out and workspace refresh.
+• Added floating keyboard support on iPadOS 26.
 • Addressed a number of crashes that were showing up in error reporting.
 
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.2</version>
+		<version>11.2.3</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>

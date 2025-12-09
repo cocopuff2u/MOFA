@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 09, 2025 05:07 PM EST",
+    "last_updated": "December 09, 2025 06:06 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "December 02, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/5f/d6/4f5fd69a-39c3-2e51-b297-176246c116c6/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/82/a0/1d82a0f7-10e2-16b6-1aa4-66971bb0ea87/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2547.0",
+            "version": "5.2548.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -159,11 +159,11 @@
             "name": "iOS Microsoft Dynamics 365 Field Service",
             "application_name": "Dynamics 365 Field Service",
             "bundleId": "com.microsoft.dynamics.iphone.moca.fieldServices",
-            "currentVersionReleaseDate": "December 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/c0/5e/efc05e55-0573-beff-c8cf-bcf3f6f79023/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 30, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e9/5d/3ce95d85-a73c-6789-1064-146c69fccaa6/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Minor updates, bug fixes, and performance improvements.",
-            "version": "13.25112.9",
+            "version": "13.25091.10",
             "app_store_url": "https://apps.apple.com/us/app/dynamics-365-field-service/id1485579247?uo=4"
         },
         {
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "December 09, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/65/ef/4a65efac-a527-5aa6-8307-bfa9600826c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 01, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/fd/46/74fd461f-2065-afc4-6939-6c92c468c529/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Ask Copilot from the page context menu: now you can get help even faster. Just long-press any text on a webpage and tap Ask Copilot to get instant insights.\n\u2022 Copilot multi-tab context: ask questions across multiple tabs. Copilot now understands the context from all your open pages.\n\u2022 Smarter suggestion chips: get more relevant and helpful suggestions based on what you\u2019re browsing.\nUpgrade now for a smarter, faster, and more productive Microsoft Edge!",
-            "version": "143.3650.72",
+            "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Copilot Multi-Tab Context: Ask questions across multiple tabs \u2014 Copilot now understands the context from all your open pages.\n\u2022 Smarter Suggestion Chips: Get more relevant, helpful suggestions tailored to what you\u2019re browsing.\n\u2022 Extensions Now Available on your iPad: Explore Immersive Translate, Keepa, Coupert, and more for a personalized and productive browsing experience. (Available now on iPad with iOS 18.4 or later.)\n\u2022 PDF annotation: Your PDFs, your notes \u2014 annotate anywhere with Edge.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
+            "version": "142.3595.107",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {

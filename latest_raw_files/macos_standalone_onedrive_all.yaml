@@ -1,24 +1,24 @@
 latest:
-  last_updated: December 08, 2025 07:31 PM EST
+  last_updated: December 08, 2025 08:36 PM EST
   package:
   - name: Production Ring
-    short_version: 25.216.1104
+    short_version: 25.222.1112
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.216.1104.0002/universal/OneDrive.pkg
-    full_update_sha1: dee44ce1db5de6e1e6f787eb0003d1a44cd093eb
-    full_update_sha256: 8a1168cdb0c06c6dcd51a882eda8ddf3a8547c4e2f6590173d45bc1e5bccb028
-    last_updated: November 21, 2025 01:09 PM EST
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.222.1112.0002/universal/OneDrive.pkg
+    full_update_sha1: 688a918ed4316ef988292799d2d8708c8c884c37
+    full_update_sha256: d36980c815e8921922de25cd1817f1da0ed735681202f6f8ce2e437cc7fee349
+    last_updated: December 08, 2025 08:36 PM EST
   - name: Upcoming Production Ring
-    short_version: 25.216.1104
+    short_version: 25.222.1112
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.216.1104.0002/universal/OneDrive.pkg
-    full_update_sha1: dee44ce1db5de6e1e6f787eb0003d1a44cd093eb
-    full_update_sha256: 8a1168cdb0c06c6dcd51a882eda8ddf3a8547c4e2f6590173d45bc1e5bccb028
-    last_updated: November 21, 2025 01:09 PM EST
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/25.222.1112.0002/universal/OneDrive.pkg
+    full_update_sha1: 688a918ed4316ef988292799d2d8708c8c884c37
+    full_update_sha256: d36980c815e8921922de25cd1817f1da0ed735681202f6f8ce2e437cc7fee349
+    last_updated: December 08, 2025 08:36 PM EST
   - name: Deferred Ring
     short_version: 25.137.0715
     application_id: ONDR18

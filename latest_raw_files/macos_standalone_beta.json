@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 09, 2025 06:07 AM EST",
+    "last_updated": "December 09, 2025 07:13 AM EST",
     "packages": [
         {
             "name": "Word",
@@ -178,24 +178,24 @@
             "full_version": "1.107.0-insider",
             "last_updated": "December 09, 2025",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/006e4ee11254088f3b4030d5175dfb5e1009244b/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/72645362b1149fb38027c62316b651e1457049a3/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
-            "sha1": "e002eed98f16b4d791bf4e4411a1b93db8691918",
-            "sha256": "4a4059ef62d0230a0968f2d8d61e1f7831e63296dc12263df0e6bd75d00b5b61"
+            "sha1": "040ad517ccd1adb8007bfe0a5b5ddb6678d43cce",
+            "sha256": "3ae53e09065cc9be10ab18f6bb5a702cba420858ca1321bfaa59f0d827647602"
         },
         {
             "name": "Copilot",
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2512 (0102)",
-            "full_version": "1.2512.0102",
-            "last_updated": "December 02, 2025",
+            "short_version": "1.2512 (0301)",
+            "full_version": "1.2512.0301",
+            "last_updated": "December 03, 2025",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2512.0102_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2512.0102_Updater.pkg",
-            "sha1": "N/A",
-            "sha256": "N/A"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2512.0301_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2512.0301_Updater.pkg",
+            "sha1": "94c5c02eddf6dbd20c018b45564dbd18023166f9",
+            "sha256": "6e78784aafa9f5892190063710f57be9cd927968389760b51f9ffffcb425f96b"
         },
         {
             "name": "MAU",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 10, 2025 04:09 AM EST",
+    "last_updated": "December 10, 2025 05:08 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -93,11 +93,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot",
-            "currentVersionReleaseDate": "December 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/22/94/3f22944d-9e30-0da6-6333-f642c3a57c17/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 09, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/6d/78/376d78e3-f0ea-e707-cd5e-47f13076a9c7/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
-            "version": "30.0.431210001",
+            "version": "30.0.431209005",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
         },
         {

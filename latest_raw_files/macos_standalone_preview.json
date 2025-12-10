@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 09, 2025 07:32 PM EST",
+    "last_updated": "December 09, 2025 08:36 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -20,14 +20,14 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.103.4 (25120717)",
-            "full_version": "16.103.25120717",
-            "last_updated": "December 07, 2025",
+            "short_version": "16.104.0 (25120915)",
+            "full_version": "16.104.25120915",
+            "last_updated": "December 09, 2025",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.103.25120717_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.103.25120717_Updater.pkg",
-            "sha1": "73862aff0471defe4af5ba4781d8a31b5e895026",
-            "sha256": "5178df54eb3b73428503b493b630673f05745260d79e7bcd12222fc56c22d74a"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.104.25120915_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.104.25120915_Updater.pkg",
+            "sha1": "81071a0e8f8e54bfc0e37bd17f727016e3e544d4",
+            "sha256": "3f8c127c67df87c42dfdd70ee5c6c03b63eb9b8c1243769b4c283108ae666d5e"
         },
         {
             "name": "PowerPoint",

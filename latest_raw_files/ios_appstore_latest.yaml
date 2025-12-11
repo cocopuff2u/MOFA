@@ -1,4 +1,4 @@
-last_updated: December 10, 2025 11:17 PM EST
+last_updated: December 11, 2025 12:08 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -192,37 +192,37 @@ packages:
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'
     bundleId: com.jimschultz.WhiteBoard
-    currentVersionReleaseDate: October 31, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/b8/23/6fb82356-8334-1c19-0df9-f3dbac4cdc17/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: December 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/52/f3/9e52f38e-ac9a-a9b7-e227-5a921dbc9395/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.6'
     releaseNotes: "Thanks everyone for using Whiteboard. Here's what's new in this\
-      \ version:) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Optimizations\
-      \ to error reporting\n* Lays the groundwork for upcoming updates\n* General\
-      \ stability improvements\n* General stability improvements\n\n\n2.0 Additions\
-      \ and Improvements\n* Introducing SharePlay drawing, draw with others over FaceTime\
-      \ or Messages.\n* Introducing CreatorKit, get the most out of Whiteboard and\
-      \ support Indie development\n* Now you can zoom in and out on drawings and images!\n\
-      * Scroll around in freedom on the all new, expansive, drawing board.\n* Autorotate\
-      \ from portrait to landscape and back, or you can choose to lock orientation.\n\
-      * Drawing library, open and continue working on your recent drawings.\n* Add\
-      \ new drawing button, create a new drawing anytime. \n* Significant performance\
-      \ and stability improvements\n* Adds lock for drawing board zoom/pan/scroll\n\
-      * Many more excited things are coming\n* Stay tuned\n\n- Jim\n\nIssues, questions\
-      \ or suggestions?\n\u2022 jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022\
-      \ Please subscribe to CreatorKit to help support development\n\u2022 Please\
-      \ rate the app 5 stars so more people find it\n\u2022 Please share Whiteboard\
-      \ with a friend or family member to help get the word out.\n\u2022 Please email\
-      \ me jim@getwhiteboard.com and let me know how you're using Whiteboard, send\
-      \ me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to\
-      \ my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\
+      \ version:) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Adds\
+      \ daily drawing prompts to inspire creativity every day\n* Generate unlimited\
+      \ drawing prompts with Creator Kit\n* Usage and stability improvements\n\n\n\
+      2.0 Additions and Improvements\n* Introducing SharePlay drawing, draw with others\
+      \ over FaceTime or Messages.\n* Introducing CreatorKit, get the most out of\
+      \ Whiteboard and support Indie development\n* Now you can zoom in and out on\
+      \ drawings and images!\n* Scroll around in freedom on the all new, expansive,\
+      \ drawing board.\n* Autorotate from portrait to landscape and back, or you can\
+      \ choose to lock orientation.\n* Drawing library, open and continue working\
+      \ on your recent drawings.\n* Add new drawing button, create a new drawing anytime.\
+      \ \n* Significant performance and stability improvements\n* Adds lock for drawing\
+      \ board zoom/pan/scroll\n* Many more excited things are coming\n* Stay tuned\n\
+      \n- Jim\n\nIssues, questions or suggestions?\n\u2022 jim@getwhiteboard.com\n\
+      \nLike Whiteboard?\n\u2022 Please subscribe to CreatorKit to help support development\n\
+      \u2022 Please rate the app 5 stars so more people find it\n\u2022 Please share\
+      \ Whiteboard with a friend or family member to help get the word out.\n\u2022\
+      \ Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard,\
+      \ send me drawings, questions, concerns and feedback.\n\u2022 Please subscribe\
+      \ to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\
       \u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard."
-    version: 2.5.2
+    version: 2.6.1
     app_store_url: https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: December 09, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/65/ef/4a65efac-a527-5aa6-8307-bfa9600826c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 11, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/32/82/4f32825c-2b28-05d7-8cda-3004ae1d5f2c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Ask Copilot from the page context menu: now you can get help\
@@ -232,7 +232,7 @@ packages:
       \u2022 Smarter suggestion chips: get more relevant and helpful suggestions based\
       \ on what you\u2019re browsing.\nUpgrade now for a smarter, faster, and more\
       \ productive Microsoft Edge!"
-    version: 143.3650.72
+    version: 143.3650.77
     app_store_url: https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
@@ -305,11 +305,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: December 09, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d6/21/52d6216e-0bbc-b749-641e-e0d292773b6c/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: December 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0c/a3/ea0ca35a-1226-5855-2767-f0de00def18b/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25121.6
+    version: 3.25121.11
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator

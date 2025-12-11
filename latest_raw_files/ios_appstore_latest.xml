@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>December 11, 2025 11:10 AM EST</last_updated>
+	<last_updated>December 11, 2025 12:10 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -360,11 +360,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>December 09, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d6/21/52d6216e-0bbc-b749-641e-e0d292773b6c/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0c/a3/ea0ca35a-1226-5855-2767-f0de00def18b/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.25121.6</version>
+		<version>3.25121.11</version>
 		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>

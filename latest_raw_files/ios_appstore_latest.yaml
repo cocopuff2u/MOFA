@@ -1,4 +1,4 @@
-last_updated: December 12, 2025 12:08 AM EST
+last_updated: December 12, 2025 01:11 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -305,11 +305,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: December 09, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d6/21/52d6216e-0bbc-b749-641e-e0d292773b6c/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: December 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0c/a3/ea0ca35a-1226-5855-2767-f0de00def18b/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.25121.6
+    version: 3.25121.11
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
@@ -390,17 +390,14 @@ packages:
     version: 2.1.4
     app_store_url: https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft Outlook
-    bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: December 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/82/a0/1d82a0f7-10e2-16b6-1aa4-66971bb0ea87/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    application_name: Microsoft 365 Copilot
+    bundleId: com.microsoft.officemobile
+    currentVersionReleaseDate: December 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/cf/4d/1dcf4dd8-8dd8-e3db-b337-a499344e45ee/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "This update includes performance improvements and bug fixes to\
-      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
-      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
-      \ you."
-    version: 5.2548.0
-    app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.104.4
+    app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

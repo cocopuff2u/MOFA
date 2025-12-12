@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>December 12, 2025 02:06 PM EST</last_updated>
+    <last_updated>December 12, 2025 03:07 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -262,16 +262,16 @@
         <application_id>MSau04</application_id>
         <application_name>Microsoft AutoUpdate.app</application_name>
         <CFBundleVersion>com.microsoft.autoupdate</CFBundleVersion>
-        <short_version>4.81 (25111027)</short_version>
-        <full_version>4.81.25111027</full_version>
-        <last_updated>November 10, 2025</last_updated>
-        <min_os>10.14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.81.25111027_Updater.pkg</app_only_update_download>
-        <app_update_sha1>95fbd290985b35093311914a61c794c95d67aac7</app_update_sha1>
-        <app_update_sha256>07c055a24521a102bf9154fe36a699bb4fb92cdb820f87024ffdb80938666632</app_update_sha256>
+        <short_version>4.81 (25121042)</short_version>
+        <full_version>4.81.25121042</full_version>
+        <last_updated>December 10, 2025</last_updated>
+        <min_os>12.0</min_os>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.81.25121042_Updater.pkg</app_only_update_download>
+        <app_update_sha1>f5343c741a4bfbb805b14fa7cf842f7db05f5199</app_update_sha1>
+        <app_update_sha256>bf281c826c18a0a8e8fd8abe1c9bcbc8deb9b25c251fc6b219e3e5dd7452aa21</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=830196</full_update_download>
-        <full_update_sha1>796b8838e57ed6110fe31c476ed0c12623a1a7b9</full_update_sha1>
-        <full_update_sha256>396de9c54f596834985e6af644a52831e6cb658838e06486a01bc754baceb513</full_update_sha256>
+        <full_update_sha1>f5343c741a4bfbb805b14fa7cf842f7db05f5199</full_update_sha1>
+        <full_update_sha256>bf281c826c18a0a8e8fd8abe1c9bcbc8deb9b25c251fc6b219e3e5dd7452aa21</full_update_sha256>
     </package>
     <package>
         <name>Licensing Helper Tool</name>

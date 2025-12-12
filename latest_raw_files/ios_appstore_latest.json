@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 12, 2025 07:12 AM EST",
+    "last_updated": "December 12, 2025 08:17 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -280,11 +280,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "December 10, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0c/a3/ea0ca35a-1226-5855-2767-f0de00def18b/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 09, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d6/21/52d6216e-0bbc-b749-641e-e0d292773b6c/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25121.11",
+            "version": "3.25121.6",
             "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {

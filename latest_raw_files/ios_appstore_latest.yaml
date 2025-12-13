@@ -1,4 +1,4 @@
-last_updated: December 13, 2025 01:08 PM EST
+last_updated: December 13, 2025 02:05 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -392,11 +392,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: December 13, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/ad/8c/61ad8cf2-9a97-3650-e0e5-c72ab9ad9b44/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 10, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/cf/4d/1dcf4dd8-8dd8-e3db-b337-a499344e45ee/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.104.5
+    version: 2.104.4
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

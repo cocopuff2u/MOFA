@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>December 13, 2025 09:46 PM EST</last_updated>
+	<last_updated>December 13, 2025 10:35 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -278,14 +278,14 @@ Upgrade now for a smarter, faster, and more productive Microsoft Edge!</releaseN
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
-		<application_name>Seeing AI</application_name>
-		<bundleId>com.microsoft.seeingai</bundleId>
-		<currentVersionReleaseDate>September 04, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/a6/66/bea6661d-294b-f35d-34e1-3128b7b12006/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>This release includes several bug fixes to make your experience even better.</releaseNotes>
-		<version>5.6.1</version>
-		<app_store_url>https://apps.apple.com/us/app/seeing-ai/id999062298?uo=4</app_store_url>
+		<application_name>Grok</application_name>
+		<bundleId>ai.x.GrokApp</bundleId>
+		<currentVersionReleaseDate>December 11, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/96/f3/f996f339-2bb9-ba31-38bd-d4612174adbb/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17</minimumOsVersion>
+		<releaseNotes>- Improvements to Chat and Imagine</releaseNotes>
+		<version>1.3.19</version>
+		<app_store_url>https://apps.apple.com/us/app/grok/id6670324846?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Planner</name>

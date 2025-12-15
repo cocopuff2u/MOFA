@@ -1,37 +1,37 @@
 {
-    "last_updated": "December 15, 2025 06:07 AM EST",
+    "last_updated": "December 15, 2025 07:13 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a9/5e/a6a95efb-35ac-38af-9a61-4b26ce8e254d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/82/98/95829812-d0f7-09d2-137f-b80b0868e915/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Cloud Create now available on Office for iOS: Cloud Create automatically saves every new file to the cloud from the moment you start, giving you all the benefits of cloud storage without any extra steps.",
-            "version": "2.104",
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.103.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
         },
         {
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/97/03/e09703cd-38dd-a049-c8d4-f12d9d443b9d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/4f/37/ff4f37c1-46a3-4a7a-95a6-e14a125ca58b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Comment previews on protected files: Excel now lets you preview comments on protected files directly from your email notifications. When someone adds a comment, the email includes the comment text and its context within the file, so you can quickly review feedback without unlocking or opening the document.\n\u2022 Cloud Create now available on Office for iOS: Cloud Create automatically saves every new file to the cloud from the moment you start, giving you all the benefits of cloud storage without any extra steps.",
-            "version": "2.104",
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.103.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
         },
         {
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/64/78/b86478ff-997c-8820-1ce6-782877395701/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/0b/a6/250ba682-a177-a135-5f40-03ae0c7bca39/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Cloud Create now available on Office for iOS: Cloud Create automatically saves every new file to the cloud from the moment you start, giving you all the benefits of cloud storage without any extra steps.",
-            "version": "2.104",
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.103.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4"
         },
         {
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/f8/4f/0df84f77-e154-56e1-1f3b-f885c4d67b54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/32/82/4f32825c-2b28-05d7-8cda-3004ae1d5f2c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Ask Copilot from the page context menu: now you can get help even faster. Just long-press any text on a webpage and tap Ask Copilot to get instant insights.\n\u2022 Copilot multi-tab context: ask questions across multiple tabs. Copilot now understands the context from all your open pages.\n\u2022 Smarter suggestion chips: get more relevant and helpful suggestions based on what you\u2019re browsing.\nUpgrade now for a smarter, faster, and more productive Microsoft Edge!",
-            "version": "143.3650.82",
+            "version": "143.3650.77",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {
@@ -247,11 +247,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "December 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/45/54/6c455417-0904-9b31-1de5-f56041fb2fb2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 12, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/99/1f/87991fd9-43b2-57fb-b98a-cf01096c7187/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.22.1",
+            "version": "7.22.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
         },
         {

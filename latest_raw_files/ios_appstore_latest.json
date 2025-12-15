@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 14, 2025 10:37 PM EST",
+    "last_updated": "December 14, 2025 11:22 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/f8/4f/0df84f77-e154-56e1-1f3b-f885c4d67b54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 11, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/32/82/4f32825c-2b28-05d7-8cda-3004ae1d5f2c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Ask Copilot from the page context menu: now you can get help even faster. Just long-press any text on a webpage and tap Ask Copilot to get instant insights.\n\u2022 Copilot multi-tab context: ask questions across multiple tabs. Copilot now understands the context from all your open pages.\n\u2022 Smarter suggestion chips: get more relevant and helpful suggestions based on what you\u2019re browsing.\nUpgrade now for a smarter, faster, and more productive Microsoft Edge!",
-            "version": "143.3650.82",
+            "version": "143.3650.77",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {

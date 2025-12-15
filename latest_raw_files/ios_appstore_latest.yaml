@@ -1,22 +1,30 @@
-last_updated: December 15, 2025 04:07 PM EST
+last_updated: December 15, 2025 05:07 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: December 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/82/98/95829812-d0f7-09d2-137f-b80b0868e915/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a9/5e/a6a95efb-35ac-38af-9a61-4b26ce8e254d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.103.4
+    releaseNotes: "\u2022 Cloud Create now available on Office for iOS: Cloud Create\
+      \ automatically saves every new file to the cloud from the moment you start,\
+      \ giving you all the benefits of cloud storage without any extra steps."
+    version: '2.104'
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: December 08, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/4f/37/ff4f37c1-46a3-4a7a-95a6-e14a125ca58b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/97/03/e09703cd-38dd-a049-c8d4-f12d9d443b9d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.103.4
+    releaseNotes: "\u2022 Comment previews on protected files: Excel now lets you\
+      \ preview comments on protected files directly from your email notifications.\
+      \ When someone adds a comment, the email includes the comment text and its context\
+      \ within the file, so you can quickly review feedback without unlocking or opening\
+      \ the document.\n\u2022 Cloud Create now available on Office for iOS: Cloud\
+      \ Create automatically saves every new file to the cloud from the moment you\
+      \ start, giving you all the benefits of cloud storage without any extra steps."
+    version: '2.104'
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -44,15 +52,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: December 15, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/05/f1/ff05f115-09af-195a-1615-7c61db88fe16/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 08, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/8e/2a/a88e2ad1-d43b-4656-4fdb-6d8690e94a4c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.104'
+    version: 16.103.4
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
@@ -280,11 +288,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: December 12, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/99/1f/87991fd9-43b2-57fb-b98a-cf01096c7187/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 14, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/45/54/6c455417-0904-9b31-1de5-f56041fb2fb2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 7.22.0
+    version: 7.22.1
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint

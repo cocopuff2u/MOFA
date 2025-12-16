@@ -1,15 +1,15 @@
 {
-    "last_updated": "December 16, 2025 12:11 PM EST",
+    "last_updated": "December 16, 2025 01:10 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a9/5e/a6a95efb-35ac-38af-9a61-4b26ce8e254d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/82/98/95829812-d0f7-09d2-137f-b80b0868e915/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Cloud Create now available on Office for iOS: Cloud Create automatically saves every new file to the cloud from the moment you start, giving you all the benefits of cloud storage without any extra steps.",
-            "version": "2.104",
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.103.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
         },
         {
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "December 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/82/a0/1d82a0f7-10e2-16b6-1aa4-66971bb0ea87/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/05/99/2005995c-1257-9652-cfa8-2ee49b3ed984/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2548.0",
+            "version": "5.2548.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -71,11 +71,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Windows App Mobile",
             "bundleId": "com.microsoft.rdc.ios",
-            "currentVersionReleaseDate": "December 08, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/16/2b/31162bf1-371c-ab88-cbfd-fab847ffcabb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/19/962d19c2-49b4-370d-588b-37ab6b1a7153/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Improved connection success when NetBIOS-based name lookup is used for direct PC connections.\n\u2022 Added support for updated safe area insets on iPhone 17 devices.\n\u2022 Improved external display support for iPad Pro M5 and iPad Air M3 devices.\n\u2022 Resolved deadlocks that occurred during account sign-out and workspace refresh.\n\u2022 Added floating keyboard support on iPadOS 26.\n\u2022 Addressed a number of crashes that were showing up in error reporting.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.2.3",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Enabled AVD screen capture protection by leveraging Intune app\u2011protection controls.\n\u2022 Terminated objects that were wasting processing cycles and memory.\n\u2022 Made behind-the-scenes updates to lay the groundwork for upcoming features.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
+            "version": "11.2.4",
             "app_store_url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
         },
         {
@@ -291,11 +291,11 @@
             "name": "iOS Microsoft Authenticator",
             "application_name": "Microsoft Authenticator",
             "bundleId": "com.microsoft.azureauthenticator",
-            "currentVersionReleaseDate": "November 13, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/1c/c1/831cc1c2-e9cb-13cd-b5eb-2bd11db01982/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/b7/a8/31b7a8f3-a164-d1f8-cc20-0ae39d5cef7d/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
-            "version": "6.8.39",
+            "version": "6.8.40",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4"
         },
         {

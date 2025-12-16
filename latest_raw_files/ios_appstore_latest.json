@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 16, 2025 03:08 PM EST",
+    "last_updated": "December 16, 2025 05:07 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -71,11 +71,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Windows App Mobile",
             "bundleId": "com.microsoft.rdc.ios",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/19/962d19c2-49b4-370d-588b-37ab6b1a7153/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/16/2b/31162bf1-371c-ab88-cbfd-fab847ffcabb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Enabled AVD screen capture protection by leveraging Intune app\u2011protection controls.\n\u2022 Terminated objects that were wasting processing cycles and memory.\n\u2022 Made behind-the-scenes updates to lay the groundwork for upcoming features.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.2.4",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Improved connection success when NetBIOS-based name lookup is used for direct PC connections.\n\u2022 Added support for updated safe area insets on iPhone 17 devices.\n\u2022 Improved external display support for iPad Pro M5 and iPad Air M3 devices.\n\u2022 Resolved deadlocks that occurred during account sign-out and workspace refresh.\n\u2022 Added floating keyboard support on iPadOS 26.\n\u2022 Addressed a number of crashes that were showing up in error reporting.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
+            "version": "11.2.3",
             "app_store_url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
         },
         {
@@ -126,11 +126,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "Store Commerce",
             "bundleId": "com.microsoft.storecommerce",
-            "currentVersionReleaseDate": "November 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/1a/ab/901aaba4-ef27-57ff-e8ad-88c196f1fb56/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/f9/b9/94f9b99a-595d-4f3a-fe82-b6f37cd7631b/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "9.55.25314",
+            "version": "9.55.25344",
             "app_store_url": "https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4"
         },
         {
@@ -280,22 +280,22 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "December 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5a/54/295a543d-7f84-6dc6-770d-ac18d958d091/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 10, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0c/a3/ea0ca35a-1226-5855-2767-f0de00def18b/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.25122.7",
+            "version": "3.25121.11",
             "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {
             "name": "iOS Microsoft Authenticator",
             "application_name": "Microsoft Authenticator",
             "bundleId": "com.microsoft.azureauthenticator",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/b7/a8/31b7a8f3-a164-d1f8-cc20-0ae39d5cef7d/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/1c/c1/831cc1c2-e9cb-13cd-b5eb-2bd11db01982/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
-            "version": "6.8.40",
+            "version": "6.8.39",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4"
         },
         {

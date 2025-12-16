@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 16, 2025 07:13 AM EST",
+    "last_updated": "December 16, 2025 08:18 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -71,11 +71,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Windows App Mobile",
             "bundleId": "com.microsoft.rdc.ios",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/19/962d19c2-49b4-370d-588b-37ab6b1a7153/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 08, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/16/2b/31162bf1-371c-ab88-cbfd-fab847ffcabb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Enabled AVD screen capture protection by leveraging Intune app\u2011protection controls.\n\u2022 Terminated objects that were wasting processing cycles and memory.\n\u2022 Made behind-the-scenes updates to lay the groundwork for upcoming features.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.2.4",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Improved connection success when NetBIOS-based name lookup is used for direct PC connections.\n\u2022 Added support for updated safe area insets on iPhone 17 devices.\n\u2022 Improved external display support for iPad Pro M5 and iPad Air M3 devices.\n\u2022 Resolved deadlocks that occurred during account sign-out and workspace refresh.\n\u2022 Added floating keyboard support on iPadOS 26.\n\u2022 Addressed a number of crashes that were showing up in error reporting.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
+            "version": "11.2.3",
             "app_store_url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
         },
         {
@@ -126,11 +126,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "Store Commerce",
             "bundleId": "com.microsoft.storecommerce",
-            "currentVersionReleaseDate": "November 16, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/1a/ab/901aaba4-ef27-57ff-e8ad-88c196f1fb56/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/f9/b9/94f9b99a-595d-4f3a-fe82-b6f37cd7631b/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "9.55.25314",
+            "version": "9.55.25344",
             "app_store_url": "https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4"
         },
         {

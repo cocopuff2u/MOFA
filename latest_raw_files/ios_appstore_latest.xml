@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>December 16, 2025 07:13 AM EST</last_updated>
+	<last_updated>December 16, 2025 08:18 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -100,17 +100,20 @@ Thanks for using OneDrive! We’re always working to improve your experience. If
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Windows App Mobile</application_name>
 		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>December 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/19/962d19c2-49b4-370d-588b-37ab6b1a7153/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 08, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/16/2b/31162bf1-371c-ab88-cbfd-fab847ffcabb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>In this release we made the following updates:
 
-• Enabled AVD screen capture protection by leveraging Intune app‑protection controls.
-• Terminated objects that were wasting processing cycles and memory.
-• Made behind-the-scenes updates to lay the groundwork for upcoming features.
+• Improved connection success when NetBIOS-based name lookup is used for direct PC connections.
+• Added support for updated safe area insets on iPhone 17 devices.
+• Improved external display support for iPad Pro M5 and iPad Air M3 devices.
+• Resolved deadlocks that occurred during account sign-out and workspace refresh.
+• Added floating keyboard support on iPadOS 26.
+• Addressed a number of crashes that were showing up in error reporting.
 
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.2.4</version>
+		<version>11.2.3</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>
@@ -165,11 +168,11 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>Store Commerce</application_name>
 		<bundleId>com.microsoft.storecommerce</bundleId>
-		<currentVersionReleaseDate>November 16, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/1a/ab/901aaba4-ef27-57ff-e8ad-88c196f1fb56/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 15, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/f9/b9/94f9b99a-595d-4f3a-fe82-b6f37cd7631b/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>9.55.25314</version>
+		<version>9.55.25344</version>
 		<app_store_url>https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,4 +1,4 @@
-last_updated: December 17, 2025 08:17 AM EST
+last_updated: December 17, 2025 09:08 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -21,20 +21,22 @@ packages:
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: December 09, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/bc/43/2ebc43d1-666c-5eaa-2d0a-e5d20744fd29/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: December 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/f9/61/b2f96108-9be7-a179-d2a6-9f6fa2cf2863/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 16.103.4
+    version: '16.104'
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: December 09, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/4d/b4/8e4db44b-9d96-ad0d-d201-d1c187b83c98/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: December 16, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/88/04/ff880459-efd1-d0fc-6565-df0bc78bb205/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
-    releaseNotes: Improved overall performance and accessibility experience.
-    version: 16.103.4
+    releaseNotes: "\u2022 Mail: You can now set sharing permissions for folders located\
+      \ at the root level of your mailbox, making it easier to grant access to folders\
+      \ beyond just those under your Inbox folder."
+    version: '16.104'
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote

@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 18, 2025 09:10 AM EST",
+    "last_updated": "December 18, 2025 10:07 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -16,11 +16,11 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/97/03/e09703cd-38dd-a049-c8d4-f12d9d443b9d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/bc/ef/9ebcefd2-df77-fc9f-2c0b-b7589cde53ee/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Comment previews on protected files: Excel now lets you preview comments on protected files directly from your email notifications. When someone adds a comment, the email includes the comment text and its context within the file, so you can quickly review feedback without unlocking or opening the document.\n\u2022 Cloud Create now available on Office for iOS: Cloud Create automatically saves every new file to the cloud from the moment you start, giving you all the benefits of cloud storage without any extra steps.",
-            "version": "2.104",
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.104.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
         },
         {
@@ -135,14 +135,14 @@
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
-            "application_name": "Dynamics 365 Sales",
-            "bundleId": "com.microsoft.dynamics.iphone.moca.sales",
-            "currentVersionReleaseDate": "November 11, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "application_name": "Dynamics 365 for phones",
+            "bundleId": "com.microsoft.dynamics.iphone.moca",
+            "currentVersionReleaseDate": "September 11, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "This version includes experience improvements and bug fixes so sellers can stay on top of their deals better than ever before.",
-            "version": "3.24104.15",
-            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4"
+            "releaseNotes": "\u2022 Bug fixes and performance improvements.",
+            "version": "13.24093.1",
+            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4"
         },
         {
             "name": "iOS Microsoft Lists",
@@ -379,11 +379,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "December 17, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/e8/3a/57e83aac-7aab-f4c6-39a9-b619d96d63eb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 13, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/ad/8c/61ad8cf2-9a97-3650-e0e5-c72ab9ad9b44/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Copilot Chat on Excel Previewer in M365 Copilot Mobile App: Users can now use Copilot chat to preview open Excel files within the M365 Copilot hub, all without leaving the hub allowing for a more seamless working experience.",
-            "version": "2.105",
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.104.5",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
         },
         {

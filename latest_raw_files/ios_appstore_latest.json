@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 18, 2025 08:35 PM EST",
+    "last_updated": "December 18, 2025 09:41 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -27,11 +27,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/64/78/b86478ff-997c-8820-1ce6-782877395701/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 18, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/62/df/8562df87-b2a8-f801-3a73-c3b155eccf60/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Cloud Create now available on Office for iOS: Cloud Create automatically saves every new file to the cloud from the moment you start, giving you all the benefits of cloud storage without any extra steps.",
-            "version": "2.104",
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "2.104.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4"
         },
         {

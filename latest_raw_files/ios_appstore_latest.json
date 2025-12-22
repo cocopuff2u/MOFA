@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 22, 2025 12:10 AM EST",
+    "last_updated": "December 22, 2025 01:12 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/f8/4f/0df84f77-e154-56e1-1f3b-f885c4d67b54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 22, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c4/73/22c473a3-ec94-238d-68f7-84bd41ee338c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Ask Copilot from the page context menu: now you can get help even faster. Just long-press any text on a webpage and tap Ask Copilot to get instant insights.\n\u2022 Copilot multi-tab context: ask questions across multiple tabs. Copilot now understands the context from all your open pages.\n\u2022 Smarter suggestion chips: get more relevant and helpful suggestions based on what you\u2019re browsing.\nUpgrade now for a smarter, faster, and more productive Microsoft Edge!",
-            "version": "143.3650.82",
+            "version": "143.3650.97",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {
@@ -247,11 +247,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "December 14, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/45/54/6c455417-0904-9b31-1de5-f56041fb2fb2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 22, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/28/07/9e2807d8-710f-dca1-8174-e526a731f38c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.22.1",
+            "version": "7.22.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
         },
         {

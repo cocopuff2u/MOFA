@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 22, 2025 08:36 PM EST",
+    "last_updated": "December 22, 2025 09:43 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -247,11 +247,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "December 22, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/28/07/9e2807d8-710f-dca1-8174-e526a731f38c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 14, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/45/54/6c455417-0904-9b31-1de5-f56041fb2fb2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "7.22.2",
+            "version": "7.22.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
         },
         {
@@ -335,11 +335,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "December 21, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d8/3d/59d83d92-9cf4-a87c-6503-ed4908e426ec/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 07, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/27/06/ff270656-6b6b-7f96-c2a4-87a618577951/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "- Add a Power BI report or semantic model to your chat and ask Copilot questions based on this item to get insights you need. To add a reference, tap the + icon or type \u201c/\u201d to search and select an item.",
-            "version": "36.1",
+            "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
+            "version": "36.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4"
         },
         {

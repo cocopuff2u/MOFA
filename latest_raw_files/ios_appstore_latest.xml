@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>December 24, 2025 03:07 PM EST</last_updated>
+	<last_updated>December 24, 2025 04:06 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -392,11 +392,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>December 21, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d8/3d/59d83d92-9cf4-a87c-6503-ed4908e426ec/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>December 24, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/23/b3/4523b374-2a5c-b8dd-fe02-640931c6aeb7/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>- Add a Power BI report or semantic model to your chat and ask Copilot questions based on this item to get insights you need. To add a reference, tap the + icon or type “/” to search and select an item.</releaseNotes>
-		<version>36.1</version>
+		<version>36.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4</app_store_url>
 	</package>
 	<package>

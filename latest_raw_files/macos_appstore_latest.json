@@ -1,5 +1,5 @@
 {
-    "last_updated": "December 25, 2025 12:09 AM EST",
+    "last_updated": "December 25, 2025 01:11 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -82,11 +82,11 @@
             "name": "MacOS Microsoft Windows App",
             "application_name": "Windows App",
             "bundleId": "com.microsoft.rdc.macos",
-            "currentVersionReleaseDate": "December 03, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/d9/88/0dd9884f-36a5-d722-230d-0b4e8412a9a6/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "December 24, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/c8/82/4ec88291-484c-7624-c212-45dea50c7a87/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "In this release we made the following updates:\n \n\u2022 Addressed invalid layouts encountered when using Microsoft Teams optimizations in multiple monitor scenarios.\n\u2022 Resolved performance bottlenecks in the Connection Center that were causing the app to hang.\n\u2022 Added infrastructure to improve resiliency for single-sign-on workflows.\n \nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.3.0",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added a checkbox to the General settings to control the usage of UDP.\n\u2022 Enabled drag-and-drop for device cards in the Connection Center.\n\u2022 Fixed a bug that broke multi\u2011select using mouse and trackpad gestures in the Connection Center.\n\u2022 Resolved an issue that caused incorrect Connection Center resources to appear briefly at app launch time.\n\u2022 Fixed a bug that prevented resources from appearing in Spotlight search results.\n\u2022 Resolved an issue where launching resources via Spotlight did not start a remote session.\n\u2022 Fixed an app hang that sometimes occurred when saving thumbnail images.\n\u2022 Addressed a number of crashes that were showing up in error reporting.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
+            "version": "11.3.1",
             "app_store_url": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4"
         },
         {

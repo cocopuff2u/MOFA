@@ -1,4 +1,4 @@
-last_updated: December 25, 2025 02:09 AM EST
+last_updated: December 25, 2025 03:10 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -334,13 +334,13 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: December 24, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/23/b3/4523b374-2a5c-b8dd-fe02-640931c6aeb7/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: December 21, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d8/3d/59d83d92-9cf4-a87c-6503-ed4908e426ec/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "- Add a Power BI report or semantic model to your chat and ask\
       \ Copilot questions based on this item to get insights you need. To add a reference,\
       \ tap the + icon or type \u201C/\u201D to search and select an item."
-    version: '36.2'
+    version: '36.1'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin

@@ -1,13 +1,13 @@
-last_updated: January 05, 2026 04:07 PM EST
+last_updated: January 05, 2026 05:07 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: January 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/22/a7/f522a7fb-2435-b1ab-1feb-ac2da1c7f584/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 18, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/b7/dd/f5b7dd47-02f4-eb1a-20e7-eb1331bc300f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 Bug fixes"
-    version: 2.104.2
+    version: 2.104.1
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel

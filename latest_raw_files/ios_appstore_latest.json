@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 06, 2026 07:13 AM EST",
+    "last_updated": "January 06, 2026 08:18 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "January 05, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/21/11/ab211165-14fd-780d-fa81-78362e9a60e6/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/05/99/2005995c-1257-9652-cfa8-2ee49b3ed984/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2552.0",
+            "version": "5.2548.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "January 06, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c3/40/d6c3403b-bbc2-f8b5-c1b1-529b4c7db191/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 29, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/ed/14/f1ed1490-5dd0-cbb5-25cc-67273c617bc7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Introducing Smarter Search Box that lets you search the web, open sites, or ask Copilot from one place.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "143.3650.130",
+            "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Ask Copilot from the page context menu: now you can get help even faster. Just long-press any text on a webpage and tap Ask Copilot to get instant insights.\n\u2022 Copilot multi-tab context: ask questions across multiple tabs. Copilot now understands the context from all your open pages.\n\u2022 Smarter suggestion chips: get more relevant and helpful suggestions based on what you\u2019re browsing.\nUpgrade now for a smarter, faster, and more productive Microsoft Edge!",
+            "version": "143.3650.112",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {

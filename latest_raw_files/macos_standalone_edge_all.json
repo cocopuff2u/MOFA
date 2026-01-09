@@ -1,6 +1,6 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "January 09, 2026 09:08 AM EST",
+        "last_updated": "January 09, 2026 10:09 AM EST",
         "Version": [
             {
                 "Name": "current",
@@ -15,14 +15,14 @@
             },
             {
                 "Name": "canary",
-                "Version": "145.0.3788.0",
+                "Version": "145.0.3789.0",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/87c8b461-07f4-4694-b1c5-9db86eba4246/MicrosoftEdgeCanary-145.0.3788.0.pkg",
-                "Full_Update_Sha1": "72f3ce0317ef2b1b3eb09dad4ecf19ca264bd41d",
-                "Full_Update_Sha256": "c8be5c6a09d1743e42e3ea4d1a05284bba5ddb8b1369d6a8337e863c948e695e",
-                "Last_Update": "January 08, 2026 06:34 PM EST"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/99c64e0c-5498-4f1e-a1e4-d143e4cf127f/MicrosoftEdgeCanary-145.0.3789.0.pkg",
+                "Full_Update_Sha1": "ea90b6377b21ed2d0384f576e7d6d0f46012938e",
+                "Full_Update_Sha256": "ce28089307b55c36e4991fc8e2ff7faeccd3d1f8fb35a610c412d2c4d126c828",
+                "Last_Update": "January 09, 2026 10:01 AM EST"
             },
             {
                 "Name": "dev",

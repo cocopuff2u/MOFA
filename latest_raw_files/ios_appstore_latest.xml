@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 09, 2026 09:08 AM EST</last_updated>
+	<last_updated>January 09, 2026 10:08 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -368,11 +368,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>Microsoft Lens: PDF Scanner</application_name>
 		<bundleId>com.microsoft.officelens</bundleId>
-		<currentVersionReleaseDate>April 10, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/73/86/33738651-9bd7-6164-2027-f072699effcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>2.96.1</version>
+		<currentVersionReleaseDate>January 09, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/bc/02/5abc02df-5a3a-c31e-e34d-6e869ed07049/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
+		<releaseNotes>Annoucing Retirement of Microsoft Lens</releaseNotes>
+		<version>2.106.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059?uo=4</app_store_url>
 	</package>
 	<package>

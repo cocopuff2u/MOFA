@@ -1,4 +1,4 @@
-last_updated: January 09, 2026 05:07 PM EST
+last_updated: January 09, 2026 06:07 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -302,21 +302,21 @@ packages:
   - name: iOS Microsoft Advertising
     application_name: Microsoft Advertising
     bundleId: com.microsoft.bingadsmobile
-    currentVersionReleaseDate: July 18, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c2/98/7ec298fd-bc75-b3fb-71a7-08f70b8e361c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/22/fe/0622fed9-e916-065a-de13-b00a4a43d99f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '13.4'
     releaseNotes: With the latest release, the app now supports the Simplified Chinese
       language and locale formatting.
-    version: 2.22.16
+    version: 2.22.20
     app_store_url: https://apps.apple.com/us/app/microsoft-advertising/id979729863?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Microsoft Lens: PDF Scanner'
     bundleId: com.microsoft.officelens
-    currentVersionReleaseDate: April 10, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/73/86/33738651-9bd7-6164-2027-f072699effcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: Bug fixes and performance improvements
-    version: 2.96.1
+    currentVersionReleaseDate: January 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/bc/02/5abc02df-5a3a-c31e-e34d-6e869ed07049/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
+    releaseNotes: Annoucing Retirement of Microsoft Lens
+    version: 2.106.1
     app_store_url: https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders

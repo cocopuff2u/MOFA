@@ -1,4 +1,4 @@
-last_updated: January 10, 2026 05:06 PM EST
+last_updated: January 10, 2026 08:36 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -371,14 +371,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: December 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/e8/3a/57e83aac-7aab-f4c6-39a9-b619d96d63eb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/e5/1d/abe51dc0-17c0-bc42-986e-ec50050ec551/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Copilot Chat on Excel Previewer in M365 Copilot Mobile App:\
-      \ Users can now use Copilot chat to preview open Excel files within the M365\
-      \ Copilot hub, all without leaving the hub allowing for a more seamless working\
-      \ experience."
-    version: '2.105'
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.105.1
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 11, 2026 10:38 PM EST",
+    "last_updated": "January 11, 2026 11:27 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -335,11 +335,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "January 06, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/d3/0b/5bd30be2-338e-3fe5-f7a9-47fb5ca544f8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 11, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/65/82/84658264-7e80-c61b-3830-bfed8a96dcce/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "- Tap the \u2018Read aloud\u2019 icon to listen to your responses from Copilot while you\u2019re working on other tasks or on the go. Use the on-screen controls to pause, resume, or stop the audio.",
-            "version": "36.4",
+            "version": "36.5",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4"
         },
         {

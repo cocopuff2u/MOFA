@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 12, 2026 02:09 PM EST</last_updated>
+    <last_updated>January 12, 2026 03:08 PM EST</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -90,14 +90,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>26004.401.4235.1925</short_version>
-        <full_version>26004.401.4235.1925</full_version>
-        <last_updated>January 05, 2026</last_updated>
+        <short_version>26004.402.4247.2541</short_version>
+        <full_version>26004.402.4247.2541</full_version>
+        <last_updated>January 09, 2026</last_updated>
         <min_os>13.0</min_os>
-        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26004.401.4235.1925/MicrosoftTeams.pkg</update_download>
-        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26004.401.4235.1925/MicrosoftTeams.pkg</latest_download>
-        <sha1>6b88e4f7c57c235a109caa222e6a4f6f3871e9b3</sha1>
-        <sha256>90b8d4ef705018ada92916580a4d2b23bd1919b36afc4ff977b0a29e1e256d31</sha256>
+        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26004.402.4247.2541/MicrosoftTeams.pkg</update_download>
+        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26004.402.4247.2541/MicrosoftTeams.pkg</latest_download>
+        <sha1>469e0cbb6e0a2c755b012028debb3733ee78edc9</sha1>
+        <sha256>cfee618c086e8da2fcc8b639388374eb4544fc0a5e0c07bb75cf28a7fb996a96</sha256>
     </package>
     <package>
         <name>Intune</name>
@@ -216,13 +216,13 @@
         <application_id>N/A</application_id>
         <application_name>Windows App Beta.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.3.1</short_version>
-        <full_version>11.3.1</full_version>
-        <last_updated>December 04, 2025</last_updated>
+        <short_version>11.3.2</short_version>
+        <full_version>11.3.2</full_version>
+        <last_updated>January 12, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://appcenter-filemanagement-distrib1ede6f06e-a6b7akbshagxhcfs.z01.azurefd.net/b5383ca3-bf46-478c-9a92-dc55c0d444f9/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=%2B%2FUA4aFrJ00hp%2FGrsLOseVM9o12ieq4cq3csfMHKnEA%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2025-12-04T22%3A46%3A46Z&amp;ske=2025-12-05T22%3A51%3A46Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2025-12-05T22%3A51%3A46Z&amp;sp=r</update_download>
-        <latest_download>https://appcenter-filemanagement-distrib1ede6f06e-a6b7akbshagxhcfs.z01.azurefd.net/b5383ca3-bf46-478c-9a92-dc55c0d444f9/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=%2B%2FUA4aFrJ00hp%2FGrsLOseVM9o12ieq4cq3csfMHKnEA%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2025-12-04T22%3A46%3A46Z&amp;ske=2025-12-05T22%3A51%3A46Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2025-12-05T22%3A51%3A46Z&amp;sp=r</latest_download>
-        <sha1>4e9527370abe1600d0936c60d2da661f7f8a3b00</sha1>
-        <sha256>08ae9b247f28c1a5a5465b60c9aaa7b3277f698c6d02ab3898550061cd8f4a15</sha256>
+        <update_download>https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/2901409f-c2a4-45d1-a9d5-573b3523eda2/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=ZXj6b5J3o9FetarBMlZLU6broVPVXJxxyN5nwLvQ4kY%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-01-12T19%3A30%3A04Z&amp;ske=2026-01-13T19%3A35%3A04Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-01-13T19%3A35%3A04Z&amp;sp=r</update_download>
+        <latest_download>https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/2901409f-c2a4-45d1-a9d5-573b3523eda2/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=ZXj6b5J3o9FetarBMlZLU6broVPVXJxxyN5nwLvQ4kY%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-01-12T19%3A30%3A04Z&amp;ske=2026-01-13T19%3A35%3A04Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-01-13T19%3A35%3A04Z&amp;sp=r</latest_download>
+        <sha1>5fce17a88f890e4df9e5e441a22b087789ab9143</sha1>
+        <sha256>ecddefc4dd1a86355ff7a8dfb3420e3750bba59a8f68d2f7e472a6f572d4b27e</sha256>
     </package>
 </latest>

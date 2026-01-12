@@ -1,4 +1,4 @@
-last_updated: January 12, 2026 04:08 PM EST
+last_updated: January 12, 2026 05:07 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -42,15 +42,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: January 12, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/57/95/4b5795dd-3b59-d1dc-cd9a-e2d5fc3991f9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: December 15, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/05/f1/ff05f115-09af-195a-1615-7c61db88fe16/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.105'
+    version: '16.104'
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
@@ -352,12 +352,12 @@ packages:
   - name: iOS Microsoft Intune Company Portal
     application_name: Intune Company Portal
     bundleId: com.microsoft.CompanyPortal
-    currentVersionReleaseDate: January 12, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/20/5d/40205dbf-47e4-4b0b-eca3-8fa00cf434c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 27, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/69/68/2569687b-911a-8002-c788-33e751663aed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "We\u2019ve been improving the stability of the Company Portal.\
       \ This helps keep your information safe and makes the app work more efficiently."
-    version: 5.2511.0
+    version: 5.2509.2
     app_store_url: https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4
   - name: iOS Microsoft Azure Information Protection
     application_name: Azure Information Protection

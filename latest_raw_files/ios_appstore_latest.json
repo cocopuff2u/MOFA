@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 12, 2026 09:44 PM EST",
+    "last_updated": "January 12, 2026 10:37 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -49,11 +49,11 @@
             "name": "iOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "December 15, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/05/f1/ff05f115-09af-195a-1615-7c61db88fe16/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 12, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/57/95/4b5795dd-3b59-d1dc-cd9a-e2d5fc3991f9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.104",
+            "version": "16.105",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4"
         },
         {

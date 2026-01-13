@@ -1,6 +1,41 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>January 13, 2026 04:07 PM EST</last_scan_date>
+    <last_scan_date>January 13, 2026 05:07 PM EST</last_scan_date>
+    <Update>
+        <Date>January 13, 2026</Date>
+        <Version>Version 16.105 (Build 26011018)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2026-20946</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20946</URL>
+                <CVE>CVE-2026-20949</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20949</URL>
+                <CVE>CVE-2026-20950</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20950</URL>
+                <CVE>CVE-2026-20955</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20955</URL>
+                <CVE>CVE-2026-20956</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20956</URL>
+                <CVE>CVE-2026-20957</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20957</URL>
+            </Application>
+            <Application>
+                <Name>Word</Name>
+                <CVE>CVE-2026-20948</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20948</URL>
+                <CVE>CVE-2026-20944</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20944</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2026-20952</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20952</URL>
+                <CVE>CVE-2026-20953</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20953</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>January 06, 2026</Date>
         <Version>Version 16.104.1 (Build 26010228)</Version>

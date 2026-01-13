@@ -8,12 +8,19 @@
     <atom:link href="https://mofa.cocolabs.dev/rss_feeds/outlook_rss.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <ttl>60</ttl>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png</url>
       <title>MOFA - Outlook RSS Feed</title>
       <link>https://mofa.cocolabs.dev/</link>
     </image>
+    <item>
+      <title>New Microsoft Outlook Release</title>
+      <link>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.105.26011018_Updater.pkg</link>
+      <description>Microsoft AutoUpdate&lt;br&gt;Version: 16.105.0 (26011018)&lt;br&gt;Release Notes: &lt;a href="https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.105.26011018_Updater.pkg</guid>
+    </item>
     <item>
       <title>New Microsoft Outlook Release</title>
       <link>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.104.26010228_Updater.pkg</link>

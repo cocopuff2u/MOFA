@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 14, 2026 03:10 AM EST</last_updated>
+	<last_updated>January 14, 2026 04:11 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,13 +38,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>January 07, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/57/09/a55709d1-264f-4087-1d45-aa08fb19d29b/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 13, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a7/20/08a72045-b5ac-464e-7faa-640d0689654c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2552.1</version>
+		<version>5.2601.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
@@ -335,11 +335,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>January 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/59/0f/ed590fc3-293e-11ad-7a72-02fb6e4e70da/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 06, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/36/fe/0436feaf-6161-b215-2ac9-aceb9f9621f0/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26011.3</version>
+		<version>3.25123.12</version>
 		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
@@ -432,16 +432,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Outlook</application_name>
-		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>January 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a7/20/08a72045-b5ac-464e-7faa-640d0689654c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft 365 Copilot</application_name>
+		<bundleId>com.microsoft.officemobile</bundleId>
+		<currentVersionReleaseDate>January 10, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/e5/1d/abe51dc0-17c0-bc42-986e-ec50050ec551/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
-
-Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2601.0</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>2.105.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

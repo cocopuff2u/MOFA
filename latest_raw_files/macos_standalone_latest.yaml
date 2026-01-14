@@ -1,33 +1,33 @@
-last_updated: January 14, 2026 02:07 PM EST
+last_updated: January 14, 2026 03:07 PM EST
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
   application_name: Data sourced from Outlook (CurrentThrottle)
   CFBundleVersion: com.microsoft.office
-  short_version: 16.104.0 (25121423)
-  full_version: 16.104.25121423
-  last_updated: December 14, 2025
+  short_version: 16.105.0 (26011018)
+  full_version: 16.105.26011018
+  last_updated: January 10, 2026
   min_os: '14.0'
   app_only_update_download: N/A
   app_update_sha1: N/A
   app_update_sha256: N/A
   full_update_download: https://go.microsoft.com/fwlink/?linkid=525133
-  full_update_sha1: 9c4c768601aca612783f77cf194a946e7b86002b
-  full_update_sha256: ecfc3a99cd202e5f5a4d5a2aaa1d55f05f54b1458463d5cbf5bac10c3b406727
+  full_update_sha1: 233729da5cf0b2738144fbe1775ce4f33298c698
+  full_update_sha256: f66ec42d1ba6ddb69835070df651c2682681b4839f591ee3190009b6a518a255
 - name: Microsoft BusinessPro Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
   application_name: Data sourced from Outlook (CurrentThrottle)
   CFBundleVersion: com.microsoft.office
-  short_version: 16.104.0 (25121423)
-  full_version: 16.104.25121423
-  last_updated: December 14, 2025
+  short_version: 16.105.0 (26011018)
+  full_version: 16.105.26011018
+  last_updated: January 10, 2026
   min_os: '14.0'
   app_only_update_download: N/A
   app_update_sha1: N/A
   app_update_sha256: N/A
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2009112
-  full_update_sha1: e8ff70f15472b25f2a748daaf090e80ff194a5ae
-  full_update_sha256: 9bb45b77220db341c5656f6ad6d7bba8412b893c5a1c0f1e7bc1a43e9a0ce77a
+  full_update_sha1: 531953382063ad73c8ec1a559be49ca7289a254f
+  full_update_sha256: 373643cdf8c38fcd0224fbdb30f86d55a4d0ae424c4bb45b2768b9de83e040f6
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
@@ -200,16 +200,16 @@ packages:
   application_id: N/A
   application_name: Visual Studio Code.app
   CFBundleVersion: com.microsoft.visualstudio
-  short_version: 1.108.0
-  full_version: 1.108.0
-  last_updated: January 08, 2026
+  short_version: 1.108.1
+  full_version: 1.108.1
+  last_updated: January 14, 2026
   min_os: N/A
-  app_only_update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/94e8ae2b28cb5cc932b86e1070569c4463565c37/VSCode-darwin-universal.zip
-  app_update_sha1: 7770946962e8e24fd71762379c03b57f2a2dbcec
-  app_update_sha256: 5a9415d9889adc517a4d6b58dda3582a69db8e06b9d392413305907fe037fbed
+  app_only_update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/585eba7c0c34fd6b30faac7c62a42050bfbc0086/VSCode-darwin-universal.zip
+  app_update_sha1: 7c8e09517b58132c1a6ba824d48c27af188caf06
+  app_update_sha256: a91d66488d04a063084712a8f6a1a7b6f31c47011c45a4f9486f8720a58cf89a
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2156837
-  full_update_sha1: 7770946962e8e24fd71762379c03b57f2a2dbcec
-  full_update_sha256: 5a9415d9889adc517a4d6b58dda3582a69db8e06b9d392413305907fe037fbed
+  full_update_sha1: 7c8e09517b58132c1a6ba824d48c27af188caf06
+  full_update_sha256: a91d66488d04a063084712a8f6a1a7b6f31c47011c45a4f9486f8720a58cf89a
 - name: Copilot
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app

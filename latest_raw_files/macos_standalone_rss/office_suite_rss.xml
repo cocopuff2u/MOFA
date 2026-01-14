@@ -8,12 +8,19 @@
     <atom:link href="https://mofa.cocolabs.dev/rss_feeds/office_suite_rss.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <ttl>60</ttl>
-    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png</url>
       <title>MOFA - Office Suite RSS Feed</title>
       <link>https://mofa.cocolabs.dev/</link>
     </image>
+    <item>
+      <title>New Microsoft Office Suite Release</title>
+      <link>N/A</link>
+      <description>Microsoft AutoUpdate&lt;br&gt;Version: 16.105.0 (26011018)&lt;br&gt;Release Notes: &lt;a href="https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">N/A</guid>
+    </item>
     <item>
       <title>New Microsoft Office Suite Release</title>
       <link>N/A</link>

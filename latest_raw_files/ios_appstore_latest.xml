@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 14, 2026 12:10 AM EST</last_updated>
+	<last_updated>January 14, 2026 01:11 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -189,11 +189,11 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>December 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/9b/1b/5c9b1b9b-c1ae-04a4-9a98-a26160845e2f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 12, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/41/a7/5441a772-7d93-b306-48de-719a0bc69efe/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.24.0</version>
+		<version>11.26.0</version>
 		<app_store_url>https://apps.apple.com/us/app/viva-engage/id289559439?uo=4</app_store_url>
 	</package>
 	<package>
@@ -278,13 +278,13 @@ Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!
 		<name>iOS Microsoft Azure</name>
 		<application_name>Microsoft Azure</application_name>
 		<bundleId>com.microsoft.azure</bundleId>
-		<currentVersionReleaseDate>December 15, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a3/3f/30a33f36-4cbf-af5a-6a37-c14943c44ffd/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 13, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/9d/fa/269dfa5b-33f3-2e72-8b27-68a60c7c7d4a/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.
 
 Please reach out to us for any questions, concerns, or feature requests.</releaseNotes>
-		<version>7.11.0</version>
+		<version>8.1.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4</app_store_url>
 	</package>
 	<package>

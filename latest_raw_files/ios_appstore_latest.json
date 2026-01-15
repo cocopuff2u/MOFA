@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 15, 2026 09:09 AM EST",
+    "last_updated": "January 15, 2026 10:09 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "CamScanner - PDF Scanner App",
-            "bundleId": "com.intsig.CamScannerLite",
-            "currentVersionReleaseDate": "January 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/49/71/eb497163-55f4-2bb4-f295-fa8cee84d427/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "13.0",
-            "releaseNotes": "\u00b7 Upgraded Word & Excel conversion with one-tap layout formatting for faster editing.\n\u00b7 A refined experience for smoother, more intuitive document management.\n\u00b7 Performance improvements for clearer scans and more reliable, seamless sync.",
-            "version": "7.10.0",
-            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
+            "application_name": "Microsoft Lens: PDF Scanner",
+            "bundleId": "com.microsoft.officelens",
+            "currentVersionReleaseDate": "January 09, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/bc/02/5abc02df-5a3a-c31e-e34d-6e869ed07049/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "18.0",
+            "releaseNotes": "Annoucing Retirement of Microsoft Lens",
+            "version": "2.106.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",
@@ -377,14 +377,14 @@
         },
         {
             "name": "iOS Microsoft 365 Office",
-            "application_name": "Microsoft 365 Copilot",
-            "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "January 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/e5/1d/abe51dc0-17c0-bc42-986e-ec50050ec551/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "application_name": "Microsoft Outlook",
+            "bundleId": "com.microsoft.Office.Outlook",
+            "currentVersionReleaseDate": "January 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a7/20/08a72045-b5ac-464e-7faa-640d0689654c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Bug fixes",
-            "version": "2.105.1",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
+            "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
+            "version": "5.2601.0",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
             "name": "iOS Microsoft Skype for Business",

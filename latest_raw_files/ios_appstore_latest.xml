@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 15, 2026 08:36 PM EST</last_updated>
+	<last_updated>January 15, 2026 09:46 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -432,16 +432,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Outlook</application_name>
-		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>January 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a7/20/08a72045-b5ac-464e-7faa-640d0689654c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft 365 Copilot</application_name>
+		<bundleId>com.microsoft.officemobile</bundleId>
+		<currentVersionReleaseDate>January 15, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/1f/6f/c31f6fd8-1bbb-872f-87ef-c77d098686d3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
-
-Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2601.0</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>2.106</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 19, 2026 12:15 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 19, 2026 01:14 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -126,7 +126,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 19, 2026 12:15 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 19, 2026 01:14 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -150,7 +150,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 19, 2026 12:15 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 19, 2026 01:14 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -171,7 +171,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Dynamics 365 Field Service | `13.25112.9` | `com.microsoft.dynamics.iphone.moca.fieldServices` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/c0/5e/efc05e55-0573-beff-c8cf-bcf3f6f79023/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Field Service" width="40"> |
 | Viva Engage | `11.26.0` | `wefwef` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/41/a7/5441a772-7d93-b306-48de-719a0bc69efe/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Viva Engage" width="40"> |
 | Whiteboard: just draw together | `2.6.2` | `com.jimschultz.WhiteBoard` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/53/7e/4b537e0f-ad6d-1b86-85f6-f7b65e7918c7/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg" alt="Whiteboard: just draw together" width="40"> |
-| Microsoft Edge: AI Browser | `143.3650.139` | `com.microsoft.msedge` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/73/33/89733354-e973-b785-08cb-f8eed23a8cd1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
+| Microsoft Edge: AI Browser | `144.3719.81` | `com.microsoft.msedge` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f6/9c/63f69c9f-6f05-ec47-449d-db893adf673c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Edge: AI Browser" width="40"> |
 | Seeing AI | `5.6.1` | `com.microsoft.seeingai` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/a6/66/bea6661d-294b-f35d-34e1-3128b7b12006/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Seeing AI" width="40"> |
 | Microsoft Planner | `1.17.11` | `com.microsoft.PlannerMobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/93/21/179321ba-51b1-58ce-e43f-2b3a8b7eb2fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft Planner" width="40"> |
 | Microsoft Azure | `8.1.0` | `com.microsoft.azure` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/9d/fa/269dfa5b-33f3-2e72-8b27-68a60c7c7d4a/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Azure" width="40"> |

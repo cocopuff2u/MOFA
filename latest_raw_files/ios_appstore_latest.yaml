@@ -1,4 +1,4 @@
-last_updated: January 18, 2026 10:39 PM EST
+last_updated: January 18, 2026 11:28 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -202,14 +202,14 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: January 12, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/73/33/89733354-e973-b785-08cb-f8eed23a8cd1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 19, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f6/9c/63f69c9f-6f05-ec47-449d-db893adf673c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
       \ release:\n\u2022 Introducing Smarter Search Box that lets you search the web,\
       \ open sites, or ask Copilot from one place.\nUpgrade now to experience a smarter,\
       \ faster, and more productive Microsoft Edge!"
-    version: 143.3650.139
+    version: 144.3719.81
     app_store_url: https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI

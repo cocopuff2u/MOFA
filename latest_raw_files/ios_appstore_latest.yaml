@@ -1,31 +1,31 @@
-last_updated: January 19, 2026 08:22 AM EST
+last_updated: January 19, 2026 09:11 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: January 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/1c/6b/2a1c6b0a-10b1-b090-74dc-335c04cf04da/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 12, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/7f/48/d07f484b-5e3b-55ff-2a6d-93385ec19ca3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.105.1
+    releaseNotes: "\u2022 Bug fixes"
+    version: '2.105'
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: January 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/19/da/4a19da5d-7532-a0c5-c879-7d0dd19540e0/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 12, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/75/88/ef75889c-57be-f325-f6f0-a068b69847f4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.105.1
+    releaseNotes: "\u2022 Bug fixes"
+    version: '2.105'
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: January 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/93/47/369347ec-ea7f-4fe2-ffb0-bf8e4973b736/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 12, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/76/8e1876a2-2637-52de-7902-5209e507b95c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.105.1
+    releaseNotes: "\u2022 Bug fixes"
+    version: '2.105'
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -330,13 +330,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: January 11, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/65/82/84658264-7e80-c61b-3830-bfed8a96dcce/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: January 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/b1/ef/62b1ef09-774c-dec2-55eb-80018d572be1/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "- Tap the \u2018Read aloud\u2019 icon to listen to your responses\
-      \ from Copilot while you\u2019re working on other tasks or on the go. Use the\
-      \ on-screen controls to pause, resume, or stop the audio."
-    version: '36.5'
+    releaseNotes: "- Improved stability and fixed various bugs.\u200B"
+    version: '36.6'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin

@@ -1,4 +1,4 @@
-last_updated: January 18, 2026 08:37 PM EST
+last_updated: January 18, 2026 09:51 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -330,11 +330,13 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: January 18, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/b1/ef/62b1ef09-774c-dec2-55eb-80018d572be1/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: January 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/65/82/84658264-7e80-c61b-3830-bfed8a96dcce/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "- Improved stability and fixed various bugs.\u200B"
-    version: '36.6'
+    releaseNotes: "- Tap the \u2018Read aloud\u2019 icon to listen to your responses\
+      \ from Copilot while you\u2019re working on other tasks or on the go. Use the\
+      \ on-screen controls to pause, resume, or stop the audio."
+    version: '36.5'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin

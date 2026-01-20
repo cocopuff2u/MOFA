@@ -8,12 +8,19 @@
     <atom:link href="https://mofa.cocolabs.dev/rss_feeds/company_portal_rss.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <ttl>60</ttl>
-    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png</url>
       <title>MOFA - Company Portal RSS Feed</title>
       <link>https://mofa.cocolabs.dev/</link>
     </image>
+    <item>
+      <title>New Microsoft Company Portal Release</title>
+      <link>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2511.0-Upgrade.pkg</link>
+      <description>Microsoft AutoUpdate&lt;br&gt;Version: 5.2511.0&lt;br&gt;Release Notes: &lt;a href="https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2511.0-Upgrade.pkg</guid>
+    </item>
     <item>
       <title>New Microsoft Company Portal Release</title>
       <link>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2510.1-Upgrade.pkg</link>

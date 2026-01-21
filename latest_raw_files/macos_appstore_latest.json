@@ -1,15 +1,15 @@
 {
-    "last_updated": "January 21, 2026 07:14 AM EST",
+    "last_updated": "January 21, 2026 08:22 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "January 20, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/07/ec/9d07ec28-30c9-f1e2-d6d8-f63a93e0aba1/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "January 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/69/f0/dc69f060-4867-ab5a-b3e6-7db7f8d91ad8/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.105.1",
+            "releaseNotes": "\u2022 Bug fixes",
+            "version": "16.105",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {
@@ -38,11 +38,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "January 20, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/c6/2c/77c62ca8-a803-85a8-9ef4-d4376d32f5cf/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "January 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/29/81/7729810a-8fcf-c6b0-7383-5298524c9a99/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.105.1",
+            "releaseNotes": "\u2022 Calendar: Meeting attendees now have the option to add a conference room to events scheduled using Office 365 enterprise accounts.\n\u2022 Calendar: The calendar now allows users to toggle between grid and list views using the view switcher located on the calendar surface.",
+            "version": "16.105",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {

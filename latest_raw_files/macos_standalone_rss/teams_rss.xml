@@ -8,12 +8,19 @@
     <atom:link href="https://mofa.cocolabs.dev/rss_feeds/teams_rss.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <ttl>60</ttl>
-    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png</url>
       <title>MOFA - Teams RSS Feed</title>
       <link>https://mofa.cocolabs.dev/</link>
     </image>
+    <item>
+      <title>New Microsoft Teams Release</title>
+      <link>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26004.403.4267.4118/MicrosoftTeams.pkg</link>
+      <description>Microsoft AutoUpdate&lt;br&gt;Version: 26004.403.4267.4118&lt;br&gt;Release Notes: &lt;a href="https://support.microsoft.com/en-us/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26004.403.4267.4118/MicrosoftTeams.pkg</guid>
+    </item>
     <item>
       <title>New Microsoft Teams Release</title>
       <link>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/25331.1107.4213.8634/MicrosoftTeams.pkg</link>

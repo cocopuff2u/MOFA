@@ -1,6 +1,6 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "January 22, 2026 06:08 PM EST",
+        "last_updated": "January 22, 2026 07:34 PM EST",
         "Version": [
             {
                 "Name": "current",
@@ -37,14 +37,14 @@
             },
             {
                 "Name": "beta",
-                "Version": "144.0.3719.82",
+                "Version": "145.0.3800.13",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/60e50f99-a60c-4c5f-91fc-ffabe95a660d/MicrosoftEdgeBeta-144.0.3719.82.pkg",
-                "Full_Update_Sha1": "0ca6f2eea8529bd74c827333fd365584f59c0e56",
-                "Full_Update_Sha256": "c1859ae0cf8c1715ef378176d6ade1f8044caa8578435bcf7b90c44f238972b3",
-                "Last_Update": "January 16, 2026 01:12 PM EST"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d527a7ba-645e-4d9a-8dc7-e0f11d03a8b0/MicrosoftEdgeBeta-145.0.3800.13.pkg",
+                "Full_Update_Sha1": "db482c7c29d99b8012acad0df3f144ee883133b5",
+                "Full_Update_Sha256": "9198f17aaf8de8f1363ff13a96343d32b764764825df01b4795f244ab077886c",
+                "Last_Update": "January 22, 2026 06:43 PM EST"
             }
         ]
     }

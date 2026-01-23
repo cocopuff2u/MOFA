@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 23, 2026 03:10 AM EST</last_updated>
+	<last_updated>January 23, 2026 05:08 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -302,11 +302,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>January 23, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/f6/63/6af66375-6ffc-5b29-e648-3b4d44c8867c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/9f/f9/b29ff9d2-757e-3fee-ccc9-7492b4b6ae7f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>7.23.2</version>
+		<version>7.23.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,4 +1,4 @@
-last_updated: January 24, 2026 09:06 AM EST
+last_updated: January 24, 2026 10:06 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: January 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/d2/1d/43d21de2-4774-061a-a82c-480515dd1c7e/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 22, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/aa/e1/16aae159-31c6-553d-f862-dfd3dee182df/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2602.2
+    version: 5.2602.1
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote

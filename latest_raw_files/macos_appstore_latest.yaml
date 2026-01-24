@@ -1,4 +1,4 @@
-last_updated: January 24, 2026 12:06 PM EST
+last_updated: January 24, 2026 01:09 PM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -52,13 +52,13 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: January 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/cc/47/aacc4746-5428-33f7-9ede-7c62fe9989ec/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: January 12, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/30/e2/4c30e2ee-d4fe-5be6-8e20-4697a059046a/OneDrive.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 25.243.1211
+    version: 25.224.1116
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
     application_name: RMS Sharing
@@ -72,15 +72,21 @@ packages:
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
-    currentVersionReleaseDate: January 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/fb/8a/e9fb8ad8-d261-d447-6f2e-20ec4cb02c3c/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: December 24, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/c8/82/4ec88291-484c-7624-c212-45dea50c7a87/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
     minimumOsVersion: '13.0'
-    releaseNotes: "In this release we made the following updates:\n\n\u2022 Improved\
-      \ the results returned during a Spotlight search.\n\u2022 Gracefully handled\
-      \ errors encountered when connecting to a Windows Cloud Input Protection-enabled\
-      \ PC endpoint.\n\nIf you encounter any errors, you can contact us via Help >\
-      \ Submit Feedback."
-    version: 11.3.2
+    releaseNotes: "In this release we made the following updates:\n\n\u2022 Added\
+      \ a checkbox to the General settings to control the usage of UDP.\n\u2022 Enabled\
+      \ drag-and-drop for device cards in the Connection Center.\n\u2022 Fixed a bug\
+      \ that broke multi\u2011select using mouse and trackpad gestures in the Connection\
+      \ Center.\n\u2022 Resolved an issue that caused incorrect Connection Center\
+      \ resources to appear briefly at app launch time.\n\u2022 Fixed a bug that prevented\
+      \ resources from appearing in Spotlight search results.\n\u2022 Resolved an\
+      \ issue where launching resources via Spotlight did not start a remote session.\n\
+      \u2022 Fixed an app hang that sometimes occurred when saving thumbnail images.\n\
+      \u2022 Addressed a number of crashes that were showing up in error reporting.\n\
+      \nIf you encounter any errors, you can contact us via Help > Submit Feedback."
+    version: 11.3.1
     app_store_url: https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4
   - name: MacOS Microsoft To-Do
     application_name: Microsoft To Do

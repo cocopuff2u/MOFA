@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 24, 2026 05:07 PM EST</last_updated>
+	<last_updated>January 24, 2026 06:06 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -87,22 +87,16 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>December 24, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/c8/82/4ec88291-484c-7624-c212-45dea50c7a87/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>January 24, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/fb/8a/e9fb8ad8-d261-d447-6f2e-20ec4cb02c3c/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>In this release we made the following updates:
 
-• Added a checkbox to the General settings to control the usage of UDP.
-• Enabled drag-and-drop for device cards in the Connection Center.
-• Fixed a bug that broke multi‑select using mouse and trackpad gestures in the Connection Center.
-• Resolved an issue that caused incorrect Connection Center resources to appear briefly at app launch time.
-• Fixed a bug that prevented resources from appearing in Spotlight search results.
-• Resolved an issue where launching resources via Spotlight did not start a remote session.
-• Fixed an app hang that sometimes occurred when saving thumbnail images.
-• Addressed a number of crashes that were showing up in error reporting.
+• Improved the results returned during a Spotlight search.
+• Gracefully handled errors encountered when connecting to a Windows Cloud Input Protection-enabled PC endpoint.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.3.1</version>
+		<version>11.3.2</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

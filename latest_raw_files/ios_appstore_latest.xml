@@ -1,37 +1,37 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 26, 2026 08:22 AM EST</last_updated>
+	<last_updated>January 26, 2026 09:12 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>January 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/1c/6b/2a1c6b0a-10b1-b090-74dc-335c04cf04da/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/1c/96/731c9611-0b11-4caa-c04a-f915970a74ce/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.105.1</version>
+		<version>2.105.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>January 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/19/da/4a19da5d-7532-a0c5-c879-7d0dd19540e0/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/f0/57/2cf0570d-911a-bae0-1bdb-4f1fb5bd65b3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.105.1</version>
+		<version>2.105.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>January 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/93/47/369347ec-ea7f-4fe2-ffb0-bf8e4973b736/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/47/0e/24470e99-3222-881e-8570-8eacef5b19c8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.105.1</version>
+		<version>2.105.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4</app_store_url>
 	</package>
 	<package>
@@ -243,13 +243,13 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>January 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f6/9c/63f69c9f-6f05-ec47-449d-db893adf673c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/01/94/4b019434-61c9-36a7-279a-817cf68599d4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Here’s what’s new in this release:
 • Introducing Smarter Search Box that lets you search the web, open sites, or ask Copilot from one place.
 Upgrade now to experience a smarter, faster, and more productive Microsoft Edge!</releaseNotes>
-		<version>144.3719.81</version>
+		<version>144.3719.91</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>

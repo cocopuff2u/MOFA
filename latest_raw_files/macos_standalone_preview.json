@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 27, 2026 10:13 AM EST",
+    "last_updated": "January 27, 2026 11:10 AM EST",
     "packages": [
         {
             "name": "Word",
@@ -62,14 +62,14 @@
             "application_id": "ONMC2019",
             "application_name": "Microsoft OneNote.app",
             "CFBundleVersion": "com.microsoft.onenote",
-            "short_version": "16.105.1 (26011816)",
-            "full_version": "16.105.26011816",
-            "last_updated": "January 18, 2026",
+            "short_version": "16.105.2 (26012530)",
+            "full_version": "16.105.26012530",
+            "last_updated": "January 25, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.105.26011816_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.105.26011816_Updater.pkg",
-            "sha1": "25587cd83c6775734dba22337ea1371cdc544828",
-            "sha256": "4631cfa6e6ba4837c0a0deb58fff17dd23bd35b4f50f1df8192190ac29279dd1"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.105.26012530_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.105.26012530_Updater.pkg",
+            "sha1": "415130f1eb765eb6915b2ed8a9e73597a3721611",
+            "sha256": "9978f392cc404faaf1afc74610a702eaf8c4c8b29657cdb71bd5dbd0c3250222"
         },
         {
             "name": "Skype",

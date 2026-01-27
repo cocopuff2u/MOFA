@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>January 27, 2026 02:13 AM EST</last_updated>
+    <last_updated>January 27, 2026 03:11 AM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -246,13 +246,13 @@
         <application_id>MSCP10</application_id>
         <application_name>Microsoft 365 Copilot.app</application_name>
         <CFBundleVersion>com.microsoft.m365copilot</CFBundleVersion>
-        <short_version>1.2601 (1201)</short_version>
-        <full_version>1.2601.1201</full_version>
-        <last_updated>January 12, 2026</last_updated>
+        <short_version>1.2601 (2101)</short_version>
+        <full_version>1.2601.2101</full_version>
+        <last_updated>January 21, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2601.1201_Updater.pkg</app_only_update_download>
-        <app_update_sha1>0730b41b654141ff54c5a9ceed132958141969d1</app_update_sha1>
-        <app_update_sha256>2c94dd264d7d36b2a4c0ce0e20a553878f6ceb4db1b739742a6c0d68a9e6b538</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2601.2101_Updater.pkg</app_only_update_download>
+        <app_update_sha1>N/A</app_update_sha1>
+        <app_update_sha256>N/A</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2325438</full_update_download>
         <full_update_sha1>d360f68838d0b4ff6ebb6f22024da78fa9986571</full_update_sha1>
         <full_update_sha256>8e86506497d158764ac9183f997f69fcf73673708cda6daf8f6a9e7e68c50577</full_update_sha256>

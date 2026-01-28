@@ -1,5 +1,13 @@
-last_scan_date: January 27, 2026 10:37 PM EST
+last_scan_date: January 27, 2026 11:24 PM EST
 releases:
+- date: January 27, 2026
+  version: 16.105.2 (26012530)
+  word_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.105.26012530_Updater.pkg
+  excel_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.105.26012530_Updater.pkg
+  powerpoint_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.105.26012530_Updater.pkg
+  outlook_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.105.26012530_Updater.pkg
+  onenote_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.105.26012530_Updater.pkg
+  archive: 'false'
 - date: January 20, 2026
   version: 16.105.1 (26011816)
   word_update: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.105.26011816_Updater.pkg

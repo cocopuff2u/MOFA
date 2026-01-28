@@ -1,4 +1,4 @@
-last_updated: January 27, 2026 10:37 PM EST
+last_updated: January 27, 2026 11:25 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -132,15 +132,14 @@ packages:
     version: 9.55.25351
     app_store_url: https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4
   - name: iOS Microsoft Dynamics 365 Sales
-    application_name: Dynamics 365 Sales
-    bundleId: com.microsoft.dynamics.iphone.moca.sales
-    currentVersionReleaseDate: November 11, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    application_name: Dynamics 365 for phones
+    bundleId: com.microsoft.dynamics.iphone.moca
+    currentVersionReleaseDate: September 11, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '14.0'
-    releaseNotes: This version includes experience improvements and bug fixes so sellers
-      can stay on top of their deals better than ever before.
-    version: 3.24104.15
-    app_store_url: https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4
+    releaseNotes: "\u2022 Bug fixes and performance improvements."
+    version: 13.24093.1
+    app_store_url: https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4
   - name: iOS Microsoft Lists
     application_name: Microsoft Lists
     bundleId: com.microsoft.splists
@@ -367,17 +366,14 @@ packages:
     version: 2.1.4
     app_store_url: https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft Outlook
-    bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: January 26, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/86/6b/5b866b70-7abf-bd50-2031-a93acf6226ff/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    application_name: Microsoft 365 Copilot
+    bundleId: com.microsoft.officemobile
+    currentVersionReleaseDate: January 23, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/3c/3e/6e3c3e8d-8f0f-8c62-03ca-1f6383a3733d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "This update includes performance improvements and bug fixes to\
-      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
-      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
-      \ you."
-    version: 5.2603.0
-    app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
+    releaseNotes: "\u2022 Bug fixes"
+    version: 2.106.1
+    app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

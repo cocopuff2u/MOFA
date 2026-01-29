@@ -1,4 +1,4 @@
-last_updated: January 29, 2026 05:16 AM EST
+last_updated: January 29, 2026 06:14 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -22,12 +22,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: January 28, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/2a/51/332a51ba-b43e-43da-b845-13ff26191cb4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 26, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/47/0e/24470e99-3222-881e-8570-8eacef5b19c8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Fixes an issue that caused selecting slide thumbnails to\
-      \ not respond as expected."
-    version: 2.105.3
+    releaseNotes: "\u2022 General quality and performance enhancements."
+    version: 2.105.2
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -370,11 +369,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: January 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/3c/3e/6e3c3e8d-8f0f-8c62-03ca-1f6383a3733d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: January 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f6/c2/3ff6c2e8-c8fd-8324-5cc1-2e7ff89a2778/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 Bug fixes"
-    version: 2.106.1
+    releaseNotes: "\u2022 General quality and performance enhancements."
+    version: 2.106.2
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

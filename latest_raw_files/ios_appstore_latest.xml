@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>January 29, 2026 04:19 AM EST</last_updated>
+	<last_updated>January 29, 2026 05:16 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -27,11 +27,11 @@
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>January 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/47/0e/24470e99-3222-881e-8570-8eacef5b19c8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 28, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/2a/51/332a51ba-b43e-43da-b845-13ff26191cb4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.105.2</version>
+		<releaseNotes>• Fixes an issue that caused selecting slide thumbnails to not respond as expected.</releaseNotes>
+		<version>2.105.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4</app_store_url>
 	</package>
 	<package>
@@ -434,11 +434,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft 365 Office</name>
 		<application_name>Microsoft 365 Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>January 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f6/c2/3ff6c2e8-c8fd-8324-5cc1-2e7ff89a2778/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/3c/3e/6e3c3e8d-8f0f-8c62-03ca-1f6383a3733d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.106.2</version>
+		<releaseNotes>• Bug fixes</releaseNotes>
+		<version>2.106.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>

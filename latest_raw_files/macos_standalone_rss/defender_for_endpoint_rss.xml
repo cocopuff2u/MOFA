@@ -8,12 +8,19 @@
     <atom:link href="https://mofa.cocolabs.dev/rss_feeds/defender_for_endpoint_rss.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <ttl>60</ttl>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png</url>
       <title>MOFA - Defender For Endpoint RSS Feed</title>
       <link>https://mofa.cocolabs.dev/</link>
     </image>
+    <item>
+      <title>New Microsoft Defender For Endpoint Release</title>
+      <link>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg</link>
+      <description>Microsoft AutoUpdate&lt;br&gt;Version: 101.25122.0007&lt;br&gt;Release Notes: &lt;a href="https://learn.microsoft.com/en-us/defender-endpoint/mac-whatsnew"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg</guid>
+    </item>
     <item>
       <title>New Microsoft Defender For Endpoint Release</title>
       <link>https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg</link>

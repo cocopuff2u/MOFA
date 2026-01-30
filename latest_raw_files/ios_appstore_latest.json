@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 30, 2026 03:10 PM EST",
+    "last_updated": "January 30, 2026 04:10 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -377,14 +377,14 @@
         },
         {
             "name": "iOS Microsoft 365 Office",
-            "application_name": "Microsoft 365 Copilot",
-            "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "January 29, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f6/c2/3ff6c2e8-c8fd-8324-5cc1-2e7ff89a2778/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "application_name": "Microsoft Outlook",
+            "bundleId": "com.microsoft.Office.Outlook",
+            "currentVersionReleaseDate": "January 26, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/86/6b/5b866b70-7abf-bd50-2031-a93acf6226ff/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.106.2",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
+            "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
+            "version": "5.2603.0",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
             "name": "iOS Microsoft Skype for Business",

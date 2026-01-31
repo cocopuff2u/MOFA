@@ -1,5 +1,5 @@
 {
-    "last_updated": "January 31, 2026 02:13 AM EST",
+    "last_updated": "January 31, 2026 03:10 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -60,11 +60,11 @@
             "name": "MacOS Microsoft OneDrive",
             "application_name": "OneDrive",
             "bundleId": "com.microsoft.OneDrive-mac",
-            "currentVersionReleaseDate": "January 30, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/8b/05/698b050b-306a-a0e2-5792-17828c61345e/OneDrive.png/512x512bb.png",
+            "currentVersionReleaseDate": "January 23, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/cc/47/aacc4746-5428-33f7-9ede-7c62fe9989ec/OneDrive.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.",
-            "version": "26.002.0105",
+            "version": "25.243.1211",
             "app_store_url": "https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4"
         },
         {

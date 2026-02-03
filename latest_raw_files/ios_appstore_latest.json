@@ -1,37 +1,37 @@
 {
-    "last_updated": "February 02, 2026 10:06 PM EST",
+    "last_updated": "February 02, 2026 11:38 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "January 26, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/1c/96/731c9611-0b11-4caa-c04a-f915970a74ce/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 02, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/c4/f4/eac4f4ae-0cfe-ea04-32ea-4539cf88ae18/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.105.2",
+            "version": "2.105.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
         },
         {
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "January 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/d9/3f/3bd93f83-10d5-dacc-9e98-0defcff9537d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 02, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/47/c5/e047c527-7f93-e9c2-75e9-33d40f7d8f5b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Fixes an issue that prevented opening drop down lists or using formula bar buttons.",
-            "version": "2.105.3",
+            "releaseNotes": "\u2022 General quality and performance enhancements.",
+            "version": "2.105.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
         },
         {
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "January 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/2a/51/332a51ba-b43e-43da-b845-13ff26191cb4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 02, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/5f/a1/4b5fa1f2-bfa1-541e-2620-198e45dc7375/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "\u2022 Fixes an issue that caused selecting slide thumbnails to not respond as expected.",
-            "version": "2.105.3",
+            "releaseNotes": "\u2022 General quality and performance enhancements.",
+            "version": "2.105.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4"
         },
         {
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "January 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/a3/b0/2da3b0f8-58aa-351a-773b-b02f6af69325/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 02, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/b7/b4/2eb7b45e-9c58-9fe5-76a2-91c9a0d7f1fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this release:\n\u2022 Introducing Smarter Search Box that lets you search the web, open sites, or ask Copilot from one place.\nUpgrade now to experience a smarter, faster, and more productive Microsoft Edge!",
-            "version": "144.3719.99",
+            "version": "144.3719.103",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {
@@ -377,14 +377,14 @@
         },
         {
             "name": "iOS Microsoft 365 Office",
-            "application_name": "Microsoft Outlook",
-            "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "January 26, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/86/6b/5b866b70-7abf-bd50-2031-a93acf6226ff/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "application_name": "Microsoft 365 Copilot",
+            "bundleId": "com.microsoft.officemobile",
+            "currentVersionReleaseDate": "January 29, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f6/c2/3ff6c2e8-c8fd-8324-5cc1-2e7ff89a2778/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2603.0",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
+            "releaseNotes": "\u2022 General quality and performance enhancements.",
+            "version": "2.106.2",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
         },
         {
             "name": "iOS Microsoft Skype for Business",

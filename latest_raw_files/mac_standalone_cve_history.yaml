@@ -1,5 +1,11 @@
-last_scan_date: February 03, 2026 04:14 PM EST
+last_scan_date: February 03, 2026 05:12 PM EST
 updates:
+- date_text: February 03, 2026
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.105.3 (Build 26020123)
 - date_text: January 27, 2026
   security_updates:
     N/A:

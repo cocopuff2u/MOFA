@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 04, 2026 02:20 PM EST",
+    "last_updated": "February 04, 2026 03:13 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -174,14 +174,14 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code - Insiders.app",
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
-            "short_version": "1.109.0-",
-            "full_version": "1.109.0-insider",
+            "short_version": "1.110.0-",
+            "full_version": "1.110.0-insider",
             "last_updated": "February 04, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/bdd88df003631aaa0bcbe057cb0a940b80a476fa/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/b8124edbda5cdacc07ca6d35b9e03e20fdb736a4/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
-            "sha1": "2e3d7d01eaefc8ca7f4828662fc3c3b7e404f4e1",
-            "sha256": "7a633ce1c937b46218295b76cdf1f9d8f0ee46b59dfda88fbfd35cdffce12bea"
+            "sha1": "N/A",
+            "sha256": "N/A"
         },
         {
             "name": "Copilot",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 04, 2026 05:09 PM EST</last_updated>
+	<last_updated>February 04, 2026 06:10 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -355,14 +355,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>
-		<application_name>Microsoft Bing Search</application_name>
-		<bundleId>com.microsoft.bing</bundleId>
-		<currentVersionReleaseDate>January 08, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d0/51/24d051f6-9fdc-325c-d3e9-09404449c756/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.</releaseNotes>
-		<version>32.7.440106001</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4</app_store_url>
+		<application_name>Meta Ads Manager</application_name>
+		<bundleId>com.facebook.MAdMan</bundleId>
+		<currentVersionReleaseDate>January 29, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/a2/57/55a25799-82b7-9f7a-36bc-3c260beb7290/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.1</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance updates</releaseNotes>
+		<version>460.0</version>
+		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>

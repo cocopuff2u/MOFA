@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>February 04, 2026 10:19 AM EST</last_updated>
+    <last_updated>February 04, 2026 11:21 AM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -38,16 +38,16 @@
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.105.2 (26012530)</short_version>
-        <full_version>16.105.26012530</full_version>
-        <last_updated>January 25, 2026</last_updated>
+        <short_version>16.105.3 (26020123)</short_version>
+        <full_version>16.105.26020123</full_version>
+        <last_updated>February 01, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.105.26012530_Updater.pkg</app_only_update_download>
-        <app_update_sha1>224afa4f2638efe256d0056fb637335dd5a1d0f8</app_update_sha1>
-        <app_update_sha256>a3f7fafee4b5e3482d28038c746fe88d7a47ec3c70fcc030f6ed6df836e7d4d0</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.105.26020123_Updater.pkg</app_only_update_download>
+        <app_update_sha1>636f68183b9f6e87c3b4084948cda726c90becc2</app_update_sha1>
+        <app_update_sha256>97e461b9d3b74c1e582281a9a30e4d418a94ec911e573511b4dd1f638517a594</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525134</full_update_download>
-        <full_update_sha1>0480cd4babe28041272bb6bb801df08650f3ad3e</full_update_sha1>
-        <full_update_sha256>49060565f941f92930ec46103168796b2d2823ea1af284a9f2e3d0d8e7ca1e1f</full_update_sha256>
+        <full_update_sha1>f18b1f465e43b254d222285ad97ce971cab722c2</full_update_sha1>
+        <full_update_sha256>0b64f163da96afa8770c35b399063b73c31a721e75896ca48f7d13621f62f6fb</full_update_sha256>
     </package>
     <package>
         <name>Excel</name>
@@ -102,16 +102,16 @@
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote</CFBundleVersion>
-        <short_version>16.105.2 (26012530)</short_version>
-        <full_version>16.105.26012530</full_version>
-        <last_updated>January 25, 2026</last_updated>
+        <short_version>16.105.3 (26020123)</short_version>
+        <full_version>16.105.26020123</full_version>
+        <last_updated>February 01, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.105.26012530_Updater.pkg</app_only_update_download>
-        <app_update_sha1>415130f1eb765eb6915b2ed8a9e73597a3721611</app_update_sha1>
-        <app_update_sha256>9978f392cc404faaf1afc74610a702eaf8c4c8b29657cdb71bd5dbd0c3250222</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.105.26020123_Updater.pkg</app_only_update_download>
+        <app_update_sha1>79b5a23d6c5c0731abf747272922f0a5a54b7d05</app_update_sha1>
+        <app_update_sha256>81598da1fa14bbf4c68d6988746bfd1519d640416c71ae6ec023f0d843e0ad22</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=820886</full_update_download>
-        <full_update_sha1>415130f1eb765eb6915b2ed8a9e73597a3721611</full_update_sha1>
-        <full_update_sha256>9978f392cc404faaf1afc74610a702eaf8c4c8b29657cdb71bd5dbd0c3250222</full_update_sha256>
+        <full_update_sha1>79b5a23d6c5c0731abf747272922f0a5a54b7d05</full_update_sha1>
+        <full_update_sha256>81598da1fa14bbf4c68d6988746bfd1519d640416c71ae6ec023f0d843e0ad22</full_update_sha256>
     </package>
     <package>
         <name>Skype</name>

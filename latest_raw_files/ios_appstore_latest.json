@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 03, 2026 08:38 PM EST",
+    "last_updated": "February 03, 2026 10:03 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -280,22 +280,22 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "February 03, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/97/f8/b397f8aa-1b63-2223-fc9e-5dc884df50e8/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "January 27, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/14/95/4c149527-9a04-0cce-13c2-7cd67d7fec42/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.26014.5",
+            "version": "3.26013.8",
             "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {
             "name": "iOS Microsoft Authenticator",
             "application_name": "Microsoft Authenticator",
             "bundleId": "com.microsoft.azureauthenticator",
-            "currentVersionReleaseDate": "February 03, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/fa/ce/a3facea4-6326-76ac-85ff-32574aa93c34/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "December 15, 2025",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/b7/a8/31b7a8f3-a164-d1f8-cc20-0ae39d5cef7d/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
-            "version": "6.8.41",
+            "version": "6.8.40",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4"
         },
         {

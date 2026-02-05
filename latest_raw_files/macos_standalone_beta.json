@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 05, 2026 12:22 PM EST",
+    "last_updated": "February 05, 2026 01:23 PM EST",
     "packages": [
         {
             "name": "Word",
@@ -216,14 +216,14 @@
             "application_id": "N/A",
             "application_name": "Windows App Beta.app",
             "CFBundleVersion": "com.microsoft.windows.app",
-            "short_version": "11.3.2",
-            "full_version": "11.3.2",
-            "last_updated": "January 12, 2026",
+            "short_version": "11.3.3",
+            "full_version": "11.3.3",
+            "last_updated": "February 04, 2026",
             "min_os": "N/A",
-            "update_download": "https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/2901409f-c2a4-45d1-a9d5-573b3523eda2/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=ZXj6b5J3o9FetarBMlZLU6broVPVXJxxyN5nwLvQ4kY%3D&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-01-12T19%3A30%3A04Z&ske=2026-01-13T19%3A35%3A04Z&sks=b&skv=2019-07-07&se=2026-01-13T19%3A35%3A04Z&sp=r",
-            "latest_download": "https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/2901409f-c2a4-45d1-a9d5-573b3523eda2/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=ZXj6b5J3o9FetarBMlZLU6broVPVXJxxyN5nwLvQ4kY%3D&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-01-12T19%3A30%3A04Z&ske=2026-01-13T19%3A35%3A04Z&sks=b&skv=2019-07-07&se=2026-01-13T19%3A35%3A04Z&sp=r",
-            "sha1": "5fce17a88f890e4df9e5e441a22b087789ab9143",
-            "sha256": "ecddefc4dd1a86355ff7a8dfb3420e3750bba59a8f68d2f7e472a6f572d4b27e"
+            "update_download": "https://appcenter-filemanagement-distrib5ede6f06e-gkh9drg4gafqbsbt.z01.azurefd.net/4a7ae165-8f73-4af6-a80d-8d59f2276c34/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=4R25OPEmLPPRk%2FcDTTFsjeynxzHLOD8AMN6BOUlaxeY%3D&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-02-05T17%3A30%3A00Z&ske=2026-02-06T17%3A35%3A00Z&sks=b&skv=2019-07-07&se=2026-02-06T17%3A35%3A00Z&sp=r",
+            "latest_download": "https://appcenter-filemanagement-distrib5ede6f06e-gkh9drg4gafqbsbt.z01.azurefd.net/4a7ae165-8f73-4af6-a80d-8d59f2276c34/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=4R25OPEmLPPRk%2FcDTTFsjeynxzHLOD8AMN6BOUlaxeY%3D&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-02-05T17%3A30%3A00Z&ske=2026-02-06T17%3A35%3A00Z&sks=b&skv=2019-07-07&se=2026-02-06T17%3A35%3A00Z&sp=r",
+            "sha1": "0fa6b45845b92464dc32525196a84fa83ddb2f7d",
+            "sha256": "ce8452f37765c17f3694bd92b1c559a28c28c527dc69a3963484336ed212b526"
         }
     ]
 }

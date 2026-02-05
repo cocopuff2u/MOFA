@@ -1,4 +1,4 @@
-last_updated: February 05, 2026 04:21 AM EST
+last_updated: February 05, 2026 05:19 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -132,14 +132,15 @@ packages:
     version: 9.55.25351
     app_store_url: https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4
   - name: iOS Microsoft Dynamics 365 Sales
-    application_name: Dynamics 365 for phones
-    bundleId: com.microsoft.dynamics.iphone.moca
-    currentVersionReleaseDate: September 11, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    application_name: Dynamics 365 Sales
+    bundleId: com.microsoft.dynamics.iphone.moca.sales
+    currentVersionReleaseDate: November 11, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '14.0'
-    releaseNotes: "\u2022 Bug fixes and performance improvements."
-    version: 13.24093.1
-    app_store_url: https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4
+    releaseNotes: This version includes experience improvements and bug fixes so sellers
+      can stay on top of their deals better than ever before.
+    version: 3.24104.15
+    app_store_url: https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4
   - name: iOS Microsoft Lists
     application_name: Microsoft Lists
     bundleId: com.microsoft.splists
@@ -299,14 +300,16 @@ packages:
     version: 6.8.41
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
-    application_name: Meta Ads Manager
-    bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: January 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/a2/57/55a25799-82b7-9f7a-36bc-3c260beb7290/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.1'
-    releaseNotes: Bug fixes and performance updates
-    version: '460.0'
-    app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
+    application_name: Microsoft Bing Search
+    bundleId: com.microsoft.bing
+    currentVersionReleaseDate: January 08, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d0/51/24d051f6-9fdc-325c-d3e9-09404449c756/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Introducing Copilot Search in Bing. A new way to search that delivers
+      fast, intelligently curated answers and makes it easier than ever to discover
+      more.
+    version: 32.7.440106001
+    app_store_url: https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Microsoft Lens: PDF Scanner'
     bundleId: com.microsoft.officelens
@@ -328,8 +331,8 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: February 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/3f/2a/443f2a28-cf73-b0d2-82a7-53bd86b45edd/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: February 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8c/8b/508c8be8-b1b0-a3e0-8d40-9daa4d55b7fa/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "- We\u2019ve added a new button to the report 'header menu' that\
       \ lets you change the report orientation on your phone, even if orientation\
@@ -337,7 +340,7 @@ packages:
       \ to chat with data from an external organization for faster insights. To start\
       \ chatting as a guest on an external organization\u2019s site, open the navigation\
       \ tree or go to the bottom navigation menu and select the Copilot icon."
-    version: '36.8'
+    version: '36.7'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin

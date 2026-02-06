@@ -1,4 +1,4 @@
-last_updated: February 05, 2026 06:09 PM EST
+last_updated: February 05, 2026 07:37 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -88,8 +88,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot
-    currentVersionReleaseDate: January 28, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/02/f8/2e02f8a7-56e9-b173-f323-5efd38b09d2b/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/8f/64/9d8f644e-e4a4-98a9-ca2a-5a66515787ab/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Introducing the New Copilot: Your AI Companion
 
@@ -100,7 +100,7 @@ packages:
 
       Copilot Daily: Start your day with a news and weather summary. Clean, simple,
       and easy to digest.'
-    version: 30.0.440128004
+    version: 30.0.440205002
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
@@ -300,14 +300,16 @@ packages:
     version: 6.8.41
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
-    application_name: Meta Ads Manager
-    bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: January 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/a2/57/55a25799-82b7-9f7a-36bc-3c260beb7290/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.1'
-    releaseNotes: Bug fixes and performance updates
-    version: '460.0'
-    app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
+    application_name: Microsoft Bing Search
+    bundleId: com.microsoft.bing
+    currentVersionReleaseDate: January 08, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d0/51/24d051f6-9fdc-325c-d3e9-09404449c756/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Introducing Copilot Search in Bing. A new way to search that delivers
+      fast, intelligently curated answers and makes it easier than ever to discover
+      more.
+    version: 32.7.440106001
+    app_store_url: https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Microsoft Lens: PDF Scanner'
     bundleId: com.microsoft.officelens

@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 10, 2026 01:29 PM EST",
+    "last_updated": "February 10, 2026 02:29 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -54,16 +54,16 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.105.3 (26020123)",
-            "full_version": "16.105.26020123",
-            "last_updated": "February 01, 2026",
+            "short_version": "16.106.0 (26020821)",
+            "full_version": "16.106.26020821",
+            "last_updated": "February 08, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.105.26020123_Updater.pkg",
-            "app_update_sha1": "0dc08ea10f09322545b1ea120ebdb0d2b5365bc8",
-            "app_update_sha256": "46c2e28e96c159f192451a137874e63cfb20a5a2ab7bf085fd4e757531ab00a7",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.106.26020821_Updater.pkg",
+            "app_update_sha1": "a76c398ced2e7727334bb76d1b28705175afb2f1",
+            "app_update_sha256": "0d1315bf50f55880af8b251577f98401bbb3536efd08c65cb50d394621140a59",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525135",
-            "full_update_sha1": "7b2638c741801542ac30bb9bfa062baa89bcce3a",
-            "full_update_sha256": "2d4d58091db012cb9d6709e4e1382e02a7ae24d1eeecfd4b51ddcc682c09381d"
+            "full_update_sha1": "94c386a0a5875694a7c41e78bce08b958668c3f8",
+            "full_update_sha256": "efc0044fa6160f65d33fe8b1e5d4beb13cd598a03ef6c9182bb5b97bfe0282ee"
         },
         {
             "name": "PowerPoint",
@@ -102,16 +102,16 @@
             "application_id": "ONMC2019",
             "application_name": "Microsoft OneNote.app",
             "CFBundleVersion": "com.microsoft.onenote",
-            "short_version": "16.105.3 (26020123)",
-            "full_version": "16.105.26020123",
-            "last_updated": "February 01, 2026",
+            "short_version": "16.106.0 (26020821)",
+            "full_version": "16.106.26020821",
+            "last_updated": "February 08, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.105.26020123_Updater.pkg",
-            "app_update_sha1": "79b5a23d6c5c0731abf747272922f0a5a54b7d05",
-            "app_update_sha256": "81598da1fa14bbf4c68d6988746bfd1519d640416c71ae6ec023f0d843e0ad22",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.106.26020821_Updater.pkg",
+            "app_update_sha1": "ecca7a2365a2ce4b06fdcdb8e205f6fde3b1575c",
+            "app_update_sha256": "4ad687a879311bf03be28f6573a704890e5f51103baa34bc0c34c8137faaa043",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=820886",
-            "full_update_sha1": "79b5a23d6c5c0731abf747272922f0a5a54b7d05",
-            "full_update_sha256": "81598da1fa14bbf4c68d6988746bfd1519d640416c71ae6ec023f0d843e0ad22"
+            "full_update_sha1": "ecca7a2365a2ce4b06fdcdb8e205f6fde3b1575c",
+            "full_update_sha256": "4ad687a879311bf03be28f6573a704890e5f51103baa34bc0c34c8137faaa043"
         },
         {
             "name": "Skype",

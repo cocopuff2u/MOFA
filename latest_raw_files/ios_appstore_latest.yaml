@@ -1,4 +1,4 @@
-last_updated: February 10, 2026 11:29 AM EST
+last_updated: February 10, 2026 12:27 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -282,11 +282,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: February 10, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/c2/5e/bcc25ed9-7a11-2b2b-d065-b5e5875ae197/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: February 03, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/97/f8/b397f8aa-1b63-2223-fc9e-5dc884df50e8/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.26014.9
+    version: 3.26014.5
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
@@ -300,23 +300,25 @@ packages:
     version: 6.8.41
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
-    application_name: Meta Ads Manager
-    bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: February 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/43/7e/47437e8a-5ff6-6952-8bbe-bca5e406a5b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.1'
-    releaseNotes: Bug fixes and performance updates
-    version: '461.0'
-    app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
+    application_name: Microsoft Bing Search
+    bundleId: com.microsoft.bing
+    currentVersionReleaseDate: January 08, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d0/51/24d051f6-9fdc-325c-d3e9-09404449c756/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Introducing Copilot Search in Bing. A new way to search that delivers
+      fast, intelligently curated answers and makes it easier than ever to discover
+      more.
+    version: 32.7.440106001
+    app_store_url: https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Microsoft Lens: PDF Scanner'
-    bundleId: com.microsoft.officelens
-    currentVersionReleaseDate: January 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/bc/02/5abc02df-5a3a-c31e-e34d-6e869ed07049/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.0'
-    releaseNotes: Annoucing Retirement of Microsoft Lens
-    version: 2.106.1
-    app_store_url: https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059?uo=4
+    application_name: "Scanner \xB7"
+    bundleId: scannerapp.free
+    currentVersionReleaseDate: February 02, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/77/83/ad7783dd-6d5c-0d09-4838-1933ca666f7c/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '15.4'
+    releaseNotes: Bugfixes and performance improvements
+    version: 2.10.10
+    app_store_url: https://apps.apple.com/us/app/scanner/id1291962681?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

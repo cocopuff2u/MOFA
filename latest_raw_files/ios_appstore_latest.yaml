@@ -1,13 +1,13 @@
-last_updated: February 09, 2026 07:46 PM EST
+last_updated: February 09, 2026 08:40 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: February 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/c4/f4/eac4f4ae-0cfe-ea04-32ea-4539cf88ae18/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/31/e2/cc31e2bf-3586-4e7b-9987-ea139b1d6a81/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.105.4
+    version: '2.106'
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
@@ -299,16 +299,14 @@ packages:
     version: 6.8.41
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
-    application_name: Microsoft Bing Search
-    bundleId: com.microsoft.bing
-    currentVersionReleaseDate: January 08, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d0/51/24d051f6-9fdc-325c-d3e9-09404449c756/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
-    releaseNotes: Introducing Copilot Search in Bing. A new way to search that delivers
-      fast, intelligently curated answers and makes it easier than ever to discover
-      more.
-    version: 32.7.440106001
-    app_store_url: https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4
+    application_name: Meta Ads Manager
+    bundleId: com.facebook.MAdMan
+    currentVersionReleaseDate: February 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/43/7e/47437e8a-5ff6-6952-8bbe-bca5e406a5b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.1'
+    releaseNotes: Bug fixes and performance updates
+    version: '461.0'
+    app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Microsoft Lens: PDF Scanner'
     bundleId: com.microsoft.officelens

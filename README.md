@@ -35,12 +35,12 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 10, 2026 02:29 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 10, 2026 03:18 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
-| **Microsoft** <sup>365/2021/2024</sup> **Office Suite Installer**<br><a href="https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac" style="text-decoration: none;"><small>_Release Notes_</small></a><br><sub>_(Includes Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Defender Shim, and MAU)_</sub><br><br>_**Last Update:** `January 10, 2026`_<br> | **Version:**<br>`16.105.0 (26011018)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.office` | <a href="https://go.microsoft.com/fwlink/?linkid=525133"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> |
-| **Microsoft** <sup>365/2021/2024</sup> **BusinessPro Suite Installer**<br><sub>_(Includes Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Teams, Defender Shim, and MAU)_</sub><br><br>_**Last Update:** `January 10, 2026`_<br> | **Version:**<br>`16.105.0 (26011018)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.office` | <a href="https://go.microsoft.com/fwlink/?linkid=2009112"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> |
+| **Microsoft** <sup>365/2021/2024</sup> **Office Suite Installer**<br><a href="https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac" style="text-decoration: none;"><small>_Release Notes_</small></a><br><sub>_(Includes Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Defender Shim, and MAU)_</sub><br><br>_**Last Update:** `February 08, 2026`_<br> | **Version:**<br>`16.106.0 (26020821)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.office` | <a href="https://go.microsoft.com/fwlink/?linkid=525133"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> |
+| **Microsoft** <sup>365/2021/2024</sup> **BusinessPro Suite Installer**<br><sub>_(Includes Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Teams, Defender Shim, and MAU)_</sub><br><br>_**Last Update:** `February 08, 2026`_<br> | **Version:**<br>`16.106.0 (26020821)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.office` | <a href="https://go.microsoft.com/fwlink/?linkid=2009112"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> |
 | **Word** <sup>365/2021/2024</sup> **Standalone Installer**<br><br>_**Last Update:** `February 08, 2026`_<br> | **Version:**<br>`16.106.0 (26020821)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.word` | <a href="https://go.microsoft.com/fwlink/?linkid=525134"><img src=".github/images/Word.png" alt="Download Image" width="80"></a> |
 | **Word** <sup>365/2021/2024</sup> **App Only Installer** <br><sub>_(Does Not Contain MAU)_</sub><br><br>_**Last Update:** `February 08, 2026`_<br> | **Version:**<br>`16.106.0 (26020821)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.word` | <a href="https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.106.26020821_Updater.pkg"><img src=".github/images/Word.png" alt="Download Image" width="80"></a> |
 | **Excel** <sup>365/2021/2024</sup> **Standalone Installer**<br><br>_**Last Update:** `February 08, 2026`_<br> | **Version:**<br>`16.106.0 (26020821)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.excel` | <a href="https://go.microsoft.com/fwlink/?linkid=525135"><img src=".github/images/Excel.png" alt="Download Image" width="80"></a> |
@@ -73,8 +73,8 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 | **Product Package** | **Download** | **SHA256** |
 |----------------------|-----------------|------------|
-| **Microsoft Office Suite** | <a href="https://go.microsoft.com/fwlink/?linkid=525133"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> | `f66ec42d1ba6ddb69835070df651c2682681b4839f591ee3190009b6a518a255` |
-| **Microsoft BusinessPro Suite** | <a href="https://go.microsoft.com/fwlink/?linkid=2009112"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> | `373643cdf8c38fcd0224fbdb30f86d55a4d0ae424c4bb45b2768b9de83e040f6` |
+| **Microsoft Office Suite** | <a href="https://go.microsoft.com/fwlink/?linkid=525133"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> | `a2a94b9af07aba897850972a57bc1320da605462611714b54c34ca8d19398e03` |
+| **Microsoft BusinessPro Suite** | <a href="https://go.microsoft.com/fwlink/?linkid=2009112"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> | `4969a54bf673647b2796d323003126a3c4af4b7fdf16c0173690416f45191319` |
 | **Word Standalone** | <a href="https://go.microsoft.com/fwlink/?linkid=525134"><img src=".github/images/Word.png" alt="Download Image" width="80"></a> | `0b64f163da96afa8770c35b399063b73c31a721e75896ca48f7d13621f62f6fb` |
 | **Word App Only** | <a href="https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.106.26020821_Updater.pkg"><img src=".github/images/Word.png" alt="Download Image" width="80"></a> | `57f761787ec0de7c9d89eaaaa6c310451996ac4257492409a1361da12f742175` |
 | **Excel Standalone** | <a href="https://go.microsoft.com/fwlink/?linkid=525135"><img src=".github/images/Excel.png" alt="Download Image" width="80"></a> | `efc0044fa6160f65d33fe8b1e5d4beb13cd598a03ef6c9182bb5b97bfe0282ee` |
@@ -126,7 +126,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 10, 2026 02:30 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 10, 2026 03:20 PM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -150,7 +150,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 10, 2026 02:30 PM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 10, 2026 03:20 PM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

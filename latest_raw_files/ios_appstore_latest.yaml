@@ -1,4 +1,4 @@
-last_updated: February 11, 2026 02:26 PM EST
+last_updated: February 11, 2026 04:16 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: February 10, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/01/ab/7e01ab4f-ae3e-0207-e4bb-403df082e9f5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 02, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/05/94/0d0594e9-5223-600f-a0e3-b260676905d6/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2605.0
+    version: 5.2604.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -264,11 +264,11 @@ packages:
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: January 16, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/a7/ef/d0a7ef08-137e-28cb-4d09-db58afbc7984/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/cd/d8/a0cdd882-b3b5-8847-c5e3-c235d9d7b016/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.6'
     releaseNotes: Stability improvements and fixes.
-    version: 4.55.2
+    version: 4.55.4
     app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Business Central
     application_name: Dynamics 365 for phones
@@ -309,14 +309,14 @@ packages:
     version: '461.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: "Scanner \xB7"
-    bundleId: scannerapp.free
-    currentVersionReleaseDate: February 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/77/83/ad7783dd-6d5c-0d09-4838-1933ca666f7c/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '15.4'
-    releaseNotes: Bugfixes and performance improvements
-    version: 2.10.10
-    app_store_url: https://apps.apple.com/us/app/scanner/id1291962681?uo=4
+    application_name: Scanner App. JPG, Photo to PDF
+    bundleId: app.scanz
+    currentVersionReleaseDate: December 30, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/cc/f2/a1ccf256-8534-156d-a793-89632674c351/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.4'
+    releaseNotes: '- Bug fixes and performance improvements'
+    version: 2.5.2
+    app_store_url: https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

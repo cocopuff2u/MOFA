@@ -1,5 +1,18 @@
-last_scan_date: February 10, 2026 06:18 PM EST
+last_scan_date: February 10, 2026 07:45 PM EST
 updates:
+- date_text: February 10, 2026
+  security_updates:
+    Excel:
+    - cve_name: CVE-2026-20946
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20946
+    - cve_name: CVE-2026-20955
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20955
+    Word:
+    - cve_name: CVE-2026-20956
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20956
+    - cve_name: CVE-2026-20952
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-20952
+  version: Version 16.106 (Build 26020821)
 - date_text: February 03, 2026
   security_updates:
     N/A:

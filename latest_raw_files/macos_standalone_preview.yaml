@@ -1,4 +1,4 @@
-last_updated: February 11, 2026 02:26 PM EST
+last_updated: February 11, 2026 03:15 PM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -172,11 +172,11 @@ packages:
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app
   CFBundleVersion: com.microsoft.autoupdate
-  short_version: 4.81 (25121042)
-  full_version: 4.81.25121042
-  last_updated: December 10, 2025
+  short_version: 4.82 (26020434)
+  full_version: 4.82.26020434
+  last_updated: February 04, 2026
   min_os: '12.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.81.25121042_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.81.25121042_Updater.pkg
-  sha1: f5343c741a4bfbb805b14fa7cf842f7db05f5199
-  sha256: bf281c826c18a0a8e8fd8abe1c9bcbc8deb9b25c251fc6b219e3e5dd7452aa21
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.82.26020434_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.82.26020434_Updater.pkg
+  sha1: 7bfef0d5fffc05e73762835bd8e402932183cc6c
+  sha256: c0801456f39feb52f9bbca50be9e6c9dbfe05bbb043e2802aac5ce3f24a71567

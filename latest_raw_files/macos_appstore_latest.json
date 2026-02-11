@@ -1,37 +1,37 @@
 {
-    "last_updated": "February 10, 2026 10:09 PM EST",
+    "last_updated": "February 10, 2026 11:49 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "February 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/34/af/1034afc7-983f-6cdb-8e65-ab60ba289acb/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/e7/65/1ce765cb-02a9-b01b-c38a-12a625569f71/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.106",
+            "version": "16.105.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "February 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9c/04/5a9c0459-cfd1-b6d4-0a2c-6721006b8917/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/69/42/0e694298-162b-b2f6-3a44-2e50c58be2ad/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 Save and email as a PDF with Office Scripts: Use Office Scripts to automate tasks: Programmatically save a worksheet as a PDF and email it to yourself or your team.",
-            "version": "16.106",
+            "releaseNotes": "\u2022 General quality and performance enhancements.",
+            "version": "16.105.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "February 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/e4/78/03e4782c-25aa-7ced-fc37-c1d3a676ab93/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ed/af/a2edaf10-75ab-2f57-8420-62cf17693dbf/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.106",
+            "version": "16.105.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 10, 2026 08:40 PM EST</last_updated>
+	<last_updated>February 10, 2026 10:09 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -313,11 +313,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Sharepoint</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>February 10, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/cd/d8/a0cdd882-b3b5-8847-c5e3-c235d9d7b016/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>January 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/a7/ef/d0a7ef08-137e-28cb-4d09-db58afbc7984/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.6</minimumOsVersion>
 		<releaseNotes>Stability improvements and fixes.</releaseNotes>
-		<version>4.55.4</version>
+		<version>4.55.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
@@ -335,11 +335,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>February 03, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/97/f8/b397f8aa-1b63-2223-fc9e-5dc884df50e8/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 10, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/c2/5e/bcc25ed9-7a11-2b2b-d065-b5e5875ae197/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26014.5</version>
+		<version>3.26014.9</version>
 		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
@@ -366,14 +366,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Scanner ·</application_name>
-		<bundleId>scannerapp.free</bundleId>
-		<currentVersionReleaseDate>February 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/77/83/ad7783dd-6d5c-0d09-4838-1933ca666f7c/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.4</minimumOsVersion>
-		<releaseNotes>Bugfixes and performance improvements</releaseNotes>
-		<version>2.10.10</version>
-		<app_store_url>https://apps.apple.com/us/app/scanner/id1291962681?uo=4</app_store_url>
+		<application_name>Microsoft Lens: PDF Scanner</application_name>
+		<bundleId>com.microsoft.officelens</bundleId>
+		<currentVersionReleaseDate>January 09, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/bc/02/5abc02df-5a3a-c31e-e34d-6e869ed07049/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
+		<releaseNotes>Annoucing Retirement of Microsoft Lens</releaseNotes>
+		<version>2.106.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

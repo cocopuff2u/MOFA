@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 11, 2026 05:11 PM EST",
+    "last_updated": "February 11, 2026 06:13 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -300,25 +300,25 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Meta Ads Manager",
-            "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "February 04, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/43/7e/47437e8a-5ff6-6952-8bbe-bca5e406a5b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.1",
-            "releaseNotes": "Bug fixes and performance updates",
-            "version": "461.0",
-            "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
+            "application_name": "Microsoft Bing Search",
+            "bundleId": "com.microsoft.bing",
+            "currentVersionReleaseDate": "January 08, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d0/51/24d051f6-9fdc-325c-d3e9-09404449c756/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.",
+            "version": "32.7.440106001",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Scanner App. JPG, Photo to PDF",
-            "bundleId": "app.scanz",
-            "currentVersionReleaseDate": "December 30, 2025",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/cc/f2/a1ccf256-8534-156d-a793-89632674c351/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "16.4",
-            "releaseNotes": "- Bug fixes and performance improvements",
-            "version": "2.5.2",
-            "app_store_url": "https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4"
+            "application_name": "Scanner \u00b7",
+            "bundleId": "scannerapp.free",
+            "currentVersionReleaseDate": "February 02, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/77/83/ad7783dd-6d5c-0d09-4838-1933ca666f7c/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "15.4",
+            "releaseNotes": "Bugfixes and performance improvements",
+            "version": "2.10.10",
+            "app_store_url": "https://apps.apple.com/us/app/scanner/id1291962681?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",
@@ -379,11 +379,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "February 11, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/94/84/ac948454-4977-4142-230e-47a6cb109b82/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 05, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/15/85/8f15854e-6c1f-8f98-016e-9ec0c690419f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.107",
+            "version": "2.106.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
         },
         {

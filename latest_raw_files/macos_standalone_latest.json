@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 13, 2026 11:37 PM EST",
+    "last_updated": "February 14, 2026 12:23 AM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -310,16 +310,16 @@
             "application_id": "MSRH01",
             "application_name": "Microsoft Remote Help.app",
             "CFBundleVersion": "com.microsoft.remotehelp",
-            "short_version": "1.0.2510032",
-            "full_version": "1.0.2510032",
-            "last_updated": "October 07, 2025",
+            "short_version": "1.0.2601221",
+            "full_version": "1.0.2601221",
+            "last_updated": "February 13, 2026",
             "min_os": "12.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2510032_updater.pkg",
-            "app_update_sha1": "29114bbc3a7e7a5a0dbe5ee5b07079d4ea683b47",
-            "app_update_sha256": "0b6aa5800c5aa1790b2e08356502eeafcd128fbff2c3cb27e89b6963f6185e23",
-            "full_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2510032_updater.pkg",
-            "full_update_sha1": "29114bbc3a7e7a5a0dbe5ee5b07079d4ea683b47",
-            "full_update_sha256": "0b6aa5800c5aa1790b2e08356502eeafcd128fbff2c3cb27e89b6963f6185e23"
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2601221_updater.pkg",
+            "app_update_sha1": "8429dc050881b4ad6a3bcffa6ca3f782b303f0cd",
+            "app_update_sha256": "18d0dede3f099987cf3d8266920eb923f350258377cc453301876a9b750c7840",
+            "full_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Help_1.0.2601221_updater.pkg",
+            "full_update_sha1": "8429dc050881b4ad6a3bcffa6ca3f782b303f0cd",
+            "full_update_sha256": "18d0dede3f099987cf3d8266920eb923f350258377cc453301876a9b750c7840"
         }
     ]
 }

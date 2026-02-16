@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>February 16, 2026 12:18 PM EST</last_updated>
+    <last_updated>February 16, 2026 01:17 PM EST</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -230,13 +230,13 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code.app</application_name>
         <CFBundleVersion>com.microsoft.visualstudio</CFBundleVersion>
-        <short_version>1.109.3</short_version>
-        <full_version>1.109.3</full_version>
-        <last_updated>February 12, 2026</last_updated>
+        <short_version>1.109.4</short_version>
+        <full_version>1.109.4</full_version>
+        <last_updated>February 16, 2026</last_updated>
         <min_os>N/A</min_os>
-        <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/b6a47e94e326b5c209d118cf0f994d6065585705/VSCode-darwin-universal.zip</app_only_update_download>
-        <app_update_sha1>770db48a9313cc3f0ded1de7f74e8e3153025c6d</app_update_sha1>
-        <app_update_sha256>6bb2192d32cbb7b9c290337746300e82a670e7f0ab2bbf8061ee5d08c0045f40</app_update_sha256>
+        <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/c3a26841a84f20dfe0850d0a5a9bd01da4f003ea/VSCode-darwin-universal.zip</app_only_update_download>
+        <app_update_sha1>8a5065b392976065b8c8cd12e771717798dbe103</app_update_sha1>
+        <app_update_sha256>35b696d8de43d42a3d63ee292302d517a40f978b38242b21c950e3689da4f459</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2156837</full_update_download>
         <full_update_sha1>N/A</full_update_sha1>
         <full_update_sha256>N/A</full_update_sha256>

@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 17, 2026 03:15 PM EST</last_updated>
+	<last_updated>February 17, 2026 04:15 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>February 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/31/e2/cc31e2bf-3586-4e7b-9987-ea139b1d6a81/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 17, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/02/b5/e702b5f2-b5d5-c3c2-3a21-2881d855d0c5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.106</version>
+		<version>2.106.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>February 17, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/00/81/bd00815d-fdc2-d05d-8dd3-b2da3d7185fe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/57/24/dd57247a-4f8d-840a-9fab-8315746807b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>16.33.2</version>
+		<version>16.32.4</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,4 +1,4 @@
-last_updated: February 18, 2026 02:26 AM EST
+last_updated: February 18, 2026 03:19 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -12,11 +12,13 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: February 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ab/11/17ab118a-a8fc-1cfe-72ea-41c932ec7a65/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: February 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9c/04/5a9c0459-cfd1-b6d4-0a2c-6721006b8917/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.106.1
+    releaseNotes: "\u2022 Save and email as a PDF with Office Scripts: Use Office\
+      \ Scripts to automate tasks: Programmatically save a worksheet as a PDF and\
+      \ email it to yourself or your team."
+    version: '16.106'
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -45,15 +47,15 @@ packages:
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: February 10, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/d8/c0/45d8c076-5b0f-6b23-80de-e4174614bd8e/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: February 17, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/cd/b3/4acdb304-1e05-2fa1-9a9d-0298a783cb39/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.106'
+    version: 16.106.1
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive

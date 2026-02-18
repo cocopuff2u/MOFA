@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 18, 2026 02:26 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 18, 2026 03:19 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -126,15 +126,15 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 18, 2026 02:26 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 18, 2026 03:19 AM EST</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
 | Microsoft Word | `16.106` | `com.microsoft.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/34/af/1034afc7-983f-6cdb-8e65-ab60ba289acb/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Word" width="40"> |
-| Microsoft Excel | `16.106.1` | `com.microsoft.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ab/11/17ab118a-a8fc-1cfe-72ea-41c932ec7a65/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
+| Microsoft Excel | `16.106` | `com.microsoft.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9c/04/5a9c0459-cfd1-b6d4-0a2c-6721006b8917/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
 | Microsoft PowerPoint | `16.106` | `com.microsoft.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/e4/78/03e4782c-25aa-7ced-fc37-c1d3a676ab93/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `16.106` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/52/13/115213c6-d761-a9f7-0f99-192f59e3c961/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
-| Microsoft OneNote | `16.106` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/d8/c0/45d8c076-5b0f-6b23-80de-e4174614bd8e/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
+| Microsoft OneNote | `16.106.1` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/cd/b3/4acdb304-1e05-2fa1-9a9d-0298a783cb39/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
 | OneDrive | `26.002.0105` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/8b/05/698b050b-306a-a0e2-5792-17828c61345e/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
 | RMS Sharing | `1.3.4` | `com.microsoft.protection.rms-sharing-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/09/a4/f4/09a4f4b3-7aed-51c0-8e6b-5cb95ec6dada/rmssharing.png/512x512bb.png" alt="RMS Sharing" width="40"> |
 | Windows App | `11.3.2` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/fb/8a/e9fb8ad8-d261-d447-6f2e-20ec4cb02c3c/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
@@ -150,11 +150,11 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 18, 2026 02:26 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 18, 2026 03:19 AM EST</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
-| Microsoft Word | `2.106` | `com.microsoft.Office.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/31/e2/cc31e2bf-3586-4e7b-9987-ea139b1d6a81/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Word" width="40"> |
+| Microsoft Word | `2.106.1` | `com.microsoft.Office.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/02/b5/e702b5f2-b5d5-c3c2-3a21-2881d855d0c5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Word" width="40"> |
 | Microsoft Excel | `2.106.1` | `com.microsoft.Office.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/99/66/f799664c-0b9f-c2a0-2025-0814a189853a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Excel" width="40"> |
 | Microsoft PowerPoint | `2.106.1` | `com.microsoft.Office.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/51/c8/8c51c88f-e486-a4e3-0d8b-9f6d11e58ade/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `5.2605.0` | `com.microsoft.Office.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/01/ab/7e01ab4f-ae3e-0207-e4bb-403df082e9f5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Outlook" width="40"> |

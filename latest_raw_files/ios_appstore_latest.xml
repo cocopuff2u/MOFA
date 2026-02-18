@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 18, 2026 05:21 AM EST</last_updated>
+	<last_updated>February 18, 2026 06:20 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,11 +38,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>February 17, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d0/9b/70d09b19-9487-1021-e360-3535ce36df29/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 10, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/01/ab/7e01ab4f-ae3e-0207-e4bb-403df082e9f5/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>Save meeting invites as drafts and finish scheduling when ready</releaseNotes>
-		<version>5.2606.0</version>
+		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
+
+Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
+		<version>5.2605.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
@@ -106,14 +108,14 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot AI Assistant</application_name>
 		<bundleId>com.microsoft.copilot</bundleId>
-		<currentVersionReleaseDate>February 10, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/23/d7/ab23d77f-517b-1bad-859f-f80e1fe33eb6/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 18, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/2a/82/202a82bc-c5b3-006f-7bbe-447855fda240/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Introducing the New Copilot: Your AI Companion
 This update includes an intuitive design with more digestible and faster answers, plus new features.
 Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
 Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
-		<version>30.0.440210001</version>
+		<version>30.0.440217001</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot-ai-assistant/id6472538445?uo=4</app_store_url>
 	</package>
 	<package>
@@ -152,14 +154,14 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
-		<application_name>Dynamics 365 Sales</application_name>
-		<bundleId>com.microsoft.dynamics.iphone.moca.sales</bundleId>
-		<currentVersionReleaseDate>November 11, 2024</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<application_name>Dynamics 365 for phones</application_name>
+		<bundleId>com.microsoft.dynamics.iphone.moca</bundleId>
+		<currentVersionReleaseDate>September 11, 2024</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>This version includes experience improvements and bug fixes so sellers can stay on top of their deals better than ever before.</releaseNotes>
-		<version>3.24104.15</version>
-		<app_store_url>https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4</app_store_url>
+		<releaseNotes>• Bug fixes and performance improvements.</releaseNotes>
+		<version>13.24093.1</version>
+		<app_store_url>https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lists</name>

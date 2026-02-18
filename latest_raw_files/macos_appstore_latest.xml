@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>February 17, 2026 07:40 PM EST</last_updated>
+	<last_updated>February 17, 2026 08:39 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -16,35 +16,33 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>February 10, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9c/04/5a9c0459-cfd1-b6d4-0a2c-6721006b8917/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>February 17, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ab/11/17ab118a-a8fc-1cfe-72ea-41c932ec7a65/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>• Save and email as a PDF with Office Scripts: Use Office Scripts to automate tasks: Programmatically save a worksheet as a PDF and email it to yourself or your team.</releaseNotes>
-		<version>16.106</version>
+		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
+		<version>16.106.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>February 10, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/e4/78/03e4782c-25aa-7ced-fc37-c1d3a676ab93/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>February 17, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/0d/f3/880df354-1621-f59a-0195-7fb0b0b9fe80/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.106</version>
+		<version>16.106.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>February 10, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/52/13/115213c6-d761-a9f7-0f99-192f59e3c961/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>February 17, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a1/ac/caa1acbf-7d7b-4578-2262-40067dcac87a/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>• Mail: Outlook now allows users to sort their message list by Flag Status, Flag Start Date, or Flag Due Date, helping them prioritize follow‑ups and organize tasks more efficiently. 
-• Contacts: Outlook has an enhanced contact card experience that displays work hours and pronoun details when provided. 
-• Calendar: Microsoft 365 enterprise accounts now have a setting that lets you choose whether to display declined meetings on your calendar grid.</releaseNotes>
-		<version>16.106</version>
+		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
+		<version>16.106.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

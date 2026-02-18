@@ -299,7 +299,7 @@ apps = {
         "url": "https://update.code.visualstudio.com/api/update/darwin-universal/stable/384ff7382de624fb94dbaf6da11977bba1ecd427",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.visualstudio",
-            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2156837",
+            "full_update_download": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal-dmg",
             "application_name": "Visual Studio Code.app",
         },
         "keys": {

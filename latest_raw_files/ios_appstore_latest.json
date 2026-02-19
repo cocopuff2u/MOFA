@@ -1,5 +1,5 @@
 {
-    "last_updated": "February 19, 2026 01:23 PM EST",
+    "last_updated": "February 19, 2026 02:20 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -302,11 +302,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "February 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/65/1f/5c651f05-8c84-5931-d518-0c6b2554f8e8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 19, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/3d/a6/343da61c-f6ad-11d8-701b-a4a5c2ddd517/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "462.0",
+            "version": "463.0",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {
@@ -357,11 +357,11 @@
             "name": "iOS Microsoft Intune Company Portal",
             "application_name": "Intune Company Portal",
             "bundleId": "com.microsoft.CompanyPortal",
-            "currentVersionReleaseDate": "January 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/20/5d/40205dbf-47e4-4b0b-eca3-8fa00cf434c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/cf/82/f7cf829c-75f4-1e0e-61da-3aa47f9c19cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We\u2019ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.",
-            "version": "5.2511.0",
+            "version": "5.2601.0",
             "app_store_url": "https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4"
         },
         {

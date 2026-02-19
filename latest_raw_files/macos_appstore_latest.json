@@ -1,15 +1,15 @@
 {
-    "last_updated": "February 18, 2026 07:40 PM EST",
+    "last_updated": "February 18, 2026 08:39 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "February 17, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/39/14/bc39148c-d39f-5292-d3c8-dad9f9f4504c/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 10, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/34/af/1034afc7-983f-6cdb-8e65-ab60ba289acb/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.106.1",
+            "version": "16.106",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {
@@ -38,11 +38,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "February 17, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a1/ac/caa1acbf-7d7b-4578-2262-40067dcac87a/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 10, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/52/13/115213c6-d761-a9f7-0f99-192f59e3c961/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.106.1",
+            "releaseNotes": "\u2022 Mail: Outlook now allows users to sort their message list by Flag Status, Flag Start Date, or Flag Due Date, helping them prioritize follow\u2011ups and organize tasks more efficiently. \n\u2022 Contacts: Outlook has an enhanced contact card experience that displays work hours and pronoun details when provided. \n\u2022 Calendar: Microsoft 365 enterprise accounts now have a setting that lets you choose whether to display declined meetings on your calendar grid.",
+            "version": "16.106",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {

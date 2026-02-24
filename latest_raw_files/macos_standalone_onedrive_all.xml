@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>February 23, 2026 10:06 PM EST</last_updated>
+  <last_updated>February 23, 2026 11:41 PM EST</last_updated>
   <package>
     <name>Production Ring</name>
     <short_version>26.022.0203</short_version>
@@ -36,14 +36,14 @@
   </package>
   <package>
     <name>Upcoming Deferred  Ring</name>
-    <short_version>25.179.0914</short_version>
+    <short_version>25.224.1116</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=861010</full_update_download>
-    <full_update_sha1>0c3009cc89d8e8cd65152f4c8572462d9b1e144d</full_update_sha1>
-    <full_update_sha256>414aec9b3892fe0bf207fe67408072c274d064aadf1ce062473cff91f3d276b0</full_update_sha256>
-    <last_updated>November 21, 2025 12:07 AM EST</last_updated>
+    <full_update_sha1>8b03b311d9d951a868fe1e3885c0ecfa152954be</full_update_sha1>
+    <full_update_sha256>af9a46aebad03ac57c604bf228d1a140a29d4c57bcf4e95599c2e94f41c917e9</full_update_sha256>
+    <last_updated>February 23, 2026 11:41 PM EST</last_updated>
   </package>
   <package>
     <name>Insider Ring</name>
@@ -58,24 +58,24 @@
   </package>
   <package>
     <name>Rolling Out (Unknown Use)</name>
-    <short_version>26.002.0105</short_version>
+    <short_version>26.022.0203</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=861011</full_update_download>
-    <full_update_sha1>3203c01c43da8a571e7c7e8abf97215775450542</full_update_sha1>
-    <full_update_sha256>fdd84bf01b508f27ed26fd85b773501f3f383e212e0b0b3e69af66d4cef342ff</full_update_sha256>
-    <last_updated>January 31, 2026 03:10 AM EST</last_updated>
+    <full_update_sha1>ec24fe907cc3919e17044ec89c9df79b149e812e</full_update_sha1>
+    <full_update_sha256>697bc7500a7a1e824445ec02fb8795462c0d0df8c7abb515abb866bc79d8f689</full_update_sha256>
+    <last_updated>February 23, 2026 11:41 PM EST</last_updated>
   </package>
   <package>
     <name>App New Version (Unknown Use)</name>
-    <short_version>25.243.1211</short_version>
+    <short_version>26.017.0126</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=823060</full_update_download>
-    <full_update_sha1>e20fb60dd99ce185a26beac31e7c5e62672b503f</full_update_sha1>
-    <full_update_sha256>97d90c7bdd8cc9f7129d5cbab38b72a61b516a970bd71c363803f0a740263219</full_update_sha256>
-    <last_updated>January 31, 2026 03:10 AM EST</last_updated>
+    <full_update_sha1>8aa88a40e492c7f002ebbbad925bdb2f5582e139</full_update_sha1>
+    <full_update_sha256>88349f741cc75ea94b8bde6fcbba35061cf212651394bc9b8432461f975099cb</full_update_sha256>
+    <last_updated>February 23, 2026 11:41 PM EST</last_updated>
   </package>
 </latest>

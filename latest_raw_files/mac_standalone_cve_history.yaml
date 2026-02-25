@@ -1,5 +1,17 @@
-last_scan_date: February 24, 2026 06:13 PM EST
+last_scan_date: February 24, 2026 07:42 PM EST
 updates:
+- date_text: February 24, 2026
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.106.2 (Build 26022219)
+- date_text: February 17, 2026
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.106.1 (Build 26021521)
 - date_text: February 10, 2026
   security_updates:
     Excel:

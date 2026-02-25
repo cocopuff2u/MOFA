@@ -1,6 +1,26 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>February 24, 2026 06:13 PM EST</last_scan_date>
+    <last_scan_date>February 24, 2026 07:42 PM EST</last_scan_date>
+    <release>
+        <date>February 24, 2026</date>
+        <version>16.106.2 (26022219)</version>
+        <word_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.106.26022219_Updater.pkg</word_update>
+        <excel_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.106.26022219_Updater.pkg</excel_update>
+        <powerpoint_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.106.26022219_Updater.pkg</powerpoint_update>
+        <outlook_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.106.26022219_Updater.pkg</outlook_update>
+        <onenote_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.106.26022219_Updater.pkg</onenote_update>
+        <archive>false</archive>
+    </release>
+    <release>
+        <date>February 17, 2026</date>
+        <version>16.106.1 (26021521)</version>
+        <word_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.106.26021521_Updater.pkg</word_update>
+        <excel_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.106.26021521_Updater.pkg</excel_update>
+        <powerpoint_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.106.26021521_Updater.pkg</powerpoint_update>
+        <outlook_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.106.26021521_Updater.pkg</outlook_update>
+        <onenote_update>https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.106.26021521_Updater.pkg</onenote_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>February 10, 2026</date>
         <version>16.106 (26020821)</version>

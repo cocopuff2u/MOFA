@@ -1,4 +1,4 @@
-last_updated: February 26, 2026 05:21 AM EST
+last_updated: February 26, 2026 06:20 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -263,11 +263,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: February 26, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/c2/f6/a2c2f641-2aa8-485b-d379-8652257fb696/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 20, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/63/66/0263665e-40d5-4438-0752-cbff3ae38b18/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.2.2
+    version: 8.2.1
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
@@ -319,17 +319,14 @@ packages:
     version: 32.7.440106001
     app_store_url: https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: February 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/7e/3f/807e3fde-b4c4-9f7b-6f44-d7d01702c254/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Create ID photos more easily, with more exports for Premium\
-      \ members.\n\xB7 Collage now lets you pinch to zoom and rotate images to fit\
-      \ various needs.\n\xB7 New reading mode in translation automatically reflows\
-      \ text to fit your screen for smoother mobile reading."
-    version: 7.12.0
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: "Scanner \xB7"
+    bundleId: scannerapp.free
+    currentVersionReleaseDate: February 23, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/41/8c/c7418c0e-b0f5-105b-49e0-517299576850/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.4'
+    releaseNotes: Bugfixes and performance improvements
+    version: 2.11.0
+    app_store_url: https://apps.apple.com/us/app/scanner/id1291962681?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

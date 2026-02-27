@@ -1,5 +1,5 @@
 latest:
-  last_updated: February 27, 2026 01:16 PM EST
+  last_updated: February 27, 2026 02:17 PM EST
   package:
   - name: Production Ring
     short_version: 26.022.0203
@@ -38,14 +38,14 @@ latest:
     full_update_sha256: af9a46aebad03ac57c604bf228d1a140a29d4c57bcf4e95599c2e94f41c917e9
     last_updated: February 23, 2026 11:41 PM EST
   - name: Insider Ring
-    short_version: 26.022.0203
+    short_version: 26.026.0209
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.022.0203.0006/universal/OneDrive.pkg
-    full_update_sha1: ec24fe907cc3919e17044ec89c9df79b149e812e
-    full_update_sha256: 697bc7500a7a1e824445ec02fb8795462c0d0df8c7abb515abb866bc79d8f689
-    last_updated: February 20, 2026 12:18 PM EST
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.026.0209.0004/universal/OneDrive.pkg
+    full_update_sha1: 56c5fcee5da8eec4b421e55436618ce2ff779b51
+    full_update_sha256: f1248400b64f8309212a1f1841271afa9b4f8da5bbc9b6cef525960aaf8a624b
+    last_updated: February 27, 2026 02:17 PM EST
   - name: Rolling Out (Unknown Use)
     short_version: 26.022.0203
     application_id: ONDR18

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 02, 2026 07:18 AM EST</last_updated>
+	<last_updated>March 02, 2026 08:31 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -373,24 +373,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Scanner App. JPG, Photo to PDF</application_name>
-		<bundleId>app.scanz</bundleId>
-		<currentVersionReleaseDate>February 17, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/bb/bc/1fbbbc8a-b52e-539c-6b61-e5ac1fa206a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.4</minimumOsVersion>
-		<releaseNotes>Cloud Sync – your documents are always with you
-
-We added cloud document sync between the apps and the web version.
-
-Now you can:
-- Store documents in the cloud as a backup
-- Open files in the apps and in the Docs.Online web version
-- Access your documents after signing in on a new device
-- Keep local files on the device when you sign out
-
-Scan, sign, and store documents wherever convenient — your data is always available and secure.</releaseNotes>
-		<version>2.6.0</version>
-		<app_store_url>https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4</app_store_url>
+		<application_name>Scanner ·</application_name>
+		<bundleId>scannerapp.free</bundleId>
+		<currentVersionReleaseDate>February 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/41/8c/c7418c0e-b0f5-105b-49e0-517299576850/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.4</minimumOsVersion>
+		<releaseNotes>Bugfixes and performance improvements</releaseNotes>
+		<version>2.11.0</version>
+		<app_store_url>https://apps.apple.com/us/app/scanner/id1291962681?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

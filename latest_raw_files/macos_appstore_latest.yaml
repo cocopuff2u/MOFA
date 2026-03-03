@@ -1,4 +1,4 @@
-last_updated: March 03, 2026 04:14 PM EST
+last_updated: March 03, 2026 05:10 PM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,11 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: March 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f8/23/cdf823aa-68df-bb15-4973-38c3ca633081/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: February 17, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a1/ac/caa1acbf-7d7b-4578-2262-40067dcac87a/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
-    releaseNotes: "\u2022 Fixed the cancellation behavior for basic reauthentication\
-      \ on On-Premises.\n\u2022 Resolved a regression impacting OnSend add-ins during\
-      \ save and send actions.\n\u2022 Enhanced drag-and-drop attachment functionality\
-      \ for accounts that do not support OneDrive."
-    version: 16.106.3
+    releaseNotes: "\u2022 General quality and performance enhancements."
+    version: 16.106.1
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote

@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 04, 2026 11:17 AM EST",
+    "last_updated": "March 04, 2026 12:18 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -16,11 +16,11 @@
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "March 03, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/03/05/e203052a-768c-a1ad-dc93-08ffd58c4df0/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "February 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/7d/0d/e47d0dd8-9c8a-84c3-1851-a6c821872257/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.106.3",
+            "version": "16.106.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4"
         },
         {

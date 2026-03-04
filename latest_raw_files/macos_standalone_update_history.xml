@@ -1,6 +1,16 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>March 03, 2026 10:52 PM EST</last_scan_date>
+    <last_scan_date>March 03, 2026 11:37 PM EST</last_scan_date>
+    <release>
+        <date>March 03, 2026</date>
+        <version>16.106.3 (26030211)</version>
+        <word_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.106.26030211_Updater.pkg</word_update>
+        <excel_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.106.26030211_Updater.pkg</excel_update>
+        <powerpoint_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.106.26030211_Updater.pkg</powerpoint_update>
+        <outlook_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.106.26030211_Updater.pkg</outlook_update>
+        <onenote_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.106.26030211_Updater.pkg</onenote_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>February 24, 2026</date>
         <version>16.106.2 (26022219)</version>

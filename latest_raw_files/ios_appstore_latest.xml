@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 04, 2026 08:39 PM EST</last_updated>
+	<last_updated>March 05, 2026 01:23 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -250,13 +250,13 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>March 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ff/e1/beffe15c-a1af-4932-cf4d-307e9219cc34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/4d/e4/864de45c-f722-b682-9fd8-aa361f38f2bd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
 • Bug fixes, stability and performance improvements.
 Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
-		<version>145.3800.85</version>
+		<version>145.3800.92</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
@@ -397,11 +397,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>March 04, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/49/e4/a749e48f-3002-8d8f-9611-5229fd2be028/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 15, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/bf/05/c1bf056e-298c-5879-31a5-4de58e9425d0/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>37.0</version>
+		<version>36.9</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4</app_store_url>
 	</package>
 	<package>
@@ -439,14 +439,16 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft 365 Copilot</application_name>
-		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>February 25, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/42/3c/f5423c47-8055-6a99-c293-deebfd1a49dc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft Outlook</application_name>
+		<bundleId>com.microsoft.Office.Outlook</bundleId>
+		<currentVersionReleaseDate>February 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/35/55/07355553-d782-158a-12f2-daa122973b2b/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.107.2</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
+		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
+
+Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
+		<version>5.2607.0</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

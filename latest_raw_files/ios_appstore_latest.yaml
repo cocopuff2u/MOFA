@@ -1,4 +1,4 @@
-last_updated: March 05, 2026 01:41 PM EST
+last_updated: March 05, 2026 02:31 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -208,13 +208,13 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Microsoft Edge: AI Browser'
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: March 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/4d/e4/864de45c-f722-b682-9fd8-aa361f38f2bd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 02, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ff/e1/beffe15c-a1af-4932-cf4d-307e9219cc34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
       \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
       \ version and enjoy a smarter and more efficient Microsoft Edge!"
-    version: 145.3800.92
+    version: 145.3800.85
     app_store_url: https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
@@ -315,14 +315,17 @@ packages:
     version: '464.1'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: Scanner App. JPG, Photo to PDF
-    bundleId: app.scanz
-    currentVersionReleaseDate: March 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/5e/76/815e767c-5d6f-0a9a-c854-fff6a9a96148/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.4'
-    releaseNotes: '- Bug fixes and performance improvements'
-    version: 2.6.1
-    app_store_url: https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: February 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/7e/3f/807e3fde-b4c4-9f7b-6f44-d7d01702c254/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 Create ID photos more easily, with more exports for Premium\
+      \ members.\n\xB7 Collage now lets you pinch to zoom and rotate images to fit\
+      \ various needs.\n\xB7 New reading mode in translation automatically reflows\
+      \ text to fit your screen for smoother mobile reading."
+    version: 7.12.0
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

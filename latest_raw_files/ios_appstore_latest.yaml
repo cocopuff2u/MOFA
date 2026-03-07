@@ -1,4 +1,4 @@
-last_updated: March 07, 2026 05:08 AM EST
+last_updated: March 07, 2026 06:07 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -139,15 +139,14 @@ packages:
     version: 9.56.26056
     app_store_url: https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4
   - name: iOS Microsoft Dynamics 365 Sales
-    application_name: Dynamics 365 Sales
-    bundleId: com.microsoft.dynamics.iphone.moca.sales
-    currentVersionReleaseDate: November 11, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
+    application_name: Dynamics 365 for phones
+    bundleId: com.microsoft.dynamics.iphone.moca
+    currentVersionReleaseDate: September 11, 2024
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '14.0'
-    releaseNotes: This version includes experience improvements and bug fixes so sellers
-      can stay on top of their deals better than ever before.
-    version: 3.24104.15
-    app_store_url: https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4
+    releaseNotes: "\u2022 Bug fixes and performance improvements."
+    version: 13.24093.1
+    app_store_url: https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4
   - name: iOS Microsoft Lists
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
@@ -315,14 +314,17 @@ packages:
     version: '465.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: "Scanner \xB7"
-    bundleId: scannerapp.free
-    currentVersionReleaseDate: March 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/09/18/ec09186a-f1d4-6144-09d7-876647a1279a/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '15.4'
-    releaseNotes: Bugfixes and performance improvements
-    version: 2.11.1
-    app_store_url: https://apps.apple.com/us/app/scanner/id1291962681?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: February 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/7e/3f/807e3fde-b4c4-9f7b-6f44-d7d01702c254/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 Create ID photos more easily, with more exports for Premium\
+      \ members.\n\xB7 Collage now lets you pinch to zoom and rotate images to fit\
+      \ various needs.\n\xB7 New reading mode in translation automatically reflows\
+      \ text to fit your screen for smoother mobile reading."
+    version: 7.12.0
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders
@@ -372,14 +374,17 @@ packages:
     version: 2.1.4
     app_store_url: https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft 365 Copilot
-    bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: February 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/42/3c/f5423c47-8055-6a99-c293-deebfd1a49dc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    application_name: Microsoft Outlook
+    bundleId: com.microsoft.Office.Outlook
+    currentVersionReleaseDate: February 23, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/35/55/07355553-d782-158a-12f2-daa122973b2b/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.107.2
-    app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
+    releaseNotes: "This update includes performance improvements and bug fixes to\
+      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
+      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
+      \ you."
+    version: 5.2607.0
+    app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

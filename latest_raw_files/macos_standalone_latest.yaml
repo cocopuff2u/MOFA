@@ -1,4 +1,4 @@
-last_updated: March 06, 2026 07:37 PM EST
+last_updated: March 06, 2026 08:38 PM EST
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -200,16 +200,16 @@ packages:
   application_id: N/A
   application_name: Visual Studio Code.app
   CFBundleVersion: com.microsoft.visualstudio
-  short_version: 1.110.0
-  full_version: 1.110.0
-  last_updated: March 04, 2026
+  short_version: 1.110.1
+  full_version: 1.110.1
+  last_updated: March 06, 2026
   min_os: N/A
-  app_only_update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/0870c2a0c7c0564e7631bfed2675573a94ba4455/VSCode-darwin-universal.zip
-  app_update_sha1: 7724e1efa4279015af2b6c6ecf656d2bd9c83113
-  app_update_sha256: 95078b127db396ba59b5dba95cb824540a9e862abca1176cd71702395d62f122
+  app_only_update_download: https://vscode.download.prss.microsoft.com/dbazure/download/stable/61b3d0ab13be7dda2389f1d3e60a119c7f660cc3/VSCode-darwin-universal.zip
+  app_update_sha1: 20212fae04abfbb0b68c2a3f03a5996405503b56
+  app_update_sha256: 19dd55249523e47e04fb086d0f16140516742cba1564c95ef60b132c2a32bd62
   full_update_download: https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal-dmg
-  full_update_sha1: e5377befc8ea62c5caa6b9199148dd7eb20b2d1e
-  full_update_sha256: 52705c072cad81e24158d2569e7aaebbbb22606a3f765271367714670b39eebd
+  full_update_sha1: e3e8a65fe4c12455ce81ee7f92686ac9935281ae
+  full_update_sha256: e0c2770562fc868907bbc177bcf439e5db9b7e459f4f0a05cbc44276b28eaa78
 - name: Copilot
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app

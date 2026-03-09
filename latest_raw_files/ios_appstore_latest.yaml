@@ -1,4 +1,4 @@
-last_updated: March 09, 2026 08:19 AM EDT
+last_updated: March 09, 2026 09:34 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -151,11 +151,11 @@ packages:
   - name: iOS Microsoft Lists
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
-    currentVersionReleaseDate: March 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/01/52/e101525b-283c-ff27-26b5-5da5e6919cd4/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '17.6'
+    currentVersionReleaseDate: November 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/91/e4/7491e4b5-0352-3c01-50f8-c3e6faa96056/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.6'
     releaseNotes: We fixed some bugs to improve the app experience.
-    version: '2.169'
+    version: '2.161'
     app_store_url: https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
@@ -306,16 +306,14 @@ packages:
     version: 6.8.42
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
-    application_name: Microsoft Bing Search
-    bundleId: com.microsoft.bing
-    currentVersionReleaseDate: March 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/46/45/f846454d-aa6d-a6c7-8f90-785a06cd3835/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
-    releaseNotes: Introducing Copilot Search in Bing. A new way to search that delivers
-      fast, intelligently curated answers and makes it easier than ever to discover
-      more.
-    version: 32.8.440228001
-    app_store_url: https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4
+    application_name: Meta Ads Manager
+    bundleId: com.facebook.MAdMan
+    currentVersionReleaseDate: March 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/32/37/553237da-6a44-5f30-7715-78bbffe433b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.1'
+    releaseNotes: Bug fixes and performance updates
+    version: '465.0'
+    app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: CamScanner - PDF Scanner App
     bundleId: com.intsig.CamScannerLite

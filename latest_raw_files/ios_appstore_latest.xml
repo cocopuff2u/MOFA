@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 08, 2026 07:09 PM EDT</last_updated>
+	<last_updated>March 08, 2026 08:40 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -152,11 +152,11 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>Store Commerce</application_name>
 		<bundleId>com.microsoft.storecommerce</bundleId>
-		<currentVersionReleaseDate>March 08, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/7b/ef/8f7bef3a-1e8b-f822-e0e5-a8f4645c6c09/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 01, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/d3/88/75d388b7-f27f-a302-317c-c7ec4ce65946/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>9.56.26063</version>
+		<version>9.56.26056</version>
 		<app_store_url>https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4</app_store_url>
 	</package>
 	<package>

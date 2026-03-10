@@ -1,4 +1,4 @@
-last_updated: March 09, 2026 08:36 PM EDT
+last_updated: March 09, 2026 09:38 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -257,11 +257,11 @@ packages:
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
     bundleId: com.microsoft.to-do
-    currentVersionReleaseDate: March 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/01/52/e101525b-283c-ff27-26b5-5da5e6919cd4/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '17.6'
+    currentVersionReleaseDate: November 12, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/91/e4/7491e4b5-0352-3c01-50f8-c3e6faa96056/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.6'
     releaseNotes: We fixed some bugs to improve the app experience.
-    version: '2.169'
+    version: '2.161'
     app_store_url: https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
@@ -324,14 +324,15 @@ packages:
   - name: iOS Microsoft Lens PDF Scanner
     application_name: CamScanner - PDF Scanner App
     bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: February 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/7e/3f/807e3fde-b4c4-9f7b-6f44-d7d01702c254/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/75/06/9d75065a-227e-c061-872a-595b8f1c53f1/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Create ID photos more easily, with more exports for Premium\
-      \ members.\n\xB7 Collage now lets you pinch to zoom and rotate images to fit\
-      \ various needs.\n\xB7 New reading mode in translation automatically reflows\
-      \ text to fit your screen for smoother mobile reading."
-    version: 7.12.0
+    releaseNotes: "\xB7 Improved full-screen preview for an edge-to-edge, distraction-free\
+      \ view.\n\xB7 Collage Enhanced: Pinch to zoom and rotate images to fit different\
+      \ needs.\n\xB7 Book Mode Optimized: Smoother auto page-turn capture for easier\
+      \ scanning.\n\xB7 Excel Conversion Improved: Detects and preserves stamps and\
+      \ images so key details aren't missed."
+    version: 7.13.0
     app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders

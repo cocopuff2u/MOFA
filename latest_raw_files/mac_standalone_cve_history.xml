@@ -1,6 +1,30 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>March 10, 2026 04:12 PM EDT</last_scan_date>
+    <last_scan_date>March 10, 2026 05:13 PM EDT</last_scan_date>
+    <Update>
+        <Date>March 10, 2026</Date>
+        <Version>Version 16.107 (Build 26030819)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2026-26107</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-26107</URL>
+                <CVE>CVE-2026-26108</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-26108</URL>
+                <CVE>CVE-2026-26109</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-26109</URL>
+                <CVE>CVE-2026-26112</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-26112</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2026-26110</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-26110</URL>
+                <CVE>CVE-2026-26113</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-26113</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>March 03, 2026</Date>
         <Version>Version 16.106.3 (Build 26030211)</Version>

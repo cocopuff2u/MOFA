@@ -1,4 +1,4 @@
-last_updated: March 10, 2026 02:22 AM EDT
+last_updated: March 10, 2026 03:21 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -12,11 +12,11 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: March 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/6b/5b/a36b5b38-5570-cda4-d5c1-9e5532fdf40c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/04/22/6d0422d4-adde-7c71-9463-d29471db8f88/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.106.3
+    version: '2.107'
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -42,15 +42,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: March 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/48/39/364839fb-521d-5ecb-6a02-de3b8c6f9d43/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/39/ef/f139ef4f-ab4e-18af-066e-4c3dc58276bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.106.3
+    version: '16.107'
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
@@ -105,29 +105,34 @@ packages:
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
-    currentVersionReleaseDate: February 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/36/5f/79365f19-27a9-b7e0-d0b3-3caaa75fc826/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f9/fc/0ff9fcad-6d47-3579-6025-2bf463f08898/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: '2.106'
+    version: '2.107'
     app_store_url: https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4
   - name: iOS Microsoft Warehouse Management
     application_name: Microsoft Warehouse Management
     bundleId: com.microsoft.WarehouseManagement
-    currentVersionReleaseDate: February 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/66/d4/a466d4c0-8979-346d-bd2f-a0e57b4ce7d7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/42/d1/6e42d18b-7579-1d33-1974-048c2d0eb4c0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "This version of the Warehouse Management mobile app introduces\
-      \ the following fixes and improvements:\n\u2022Fixed an issue that caused fields\
-      \ on the Custom Legacy page to be displayed incorrectly.\n\u2022Added support\
-      \ for on-premises environments on iOS.\n\u2022Fixed an issue where duplicate\
-      \ names in the XML caused connection failures. \n\u2022Fixed an issue where\
-      \ the Copilot summary was not refreshed.\n\u2022Fixed an issue where popup list\
-      \ item names were parsed incorrectly, causing an error.\n\u2022Fixed an issue\
-      \ where spinner values were reset incorrectly after an error occurred.\n\u2022\
-      Fixed an issue where sending multiple requests caused an application error.\
-      \ \n\u2022Improved error messages to provide better clarity for users."
-    version: 4.0.37
+      \ the following fixes and improvements:\n\u2022Fixed an issue that caused pages\
+      \ to render incorrectly when users navigated from the Item Inquiry page to Custom\
+      \ pages.\n\u2022Fixed an issue where the Back button did not clear previously\
+      \ selected data when navigating between Item Inquiry pages.\n\u2022Fixed an\
+      \ issue where the ConnectionSetting parameter was not taken in consideration\
+      \ in MDM environments\n\u2022Fixed an issue where browser shortcuts appeared\
+      \ when users scanned a value.\n\u2022Improved he diagnostic file collection\
+      \ flow. Users can now save share or save in a local folder, useful for kiosk\
+      \ mode situations.\n\u2022Fixed an issue where, on the Movement flow\u2019s\
+      \ Confirm page, users could not scan the license plate, only the last character\
+      \ of the barcode was shown.\n\u2022Fixed a visual issue where Work List tile\
+      \ headers were not parsed correctly when containing special characters.\n\u2022\
+      Fixed an issue in the Movement flow where the previous value was shown in the\
+      \ step banner on the wrong step."
+    version: 4.0.38
     app_store_url: https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4
   - name: iOS Microsoft Store Commerce
     application_name: Store Commerce

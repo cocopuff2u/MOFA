@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 10, 2026 01:25 AM EDT</last_updated>
+	<last_updated>March 10, 2026 02:22 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -104,22 +104,22 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<name>MacOS Microsoft To-Do</name>
 		<application_name>Microsoft To Do</application_name>
 		<bundleId>com.microsoft.to-do-mac</bundleId>
-		<currentVersionReleaseDate>March 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/ed/35/2aed3552-3b6e-9cb7-7f12-483ce923304f/AppIcon-Release-0-85-220-0-5-0-0-2x-sRGB-0-0.png/512x512bb.png</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
+		<currentVersionReleaseDate>October 10, 2025</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/6f/73/dc6f735a-d9fb-e2eb-bb0e-733a1dec0cad/AppIcon-Release-0-85-220-0-4-2x-sRGB.png/512x512bb.png</icon_image>
+		<minimumOsVersion>10.15</minimumOsVersion>
 		<releaseNotes>We fixed some bugs to improve the app experience.</releaseNotes>
-		<version>2.169</version>
+		<version>2.159</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-to-do/id1274495053?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft CoPilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot-mac</bundleId>
-		<currentVersionReleaseDate>March 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/70/c2/e970c2b9-b409-5a82-fd9b-cf857ec694c4/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>March 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/23/2e/c8232ee4-f890-b71f-e9cf-9ad0942cfc55/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>25.4.440307002</version>
+		<version>25.4.440227001</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

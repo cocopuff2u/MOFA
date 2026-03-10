@@ -1,4 +1,4 @@
-last_updated: March 10, 2026 11:26 AM EDT
+last_updated: March 10, 2026 12:29 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -76,14 +76,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 26059.603.4458.1070
-  full_version: 26059.603.4458.1070
-  last_updated: March 05, 2026
+  short_version: 26059.604.4471.2584
+  full_version: 26059.604.4471.2584
+  last_updated: March 09, 2026
   min_os: '13.0'
-  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26059.603.4458.1070/MicrosoftTeams.pkg
-  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26059.603.4458.1070/MicrosoftTeams.pkg
-  sha1: 05ff215e13f9f453cd9e4449ca7ae394b5c7baf7
-  sha256: b022d38eefafc06809e8ec8bb5145068017a6197a63cceb6857a7dee23c73f66
+  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26059.604.4471.2584/MicrosoftTeams.pkg
+  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26059.604.4471.2584/MicrosoftTeams.pkg
+  sha1: f9489fa337e2902975467a0427d887454025f60e
+  sha256: 8057135397aa2e8a59fada5b75090e0129dee9bb9415cd949c4d70271636053d
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app

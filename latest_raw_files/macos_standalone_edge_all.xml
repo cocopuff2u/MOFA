@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>March 11, 2026 04:13 PM EDT</last_updated>
+  <last_updated>March 11, 2026 05:16 PM EDT</last_updated>
   <Version>
     <Name>current</Name>
     <Version>145.0.3800.97</Version>
@@ -25,24 +25,24 @@
   </Version>
   <Version>
     <Name>dev</Name>
-    <Version>147.0.3890.0</Version>
+    <Version>147.0.3901.1</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d1fa377-be0d-4ede-a6fe-9a44dbb7c0ba/MicrosoftEdgeDev-147.0.3890.0.pkg</Full_Update_Download>
-    <Full_Update_Sha1>a7f47de6489fe951c1ffb695ad923926331adc6d</Full_Update_Sha1>
-    <Full_Update_Sha256>62b5ecd3631c09f0d6b9ecea338a9a2cc2fae2c509bd27830a7c71b56b821597</Full_Update_Sha256>
-    <Last_Update>March 03, 2026 07:35 PM EST</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d63b5a2-c452-4c4b-bbe7-5333a717d29e/MicrosoftEdgeDev-147.0.3901.1.pkg</Full_Update_Download>
+    <Full_Update_Sha1>73538c52571a4e814ad72a4ef58aa6a038782272</Full_Update_Sha1>
+    <Full_Update_Sha256>be5bfd701ac60812c1c4ce271278a83230f5cf499f8189991b6c4362e92acb2b</Full_Update_Sha256>
+    <Last_Update>March 11, 2026 05:13 PM EDT</Last_Update>
   </Version>
   <Version>
     <Name>beta</Name>
-    <Version>146.0.3856.49</Version>
+    <Version>146.0.3856.54</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>N/A</Full_Update_Download>
-    <Full_Update_Sha1>N/A</Full_Update_Sha1>
-    <Full_Update_Sha256>N/A</Full_Update_Sha256>
-    <Last_Update>March 09, 2026 02:21 PM EDT</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa47ddeb-2e86-440a-a4a2-211237d9a6c5/MicrosoftEdgeBeta-146.0.3856.54.pkg</Full_Update_Download>
+    <Full_Update_Sha1>9d81e887b2305de93e9015437962d61f5746d27b</Full_Update_Sha1>
+    <Full_Update_Sha256>02b1bea6df51768a72713b3c2bb6b34d5a0184bdf605045f9789c70d5899965d</Full_Update_Sha256>
+    <Last_Update>March 11, 2026 05:07 PM EDT</Last_Update>
   </Version>
 </EdgeInsiderVersions>

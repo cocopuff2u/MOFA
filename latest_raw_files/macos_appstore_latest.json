@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 11, 2026 02:24 PM EDT",
+    "last_updated": "March 11, 2026 03:21 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -27,22 +27,22 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "March 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/58/c8/a458c8ee-cf45-d2df-8d3f-f7bbad8dec0b/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/06/4a/85064a9d-5e47-1dfc-4e60-ea551b192913/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 Editing image in PowerPoint with Designer editor: The new Designer editor integration in PowerPoint brings a modern, intuitive image editing experience directly into your slides\u2014no need to switch apps or interrupt your workflow. Whether you're refining visuals for a pitch deck, enhancing marketing assets, or simply making your slides pop, the Designer editor makes it fast and seamless.",
-            "version": "16.107",
+            "releaseNotes": "\u2022 General quality and performance enhancements.",
+            "version": "16.106.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "March 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/13/ba/6813baa5-9ccc-eead-a54c-1fb2ec3d23a7/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f8/23/cdf823aa-68df-bb15-4973-38c3ca633081/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.107",
+            "releaseNotes": "\u2022 Fixed the cancellation behavior for basic reauthentication on On-Premises.\n\u2022 Resolved a regression impacting OnSend add-ins during save and send actions.\n\u2022 Enhanced drag-and-drop attachment functionality for accounts that do not support OneDrive.",
+            "version": "16.106.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {

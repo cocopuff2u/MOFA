@@ -1,6 +1,12 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>March 10, 2026 11:02 PM EDT</last_scan_date>
+    <last_scan_date>March 10, 2026 11:52 PM EDT</last_scan_date>
+    <release>
+        <date>March 10, 2026</date>
+        <version>16.107 (26030937)</version>
+        <outlook_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.107.26030937_Updater.pkg</outlook_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>March 10, 2026</date>
         <version>16.107 (26030819)</version>

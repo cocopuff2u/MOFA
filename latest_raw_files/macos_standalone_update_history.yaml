@@ -1,5 +1,9 @@
-last_scan_date: March 10, 2026 11:02 PM EDT
+last_scan_date: March 10, 2026 11:52 PM EDT
 releases:
+- date: March 10, 2026
+  version: 16.107 (26030937)
+  outlook_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.107.26030937_Updater.pkg
+  archive: 'false'
 - date: March 10, 2026
   version: 16.107 (26030819)
   word_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.107.26030819_Updater.pkg

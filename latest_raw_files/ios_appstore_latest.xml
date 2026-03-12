@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 11, 2026 09:40 PM EDT</last_updated>
+	<last_updated>March 11, 2026 11:05 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,13 +38,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>March 11, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/2a/68/7d2a6876-42c4-e9b2-c994-57f82b8d9dca/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 10, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/b5/20/d2b52073-b169-b041-7d8a-f0581fc6eef9/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2609.1</version>
+		<version>5.2609.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
@@ -373,17 +373,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>CamScanner - PDF Scanner App</application_name>
-		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>March 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/75/06/9d75065a-227e-c061-872a-595b8f1c53f1/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>· Improved full-screen preview for an edge-to-edge, distraction-free view.
-· Collage Enhanced: Pinch to zoom and rotate images to fit different needs.
-· Book Mode Optimized: Smoother auto page-turn capture for easier scanning.
-· Excel Conversion Improved: Detects and preserves stamps and images so key details aren't missed.</releaseNotes>
-		<version>7.13.0</version>
-		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
+		<application_name>Scanner ·</application_name>
+		<bundleId>scannerapp.free</bundleId>
+		<currentVersionReleaseDate>March 06, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/6b/76/f96b7622-2194-9ccf-a849-30013d1420bb/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.4</minimumOsVersion>
+		<releaseNotes>Bugfixes and performance improvements</releaseNotes>
+		<version>2.11.2</version>
+		<app_store_url>https://apps.apple.com/us/app/scanner/id1291962681?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

@@ -1,4 +1,4 @@
-last_updated: March 11, 2026 09:40 PM EDT
+last_updated: March 11, 2026 11:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: March 11, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/2a/68/7d2a6876-42c4-e9b2-c994-57f82b8d9dca/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/b5/20/d2b52073-b169-b041-7d8a-f0581fc6eef9/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2609.1
+    version: 5.2609.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -322,18 +322,14 @@ packages:
     version: 32.8.440228001
     app_store_url: https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: March 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/75/06/9d75065a-227e-c061-872a-595b8f1c53f1/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Improved full-screen preview for an edge-to-edge, distraction-free\
-      \ view.\n\xB7 Collage Enhanced: Pinch to zoom and rotate images to fit different\
-      \ needs.\n\xB7 Book Mode Optimized: Smoother auto page-turn capture for easier\
-      \ scanning.\n\xB7 Excel Conversion Improved: Detects and preserves stamps and\
-      \ images so key details aren't missed."
-    version: 7.13.0
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: "Scanner \xB7"
+    bundleId: scannerapp.free
+    currentVersionReleaseDate: March 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/6b/76/f96b7622-2194-9ccf-a849-30013d1420bb/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '15.4'
+    releaseNotes: Bugfixes and performance improvements
+    version: 2.11.2
+    app_store_url: https://apps.apple.com/us/app/scanner/id1291962681?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

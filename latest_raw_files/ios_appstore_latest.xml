@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 12, 2026 01:28 AM EDT</last_updated>
+	<last_updated>March 12, 2026 02:24 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -375,14 +375,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>CamScanner - PDF Scanner App</application_name>
 		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>March 12, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/4b/ce/2e4bce58-b2e8-d355-627e-d08c6ee96783/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 09, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/75/06/9d75065a-227e-c061-872a-595b8f1c53f1/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>13.0</minimumOsVersion>
 		<releaseNotes>· Improved full-screen preview for an edge-to-edge, distraction-free view.
 · Collage Enhanced: Pinch to zoom and rotate images to fit different needs.
 · Book Mode Optimized: Smoother auto page-turn capture for easier scanning.
 · Excel Conversion Improved: Detects and preserves stamps and images so key details aren't missed.</releaseNotes>
-		<version>7.13.1</version>
+		<version>7.13.0</version>
 		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>

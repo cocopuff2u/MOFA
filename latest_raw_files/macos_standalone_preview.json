@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 13, 2026 02:16 PM EDT",
+    "last_updated": "March 13, 2026 03:16 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -132,28 +132,28 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26012.0012",
-            "full_version": "101.26012.0012",
-            "last_updated": "February 18, 2026",
+            "short_version": "101.26012.0014",
+            "full_version": "101.26012.0014",
+            "last_updated": "March 12, 2026",
             "min_os": "12.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
-            "sha1": "124e83f1a5f816446894b074bae09c67b7fc219e",
-            "sha256": "d334b6d0c6f4f429c1f6892386ff77f99c4b1e5ec29d3e400e0989831fd5e84f"
+            "sha1": "8797df958c3e21a168b7cc254e098b6ec724ff9f",
+            "sha256": "513df34ce89653b315421fa2f87858a155841a4c3556bb8e60cfb16a900e01bb"
         },
         {
             "name": "Defender For Consumers",
             "application_id": "WDAVCONSUMER",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26012.0012",
-            "full_version": "101.26012.0012",
-            "last_updated": "February 18, 2026",
+            "short_version": "101.26012.0014",
+            "full_version": "101.26012.0014",
+            "last_updated": "March 12, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26012.0012_Individuals_Installer.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26012.0012_Individuals_Installer.pkg",
-            "sha1": "8a1dc4609509a1534db6daf6f96b06c530637b50",
-            "sha256": "88295d6d1d44b2fa4822ce959fb94ecf31a32cb79ea2afee02666e987c682238"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26012.0014_Individuals_Installer.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26012.0014_Individuals_Installer.pkg",
+            "sha1": "9a244c8fe2e7d5aa8f5913039ef7747a67b52829",
+            "sha256": "004edcdda354634279fbeeb20b521dfa97d708dd00516a7c1a82fe9ea4eac1e2"
         },
         {
             "name": "Defender Shim",
@@ -178,7 +178,7 @@
             "full_version": "1.112.0-insider",
             "last_updated": "March 13, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/51f72073e1b6fc11dc0444b8efe3671c516de06e/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/5bf5b2ae5d859d7ec9ef4563cafc790a47ad3cc5/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

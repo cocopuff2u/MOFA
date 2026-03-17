@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>March 17, 2026 11:28 AM EDT</last_updated>
+    <last_updated>March 17, 2026 12:30 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -166,32 +166,32 @@
         <application_id>WDAV00</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
-        <short_version>101.26012.0012</short_version>
-        <full_version>101.26012.0012</full_version>
-        <last_updated>February 18, 2026</last_updated>
+        <short_version>101.26012.0015</short_version>
+        <full_version>101.26012.0015</full_version>
+        <last_updated>March 13, 2026</last_updated>
         <min_os>12.0</min_os>
         <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg</app_only_update_download>
-        <app_update_sha1>124e83f1a5f816446894b074bae09c67b7fc219e</app_update_sha1>
-        <app_update_sha256>d334b6d0c6f4f429c1f6892386ff77f99c4b1e5ec29d3e400e0989831fd5e84f</app_update_sha256>
+        <app_update_sha1>ae2dfaa0ec4abf918c1fd2d63a050fff21908e1d</app_update_sha1>
+        <app_update_sha256>5e69feea9b3f725241051a6c036d2779e49ab3482060ed5ed6a676babf634c7f</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2097502</full_update_download>
-        <full_update_sha1>62397e998797a3180d410d422a474ca19adc5c0c</full_update_sha1>
-        <full_update_sha256>f6f9547edef2277d53e963acb79f41ee0b165e22652cbc8faccea03c2fd8a163</full_update_sha256>
+        <full_update_sha1>5552a05320e3a5ce018e6761e60eb512df005be1</full_update_sha1>
+        <full_update_sha256>cfd7b6b46d1a88511234365b4e8b1f817c8f7769712cfac9fca4d13f37c17119</full_update_sha256>
     </package>
     <package>
         <name>Defender for Consumers</name>
         <application_id>WDAVCONSUMER</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
-        <short_version>101.26012.0012</short_version>
-        <full_version>101.26012.0012</full_version>
-        <last_updated>February 18, 2026</last_updated>
+        <short_version>101.26012.0015</short_version>
+        <full_version>101.26012.0015</full_version>
+        <last_updated>March 13, 2026</last_updated>
         <min_os>12.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26012.0012_Individuals_Installer.pkg</app_only_update_download>
-        <app_update_sha1>8a1dc4609509a1534db6daf6f96b06c530637b50</app_update_sha1>
-        <app_update_sha256>88295d6d1d44b2fa4822ce959fb94ecf31a32cb79ea2afee02666e987c682238</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26012.0015_Individuals_Installer.pkg</app_only_update_download>
+        <app_update_sha1>3ee796d0106fcb0c3f62433346fc46283651fe7a</app_update_sha1>
+        <app_update_sha256>b97fc4c743f5b148f46650c714200d8694d70cc83bd83f09dec177b13837e9a3</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2247001</full_update_download>
-        <full_update_sha1>c4eff6b11d2ad3ba1f908006f6450f4dd331bc6b</full_update_sha1>
-        <full_update_sha256>fcd5c8b3456ca0eb5b8ab87f427176504548e0bc0774401a1b26977f18453f35</full_update_sha256>
+        <full_update_sha1>8a1dc4609509a1534db6daf6f96b06c530637b50</full_update_sha1>
+        <full_update_sha256>88295d6d1d44b2fa4822ce959fb94ecf31a32cb79ea2afee02666e987c682238</full_update_sha256>
     </package>
     <package>
         <name>Defender Shim</name>

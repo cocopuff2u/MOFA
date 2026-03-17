@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 17, 2026 01:31 PM EDT</last_updated>
+	<last_updated>March 17, 2026 02:26 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -250,14 +250,13 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge: AI Browser</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>March 17, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/b4/43/0cb4430c-5cdc-183c-d2e3-fab6ac3873ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 07, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/1e/b2/2a1eb229-203b-46eb-bd23-9ac6ed70adfd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Here's what's new in this release:
-• Introducing a smarter Search Box that lets you upload images and files to ask Copilot in one place.
-• Ask Copilot in PDFs: Quickly send selected text from the PDF context menu to Copilot for instant insights and assistance.
-Upgrade now to enjoy a smarter, faster, and more productive Microsoft Edge.</releaseNotes>
-		<version>146.3856.59</version>
+		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
+• Bug fixes, stability and performance improvements.
+Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
+		<version>145.3800.99</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
@@ -343,11 +342,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>March 17, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/42/1e/d1421ef0-22d4-047b-60df-1415f2e5b21f/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 10, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/f6/43/c6f64351-f106-1fc8-adb3-ba483266c398/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26032.10</version>
+		<version>3.26031.12</version>
 		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
@@ -363,14 +362,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>
-		<application_name>Microsoft Bing Search</application_name>
-		<bundleId>com.microsoft.bing</bundleId>
-		<currentVersionReleaseDate>March 04, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/46/45/f846454d-aa6d-a6c7-8f90-785a06cd3835/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.</releaseNotes>
-		<version>32.8.440228001</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4</app_store_url>
+		<application_name>Meta Ads Manager</application_name>
+		<bundleId>com.facebook.MAdMan</bundleId>
+		<currentVersionReleaseDate>March 12, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/b4/2a/16b42a2d-a07f-c80d-656b-e1c0621dac8b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.1</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance updates</releaseNotes>
+		<version>466</version>
+		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>

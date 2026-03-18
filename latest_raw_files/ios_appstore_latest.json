@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 18, 2026 03:28 AM EDT",
+    "last_updated": "March 18, 2026 04:21 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "March 16, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/2f/6d/102f6d56-16d3-ffbd-e60e-bd137f210fbf/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/13/33/98133310-cd05-1aef-a41c-b7eb9e698187/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2610.0",
+            "version": "5.2609.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -135,14 +135,14 @@
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
-            "application_name": "Dynamics 365 Sales",
-            "bundleId": "com.microsoft.dynamics.iphone.moca.sales",
-            "currentVersionReleaseDate": "November 11, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "application_name": "Dynamics 365 for phones",
+            "bundleId": "com.microsoft.dynamics.iphone.moca",
+            "currentVersionReleaseDate": "September 11, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "This version includes experience improvements and bug fixes so sellers can stay on top of their deals better than ever before.",
-            "version": "3.24104.15",
-            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4"
+            "releaseNotes": "\u2022 Bug fixes and performance improvements.",
+            "version": "13.24093.1",
+            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4"
         },
         {
             "name": "iOS Microsoft Lists",
@@ -280,11 +280,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "March 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/f6/43/c6f64351-f106-1fc8-adb3-ba483266c398/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 17, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/42/1e/d1421ef0-22d4-047b-60df-1415f2e5b21f/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.26031.12",
+            "version": "3.26032.10",
             "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {
@@ -300,25 +300,25 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Meta Ads Manager",
-            "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "March 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/b4/2a/16b42a2d-a07f-c80d-656b-e1c0621dac8b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.1",
-            "releaseNotes": "Bug fixes and performance updates",
-            "version": "466",
-            "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
+            "application_name": "Microsoft Bing Search",
+            "bundleId": "com.microsoft.bing",
+            "currentVersionReleaseDate": "March 04, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/46/45/f846454d-aa6d-a6c7-8f90-785a06cd3835/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.",
+            "version": "32.8.440228001",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Scanner App. JPG, Photo to PDF",
-            "bundleId": "app.scanz",
-            "currentVersionReleaseDate": "March 13, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5f/ec/9c5fec30-0f68-f625-d99a-488d55a90f27/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "16.4",
-            "releaseNotes": "- Bug fixes and performance improvements",
-            "version": "2.6.3",
-            "app_store_url": "https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4"
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
+            "currentVersionReleaseDate": "March 16, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/15/80/0815808e-feef-95ab-c609-be611a512fcd/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 PPT Conversion Upgraded: Take photos and convert to PPT in one tap.\n\u00b7 Improved full-screen preview for an edge-to-edge, distraction-free view.\n\u00b7 Book Mode Optimized: Smoother auto page-turn capture for easier scanning.\n\u00b7 Excel Conversion Improved: Detects and preserves stamps and images so key details aren't missed.",
+            "version": "7.13.5",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

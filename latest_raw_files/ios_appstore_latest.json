@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 18, 2026 05:24 AM EDT",
+    "last_updated": "March 18, 2026 06:24 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "March 13, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/13/33/98133310-cd05-1aef-a41c-b7eb9e698187/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 16, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/2f/6d/102f6d56-16d3-ffbd-e60e-bd137f210fbf/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2609.2",
+            "version": "5.2610.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -60,11 +60,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "March 02, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/ae/e9/a9aee983-0703-81c8-caca-f744b21d4434/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 17, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/cb/bb/41cbbbfe-7b1d-55cb-3704-769836261c68/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "16.34.3",
+            "releaseNotes": "We've been busy behind the scenes making OneDrive even better. Here's what's new and improved:\n\nNew\n\n- Blended gallery: Personal OneDrive users can now view photos shared by others directly in their Photos gallery alongside their own. A guided setup and sharer selection let you choose whose photos appear.\n- AI-powered Memories titles: Your Memories now feature AI-generated titles for a more personal touch (English only).\n- Photo stacks: Similar photos are now grouped into stacks by default, making your gallery easier to browse.\n\nImprovements & Fixes\n\n- RAW and Live photo badges: Spot your RAW and Live Photos at a glance with new badge indicators in the gallery and photo viewer.\n- Breadcrumb navigation for albums: Albums now show a breadcrumb trail so you always know where you are. Shared items also display \"Shared\" as the top-level breadcrumb when browsing from My Files, Shared, and Offline.\n- Open in Loop: Open Loop documents directly in the Microsoft Loop app, or get a prompt to download it if it's not installed.\n- GIF playback: GIF images now play automatically when you open them in the photo viewer.\n- Sharer's name in shared folders: When you browse into a folder someone shared with you, their name now appears in the header so you always know whose content you're viewing.\n- File type icons in grid view: Non-photo files now display their file type icon in the grid layout, making it easier to find what you're looking for.\n- Sharing controls for albums: Managing access to your shared albums now features a refreshed experience.\n- Notifications for shared photos and albums: When someone shares a photo or album with you, the push notification now shows a thumbnail preview.\n- In-app purchases: Clearer error messages for common purchase issues.\n- General performance and bug fixes.\n\nThanks for using OneDrive! We're always working to improve your experience. If you run into any issues, just shake your device and tap \"Send Feedback.\"",
+            "version": "16.35.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
         },
         {
@@ -135,14 +135,14 @@
         },
         {
             "name": "iOS Microsoft Dynamics 365 Sales",
-            "application_name": "Dynamics 365 for phones",
-            "bundleId": "com.microsoft.dynamics.iphone.moca",
-            "currentVersionReleaseDate": "September 11, 2024",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "application_name": "Dynamics 365 Sales",
+            "bundleId": "com.microsoft.dynamics.iphone.moca.sales",
+            "currentVersionReleaseDate": "November 11, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 Bug fixes and performance improvements.",
-            "version": "13.24093.1",
-            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4"
+            "releaseNotes": "This version includes experience improvements and bug fixes so sellers can stay on top of their deals better than ever before.",
+            "version": "3.24104.15",
+            "app_store_url": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4"
         },
         {
             "name": "iOS Microsoft Lists",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "March 17, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/65/98/5d659850-7778-8a52-e165-08dfd1b4f297/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "February 20, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/44/50/774450a9-74c5-b32c-121d-e3976ebca3cb/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "8.1.3",
+            "version": "8.1.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4"
         },
         {
@@ -300,14 +300,14 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Microsoft Bing Search",
-            "bundleId": "com.microsoft.bing",
-            "currentVersionReleaseDate": "March 04, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/46/45/f846454d-aa6d-a6c7-8f90-785a06cd3835/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.",
-            "version": "32.8.440228001",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4"
+            "application_name": "Meta Ads Manager",
+            "bundleId": "com.facebook.MAdMan",
+            "currentVersionReleaseDate": "March 12, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/b4/2a/16b42a2d-a07f-c80d-656b-e1c0621dac8b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "15.1",
+            "releaseNotes": "Bug fixes and performance updates",
+            "version": "466",
+            "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",

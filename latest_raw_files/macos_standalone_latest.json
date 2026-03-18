@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 18, 2026 02:30 AM EDT",
+    "last_updated": "March 18, 2026 03:27 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -246,16 +246,16 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2603 (0201)",
-            "full_version": "1.2603.0201",
-            "last_updated": "March 02, 2026",
+            "short_version": "1.2603 (0901)",
+            "full_version": "1.2603.0901",
+            "last_updated": "March 10, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2603.0201_Updater.pkg",
-            "app_update_sha1": "2fb2267c32b014dcc00e0aef09d3bec6a8752ccb",
-            "app_update_sha256": "8dc9ed3ab70d1c7485466a7e6d3c47c17770d3399fceda4593ce12374e5cbe99",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2603.0901_Updater.pkg",
+            "app_update_sha1": "5bc4e3172a01b38f46c00b35ba1967ac3bcb82c1",
+            "app_update_sha256": "3b87577ec35f48b0a4e90a3f21545d40fc51bb17b0f8e61685cc6f0cd1e750f5",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2325438",
-            "full_update_sha1": "f7958934c79c966b3b9c1db93e6323e92073acd6",
-            "full_update_sha256": "3e45d2d544cd5e2445fe1be9de1d187045934db95bb11bd0ccb6e159ed9b88e1"
+            "full_update_sha1": "558be74f0c031238eaea0c754dd56a0fa8d2a0df",
+            "full_update_sha256": "54f0d39b9485d09c40afb0a440498a56f42ca1e8651911d52c3b3d4a2984d43a"
         },
         {
             "name": "MAU",

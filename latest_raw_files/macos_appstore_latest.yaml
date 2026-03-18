@@ -1,4 +1,4 @@
-last_updated: March 17, 2026 11:09 PM EDT
+last_updated: March 18, 2026 12:44 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -105,10 +105,10 @@ packages:
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot-mac
     currentVersionReleaseDate: March 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/2c/c7/382cc711-efb5-4ac9-f96b-5d9bd6d975e4/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/c1/2f/9ac12ff3-eb21-5b08-5142-569ae3dc1c13/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: Bug fixes and performance improvements.
-    version: 25.6.440317001
+    version: 25.6.440316004
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&uo=4
   - name: MacOS Microsoft Azure VPN Client
     application_name: Azure VPN Client

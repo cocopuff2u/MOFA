@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 19, 2026 01:33 AM EDT</last_updated>
+	<last_updated>March 19, 2026 03:25 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -67,11 +67,32 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>March 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/ae/e9/a9aee983-0703-81c8-caca-f744b21d4434/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 17, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/cb/bb/41cbbbfe-7b1d-55cb-3704-769836261c68/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>16.34.3</version>
+		<releaseNotes>We've been busy behind the scenes making OneDrive even better. Here's what's new and improved:
+
+New
+
+- Blended gallery: Personal OneDrive users can now view photos shared by others directly in their Photos gallery alongside their own. A guided setup and sharer selection let you choose whose photos appear.
+- AI-powered Memories titles: Your Memories now feature AI-generated titles for a more personal touch (English only).
+- Photo stacks: Similar photos are now grouped into stacks by default, making your gallery easier to browse.
+
+Improvements &amp; Fixes
+
+- RAW and Live photo badges: Spot your RAW and Live Photos at a glance with new badge indicators in the gallery and photo viewer.
+- Breadcrumb navigation for albums: Albums now show a breadcrumb trail so you always know where you are. Shared items also display &quot;Shared&quot; as the top-level breadcrumb when browsing from My Files, Shared, and Offline.
+- Open in Loop: Open Loop documents directly in the Microsoft Loop app, or get a prompt to download it if it's not installed.
+- GIF playback: GIF images now play automatically when you open them in the photo viewer.
+- Sharer's name in shared folders: When you browse into a folder someone shared with you, their name now appears in the header so you always know whose content you're viewing.
+- File type icons in grid view: Non-photo files now display their file type icon in the grid layout, making it easier to find what you're looking for.
+- Sharing controls for albums: Managing access to your shared albums now features a refreshed experience.
+- Notifications for shared photos and albums: When someone shares a photo or album with you, the push notification now shows a thumbnail preview.
+- In-app purchases: Clearer error messages for common purchase issues.
+- General performance and bug fixes.
+
+Thanks for using OneDrive! We're always working to improve your experience. If you run into any issues, just shake your device and tap &quot;Send Feedback.&quot;</releaseNotes>
+		<version>16.35.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>

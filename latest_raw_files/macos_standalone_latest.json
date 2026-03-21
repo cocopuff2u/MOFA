@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 20, 2026 09:38 PM EDT",
+    "last_updated": "March 20, 2026 11:00 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -166,15 +166,15 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26012.0015",
-            "full_version": "101.26012.0015",
-            "last_updated": "March 13, 2026",
+            "short_version": "101.26012.0017",
+            "full_version": "101.26012.0017",
+            "last_updated": "March 20, 2026",
             "min_os": "12.0",
             "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg",
             "app_update_sha1": "ae2dfaa0ec4abf918c1fd2d63a050fff21908e1d",
-            "app_update_sha256": "5e69feea9b3f725241051a6c036d2779e49ab3482060ed5ed6a676babf634c7f",
+            "app_update_sha256": "2f520063b49cf4fe564f0aabf55323c1fa113e213e31a3f32d0e9d76510d0c5f",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2097502",
-            "full_update_sha1": "5552a05320e3a5ce018e6761e60eb512df005be1",
+            "full_update_sha1": "77ec6d5c2cccbf8c894ffe8289fbb5da8837f97a",
             "full_update_sha256": "cfd7b6b46d1a88511234365b4e8b1f817c8f7769712cfac9fca4d13f37c17119"
         },
         {
@@ -182,16 +182,16 @@
             "application_id": "WDAVCONSUMER",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26012.0015",
-            "full_version": "101.26012.0015",
-            "last_updated": "March 13, 2026",
+            "short_version": "101.26012.0017",
+            "full_version": "101.26012.0017",
+            "last_updated": "March 20, 2026",
             "min_os": "12.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26012.0015_Individuals_Installer.pkg",
-            "app_update_sha1": "3ee796d0106fcb0c3f62433346fc46283651fe7a",
-            "app_update_sha256": "b97fc4c743f5b148f46650c714200d8694d70cc83bd83f09dec177b13837e9a3",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26012.0017_Individuals_Installer.pkg",
+            "app_update_sha1": "238a932bf714242bdc98c96f01925571493e40e7",
+            "app_update_sha256": "59e3254ead49bce7763762277162d305c888bc6ea60e42fbeabf97a40f9e047c",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2247001",
-            "full_update_sha1": "8a1dc4609509a1534db6daf6f96b06c530637b50",
-            "full_update_sha256": "88295d6d1d44b2fa4822ce959fb94ecf31a32cb79ea2afee02666e987c682238"
+            "full_update_sha1": "3ee796d0106fcb0c3f62433346fc46283651fe7a",
+            "full_update_sha256": "b97fc4c743f5b148f46650c714200d8694d70cc83bd83f09dec177b13837e9a3"
         },
         {
             "name": "Defender Shim",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 22, 2026 12:42 AM EDT",
+    "last_updated": "March 22, 2026 01:29 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -91,14 +91,14 @@
         },
         {
             "name": "iOS Microsoft Copilot",
-            "application_name": "Microsoft Copilot AI Assistant",
+            "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot",
             "currentVersionReleaseDate": "March 20, 2026",
             "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c0/d6/bac0d6df-bfcc-81f2-aca9-545d09ce8a0d/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
             "version": "30.0.440319003",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot-ai-assistant/id6472538445?uo=4"
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "CamScanner - PDF Scanner App",
-            "bundleId": "com.intsig.CamScannerLite",
-            "currentVersionReleaseDate": "March 16, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/15/80/0815808e-feef-95ab-c609-be611a512fcd/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "13.0",
-            "releaseNotes": "\u00b7 PPT Conversion Upgraded: Take photos and convert to PPT in one tap.\n\u00b7 Improved full-screen preview for an edge-to-edge, distraction-free view.\n\u00b7 Book Mode Optimized: Smoother auto page-turn capture for easier scanning.\n\u00b7 Excel Conversion Improved: Detects and preserves stamps and images so key details aren't missed.",
-            "version": "7.13.5",
-            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
+            "application_name": "Scanner App. JPG, Photo to PDF",
+            "bundleId": "app.scanz",
+            "currentVersionReleaseDate": "March 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5f/ec/9c5fec30-0f68-f625-d99a-488d55a90f27/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "16.4",
+            "releaseNotes": "- Bug fixes and performance improvements",
+            "version": "2.6.3",
+            "app_store_url": "https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

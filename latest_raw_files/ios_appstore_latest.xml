@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 22, 2026 07:09 AM EDT</last_updated>
+	<last_updated>March 22, 2026 08:15 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -384,28 +384,25 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>
-		<application_name>Microsoft Bing Search</application_name>
-		<bundleId>com.microsoft.bing</bundleId>
-		<currentVersionReleaseDate>March 04, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/46/45/f846454d-aa6d-a6c7-8f90-785a06cd3835/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.</releaseNotes>
-		<version>32.8.440228001</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4</app_store_url>
+		<application_name>Meta Ads Manager</application_name>
+		<bundleId>com.facebook.MAdMan</bundleId>
+		<currentVersionReleaseDate>March 12, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/b4/2a/16b42a2d-a07f-c80d-656b-e1c0621dac8b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.1</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance updates</releaseNotes>
+		<version>466</version>
+		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>CamScanner - PDF Scanner App</application_name>
-		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>March 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/15/80/0815808e-feef-95ab-c609-be611a512fcd/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>· PPT Conversion Upgraded: Take photos and convert to PPT in one tap.
-· Improved full-screen preview for an edge-to-edge, distraction-free view.
-· Book Mode Optimized: Smoother auto page-turn capture for easier scanning.
-· Excel Conversion Improved: Detects and preserves stamps and images so key details aren't missed.</releaseNotes>
-		<version>7.13.5</version>
-		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
+		<application_name>Scanner App. JPG, Photo to PDF</application_name>
+		<bundleId>app.scanz</bundleId>
+		<currentVersionReleaseDate>March 13, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5f/ec/9c5fec30-0f68-f625-d99a-488d55a90f27/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.4</minimumOsVersion>
+		<releaseNotes>- Bug fixes and performance improvements</releaseNotes>
+		<version>2.6.3</version>
+		<app_store_url>https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>
@@ -464,16 +461,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Outlook</application_name>
-		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>March 20, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/81/b2/eb81b2b6-f12f-32e7-fee3-b019c7187154/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft 365 Copilot</application_name>
+		<bundleId>com.microsoft.officemobile</bundleId>
+		<currentVersionReleaseDate>March 19, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/30/f4/4030f45c-7ffd-3f1c-86fc-2bea97d8fc2b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
-
-Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2610.1</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
+		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
+		<version>2.108.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

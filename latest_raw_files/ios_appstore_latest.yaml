@@ -1,4 +1,4 @@
-last_updated: March 22, 2026 02:13 PM EDT
+last_updated: March 22, 2026 03:12 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -190,11 +190,11 @@ packages:
   - name: iOS Microsoft Store Commerce
     application_name: Store Commerce
     bundleId: com.microsoft.storecommerce
-    currentVersionReleaseDate: March 15, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/fc/90/16fc908a-cf13-7018-8275-777c04b1f526/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 22, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/3f/eb/ef3febbb-9cb6-58c9-6d0f-1fc2e198089c/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and performance improvements.
-    version: 9.56.26068
+    version: 9.56.26077
     app_store_url: https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
@@ -375,14 +375,18 @@ packages:
     version: '466'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: Scanner App. JPG, Photo to PDF
-    bundleId: app.scanz
-    currentVersionReleaseDate: March 13, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5f/ec/9c5fec30-0f68-f625-d99a-488d55a90f27/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.4'
-    releaseNotes: '- Bug fixes and performance improvements'
-    version: 2.6.3
-    app_store_url: https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: March 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/15/80/0815808e-feef-95ab-c609-be611a512fcd/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 PPT Conversion Upgraded: Take photos and convert to PPT in\
+      \ one tap.\n\xB7 Improved full-screen preview for an edge-to-edge, distraction-free\
+      \ view.\n\xB7 Book Mode Optimized: Smoother auto page-turn capture for easier\
+      \ scanning.\n\xB7 Excel Conversion Improved: Detects and preserves stamps and\
+      \ images so key details aren't missed."
+    version: 7.13.5
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders
@@ -432,14 +436,17 @@ packages:
     version: 2.1.4
     app_store_url: https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft 365 Copilot
-    bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: March 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/30/f4/4030f45c-7ffd-3f1c-86fc-2bea97d8fc2b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    application_name: Microsoft Outlook
+    bundleId: com.microsoft.Office.Outlook
+    currentVersionReleaseDate: March 20, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/81/b2/eb81b2b6-f12f-32e7-fee3-b019c7187154/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.108.1
-    app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
+    releaseNotes: "This update includes performance improvements and bug fixes to\
+      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
+      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
+      \ you."
+    version: 5.2610.1
+    app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

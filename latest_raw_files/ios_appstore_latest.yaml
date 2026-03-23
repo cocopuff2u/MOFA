@@ -1,4 +1,4 @@
-last_updated: March 23, 2026 06:12 PM EDT
+last_updated: March 23, 2026 07:13 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -12,20 +12,20 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: March 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/c3/28/94c328d9-8a56-e81a-07e8-498a5ebe8928/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/23/40/6623406b-74e3-3045-9a89-bbed9c169af7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.107.2
+    version: 2.107.1
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: March 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/46/d9/4746d934-c28a-87d5-1d86-78abb5c7f477/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/f2/74/9cf27414-3b5e-892f-2e21-2b8021f28535/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.107.2
+    version: 2.107.1
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -320,11 +320,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: March 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/6c/a8/446ca8f6-d4dd-cfed-2b2c-4d52f844a12a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fc/66/86fc66bc-b777-27a8-56e9-82ddcd5c1168/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.5.1
+    version: 8.5.0
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint

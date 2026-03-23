@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 23, 2026 09:37 AM EDT",
+    "last_updated": "March 23, 2026 10:30 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -178,7 +178,7 @@
             "full_version": "1.113.0-insider",
             "last_updated": "March 23, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/2b44ec5c3fcd5788a7fb6abaa231c6659018babc/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/59b7facd314893d11cc8298572f655c451d92cea/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

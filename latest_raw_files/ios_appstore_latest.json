@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 25, 2026 03:21 PM EDT",
+    "last_updated": "March 25, 2026 05:16 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -300,24 +300,24 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Microsoft Bing Search",
-            "bundleId": "com.microsoft.bing",
-            "currentVersionReleaseDate": "March 04, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/46/45/f846454d-aa6d-a6c7-8f90-785a06cd3835/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.",
-            "version": "32.8.440228001",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4"
+            "application_name": "Meta Ads Manager",
+            "bundleId": "com.facebook.MAdMan",
+            "currentVersionReleaseDate": "March 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/3e/5c/b43e5cde-ca50-0266-c618-56a6bf586a55/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "15.1",
+            "releaseNotes": "Bug fixes and performance updates",
+            "version": "467.0",
+            "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
             "application_name": "CamScanner - PDF Scanner App",
             "bundleId": "com.intsig.CamScannerLite",
-            "currentVersionReleaseDate": "March 16, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/15/80/0815808e-feef-95ab-c609-be611a512fcd/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 25, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/2b/20/7a2b2005-16f7-8e45-c3ce-6f446785d98b/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u00b7 PPT Conversion Upgraded: Take photos and convert to PPT in one tap.\n\u00b7 Improved full-screen preview for an edge-to-edge, distraction-free view.\n\u00b7 Book Mode Optimized: Smoother auto page-turn capture for easier scanning.\n\u00b7 Excel Conversion Improved: Detects and preserves stamps and images so key details aren't missed.",
-            "version": "7.13.5",
+            "releaseNotes": "\u00b7 Polishing the little things to keep your workflow seamless.",
+            "version": "7.14.0",
             "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 25, 2026 05:23 AM EDT</last_updated>
+	<last_updated>March 25, 2026 06:22 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -154,19 +154,20 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Warehouse Management</name>
 		<application_name>Microsoft Warehouse Management</application_name>
 		<bundleId>com.microsoft.WarehouseManagement</bundleId>
-		<currentVersionReleaseDate>March 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/42/d1/6e42d18b-7579-1d33-1974-048c2d0eb4c0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 24, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/c0/5e/57c05eea-27db-98f9-6506-64ce2bda782a/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This version of the Warehouse Management mobile app introduces the following fixes and improvements:
-•Fixed an issue that caused pages to render incorrectly when users navigated from the Item Inquiry page to Custom pages.
-•Fixed an issue where the Back button did not clear previously selected data when navigating between Item Inquiry pages.
-•Fixed an issue where the ConnectionSetting parameter was not taken in consideration in MDM environments
-•Fixed an issue where browser shortcuts appeared when users scanned a value.
-•Improved he diagnostic file collection flow. Users can now save share or save in a local folder, useful for kiosk mode situations.
-•Fixed an issue where, on the Movement flow’s Confirm page, users could not scan the license plate, only the last character of the barcode was shown.
-•Fixed a visual issue where Work List tile headers were not parsed correctly when containing special characters.
-•Fixed an issue in the Movement flow where the previous value was shown in the step banner on the wrong step.</releaseNotes>
-		<version>4.0.38</version>
+• Improved authentication for iOS.
+• Fixed an issue where a toast message blocked scanning on iOS.
+• Implemented new scrollable details card settings.  This option allows the details card to be scrolled, so you can view more information on one screen. The scrollable details card is designed for larger screens. On smaller devices, the feature may not work as expected. On smaller screens, switching to landscape mode may reduce the available space, which could affect scrollable behavior.
+• Fixed an issue where the keyboard covered the bottom buttons on the Edit Connection page on iOS
+• Fixed an issue that caused the error message to be displayed twice consecutively during blind cycle count.
+• Fixed an issue that caused random animation crashes on older devices.
+• Expanded device compatibility to allow more device types to install the app.
+• Improved performance.
+• Fix bug where step banner displayed the generic placeholder &quot;Scan or enter here&quot; instead of showing the value from the step.</releaseNotes>
+		<version>4.0.39</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4</app_store_url>
 	</package>
 	<package>

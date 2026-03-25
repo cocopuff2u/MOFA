@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 24, 2026 08:40 PM EDT",
+    "last_updated": "March 24, 2026 09:39 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Microsoft Edge: AI Browser",
             "bundleId": "com.microsoft.msedge",
-            "currentVersionReleaseDate": "March 24, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/54/1d/ab541db4-4848-c693-edbc-82dfe5e05732/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 17, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/b4/43/0cb4430c-5cdc-183c-d2e3-fab6ac3873ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Welcome to Microsoft Edge! Here's what's new in this release:\n\u2022 Introducing a smarter Search Box that lets you upload images and files to ask Copilot in one place.\n\u2022 Ask Copilot in PDFs: Quickly send selected text from the PDF context menu to Copilot for instant insights and assistance.\nUpgrade now to enjoy a smarter, faster, and more productive Microsoft Edge.",
-            "version": "146.3856.77",
+            "version": "146.3856.59",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4"
         },
         {

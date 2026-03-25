@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 25, 2026 07:20 AM EDT",
+    "last_updated": "March 25, 2026 08:24 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Warehouse Management",
             "application_name": "Microsoft Warehouse Management",
             "bundleId": "com.microsoft.WarehouseManagement",
-            "currentVersionReleaseDate": "March 24, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/c0/5e/57c05eea-27db-98f9-6506-64ce2bda782a/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "March 09, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/42/d1/6e42d18b-7579-1d33-1974-048c2d0eb4c0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "This version of the Warehouse Management mobile app introduces the following fixes and improvements:\n\u2022 Improved authentication for iOS.\n\u2022 Fixed an issue where a toast message blocked scanning on iOS.\n\u2022 Implemented new scrollable details card settings.\u00a0 This option allows the details card to be scrolled, so you can view more information on one screen. The scrollable details card is designed for larger screens. On smaller devices, the feature may not work as expected. On smaller screens, switching to landscape mode may reduce the available space, which could affect scrollable behavior.\n\u2022 Fixed an issue where the keyboard covered the bottom buttons on the Edit Connection page on iOS\n\u2022 Fixed an issue that caused the error message to be displayed twice consecutively during blind cycle count.\n\u2022 Fixed an issue that caused random animation crashes on older devices.\n\u2022 Expanded device compatibility to allow more device types to install the app.\n\u2022 Improved performance.\n\u2022 Fix bug where step banner displayed the generic placeholder \"Scan or enter here\" instead of showing the value from the step.",
-            "version": "4.0.39",
+            "releaseNotes": "This version of the Warehouse Management mobile app introduces the following fixes and improvements:\n\u2022Fixed an issue that caused pages to render incorrectly when users navigated from the Item Inquiry page to Custom pages.\n\u2022Fixed an issue where the Back button did not clear previously selected data when navigating between Item Inquiry pages.\n\u2022Fixed an issue where the ConnectionSetting parameter was not taken in consideration in MDM environments\n\u2022Fixed an issue where browser shortcuts appeared when users scanned a value.\n\u2022Improved he diagnostic file collection flow. Users can now save share or save in a local folder, useful for kiosk mode situations.\n\u2022Fixed an issue where, on the Movement flow\u2019s Confirm page, users could not scan the license plate, only the last character of the barcode was shown.\n\u2022Fixed a visual issue where Work List tile headers were not parsed correctly when containing special characters.\n\u2022Fixed an issue in the Movement flow where the previous value was shown in the step banner on the wrong step.",
+            "version": "4.0.38",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4"
         },
         {
@@ -300,14 +300,14 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Microsoft Bing Search",
-            "bundleId": "com.microsoft.bing",
-            "currentVersionReleaseDate": "March 04, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/46/45/f846454d-aa6d-a6c7-8f90-785a06cd3835/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.",
-            "version": "32.8.440228001",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4"
+            "application_name": "Meta Ads Manager",
+            "bundleId": "com.facebook.MAdMan",
+            "currentVersionReleaseDate": "March 12, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/b4/2a/16b42a2d-a07f-c80d-656b-e1c0621dac8b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "15.1",
+            "releaseNotes": "Bug fixes and performance updates",
+            "version": "466",
+            "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",

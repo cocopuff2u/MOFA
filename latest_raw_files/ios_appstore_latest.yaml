@@ -1,4 +1,4 @@
-last_updated: March 26, 2026 01:28 PM EDT
+last_updated: March 26, 2026 04:14 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -337,14 +337,14 @@ packages:
     version: 4.55.4
     app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Business Central
-    application_name: Dynamics 365 for phones
-    bundleId: com.microsoft.dynamics.iphone.moca
-    currentVersionReleaseDate: September 11, 2024
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '14.0'
-    releaseNotes: "\u2022 Bug fixes and performance improvements."
-    version: 13.24093.1
-    app_store_url: https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4
+    application_name: Dynamics 365 Business Central
+    bundleId: com.microsoft.dynamics.ProjectMadeira
+    currentVersionReleaseDate: March 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/27/dd/4827dddc-01ba-e5ab-60c5-6b38ee8677f4/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '15.0'
+    releaseNotes: Business Central icon 2026
+    version: '4.5'
+    app_store_url: https://apps.apple.com/us/app/dynamics-365-business-central/id1093325047?uo=4
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps

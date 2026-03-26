@@ -17,6 +17,7 @@ APP_GENERATION="2019"
 DOWNLOAD_2019="https://go.microsoft.com/fwlink/?linkid=525137"
 DOWNLOAD_2016="https://go.microsoft.com/fwlink/?linkid=871753"
 OS_VERSION=$(sw_vers -productVersion)
+SECURITY_ITEM_NOT_FOUND=44
 
 GetLoggedInUser() {
 	LOGGEDIN=$(/bin/echo "show State:/Users/ConsoleUser" | /usr/sbin/scutil | /usr/bin/awk '/Name :/&&!/loginwindow/{print $3}')
@@ -142,16 +143,44 @@ FindEntryExchange() {
 	echo $?
 }
 
+HandleSecurityDeleteResult() {
+	local status="$1"
+	local item_kind="$2"
+	local item_name="$3"
+	local output="$4"
+
+	if [[ "$status" -eq 0 || "$status" -eq "$SECURITY_ITEM_NOT_FOUND" ]]; then
+		return 0
+	fi
+
+	echo "Office-Reset: Failed to delete ${item_kind} '${item_name}' from the keychain: ${output}" >&2
+	return $status
+}
+
+RequireSuccessfulDelete() {
+	"$@"
+	local status=$?
+	if [[ $status -ne 0 ]]; then
+		exit $status
+	fi
+}
+
 DeleteInternetPasswordIfPresent() {
-	/usr/bin/security delete-internet-password -s "$1" 2> /dev/null || true
+	local output
+	output=$(/usr/bin/security delete-internet-password -s "$1" 2>&1)
+	HandleSecurityDeleteResult $? "internet password" "$1" "$output"
 }
 
 DeleteGenericPasswordIfPresent() {
-	/usr/bin/security delete-generic-password -l "$1" 2> /dev/null || true
+	local output
+	output=$(/usr/bin/security delete-generic-password -l "$1" 2>&1)
+	HandleSecurityDeleteResult $? "generic password label" "$1" "$output"
 }
 
-DeleteGenericPasswordByTypeIfPresent() {
-	/usr/bin/security delete-generic-password -G "$1" 2> /dev/null || true
+DeleteGenericPasswordByGenericAttributeIfPresent() {
+	local output
+	output=$(/usr/bin/security delete-generic-password -G "$1" 2>&1)
+	HandleSecurityDeleteResult $? "generic password attribute" "$1" "$output"
 }
 
 ## Main
@@ -244,31 +273,31 @@ fi
 echo "Display list-keychains for logged-in user"
 /usr/bin/security list-keychains
 
-DeleteInternetPasswordIfPresent 'msoCredentialSchemeADAL'
-DeleteInternetPasswordIfPresent 'msoCredentialSchemeLiveId'
 while [[ $(FindEntryOpenTech) -eq 0 ]]; do
-	DeleteGenericPasswordByTypeIfPresent 'MSOpenTech.ADAL.1'
+	RequireSuccessfulDelete DeleteGenericPasswordByGenericAttributeIfPresent 'MSOpenTech.ADAL.1'
 done
-DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 2'
-DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 3'
-DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 2'
-DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 3'
-DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache'
-DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache 2'
-DeleteGenericPasswordIfPresent 'com.microsoft.adalcache'
-DeleteGenericPasswordIfPresent 'com.microsoft.OutlookCore.Secret'
+RequireSuccessfulDelete DeleteInternetPasswordIfPresent 'msoCredentialSchemeADAL'
+RequireSuccessfulDelete DeleteInternetPasswordIfPresent 'msoCredentialSchemeLiveId'
+RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 2'
+RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 3'
+RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 2'
+RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 3'
+RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache'
+RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache 2'
+RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'com.microsoft.adalcache'
+RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'com.microsoft.OutlookCore.Secret'
 while [[ $(FindEntryHelpShift) -eq 0 ]]; do
-	DeleteGenericPasswordIfPresent 'com.helpshift.data_com.microsoft.Outlook'
+	RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'com.helpshift.data_com.microsoft.Outlook'
 done
 while [[ $(FindEntryRMSCredential) -eq 0 ]]; do
-	DeleteGenericPasswordIfPresent 'MicrosoftOfficeRMSCredential'
+	RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'MicrosoftOfficeRMSCredential'
 done
 while [[ $(FindEntryProtectionService) -eq 0 ]]; do
-	DeleteGenericPasswordIfPresent 'MSProtection.framework.service'
+	RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'MSProtection.framework.service'
 done
 
 while [[ $(FindEntryExchange) -eq 0 ]]; do
-	DeleteGenericPasswordIfPresent 'Exchange'
+	RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Exchange'
 done
 
 exit 0

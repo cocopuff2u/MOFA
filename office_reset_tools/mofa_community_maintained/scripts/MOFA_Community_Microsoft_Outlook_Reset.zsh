@@ -17,7 +17,8 @@ APP_GENERATION="2019"
 DOWNLOAD_2019="https://go.microsoft.com/fwlink/?linkid=525137"
 DOWNLOAD_2016="https://go.microsoft.com/fwlink/?linkid=871753"
 OS_VERSION=$(sw_vers -productVersion)
-SECURITY_ITEM_NOT_FOUND=44
+SECURITY_ITEM_NOT_FOUND=44 # `security delete-*` returns exit status 44 ("item not found" / errSecItemNotFound); safe to treat as success on supported macOS versions (see `man security`).
+KEYCHAIN_DELETE_FAILURE=0
 
 GetLoggedInUser() {
 	LOGGEDIN=$(/bin/echo "show State:/Users/ConsoleUser" | /usr/sbin/scutil | /usr/bin/awk '/Name :/&&!/loginwindow/{print $3}')
@@ -157,30 +158,37 @@ HandleSecurityDeleteResult() {
 	return $status
 }
 
-RequireSuccessfulDelete() {
+RunDeleteCommand() {
 	"$@"
 	local status=$?
-	if [[ $status -ne 0 ]]; then
-		exit $status
+	if [[ $status -ne 0 && $KEYCHAIN_DELETE_FAILURE -eq 0 ]]; then
+		KEYCHAIN_DELETE_FAILURE=$status
 	fi
+	return $status
 }
 
 DeleteInternetPasswordIfPresent() {
 	local output
+	local status
 	output=$(/usr/bin/security delete-internet-password -s "$1" 2>&1)
-	HandleSecurityDeleteResult $? "internet password" "$1" "$output"
+	status=$?
+	HandleSecurityDeleteResult $status "internet password" "$1" "$output"
 }
 
 DeleteGenericPasswordIfPresent() {
 	local output
+	local status
 	output=$(/usr/bin/security delete-generic-password -l "$1" 2>&1)
-	HandleSecurityDeleteResult $? "generic password label" "$1" "$output"
+	status=$?
+	HandleSecurityDeleteResult $status "generic password label" "$1" "$output"
 }
 
 DeleteGenericPasswordByGenericAttributeIfPresent() {
 	local output
+	local status
 	output=$(/usr/bin/security delete-generic-password -G "$1" 2>&1)
-	HandleSecurityDeleteResult $? "generic password attribute" "$1" "$output"
+	status=$?
+	HandleSecurityDeleteResult $status "generic password attribute" "$1" "$output"
 }
 
 ## Main
@@ -274,30 +282,35 @@ echo "Display list-keychains for logged-in user"
 /usr/bin/security list-keychains
 
 while [[ $(FindEntryOpenTech) -eq 0 ]]; do
-	RequireSuccessfulDelete DeleteGenericPasswordByGenericAttributeIfPresent 'MSOpenTech.ADAL.1'
+	RunDeleteCommand DeleteGenericPasswordByGenericAttributeIfPresent 'MSOpenTech.ADAL.1' || break
 done
-RequireSuccessfulDelete DeleteInternetPasswordIfPresent 'msoCredentialSchemeADAL'
-RequireSuccessfulDelete DeleteInternetPasswordIfPresent 'msoCredentialSchemeLiveId'
-RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 2'
-RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 3'
-RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 2'
-RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 3'
-RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache'
-RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache 2'
-RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'com.microsoft.adalcache'
-RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'com.microsoft.OutlookCore.Secret'
+RunDeleteCommand DeleteInternetPasswordIfPresent 'msoCredentialSchemeADAL'
+RunDeleteCommand DeleteInternetPasswordIfPresent 'msoCredentialSchemeLiveId'
+RunDeleteCommand DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 2'
+RunDeleteCommand DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 3'
+RunDeleteCommand DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 2'
+RunDeleteCommand DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 3'
+RunDeleteCommand DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache'
+RunDeleteCommand DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache 2'
+RunDeleteCommand DeleteGenericPasswordIfPresent 'com.microsoft.adalcache'
+RunDeleteCommand DeleteGenericPasswordIfPresent 'com.microsoft.OutlookCore.Secret'
 while [[ $(FindEntryHelpShift) -eq 0 ]]; do
-	RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'com.helpshift.data_com.microsoft.Outlook'
+	RunDeleteCommand DeleteGenericPasswordIfPresent 'com.helpshift.data_com.microsoft.Outlook' || break
 done
 while [[ $(FindEntryRMSCredential) -eq 0 ]]; do
-	RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'MicrosoftOfficeRMSCredential'
+	RunDeleteCommand DeleteGenericPasswordIfPresent 'MicrosoftOfficeRMSCredential' || break
 done
 while [[ $(FindEntryProtectionService) -eq 0 ]]; do
-	RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'MSProtection.framework.service'
+	RunDeleteCommand DeleteGenericPasswordIfPresent 'MSProtection.framework.service' || break
 done
 
 while [[ $(FindEntryExchange) -eq 0 ]]; do
-	RequireSuccessfulDelete DeleteGenericPasswordIfPresent 'Exchange'
+	RunDeleteCommand DeleteGenericPasswordIfPresent 'Exchange' || break
 done
+
+if [[ $KEYCHAIN_DELETE_FAILURE -ne 0 ]]; then
+	echo "Office-Reset: Completed with one or more keychain deletion errors" >&2
+	exit $KEYCHAIN_DELETE_FAILURE
+fi
 
 exit 0

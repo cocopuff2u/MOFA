@@ -19,6 +19,7 @@ DOWNLOAD_2016="https://go.microsoft.com/fwlink/?linkid=871753"
 OS_VERSION=$(sw_vers -productVersion)
 SECURITY_ITEM_NOT_FOUND=44 # `security delete-*` returns exit status 44 ("item not found" / errSecItemNotFound); safe to treat as success on supported macOS versions (see `man security`).
 KEYCHAIN_DELETE_FAILURE=0
+STRICT_KEYCHAIN_DELETE_FAILURES=${STRICT_KEYCHAIN_DELETE_FAILURES:-0}
 
 GetLoggedInUser() {
 	LOGGEDIN=$(/bin/echo "show State:/Users/ConsoleUser" | /usr/sbin/scutil | /usr/bin/awk '/Name :/&&!/loginwindow/{print $3}')
@@ -310,7 +311,9 @@ done
 
 if [[ $KEYCHAIN_DELETE_FAILURE -ne 0 ]]; then
 	echo "Office-Reset: Completed with one or more keychain deletion errors" >&2
-	exit $KEYCHAIN_DELETE_FAILURE
+	if [[ "$STRICT_KEYCHAIN_DELETE_FAILURES" == "1" ]]; then
+		exit $KEYCHAIN_DELETE_FAILURE
+	fi
 fi
 
 exit 0

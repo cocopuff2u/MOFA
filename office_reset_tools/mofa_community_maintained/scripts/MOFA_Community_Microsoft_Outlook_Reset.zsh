@@ -213,7 +213,7 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/FontCache
 /bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/ComRPC32
 /bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/TemporaryItems
-/bin/rm -f $HOME/Library/Group\ Containers/UBF8T346G9.Office/Microsoft\ Office\ ACL*
+/bin/rm -f $HOME/Library/Group\ Containers/UBF8T346G9.Office/Microsoft\ Office\ ACL*(N)
 /bin/rm -f $HOME/Library/Group\ Containers/UBF8T346G9.Office/MicrosoftRegistrationDB.reg
 
 /bin/rm -rf $TMPDIR/com.microsoft.Outlook

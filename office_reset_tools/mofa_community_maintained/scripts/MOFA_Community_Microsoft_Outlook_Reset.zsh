@@ -142,6 +142,18 @@ FindEntryExchange() {
 	echo $?
 }
 
+DeleteInternetPasswordIfPresent() {
+	/usr/bin/security delete-internet-password -s "$1" 2> /dev/null || true
+}
+
+DeleteGenericPasswordIfPresent() {
+	/usr/bin/security delete-generic-password -l "$1" 2> /dev/null || true
+}
+
+DeleteGenericPasswordByTypeIfPresent() {
+	/usr/bin/security delete-generic-password -G "$1" 2> /dev/null || true
+}
+
 ## Main
 LoggedInUser=$(GetLoggedInUser)
 SetHomeFolder "$LoggedInUser"
@@ -213,7 +225,10 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/FontCache
 /bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/ComRPC32
 /bin/rm -rf $HOME/Library/Group\ Containers/UBF8T346G9.Office/TemporaryItems
-/bin/rm -f $HOME/Library/Group\ Containers/UBF8T346G9.Office/Microsoft\ Office\ ACL*(N)
+OfficeAclFiles=($HOME/Library/Group\ Containers/UBF8T346G9.Office/Microsoft\ Office\ ACL*(N))
+if (( ${#OfficeAclFiles[@]} )); then
+	/bin/rm -f "${OfficeAclFiles[@]}"
+fi
 /bin/rm -f $HOME/Library/Group\ Containers/UBF8T346G9.Office/MicrosoftRegistrationDB.reg
 
 /bin/rm -rf $TMPDIR/com.microsoft.Outlook
@@ -229,31 +244,31 @@ fi
 echo "Display list-keychains for logged-in user"
 /usr/bin/security list-keychains
 
-/usr/bin/security delete-internet-password -s 'msoCredentialSchemeADAL'
-/usr/bin/security delete-internet-password -s 'msoCredentialSchemeLiveId'
+DeleteInternetPasswordIfPresent 'msoCredentialSchemeADAL'
+DeleteInternetPasswordIfPresent 'msoCredentialSchemeLiveId'
 while [[ $(FindEntryOpenTech) -eq 0 ]]; do
-	/usr/bin/security delete-generic-password -G 'MSOpenTech.ADAL.1'
+	DeleteGenericPasswordByTypeIfPresent 'MSOpenTech.ADAL.1'
 done
-/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Cache 2'
-/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Cache 3'
-/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Settings 2'
-/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Settings 3'
-/usr/bin/security delete-generic-password -l 'Microsoft Office Ticket Cache'
-/usr/bin/security delete-generic-password -l 'Microsoft Office Ticket Cache 2'
-/usr/bin/security delete-generic-password -l 'com.microsoft.adalcache'
-/usr/bin/security delete-generic-password -l 'com.microsoft.OutlookCore.Secret'
+DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 2'
+DeleteGenericPasswordIfPresent 'Microsoft Office Identities Cache 3'
+DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 2'
+DeleteGenericPasswordIfPresent 'Microsoft Office Identities Settings 3'
+DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache'
+DeleteGenericPasswordIfPresent 'Microsoft Office Ticket Cache 2'
+DeleteGenericPasswordIfPresent 'com.microsoft.adalcache'
+DeleteGenericPasswordIfPresent 'com.microsoft.OutlookCore.Secret'
 while [[ $(FindEntryHelpShift) -eq 0 ]]; do
-	/usr/bin/security delete-generic-password -l 'com.helpshift.data_com.microsoft.Outlook'
+	DeleteGenericPasswordIfPresent 'com.helpshift.data_com.microsoft.Outlook'
 done
 while [[ $(FindEntryRMSCredential) -eq 0 ]]; do
-	/usr/bin/security delete-generic-password -l 'MicrosoftOfficeRMSCredential'
+	DeleteGenericPasswordIfPresent 'MicrosoftOfficeRMSCredential'
 done
 while [[ $(FindEntryProtectionService) -eq 0 ]]; do
-	/usr/bin/security delete-generic-password -l 'MSProtection.framework.service'
+	DeleteGenericPasswordIfPresent 'MSProtection.framework.service'
 done
 
 while [[ $(FindEntryExchange) -eq 0 ]]; do
-	/usr/bin/security delete-generic-password -l 'Exchange'
+	DeleteGenericPasswordIfPresent 'Exchange'
 done
 
 exit 0

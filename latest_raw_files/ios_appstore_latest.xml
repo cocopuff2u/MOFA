@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>March 26, 2026 05:13 PM EDT</last_updated>
+	<last_updated>March 26, 2026 06:10 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -387,11 +387,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Meta Ads Manager</application_name>
 		<bundleId>com.facebook.MAdMan</bundleId>
-		<currentVersionReleaseDate>March 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/ed/9c/72ed9c04-1989-c7a3-2138-110d32e4c14e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 24, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/3e/5c/b43e5cde-ca50-0266-c618-56a6bf586a55/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.1</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance updates</releaseNotes>
-		<version>468.0</version>
+		<version>467.0</version>
 		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>

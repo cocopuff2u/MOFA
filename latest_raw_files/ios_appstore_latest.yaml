@@ -1,4 +1,4 @@
-last_updated: March 28, 2026 07:11 AM EDT
+last_updated: March 28, 2026 09:25 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -218,11 +218,11 @@ packages:
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
-    currentVersionReleaseDate: February 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/96/85/ea9685af-e064-b33e-9f5a-30bde6599245/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 27, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/31/c7/2831c7c3-6244-a56d-0a61-5420ff8c44b3/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Minor updates, bug fixes, and performance improvements.
-    version: 13.26021.9
+    version: 13.26021.11
     app_store_url: https://apps.apple.com/us/app/dynamics-365-field-service/id1485579247?uo=4
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage

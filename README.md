@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 30, 2026 01:50 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 30, 2026 02:46 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -126,7 +126,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 30, 2026 01:50 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 30, 2026 02:46 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -150,15 +150,15 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 30, 2026 01:50 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 30, 2026 02:46 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
 | Microsoft Word | `2.107.2` | `com.microsoft.Office.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/c6/b1/e6c6b13f-693b-f9bf-4eda-18a193a06edd/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Word" width="40"> |
 | Microsoft Excel | `2.107.2` | `com.microsoft.Office.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/c3/28/94c328d9-8a56-e81a-07e8-498a5ebe8928/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Excel" width="40"> |
-| Microsoft PowerPoint | `2.107.2` | `com.microsoft.Office.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/46/d9/4746d934-c28a-87d5-1d86-78abb5c7f477/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft PowerPoint" width="40"> |
+| Microsoft PowerPoint | `2.107.3` | `com.microsoft.Office.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/cf/02/d8cf0299-e659-d1e0-32d8-a5f73c5339a1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `5.2611.1` | `com.microsoft.Office.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/9b/ad/999bad52-d12d-d885-f173-51a3d71bb44a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Outlook" width="40"> |
-| Microsoft OneNote | `16.107.3` | `com.microsoft.onenote` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/16/89/f91689cc-fea0-e12e-4cd3-f5bd4541f249/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft OneNote" width="40"> |
+| Microsoft OneNote | `16.107.2` | `com.microsoft.onenote` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/b7/42/87b742a7-a99d-911e-acce-f3e376af7572/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft OneNote" width="40"> |
 | Microsoft OneDrive | `16.35.2` | `com.microsoft.skydrive` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/cb/bb/41cbbbfe-7b1d-55cb-3704-769836261c68/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
 | Windows App Mobile | `11.2.5` | `com.microsoft.rdc.ios` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/95/21/339521a0-181c-987b-fca4-161a61a47fb4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Windows App Mobile" width="40"> |
 | Microsoft Defender: Security | `1.1.75040101` | `com.microsoft.scmx` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/ff/10/4cff1045-659e-681d-63ac-f22c1829f94f/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Defender: Security" width="40"> |
@@ -184,7 +184,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Meta Ads Manager | `468.0` | `com.facebook.MAdMan` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/ed/9c/72ed9c04-1989-c7a3-2138-110d32e4c14e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Meta Ads Manager" width="40"> |
 | CamScanner - PDF Scanner App | `7.14.0` | `com.intsig.CamScannerLite` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/2b/20/7a2b2005-16f7-8e45-c3ce-6f446785d98b/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg" alt="CamScanner - PDF Scanner App" width="40"> |
 | Work Folders | `2.2.0` | `com.microsoft.workfolders` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/46/15/ed46150c-83ff-e2bc-4caa-8b5948d65bd2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" alt="Work Folders" width="40"> |
-| Microsoft Power BI | `37.1` | `com.microsoft.powerbimobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/9e/1d/689e1ddc-7bb3-2b8c-25cf-48e3119e3e04/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |
+| Microsoft Power BI | `37.2` | `com.microsoft.powerbimobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/4d/8e/844d8ea6-8594-540e-ef5f-29f5d5943df0/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |
 | Microsoft 365 Admin | `5.7.2` | `com.microsoft.o365shdmobileapp` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0d/b8/e10db871-3c82-f649-3686-5eb88efa87aa/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft 365 Admin" width="40"> |
 | Intune Company Portal | `5.2602.0` | `com.microsoft.CompanyPortal` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/47/d0/0147d08c-ecec-9acf-40af-c074cd0ca013/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Intune Company Portal" width="40"> |
 | Azure Information Protection | `2.1.4` | `com.microsoft.rms-sharing` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/d8/9df6d87e-66ad-d6ab-aad9-d030ef4aa9cb/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Azure Information Protection" width="40"> |

@@ -1,4 +1,4 @@
-last_updated: March 30, 2026 01:03 AM EDT
+last_updated: March 30, 2026 01:50 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -42,15 +42,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: March 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/b7/42/87b742a7-a99d-911e-acce-f3e376af7572/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/16/89/f91689cc-fea0-e12e-4cd3-f5bd4541f249/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.107.2
+    version: 16.107.3
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
@@ -395,12 +395,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: March 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/4d/8e/844d8ea6-8594-540e-ef5f-29f5d5943df0/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 15, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/9e/1d/689e1ddc-7bb3-2b8c-25cf-48e3119e3e04/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: '- Now you can ask Copilot questions inside your reports to gain
-      deeper insights into your data.'
-    version: '37.2'
+    releaseNotes: "- Improved stability and fixed various bugs.\u200B"
+    version: '37.1'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin

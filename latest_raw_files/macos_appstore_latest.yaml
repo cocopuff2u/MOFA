@@ -1,4 +1,4 @@
-last_updated: March 31, 2026 02:25 PM EDT
+last_updated: March 31, 2026 03:27 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -12,11 +12,11 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: March 31, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/6f/e4/086fe481-449b-2405-2167-07d16cac1ea3/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: March 24, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/4c/5f/d84c5f89-499b-2e77-bbd6-50810e399f42/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.107.3
+    version: 16.107.2
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -52,13 +52,13 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: January 30, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/8b/05/698b050b-306a-a0e2-5792-17828c61345e/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: March 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/fe/b8/8bfeb84e-5f6b-94c0-084b-f0a30dc00650/OneDrive.png/512x512bb.png
     minimumOsVersion: '13.0'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 26.002.0105
+    version: 26.040.0301
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
     application_name: RMS Sharing

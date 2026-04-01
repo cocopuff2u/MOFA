@@ -1,4 +1,4 @@
-last_updated: April 01, 2026 06:16 PM EDT
+last_updated: April 01, 2026 07:16 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -89,10 +89,10 @@ packages:
     version: 1.1.75040101
     app_store_url: https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4
   - name: iOS Microsoft Copilot
-    application_name: Microsoft Copilot AI Assistant
+    application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot
-    currentVersionReleaseDate: April 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/26/28/b42628df-cc58-92c5-47cc-52d47912f4b9/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/14/eb/1914ebe9-41f0-0c9d-a3bb-d670ec9acb36/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Introducing the New Copilot: Your AI Companion
 
@@ -103,8 +103,8 @@ packages:
 
       Copilot Daily: Start your day with a news and weather summary. Clean, simple,
       and easy to digest.'
-    version: 30.0.440401002
-    app_store_url: https://apps.apple.com/us/app/microsoft-copilot-ai-assistant/id6472538445?uo=4
+    version: 30.0.440325003
+    app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -383,11 +383,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: April 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/7c/47/447c47f9-7f5c-35b2-e257-2997ec2390bf/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/00/68/7f006843-4e55-9e6c-b37b-8e6d8653303c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.108.3
+    version: 2.108.2
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

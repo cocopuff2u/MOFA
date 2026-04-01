@@ -1,4 +1,4 @@
-last_updated: April 01, 2026 02:43 AM EDT
+last_updated: April 01, 2026 03:37 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -55,64 +55,14 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: March 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/cb/bb/41cbbbfe-7b1d-55cb-3704-769836261c68/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 31, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/98/85/cf9885d7-fe35-d886-b93e-b9fdba0cf32b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: 'We''ve been busy behind the scenes making OneDrive even better.
-      Here''s what''s new and improved:
-
-
-      New
-
-
-      - Blended gallery: Personal OneDrive users can now view photos shared by others
-      directly in their Photos gallery alongside their own. A guided setup and sharer
-      selection let you choose whose photos appear.
-
-      - AI-powered Memories titles: Your Memories now feature AI-generated titles
-      for a more personal touch (English only).
-
-      - Photo stacks: Similar photos are now grouped into stacks by default, making
-      your gallery easier to browse.
-
-
-      Improvements & Fixes
-
-
-      - RAW and Live photo badges: Spot your RAW and Live Photos at a glance with
-      new badge indicators in the gallery and photo viewer.
-
-      - Breadcrumb navigation for albums: Albums now show a breadcrumb trail so you
-      always know where you are. Shared items also display "Shared" as the top-level
-      breadcrumb when browsing from My Files, Shared, and Offline.
-
-      - Open in Loop: Open Loop documents directly in the Microsoft Loop app, or get
-      a prompt to download it if it''s not installed.
-
-      - GIF playback: GIF images now play automatically when you open them in the
-      photo viewer.
-
-      - Sharer''s name in shared folders: When you browse into a folder someone shared
-      with you, their name now appears in the header so you always know whose content
-      you''re viewing.
-
-      - File type icons in grid view: Non-photo files now display their file type
-      icon in the grid layout, making it easier to find what you''re looking for.
-
-      - Sharing controls for albums: Managing access to your shared albums now features
-      a refreshed experience.
-
-      - Notifications for shared photos and albums: When someone shares a photo or
-      album with you, the push notification now shows a thumbnail preview.
-
-      - In-app purchases: Clearer error messages for common purchase issues.
-
-      - General performance and bug fixes.
-
-
-      Thanks for using OneDrive! We''re always working to improve your experience.
-      If you run into any issues, just shake your device and tap "Send Feedback."'
-    version: 16.35.2
+    releaseNotes: We would like to let our users know that we are planning on dropping
+      support for the OneDrive app on iOS 17 and iPadOS 17 versions soon. Please ensure
+      you're on one of the later versions of iOS/iPadOS (18 or 26) to make sure you're
+      still able to access the latest version of the OneDrive app.
+    version: 16.36.4
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
@@ -346,11 +296,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: March 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/14/60/55146037-b32d-d3da-7ee6-18dd6ade7f14/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: March 31, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/50/64/c75064cf-9eb9-c3e0-48a9-4cf7a3ded021/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.26033.12
+    version: 3.26034.11
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator

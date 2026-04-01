@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 01, 2026 01:23 PM EDT",
+    "last_updated": "April 01, 2026 02:25 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -49,11 +49,11 @@
             "name": "MacOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote.mac",
-            "currentVersionReleaseDate": "March 31, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/c9/4e/63c94e86-8395-c24a-4897-dd03f4c13f63/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/b9/d5/d6b9d511-4572-5e6a-a8d1-6aeeb50c0642/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.\nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.107.3",
+            "version": "16.107.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "last_updated": "March 31, 2026 09:39 PM EDT",
+    "last_updated": "March 31, 2026 11:11 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "March 31, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/0e/ba/520eba16-a2b7-b353-c44a-a3f8309f59ed/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "March 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/0c/56/4e0c5695-23f2-d23e-6a61-6897a489844e/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.107.3",
+            "version": "16.107.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {

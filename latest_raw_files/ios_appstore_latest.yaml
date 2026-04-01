@@ -1,4 +1,4 @@
-last_updated: April 01, 2026 11:34 AM EDT
+last_updated: April 01, 2026 01:23 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -82,11 +82,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: March 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/ff/10/4cff1045-659e-681d-63ac-f22c1829f94f/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/21/9c/38219cf6-d788-a35b-ccac-1649f83114a0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Bug fixes and Improvements
-    version: 1.1.75040101
+    version: 1.1.75270101
     app_store_url: https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
@@ -278,11 +278,11 @@ packages:
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: February 10, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/cd/d8/a0cdd882-b3b5-8847-c5e3-c235d9d7b016/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: March 31, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/7b/61/b97b619c-18b5-5918-6e6b-109381e5d669/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.6'
     releaseNotes: Stability improvements and fixes.
-    version: 4.55.4
+    version: 5.0.0
     app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Business Central
     application_name: Dynamics 365 Business Central

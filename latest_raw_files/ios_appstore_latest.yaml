@@ -1,4 +1,4 @@
-last_updated: April 04, 2026 04:18 AM EDT
+last_updated: April 04, 2026 05:18 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -89,7 +89,7 @@ packages:
     version: 1.1.75270101
     app_store_url: https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4
   - name: iOS Microsoft Copilot
-    application_name: Microsoft Copilot
+    application_name: Microsoft Copilot AI Assistant
     bundleId: com.microsoft.copilot
     currentVersionReleaseDate: April 02, 2026
     icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/ac/e2/6eace2fe-96d3-d302-75ce-47f477dc23d7/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
@@ -104,7 +104,7 @@ packages:
       Copilot Daily: Start your day with a news and weather summary. Clean, simple,
       and easy to digest.'
     version: 30.0.440402001
-    app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4
+    app_store_url: https://apps.apple.com/us/app/microsoft-copilot-ai-assistant/id6472538445?uo=4
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
@@ -237,11 +237,12 @@ packages:
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile
-    currentVersionReleaseDate: April 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/56/8a/c7568a5c-04f9-5e91-a2f3-9986abc3e485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: February 20, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/78/c9/fa78c99d-ea2d-e409-6fd1-8d3efeb11cc3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: Bug fixes and performance improvements.
-    version: 1.17.15
+    releaseNotes: We regularly release updates to the app, which include improvements
+      for speed and reliability.
+    version: 1.17.14
     app_store_url: https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
@@ -304,13 +305,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: March 10, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/19/44/731944ac-0096-c458-8969-c6b8ce4cf4a8/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 03, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/12/3b/30123ba1-af82-2f0c-b465-a63337e2ee7a/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
-      improvements.  Make sure you stay updated with the latest version for the best
+      improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.43
+    version: 6.8.44
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
     application_name: Meta Ads Manager

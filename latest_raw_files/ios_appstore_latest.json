@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 04, 2026 12:13 PM EDT",
+    "last_updated": "April 04, 2026 01:13 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -214,11 +214,11 @@
             "name": "iOS Microsoft Planner",
             "application_name": "Microsoft Planner",
             "bundleId": "com.microsoft.PlannerMobile",
-            "currentVersionReleaseDate": "February 20, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/78/c9/fa78c99d-ea2d-e409-6fd1-8d3efeb11cc3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/56/8a/c7568a5c-04f9-5e91-a2f3-9986abc3e485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "We regularly release updates to the app, which include improvements for speed and reliability.",
-            "version": "1.17.14",
+            "releaseNotes": "Bug fixes and performance improvements.",
+            "version": "1.17.15",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4"
         },
         {
@@ -247,11 +247,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "March 23, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/6c/a8/446ca8f6-d4dd-cfed-2b2c-4d52f844a12a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/10/0f/6b100f89-0b27-811b-00df-040b482c6900/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "8.5.1",
+            "version": "8.6.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens: Translate & Image Search",
-            "bundleId": "com.searchdodo.ios",
-            "currentVersionReleaseDate": "March 16, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/97/3d/d2973def-ec62-f57f-3aa7-27b7b51b794b/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.6",
-            "releaseNotes": "Bug fixes and performance improvements",
-            "version": "3.1.7",
-            "app_store_url": "https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4"
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
+            "currentVersionReleaseDate": "March 30, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/ed/57/2bed573b-24f5-1ef9-1133-39ad4684993e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 Polishing the little things to keep your workflow seamless.",
+            "version": "7.14.5",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>April 03, 2026 08:40 PM EDT</last_updated>
+	<last_updated>April 03, 2026 09:39 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>April 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/2c/25/712c2562-3108-e1e8-48e9-5665710bba2f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>March 31, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/98/85/cf9885d7-fe35-d886-b93e-b9fdba0cf32b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>We would like to let our users know that we are planning on dropping support for the OneDrive app on iOS 17 and iPadOS 17 versions soon. Please ensure you're on one of the later versions of iOS/iPadOS (18 or 26) to make sure you're still able to access the latest version of the OneDrive app.</releaseNotes>
-		<version>16.36.5</version>
+		<version>16.36.4</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -106,7 +106,7 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 	</package>
 	<package>
 		<name>iOS Microsoft Copilot</name>
-		<application_name>Microsoft Copilot</application_name>
+		<application_name>Microsoft Copilot AI Assistant</application_name>
 		<bundleId>com.microsoft.copilot</bundleId>
 		<currentVersionReleaseDate>April 02, 2026</currentVersionReleaseDate>
 		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/ac/e2/6eace2fe-96d3-d302-75ce-47f477dc23d7/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
@@ -116,7 +116,7 @@ This update includes an intuitive design with more digestible and faster answers
 Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
 Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
 		<version>30.0.440402001</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4</app_store_url>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot-ai-assistant/id6472538445?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Loop</name>
@@ -275,11 +275,11 @@ Upgrade to the latest version and enjoy a smarter and more efficient Microsoft E
 		<name>iOS Microsoft Planner</name>
 		<application_name>Microsoft Planner</application_name>
 		<bundleId>com.microsoft.PlannerMobile</bundleId>
-		<currentVersionReleaseDate>April 03, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/56/8a/c7568a5c-04f9-5e91-a2f3-9986abc3e485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>February 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/78/c9/fa78c99d-ea2d-e409-6fd1-8d3efeb11cc3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>1.17.15</version>
+		<releaseNotes>We regularly release updates to the app, which include improvements for speed and reliability.</releaseNotes>
+		<version>1.17.14</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4</app_store_url>
 	</package>
 	<package>
@@ -374,14 +374,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>CamScanner - PDF Scanner App</application_name>
-		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>March 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/ed/57/2bed573b-24f5-1ef9-1133-39ad4684993e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>· Polishing the little things to keep your workflow seamless.</releaseNotes>
-		<version>7.14.5</version>
-		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
+		<application_name>Lens: Translate &amp; Image Search</application_name>
+		<bundleId>com.searchdodo.ios</bundleId>
+		<currentVersionReleaseDate>March 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/97/3d/d2973def-ec62-f57f-3aa7-27b7b51b794b/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.6</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>3.1.7</version>
+		<app_store_url>https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

@@ -1,4 +1,4 @@
-last_updated: April 04, 2026 09:27 AM EDT
+last_updated: April 04, 2026 10:15 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -237,12 +237,11 @@ packages:
   - name: iOS Microsoft Planner
     application_name: Microsoft Planner
     bundleId: com.microsoft.PlannerMobile
-    currentVersionReleaseDate: February 20, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/78/c9/fa78c99d-ea2d-e409-6fd1-8d3efeb11cc3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 03, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/56/8a/c7568a5c-04f9-5e91-a2f3-9986abc3e485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: We regularly release updates to the app, which include improvements
-      for speed and reliability.
-    version: 1.17.14
+    releaseNotes: Bug fixes and performance improvements.
+    version: 1.17.15
     app_store_url: https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure

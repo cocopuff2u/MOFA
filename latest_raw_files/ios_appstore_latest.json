@@ -1,5 +1,5 @@
 {
-    "last_updated": "April 04, 2026 07:12 PM EDT",
+    "last_updated": "April 04, 2026 08:47 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -291,11 +291,11 @@
             "name": "iOS Microsoft Authenticator",
             "application_name": "Microsoft Authenticator",
             "bundleId": "com.microsoft.azureauthenticator",
-            "currentVersionReleaseDate": "March 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/19/44/731944ac-0096-c458-8969-c6b8ce4cf4a8/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "April 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/12/3b/30123ba1-af82-2f0c-b465-a63337e2ee7a/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "We're always working on new features, bug fixes, and performance improvements.  Make sure you stay updated with the latest version for the best authentication experience.",
-            "version": "6.8.43",
+            "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
+            "version": "6.8.44",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4"
         },
         {

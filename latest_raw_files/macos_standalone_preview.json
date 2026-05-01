@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 01, 2026 05:39 AM EDT",
+    "last_updated": "May 01, 2026 06:36 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -188,14 +188,14 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2604 (2102)",
-            "full_version": "1.2604.2102",
+            "short_version": "1.2604 (2103)",
+            "full_version": "1.2604.2103",
             "last_updated": "April 22, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2604.2102_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2604.2102_Updater.pkg",
-            "sha1": "0e6a9789ffd7f8aa309769c03df61f3f60add0c6",
-            "sha256": "0a244f592c50999ed29aea2ba6ee625b5c38c7169a9464eef25ac4a4a8b8a8e6"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2604.2103_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2604.2103_Updater.pkg",
+            "sha1": "05308d3ed5c28e4225821b924a0122c54fd5a96e",
+            "sha256": "302603f2ad751f41b0179494f56ae5beac6e23937992c6c7702be4a58abc70e0"
         },
         {
             "name": "MAU",

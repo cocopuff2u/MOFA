@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 01, 2026 08:53 PM EDT",
+    "last_updated": "May 01, 2026 09:40 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -258,11 +258,11 @@
             "name": "iOS Microsoft Sharepoint",
             "application_name": "Microsoft SharePoint",
             "bundleId": "com.microsoft.sharepoint",
-            "currentVersionReleaseDate": "March 31, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/7b/61/b97b619c-18b5-5918-6e6b-109381e5d669/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.6",
+            "currentVersionReleaseDate": "April 30, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/57/22/e3572210-1147-9a7f-0a88-c3006b053d47/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "18.6",
             "releaseNotes": "Stability improvements and fixes.",
-            "version": "5.0.0",
+            "version": "5.0.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4"
         },
         {

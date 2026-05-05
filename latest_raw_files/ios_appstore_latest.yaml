@@ -1,4 +1,4 @@
-last_updated: May 05, 2026 03:37 PM EDT
+last_updated: May 05, 2026 04:30 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -72,31 +72,38 @@ packages:
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
     bundleId: com.microsoft.rdc.ios
-    currentVersionReleaseDate: May 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/6d/e3/f06de3f8-0224-ee8a-aaa6-5945239fd75f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/02/51/1202518b-aeee-b085-adb0-6fdbd38b6960/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: "In this release we fixed some crashes and made the following updates:\n\
-      \n\u2022 Fixed a bug that caused the \"Updating remote session display\" to\
-      \ not dismiss.\n\u2022 Ensured that the Surface Arc Mouse is able to reset the\
-      \ display auto-lock timer. \n\u2022 Resolved an Intune deadlock encountered\
-      \ at app launch.\n\nIf you encounter any errors, you can contact us via Settings\
-      \ > Submit Feedback."
-    version: 11.3.1
+    releaseNotes: "It's time for a refresh! We've made some updates to the app UI\
+      \ as a result of upgrading to the new iOS SDK. Here's what's new:\n\n\u2022\
+      \ Incorporated Liquid Glass styling and elements throughout the app!\n\u2022\
+      \ Added a new Personalization section (under Settings) to customize how the\
+      \ app looks and feels.\n\u2022 The Favorites page has moved. You can now find\
+      \ your favorite devices and apps pinned to the top of the Devices and Apps pages\
+      \ respectively.\n\u2022 Gracefully handled errors encountered when connecting\
+      \ to a Windows Cloud Input Protection-enabled PC endpoint.\n\nWe've also added\
+      \ support for audio and video stream optimizations when connecting to Azure\
+      \ Virtual Desktop (AVD) session hosts that support Teams redirection (see  https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd\
+      \ for more details).\n\nNote that starting from this release we only support\
+      \ iOS 26.\n\nIf you encounter any errors, you can contact us via Settings >\
+      \ Submit Feedback."
+    version: 11.3.0
     app_store_url: https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: May 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/a2/f8/d8a2f8ad-3de7-c1c8-2731-3fba03c412fa/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 24, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/a6/bb/ffa6bb38-839d-78b1-a7d5-e87ef5e5f1a2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and improvements
-    version: 1.1.76270101
+    version: 1.1.76200101
     app_store_url: https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot
-    currentVersionReleaseDate: May 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/cf/e1/a0cfe1d3-d322-7304-3691-9b8a76f4b35e/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: April 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/44/cd/2a44cd77-a334-6589-7a6c-5cd63a443eec/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Introducing the New Copilot: Your AI Companion
 
@@ -107,7 +114,7 @@ packages:
 
       Copilot Daily: Start your day with a news and weather summary. Clean, simple,
       and easy to digest.'
-    version: 30.0.440505001
+    version: 30.0.440427001
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
@@ -301,11 +308,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: May 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4b/e7/f14be7b2-1618-3303-db39-ae61bb8609c6/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: April 27, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/db/b1/39dbb190-9c47-ee66-a613-1a99d81d9ad0/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.26044.10
+    version: 3.26043.16
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator

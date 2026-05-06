@@ -1,4 +1,4 @@
-last_updated: May 05, 2026 08:51 PM EDT
+last_updated: May 05, 2026 09:40 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: April 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/8b/ad/838badba-26df-32a9-e76f-40efecfaf825/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/3c/9d/193c9de4-4497-a298-292a-c52ebbacbedd/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2616.0
+    version: 5.2617.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -308,11 +308,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: April 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/db/b1/39dbb190-9c47-ee66-a613-1a99d81d9ad0/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4b/e7/f14be7b2-1618-3303-db39-ae61bb8609c6/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.26043.16
+    version: 3.26044.10
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator

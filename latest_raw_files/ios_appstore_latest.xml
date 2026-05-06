@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 06, 2026 03:37 PM EDT</last_updated>
+	<last_updated>May 06, 2026 04:36 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -81,22 +81,17 @@ iCloud optimized photo backup is now available to all OneDrive consumer users, i
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Windows App Mobile</application_name>
 		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>April 06, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/02/51/1202518b-aeee-b085-adb0-6fdbd38b6960/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/6d/e3/f06de3f8-0224-ee8a-aaa6-5945239fd75f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
-		<releaseNotes>It's time for a refresh! We've made some updates to the app UI as a result of upgrading to the new iOS SDK. Here's what's new:
+		<releaseNotes>In this release we fixed some crashes and made the following updates:
 
-• Incorporated Liquid Glass styling and elements throughout the app!
-• Added a new Personalization section (under Settings) to customize how the app looks and feels.
-• The Favorites page has moved. You can now find your favorite devices and apps pinned to the top of the Devices and Apps pages respectively.
-• Gracefully handled errors encountered when connecting to a Windows Cloud Input Protection-enabled PC endpoint.
-
-We've also added support for audio and video stream optimizations when connecting to Azure Virtual Desktop (AVD) session hosts that support Teams redirection (see  https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd for more details).
-
-Note that starting from this release we only support iOS 26.
+• Fixed a bug that caused the &quot;Updating remote session display&quot; to not dismiss.
+• Ensured that the Surface Arc Mouse is able to reset the display auto-lock timer. 
+• Resolved an Intune deadlock encountered at app launch.
 
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.3.0</version>
+		<version>11.3.1</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>

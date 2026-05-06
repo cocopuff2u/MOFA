@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 06, 2026 10:59 AM EDT",
+    "last_updated": "May 06, 2026 11:49 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -27,22 +27,22 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "April 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/b4/6d/c5b46da4-d83f-9426-9299-6060413f3a41/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "May 05, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/cb/dc/09cbdced-8e2d-5674-387f-7bce82a128a8/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.108.2",
+            "version": "16.108.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "April 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/65/1a/72651acd-cae3-ae01-089d-76fd15d7ba7d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "May 05, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/69/76/646976de-1cef-b531-8196-027f41a32933/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.108.2",
+            "version": "16.108.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 06, 2026 09:41 AM EDT</last_updated>
+	<last_updated>May 06, 2026 10:59 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -134,20 +134,16 @@ Copilot Daily: Start your day with a news and weather summary. Clean, simple, an
 		<name>iOS Microsoft Warehouse Management</name>
 		<application_name>Microsoft Warehouse Management</application_name>
 		<bundleId>com.microsoft.WarehouseManagement</bundleId>
-		<currentVersionReleaseDate>April 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/79/28/82792855-0257-872f-fc18-391dc2c23d9e/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 06, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/43/fe/b143fe96-d2ed-adb8-add9-ee5e9155a557/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>This version of the Warehouse Management mobile app introduces the following fixes and improvements:
--Calculator: Fixed an issue where the calculator would open automatically without user input.
--Layout and Display
--Calculator: Fixed landscape layout rendering for small screens.
--Pallet Build Button: The &quot;Done&quot; button is now visible on non-maximized or small windows during the Pallet Build/License Plate process. Users can now access Correct, Cancel, and Done without manual resizing.
+• Diagnostics: Added the option to clean up authentication data from the Diagnostics page.
+• Components fields: Fixed an issue that caused `data=1` to appear in some edge case scenarios.
 • Scanning and Input:
--GS1 Barcode Scanning: Scanned batch numbers with embedded GS1 characters (0x1D separator) are now accepted properly, matching WMA V3 behavior and resolving previous server disconnections.
--Keyboard Navigation: Arrow-key navigation has been restored for processes such as Sales Picking. Re-scanning items to confirm quantities is now functional.
-• Localization:
--Spanish (ES) Formatting: Fixed an issue where trailing or embedded zeros were stripped when confirming production or work quantities. Quantities now display and process correctly, consistent with EN-US behavior.</releaseNotes>
-		<version>4.1.0</version>
+-Barcode Scanning: After scanning barcodes, auto submission was not triggered in some devices. Auto submission has been restored for all devices.  Special characters (specifically the ctrl j) are now accepted properly, when it is scanner via an external scanner. 
+-Keyboard Navigation: Arrow-key navigation has been restored.</releaseNotes>
+		<version>4.1.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4</app_store_url>
 	</package>
 	<package>
@@ -375,15 +371,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>CamScanner - PDF Scanner App</application_name>
-		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>April 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/b0/0c/c1b00c8e-1f66-123d-8fcf-47cbd67ce189/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>· Various improvements for a better experience.
-· We'll keep refining the app to bring you clearer scans and a smoother editing experience.</releaseNotes>
-		<version>7.16.5</version>
-		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
+		<application_name>Lens: Translate &amp; Image Search</application_name>
+		<bundleId>com.searchdodo.ios</bundleId>
+		<currentVersionReleaseDate>May 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.6</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>3.1.11</version>
+		<app_store_url>https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

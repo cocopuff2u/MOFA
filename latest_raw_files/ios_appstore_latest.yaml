@@ -1,4 +1,4 @@
-last_updated: May 07, 2026 06:48 AM EDT
+last_updated: May 07, 2026 07:38 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -175,12 +175,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: April 28, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/e6/86/bbe686aa-2133-8739-4892-0ac9e3baac64/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/67/15/046715bd-21bd-0d19-2b2e-0e3089bab61c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.6'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 11.38.0
+    version: 11.39.0
     app_store_url: https://apps.apple.com/us/app/viva-engage/id289559439?uo=4
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'

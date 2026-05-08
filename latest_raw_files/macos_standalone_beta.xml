@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>May 08, 2026 04:28 PM EDT</last_updated>
+    <last_updated>May 08, 2026 05:27 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -34,14 +34,14 @@
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.110.0 (26050539)</short_version>
-        <full_version>16.110.26050539</full_version>
-        <last_updated>May 05, 2026</last_updated>
+        <short_version>16.110.0 (26050735)</short_version>
+        <full_version>16.110.26050735</full_version>
+        <last_updated>May 07, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.110.26050539_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.110.26050539_Updater.pkg</latest_download>
-        <sha1>6310555fa1dd65c834869644bc94e1815769d448</sha1>
-        <sha256>9c0598dde41516989d9281fb52679346fdc3327cda4c0843afaa29f0c46e1f11</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.110.26050735_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.110.26050735_Updater.pkg</latest_download>
+        <sha1>aa68260e96c1a0c81d62a65bab4efd107711a7be</sha1>
+        <sha256>9623537224967f3e7b367b05231246c137e1479d4c4a3628a2efeeeb1726b31c</sha256>
     </package>
     <package>
         <name>Outlook</name>

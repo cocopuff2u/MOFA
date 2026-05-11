@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 10, 2026 11:17 PM EDT</last_updated>
+	<last_updated>May 11, 2026 01:25 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -246,23 +246,16 @@ Like Whiteboard?
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>
-		<application_name>Opera: AI browser with VPN</application_name>
-		<bundleId>com.opera.OperaTouch</bundleId>
-		<currentVersionReleaseDate>May 03, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/83/cf/bb83cf62-a855-d20c-b8a2-416ce6cad08b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>BIG Update!
-- Support for Right-to-Left languages (RTL)
-- Additional languages: Arabic, Farsi, Urdu and Hebrew
-- Bi-directional UI, the interface gets &quot;mirrored&quot; for RTL languages
-- News: added 100+ newsfeeds for additional countries and languages
-- Startpage shortcuts (AI mode and Private) 
-- Option in settings to show/hide shortcuts
-- Connection Error page includes VPN switch to bypass network obstacles
-- Stability improvements to media playback in background
-- Many more bug fixes and UI improvements</releaseNotes>
-		<version>6.5.0</version>
-		<app_store_url>https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4</app_store_url>
+		<application_name>Microsoft Edge: AI Browser</application_name>
+		<bundleId>com.microsoft.msedge</bundleId>
+		<currentVersionReleaseDate>April 28, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/b1/3b/6ab13b3d-9531-e6e3-7d7f-1db16d9dacc8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.0</minimumOsVersion>
+		<releaseNotes>Welcome to Microsoft Edge! Here's what's new in this release:
+• Introducing Copilot Vision: Browse hands-free with your voice. Talk to Copilot on any page to get help, ask questions, and explore content without lifting a finger.
+Upgrade now to enjoy a smarter, faster, and more productive Microsoft Edge.</releaseNotes>
+		<version>147.3912.87</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
@@ -378,15 +371,18 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>CamScanner - PDF Scanner App</application_name>
-		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>April 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/b0/0c/c1b00c8e-1f66-123d-8fcf-47cbd67ce189/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>· Various improvements for a better experience.
-· We'll keep refining the app to bring you clearer scans and a smoother editing experience.</releaseNotes>
-		<version>7.16.5</version>
-		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
+		<application_name>Adobe Scan: PDF &amp; OCR Scanner</application_name>
+		<bundleId>com.adobe.scan.ios</bundleId>
+		<currentVersionReleaseDate>April 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/66/c3/3d66c350-8522-566e-999e-e4baa9ad9f13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.0</minimumOsVersion>
+		<releaseNotes>NEW — MAGIC ERASER ENHANCEMENT 
+
+Scan documents, not the fingers holding them. Instantly auto-detect and automatically remove fingers and their shadows on document scans with new enhancements to the Magic eraser tool.* 
+
+*Paid subscribers</releaseNotes>
+		<version>26.04.17</version>
+		<app_store_url>https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

@@ -1,4 +1,4 @@
-last_updated: May 10, 2026 11:17 PM EDT
+last_updated: May 11, 2026 01:25 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -212,20 +212,18 @@ packages:
     version: 2.6.2
     app_store_url: https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4
   - name: iOS Microsoft Edge AI Browser
-    application_name: 'Opera: AI browser with VPN'
-    bundleId: com.opera.OperaTouch
-    currentVersionReleaseDate: May 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/83/cf/bb83cf62-a855-d20c-b8a2-416ce6cad08b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: "BIG Update!\n- Support for Right-to-Left languages (RTL)\n- Additional\
-      \ languages: Arabic, Farsi, Urdu and Hebrew\n- Bi-directional UI, the interface\
-      \ gets \"mirrored\" for RTL languages\n- News: added 100+ newsfeeds for additional\
-      \ countries and languages\n- Startpage shortcuts (AI mode and Private) \n- Option\
-      \ in settings to show/hide shortcuts\n- Connection Error page includes VPN switch\
-      \ to bypass network obstacles\n- Stability improvements to media playback in\
-      \ background\n- Many more bug fixes and UI improvements"
-    version: 6.5.0
-    app_store_url: https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4
+    application_name: 'Microsoft Edge: AI Browser'
+    bundleId: com.microsoft.msedge
+    currentVersionReleaseDate: April 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/b1/3b/6ab13b3d-9531-e6e3-7d7f-1db16d9dacc8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "Welcome to Microsoft Edge! Here's what's new in this release:\n\
+      \u2022 Introducing Copilot Vision: Browse hands-free with your voice. Talk to\
+      \ Copilot on any page to get help, ask questions, and explore content without\
+      \ lifting a finger.\nUpgrade now to enjoy a smarter, faster, and more productive\
+      \ Microsoft Edge."
+    version: 147.3912.87
+    app_store_url: https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
@@ -324,15 +322,17 @@ packages:
     version: '473.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: April 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/b0/0c/c1b00c8e-1f66-123d-8fcf-47cbd67ce189/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Various improvements for a better experience.\n\xB7 We'll\
-      \ keep refining the app to bring you clearer scans and a smoother editing experience."
-    version: 7.16.5
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: 'Adobe Scan: PDF & OCR Scanner'
+    bundleId: com.adobe.scan.ios
+    currentVersionReleaseDate: April 20, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/66/c3/3d66c350-8522-566e-999e-e4baa9ad9f13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "NEW \u2014 MAGIC ERASER ENHANCEMENT \n\nScan documents, not the\
+      \ fingers holding them. Instantly auto-detect and automatically remove fingers\
+      \ and their shadows on document scans with new enhancements to the Magic eraser\
+      \ tool.* \n\n*Paid subscribers"
+    version: 26.04.17
+    app_store_url: https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

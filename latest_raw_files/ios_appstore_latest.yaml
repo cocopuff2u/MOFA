@@ -1,4 +1,4 @@
-last_updated: May 11, 2026 05:34 PM EDT
+last_updated: May 11, 2026 06:28 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -12,11 +12,13 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: May 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/76/02/6a76021d-0917-440f-7f39-a033268da2ca/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/9b/f9/a79bf997-ebab-beb0-fecf-d539cc93e652/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.108.3
+    releaseNotes: "\u2022 Modernized comments experience: The updated Comments pane\
+      \ experience improves the clarity and usability of mobile commenting by making\
+      \ comment threads easier to find, read, and act on."
+    version: '2.109'
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -212,20 +214,18 @@ packages:
     version: 2.6.2
     app_store_url: https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4
   - name: iOS Microsoft Edge AI Browser
-    application_name: 'Opera: AI browser with VPN'
-    bundleId: com.opera.OperaTouch
-    currentVersionReleaseDate: May 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/83/cf/bb83cf62-a855-d20c-b8a2-416ce6cad08b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: "BIG Update!\n- Support for Right-to-Left languages (RTL)\n- Additional\
-      \ languages: Arabic, Farsi, Urdu and Hebrew\n- Bi-directional UI, the interface\
-      \ gets \"mirrored\" for RTL languages\n- News: added 100+ newsfeeds for additional\
-      \ countries and languages\n- Startpage shortcuts (AI mode and Private) \n- Option\
-      \ in settings to show/hide shortcuts\n- Connection Error page includes VPN switch\
-      \ to bypass network obstacles\n- Stability improvements to media playback in\
-      \ background\n- Many more bug fixes and UI improvements"
-    version: 6.5.0
-    app_store_url: https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4
+    application_name: 'Microsoft Edge: AI Browser'
+    bundleId: com.microsoft.msedge
+    currentVersionReleaseDate: April 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/b1/3b/6ab13b3d-9531-e6e3-7d7f-1db16d9dacc8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "Welcome to Microsoft Edge! Here's what's new in this release:\n\
+      \u2022 Introducing Copilot Vision: Browse hands-free with your voice. Talk to\
+      \ Copilot on any page to get help, ask questions, and explore content without\
+      \ lifting a finger.\nUpgrade now to enjoy a smarter, faster, and more productive\
+      \ Microsoft Edge."
+    version: 147.3912.87
+    app_store_url: https://apps.apple.com/us/app/microsoft-edge-ai-browser/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
@@ -384,11 +384,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: May 11, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/fa/22/16fa220d-475a-3030-4cd8-2e35e796a55a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/0e/23/bc0e2356-d9d2-6dca-0a83-a539741ec0b6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: '2.110'
+    version: 2.109.4
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

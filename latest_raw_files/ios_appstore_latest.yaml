@@ -1,4 +1,4 @@
-last_updated: May 11, 2026 01:00 PM EDT
+last_updated: May 11, 2026 01:44 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -23,11 +23,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: May 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/8f/29/2e8f29ef-8d88-117a-60ac-c4cdb850d77e/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/f1/a3/bef1a399-1b98-8f79-cf4b-7494236c9112/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.108.3
+    version: '2.109'
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook

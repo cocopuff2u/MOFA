@@ -1,33 +1,33 @@
-last_updated: May 12, 2026 11:02 AM EDT
+last_updated: May 12, 2026 11:56 AM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
   application_name: Data sourced from Outlook (CurrentThrottle)
   CFBundleVersion: com.microsoft.office
-  short_version: 16.108.0 (26041219)
-  full_version: 16.108.26041219
-  last_updated: April 12, 2026
+  short_version: 16.109.0 (26051019)
+  full_version: 16.109.26051019
+  last_updated: May 10, 2026
   min_os: '14.0'
   app_only_update_download: N/A
   app_update_sha1: N/A
   app_update_sha256: N/A
   full_update_download: https://go.microsoft.com/fwlink/?linkid=525133
-  full_update_sha1: 6c3ec9968df2abca254a2f91c1ed9bb6560dbc99
-  full_update_sha256: d4e69f77cadfd568f97536906650d7b9c6d2fad9f529cc656a7a00b7acdab64c
+  full_update_sha1: 41c2a90c72d67ea62e53d3b46aa02cd5d7791476
+  full_update_sha256: 43249d6a05856d010333bfa2adca062263a9818cdefcfbb7e106832ab9fcea39
 - name: Microsoft BusinessPro Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
   application_name: Data sourced from Outlook (CurrentThrottle)
   CFBundleVersion: com.microsoft.office
-  short_version: 16.108.0 (26041219)
-  full_version: 16.108.26041219
-  last_updated: April 12, 2026
+  short_version: 16.109.0 (26051019)
+  full_version: 16.109.26051019
+  last_updated: May 10, 2026
   min_os: '14.0'
   app_only_update_download: N/A
   app_update_sha1: N/A
   app_update_sha256: N/A
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2009112
-  full_update_sha1: 36a127b4c12780f3fdb7e19e036c5282339cd60d
-  full_update_sha256: 6e4bcd420f2ce4550f46c010c9fa5e37dd64e3f515cfb713dc8730cb2e56ad67
+  full_update_sha1: 1f14eb07b4995511ed91bce9345aaf4d6e21c70c
+  full_update_sha256: 4740c3fd9c5d8d2283eb2d1ce2d327ab7bbf9d59312bc08bb5ced2b271ad05f8
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app

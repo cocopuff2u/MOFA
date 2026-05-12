@@ -1,6 +1,39 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>May 12, 2026 04:38 PM EDT</last_scan_date>
+    <last_scan_date>May 12, 2026 05:33 PM EDT</last_scan_date>
+    <Update>
+        <Date>May 12, 2026</Date>
+        <Version>Version 16.109 (Build 26051019)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2026-40359</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40359</URL>
+                <CVE>CVE-2026-40360</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40360</URL>
+                <CVE>CVE-2026-40362</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40362</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2026-40358</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40358</URL>
+                <CVE>CVE-2026-40363</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40363</URL>
+            </Application>
+            <Application>
+                <Name>Word</Name>
+                <CVE>CVE-2026-40361</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40361</URL>
+                <CVE>CVE-2026-40364</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40364</URL>
+                <CVE>CVE-2026-40366</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40366</URL>
+                <CVE>CVE-2026-40367</CVE>
+                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40367</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>May 05, 2026</Date>
         <Version>Version 16.108.3 (Build 26050324)</Version>

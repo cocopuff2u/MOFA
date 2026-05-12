@@ -1,6 +1,54 @@
 {
-    "last_scan_date": "May 12, 2026 04:38 PM EDT",
+    "last_scan_date": "May 12, 2026 05:33 PM EDT",
     "updates": [
+        {
+            "date_text": "May 12, 2026",
+            "version": "Version 16.109 (Build 26051019)",
+            "security_updates": {
+                "Excel": [
+                    {
+                        "cve_name": "CVE-2026-40359",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40359"
+                    },
+                    {
+                        "cve_name": "CVE-2026-40360",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40360"
+                    },
+                    {
+                        "cve_name": "CVE-2026-40362",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40362"
+                    }
+                ],
+                "Office Suite": [
+                    {
+                        "cve_name": "CVE-2026-40358",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40358"
+                    },
+                    {
+                        "cve_name": "CVE-2026-40363",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40363"
+                    }
+                ],
+                "Word": [
+                    {
+                        "cve_name": "CVE-2026-40361",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40361"
+                    },
+                    {
+                        "cve_name": "CVE-2026-40364",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40364"
+                    },
+                    {
+                        "cve_name": "CVE-2026-40366",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40366"
+                    },
+                    {
+                        "cve_name": "CVE-2026-40367",
+                        "url": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40367"
+                    }
+                ]
+            }
+        },
         {
             "date_text": "May 05, 2026",
             "version": "Version 16.108.3 (Build 26050324)",

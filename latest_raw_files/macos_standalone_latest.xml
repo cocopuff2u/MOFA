@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>May 12, 2026 11:15 PM EDT</last_updated>
+    <last_updated>May 13, 2026 01:23 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -246,16 +246,16 @@
         <application_id>MSCP10</application_id>
         <application_name>Microsoft 365 Copilot.app</application_name>
         <CFBundleVersion>com.microsoft.m365copilot</CFBundleVersion>
-        <short_version>1.2604 (2701)</short_version>
-        <full_version>1.2604.2701</full_version>
-        <last_updated>April 27, 2026</last_updated>
+        <short_version>1.2605 (0401)</short_version>
+        <full_version>1.2605.0401</full_version>
+        <last_updated>May 04, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2604.2701_Updater.pkg</app_only_update_download>
-        <app_update_sha1>b0586383e0e3ba3fb838e1e09a01ae278581acad</app_update_sha1>
-        <app_update_sha256>3e553c468fa0a7dc980bef074ad92ba3eb4b37ac66489e4c9a0ec760bba34713</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2605.0401_Updater.pkg</app_only_update_download>
+        <app_update_sha1>b713a56b511df2024ce5de615029eb3b32622709</app_update_sha1>
+        <app_update_sha256>a0606687eeea679213dfebbdf43d222bdd6776a065be127ef818710f19e9e693</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2325438</full_update_download>
-        <full_update_sha1>612ba7d6e4119ed231d3be0cbce79d411324dc83</full_update_sha1>
-        <full_update_sha256>162eee3c53f0c339c47e6359cc872f746d92c3f3b2e6139ea2351c8c02edd68f</full_update_sha256>
+        <full_update_sha1>195682cebc316d9173e0b98223b3b42edf25d3dd</full_update_sha1>
+        <full_update_sha256>71007e9af60d7372a98094e5fb91a8cdd50c9c68b1f5ede8c4b7859308b978b4</full_update_sha256>
     </package>
     <package>
         <name>MAU</name>

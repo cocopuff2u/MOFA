@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 13, 2026 01:23 AM EDT",
+    "last_updated": "May 13, 2026 03:13 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -174,11 +174,11 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code - Insiders.app",
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
-            "short_version": "1.120.0-",
-            "full_version": "1.120.0-insider",
-            "last_updated": "May 12, 2026",
+            "short_version": "1.121.0-",
+            "full_version": "1.121.0-insider",
+            "last_updated": "May 13, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/0958016b2af9f09bb4257e0df4a95e2f90590f9f/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/c305abcf5246623ddb4e3f1be03f36e2f9dd7caf/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

@@ -1,4 +1,4 @@
-last_updated: May 12, 2026 08:58 PM EDT
+last_updated: May 12, 2026 09:44 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -130,16 +130,16 @@ packages:
   application_id: IMCP01
   application_name: Company Portal.app
   CFBundleVersion: com.microsoft.intune.companyportal
-  short_version: 5.2603.0
-  full_version: 53.2603090.000
-  last_updated: March 31, 2026
+  short_version: 5.2604.0
+  full_version: 53.2604003.000
+  last_updated: April 29, 2026
   min_os: '11.0'
-  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2603.0-Upgrade.pkg
-  app_update_sha1: 8277239ad93de1d47403d8748dfe80cad5c66e6f
-  app_update_sha256: e5060291fb06eb14f91f0b3cdc47aa729fadbab44f4fc3e44a0f21c1a6cf6082
+  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2604.0-Upgrade.pkg
+  app_update_sha1: 3e0cc643e53a23cd4dd7ba7196e5c09f00044799
+  app_update_sha256: 116d80b7e133cdfa7b528501a916d6fa4973f2f005754d3346f50bf417f888f8
   full_update_download: https://go.microsoft.com/fwlink/?linkid=853070
-  full_update_sha1: 5eb2e708780bd80eeff58c28231502b2649064fb
-  full_update_sha256: 1e84885cdca41c6796b39c197aadc75b58396a03a5c65d192d6045210c30a1d5
+  full_update_sha1: d7527bccb87e1ff72d0d8908eb060856be6dc873
+  full_update_sha256: e7b11deb0fae8709d75670f0f9b8cbf877acdc9688e244da159b14eb71563469
 - name: Defender For Endpoint
   application_id: WDAV00
   application_name: Microsoft Defender.app

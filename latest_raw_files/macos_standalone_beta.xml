@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>May 12, 2026 11:16 PM EDT</last_updated>
+    <last_updated>May 13, 2026 01:24 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -188,14 +188,14 @@
         <application_id>MSCP10</application_id>
         <application_name>Microsoft 365 Copilot.app</application_name>
         <CFBundleVersion>com.microsoft.m365copilot</CFBundleVersion>
-        <short_version>1.2604 (2701)</short_version>
-        <full_version>1.2604.2701</full_version>
-        <last_updated>April 27, 2026</last_updated>
+        <short_version>1.2605 (0401)</short_version>
+        <full_version>1.2605.0401</full_version>
+        <last_updated>May 04, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2604.2701_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2604.2701_Updater.pkg</latest_download>
-        <sha1>b0586383e0e3ba3fb838e1e09a01ae278581acad</sha1>
-        <sha256>3e553c468fa0a7dc980bef074ad92ba3eb4b37ac66489e4c9a0ec760bba34713</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2605.0401_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2605.0401_Updater.pkg</latest_download>
+        <sha1>b713a56b511df2024ce5de615029eb3b32622709</sha1>
+        <sha256>a0606687eeea679213dfebbdf43d222bdd6776a065be127ef818710f19e9e693</sha256>
     </package>
     <package>
         <name>MAU</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 15, 2026 09:41 PM EDT",
+    "last_updated": "May 15, 2026 11:13 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -313,11 +313,11 @@
             "name": "iOS Microsoft Lens PDF Scanner",
             "application_name": "CamScanner - PDF Scanner App",
             "bundleId": "com.intsig.CamScannerLite",
-            "currentVersionReleaseDate": "May 15, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/84/23/78842339-419b-1665-d133-9f399d81ab8e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 11, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ad/a9/f9ada9bb-ed92-17de-7a7e-9bff756d8c80/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.0",
-            "releaseNotes": "\u00b7 Check out recently added features in tools. Don't miss the good ones.\n\u00b7 We'll keep refining the app to bring you clearer scans and a smoother editing experience.",
-            "version": "7.17.5",
+            "releaseNotes": "\u00b7 Quickly switch between zoom levels while scanning.\n\u00b7 Check out recently added features in tools. Don't miss the good ones.",
+            "version": "7.17.0",
             "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {

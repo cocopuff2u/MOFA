@@ -1,4 +1,4 @@
-last_updated: May 17, 2026 06:22 PM EDT
+last_updated: May 17, 2026 07:23 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -376,14 +376,16 @@ packages:
     version: '475.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Lens: Translate & Image Search'
-    bundleId: com.searchdodo.ios
-    currentVersionReleaseDate: May 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.6'
-    releaseNotes: Bug fixes and performance improvements
-    version: 3.1.11
-    app_store_url: https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: May 15, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/84/23/78842339-419b-1665-d133-9f399d81ab8e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 Check out recently added features in tools. Don't miss the\
+      \ good ones.\n\xB7 We'll keep refining the app to bring you clearer scans and\
+      \ a smoother editing experience."
+    version: 7.17.5
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

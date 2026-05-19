@@ -1,4 +1,4 @@
-last_updated: May 19, 2026 01:09 PM EDT
+last_updated: May 19, 2026 02:45 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -124,26 +124,26 @@ packages:
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26032.0016
-  full_version: 101.26032.0016
-  last_updated: April 15, 2026
-  min_os: '12.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26032.0016_Individuals_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26032.0016_Individuals_Installer.pkg
-  sha1: 7118774adf8936c0db87f31e1682a31796a61e9f
-  sha256: 0229a85637538b88eca412017f845881ef64563533b00a9f91c22a4a4ca1cc6d
+  short_version: 101.26042.0011
+  full_version: 101.26042.0011
+  last_updated: May 11, 2026
+  min_os: '14.0'
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26042.0011_Individuals_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26042.0011_Individuals_Installer.pkg
+  sha1: f3510f684e330c3839bba877a1ba8a7be8064539
+  sha256: eb99989d806b263667cce40400e0af71c1f3a8bc8e271d71d197fcde8435629b
 - name: Defender Shim
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26020.0000
-  full_version: 101.26020.0000
-  last_updated: April 22, 2026
+  short_version: 101.26030.0000
+  full_version: 101.26030.0000
+  last_updated: May 08, 2026
   min_os: '12.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26020.0000_Individuals_Shim_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26020.0000_Individuals_Shim_Installer.pkg
-  sha1: 2b01b259914982e7340b366ce7b5906010c77381
-  sha256: ad92e2b5cc9935b614aa271e5548f44fb6506c37b0296f46a666c29f88ebf466
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26030.0000_Individuals_Shim_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26030.0000_Individuals_Shim_Installer.pkg
+  sha1: 25f9f9634ac9bf70be8b9741c2587d8dd17136c3
+  sha256: e306f0bd9cd2dcd7160fa415e2b19a883b0d9f65c551030be52fbdda72a1b90a
 - name: Visual
   application_id: N/A
   application_name: Visual Studio Code - Insiders.app

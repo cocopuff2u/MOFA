@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 20, 2026 05:38 PM EDT",
+    "last_updated": "May 20, 2026 06:35 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Warehouse Management",
             "application_name": "Microsoft Warehouse Management",
             "bundleId": "com.microsoft.WarehouseManagement",
-            "currentVersionReleaseDate": "May 06, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/43/fe/b143fe96-d2ed-adb8-add9-ee5e9155a557/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 20, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/38/cf/2438cf91-449c-94b6-8640-b548154b3038/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
-            "releaseNotes": "This version of the Warehouse Management mobile app introduces the following fixes and improvements:\n\u2022 Diagnostics: Added the option to clean up authentication data from the Diagnostics page.\n\u2022 Components fields: Fixed an issue that caused `data=1` to appear in some edge case scenarios.\n\u2022 Scanning and Input:\n-Barcode Scanning: After scanning barcodes, auto submission was not triggered in some devices. Auto submission has been restored for all devices.  Special characters (specifically the ctrl j) are now accepted properly, when it is scanner via an external scanner. \n-Keyboard Navigation: Arrow-key navigation has been restored.",
-            "version": "4.1.2",
+            "releaseNotes": "What's New:\nVersion 4.1.3.0 adds the following fixes and improvements:\n\nBug Fixes\nFull RTL Support: Corrected layout and formatting issues for right-to-left languages.\nSubmit Spinner: Resolved the UI hang/glitch that occurred when submitting forms.\nKeyboard Focus: Fixed the bug where the virtual keyboard failed to automatically trigger when typing started.\nEncoding Problem: Resolved character rendering and text corruption issues.",
+            "version": "4.1.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4"
         },
         {

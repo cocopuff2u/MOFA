@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 20, 2026 01:11 PM EDT",
+    "last_updated": "May 20, 2026 02:55 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "May 19, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/d5/db/3dd5db06-c695-6146-9f79-69c7d8dd93f3/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "May 12, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/34/c7/c334c7f4-ef2f-e706-b5cc-8786b93f347d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.109.1",
+            "releaseNotes": "Feature Updates: \n\u2022 Security: Data Loss Prevention (DLP) helps protect sensitive information by detecting and preventing unintended sharing of confidential data, while allowing users to work productively within organizational policies.\n\u2022 Calendar: Users can view and update their work location from the calendar grid when using Microsoft 365 enterprise accounts.\n\u2022 Reorderable Left Rail: Outlook for Mac now lets you customize the left navigation rail, simply rearrange Mail, Calendar, Contacts, and more to match your workflow.",
+            "version": "16.109",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {
@@ -60,11 +60,11 @@
             "name": "MacOS Microsoft OneDrive",
             "application_name": "OneDrive",
             "bundleId": "com.microsoft.OneDrive-mac",
-            "currentVersionReleaseDate": "May 13, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/14/f9/3814f950-ebdc-bd1a-56b5-8d82d9bc625f/OneDrive.png/512x512bb.png",
+            "currentVersionReleaseDate": "May 20, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/24/4f/3c244f6e-6faf-b38e-7b24-eab35c5a1ce9/OneDrive.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.",
-            "version": "26.074.0420",
+            "version": "26.078.0426",
             "app_store_url": "https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4"
         },
         {

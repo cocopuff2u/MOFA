@@ -1,4 +1,4 @@
-last_updated: May 20, 2026 03:24 AM EDT
+last_updated: May 20, 2026 05:18 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -21,33 +21,40 @@ packages:
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: May 12, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/47/76/ba47762a-d481-87ae-37c2-f77c3536bfb5/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 19, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/2c/e7/822ce7f6-6fe2-5aa0-ef10-3d453f1a0d23/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: '16.109'
+    version: 16.109.1
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: May 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/d5/db/3dd5db06-c695-6146-9f79-69c7d8dd93f3/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 12, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/34/c7/c334c7f4-ef2f-e706-b5cc-8786b93f347d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.109.1
+    releaseNotes: "Feature Updates: \n\u2022 Security: Data Loss Prevention (DLP)\
+      \ helps protect sensitive information by detecting and preventing unintended\
+      \ sharing of confidential data, while allowing users to work productively within\
+      \ organizational policies.\n\u2022 Calendar: Users can view and update their\
+      \ work location from the calendar grid when using Microsoft 365 enterprise accounts.\n\
+      \u2022 Reorderable Left Rail: Outlook for Mac now lets you customize the left\
+      \ navigation rail, simply rearrange Mail, Calendar, Contacts, and more to match\
+      \ your workflow."
+    version: '16.109'
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: May 12, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/23/7c/2d237c97-434a-e02b-5b73-ee7bfc7e7c7c/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 19, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/20/fa/3d20fac2-74e0-6f3b-f087-c9f5a50de187/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.109'
+    version: 16.109.1
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive

@@ -172,8 +172,12 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSFB16.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.skypeforbusiness",
-            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=832978",
+            "full_update_download": "https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg",
             "application_name": "Skype for Business.app",
+            "short_version": "16.31.31",
+            "full_version": "16.31.31",
+            "last_updated": "January 22, 2026",
+            "app_only_update_download": "https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg",
         },
         "keys": {
             "application_id": "Application ID",

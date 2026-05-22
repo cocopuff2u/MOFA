@@ -1,4 +1,4 @@
-last_updated: May 22, 2026 09:51 AM EDT
+last_updated: May 22, 2026 10:01 AM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -102,16 +102,16 @@ packages:
   application_id: MSFB16
   application_name: Skype for Business.app
   CFBundleVersion: com.microsoft.skypeforbusiness
-  short_version: 16.31.11
-  full_version: 16.31.11
-  last_updated: September 05, 2024
+  short_version: 16.31.31
+  full_version: 16.31.31
+  last_updated: January 22, 2026
   min_os: 10.14.0
-  app_only_update_download: https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.31.11.pkg
-  app_update_sha1: e1896fb970eae24ab94bb20ab7872427fb871172
-  app_update_sha256: 6709b7d2fe51d2ca5ed108bbd00b984f6fe1c7811dd1841a340640c015f1ebf2
-  full_update_download: https://go.microsoft.com/fwlink/?linkid=832978
-  full_update_sha1: 91c6abad17552136cdbda3f7af12f1484f664fd2
-  full_update_sha256: 81f484842e86a39c9f33abc4d35b4e7dbb87189ca3c424a6396e15d96ea2dbd5
+  app_only_update_download: https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg
+  app_update_sha1: 25637672295e3fd675404fe757db433591d62047
+  app_update_sha256: 891dbba7518645642e6bfe4287071b984830994c528fad82490b4df6b14e4312
+  full_update_download: https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg
+  full_update_sha1: 25637672295e3fd675404fe757db433591d62047
+  full_update_sha256: 891dbba7518645642e6bfe4287071b984830994c528fad82490b4df6b14e4312
 - name: Teams
   application_id: TEAMS21
   application_name: Microsoft Teams.app

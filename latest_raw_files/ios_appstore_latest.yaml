@@ -1,4 +1,4 @@
-last_updated: May 23, 2026 03:04 AM EDT
+last_updated: May 23, 2026 04:48 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -375,11 +375,11 @@ packages:
   - name: iOS Microsoft Advertising
     application_name: Meta Ads Manager
     bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: May 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/ce/dc/bbcedc92-59ef-ae36-7834-cea50f0e24a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 15, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/c3/f0/b8c3f0e2-3def-76f8-be52-f9ae88dc3102/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.1'
     releaseNotes: Bug fixes and performance updates
-    version: '476.0'
+    version: '475.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: CamScanner - PDF Scanner App

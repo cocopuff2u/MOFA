@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 23, 2026 01:20 AM EDT</last_updated>
+	<last_updated>May 23, 2026 03:04 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -229,28 +229,31 @@ Encoding Problem: Resolved character rendering and text corruption issues.</rele
 		<name>iOS Microsoft Whiteboard</name>
 		<application_name>Whiteboard: just draw together</application_name>
 		<bundleId>com.jimschultz.WhiteBoard</bundleId>
-		<currentVersionReleaseDate>January 07, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/53/7e/4b537e0f-ad6d-1b86-85f6-f7b65e7918c7/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/bc/82/ebbc82df-64f5-b0d8-5a3b-e4d503b7f67b/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.6</minimumOsVersion>
-		<releaseNotes>Thanks everyone for using Whiteboard. Here's what's new in this version:) Please keep the feedback coming y'all! Enjoy.
+		<releaseNotes>Thanks everyone for using Whiteboard. Here's what's new in this version :) Please keep the feedback coming y'all! Enjoy.
 
 CHANGELOG
-* Fixes an issue where the daily drawing prompt wasn't refreshing in some cases
-* Adds 5 free generated drawing prompts daily for everyone
-* Usage and stability improvements
+* Fixed Shake to Erase reliability
+* Added a confirmation prompt before deleting drawings
+* Fixed a crash when opening the drawing gallery
+* Made drawing feel smoother and more responsive
+* Improved gallery loading, scrolling, and thumbnail rendering
+* Improved overall stability
 
 
 2.0 Additions and Improvements
 * Introducing SharePlay drawing, draw with others over FaceTime or Messages.
-* Introducing CreatorKit, get the most out of Whiteboard and support Indie development
+* Introducing Creator Kit, get the most out of Whiteboard and support Indie development
 * Now you can zoom in and out on drawings and images!
 * Scroll around in freedom on the all new, expansive, drawing board.
 * Autorotate from portrait to landscape and back, or you can choose to lock orientation.
 * Drawing library, open and continue working on your recent drawings.
-* Add new drawing button, create a new drawing anytime. 
+* Add new drawing button, create a new drawing anytime.
 * Significant performance and stability improvements
 * Adds lock for drawing board zoom/pan/scroll
-* Many more excited things are coming
+* Many more exciting things are coming
 * Stay tuned
 
 - Jim
@@ -259,13 +262,13 @@ Issues, questions or suggestions?
 • jim@getwhiteboard.com
 
 Like Whiteboard?
-• Please subscribe to CreatorKit to help support development
+• Please subscribe to Creator Kit to help support development
 • Please rate the app 5 stars so more people find it
 • Please share Whiteboard with a friend or family member to help get the word out.
 • Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.
-• Please subscribe to my Youtube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw
+• Please subscribe to my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw
 • Please send me your Whiteboard drawings on Instagram @getwhiteboard.</releaseNotes>
-		<version>2.6.2</version>
+		<version>2.7.0</version>
 		<app_store_url>https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4</app_store_url>
 	</package>
 	<package>
@@ -393,11 +396,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Meta Ads Manager</application_name>
 		<bundleId>com.facebook.MAdMan</bundleId>
-		<currentVersionReleaseDate>May 15, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/c3/f0/b8c3f0e2-3def-76f8-be52-f9ae88dc3102/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/ce/dc/bbcedc92-59ef-ae36-7834-cea50f0e24a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.1</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance updates</releaseNotes>
-		<version>475.0</version>
+		<version>476.0</version>
 		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>

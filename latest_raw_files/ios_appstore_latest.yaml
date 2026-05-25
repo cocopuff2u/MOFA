@@ -1,4 +1,4 @@
-last_updated: May 25, 2026 04:35 PM EDT
+last_updated: May 25, 2026 05:30 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -12,20 +12,20 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/6a/07/9b6a07e7-60df-50d3-1370-f8d4cab835df/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/1f/1c/7c1f1c68-4d04-4416-b41f-7cc9438d05c9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.2
+    version: 2.109.1
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/15/ec/2b15ecc3-42f0-4dd9-0dbe-96f7ebb696f3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2d/6a/532d6aae-2273-9d7e-443f-94927d2551ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.2
+    version: 2.109.1
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -42,24 +42,82 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/98/ee/d598ee71-19ba-8ce1-3679-19e3857cf065/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ef/eb/1defeb3e-01e0-3cd4-1137-e898e5a87336/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.109.2
+    version: 16.109.1
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/0b/94/c80b94de-f755-9419-2d15-51c648eb1156/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/d1/11/90d111b3-d407-e4a6-a017-52a188d37b70/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: This update contains bug fixes and stability improvements.
-    version: 18.2.3
+    releaseNotes: 'We''ve been busy behind the scenes making OneDrive even better.
+      Here''s what''s new and improved:
+
+
+      New
+
+
+      - GIF playback for everyone: Animated GIFs now play automatically in the photo
+      viewer.
+
+      - Photo type badges: Spot Live, RAW, and GIF photos at a glance, with a new
+      setting to turn the badges on or off.
+
+      - Smarter Memories: Save a Memory as an album in one tap and friendlier AI titles.
+
+      - Sensitivity labels for business photos and videos: Spot the Microsoft Sensitivity
+      Label directly in the viewer.
+
+      - Camera Backup on iOS 26.1+: Detects new photos while app is in the background.
+
+      - Select All: Tap Select All when picking multiple items in photo and file lists
+      across the app.
+
+
+      Improvements & Fixes
+
+
+      - Accessibility: VoiceOver and keyboard improvements across the app.
+
+      - Office previewer: Dark mode, updates Recent Files, refreshes the title after
+      rename, and respects the "Preview Office Documents" setting.
+
+      - Photos: New colored folder icons; smart-cropped covers in widgets so faces
+      aren''t clipped; offline state shown on photos in offline folders.
+
+      - Camera Backup starts instantly: Your latest photos begin uploading right away,
+      without waiting for an initial sync.
+
+      - Vault: See your file count and jump to Suggested Files from the overflow menu.
+
+      - Sharing: Share photos and videos to LINE Messenger; the share menu now uses
+      the correct dark mode for enterprise accounts.
+
+      - Selection sheet: Smooth slide-up on iPad, sized to its contents, and no longer
+      blocks taps when first appearing.
+
+      - Video: Buffering spinner during network stalls, no more timeline flicker when
+      scrubbing, and fixed full-screen playback for offline videos.
+
+      - Albums: Faster create, edit, and create-from-folder, with a 255-character
+      name limit and live counter.
+
+      - Refreshed Send Feedback experience, with thumbs up/down on search results.
+
+      - General performance and bug fixes.
+
+
+      Thanks for using OneDrive! We''re always working to improve your experience.
+      If you run into any issues, just shake your device and tap "Send Feedback."'
+    version: 18.1.4
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
@@ -326,13 +384,12 @@ packages:
   - name: iOS Microsoft Lens PDF Scanner
     application_name: CamScanner - PDF Scanner App
     bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: May 15, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/84/23/78842339-419b-1665-d133-9f399d81ab8e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/fe/02/c7fe024b-d36a-46e6-6a3b-f3d1e417cb67/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Check out recently added features in tools. Don't miss the\
-      \ good ones.\n\xB7 We'll keep refining the app to bring you clearer scans and\
-      \ a smoother editing experience."
-    version: 7.17.5
+    releaseNotes: "\xB7 Send documents to your computer with one tap. Open automatically\
+      \ when signed in on your computer.\n\xB7 Various improvements for a better experience."
+    version: 7.18.0
     app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders

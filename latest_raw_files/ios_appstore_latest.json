@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 25, 2026 09:19 AM EDT",
+    "last_updated": "May 25, 2026 11:09 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -27,11 +27,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "May 25, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/15/ec/2b15ecc3-42f0-4dd9-0dbe-96f7ebb696f3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2d/6a/532d6aae-2273-9d7e-443f-94927d2551ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.109.2",
+            "version": "2.109.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4"
         },
         {

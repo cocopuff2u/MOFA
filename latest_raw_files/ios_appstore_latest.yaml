@@ -1,4 +1,4 @@
-last_updated: May 25, 2026 02:41 PM EDT
+last_updated: May 25, 2026 04:35 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -12,20 +12,20 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: May 18, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/1f/1c/7c1f1c68-4d04-4416-b41f-7cc9438d05c9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/6a/07/9b6a07e7-60df-50d3-1370-f8d4cab835df/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.1
+    version: 2.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: May 18, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2d/6a/532d6aae-2273-9d7e-443f-94927d2551ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/15/ec/2b15ecc3-42f0-4dd9-0dbe-96f7ebb696f3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.1
+    version: 2.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -55,69 +55,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: May 11, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/d1/11/90d111b3-d407-e4a6-a017-52a188d37b70/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/0b/94/c80b94de-f755-9419-2d15-51c648eb1156/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: 'We''ve been busy behind the scenes making OneDrive even better.
-      Here''s what''s new and improved:
-
-
-      New
-
-
-      - GIF playback for everyone: Animated GIFs now play automatically in the photo
-      viewer.
-
-      - Photo type badges: Spot Live, RAW, and GIF photos at a glance, with a new
-      setting to turn the badges on or off.
-
-      - Smarter Memories: Save a Memory as an album in one tap and friendlier AI titles.
-
-      - Sensitivity labels for business photos and videos: Spot the Microsoft Sensitivity
-      Label directly in the viewer.
-
-      - Camera Backup on iOS 26.1+: Detects new photos while app is in the background.
-
-      - Select All: Tap Select All when picking multiple items in photo and file lists
-      across the app.
-
-
-      Improvements & Fixes
-
-
-      - Accessibility: VoiceOver and keyboard improvements across the app.
-
-      - Office previewer: Dark mode, updates Recent Files, refreshes the title after
-      rename, and respects the "Preview Office Documents" setting.
-
-      - Photos: New colored folder icons; smart-cropped covers in widgets so faces
-      aren''t clipped; offline state shown on photos in offline folders.
-
-      - Camera Backup starts instantly: Your latest photos begin uploading right away,
-      without waiting for an initial sync.
-
-      - Vault: See your file count and jump to Suggested Files from the overflow menu.
-
-      - Sharing: Share photos and videos to LINE Messenger; the share menu now uses
-      the correct dark mode for enterprise accounts.
-
-      - Selection sheet: Smooth slide-up on iPad, sized to its contents, and no longer
-      blocks taps when first appearing.
-
-      - Video: Buffering spinner during network stalls, no more timeline flicker when
-      scrubbing, and fixed full-screen playback for offline videos.
-
-      - Albums: Faster create, edit, and create-from-folder, with a 255-character
-      name limit and live counter.
-
-      - Refreshed Send Feedback experience, with thumbs up/down on search results.
-
-      - General performance and bug fixes.
-
-
-      Thanks for using OneDrive! We''re always working to improve your experience.
-      If you run into any issues, just shake your device and tap "Send Feedback."'
-    version: 18.1.4
+    releaseNotes: This update contains bug fixes and stability improvements.
+    version: 18.2.3
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
@@ -443,11 +385,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: May 20, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/5c/f5/e15cf595-bbf5-c869-dc7e-0f979dae8771/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/a9/70/a3a970f7-1dc6-7dcd-f57f-ba79ab86037c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.110.2
+    version: 2.110.3
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

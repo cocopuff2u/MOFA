@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 27, 2026 06:36 PM EDT",
+    "last_updated": "May 27, 2026 07:32 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Opera: AI browser with VPN",
             "bundleId": "com.opera.OperaTouch",
-            "currentVersionReleaseDate": "May 27, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/c4/85/27c4859c-e982-fa54-5b5c-de2ed77b146d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/83/cf/bb83cf62-a855-d20c-b8a2-416ce6cad08b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
-            "releaseNotes": "- Couple of crashes fixed\n- A bunch of bug fixes and improved stability",
-            "version": "6.5.1",
+            "releaseNotes": "BIG Update!\n- Support for Right-to-Left languages (RTL)\n- Additional languages: Arabic, Farsi, Urdu and Hebrew\n- Bi-directional UI, the interface gets \"mirrored\" for RTL languages\n- News: added 100+ newsfeeds for additional countries and languages\n- Startpage shortcuts (AI mode and Private) \n- Option in settings to show/hide shortcuts\n- Connection Error page includes VPN switch to bypass network obstacles\n- Stability improvements to media playback in background\n- Many more bug fixes and UI improvements",
+            "version": "6.5.0",
             "app_store_url": "https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4"
         },
         {
@@ -247,11 +247,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "May 27, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/ea/a7/f3eaa773-547d-18db-e995-3023e971dc02/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 25, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/8a/17/c18a1778-24fe-abee-aab9-221a4024c877/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "8.9.2",
+            "version": "8.9.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
         },
         {

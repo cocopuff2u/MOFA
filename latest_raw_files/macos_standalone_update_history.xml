@@ -1,6 +1,18 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>May 26, 2026 11:17 PM EDT</last_scan_date>
+    <last_scan_date>May 27, 2026 01:36 AM EDT</last_scan_date>
+    <release>
+        <date>May 26, 2026</date>
+        <version>16.109.2 (26052523)</version>
+        <businesspro_suite_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.109.26052523_BusinessPro_Installer.pkg</businesspro_suite_download>
+        <suite_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.109.26052523_Installer.pkg</suite_download>
+        <word_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.109.26052523_Updater.pkg</word_update>
+        <excel_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.109.26052523_Updater.pkg</excel_update>
+        <powerpoint_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.109.26052523_Updater.pkg</powerpoint_update>
+        <outlook_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.109.26052523_Updater.pkg</outlook_update>
+        <onenote_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.109.26052523_Updater.pkg</onenote_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>May 19, 2026</date>
         <version>16.109.1 (26051717)</version>

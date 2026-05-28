@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 28, 2026 01:22 PM EDT",
+    "last_updated": "May 28, 2026 03:00 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -93,11 +93,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot",
-            "currentVersionReleaseDate": "May 27, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/75/c9/3b75c940-4d49-6c9e-70d7-75d428c25a12/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/cf/1c/07cf1cb1-6a96-5171-a5ba-a3115876cc94/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
-            "version": "30.0.440527003",
+            "version": "30.0.440527004",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
         },
         {
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Opera: AI browser with VPN",
             "bundleId": "com.opera.OperaTouch",
-            "currentVersionReleaseDate": "May 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 27, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/c4/85/27c4859c-e982-fa54-5b5c-de2ed77b146d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
-            "releaseNotes": "6.5.2: Hotfix for crash in Private Mode\n6.5.1: A bunch of bug fixes, more crash fixes and improved stability",
-            "version": "6.5.2",
+            "releaseNotes": "- Couple of crashes fixed\n- A bunch of bug fixes and improved stability",
+            "version": "6.5.1",
             "app_store_url": "https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4"
         },
         {

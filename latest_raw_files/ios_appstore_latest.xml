@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 28, 2026 05:43 PM EDT</last_updated>
+	<last_updated>May 28, 2026 06:36 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -106,14 +106,14 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot</bundleId>
-		<currentVersionReleaseDate>May 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/75/c9/3b75c940-4d49-6c9e-70d7-75d428c25a12/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 28, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/cf/1c/07cf1cb1-6a96-5171-a5ba-a3115876cc94/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Introducing the New Copilot: Your AI Companion
 This update includes an intuitive design with more digestible and faster answers, plus new features.
 Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
 Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
-		<version>30.0.440527003</version>
+		<version>30.0.440527004</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4</app_store_url>
 	</package>
 	<package>
@@ -250,12 +250,12 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Opera: AI browser with VPN</application_name>
 		<bundleId>com.opera.OperaTouch</bundleId>
-		<currentVersionReleaseDate>May 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 27, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/c4/85/27c4859c-e982-fa54-5b5c-de2ed77b146d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>6.5.2: Hotfix for crash in Private Mode
-6.5.1: A bunch of bug fixes, more crash fixes and improved stability</releaseNotes>
-		<version>6.5.2</version>
+		<releaseNotes>- Couple of crashes fixed
+- A bunch of bug fixes and improved stability</releaseNotes>
+		<version>6.5.1</version>
 		<app_store_url>https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4</app_store_url>
 	</package>
 	<package>

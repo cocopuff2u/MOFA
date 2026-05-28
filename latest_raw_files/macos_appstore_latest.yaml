@@ -1,4 +1,4 @@
-last_updated: May 28, 2026 01:31 AM EDT
+last_updated: May 28, 2026 03:32 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -21,11 +21,11 @@ packages:
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: May 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/2c/e7/822ce7f6-6fe2-5aa0-ef10-3d453f1a0d23/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 27, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/c2/73/d9c27339-629c-314c-6321-889c6d34847a/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.109.1
+    version: 16.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -39,15 +39,15 @@ packages:
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: May 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/20/fa/3d20fac2-74e0-6f3b-f087-c9f5a50de187/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 27, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/81/b9/9a81b955-a2ad-1e92-9036-d31c0eb86b3f/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.109.1
+    version: 16.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive

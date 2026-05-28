@@ -1,22 +1,22 @@
-last_updated: May 27, 2026 11:19 PM EDT
+last_updated: May 28, 2026 01:31 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Word
-    currentVersionReleaseDate: May 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/76/82/b97682f3-9422-2ad0-46a1-8ff9ccaa8c49/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 27, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/eb/de/f7ebde0d-5571-d28a-29a1-ff347d6827ce/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.109.1
+    version: 16.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: May 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/12/81/00128188-a303-3fac-a216-e3abf6f430ad/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 27, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/9b/eb/ee9beba6-4627-603f-0b5e-0a7e459f8b36/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.109.1
+    version: 16.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -30,11 +30,11 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: May 19, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/d5/db/3dd5db06-c695-6146-9f79-69c7d8dd93f3/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: May 27, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/38/77/eb3877d0-8740-eae8-1d8d-df0e7def62a0/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.109.1
+    version: 16.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote

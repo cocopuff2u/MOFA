@@ -1,4 +1,4 @@
-last_updated: May 29, 2026 05:20 AM EDT
+last_updated: May 29, 2026 07:12 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -113,25 +113,18 @@ packages:
   - name: iOS Microsoft Warehouse Management
     application_name: Microsoft Warehouse Management
     bundleId: com.microsoft.WarehouseManagement
-    currentVersionReleaseDate: May 20, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/38/cf/2438cf91-449c-94b6-8640-b548154b3038/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/ef/b2/79efb2d6-d239-b3d5-e6da-9543d8f4d11c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
-    releaseNotes: 'What''s New:
-
-      Version 4.1.3.0 adds the following fixes and improvements:
-
-
-      Bug Fixes
-
-      Full RTL Support: Corrected layout and formatting issues for right-to-left languages.
-
-      Submit Spinner: Resolved the UI hang/glitch that occurred when submitting forms.
-
-      Keyboard Focus: Fixed the bug where the virtual keyboard failed to automatically
-      trigger when typing started.
-
-      Encoding Problem: Resolved character rendering and text corruption issues.'
-    version: 4.1.3
+    releaseNotes: "What's New:\nVersion 4.1.4.0 adds the following fixes and improvements:\n\
+      \nFeatures:\nCamera improvements: Added support for Code 39 Mod 43 barcodes.\n\
+      Right-to-left (RTL) support: Corrected layout and formatting issues for right-to-left\
+      \ languages.\n\nBug fixes:\nSubmit spinner \u2013 Resolved a UI hang and glitch\
+      \ that occurred when submitting forms.\nKeyboard focus \u2013 Fixed an issue\
+      \ where the virtual keyboard didn't automatically trigger when typing started.\n\
+      Encoding \u2013 Resolved character rendering and text corruption issues.\nOn-premises\
+      \ \u2013 Fixed issues affecting on-premises deployments on iOS."
+    version: 4.1.4
     app_store_url: https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4
   - name: iOS Microsoft Store Commerce
     application_name: Store Commerce
@@ -212,16 +205,23 @@ packages:
     version: 2.7.0
     app_store_url: https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4
   - name: iOS Microsoft Edge AI Browser
-    application_name: 'Opera: AI browser with VPN'
-    bundleId: com.opera.OperaTouch
-    currentVersionReleaseDate: May 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/c4/85/27c4859c-e982-fa54-5b5c-de2ed77b146d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: '- Couple of crashes fixed
-
-      - A bunch of bug fixes and improved stability'
-    version: 6.5.1
-    app_store_url: https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4
+    application_name: Microsoft Edge
+    bundleId: com.microsoft.msedge
+    currentVersionReleaseDate: May 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/80/954b802a-a6c2-8ee8-fbf2-8a6a953ed6fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: "Welcome to Microsoft Edge! Here's what's new in this release:\n\
+      \u2022 Introducing Themes: Personalize Edge with colors and wallpapers. Tap\
+      \ a theme and the whole browser matches \u2014 your style, your tab.\n\u2022\
+      \ Redesigned New Tab Page: Experience a fresh, Copilot-powered New Tab Page\
+      \ with a smarter search box that knows whether to search the web or chat with\
+      \ Copilot.\n\u2022 Journeys: Edge understands what you're working on and suggests\
+      \ next steps from your browsing activity.\n\u2022 Copilot in Edge Preview: Join\
+      \ the preview to unlock the full AI experience, try new features early, and\
+      \ help shape what comes next.\nUpgrade now to enjoy a smarter, faster, and more\
+      \ productive Microsoft Edge."
+    version: 148.3967.84
+    app_store_url: https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
@@ -378,14 +378,14 @@ packages:
     version: 2.1.4
     app_store_url: https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft 365 Copilot
-    bundleId: com.microsoft.officemobile
+    application_name: Microsoft Word
+    bundleId: com.microsoft.Office.Word
     currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/a9/70/a3a970f7-1dc6-7dcd-f57f-ba79ab86037c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0f/0a/0d0f0ae7-d0e9-24b3-8f53-c19bf4795613/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.110.3
-    app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
+    version: 2.109.2
+    app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

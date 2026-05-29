@@ -1,15 +1,15 @@
 latest:
-  last_updated: May 29, 2026 03:00 PM EDT
+  last_updated: May 29, 2026 03:51 PM EDT
   package:
   - name: Production Ring
-    short_version: 26.084.0504
+    short_version: 26.088.0510
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.078.0426.0002/universal/OneDrive.pkg
-    full_update_sha1: 6b840a8bad382a4691170f514def87f82721bb58
-    full_update_sha256: c500f9fbc51e856fc890832d6e9352c2c0af6a5400a4c4b3e2e2c0ef48ecbbab
-    last_updated: May 22, 2026 12:51 PM EDT
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.088.0510.0004/universal/OneDrive.pkg
+    full_update_sha1: b7a68b9839da58e4b4a99d4af33debefcf238a89
+    full_update_sha256: 64bb51367175efcb6fea6d7fb8ed6bbf10d7117b0c1a40130f56ce157beff6a8
+    last_updated: May 29, 2026 03:51 PM EDT
   - name: Upcoming Production Ring
     short_version: 26.088.0510
     application_id: ONDR18

@@ -1,4 +1,4 @@
-last_updated: May 30, 2026 10:37 AM EDT
+last_updated: May 30, 2026 11:31 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -55,11 +55,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/0b/94/c80b94de-f755-9419-2d15-51c648eb1156/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/fd/da/5afdda8a-ff15-4075-6c50-ed7bb9b767de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: This update contains bug fixes and stability improvements.
-    version: 18.2.3
+    version: 18.2.4
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
@@ -205,23 +205,16 @@ packages:
     version: 2.7.0
     app_store_url: https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4
   - name: iOS Microsoft Edge AI Browser
-    application_name: Microsoft Edge
-    bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/80/954b802a-a6c2-8ee8-fbf2-8a6a953ed6fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "Welcome to Microsoft Edge! Here's what's new in this release:\n\
-      \u2022 Introducing Themes: Personalize Edge with colors and wallpapers. Tap\
-      \ a theme and the whole browser matches \u2014 your style, your tab.\n\u2022\
-      \ Redesigned New Tab Page: Experience a fresh, Copilot-powered New Tab Page\
-      \ with a smarter search box that knows whether to search the web or chat with\
-      \ Copilot.\n\u2022 Journeys: Edge understands what you're working on and suggests\
-      \ next steps from your browsing activity.\n\u2022 Copilot in Edge Preview: Join\
-      \ the preview to unlock the full AI experience, try new features early, and\
-      \ help shape what comes next.\nUpgrade now to enjoy a smarter, faster, and more\
-      \ productive Microsoft Edge."
-    version: 148.3967.84
-    app_store_url: https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4
+    application_name: 'Opera: AI browser with VPN'
+    bundleId: com.opera.OperaTouch
+    currentVersionReleaseDate: May 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.0'
+    releaseNotes: '6.5.2: Hotfix for crash in Private Mode
+
+      6.5.1: A bunch of bug fixes, more crash fixes and improved stability'
+    version: 6.5.2
+    app_store_url: https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
@@ -320,15 +313,14 @@ packages:
     version: '476.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/fe/02/c7fe024b-d36a-46e6-6a3b-f3d1e417cb67/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Send documents to your computer with one tap. Open automatically\
-      \ when signed in on your computer.\n\xB7 Various improvements for a better experience."
-    version: 7.18.0
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: 'Lens: Translate & Image Search'
+    bundleId: com.searchdodo.ios
+    currentVersionReleaseDate: May 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.6'
+    releaseNotes: Bug fixes and performance improvements
+    version: 3.1.11
+    app_store_url: https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

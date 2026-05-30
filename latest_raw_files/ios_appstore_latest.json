@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 29, 2026 07:34 PM EDT",
+    "last_updated": "May 29, 2026 09:01 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -93,11 +93,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.copilot",
-            "currentVersionReleaseDate": "May 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/cf/1c/07cf1cb1-6a96-5171-a5ba-a3115876cc94/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 29, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/0f/ac/e00fac2d-a6e1-b9d9-d769-4790c6b66e57/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
-            "version": "30.0.440527004",
+            "version": "30.0.440528001",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
         },
         {
@@ -300,14 +300,14 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Meta Ads Manager",
-            "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "May 22, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/ce/dc/bbcedc92-59ef-ae36-7834-cea50f0e24a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.1",
-            "releaseNotes": "Bug fixes and performance updates",
-            "version": "476.0",
-            "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
+            "application_name": "Yelp for Business App",
+            "bundleId": "com.yelp.bizapp",
+            "currentVersionReleaseDate": "May 26, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/48/3c/0b483cef-522c-7db8-4b82-a705113d0920/app_icon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "18.0",
+            "releaseNotes": "Bug fixes and various improvements.",
+            "version": "26.22.0",
+            "app_store_url": "https://apps.apple.com/us/app/yelp-for-business-app/id936983378?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",

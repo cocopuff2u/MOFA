@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 30, 2026 05:42 AM EDT</last_updated>
+	<last_updated>May 30, 2026 06:38 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -369,14 +369,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>
-		<application_name>Meta Ads Manager</application_name>
-		<bundleId>com.facebook.MAdMan</bundleId>
-		<currentVersionReleaseDate>May 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/ce/dc/bbcedc92-59ef-ae36-7834-cea50f0e24a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.1</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance updates</releaseNotes>
-		<version>476.0</version>
-		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
+		<application_name>Yelp for Business App</application_name>
+		<bundleId>com.yelp.bizapp</bundleId>
+		<currentVersionReleaseDate>May 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/48/3c/0b483cef-522c-7db8-4b82-a705113d0920/app_icon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
+		<releaseNotes>Bug fixes and various improvements.</releaseNotes>
+		<version>26.22.0</version>
+		<app_store_url>https://apps.apple.com/us/app/yelp-for-business-app/id936983378?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>

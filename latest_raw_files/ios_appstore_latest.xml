@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>May 30, 2026 04:55 AM EDT</last_updated>
+	<last_updated>May 30, 2026 05:42 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>May 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/fd/da/5afdda8a-ff15-4075-6c50-ed7bb9b767de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>May 25, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/0b/94/c80b94de-f755-9419-2d15-51c648eb1156/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>18.2.4</version>
+		<version>18.2.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -252,15 +252,19 @@ Like Whiteboard?
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>
-		<application_name>Opera: AI browser with VPN</application_name>
-		<bundleId>com.opera.OperaTouch</bundleId>
-		<currentVersionReleaseDate>May 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>6.5.2: Hotfix for crash in Private Mode
-6.5.1: A bunch of bug fixes, more crash fixes and improved stability</releaseNotes>
-		<version>6.5.2</version>
-		<app_store_url>https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4</app_store_url>
+		<application_name>Microsoft Edge</application_name>
+		<bundleId>com.microsoft.msedge</bundleId>
+		<currentVersionReleaseDate>May 25, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/80/954b802a-a6c2-8ee8-fbf2-8a6a953ed6fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.0</minimumOsVersion>
+		<releaseNotes>Welcome to Microsoft Edge! Here's what's new in this release:
+• Introducing Themes: Personalize Edge with colors and wallpapers. Tap a theme and the whole browser matches — your style, your tab.
+• Redesigned New Tab Page: Experience a fresh, Copilot-powered New Tab Page with a smarter search box that knows whether to search the web or chat with Copilot.
+• Journeys: Edge understands what you're working on and suggests next steps from your browsing activity.
+• Copilot in Edge Preview: Join the preview to unlock the full AI experience, try new features early, and help shape what comes next.
+Upgrade now to enjoy a smarter, faster, and more productive Microsoft Edge.</releaseNotes>
+		<version>148.3967.84</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>

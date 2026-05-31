@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 31, 2026 08:38 AM EDT",
+    "last_updated": "May 31, 2026 09:36 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens: Translate & Image Search",
-            "bundleId": "com.searchdodo.ios",
-            "currentVersionReleaseDate": "May 05, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.6",
-            "releaseNotes": "Bug fixes and performance improvements",
-            "version": "3.1.11",
-            "app_store_url": "https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4"
+            "application_name": "Adobe Scan: PDF & OCR Scanner",
+            "bundleId": "com.adobe.scan.ios",
+            "currentVersionReleaseDate": "April 20, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/66/c3/3d66c350-8522-566e-999e-e4baa9ad9f13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "17.0",
+            "releaseNotes": "NEW \u2014 MAGIC ERASER ENHANCEMENT \n\nScan documents, not the fingers holding them. Instantly auto-detect and automatically remove fingers and their shadows on document scans with new enhancements to the Magic eraser tool.* \n\n*Paid subscribers",
+            "version": "26.04.17",
+            "app_store_url": "https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

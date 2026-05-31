@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 31, 2026 03:27 AM EDT",
+    "last_updated": "May 31, 2026 05:09 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -190,14 +190,14 @@
         },
         {
             "name": "iOS Microsoft Edge AI Browser",
-            "application_name": "Opera: AI browser with VPN",
-            "bundleId": "com.opera.OperaTouch",
-            "currentVersionReleaseDate": "May 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.0",
-            "releaseNotes": "6.5.2: Hotfix for crash in Private Mode\n6.5.1: A bunch of bug fixes, more crash fixes and improved stability",
-            "version": "6.5.2",
-            "app_store_url": "https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4"
+            "application_name": "Microsoft Edge",
+            "bundleId": "com.microsoft.msedge",
+            "currentVersionReleaseDate": "May 25, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/80/954b802a-a6c2-8ee8-fbf2-8a6a953ed6fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "17.0",
+            "releaseNotes": "Welcome to Microsoft Edge! Here's what's new in this release:\n\u2022 Introducing Themes: Personalize Edge with colors and wallpapers. Tap a theme and the whole browser matches \u2014 your style, your tab.\n\u2022 Redesigned New Tab Page: Experience a fresh, Copilot-powered New Tab Page with a smarter search box that knows whether to search the web or chat with Copilot.\n\u2022 Journeys: Edge understands what you're working on and suggests next steps from your browsing activity.\n\u2022 Copilot in Edge Preview: Join the preview to unlock the full AI experience, try new features early, and help shape what comes next.\nUpgrade now to enjoy a smarter, faster, and more productive Microsoft Edge.",
+            "version": "148.3967.84",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4"
         },
         {
             "name": "iOS Microsoft Seeing AI",
@@ -335,11 +335,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "May 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/52/af/2852af2d-9c55-d673-ebd8-531dab7a789b/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "May 31, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/b1/41/c1b14110-f688-46d5-5493-99f78c3c225e/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "37.4",
+            "version": "37.5",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4"
         },
         {

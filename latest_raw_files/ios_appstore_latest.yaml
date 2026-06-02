@@ -1,22 +1,22 @@
-last_updated: June 01, 2026 07:35 PM EDT
+last_updated: June 01, 2026 09:09 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: June 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/5a/ea/f35aea66-e798-f183-8e78-3c0ef9105d5b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0f/0a/0d0f0ae7-d0e9-24b3-8f53-c19bf4795613/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.3
+    version: 2.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/6a/07/9b6a07e7-60df-50d3-1370-f8d4cab835df/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/be/a3/a8bea3c4-802e-fba4-5e86-ba51287a3c07/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.2
+    version: 2.109.3
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -324,17 +324,14 @@ packages:
     version: '1.36'
     app_store_url: https://apps.apple.com/us/app/advertisement-maker/id1362417191?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Adobe Scan: PDF & OCR Scanner'
-    bundleId: com.adobe.scan.ios
-    currentVersionReleaseDate: April 20, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/66/c3/3d66c350-8522-566e-999e-e4baa9ad9f13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "NEW \u2014 MAGIC ERASER ENHANCEMENT \n\nScan documents, not the\
-      \ fingers holding them. Instantly auto-detect and automatically remove fingers\
-      \ and their shadows on document scans with new enhancements to the Magic eraser\
-      \ tool.* \n\n*Paid subscribers"
-    version: 26.04.17
-    app_store_url: https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4
+    application_name: Scanner App. JPG, Photo to PDF
+    bundleId: app.scanz
+    currentVersionReleaseDate: May 12, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/bb/e2/5cbbe2e1-d8b6-55a3-3186-29446e656924/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.4'
+    releaseNotes: '- Bug fixes and performance improvements'
+    version: 2.7.2
+    app_store_url: https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders
@@ -386,11 +383,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: June 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/5a/ea/f35aea66-e798-f183-8e78-3c0ef9105d5b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0f/0a/0d0f0ae7-d0e9-24b3-8f53-c19bf4795613/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.3
+    version: 2.109.2
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

@@ -1,13 +1,13 @@
-last_updated: June 01, 2026 09:09 PM EDT
+last_updated: June 01, 2026 11:19 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0f/0a/0d0f0ae7-d0e9-24b3-8f53-c19bf4795613/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/5a/ea/f35aea66-e798-f183-8e78-3c0ef9105d5b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.2
+    version: 2.109.3
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
@@ -78,11 +78,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: June 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/0d/76/4e0d761c-5727-6e62-ec2f-3b8f375b4275/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 20, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/02/a5/d102a546-7510-3608-0edc-6cb8db607a04/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and improvements
-    version: 1.1.77280101
+    version: 1.1.77130101
     app_store_url: https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
@@ -383,11 +383,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0f/0a/0d0f0ae7-d0e9-24b3-8f53-c19bf4795613/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/5a/ea/f35aea66-e798-f183-8e78-3c0ef9105d5b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.2
+    version: 2.109.3
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

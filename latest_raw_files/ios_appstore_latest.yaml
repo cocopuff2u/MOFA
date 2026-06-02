@@ -1,4 +1,4 @@
-last_updated: June 02, 2026 09:29 AM EDT
+last_updated: June 02, 2026 11:34 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -12,11 +12,11 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: May 25, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/6a/07/9b6a07e7-60df-50d3-1370-f8d4cab835df/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/be/a3/a8bea3c4-802e-fba4-5e86-ba51287a3c07/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.2
+    version: 2.109.3
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -146,14 +146,14 @@ packages:
     version: 3.24104.15
     app_store_url: https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4
   - name: iOS Microsoft Lists
-    application_name: Microsoft To Do
-    bundleId: com.microsoft.to-do
-    currentVersionReleaseDate: March 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/01/52/e101525b-283c-ff27-26b5-5da5e6919cd4/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '17.6'
-    releaseNotes: We fixed some bugs to improve the app experience.
-    version: '2.169'
-    app_store_url: https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4
+    application_name: Microsoft Planner
+    bundleId: com.microsoft.PlannerMobile
+    currentVersionReleaseDate: April 03, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/56/8a/c7568a5c-04f9-5e91-a2f3-9986abc3e485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: Bug fixes and performance improvements.
+    version: 1.17.15
+    app_store_url: https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
@@ -166,12 +166,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: May 18, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/1b/6c/811b6cea-8fd4-3bed-d360-6bcc6ead53ca/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/5d/2f/3e5d2f2c-acde-ebab-1970-12ec29a59387/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.6'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 11.41.0
+    version: 11.42.0
     app_store_url: https://apps.apple.com/us/app/viva-engage/id289559439?uo=4
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'
@@ -205,23 +205,16 @@ packages:
     version: 2.7.0
     app_store_url: https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4
   - name: iOS Microsoft Edge AI Browser
-    application_name: Microsoft Edge
-    bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: June 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/52/f3/d952f380-669f-c1e4-1a0a-1875ca60b51b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "Welcome to Microsoft Edge! Here's what's new in this release:\n\
-      \u2022 Introducing Themes: Personalize Edge with colors and wallpapers. Tap\
-      \ a theme and the whole browser matches \u2014 your style, your tab.\n\u2022\
-      \ Redesigned New Tab Page: Experience a fresh, Copilot-powered New Tab Page\
-      \ with a smarter search box that knows whether to search the web or chat with\
-      \ Copilot.\n\u2022 Journeys: Edge understands what you're working on and suggests\
-      \ next steps from your browsing activity.\n\u2022 Copilot in Edge Preview: Join\
-      \ the preview to unlock the full AI experience, try new features early, and\
-      \ help shape what comes next.\nUpgrade now to enjoy a smarter, faster, and more\
-      \ productive Microsoft Edge."
-    version: 148.3967.97
-    app_store_url: https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4
+    application_name: 'Opera: AI browser with VPN'
+    bundleId: com.opera.OperaTouch
+    currentVersionReleaseDate: May 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.0'
+    releaseNotes: '6.5.2: Hotfix for crash in Private Mode
+
+      6.5.1: A bunch of bug fixes, more crash fixes and improved stability'
+    version: 6.5.2
+    app_store_url: https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
     bundleId: com.microsoft.seeingai
@@ -293,11 +286,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: May 26, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/9b/15/db9b15d8-9cd8-7704-ab24-9299facb31e5/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: June 02, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/64/91/516491b6-ad9f-6dac-ba64-b8e815f39658/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.26053.12
+    version: 3.26054.10
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
@@ -311,29 +304,25 @@ packages:
     version: 6.8.47
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
-    application_name: Advertisement Maker
-    bundleId: com.nra.productmarketingmaker
-    currentVersionReleaseDate: June 06, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/eb/01/efeb01f9-8fdb-fe23-2ed6-e72a1a036e59/AppIcon_1-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '11.0'
-    releaseNotes: "Create stunning advertisements for your business, product, or services\
-      \ using the advertisement maker. 1000+ advertisement templates. Quick & Easy\
-      \ to Use.\n\nNew Version Includes:\n\u2022 Bug fixes and performance improvements.\n\
-      \nPlease rate the advertisement maker app and give your feedback to help us\
-      \ improve and create much more unique apps for you. Happy Designing..."
-    version: '1.36'
-    app_store_url: https://apps.apple.com/us/app/advertisement-maker/id1362417191?uo=4
+    application_name: Meta Ads Manager
+    bundleId: com.facebook.MAdMan
+    currentVersionReleaseDate: May 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/4d/7c/f54d7cf2-d818-0895-2024-4c85d197619d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.1'
+    releaseNotes: Bug fixes and performance updates
+    version: '477.0'
+    app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Adobe Scan: PDF & OCR Scanner'
     bundleId: com.adobe.scan.ios
-    currentVersionReleaseDate: April 20, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/66/c3/3d66c350-8522-566e-999e-e4baa9ad9f13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: "NEW \u2014 MAGIC ERASER ENHANCEMENT \n\nScan documents, not the\
-      \ fingers holding them. Instantly auto-detect and automatically remove fingers\
-      \ and their shadows on document scans with new enhancements to the Magic eraser\
-      \ tool.* \n\n*Paid subscribers"
-    version: 26.04.17
+    currentVersionReleaseDate: June 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/b2/40/33b240d0-f463-ad31-2607-78dd9f484d63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
+    releaseNotes: "NEW \u2014 OPEN PDFS DIRECTLY IN SCAN  \nYou can now open PDFs\
+      \ using the Adobe Scan app. Your PDF will be uploaded to Adobe Document Cloud\
+      \ and you can access tools like Modify, Edit, and Share in Scan, based on your\
+      \ subscription level."
+    version: 26.06.01
     app_store_url: https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
@@ -384,14 +373,14 @@ packages:
     version: 2.1.4
     app_store_url: https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft Word
-    bundleId: com.microsoft.Office.Word
+    application_name: Microsoft 365 Copilot
+    bundleId: com.microsoft.officemobile
     currentVersionReleaseDate: June 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/5a/ea/f35aea66-e798-f183-8e78-3c0ef9105d5b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/bd/ca/1cbdca9d-ed7e-b2da-704d-fa6a439a9ee8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.109.3
-    app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
+    version: 2.110.4
+    app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

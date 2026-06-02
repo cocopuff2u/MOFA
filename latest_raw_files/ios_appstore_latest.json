@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 02, 2026 05:11 PM EDT",
+    "last_updated": "June 02, 2026 06:46 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "May 25, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/7f/fb/c77ffbcb-f993-0cf0-562e-bcb0eab29ed3/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 01, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/c2/87/c6c28775-025d-a27e-bd0d-bbc7c7d8c2fe/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2620.0",
+            "version": "5.2621.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Scanner App. JPG, Photo to PDF",
-            "bundleId": "app.scanz",
-            "currentVersionReleaseDate": "May 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/bb/e2/5cbbe2e1-d8b6-55a3-3186-29446e656924/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "16.4",
-            "releaseNotes": "- Bug fixes and performance improvements",
-            "version": "2.7.2",
-            "app_store_url": "https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4"
+            "application_name": "Adobe Scan: PDF & OCR Scanner",
+            "bundleId": "com.adobe.scan.ios",
+            "currentVersionReleaseDate": "June 01, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/b2/40/33b240d0-f463-ad31-2607-78dd9f484d63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "18.0",
+            "releaseNotes": "NEW \u2014 OPEN PDFS DIRECTLY IN SCAN  \nYou can now open PDFs using the Adobe Scan app. Your PDF will be uploaded to Adobe Document Cloud and you can access tools like Modify, Edit, and Share in Scan, based on your subscription level.",
+            "version": "26.06.01",
+            "app_store_url": "https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

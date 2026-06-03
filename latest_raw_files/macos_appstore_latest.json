@@ -1,15 +1,15 @@
 {
-    "last_updated": "June 03, 2026 03:28 PM EDT",
+    "last_updated": "June 03, 2026 05:11 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "May 27, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/eb/de/f7ebde0d-5571-d28a-29a1-ff347d6827ce/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "June 02, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/41/9e/75419e0e-62b6-237e-8ebf-13b3f6abc9fa/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.109.2",
+            "version": "16.109.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {

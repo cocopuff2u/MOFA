@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 03, 2026 03:28 PM EDT",
+    "last_updated": "June 03, 2026 05:11 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Adobe Scan: PDF & OCR Scanner",
-            "bundleId": "com.adobe.scan.ios",
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
             "currentVersionReleaseDate": "June 01, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/b2/40/33b240d0-f463-ad31-2607-78dd9f484d63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "18.0",
-            "releaseNotes": "NEW \u2014 OPEN PDFS DIRECTLY IN SCAN  \nYou can now open PDFs using the Adobe Scan app. Your PDF will be uploaded to Adobe Document Cloud and you can access tools like Modify, Edit, and Share in Scan, based on your subscription level.",
-            "version": "26.06.01",
-            "app_store_url": "https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4"
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e9/2f/3ee92fdd-e169-e830-0237-3bc0815b9048/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 Send documents to your computer with one tap. Open automatically when signed in on your computer.\n\u00b7 Various improvements for a better experience.",
+            "version": "7.18.5",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

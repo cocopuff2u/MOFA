@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 03, 2026 07:44 AM EDT</last_updated>
+    <last_updated>June 03, 2026 09:50 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -178,7 +178,7 @@
         <full_version>1.124.0-insider</full_version>
         <last_updated>June 03, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/8d1fba12d9d9821515cf54d1a506305502971a1c/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/f138cc2fb5fe0586b5ac077973bc661ebd9baf9c/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 02, 2026 11:19 PM EDT</last_updated>
+	<last_updated>June 03, 2026 01:45 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>May 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/eb/de/f7ebde0d-5571-d28a-29a1-ff347d6827ce/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/41/9e/75419e0e-62b6-237e-8ebf-13b3f6abc9fa/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.109.2</version>
+		<version>16.109.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>June 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/b5/28/f8b5282b-cba3-2517-7f88-f62052105da6/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>May 27, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/9b/eb/ee9beba6-4627-603f-0b5e-0a7e459f8b36/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.109.3</version>
+		<version>16.109.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

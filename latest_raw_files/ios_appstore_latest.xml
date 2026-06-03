@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 03, 2026 03:53 AM EDT</last_updated>
+	<last_updated>June 03, 2026 05:45 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -106,14 +106,14 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot</bundleId>
-		<currentVersionReleaseDate>May 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/0f/ac/e00fac2d-a6e1-b9d9-d769-4790c6b66e57/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/77/f6/6177f6b8-8746-812b-d2ba-5e3c3de9d4ab/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Introducing the New Copilot: Your AI Companion
 This update includes an intuitive design with more digestible and faster answers, plus new features.
 Copilot Voice: Perfect for brainstorming, quick questions, or just venting.
 Copilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.</releaseNotes>
-		<version>30.0.440528001</version>
+		<version>30.0.440529001</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4</app_store_url>
 	</package>
 	<package>
@@ -376,15 +376,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Adobe Scan: PDF &amp; OCR Scanner</application_name>
-		<bundleId>com.adobe.scan.ios</bundleId>
-		<currentVersionReleaseDate>June 01, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/b2/40/33b240d0-f463-ad31-2607-78dd9f484d63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>NEW — OPEN PDFS DIRECTLY IN SCAN  
-You can now open PDFs using the Adobe Scan app. Your PDF will be uploaded to Adobe Document Cloud and you can access tools like Modify, Edit, and Share in Scan, based on your subscription level.</releaseNotes>
-		<version>26.06.01</version>
-		<app_store_url>https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4</app_store_url>
+		<application_name>Scanner App. JPG, Photo to PDF</application_name>
+		<bundleId>app.scanz</bundleId>
+		<currentVersionReleaseDate>May 12, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/bb/e2/5cbbe2e1-d8b6-55a3-3186-29446e656924/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.4</minimumOsVersion>
+		<releaseNotes>- Bug fixes and performance improvements</releaseNotes>
+		<version>2.7.2</version>
+		<app_store_url>https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

@@ -1,4 +1,4 @@
-last_updated: June 03, 2026 03:53 AM EDT
+last_updated: June 03, 2026 05:45 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -87,8 +87,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot
-    currentVersionReleaseDate: May 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/0f/ac/e00fac2d-a6e1-b9d9-d769-4790c6b66e57/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 02, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/77/f6/6177f6b8-8746-812b-d2ba-5e3c3de9d4ab/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Introducing the New Copilot: Your AI Companion
 
@@ -99,7 +99,7 @@ packages:
 
       Copilot Daily: Start your day with a news and weather summary. Clean, simple,
       and easy to digest.'
-    version: 30.0.440528001
+    version: 30.0.440529001
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
@@ -313,17 +313,14 @@ packages:
     version: '477.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Adobe Scan: PDF & OCR Scanner'
-    bundleId: com.adobe.scan.ios
-    currentVersionReleaseDate: June 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/b2/40/33b240d0-f463-ad31-2607-78dd9f484d63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.0'
-    releaseNotes: "NEW \u2014 OPEN PDFS DIRECTLY IN SCAN  \nYou can now open PDFs\
-      \ using the Adobe Scan app. Your PDF will be uploaded to Adobe Document Cloud\
-      \ and you can access tools like Modify, Edit, and Share in Scan, based on your\
-      \ subscription level."
-    version: 26.06.01
-    app_store_url: https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834?uo=4
+    application_name: Scanner App. JPG, Photo to PDF
+    bundleId: app.scanz
+    currentVersionReleaseDate: May 12, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/bb/e2/5cbbe2e1-d8b6-55a3-3186-29446e656924/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.4'
+    releaseNotes: '- Bug fixes and performance improvements'
+    version: 2.7.2
+    app_store_url: https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

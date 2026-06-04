@@ -1,4 +1,4 @@
-last_updated: June 04, 2026 09:17 AM EDT
+last_updated: June 04, 2026 11:08 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -302,13 +302,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: June 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/f6/d7/53f6d7ea-8e07-99fb-0b39-4f01cb8f2db0/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: May 12, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/51/7d/ce517d96-d52d-0624-9faf-6f6d37eee4ae/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
       improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.48
+    version: 6.8.47
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
     application_name: Meta Ads Manager

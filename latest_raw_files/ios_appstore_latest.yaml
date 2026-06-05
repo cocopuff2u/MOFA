@@ -1,4 +1,4 @@
-last_updated: June 05, 2026 07:12 AM EDT
+last_updated: June 05, 2026 09:12 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -320,15 +320,14 @@ packages:
     version: '477.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: June 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e9/2f/3ee92fdd-e169-e830-0237-3bc0815b9048/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Send documents to your computer with one tap. Open automatically\
-      \ when signed in on your computer.\n\xB7 Various improvements for a better experience."
-    version: 7.18.5
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: 'Lens: Translate & Image Search'
+    bundleId: com.searchdodo.ios
+    currentVersionReleaseDate: May 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.6'
+    releaseNotes: Bug fixes and performance improvements
+    version: 3.1.11
+    app_store_url: https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

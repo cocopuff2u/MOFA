@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 06, 2026 11:32 AM EDT",
+    "last_updated": "June 06, 2026 01:31 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens: Translate & Image Search",
-            "bundleId": "com.searchdodo.ios",
-            "currentVersionReleaseDate": "May 05, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.6",
-            "releaseNotes": "Bug fixes and performance improvements",
-            "version": "3.1.11",
-            "app_store_url": "https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4"
+            "application_name": "Scanner App. JPG, Photo to PDF",
+            "bundleId": "app.scanz",
+            "currentVersionReleaseDate": "May 12, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/bb/e2/5cbbe2e1-d8b6-55a3-3186-29446e656924/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "16.4",
+            "releaseNotes": "- Bug fixes and performance improvements",
+            "version": "2.7.2",
+            "app_store_url": "https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

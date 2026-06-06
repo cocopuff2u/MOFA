@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>June 05, 2026 09:47 PM EDT</last_updated>
+  <last_updated>June 05, 2026 11:14 PM EDT</last_updated>
   <package>
     <name>Production Ring</name>
     <short_version>26.095.0519</short_version>
@@ -25,25 +25,25 @@
   </package>
   <package>
     <name>Deferred Ring</name>
-    <short_version>25.224.1116</short_version>
-    <application_id>ONDR18</application_id>
-    <application_name>OneDrive.app</application_name>
-    <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://go.microsoft.com/fwlink/?linkid=861009</full_update_download>
-    <full_update_sha1>8b03b311d9d951a868fe1e3885c0ecfa152954be</full_update_sha1>
-    <full_update_sha256>af9a46aebad03ac57c604bf228d1a140a29d4c57bcf4e95599c2e94f41c917e9</full_update_sha256>
-    <last_updated>April 07, 2026 09:40 PM EDT</last_updated>
-  </package>
-  <package>
-    <name>Upcoming Deferred  Ring</name>
     <short_version>26.040.0301</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://go.microsoft.com/fwlink/?linkid=861010</full_update_download>
+    <full_update_download>https://go.microsoft.com/fwlink/?linkid=861009</full_update_download>
     <full_update_sha1>0c90eb257c1eb56f2bf59a8284b1a4eab9560310</full_update_sha1>
     <full_update_sha256>717bcf5dbce3a44fc5a27db916ba62291161236e71a87e827a38f044de49613d</full_update_sha256>
-    <last_updated>April 07, 2026 09:40 PM EDT</last_updated>
+    <last_updated>June 05, 2026 11:14 PM EDT</last_updated>
+  </package>
+  <package>
+    <name>Upcoming Deferred  Ring</name>
+    <short_version>26.078.0426</short_version>
+    <application_id>ONDR18</application_id>
+    <application_name>OneDrive.app</application_name>
+    <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
+    <full_update_download>https://go.microsoft.com/fwlink/?linkid=861010</full_update_download>
+    <full_update_sha1>6b840a8bad382a4691170f514def87f82721bb58</full_update_sha1>
+    <full_update_sha256>c500f9fbc51e856fc890832d6e9352c2c0af6a5400a4c4b3e2e2c0ef48ecbbab</full_update_sha256>
+    <last_updated>June 05, 2026 11:14 PM EDT</last_updated>
   </package>
   <package>
     <name>Insider Ring</name>
@@ -58,24 +58,24 @@
   </package>
   <package>
     <name>Rolling Out (Unknown Use)</name>
-    <short_version>26.084.0504</short_version>
+    <short_version>26.095.0519</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=861011</full_update_download>
-    <full_update_sha1>03eaba9651ab75d31fe0d4956b07a8f2a8102da5</full_update_sha1>
-    <full_update_sha256>76e519efdfb9cc999d38adac5fa9f3fed6fcc1f10c0d2ace7e63285e2676f071</full_update_sha256>
-    <last_updated>May 27, 2026 02:55 PM EDT</last_updated>
+    <full_update_sha1>bba2ac19d166da0b9f57d3c8bc04fdc4c065600e</full_update_sha1>
+    <full_update_sha256>37aae54a4ba9dd9184296a78490416b682e78b8ea2b4f0f198336c3e85f0b0b7</full_update_sha256>
+    <last_updated>June 05, 2026 11:14 PM EDT</last_updated>
   </package>
   <package>
     <name>App New Version (Unknown Use)</name>
-    <short_version>26.078.0426</short_version>
+    <short_version>26.088.0510</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=823060</full_update_download>
-    <full_update_sha1>6b840a8bad382a4691170f514def87f82721bb58</full_update_sha1>
-    <full_update_sha256>c500f9fbc51e856fc890832d6e9352c2c0af6a5400a4c4b3e2e2c0ef48ecbbab</full_update_sha256>
-    <last_updated>May 27, 2026 02:55 PM EDT</last_updated>
+    <full_update_sha1>b7a68b9839da58e4b4a99d4af33debefcf238a89</full_update_sha1>
+    <full_update_sha256>64bb51367175efcb6fea6d7fb8ed6bbf10d7117b0c1a40130f56ce157beff6a8</full_update_sha256>
+    <last_updated>June 05, 2026 11:14 PM EDT</last_updated>
   </package>
 </latest>

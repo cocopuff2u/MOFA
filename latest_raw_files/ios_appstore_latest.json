@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 08, 2026 05:45 AM EDT",
+    "last_updated": "June 08, 2026 07:42 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -16,11 +16,11 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "June 08, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/f9/e3/64f9e3a5-c123-526f-420d-da098a080cb1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 01, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/be/a3/a8bea3c4-802e-fba4-5e86-ba51287a3c07/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.109.4",
+            "version": "2.109.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
         },
         {
@@ -58,14 +58,14 @@
         },
         {
             "name": "iOS Microsoft OneDrive",
-            "application_name": "Microsoft OneNote",
-            "bundleId": "com.microsoft.onenote",
-            "currentVersionReleaseDate": "June 01, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/a8/49/8da84942-801b-637c-4eda-a09313a4e970/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "application_name": "Microsoft OneDrive",
+            "bundleId": "com.microsoft.skydrive",
+            "currentVersionReleaseDate": "May 29, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/fd/da/5afdda8a-ff15-4075-6c50-ed7bb9b767de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.109.3",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4"
+            "releaseNotes": "This update contains bug fixes and stability improvements.",
+            "version": "18.2.4",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
         },
         {
             "name": "iOS Microsoft Windows App Mobile",

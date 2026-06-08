@@ -1,4 +1,4 @@
-last_updated: June 08, 2026 05:37 PM EDT
+last_updated: June 08, 2026 06:36 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: June 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/81/44/cc814472-f608-7e91-794c-43cc5a6ce793/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 08, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/bd/a3/5dbda31c-b6f0-07d1-cc59-82fd9111537a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2621.1
+    version: 5.2622.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -207,20 +207,15 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: Microsoft Edge
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: June 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/52/f3/d952f380-669f-c1e4-1a0a-1875ca60b51b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
+    currentVersionReleaseDate: June 08, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/ca/a2/e9caa25f-2613-58e7-a688-13977965d00d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.0'
     releaseNotes: "Welcome to Microsoft Edge! Here's what's new in this release:\n\
-      \u2022 Introducing Themes: Personalize Edge with colors and wallpapers. Tap\
-      \ a theme and the whole browser matches \u2014 your style, your tab.\n\u2022\
-      \ Redesigned New Tab Page: Experience a fresh, Copilot-powered New Tab Page\
-      \ with a smarter search box that knows whether to search the web or chat with\
-      \ Copilot.\n\u2022 Journeys: Edge understands what you're working on and suggests\
-      \ next steps from your browsing activity.\n\u2022 Copilot in Edge Preview: Join\
-      \ the preview to unlock the full AI experience, try new features early, and\
-      \ help shape what comes next.\nUpgrade now to enjoy a smarter, faster, and more\
-      \ productive Microsoft Edge."
-    version: 148.3967.97
+      \u2022 Ask Copilot with an image: Quickly send an image to Copilot for smart\
+      \ insights and helpful answers.\n\u2022 Bug fixes, stability, and performance\
+      \ improvements.\nUpgrade now to enjoy a smarter, faster, and more productive\
+      \ Microsoft Edge."
+    version: 149.4022.53
     app_store_url: https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI

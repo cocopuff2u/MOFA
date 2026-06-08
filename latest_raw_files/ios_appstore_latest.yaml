@@ -1,4 +1,4 @@
-last_updated: June 07, 2026 11:19 PM EDT
+last_updated: June 08, 2026 01:43 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -176,19 +176,17 @@ packages:
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'
     bundleId: com.jimschultz.WhiteBoard
-    currentVersionReleaseDate: May 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/bc/82/ebbc82df-64f5-b0d8-5a3b-e4d503b7f67b/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: June 07, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/12/20/cf12204a-2b70-d7d2-3fcb-bb3ed1e2030f/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.6'
     releaseNotes: "Thanks everyone for using Whiteboard. Here's what's new in this\
       \ version :) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Fixed\
-      \ Shake to Erase reliability\n* Added a confirmation prompt before deleting\
-      \ drawings\n* Fixed a crash when opening the drawing gallery\n* Made drawing\
-      \ feel smoother and more responsive\n* Improved gallery loading, scrolling,\
-      \ and thumbnail rendering\n* Improved overall stability\n\n\n2.0 Additions and\
-      \ Improvements\n* Introducing SharePlay drawing, draw with others over FaceTime\
-      \ or Messages.\n* Introducing Creator Kit, get the most out of Whiteboard and\
-      \ support Indie development\n* Now you can zoom in and out on drawings and images!\n\
-      * Scroll around in freedom on the all new, expansive, drawing board.\n* Autorotate\
+      \ crash in Messages\n* Improved launch time\n* Improved error reporting\n* Improved\
+      \ drawing board loading and rendering\n\n\n2.0 Additions and Improvements\n\
+      * Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n\
+      * Introducing Creator Kit, get the most out of Whiteboard and support Indie\
+      \ development\n* Now you can zoom in and out on drawings and images!\n* Scroll\
+      \ around in freedom on the all new, expansive, drawing board.\n* Autorotate\
       \ from portrait to landscape and back, or you can choose to lock orientation.\n\
       * Drawing library, open and continue working on your recent drawings.\n* Add\
       \ new drawing button, create a new drawing anytime.\n* Significant performance\
@@ -202,7 +200,7 @@ packages:
       \ me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to\
       \ my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\
       \u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard."
-    version: 2.7.0
+    version: 2.7.1
     app_store_url: https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4
   - name: iOS Microsoft Edge AI Browser
     application_name: Microsoft Edge
@@ -320,14 +318,15 @@ packages:
     version: '478.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: Scanner App. JPG, Photo to PDF
-    bundleId: app.scanz
-    currentVersionReleaseDate: May 12, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/bb/e2/5cbbe2e1-d8b6-55a3-3186-29446e656924/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.4'
-    releaseNotes: '- Bug fixes and performance improvements'
-    version: 2.7.2
-    app_store_url: https://apps.apple.com/us/app/scanner-app-jpg-photo-to-pdf/id1425891150?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: June 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e9/2f/3ee92fdd-e169-e830-0237-3bc0815b9048/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 Send documents to your computer with one tap. Open automatically\
+      \ when signed in on your computer.\n\xB7 Various improvements for a better experience."
+    version: 7.18.5
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders
@@ -340,11 +339,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: May 31, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/b1/41/c1b14110-f688-46d5-5493-99f78c3c225e/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: June 07, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/f9/98/c2f998c2-6087-2046-572f-050a60ffa94d/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "- Improved stability and fixed various bugs.\u200B"
-    version: '37.5'
+    version: '37.6'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin

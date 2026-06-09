@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 09, 2026 06:37 PM EDT",
+    "last_updated": "June 09, 2026 07:33 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -82,11 +82,11 @@
             "name": "MacOS Microsoft Windows App",
             "application_name": "Windows App",
             "bundleId": "com.microsoft.rdc.macos",
-            "currentVersionReleaseDate": "June 09, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/65/83/c16583b2-c073-ef27-f632-34fd68439b37/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "April 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/db/ad/30dbadcc-f7c3-3def-723a-76e89ee9e238/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "It's time to clean house and fix some bugs! This update includes fixes for issues reported by users and internal telemetry. \n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.3.6",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Incorporated Liquid Glass styling and elements throughout the app (requires macOS 26 or later). \n\u2022 Refreshed the App Settings dialog.\n\u2022 Updated Teams VDI 2 components.\n\u2022 For managed PC endpoints the redirected folders list in Configure > Folders now includes the default folder in Settings > General.\n\u2022 Fixed Health Checks to ensure that Service Reachability and Gateways URLs are checked based on the current user.\n\u2022 Resolved inaccuracies with the Windows 365 Reserve remaining days count down.\n\u2022 Fixed a bug where activating a Reserve Cloud PC made other Cloud PC's associated with the account disappear.\n\u2022 Only the Activate and View Options menu items are now shown for unactivated Reserve PCs.\n\u2022 Resolved an issue where Frontline license acquisition took longer than 20s while connecting.\n\u2022 Added a new connection sequence status message that appears if Frontline license acquisition takes longer than 20s. \n\u2022 Added the \"Powered Off\" and \"Hibernated\" states to the device card.\n\u2022 Updated the View Details dialog to explain why Cloud PC actions are unavailable.\n\u2022 Disabled Cloud PC action menu items that aren't available in the current state.\n\u2022 Fixed a RemoteApp issue with SAP Logon which caused a message box to disappear when it lost focus.\n\u2022 Added more robust error handling around authentication token acquisition.\n\u2022 Added the ^1 and ^2 shortcuts to switch to the Devices and Apps tabs respectively.\n\u2022 Resolved duplicate in-app notifications that appeared when triggering a Cloud PC action.\n\u2022 Fixed app hangs that occurred when retrieving the account list, displaying notifications, or hovering over a device card.\n\u2022 Added the \"MAS\" prefix to the support ID in the About dialog to identify Appstore releases.\n\u2022 Addressed crashes that were showing up in error reporting.\n\nThis update requires macOS 14 and later. macOS 13 is no longer supported.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
+            "version": "11.3.5",
             "app_store_url": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4"
         },
         {

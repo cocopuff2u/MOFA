@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 09, 2026 01:29 AM EDT</last_updated>
+	<last_updated>June 09, 2026 03:24 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>June 01, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/5a/ea/f35aea66-e798-f183-8e78-3c0ef9105d5b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/60/be/b960be13-5d11-cff1-811e-04d6aafa3d1f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.109.3</version>
+		<version>2.109.4</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
@@ -27,11 +27,11 @@
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>June 01, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/0a/92/2a0a929c-85e2-61ee-e171-e2f0f3f56349/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/4c/6a/324c6a88-330c-fb37-c667-62ed3e64b96f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.109.3</version>
+		<version>2.109.4</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4</app_store_url>
 	</package>
 	<package>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>May 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/fd/da/5afdda8a-ff15-4075-6c50-ed7bb9b767de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/eb/9b/9aeb9b6e-a29d-1c48-2ce3-3e83be4c18ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>18.2.4</version>
+		<releaseNotes>This version of OneDrive no longer supports SharePoint Server on-premises accounts. SharePoint Server 2016 and 2019 reach end of support on July 14, 2026. Personal Microsoft accounts and Microsoft 365 work or school accounts are unaffected.</releaseNotes>
+		<version>18.3.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -208,18 +208,16 @@ On-premises – Fixed issues affecting on-premises deployments on iOS.</releaseN
 		<name>iOS Microsoft Whiteboard</name>
 		<application_name>Whiteboard: just draw together</application_name>
 		<bundleId>com.jimschultz.WhiteBoard</bundleId>
-		<currentVersionReleaseDate>May 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/bc/82/ebbc82df-64f5-b0d8-5a3b-e4d503b7f67b/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 07, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/12/20/cf12204a-2b70-d7d2-3fcb-bb3ed1e2030f/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.6</minimumOsVersion>
 		<releaseNotes>Thanks everyone for using Whiteboard. Here's what's new in this version :) Please keep the feedback coming y'all! Enjoy.
 
 CHANGELOG
-* Fixed Shake to Erase reliability
-* Added a confirmation prompt before deleting drawings
-* Fixed a crash when opening the drawing gallery
-* Made drawing feel smoother and more responsive
-* Improved gallery loading, scrolling, and thumbnail rendering
-* Improved overall stability
+* Fixed crash in Messages
+* Improved launch time
+* Improved error reporting
+* Improved drawing board loading and rendering
 
 
 2.0 Additions and Improvements
@@ -247,7 +245,7 @@ Like Whiteboard?
 • Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.
 • Please subscribe to my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw
 • Please send me your Whiteboard drawings on Instagram @getwhiteboard.</releaseNotes>
-		<version>2.7.0</version>
+		<version>2.7.1</version>
 		<app_store_url>https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4</app_store_url>
 	</package>
 	<package>

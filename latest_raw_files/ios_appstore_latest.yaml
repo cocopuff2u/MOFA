@@ -1,4 +1,4 @@
-last_updated: June 09, 2026 07:09 AM EDT
+last_updated: June 09, 2026 09:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: June 08, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/bd/a3/5dbda31c-b6f0-07d1-cc59-82fd9111537a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/81/44/cc814472-f608-7e91-794c-43cc5a6ce793/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2622.0
+    version: 5.2621.1
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -55,13 +55,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: June 08, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/eb/9b/9aeb9b6e-a29d-1c48-2ce3-3e83be4c18ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: May 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/fd/da/5afdda8a-ff15-4075-6c50-ed7bb9b767de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: This version of OneDrive no longer supports SharePoint Server on-premises
-      accounts. SharePoint Server 2016 and 2019 reach end of support on July 14, 2026.
-      Personal Microsoft accounts and Microsoft 365 work or school accounts are unaffected.
-    version: 18.3.3
+    releaseNotes: This update contains bug fixes and stability improvements.
+    version: 18.2.4
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
@@ -315,14 +313,15 @@ packages:
     version: '478.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Lens: Translate & Image Search'
-    bundleId: com.searchdodo.ios
-    currentVersionReleaseDate: May 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.6'
-    releaseNotes: Bug fixes and performance improvements
-    version: 3.1.11
-    app_store_url: https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: June 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e9/2f/3ee92fdd-e169-e830-0237-3bc0815b9048/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 Send documents to your computer with one tap. Open automatically\
+      \ when signed in on your computer.\n\xB7 Various improvements for a better experience."
+    version: 7.18.5
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders
@@ -374,11 +373,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: June 08, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/79/f9/ed79f932-5429-16c0-66ef-d213a6179373/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 03, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/bf/d3/2ebfd3aa-3306-2dd0-de1d-5daaa186a255/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.110.6
+    version: 2.110.5
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

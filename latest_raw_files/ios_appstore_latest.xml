@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 09, 2026 01:45 PM EDT</last_updated>
+	<last_updated>June 09, 2026 02:51 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,13 +38,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>June 04, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/81/44/cc814472-f608-7e91-794c-43cc5a6ce793/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/bd/a3/5dbda31c-b6f0-07d1-cc59-82fd9111537a/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2621.1</version>
+		<version>5.2622.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>May 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/fd/da/5afdda8a-ff15-4075-6c50-ed7bb9b767de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/eb/9b/9aeb9b6e-a29d-1c48-2ce3-3e83be4c18ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>18.2.4</version>
+		<releaseNotes>This version of OneDrive no longer supports SharePoint Server on-premises accounts. SharePoint Server 2016 and 2019 reach end of support on July 14, 2026. Personal Microsoft accounts and Microsoft 365 work or school accounts are unaffected.</releaseNotes>
+		<version>18.3.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -345,11 +345,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>June 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/2a/a0/4d2aa00f-28fd-2458-6be2-bae2fc75bfcf/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/64/91/516491b6-ad9f-6dac-ba64-b8e815f39658/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26061.11</version>
+		<version>3.26054.10</version>
 		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
@@ -376,15 +376,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>CamScanner - PDF Scanner App</application_name>
-		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>June 08, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/dd/51/4add5139-f409-8b6c-8294-b127a70d1e2d/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>· You can now use your camera or scan mode to sign in to your computer.
-· Various improvements for a better experience.</releaseNotes>
-		<version>7.19.0</version>
-		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
+		<application_name>Lens: Translate &amp; Image Search</application_name>
+		<bundleId>com.searchdodo.ios</bundleId>
+		<currentVersionReleaseDate>May 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.6</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>3.1.11</version>
+		<app_store_url>https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

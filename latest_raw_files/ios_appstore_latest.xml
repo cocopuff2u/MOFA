@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 10, 2026 06:41 PM EDT</last_updated>
+	<last_updated>June 10, 2026 07:35 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -244,17 +244,15 @@ Like Whiteboard?
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>
-		<application_name>Microsoft Edge</application_name>
-		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>June 08, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/ca/a2/e9caa25f-2613-58e7-a688-13977965d00d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Here's what's new in this release:
-• Ask Copilot with an image: Quickly send an image to Copilot for smart insights and helpful answers.
-• Bug fixes, stability, and performance improvements.
-Upgrade now to enjoy a smarter, faster, and more productive Microsoft Edge.</releaseNotes>
-		<version>149.4022.53</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4</app_store_url>
+		<application_name>Opera: AI browser with VPN</application_name>
+		<bundleId>com.opera.OperaTouch</bundleId>
+		<currentVersionReleaseDate>May 28, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>6.5.2: Hotfix for crash in Private Mode
+6.5.1: A bunch of bug fixes, more crash fixes and improved stability</releaseNotes>
+		<version>6.5.2</version>
+		<app_store_url>https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
@@ -370,14 +368,15 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Lens: Translate &amp; Image Search</application_name>
-		<bundleId>com.searchdodo.ios</bundleId>
-		<currentVersionReleaseDate>May 05, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/90/14/f490147a-8345-e22b-8176-c388e95a0da2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.6</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>3.1.11</version>
-		<app_store_url>https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4</app_store_url>
+		<application_name>CamScanner - PDF Scanner App</application_name>
+		<bundleId>com.intsig.CamScannerLite</bundleId>
+		<currentVersionReleaseDate>June 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/dd/51/4add5139-f409-8b6c-8294-b127a70d1e2d/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>13.0</minimumOsVersion>
+		<releaseNotes>· You can now use your camera or scan mode to sign in to your computer.
+· Various improvements for a better experience.</releaseNotes>
+		<version>7.19.0</version>
+		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>June 11, 2026 01:22 PM EDT</last_updated>
+  <last_updated>June 11, 2026 03:09 PM EDT</last_updated>
   <Version>
     <Name>current</Name>
     <Version>149.0.4022.62</Version>
@@ -25,24 +25,24 @@
   </Version>
   <Version>
     <Name>dev</Name>
-    <Version>150.0.4064.2</Version>
+    <Version>150.0.4078.5</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c3f4e46-88ce-4563-b4d8-0f42a65fbe36/MicrosoftEdgeDev-150.0.4064.2.pkg</Full_Update_Download>
-    <Full_Update_Sha1>972e61ee79dcd7dc25883c7189ce2212bd52573a</Full_Update_Sha1>
-    <Full_Update_Sha256>9a9618f072db7bd59d1a49e605b890d1fa2687e700b06e820067dcec87825a65</Full_Update_Sha256>
-    <Last_Update>June 04, 2026 02:05 PM EDT</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c8121c99-61ec-44af-985e-c7e723c23a06/MicrosoftEdgeDev-150.0.4078.5.pkg</Full_Update_Download>
+    <Full_Update_Sha1>efc61b675521e55b2bb0dc1bc3a9cef25089ac54</Full_Update_Sha1>
+    <Full_Update_Sha256>cc3a24d6c3baaad28c5ae0469994c002b6cc11e76115767466fbf38bedf67d16</Full_Update_Sha256>
+    <Last_Update>June 11, 2026 01:25 PM EDT</Last_Update>
   </Version>
   <Version>
     <Name>beta</Name>
-    <Version>149.0.4022.62</Version>
+    <Version>150.0.4078.5</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/05c7efdc-380a-4027-9776-61d27b087523/MicrosoftEdgeBeta-149.0.4022.62.pkg</Full_Update_Download>
-    <Full_Update_Sha1>f1c3a2ed07bf291b058e597bba8c0522a88f57be</Full_Update_Sha1>
-    <Full_Update_Sha256>3c3b71ac4175b76bbdbf4662fa8ae53dc00fa2c8d35c11542ca13df86a0efd36</Full_Update_Sha256>
-    <Last_Update>June 09, 2026 11:33 AM EDT</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9055cf39-e1a3-405b-a486-f3bb2de917e0/MicrosoftEdgeBeta-150.0.4078.5.pkg</Full_Update_Download>
+    <Full_Update_Sha1>c7d435392c39d4548983b7476cc1b1973ab9ba9e</Full_Update_Sha1>
+    <Full_Update_Sha256>a573259e4d7bcc1617831e84987a19d467ce101ce3ba39d010388e5d28c341b6</Full_Update_Sha256>
+    <Last_Update>June 11, 2026 01:38 PM EDT</Last_Update>
   </Version>
 </EdgeInsiderVersions>

@@ -1,4 +1,4 @@
-last_updated: June 12, 2026 03:48 AM EDT
+last_updated: June 12, 2026 05:32 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -204,13 +204,11 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Opera: AI browser with VPN'
     bundleId: com.opera.OperaTouch
-    currentVersionReleaseDate: May 28, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/47/1b/cb471b4d-b358-45af-d857-55c0c0ce177f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.0'
-    releaseNotes: '6.5.2: Hotfix for crash in Private Mode
-
-      6.5.1: A bunch of bug fixes, more crash fixes and improved stability'
-    version: 6.5.2
+    releaseNotes: Bug fixes and UI improvements
+    version: 6.5.3
     app_store_url: https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
@@ -303,11 +301,11 @@ packages:
   - name: iOS Microsoft Advertising
     application_name: Meta Ads Manager
     bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: June 11, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/81/78/ed817811-8b7b-cd27-5725-9f607d776158/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/2f/b98a2fd0-c4f1-df2f-4b25-50a65992c508/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.1'
     releaseNotes: Bug fixes and performance updates
-    version: '479.0'
+    version: '478.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: CamScanner - PDF Scanner App

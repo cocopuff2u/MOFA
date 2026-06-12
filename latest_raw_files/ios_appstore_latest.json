@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 12, 2026 05:38 PM EDT",
+    "last_updated": "June 12, 2026 06:37 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Opera: AI browser with VPN",
             "bundleId": "com.opera.OperaTouch",
-            "currentVersionReleaseDate": "May 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/45/69/da456992-bf6f-cfba-d0f0-87a52dd26d9a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 11, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/47/1b/cb471b4d-b358-45af-d857-55c0c0ce177f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
-            "releaseNotes": "6.5.2: Hotfix for crash in Private Mode\n6.5.1: A bunch of bug fixes, more crash fixes and improved stability",
-            "version": "6.5.2",
+            "releaseNotes": "Bug fixes and UI improvements",
+            "version": "6.5.3",
             "app_store_url": "https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4"
         },
         {

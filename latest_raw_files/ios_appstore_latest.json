@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 15, 2026 06:46 PM EDT",
+    "last_updated": "June 15, 2026 07:39 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -16,11 +16,11 @@
             "name": "iOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Office.Excel",
-            "currentVersionReleaseDate": "June 15, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/6d/be/8e6dbea7-48d3-5025-f046-9346a42e9cf0/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 08, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/f9/e3/64f9e3a5-c123-526f-420d-da098a080cb1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.110",
+            "version": "2.109.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
         },
         {
@@ -258,11 +258,11 @@
             "name": "iOS Microsoft Sharepoint",
             "application_name": "Microsoft SharePoint",
             "bundleId": "com.microsoft.sharepoint",
-            "currentVersionReleaseDate": "April 30, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/57/22/e3572210-1147-9a7f-0a88-c3006b053d47/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 15, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.6",
             "releaseNotes": "Stability improvements and fixes.",
-            "version": "5.0.1",
+            "version": "5.0.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4"
         },
         {
@@ -379,11 +379,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft 365 Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "June 08, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/79/f9/ed79f932-5429-16c0-66ef-d213a6179373/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 15, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/0e/5c/0e0e5c3e-0c49-df72-5800-ff9af51349aa/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.110.6",
+            "version": "2.111",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
         },
         {

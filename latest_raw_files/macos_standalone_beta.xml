@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 16, 2026 02:33 PM EDT</last_updated>
+    <last_updated>June 16, 2026 04:06 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -202,14 +202,14 @@
         <application_id>MSau04</application_id>
         <application_name>Microsoft AutoUpdate.app</application_name>
         <CFBundleVersion>com.microsoft.autoupdate</CFBundleVersion>
-        <short_version>4.83 (26040910)</short_version>
-        <full_version>4.83.26040910</full_version>
-        <last_updated>April 09, 2026</last_updated>
+        <short_version>4.84 (26060116)</short_version>
+        <full_version>4.84.26060116</full_version>
+        <last_updated>June 01, 2026</last_updated>
         <min_os>12.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg</latest_download>
-        <sha1>a5ef1cfcc15604a45413cb20c1a70937f407b3a2</sha1>
-        <sha256>a307dc89adfd60c0f9d60ad869efd19e22798ec7fd11015a351378e0249325cd</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.84.26060116_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.84.26060116_Updater.pkg</latest_download>
+        <sha1>08c16cae58662a2cdbc5a6c299c99ebb1c9b1f3d</sha1>
+        <sha256>48084e5c7a829e78d3757f861f054ba50c7fee11afd3b95ce9ddce6f8a073cbf</sha256>
     </package>
     <package>
         <name>Windows App Beta</name>

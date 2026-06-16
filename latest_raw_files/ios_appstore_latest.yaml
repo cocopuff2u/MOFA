@@ -1,4 +1,4 @@
-last_updated: June 16, 2026 08:39 AM EDT
+last_updated: June 16, 2026 10:42 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -42,15 +42,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: June 08, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/05/17/dc0517a8-c4a8-14f2-2996-d052aca3a0d4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 15, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/87/f0/0e87f0b6-9d80-ac2d-1d5e-4c53f4fbf59d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.109.4
+    version: '16.110'
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
@@ -310,12 +310,12 @@ packages:
   - name: iOS Microsoft Lens PDF Scanner
     application_name: CamScanner - PDF Scanner App
     bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: June 15, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/2b/87/6d2b87c3-dbe7-fb00-d285-79c1611be88e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 08, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/dd/51/4add5139-f409-8b6c-8294-b127a70d1e2d/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '13.0'
     releaseNotes: "\xB7 You can now use your camera or scan mode to sign in to your\
       \ computer.\n\xB7 Various improvements for a better experience."
-    version: 7.19.5
+    version: 7.19.0
     app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders

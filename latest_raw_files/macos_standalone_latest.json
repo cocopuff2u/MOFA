@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 16, 2026 07:35 PM EDT",
+    "last_updated": "June 16, 2026 09:12 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -150,16 +150,16 @@
             "application_id": "IMCP01",
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
-            "short_version": "5.2604.1",
-            "full_version": "53.2605002.000",
-            "last_updated": "May 19, 2026",
+            "short_version": "5.2604.2",
+            "full_version": "53.2606003.000",
+            "last_updated": "June 16, 2026",
             "min_os": "11.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2604.1-Upgrade.pkg",
-            "app_update_sha1": "3a019976bee4411b77e938063beb9aa838427bc8",
-            "app_update_sha256": "ce7abbcfa775fa83a6a05caca9e77386e6337029d894c68decf73ce96076e8b9",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2604.2-Upgrade.pkg",
+            "app_update_sha1": "bb87b9eddaba55c4c585035671b5cf130f07b15b",
+            "app_update_sha256": "7f990faf3ce5f9f5641f796a25c1f43d7f69aaefd5b569503c772d159f75a91e",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=853070",
-            "full_update_sha1": "e6d000d0613a2f65e28b8df6848d968e84c83349",
-            "full_update_sha256": "3270f616616c98a9d2d819024ef406ddb7b3a86fcf0e2da54f091372c4f24273"
+            "full_update_sha1": "6cdee1598b792a53e5736eae8dd2f91f00c1aeaf",
+            "full_update_sha256": "ff3f32c392fdd7eadb3c6b6c8d17c05c864716c387817f8731b241cbd1346197"
         },
         {
             "name": "Defender For Endpoint",

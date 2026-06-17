@@ -1,6 +1,73 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>June 16, 2026 11:17 PM EDT</last_scan_date>
+    <last_scan_date>June 17, 2026 01:47 AM EDT</last_scan_date>
+    <Update>
+        <Date>June 16, 2026</Date>
+        <Version>Version 16.110 (Build 26061317)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>Excel</Name>
+                <CVE>CVE-2026-44817</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44817</URL>
+                <CVE>CVE-2026-44818</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44818</URL>
+                <CVE>CVE-2026-44820</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44820</URL>
+                <CVE>CVE-2026-44822</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44822</URL>
+                <CVE>CVE-2026-44823</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44823</URL>
+                <CVE>CVE-2026-45455</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45455</URL>
+                <CVE>CVE-2026-45459</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45459</URL>
+                <CVE>CVE-2026-45469</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45469</URL>
+            </Application>
+            <Application>
+                <Name>Office Suite</Name>
+                <CVE>CVE-2026-44819</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44819</URL>
+                <CVE>CVE-2026-44821</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44821</URL>
+                <CVE>CVE-2026-44824</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44824</URL>
+                <CVE>CVE-2026-45460</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45460</URL>
+                <CVE>CVE-2026-45461</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45461</URL>
+                <CVE>CVE-2026-45463</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45463</URL>
+                <CVE>CVE-2026-45472</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45472</URL>
+                <CVE>CVE-2026-45474</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45474</URL>
+                <CVE>CVE-2026-45475</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45475</URL>
+                <CVE>CVE-2026-45485</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45485</URL>
+                <CVE>CVE-2026-45645</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45645</URL>
+            </Application>
+            <Application>
+                <Name>Word</Name>
+                <CVE>CVE-2026-45456</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45456</URL>
+                <CVE>CVE-2026-45457</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45457</URL>
+                <CVE>CVE-2026-45458</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45458</URL>
+                <CVE>CVE-2026-45466</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45466</URL>
+                <CVE>CVE-2026-45471</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45471</URL>
+                <CVE>CVE-2026-45486</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45486</URL>
+                <CVE>CVE-2026-45643</CVE>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45643</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>June 02, 2026</Date>
         <Version>Version 16.109.3 (Build 26053122)</Version>

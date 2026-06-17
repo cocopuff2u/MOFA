@@ -1,6 +1,122 @@
 {
-    "last_scan_date": "June 16, 2026 11:17 PM EDT",
+    "last_scan_date": "June 17, 2026 01:47 AM EDT",
     "updates": [
+        {
+            "date_text": "June 16, 2026",
+            "version": "Version 16.110 (Build 26061317)",
+            "security_updates": {
+                "Excel": [
+                    {
+                        "cve_name": "CVE-2026-44817",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44817"
+                    },
+                    {
+                        "cve_name": "CVE-2026-44818",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44818"
+                    },
+                    {
+                        "cve_name": "CVE-2026-44820",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44820"
+                    },
+                    {
+                        "cve_name": "CVE-2026-44822",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44822"
+                    },
+                    {
+                        "cve_name": "CVE-2026-44823",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44823"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45455",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45455"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45459",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45459"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45469",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45469"
+                    }
+                ],
+                "Office Suite": [
+                    {
+                        "cve_name": "CVE-2026-44819",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44819"
+                    },
+                    {
+                        "cve_name": "CVE-2026-44821",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44821"
+                    },
+                    {
+                        "cve_name": "CVE-2026-44824",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-44824"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45460",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45460"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45461",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45461"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45463",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45463"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45472",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45472"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45474",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45474"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45475",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45475"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45485",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45485"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45645",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45645"
+                    }
+                ],
+                "Word": [
+                    {
+                        "cve_name": "CVE-2026-45456",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45456"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45457",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45457"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45458",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45458"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45466",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45466"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45471",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45471"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45486",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45486"
+                    },
+                    {
+                        "cve_name": "CVE-2026-45643",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-45643"
+                    }
+                ]
+            }
+        },
         {
             "date_text": "June 02, 2026",
             "version": "Version 16.109.3 (Build 26053122)",

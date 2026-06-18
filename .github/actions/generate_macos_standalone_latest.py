@@ -569,8 +569,12 @@ def fetch_and_process(app_name, config):
                 for key in extracted_data
             )
             if not changes_detected:
-                logging.info(f"No update for {app_name}. Skipping SHA checks.")
-                add_to_combined_xml(app_name, existing_app_data)
+                if has_missing_hashes(existing_app_data, extracted_data):
+                    logging.info(f"{app_name}: version unchanged but hash(es) N/A; retrying those downloads.")
+                    add_to_combined_xml(app_name, refill_missing_hashes(existing_app_data, extracted_data))
+                else:
+                    logging.info(f"No update for {app_name}. Skipping SHA checks.")
+                    add_to_combined_xml(app_name, existing_app_data)
                 return
             logging.info(f"Update detected for {app_name}.")
         else:
@@ -664,11 +668,17 @@ def compute_hashes(url):
     _hash_cache[url] = result
     return result
 
+# Pairs of (download-URL field, its SHA1 field, its SHA256 field).
+_HASH_FIELDS = [
+    ("full_update_download", "full_update_sha1", "full_update_sha256"),
+    ("app_only_update_download", "app_update_sha1", "app_update_sha256"),
+]
+
 # Populate the four hash fields for an app from its full + app-only download URLs.
 def assign_hashes(data):
     if skip_sha_checks:
-        for k in ("full_update_sha1", "full_update_sha256", "app_update_sha1", "app_update_sha256"):
-            data[k] = "N/A"
+        for _u, s1, s256 in _HASH_FIELDS:
+            data[s1] = data[s256] = "N/A"
         return
     data["full_update_sha1"], data["full_update_sha256"] = compute_hashes(data.get("full_update_download"))
     data["app_update_sha1"], data["app_update_sha256"] = compute_hashes(data.get("app_only_update_download"))

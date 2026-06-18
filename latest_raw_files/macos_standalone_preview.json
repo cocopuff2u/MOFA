@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 18, 2026 06:44 PM EDT",
+    "last_updated": "June 18, 2026 07:37 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -20,14 +20,14 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.110.0 (26060713)",
-            "full_version": "16.110.26060713",
-            "last_updated": "June 07, 2026",
+            "short_version": "16.110.0 (26061317)",
+            "full_version": "16.110.26061317",
+            "last_updated": "June 13, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26060713_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26060713_Updater.pkg",
-            "sha1": "aa76cfe05cee56dea76c06703555dac0421b0f78",
-            "sha256": "e31b5840704489064eeff63cd0ae40ff116a4662f99bac13e710d8446ee888db"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26061317_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26061317_Updater.pkg",
+            "sha1": "5a74c6a312b3bdd314c99d10454debe17501ebfe",
+            "sha256": "63c583c3691266787486fd0044e2633a611d02682471acd9ef2e6f4ca3028003"
         },
         {
             "name": "PowerPoint",
@@ -188,14 +188,14 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2606 (0801)",
-            "full_version": "1.2606.0801",
-            "last_updated": "June 08, 2026",
+            "short_version": "1.2606 (0101)",
+            "full_version": "1.2606.0101",
+            "last_updated": "June 03, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0801_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0801_Updater.pkg",
-            "sha1": "5949616d28b901886457d9dbfa8d38c6bf649437",
-            "sha256": "e187dfa930abdd23552ab56debdb79a78bb9cbd9d1a36a807deff2ea88880928"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0101_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0101_Updater.pkg",
+            "sha1": "9b2f160e1fffd67e39ea898d5a3daaaf8211e648",
+            "sha256": "d82d19a2e2f4e9654f73baad552e4b1b1a8dff6fd6d4ddee291463313205fe3f"
         },
         {
             "name": "MAU",

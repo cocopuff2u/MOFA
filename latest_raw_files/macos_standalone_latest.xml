@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 18, 2026 10:26 AM EDT</last_updated>
+    <last_updated>June 18, 2026 10:34 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -70,13 +70,13 @@
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.109.3 (26053122)</short_version>
+        <short_version>16.110.0 (26061317)</short_version>
         <full_version>16.110.26061317</full_version>
-        <last_updated>May 31, 2026</last_updated>
+        <last_updated>June 13, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.109.26053122_Updater.pkg</app_only_update_download>
-        <app_update_sha1>b7555183dbfa3884f244af8f2ce496428342f886</app_update_sha1>
-        <app_update_sha256>054949c603c9cdfe79c3683a9959ef98f976da5ebcf09df308bd44dcb40bf2e3</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.110.26061317_Updater.pkg</app_only_update_download>
+        <app_update_sha1>2c378294768a215b079173f43aba5136810bb75b</app_update_sha1>
+        <app_update_sha256>ec998bacef430609ef390330743776ed46e0138aefdd3cf880c90d6ddc7e160a</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525136</full_update_download>
         <full_update_sha1>34fa2618665add374caa255c388858f2409b5d72</full_update_sha1>
         <full_update_sha256>87dc53981ff801a64b238e0bf788ac220527e3730ce10a62ae1c75d93c3f21bf</full_update_sha256>
@@ -102,13 +102,13 @@
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote</CFBundleVersion>
-        <short_version>16.109.3 (26053122)</short_version>
+        <short_version>16.110.0 (26061317)</short_version>
         <full_version>16.110.26061317</full_version>
-        <last_updated>May 31, 2026</last_updated>
+        <last_updated>June 13, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.109.26053122_Updater.pkg</app_only_update_download>
-        <app_update_sha1>c2c4055ca3ff37934d32f0cec4626154d09775d6</app_update_sha1>
-        <app_update_sha256>aade4b2b3bad2286388e2f0d9f88667b1bdc7717d8a69606b29198caa6acdc62</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.110.26061317_Updater.pkg</app_only_update_download>
+        <app_update_sha1>9e3eca285fe9ba1e1004c04f58694d0584987db5</app_update_sha1>
+        <app_update_sha256>bdd7dbba11276a129f91f33a7a7a0d4a7984ed9ecbcfa113f56660546a872461</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=820886</full_update_download>
         <full_update_sha1>9e3eca285fe9ba1e1004c04f58694d0584987db5</full_update_sha1>
         <full_update_sha256>bdd7dbba11276a129f91f33a7a7a0d4a7984ed9ecbcfa113f56660546a872461</full_update_sha256>
@@ -118,9 +118,9 @@
         <application_id>MSFB16</application_id>
         <application_name>Skype for Business.app</application_name>
         <CFBundleVersion>com.microsoft.skypeforbusiness</CFBundleVersion>
-        <short_version>16.31.31</short_version>
-        <full_version>16.31.31</full_version>
-        <last_updated>January 22, 2026</last_updated>
+        <short_version>16.31.0.31</short_version>
+        <full_version>16.31.0.31</full_version>
+        <last_updated>January 20, 2026</last_updated>
         <min_os>10.14.0</min_os>
         <app_only_update_download>https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg</app_only_update_download>
         <app_update_sha1>25637672295e3fd675404fe757db433591d62047</app_update_sha1>

@@ -680,8 +680,30 @@ def assign_hashes(data):
         for _u, s1, s256 in _HASH_FIELDS:
             data[s1] = data[s256] = "N/A"
         return
-    data["full_update_sha1"], data["full_update_sha256"] = compute_hashes(data.get("full_update_download"))
-    data["app_update_sha1"], data["app_update_sha256"] = compute_hashes(data.get("app_only_update_download"))
+    for url_key, s1, s256 in _HASH_FIELDS:
+        data[s1], data[s256] = compute_hashes(data.get(url_key))
+
+def has_missing_hashes(existing, data):
+    """True if a SHA is N/A but its download URL is a real http link, so it
+    should be hashable. Lets us retry a previously-failed hash even when the
+    version is unchanged (a transient download failure leaves a sticky N/A)."""
+    for url_key, _s1, s256 in _HASH_FIELDS:
+        url = data.get(url_key) or existing.get(url_key)
+        if url and str(url).startswith("http") and existing.get(s256, "N/A") in ("N/A", None, ""):
+            return True
+    return False
+
+def refill_missing_hashes(existing, data):
+    """Copy of existing with only the N/A-but-hashable SHAs recomputed; good
+    hashes are preserved and a retry that fails again is left as N/A."""
+    out = dict(existing)
+    for url_key, s1, s256 in _HASH_FIELDS:
+        url = data.get(url_key) or existing.get(url_key)
+        if url and str(url).startswith("http") and existing.get(s256, "N/A") in ("N/A", None, ""):
+            h1, h256 = compute_hashes(url)
+            if h1 != "N/A":
+                out[s1], out[s256] = h1, h256
+    return out
 
 def add_to_combined_xml(app_name, data):
     logging.info(f"Adding {app_name} to combined XML...")

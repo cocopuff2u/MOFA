@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">June 18, 2026 10:43 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">June 18, 2026 10:45 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -91,7 +91,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Intune Company Portal Standalone** | <a href="https://go.microsoft.com/fwlink/?linkid=853070"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> | `ff3f32c392fdd7eadb3c6b6c8d17c05c864716c387817f8731b241cbd1346197` |
 | **Intune Company Portal App Only** | <a href="https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2604.2-Upgrade.pkg"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> | `7f990faf3ce5f9f5641f796a25c1f43d7f69aaefd5b569503c772d159f75a91e` |
 | **Edge** | <a href="https://go.microsoft.com/fwlink/?linkid=2093504"><img src=".github/images/edge_app.png" alt="Download Image" width="80"></a> | `f48920fa84a849cae1219eee944a6b33d1a7da08050c29833834e11444c55d85` |
-| **Defender for Endpoint** | <a href="https://go.microsoft.com/fwlink/?linkid=2097502"><img src=".github/images/defender.png" alt="Download Image" width="80"></a> | `N/A` |
+| **Defender for Endpoint** | <a href="https://go.microsoft.com/fwlink/?linkid=2097502"><img src=".github/images/defender.png" alt="Download Image" width="80"></a> | `e494f8b30b9c7cccb6f71f2d5547e4e684e2cb23824e1cf82004bb11c607d72b` |
 | **Defender for Consumers** | <a href="https://go.microsoft.com/fwlink/?linkid=2247001"><img src=".github/images/defender.png" alt="Download Image" width="80"></a> | `8d7a33f79ad00e8fdc2d75b1f826f7e75327c0c9cf72b0955d254ddb6b878b21` |
 | **Defender SHIM** | <a href="https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26020.0000_Individuals_Shim_Installer.pkg"><img src=".github/images/defender.png" alt="Download Image" width="80"></a> | `ad92e2b5cc9935b614aa271e5548f44fb6506c37b0296f46a666c29f88ebf466` |
 | **Windows App Standalone** | <a href="https://go.microsoft.com/fwlink/?linkid=868963"><img src=".github/images/windowsapp.png" alt="Download Image" width="80"></a> | `e3a0e38b29de21868b3dd2c2d22f838a2e49df2908a26cbf61f34b52c42c4032` |
@@ -126,7 +126,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">June 18, 2026 10:43 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">June 18, 2026 10:45 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -150,7 +150,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">June 18, 2026 10:44 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">June 18, 2026 10:46 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

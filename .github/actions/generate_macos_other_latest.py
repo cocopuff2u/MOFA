@@ -217,8 +217,30 @@ APPS = {
 }
 
 
-def build_record(name, cfg):
-    data = FETCHERS[cfg["source"]](cfg)
+def read_existing(path):
+    """Parse a previously generated feed into {name: {field: value}} so apps whose
+    version hasn't changed can be reused without re-downloading / re-hashing."""
+    if not os.path.exists(path):
+        return {}
+    try:
+        root = ET.parse(path).getroot()
+        return {pkg.findtext("name"): {c.tag: (c.text or "N/A") for c in pkg}
+                for pkg in root.findall("package") if pkg.findtext("name")}
+    except Exception as e:
+        logging.warning(f"Could not read existing feed {path}: {e}")
+        return {}
+
+
+def needs_hash_retry(rec):
+    """SHA is missing but there's a real download URL -> worth retrying once
+    (covers a prior transient hash failure that would otherwise stay N/A forever)."""
+    dl = rec.get("latest_download", "")
+    return (isinstance(dl, str) and dl.startswith("http")
+            and rec.get("sha256", "N/A") in ("N/A", None, ""))
+
+
+def assemble_record(name, cfg, data):
+    """Map fetched source data into the feed schema and compute hashes."""
     # macOS primary download: prefer Apple Silicon (arm64), fall back to Intel (x64).
     primary = data.get("download_arm64")
     if primary in ("N/A", None):
@@ -247,17 +269,38 @@ def build_record(name, cfg):
 def main():
     last_updated = now_eastern()
     logging.info(f"Run start: {last_updated}")
+    existing = read_existing(f"{OUTPUT_BASE}.xml")
 
     records = []
     for name, cfg in APPS.items():
         logging.info("-" * 50)
-        logging.info(f"Fetching {name} via {cfg['source']}...")
+        logging.info(f"Checking {name} via {cfg['source']}...")
         try:
-            rec = build_record(name, cfg)
-            logging.info(f"{name}: {rec['short_version']} ({rec['last_updated']})")
+            # Cheap step first: resolve version + URLs (no package download yet).
+            data = FETCHERS[cfg["source"]](cfg)
+            new_ver = data.get("version", "N/A")
+            prev = existing.get(name)
+            if prev and prev.get("short_version") == new_ver:
+                # Version unchanged -> reuse the whole existing record; do NOT re-hash.
+                rec = {k: prev.get(k, "N/A") for k in FIELD_ORDER}
+                if needs_hash_retry(rec):
+                    logging.info(f"{name}: {new_ver} unchanged but SHA missing -- retrying hash only.")
+                    h1, h256 = compute_hashes(rec.get("latest_download"))
+                    if h1 != "N/A":
+                        rec["sha1"], rec["sha256"] = h1, h256
+                else:
+                    logging.info(f"{name}: {new_ver} unchanged -- reusing existing (no re-hash).")
+            else:
+                # New app or version changed -> build fresh and hash the package.
+                rec = assemble_record(name, cfg, data)
+                change = "new" if not prev else f"{prev.get('short_version')} -> {new_ver}"
+                logging.info(f"{name}: {new_ver} ({rec['last_updated']}) [{change}]")
             records.append(rec)
         except Exception as e:
             logging.error(f"Failed {name}: {e}")
+            if name in existing:
+                logging.info(f"Reusing last-known data for {name}.")
+                records.append({k: existing[name].get(k, "N/A") for k in FIELD_ORDER})
 
     os.makedirs(os.path.dirname(OUTPUT_BASE), exist_ok=True)
 

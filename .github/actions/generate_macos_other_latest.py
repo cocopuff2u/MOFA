@@ -130,15 +130,24 @@ def from_github_release(cfg):
 
 def from_dotnet(cfg):
     idx = http_json("https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json")
-    want = cfg.get('channel', 'LTS')  # "LTS" / "STS" / or a channel-version like "10.0"
+    # Match by channel-version ("9.0"), release-type ("LTS"/"STS"), or support-phase
+    # ("Preview"/"Active"/...). Case-insensitive; the index is newest-first, so a
+    # phase/type match resolves to the newest channel in that state (e.g. Preview).
+    want = cfg.get('channel', 'LTS').upper()
     chan = next((c for c in idx['releases-index']
-                 if want in (c['channel-version'], c['release-type'].upper(), c['support-phase'].upper())), None)
+                 if want in (c['channel-version'].upper(), c['release-type'].upper(), c['support-phase'].upper())), None)
     chan = chan or idx['releases-index'][0]
+    # Build a channel-accurate display name, e.g. ".NET SDK 10 (LTS)" / "11 (Preview)".
+    major = chan['channel-version'].split('.')[0]
+    phase = chan.get('support-phase', '').lower()
+    label = {"preview": "Preview", "go-live": "RC"}.get(phase, chan.get('release-type', '').upper())
+    display = f".NET SDK {major} ({label})" if label else f".NET SDK {major}"
     detail = http_json(chan['releases.json'])
     rel = detail['releases'][0]
     sdk = rel['sdk']
     files = {f.get('name', '').lower(): f.get('url', '') for f in sdk.get('files', [])}
     return {
+        "display_name": display,
         "version": sdk.get('version', 'N/A'),
         "release_date": fmt_date(rel.get('release-date')),
         "install_method": "pkg",
@@ -189,7 +198,16 @@ APPS = {
         "bundle_id": "com.microsoft.powershell",  # stable pkg/app identifier
     },
     ".NET SDK (LTS)": {
-        "source": "dotnet", "channel": "LTS",
+        "source": "dotnet", "channel": "LTS",   # newest LTS channel (10.0)
+    },
+    ".NET SDK (Preview)": {
+        "source": "dotnet", "channel": "Preview",   # newest preview channel (auto-tracks)
+    },
+    ".NET SDK 9": {
+        "source": "dotnet", "channel": "9.0",
+    },
+    ".NET SDK 8": {
+        "source": "dotnet", "channel": "8.0",
     },
     "Azure CLI": {
         "source": "homebrew", "formula": "azure-cli",
@@ -278,23 +296,24 @@ def main():
         try:
             # Cheap step first: resolve version + URLs (no package download yet).
             data = FETCHERS[cfg["source"]](cfg)
+            disp = data.get("display_name", name)   # some sources (dotnet) name themselves
             new_ver = data.get("version", "N/A")
-            prev = existing.get(name)
+            prev = existing.get(disp)
             if prev and prev.get("short_version") == new_ver:
                 # Version unchanged -> reuse the whole existing record; do NOT re-hash.
                 rec = {k: prev.get(k, "N/A") for k in FIELD_ORDER}
                 if needs_hash_retry(rec):
-                    logging.info(f"{name}: {new_ver} unchanged but SHA missing -- retrying hash only.")
+                    logging.info(f"{disp}: {new_ver} unchanged but SHA missing -- retrying hash only.")
                     h1, h256 = compute_hashes(rec.get("latest_download"))
                     if h1 != "N/A":
                         rec["sha1"], rec["sha256"] = h1, h256
                 else:
-                    logging.info(f"{name}: {new_ver} unchanged -- reusing existing (no re-hash).")
+                    logging.info(f"{disp}: {new_ver} unchanged -- reusing existing (no re-hash).")
             else:
                 # New app or version changed -> build fresh and hash the package.
-                rec = assemble_record(name, cfg, data)
+                rec = assemble_record(disp, cfg, data)
                 change = "new" if not prev else f"{prev.get('short_version')} -> {new_ver}"
-                logging.info(f"{name}: {new_ver} ({rec['last_updated']}) [{change}]")
+                logging.info(f"{disp}: {new_ver} ({rec['last_updated']}) [{change}]")
             records.append(rec)
         except Exception as e:
             logging.error(f"Failed {name}: {e}")

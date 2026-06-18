@@ -511,33 +511,31 @@ def fetch_and_process(app_name, config):
             logging.info(f"JSON data: {app_data}")
             extracted_data = process_json_data(app_data, config)
         else:
-            app_root = ET.fromstring(response.content)
-            app_data = app_root.find(".//dict")
-            extracted_data = process_xml_data(app_data, config)
+            # Poll the base manifest a few times and keep the parse with the HIGHEST
+            # Update Version. OneCDN edges briefly serve a stale version during a wave;
+            # picking the best *whole* response (instead of patching a single field)
+            # keeps every field — short_version, full_version, date, download URLs —
+            # internally consistent for the same build.
+            best, best_v = None, ()
+            for attempt in range(3):
+                resp = response if attempt == 0 else fetch_xml(config["url"])
+                if resp is None:
+                    continue
+                try:
+                    app_data = ET.fromstring(resp.content).find(".//dict")
+                except Exception as e:
+                    logging.warning(f"{app_name}: manifest parse failed: {e}")
+                    continue
+                cand = process_xml_data(app_data, config)
+                cv = version_tuple(cand.get("full_version", ""))
+                if best is None or cv > best_v:
+                    best, best_v = cand, cv
+            if best is None:
+                raise RuntimeError(f"no parseable manifest for {config['url']}")
+            extracted_data = best
 
         # Add manual entries
         extracted_data.update(config["manual_entries"])
-
-        # Cross-check against the -chk.xml pointer MAU reads first: during a wave the
-        # base manifest can briefly lag -chk, so take the higher of the two build
-        # versions (99999 sentinels are ignored by version_tuple).
-        cu = chk_url(to_onecdn(config["url"]))
-        if cu and ONECDN in cu:
-            chk = fetch_xml(cu)
-            if chk is not None:
-                try:
-                    cd = ET.fromstring(chk.content).find(".//dict")
-                    chk_v = find_key_value(cd, "Update Version")
-                    # Don't let -chk override a deliberately hardcoded version (e.g. Skype,
-                    # whose MAU manifest is abandoned and older than the standalone installer).
-                    if "full_version" not in config.get("manual_entries", {}) and \
-                            version_tuple(chk_v) > version_tuple(extracted_data.get("full_version", "")):
-                        logging.info(
-                            f"{app_name}: base manifest ({extracted_data.get('full_version')}) "
-                            f"lags -chk ({chk_v}); using -chk version")
-                        extracted_data["full_version"] = chk_v
-                except Exception as e:
-                    logging.warning(f"{app_name}: -chk parse failed: {e}")
 
         # Special handling for Copilot short_version: remove leading "365"
         if app_name == "Copilot":
@@ -557,7 +555,10 @@ def fetch_and_process(app_name, config):
             # Guard against transient OneCDN edge-cache flux: never downgrade a
             # published version. A lower fetched version almost always means a stale
             # edge node, not a real rollback (observed: Word flipping 16.110 -> 16.109).
-            if version_tuple(existing_app_data.get("full_version", "")) > version_tuple(extracted_data.get("full_version", "")):
+            # Skip this for hardcoded versions (manual_entries) — e.g. Skype's
+            # 16.31.0.31 must win over an older-looking published 16.31.31.
+            if "full_version" not in config.get("manual_entries", {}) and \
+                    version_tuple(existing_app_data.get("full_version", "")) > version_tuple(extracted_data.get("full_version", "")):
                 logging.warning(
                     f"{app_name}: fetched {extracted_data.get('full_version')} < published "
                     f"{existing_app_data.get('full_version')}; keeping published (likely CDN flux)")

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 17, 2026 07:38 PM EDT</last_updated>
+	<last_updated>June 17, 2026 09:11 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,11 +38,13 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>June 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/bf/3e/0abf3e1d-6c99-8886-e42c-473d463483c8/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ac/34/d5ac3446-a7fd-4ae3-3307-40c51ff0cb64/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.109.3</version>
+		<releaseNotes>Feature Updates: 
+• Liquid Glass visuals are now applied app-wide with a focus on a more expressive, cohesive and Tahoe-native experience. The primary “New” button has been refactored with smoother motion design &amp; liquid glass effects. The metaOS and Profile UI control have increased elevation and liquid glass background effects. The overall app chrome, windows and buttons have increased radii making app feel familiar to Tahoe/macOS 26 customers. 
+• Import PST is now available in Outlook for Mac, making it easy to import emails, calendars, contacts, and other mailbox data from PST files.</releaseNotes>
+		<version>16.110</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,21 +1,21 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 18, 2026 09:20 AM EDT</last_updated>
+    <last_updated>June 18, 2026 10:17 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
         <application_name>Data sourced from Outlook (CurrentThrottle)</application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.109.0 (26051019)</short_version>
-        <full_version>16.109.26051019</full_version>
-        <last_updated>May 10, 2026</last_updated>
+        <short_version>16.110.0 (26061317)</short_version>
+        <full_version>16.110.26061317</full_version>
+        <last_updated>June 13, 2026</last_updated>
         <min_os>14.0</min_os>
         <app_only_update_download>N/A</app_only_update_download>
         <app_update_sha1>N/A</app_update_sha1>
         <app_update_sha256>N/A</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525133</full_update_download>
-        <full_update_sha1>41c2a90c72d67ea62e53d3b46aa02cd5d7791476</full_update_sha1>
-        <full_update_sha256>43249d6a05856d010333bfa2adca062263a9818cdefcfbb7e106832ab9fcea39</full_update_sha256>
+        <full_update_sha1>1f0155e2c8f8fe88ed0d5d5b8c3ab16b16373e75</full_update_sha1>
+        <full_update_sha256>986eadffad678ab1ef62543ba135acd082da1aee64ae9ce27e1d1f64d07996a3</full_update_sha256>
     </package>
     <package>
         <name>Microsoft BusinessPro Suite</name>
@@ -38,32 +38,32 @@
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.109.3 (26053122)</short_version>
-        <full_version>16.109.26053122</full_version>
-        <last_updated>May 31, 2026</last_updated>
+        <short_version>16.110.0 (26061317)</short_version>
+        <full_version>16.110.26061317</full_version>
+        <last_updated>June 13, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.109.26053122_Updater.pkg</app_only_update_download>
-        <app_update_sha1>8e422b241ec13929c6e2dd6e7e18fbc675f1c0e8</app_update_sha1>
-        <app_update_sha256>1aed9f661963e8647ddd8db420aff8b6e92df1e1a0a2f72f63e0f46eb1560a30</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.110.26061317_Updater.pkg</app_only_update_download>
+        <app_update_sha1>400cd8435cd4862e884e7f8d86c1fe92a1b74f73</app_update_sha1>
+        <app_update_sha256>83e4eabd04f62d45e733de49db2666df14a6931593271e0e4fe651841c24e6b3</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525134</full_update_download>
-        <full_update_sha1>4124e8b19fffe96a5aa2aadd1f023fdc4e01e243</full_update_sha1>
-        <full_update_sha256>5b6107d4a99b62687264c7bf2fcec0cdee898dbfb16398d8e5a5c7e5d1c1e2e6</full_update_sha256>
+        <full_update_sha1>a76d56867f861abb723979165d65f9292619fe38</full_update_sha1>
+        <full_update_sha256>4189eafe4c660bad05107aabae6667a344cf0221719498096b169c719fa4e311</full_update_sha256>
     </package>
     <package>
         <name>Excel</name>
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.109.3 (26053122)</short_version>
-        <full_version>16.109.26053122</full_version>
-        <last_updated>May 31, 2026</last_updated>
+        <short_version>16.110.0 (26061317)</short_version>
+        <full_version>16.110.26061317</full_version>
+        <last_updated>June 13, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.109.26053122_Updater.pkg</app_only_update_download>
-        <app_update_sha1>27b12c611356d46855ee76160c41f33cebc0776c</app_update_sha1>
-        <app_update_sha256>3bd45edddfa1e04da31f05bf9b9d67b004db8c2a77c2711d60a7f2c9fc6f4877</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.110.26061317_Updater.pkg</app_only_update_download>
+        <app_update_sha1>5a74c6a312b3bdd314c99d10454debe17501ebfe</app_update_sha1>
+        <app_update_sha256>63c583c3691266787486fd0044e2633a611d02682471acd9ef2e6f4ca3028003</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525135</full_update_download>
-        <full_update_sha1>a528c2dd3115c3ce4a3124adfb1f618cda9e7dd7</full_update_sha1>
-        <full_update_sha256>82ad2c6181bb34e6cdf9064ee4d96e0a540b8ae3201a32b3325400a1382853ee</full_update_sha256>
+        <full_update_sha1>a64d578f71bf186b63d7f8edca1725f5cc0d7cc6</full_update_sha1>
+        <full_update_sha256>d9ced6c1a95f60649739394597d7dc89281b587ae6951e055b6a52197e351c0a</full_update_sha256>
     </package>
     <package>
         <name>PowerPoint</name>
@@ -134,16 +134,16 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>26120.3106.4725.800</short_version>
-        <full_version>26120.3106.4725.800</full_version>
-        <last_updated>May 21, 2026</last_updated>
+        <short_version>26149.1804.4788.5681</short_version>
+        <full_version>26149.1804.4788.5681</full_version>
+        <last_updated>June 09, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26120.3106.4725.800/MicrosoftTeams.pkg</app_only_update_download>
-        <app_update_sha1>53b2d7dcd2f040fdc9faa398d6bb605f2894964c</app_update_sha1>
-        <app_update_sha256>cdb17499b42e04dfeccb25eb5440f733e968320cb4d80e055518893353d5bef6</app_update_sha256>
+        <app_only_update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26149.1804.4788.5681/MicrosoftTeams_26106.2113.4690.1073_to_26149.1804.4788.5681_BinaryDelta.pkg</app_only_update_download>
+        <app_update_sha1>c3c6dd1736aaad6151ac4378240ffe80488d2e31</app_update_sha1>
+        <app_update_sha256>79f03ac2da5caf5c039671134cbc4137d54de7c96a9b63309841b75b4a6b9f7a</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2249065</full_update_download>
-        <full_update_sha1>0c1362c7a93a2c1de3b6a8288fb4765064284a40</full_update_sha1>
-        <full_update_sha256>f52fcbb899b6318444bf9559c220b6d6600b8271d18a44b41f2b005db7be87ee</full_update_sha256>
+        <full_update_sha1>f218f40c944d6ab9fb9a02701eaf6d573dba1d0a</full_update_sha1>
+        <full_update_sha256>bcf6d54723446063e3b37c5a03bbd5c9f5f8e7bf5e7517d6db2676fc0e684e0b</full_update_sha256>
     </package>
     <package>
         <name>Intune</name>
@@ -214,16 +214,16 @@
         <application_id>MSRD10</application_id>
         <application_name>Windows App.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.3.5</short_version>
-        <full_version>2947</full_version>
-        <last_updated>April 13, 2026</last_updated>
+        <short_version>11.3.6</short_version>
+        <full_version>3024</full_version>
+        <last_updated>June 09, 2026</last_updated>
         <min_os>12.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.5_updater.pkg</app_only_update_download>
-        <app_update_sha1>f328cdb127f5df8b6baab74bc94b7e79ac56fe73</app_update_sha1>
-        <app_update_sha256>06976c997b610f3cfd8f63416b895c38b47e18cbf4e88f8d4f2ebbe7c1493792</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.6_updater.pkg</app_only_update_download>
+        <app_update_sha1>fc2d0302fab9baec8af30e5ebf98dc645f2d7a5f</app_update_sha1>
+        <app_update_sha256>ab652c0e74e1d7a03085d521af489ae251951f175ca13122df853abcfb930a4c</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=868963</full_update_download>
-        <full_update_sha1>71d969d8968b7542b46d162ca80bedfccc8c41cd</full_update_sha1>
-        <full_update_sha256>f725f2a4e48203c6e943d11507f0467938433aeafd220e950456f63638ac05fb</full_update_sha256>
+        <full_update_sha1>05499cc0028668420a1cfde80af4a35f151d0724</full_update_sha1>
+        <full_update_sha256>e3a0e38b29de21868b3dd2c2d22f838a2e49df2908a26cbf61f34b52c42c4032</full_update_sha256>
     </package>
     <package>
         <name>Visual</name>
@@ -247,15 +247,15 @@
         <application_name>Microsoft 365 Copilot.app</application_name>
         <CFBundleVersion>com.microsoft.m365copilot</CFBundleVersion>
         <short_version>1.2606 (0101)</short_version>
-        <full_version>1.2606.0101</full_version>
+        <full_version>1.2606.0801</full_version>
         <last_updated>June 03, 2026</last_updated>
         <min_os>14.0</min_os>
         <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0101_Updater.pkg</app_only_update_download>
         <app_update_sha1>9b2f160e1fffd67e39ea898d5a3daaaf8211e648</app_update_sha1>
         <app_update_sha256>d82d19a2e2f4e9654f73baad552e4b1b1a8dff6fd6d4ddee291463313205fe3f</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2325438</full_update_download>
-        <full_update_sha1>0228a039342e318d1e353b4490f1b476ac3605e9</full_update_sha1>
-        <full_update_sha256>939836dc7d0c4403d0ffbc8fe138d75959b98898376886273114b36f64f56ea1</full_update_sha256>
+        <full_update_sha1>4d5efaa121ec7eb6299cd85c36559c907454ae7c</full_update_sha1>
+        <full_update_sha256>334b47a40de9e2adddc225399a0335464a00a4f2059c2578e6e0ff2fb424733d</full_update_sha256>
     </package>
     <package>
         <name>MAU</name>

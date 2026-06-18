@@ -172,12 +172,15 @@ apps = {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSFB16.xml",
         "manual_entries": {
             "CFBundleVersion": "com.microsoft.skypeforbusiness",
-            "full_update_download": "https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg",
             "application_name": "Skype for Business.app",
-            "short_version": "16.31.31",
-            "full_version": "16.31.31",
-            "last_updated": "January 22, 2026",
+            # Skype for Business is EOL. Its MAU manifest is frozen at 16.31.11 (Sep 2024)
+            # and ships only an updater pkg, so pin to the newer standalone full installer
+            # (re-packaged Jan 2026). No live CDN source exists for this full-installer build.
+            "full_update_download": "https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg",
             "app_only_update_download": "https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg",
+            "short_version": "16.31.0.31",
+            "full_version": "16.31.0.31",
+            "last_updated": "January 20, 2026",
         },
         "keys": {
             "application_id": "Application ID",
@@ -372,7 +375,6 @@ apps = {
             "full_update_download": "Location",
             "application_id": "Application ID",
             "application_name": "Application Name",
-            "full_update_download": "Location",
             "short_version": "Update Version",
             "full_version": "Update Version",
             "app_only_update_download": "Location",
@@ -389,7 +391,6 @@ apps = {
             "full_update_download": "Location",
             "application_id": "Application ID",
             "application_name": "Application Name",
-            "full_update_download": "Location",
             "short_version": "Update Version",
             "full_version": "Update Version",
             "app_only_update_download": "Location",
@@ -409,8 +410,59 @@ root = ET.Element("latest")
 last_update_element = ET.SubElement(root, "last_updated")
 last_update_element.text = last_update_date_time  # Value from get_current_date_time()
 
-# Variable to skip SHA1 and SHA256 checks for testing purposes (set to False for production)
-skip_sha_checks = False
+# Skip SHA1/SHA256 downloads for testing. Default False (production); set env
+# MOFA_SKIP_SHA=true for a fast local run that avoids downloading every package.
+skip_sha_checks = os.environ.get("MOFA_SKIP_SHA", "false").lower() in ("1", "true", "yes")
+
+# --- CDN host handling -------------------------------------------------------
+# MAU itself reads collateral from the OneCDN host; "officecdnmac" is a legacy
+# mirror that lags every ring (it was reporting 16.109 while the live ring served
+# 16.110). Prefer OneCDN and fall back to the legacy host only if OneCDN fails.
+LEGACY_CDN = "officecdnmac.microsoft.com/pr/"
+ONECDN = "res.public.onecdn.static.microsoft/mro1cdnstorage/"
+REQUEST_TIMEOUT = (10, 120)  # (connect, read) seconds — never hang the Action
+
+def to_onecdn(url):
+    """Rewrite a legacy officecdnmac collateral URL to the live OneCDN host."""
+    return url.replace(LEGACY_CDN, ONECDN)
+
+def chk_url(url):
+    """Derive the lightweight -chk.xml pointer URL from a base 0409<App>.xml URL."""
+    if url.endswith(".xml") and "-chk.xml" not in url:
+        return url[:-4] + "-chk.xml"
+    return None
+
+def version_tuple(v):
+    """Parse a version string into a comparable tuple of ints.
+
+    Non-numeric/empty values sort lowest. MAU '99999' sentinels (used for
+    special-cased titles like Windows App / Intune whose real version lives in
+    the manifest Title) are treated as no-version so they never win a max().
+    """
+    if not v or not isinstance(v, str):
+        return ()
+    parts = re.findall(r"\d+", v)
+    if not parts:
+        return ()
+    t = tuple(int(p) for p in parts)
+    return () if t == (99999,) else t
+
+def fetch_xml(url):
+    """GET a collateral file from OneCDN first, then the legacy host.
+
+    Returns the requests.Response or None if every host failed.
+    """
+    candidates = [to_onecdn(url)]
+    if candidates[0] != url:
+        candidates.append(url)  # legacy fallback
+    for u in candidates:
+        try:
+            r = requests.get(u, allow_redirects=True, timeout=REQUEST_TIMEOUT)
+            r.raise_for_status()
+            return r
+        except Exception as e:
+            logging.warning(f"Fetch failed ({u}): {e}")
+    return None
 
 # Function to read existing XML data from macos_standalone_latest.xml
 def read_existing_xml(filename):
@@ -447,25 +499,45 @@ def fetch_and_process(app_name, config):
     try:
         logging.info("-" * 50)
         logging.info(f"Fetching data for {app_name} from {config['url']}...")
-        response = requests.get(config["url"], allow_redirects=True)
-        response.raise_for_status()
+        response = fetch_xml(config["url"])
+        if response is None:
+            raise RuntimeError(f"all CDN hosts failed for {config['url']}")
 
         logging.info(f"Response status code: {response.status_code}")
-        # logging.info(f"Response headers: {response.headers}") # Uncomment to view response headers
 
         # Check if the response is in JSON format
-        if response.headers['Content-Type'].startswith('application/json'):
+        if response.headers.get('Content-Type', '').startswith('application/json'):
             app_data = response.json()
             logging.info(f"JSON data: {app_data}")
             extracted_data = process_json_data(app_data, config)
         else:
             app_root = ET.fromstring(response.content)
             app_data = app_root.find(".//dict")
-            # logging.info(f"XML data: {ET.tostring(app_root, encoding='utf8').decode('utf8')}") # Uncomment to view XML data
             extracted_data = process_xml_data(app_data, config)
 
         # Add manual entries
         extracted_data.update(config["manual_entries"])
+
+        # Cross-check against the -chk.xml pointer MAU reads first: during a wave the
+        # base manifest can briefly lag -chk, so take the higher of the two build
+        # versions (99999 sentinels are ignored by version_tuple).
+        cu = chk_url(to_onecdn(config["url"]))
+        if cu and ONECDN in cu:
+            chk = fetch_xml(cu)
+            if chk is not None:
+                try:
+                    cd = ET.fromstring(chk.content).find(".//dict")
+                    chk_v = find_key_value(cd, "Update Version")
+                    # Don't let -chk override a deliberately hardcoded version (e.g. Skype,
+                    # whose MAU manifest is abandoned and older than the standalone installer).
+                    if "full_version" not in config.get("manual_entries", {}) and \
+                            version_tuple(chk_v) > version_tuple(extracted_data.get("full_version", "")):
+                        logging.info(
+                            f"{app_name}: base manifest ({extracted_data.get('full_version')}) "
+                            f"lags -chk ({chk_v}); using -chk version")
+                        extracted_data["full_version"] = chk_v
+                except Exception as e:
+                    logging.warning(f"{app_name}: -chk parse failed: {e}")
 
         # Special handling for Copilot short_version: remove leading "365"
         if app_name == "Copilot":
@@ -479,60 +551,32 @@ def fetch_and_process(app_name, config):
         if app_name == "OneDrive":
             extracted_data["last_updated"] = last_update_date_time  # Use current date and time as last_updated
 
-        # Check if any field has changed or if sha1 or sha256 are "N/A"
+        # Recompute hashes only when something changed; otherwise reuse existing data.
         if app_name in existing_data:
             existing_app_data = existing_data[app_name]["data"]
-            changes_detected = False
-            for key in extracted_data:
-                if extracted_data[key] != existing_app_data.get(key, "N/A"):
-                    changes_detected = True
-                    break
-
+            # Guard against transient OneCDN edge-cache flux: never downgrade a
+            # published version. A lower fetched version almost always means a stale
+            # edge node, not a real rollback (observed: Word flipping 16.110 -> 16.109).
+            if version_tuple(existing_app_data.get("full_version", "")) > version_tuple(extracted_data.get("full_version", "")):
+                logging.warning(
+                    f"{app_name}: fetched {extracted_data.get('full_version')} < published "
+                    f"{existing_app_data.get('full_version')}; keeping published (likely CDN flux)")
+                add_to_combined_xml(app_name, existing_app_data)
+                return
+            changes_detected = any(
+                extracted_data[key] != existing_app_data.get(key, "N/A")
+                for key in extracted_data
+            )
             if not changes_detected:
                 logging.info(f"No update for {app_name}. Skipping SHA checks.")
                 add_to_combined_xml(app_name, existing_app_data)
-            else:
-                logging.info(f"Update detected for {app_name}.")
-                # Ensure SHA values are computed for both URLs
-                if skip_sha_checks:
-                    extracted_data["full_update_sha1"] = "N/A"
-                    extracted_data["full_update_sha256"] = "N/A"
-                    extracted_data["app_update_sha1"] = "N/A"
-                    extracted_data["app_update_sha256"] = "N/A"
-                else:
-                    full_download_url = extracted_data.get("full_update_download")
-                    app_download_url = extracted_data.get("app_only_update_download")
-                    
-                    # Compute hashes for full update download
-                    extracted_data["full_update_sha1"] = compute_sha1(full_download_url) if full_download_url else "N/A"
-                    extracted_data["full_update_sha256"] = compute_sha256(full_download_url) if full_download_url else "N/A"
-                    
-                    # Compute hashes for app-only update download
-                    extracted_data["app_update_sha1"] = compute_sha1(app_download_url) if app_download_url else "N/A"
-                    extracted_data["app_update_sha256"] = compute_sha256(app_download_url) if app_download_url else "N/A"
-                
-                add_to_combined_xml(app_name, extracted_data)
+                return
+            logging.info(f"Update detected for {app_name}.")
         else:
             logging.info(f"New app {app_name} detected.")
-            # Ensure SHA values are computed for both URLs
-            if skip_sha_checks:
-                extracted_data["full_update_sha1"] = "N/A"
-                extracted_data["full_update_sha256"] = "N/A"
-                extracted_data["app_update_sha1"] = "N/A"
-                extracted_data["app_update_sha256"] = "N/A"
-            else:
-                full_download_url = extracted_data.get("full_update_download")
-                app_download_url = extracted_data.get("app_only_update_download")
-                
-                # Compute hashes for full update download
-                extracted_data["full_update_sha1"] = compute_sha1(full_download_url) if full_download_url else "N/A"
-                extracted_data["full_update_sha256"] = compute_sha256(full_download_url) if full_download_url else "N/A"
-                
-                # Compute hashes for app-only update download
-                extracted_data["app_update_sha1"] = compute_sha1(app_download_url) if app_download_url else "N/A"
-                extracted_data["app_update_sha256"] = compute_sha256(app_download_url) if app_download_url else "N/A"
-            
-            add_to_combined_xml(app_name, extracted_data)
+
+        assign_hashes(extracted_data)
+        add_to_combined_xml(app_name, extracted_data)
 
     except Exception as e:
         logging.error(f"Error processing {app_name}: {e}")
@@ -594,39 +638,39 @@ def process_json_data(app_data, config):
 
     return extracted_data
 
-# Function to compute SHA1 hash
-def compute_sha1(url):
-    try:
-        logging.info(f"Computing SHA1 for {url}...")
-        # Use allow_redirects=True to follow redirects
-        response = requests.get(url, stream=True, allow_redirects=True)
-        response.raise_for_status()  # Raise exception for HTTP errors
-        hasher = sha1()
-        for chunk in response.iter_content(chunk_size=8192):
-            hasher.update(chunk)
-        sha1_hash = hasher.hexdigest()
-        logging.info(f"SHA1 for {url}: {sha1_hash}")
-        return sha1_hash
-    except Exception as e:
-        logging.error(f"Error computing SHA1 for {url}: {e}")
-        return "N/A"
+# Cache hashes per URL so a package shared by full + app-only links is downloaded once.
+_hash_cache = {}
 
-# Function to compute SHA256 hash
-def compute_sha256(url):
+# Download a package once and compute both SHA1 and SHA256 in a single streaming pass.
+def compute_hashes(url):
+    if not url:
+        return "N/A", "N/A"
+    if url in _hash_cache:
+        return _hash_cache[url]
     try:
-        logging.info(f"Computing SHA256 for {url}...")
-        # Use allow_redirects=True to follow redirects
-        response = requests.get(url, stream=True, allow_redirects=True)
-        response.raise_for_status()  # Raise exception for HTTP errors
-        hasher = sha256()
-        for chunk in response.iter_content(chunk_size=8192):
-            hasher.update(chunk)
-        sha256_hash = hasher.hexdigest()
-        logging.info(f"SHA256 for {url}: {sha256_hash}")
-        return sha256_hash
+        logging.info(f"Hashing {url}...")
+        h1, h256 = sha1(), sha256()
+        with requests.get(url, stream=True, allow_redirects=True, timeout=REQUEST_TIMEOUT) as response:
+            response.raise_for_status()
+            for chunk in response.iter_content(chunk_size=1 << 20):  # 1 MiB
+                h1.update(chunk)
+                h256.update(chunk)
+        result = (h1.hexdigest(), h256.hexdigest())
+        logging.info(f"SHA1 {result[0]} / SHA256 {result[1]} for {url}")
     except Exception as e:
-        logging.error(f"Error computing SHA256 for {url}: {e}")
-        return "N/A"
+        logging.error(f"Error hashing {url}: {e}")
+        result = ("N/A", "N/A")
+    _hash_cache[url] = result
+    return result
+
+# Populate the four hash fields for an app from its full + app-only download URLs.
+def assign_hashes(data):
+    if skip_sha_checks:
+        for k in ("full_update_sha1", "full_update_sha256", "app_update_sha1", "app_update_sha256"):
+            data[k] = "N/A"
+        return
+    data["full_update_sha1"], data["full_update_sha256"] = compute_hashes(data.get("full_update_download"))
+    data["app_update_sha1"], data["app_update_sha256"] = compute_hashes(data.get("app_only_update_download"))
 
 def add_to_combined_xml(app_name, data):
     logging.info(f"Adding {app_name} to combined XML...")

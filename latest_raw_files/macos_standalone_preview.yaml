@@ -1,4 +1,4 @@
-last_updated: June 19, 2026 06:25 PM EDT
+last_updated: June 19, 2026 07:28 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -76,14 +76,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 26163.403.4812.3850
-  full_version: 26163.403.4812.3850
-  last_updated: June 16, 2026
+  short_version: 26149.1801.4759.7173
+  full_version: 26149.1801.4759.7173
+  last_updated: June 01, 2026
   min_os: '14.0'
-  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.403.4812.3850/MicrosoftTeams_26120.3106.4725.800_to_26163.403.4812.3850_BinaryDelta.pkg
-  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.403.4812.3850/MicrosoftTeams_26120.3106.4725.800_to_26163.403.4812.3850_BinaryDelta.pkg
-  sha1: 469e0c1332a9c0fc9391d0d004fd6e5d0e5d6e44
-  sha256: 83f9bb5ca4e89347721255a16a6e15198fab2af90212ebaefcdbd254bd03f5bf
+  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26149.1801.4759.7173/MicrosoftTeams_26106.2113.4690.1073_to_26149.1801.4759.7173_BinaryDelta.pkg
+  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26149.1801.4759.7173/MicrosoftTeams_26106.2113.4690.1073_to_26149.1801.4759.7173_BinaryDelta.pkg
+  sha1: e5ce16f62c14db5467886a1e9f5cdf0d5d36ebf6
+  sha256: e70f4f590044c4bd87f00d4e5424a6e7403abb763f08329c1f0bc83ebe0f481c
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app
@@ -160,14 +160,14 @@ packages:
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app
   CFBundleVersion: com.microsoft.m365copilot
-  short_version: 1.2606 (0801)
-  full_version: 1.2606.0801
-  last_updated: June 08, 2026
+  short_version: 1.2606 (0101)
+  full_version: 1.2606.0101
+  last_updated: June 03, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0801_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0801_Updater.pkg
-  sha1: 5949616d28b901886457d9dbfa8d38c6bf649437
-  sha256: e187dfa930abdd23552ab56debdb79a78bb9cbd9d1a36a807deff2ea88880928
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0101_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0101_Updater.pkg
+  sha1: 9b2f160e1fffd67e39ea898d5a3daaaf8211e648
+  sha256: d82d19a2e2f4e9654f73baad552e4b1b1a8dff6fd6d4ddee291463313205fe3f
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

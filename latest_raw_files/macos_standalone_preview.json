@@ -1,33 +1,33 @@
 {
-    "last_updated": "June 19, 2026 01:51 AM EDT",
+    "last_updated": "June 19, 2026 04:04 AM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.110.0 (26060713)",
-            "full_version": "16.110.26060713",
-            "last_updated": "June 07, 2026",
+            "short_version": "16.110.0 (26061317)",
+            "full_version": "16.110.26061317",
+            "last_updated": "June 13, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26060713_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26060713_Updater.pkg",
-            "sha1": "c48b2325d5fb814fc550c238b317b366ff08ad84",
-            "sha256": "6274392254579e61582985026608e9f692fed8735951d7b8f280ac5299180fa2"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26061317_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26061317_Updater.pkg",
+            "sha1": "400cd8435cd4862e884e7f8d86c1fe92a1b74f73",
+            "sha256": "83e4eabd04f62d45e733de49db2666df14a6931593271e0e4fe651841c24e6b3"
         },
         {
             "name": "Excel",
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.110.0 (26060713)",
-            "full_version": "16.110.26060713",
-            "last_updated": "June 07, 2026",
+            "short_version": "16.110.0 (26061317)",
+            "full_version": "16.110.26061317",
+            "last_updated": "June 13, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26060713_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26060713_Updater.pkg",
-            "sha1": "aa76cfe05cee56dea76c06703555dac0421b0f78",
-            "sha256": "e31b5840704489064eeff63cd0ae40ff116a4662f99bac13e710d8446ee888db"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26061317_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26061317_Updater.pkg",
+            "sha1": "5a74c6a312b3bdd314c99d10454debe17501ebfe",
+            "sha256": "63c583c3691266787486fd0044e2633a611d02682471acd9ef2e6f4ca3028003"
         },
         {
             "name": "PowerPoint",
@@ -176,9 +176,9 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.126.0-",
             "full_version": "1.126.0-insider",
-            "last_updated": "June 18, 2026",
+            "last_updated": "June 19, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/bb215ba65e18347c8bc7481ccf4b2dbb92260255/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/79d34e6e519a89e97d70cc6714337f58accd3ed2/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

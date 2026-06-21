@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 21, 2026 10:51 AM EDT",
+    "last_updated": "June 21, 2026 11:39 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "26163.402.4803.6178",
-            "full_version": "26163.402.4803.6178",
-            "last_updated": "June 13, 2026",
+            "short_version": "26163.403.4812.3850",
+            "full_version": "26163.403.4812.3850",
+            "last_updated": "June 16, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.402.4803.6178/MicrosoftTeams_26120.3106.4725.800_to_26163.402.4803.6178_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.402.4803.6178/MicrosoftTeams_26120.3106.4725.800_to_26163.402.4803.6178_BinaryDelta.pkg",
-            "sha1": "6348cb5ae3149648e453eea8dadbb683efb22a04",
-            "sha256": "a7ef22cdea6ee8c1065141f2a90f061b01ff3153934cada2fad4dc04fcce904b"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.403.4812.3850/MicrosoftTeams_26120.3106.4725.800_to_26163.403.4812.3850_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.403.4812.3850/MicrosoftTeams_26120.3106.4725.800_to_26163.403.4812.3850_BinaryDelta.pkg",
+            "sha1": "469e0c1332a9c0fc9391d0d004fd6e5d0e5d6e44",
+            "sha256": "83f9bb5ca4e89347721255a16a6e15198fab2af90212ebaefcdbd254bd03f5bf"
         },
         {
             "name": "Intune",
@@ -188,14 +188,14 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2606 (0801)",
-            "full_version": "1.2606.0801",
-            "last_updated": "June 08, 2026",
+            "short_version": "1.2606 (0101)",
+            "full_version": "1.2606.0101",
+            "last_updated": "June 03, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0801_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0801_Updater.pkg",
-            "sha1": "5949616d28b901886457d9dbfa8d38c6bf649437",
-            "sha256": "e187dfa930abdd23552ab56debdb79a78bb9cbd9d1a36a807deff2ea88880928"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0101_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0101_Updater.pkg",
+            "sha1": "9b2f160e1fffd67e39ea898d5a3daaaf8211e648",
+            "sha256": "d82d19a2e2f4e9654f73baad552e4b1b1a8dff6fd6d4ddee291463313205fe3f"
         },
         {
             "name": "MAU",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 23, 2026 11:07 AM EDT",
+    "last_updated": "June 23, 2026 12:55 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -54,13 +54,13 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.110.0 (26061317)",
-            "full_version": "16.110.26061317",
-            "last_updated": "June 13, 2026",
+            "short_version": "16.110.1 (26062112)",
+            "full_version": "16.110.26062112",
+            "last_updated": "June 21, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.110.26061317_Updater.pkg",
-            "app_update_sha1": "5a74c6a312b3bdd314c99d10454debe17501ebfe",
-            "app_update_sha256": "63c583c3691266787486fd0044e2633a611d02682471acd9ef2e6f4ca3028003",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.110.26062112_Updater.pkg",
+            "app_update_sha1": "88064f257ad95c9da1b1990a78535f9863f988f2",
+            "app_update_sha256": "70c084e11a0e5ac4e191790d873270d9b23b7b7d189594a9fb11f2fa45d413df",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525135",
             "full_update_sha1": "a64d578f71bf186b63d7f8edca1725f5cc0d7cc6",
             "full_update_sha256": "d9ced6c1a95f60649739394597d7dc89281b587ae6951e055b6a52197e351c0a"

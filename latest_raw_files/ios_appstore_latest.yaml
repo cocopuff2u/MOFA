@@ -1,4 +1,4 @@
-last_updated: June 22, 2026 07:35 PM EDT
+last_updated: June 22, 2026 09:47 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -55,13 +55,11 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: June 08, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/eb/9b/9aeb9b6e-a29d-1c48-2ce3-3e83be4c18ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 22, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/96/d9/b196d9fc-a24a-4797-d983-cf281b3b7f59/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: This version of OneDrive no longer supports SharePoint Server on-premises
-      accounts. SharePoint Server 2016 and 2019 reach end of support on July 14, 2026.
-      Personal Microsoft accounts and Microsoft 365 work or school accounts are unaffected.
-    version: 18.3.3
+    releaseNotes: This update contains bug fixes and stability improvements.
+    version: 18.4.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile

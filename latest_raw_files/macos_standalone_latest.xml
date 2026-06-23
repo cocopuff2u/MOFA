@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 23, 2026 12:55 PM EDT</last_updated>
+    <last_updated>June 23, 2026 01:39 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -70,13 +70,13 @@
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.110.0 (26061317)</short_version>
-        <full_version>16.110.26061317</full_version>
-        <last_updated>June 13, 2026</last_updated>
+        <short_version>16.110.1 (26062112)</short_version>
+        <full_version>16.110.26062112</full_version>
+        <last_updated>June 21, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.110.26061317_Updater.pkg</app_only_update_download>
-        <app_update_sha1>2c378294768a215b079173f43aba5136810bb75b</app_update_sha1>
-        <app_update_sha256>ec998bacef430609ef390330743776ed46e0138aefdd3cf880c90d6ddc7e160a</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.110.26062112_Updater.pkg</app_only_update_download>
+        <app_update_sha1>96dab1ef83fed5ab7ecd3096396b802235ff31cc</app_update_sha1>
+        <app_update_sha256>cdf50b238885705218c2eececc462fa5bb007522344fc1e51a85445782922d40</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525136</full_update_download>
         <full_update_sha1>34fa2618665add374caa255c388858f2409b5d72</full_update_sha1>
         <full_update_sha256>87dc53981ff801a64b238e0bf788ac220527e3730ce10a62ae1c75d93c3f21bf</full_update_sha256>

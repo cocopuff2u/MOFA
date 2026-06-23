@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 23, 2026 01:39 PM EDT</last_updated>
+    <last_updated>June 23, 2026 02:50 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -38,13 +38,13 @@
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.110.0 (26061317)</short_version>
-        <full_version>16.110.26061317</full_version>
-        <last_updated>June 13, 2026</last_updated>
+        <short_version>16.110.1 (26062112)</short_version>
+        <full_version>16.110.26062112</full_version>
+        <last_updated>June 21, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.110.26061317_Updater.pkg</app_only_update_download>
-        <app_update_sha1>400cd8435cd4862e884e7f8d86c1fe92a1b74f73</app_update_sha1>
-        <app_update_sha256>83e4eabd04f62d45e733de49db2666df14a6931593271e0e4fe651841c24e6b3</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.110.26062112_Updater.pkg</app_only_update_download>
+        <app_update_sha1>ed09b05e7fe2d9d4a0db185828505eeaa6ba2297</app_update_sha1>
+        <app_update_sha256>e5da9d1d5837e7a3c9a493b1e105506fd6ec885f4174d11b7e5a04a6490399d8</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525134</full_update_download>
         <full_update_sha1>a76d56867f861abb723979165d65f9292619fe38</full_update_sha1>
         <full_update_sha256>4189eafe4c660bad05107aabae6667a344cf0221719498096b169c719fa4e311</full_update_sha256>
@@ -86,13 +86,13 @@
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.110.0 (26061317)</short_version>
-        <full_version>16.110.26061317</full_version>
-        <last_updated>June 13, 2026</last_updated>
+        <short_version>16.110.1 (26062112)</short_version>
+        <full_version>16.110.26062112</full_version>
+        <last_updated>June 21, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.110.26061317_Updater.pkg</app_only_update_download>
-        <app_update_sha1>989a5563dcb8a014b8fa70e127fc974b147ae812</app_update_sha1>
-        <app_update_sha256>3f22e68ddea99925ffd5aeb15eac33af59780ba354e2f66f4d24ffb58e831bb9</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.110.26062112_Updater.pkg</app_only_update_download>
+        <app_update_sha1>6a11eccc8c25c71cf8d75a8d560c86d50287e6ac</app_update_sha1>
+        <app_update_sha256>bcff6011b7e3da37aca79a1cfa619486fe2006d6f94b1bfdcff779206f5d6669</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2228621</full_update_download>
         <full_update_sha1>9fc74354d99a421dbab66cbbe52045efac7ca7eb</full_update_sha1>
         <full_update_sha256>32d5daf423e92ce5a9d9cd48eddedc7aca49047723898a0b5a55decf366ce14f</full_update_sha256>

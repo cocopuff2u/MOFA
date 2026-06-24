@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 23, 2026 08:59 PM EDT",
+    "last_updated": "June 23, 2026 09:45 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -278,14 +278,14 @@
         },
         {
             "name": "iOS Microsoft Power Apps",
-            "application_name": "Power Apps Developer",
-            "bundleId": "com.microsoft.PreviewApp",
-            "currentVersionReleaseDate": "June 23, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/79/d3/6379d30f-e935-3d81-1649-4780751e9992/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "15.1",
-            "releaseNotes": "NA",
-            "version": "1.0.0",
-            "app_store_url": "https://apps.apple.com/us/app/power-apps-developer/id6753083462?uo=4"
+            "application_name": "Power Apps",
+            "bundleId": "com.microsoft.msapps",
+            "currentVersionReleaseDate": "June 17, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/24/ee/4e24ee68-05a7-7190-6f73-23a1cf71c732/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "\u2022 Bug fixes and performance improvements",
+            "version": "3.26062.7",
+            "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {
             "name": "iOS Microsoft Authenticator",
@@ -302,11 +302,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "June 11, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/81/78/ed817811-8b7b-cd27-5725-9f607d776158/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 23, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/6d/a3/536da3a1-6a8d-92d1-39e2-663596a71900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "479.0",
+            "version": "480.0",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {

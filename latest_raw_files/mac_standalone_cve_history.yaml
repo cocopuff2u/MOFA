@@ -1,5 +1,11 @@
-last_scan_date: June 23, 2026 11:16 PM EDT
+last_scan_date: June 24, 2026 01:26 AM EDT
 updates:
+- date_text: June 23, 2026
+  security_updates:
+    N/A:
+    - cve_name: N/A
+      url: null
+  version: Version 16.110.1 (Build 26062112)
 - date_text: June 16, 2026
   security_updates:
     Excel:

@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 24, 2026 09:47 AM EDT",
+    "last_updated": "June 24, 2026 11:02 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -20,14 +20,14 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.110.1 (26062112)",
-            "full_version": "16.110.26062112",
-            "last_updated": "June 21, 2026",
+            "short_version": "16.110.0 (26061317)",
+            "full_version": "16.110.26061317",
+            "last_updated": "June 13, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26062112_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26062112_Updater.pkg",
-            "sha1": "88064f257ad95c9da1b1990a78535f9863f988f2",
-            "sha256": "70c084e11a0e5ac4e191790d873270d9b23b7b7d189594a9fb11f2fa45d413df"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26061317_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26061317_Updater.pkg",
+            "sha1": "5a74c6a312b3bdd314c99d10454debe17501ebfe",
+            "sha256": "63c583c3691266787486fd0044e2633a611d02682471acd9ef2e6f4ca3028003"
         },
         {
             "name": "PowerPoint",
@@ -48,14 +48,14 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.110.0 (26061317)",
-            "full_version": "16.110.26061317",
-            "last_updated": "June 13, 2026",
+            "short_version": "16.110.1 (26062112)",
+            "full_version": "16.110.26062112",
+            "last_updated": "June 21, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26061317_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26061317_Updater.pkg",
-            "sha1": "989a5563dcb8a014b8fa70e127fc974b147ae812",
-            "sha256": "3f22e68ddea99925ffd5aeb15eac33af59780ba354e2f66f4d24ffb58e831bb9"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26062112_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26062112_Updater.pkg",
+            "sha1": "6a11eccc8c25c71cf8d75a8d560c86d50287e6ac",
+            "sha256": "bcff6011b7e3da37aca79a1cfa619486fe2006d6f94b1bfdcff779206f5d6669"
         },
         {
             "name": "OneNote",

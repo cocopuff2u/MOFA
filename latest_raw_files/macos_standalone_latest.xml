@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 24, 2026 11:15 PM EDT</last_updated>
+    <last_updated>June 25, 2026 01:28 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -134,13 +134,13 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>26149.1804.4788.5681</short_version>
-        <full_version>26149.1804.4788.5681</full_version>
-        <last_updated>June 09, 2026</last_updated>
+        <short_version>26163.407.4839.8659</short_version>
+        <full_version>26163.407.4839.8659</full_version>
+        <last_updated>June 23, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26149.1804.4788.5681/MicrosoftTeams_26106.2113.4690.1073_to_26149.1804.4788.5681_BinaryDelta.pkg</app_only_update_download>
-        <app_update_sha1>c3c6dd1736aaad6151ac4378240ffe80488d2e31</app_update_sha1>
-        <app_update_sha256>79f03ac2da5caf5c039671134cbc4137d54de7c96a9b63309841b75b4a6b9f7a</app_update_sha256>
+        <app_only_update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.407.4839.8659/MicrosoftTeams_26134.1610.4759.7759_to_26163.407.4839.8659_BinaryDelta.pkg</app_only_update_download>
+        <app_update_sha1>d6329c1193235c77cb08ac0ac0aff8cfe2f81889</app_update_sha1>
+        <app_update_sha256>e8c6ea5dd080ae8984528126fa383d2e28f3e685ce14f0528149dc563cefd60e</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2249065</full_update_download>
         <full_update_sha1>f218f40c944d6ab9fb9a02701eaf6d573dba1d0a</full_update_sha1>
         <full_update_sha256>bcf6d54723446063e3b37c5a03bbd5c9f5f8e7bf5e7517d6db2676fc0e684e0b</full_update_sha256>

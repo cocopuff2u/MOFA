@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 25, 2026 05:15 AM EDT</last_updated>
+    <last_updated>June 25, 2026 07:02 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -62,14 +62,14 @@
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote</CFBundleVersion>
-        <short_version>16.110.1 (26062112)</short_version>
-        <full_version>16.110.26062112</full_version>
-        <last_updated>June 21, 2026</last_updated>
+        <short_version>16.110.0 (26061317)</short_version>
+        <full_version>16.110.26061317</full_version>
+        <last_updated>June 13, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.110.26062112_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.110.26062112_Updater.pkg</latest_download>
-        <sha1>0a383799114fd08f41cdcd7c1bff1de5ecff1db4</sha1>
-        <sha256>d574d277bcd5dc2e64a98e294aeaf34611b72ae969d5823d078bf05f63c9d0ab</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.110.26061317_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.110.26061317_Updater.pkg</latest_download>
+        <sha1>9e3eca285fe9ba1e1004c04f58694d0584987db5</sha1>
+        <sha256>bdd7dbba11276a129f91f33a7a7a0d4a7984ed9ecbcfa113f56660546a872461</sha256>
     </package>
     <package>
         <name>Skype</name>
@@ -176,9 +176,9 @@
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
         <short_version>1.127.0-</short_version>
         <full_version>1.127.0-insider</full_version>
-        <last_updated>June 23, 2026</last_updated>
+        <last_updated>June 25, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/2858f2c0200dc2f4f87aca248c69daaf85f3ce69/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/3cf8af2ee6b3acc2ea190f0e6fbf3072b680511d/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

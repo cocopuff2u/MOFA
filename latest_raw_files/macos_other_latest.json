@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 24, 2026 11:18 PM EDT",
+    "last_updated": "June 25, 2026 01:30 AM EDT",
     "packages": [
         {
             "name": "PowerShell",
@@ -104,14 +104,14 @@
             "application_id": "N/A",
             "application_name": "Azure Developer CLI (azd)",
             "CFBundleVersion": "N/A",
-            "short_version": "1.25.6",
-            "full_version": "1.25.6",
-            "last_updated": "June 13, 2026",
+            "short_version": "1.26.0",
+            "full_version": "1.26.0",
+            "last_updated": "June 25, 2026",
             "min_os": "N/A",
-            "update_download": "https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.25.6/azd-darwin-arm64.zip",
-            "latest_download": "https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.25.6/azd-darwin-arm64.zip",
-            "sha1": "9c79598eb715307a87fa28ee07ea470723ed071c",
-            "sha256": "c7e5589c80b16f1bae18316de702778c80eb2277e0cc0c443d5659df715627aa"
+            "update_download": "https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.26.0/azd-darwin-arm64.zip",
+            "latest_download": "https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.26.0/azd-darwin-arm64.zip",
+            "sha1": "b9e0ff58b16b2af52adb047fa3eb007ce0ed264f",
+            "sha256": "083820d078e17f4154ab96ac363f32d53d37c2ae24093ca67f2dddc5436e06e1"
         },
         {
             "name": "AzCopy",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 25, 2026 12:52 PM EDT",
+    "last_updated": "June 25, 2026 01:50 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -170,11 +170,11 @@
             "name": "iOS Microsoft Viva Engage",
             "application_name": "Viva Engage",
             "bundleId": "wefwef",
-            "currentVersionReleaseDate": "June 01, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/5d/2f/3e5d2f2c-acde-ebab-1970-12ec29a59387/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/84/e6/c284e646-d77a-d91e-8076-564f0546b078/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.6",
             "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
-            "version": "11.42.0",
+            "version": "11.44.0",
             "app_store_url": "https://apps.apple.com/us/app/viva-engage/id289559439?uo=4"
         },
         {
@@ -278,14 +278,14 @@
         },
         {
             "name": "iOS Microsoft Power Apps",
-            "application_name": "Power Apps Developer",
-            "bundleId": "com.microsoft.PreviewApp",
-            "currentVersionReleaseDate": "June 23, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/79/d3/6379d30f-e935-3d81-1649-4780751e9992/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "15.1",
-            "releaseNotes": "NA",
-            "version": "1.0.0",
-            "app_store_url": "https://apps.apple.com/us/app/power-apps-developer/id6753083462?uo=4"
+            "application_name": "Power Apps",
+            "bundleId": "com.microsoft.msapps",
+            "currentVersionReleaseDate": "June 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/04/f6/5c04f6a1-7238-ed91-3400-5baf3fdc9699/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "\u2022 Bug fixes and performance improvements",
+            "version": "3.26063.8",
+            "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {
             "name": "iOS Microsoft Authenticator",

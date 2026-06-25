@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 25, 2026 05:14 AM EDT</last_updated>
+	<last_updated>June 25, 2026 07:02 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -334,14 +334,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Power Apps</name>
-		<application_name>Power Apps</application_name>
-		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>June 24, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/04/f6/5c04f6a1-7238-ed91-3400-5baf3fdc9699/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26063.8</version>
-		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
+		<application_name>Power Apps Developer</application_name>
+		<bundleId>com.microsoft.PreviewApp</bundleId>
+		<currentVersionReleaseDate>June 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/79/d3/6379d30f-e935-3d81-1649-4780751e9992/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.1</minimumOsVersion>
+		<releaseNotes>NA</releaseNotes>
+		<version>1.0.0</version>
+		<app_store_url>https://apps.apple.com/us/app/power-apps-developer/id6753083462?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>

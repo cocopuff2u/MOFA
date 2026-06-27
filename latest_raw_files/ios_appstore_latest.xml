@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 27, 2026 04:29 PM EDT</last_updated>
+	<last_updated>June 27, 2026 06:27 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>June 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/c8/6e/60c86e2f-9a94-c48d-b7aa-423cfea0b0bb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/8a/15/4e8a1559-3d46-d725-3887-5c7a34fd3702/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.111</version>
+		<version>2.111.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
@@ -27,11 +27,11 @@
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>June 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/94/97/259497f1-3f80-bb4c-357a-b4babbb6a347/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/20/63/10206320-bd86-45cd-7667-a677976b6fb7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.111</version>
+		<version>2.111.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4</app_store_url>
 	</package>
 	<package>
@@ -51,8 +51,8 @@ Feel free to send us any comments or questions by going to Settings &gt; Help &a
 		<name>iOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote</bundleId>
-		<currentVersionReleaseDate>June 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/5b/e3/685be3bd-8649-c967-5586-6ce38d829f8e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/03/f6/7903f6a1-9bdc-fe30-b962-54c1a168f777/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -60,7 +60,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.111</version>
+		<version>16.111.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4</app_store_url>
 	</package>
 	<package>
@@ -367,18 +367,20 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>CamScanner - PDF Scanner App</application_name>
-		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>June 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/a7/ac/40a7ace4-1a3e-9eeb-68a7-f43e01c90980/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>· Easier to scan missed questions: Select questions across pages, adjust spacing and layout when reorganizing.
-· Better slide reading: Immersive mode for focus, landscape for clarity.
-· New mosaic tool: Pixelate by brush or auto-mask text in one tap. Privacy made simple.
-· Scan to translate improved: Now shows original and translation side by side.
-· New Mega Scan: Blueprints, artwork, and more. Continuous seamless AI stitching at any size. (Available on select devices)</releaseNotes>
-		<version>7.20.0</version>
-		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
+		<application_name>Lens: Translate &amp; Image Search</application_name>
+		<bundleId>com.searchdodo.ios</bundleId>
+		<currentVersionReleaseDate>June 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/0b/10/340b10e6-4d98-bf4c-fea6-893dd22cc36d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.6</minimumOsVersion>
+		<releaseNotes>Quick update!
+
+We are always working to make Lens your go-to tool for instantly searching and translating images. 
+
+In version, we’ve been doing some behind-the-scenes housekeeping. We tuned up our internal engine and improved how the app handles navigation to ensure your experience is smoother, faster, and more reliable than ever.
+
+Keep exploring and translating the world with your camera! If Lens is making your life easier, a quick 5-star review means the world to us!</releaseNotes>
+		<version>3.1.13</version>
+		<app_store_url>https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

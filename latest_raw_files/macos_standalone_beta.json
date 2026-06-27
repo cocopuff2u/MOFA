@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 27, 2026 07:35 AM EDT",
+    "last_updated": "June 27, 2026 08:37 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -20,28 +20,28 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.111.0 (26062117)",
-            "full_version": "16.111.26062117",
-            "last_updated": "June 21, 2026",
+            "short_version": "16.111.0 (26062533)",
+            "full_version": "16.111.26062533",
+            "last_updated": "June 25, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.111.26062117_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.111.26062117_Updater.pkg",
-            "sha1": "bbeb529c266877112c842d4fe6ab7fa0ebbd5a84",
-            "sha256": "d3ef607abe9979e66de8e221500b41011213e894f880c96f917395e6e541dce0"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.111.26062533_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.111.26062533_Updater.pkg",
+            "sha1": "16d3c30344fa3ee1c20598f4fa367f6c17810610",
+            "sha256": "324599548a529be82812e02202578958f5b6872ac43f7a5c2a5364dfb1cebce1"
         },
         {
             "name": "PowerPoint",
             "application_id": "PPT32019",
             "application_name": "Microsoft PowerPoint.app",
             "CFBundleVersion": "com.microsoft.powerpoint",
-            "short_version": "16.111.0 (26062117)",
-            "full_version": "16.111.26062117",
-            "last_updated": "June 21, 2026",
+            "short_version": "16.111.0 (26062533)",
+            "full_version": "16.111.26062533",
+            "last_updated": "June 25, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.111.26062117_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.111.26062117_Updater.pkg",
-            "sha1": "fadd29bb6c9faca80dcaeeb7c54ed682f3eb5793",
-            "sha256": "00175733a6a1eaf9d765ae5bc52abaa57b84e59356560d8ae6c8d228ecf2c5ab"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.111.26062533_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.111.26062533_Updater.pkg",
+            "sha1": "e4c565e5b73ef82ec920f4ef8f54779a2d0cf95b",
+            "sha256": "2811ae8429fa8ae674203d48d05f2bdfa5166271f74f3fa8b864be056de43696"
         },
         {
             "name": "Outlook",
@@ -62,14 +62,14 @@
             "application_id": "ONMC2019",
             "application_name": "Microsoft OneNote.app",
             "CFBundleVersion": "com.microsoft.onenote",
-            "short_version": "16.111.0 (26062117)",
-            "full_version": "16.111.26062117",
-            "last_updated": "June 21, 2026",
+            "short_version": "16.111.0 (26062533)",
+            "full_version": "16.111.26062533",
+            "last_updated": "June 25, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.111.26062117_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.111.26062117_Updater.pkg",
-            "sha1": "0086add2210a0ede39697a204710779f991c7558",
-            "sha256": "87956cbedc9fe6af333cd2eaf4d5d493cebe58b3b55a9d21376969646955588a"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.111.26062533_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.111.26062533_Updater.pkg",
+            "sha1": "788667d315d76d8967173e61c51b9708e9c5c2a1",
+            "sha256": "bcee4822aabeafa15469787616dc5e56d1d8a9de98fc4a7a2fb5d1f5e7fc4810"
         },
         {
             "name": "Skype",
@@ -188,14 +188,14 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2606 (0801)",
-            "full_version": "1.2606.0801",
-            "last_updated": "June 08, 2026",
+            "short_version": "1.2606 (1501)",
+            "full_version": "1.2606.1501",
+            "last_updated": "June 15, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0801_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.0801_Updater.pkg",
-            "sha1": "5949616d28b901886457d9dbfa8d38c6bf649437",
-            "sha256": "e187dfa930abdd23552ab56debdb79a78bb9cbd9d1a36a807deff2ea88880928"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.1501_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.1501_Updater.pkg",
+            "sha1": "ca4c7e388ae7cd85f9fb032e09477c16a521a634",
+            "sha256": "ed39c7b03d26c0d3f33c99bbce1f9587baf160f76f930b267787b06952067bb7"
         },
         {
             "name": "MAU",

@@ -1,4 +1,4 @@
-last_updated: June 27, 2026 01:28 PM EDT
+last_updated: June 27, 2026 02:32 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -28,14 +28,14 @@ packages:
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.110.0 (26061317)
-  full_version: 16.110.26061317
-  last_updated: June 13, 2026
+  short_version: 16.110.1 (26062112)
+  full_version: 16.110.26062112
+  last_updated: June 21, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26061317_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26061317_Updater.pkg
-  sha1: 2c378294768a215b079173f43aba5136810bb75b
-  sha256: N/A
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062112_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062112_Updater.pkg
+  sha1: 96dab1ef83fed5ab7ecd3096396b802235ff31cc
+  sha256: cdf50b238885705218c2eececc462fa5bb007522344fc1e51a85445782922d40
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app

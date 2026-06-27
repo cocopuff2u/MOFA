@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 27, 2026 05:02 AM EDT",
+    "last_updated": "June 27, 2026 05:48 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens: Translate & Image Search",
-            "bundleId": "com.searchdodo.ios",
-            "currentVersionReleaseDate": "June 16, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/0b/10/340b10e6-4d98-bf4c-fea6-893dd22cc36d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.6",
-            "releaseNotes": "Quick update!\n\nWe are always working to make Lens your go-to tool for instantly searching and translating images. \n\nIn version, we\u2019ve been doing some behind-the-scenes housekeeping. We tuned up our internal engine and improved how the app handles navigation to ensure your experience is smoother, faster, and more reliable than ever.\n\nKeep exploring and translating the world with your camera! If Lens is making your life easier, a quick 5-star review means the world to us!",
-            "version": "3.1.13",
-            "app_store_url": "https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4"
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
+            "currentVersionReleaseDate": "June 22, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/a7/ac/40a7ace4-1a3e-9eeb-68a7-f43e01c90980/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 Easier to scan missed questions: Select questions across pages, adjust spacing and layout when reorganizing.\n\u00b7 Better slide reading: Immersive mode for focus, landscape for clarity.\n\u00b7 New mosaic tool: Pixelate by brush or auto-mask text in one tap. Privacy made simple.\n\u00b7 Scan to translate improved: Now shows original and translation side by side.\n\u00b7 New Mega Scan: Blueprints, artwork, and more. Continuous seamless AI stitching at any size. (Available on select devices)",
+            "version": "7.20.0",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

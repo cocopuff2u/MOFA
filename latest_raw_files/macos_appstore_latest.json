@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 29, 2026 05:34 PM EDT",
+    "last_updated": "June 29, 2026 06:28 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -82,11 +82,11 @@
             "name": "MacOS Microsoft Windows App",
             "application_name": "Windows App",
             "bundleId": "com.microsoft.rdc.macos",
-            "currentVersionReleaseDate": "June 09, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/65/83/c16583b2-c073-ef27-f632-34fd68439b37/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "June 29, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/48/06/dd480661-3a03-60fb-bfeb-5ce84b615d0f/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "It's time to clean house and fix some bugs! This update includes fixes for issues reported by users and internal telemetry. \n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.3.6",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added a new Personalization section (under Settings) to customize how the app looks and feels.\n\u2022 Updated the Quick Launcher to make it detachable, resizable and independent from the Connection Center lifetime.\n\u2022 Moved the Search control from the sidebar to the toolbar, and reordered the toolbar items.\n\u2022 Updated the First Run Experience and permission request dialogs.\n\u2022 Resolved an issue where tab navigation on the sidebar wasn't working after the app was launched.\n\u2022 Corrected default device card thumbnail aspect ratios that could become distorted after resizing the Connection Center.\n\u2022 Fixed a bug that caused the Settings dialog to not open in the current active space.\n\u2022 Adjusted the default size of the Connection Center for macOS 26+.\n\u2022 Optimized device card thumbnail rendering performance in the Connection Center.\n\u2022 Improved app responsiveness by coalescing workspace update-triggered UI refreshes.\n\u2022 Made updates to improve Continuous Access Evaluation (CAE) scenarios for AVD and Windows 365.\n\u2022 Resolved app crashes and hangs.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
+            "version": "11.3.7",
             "app_store_url": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4"
         },
         {

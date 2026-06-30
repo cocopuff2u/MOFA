@@ -1,4 +1,4 @@
-last_updated: June 30, 2026 03:39 PM EDT
+last_updated: June 30, 2026 04:44 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: June 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/21/5c/50215ca0-c524-8e0f-c4a4-5631d756afed/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/79/20/3a792033-0140-efd0-671a-352339e4d4aa/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2624.0
+    version: 5.2625.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -163,12 +163,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: June 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/84/e6/c284e646-d77a-d91e-8076-564f0546b078/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/45/a5/b945a529-6c5d-c0c5-435a-6e9b357d18da/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.6'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 11.44.0
+    version: 11.45.0
     app_store_url: https://apps.apple.com/us/app/viva-engage/id289559439?uo=4
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'
@@ -298,11 +298,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: June 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/04/f6/5c04f6a1-7238-ed91-3400-5baf3fdc9699/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: June 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/d4/8f/9cd48fc6-d051-73f0-72e5-2527a9619699/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.26063.8
+    version: 3.26064.4
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
@@ -316,14 +316,15 @@ packages:
     version: 6.8.49
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
-    application_name: Meta Ads Manager
-    bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: June 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/6d/a3/536da3a1-6a8d-92d1-39e2-663596a71900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.1'
-    releaseNotes: Bug fixes and performance updates
-    version: '480.0'
-    app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
+    application_name: Google Ads
+    bundleId: com.google.AdWords
+    currentVersionReleaseDate: June 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/00/14/93001419-6a3b-53b6-a716-47524d65fc17/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: We regularly update the Google Ads mobile app to provide you with
+      a better experience managing your account on the go.
+    version: 3.33.20084457
+    app_store_url: https://apps.apple.com/us/app/google-ads/id1037457231?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Lens: Translate & Image Search'
     bundleId: com.searchdodo.ios
@@ -390,11 +391,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: June 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d9/28/9ad92862-3c6d-8448-f72d-edf6aded8c5f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/2c/c1/d22cc1be-7a6e-3675-2be1-f4364ae41fe6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.111.1
+    version: 2.111.2
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

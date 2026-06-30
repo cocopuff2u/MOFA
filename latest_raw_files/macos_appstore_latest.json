@@ -1,15 +1,15 @@
 {
-    "last_updated": "June 30, 2026 12:47 PM EDT",
+    "last_updated": "June 30, 2026 01:44 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "June 23, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/cc/d4/aeccd43a-c130-3959-93bc-40d81e41699d/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "June 30, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/94/2a/35942af0-bd75-1993-3128-57ab0ef9ad74/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.110.1",
+            "version": "16.110.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {
@@ -27,11 +27,11 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "June 30, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/b6/12/c0b612f5-43c1-05ae-fced-9b72c210df5f/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "June 23, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/55/7b/b5557bfd-7923-ebf4-ff7d-948e4ee9e0f9/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.110.2",
+            "version": "16.110.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {

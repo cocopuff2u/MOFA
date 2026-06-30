@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 30, 2026 04:44 PM EDT</last_updated>
+    <last_updated>June 30, 2026 05:36 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -34,28 +34,28 @@
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.110.2 (26062818)</short_version>
-        <full_version>16.110.26062818</full_version>
-        <last_updated>June 28, 2026</last_updated>
+        <short_version>16.110.1 (26062112)</short_version>
+        <full_version>16.110.26062112</full_version>
+        <last_updated>June 21, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Updater.pkg</latest_download>
-        <sha1>62b758994c639f32c3252555e09ec59c0795be31</sha1>
-        <sha256>53fcf5df73e508eb7bfa4ac2807d59ed4730890764ff689c94a9efd5c9957304</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062112_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062112_Updater.pkg</latest_download>
+        <sha1>96dab1ef83fed5ab7ecd3096396b802235ff31cc</sha1>
+        <sha256>cdf50b238885705218c2eececc462fa5bb007522344fc1e51a85445782922d40</sha256>
     </package>
     <package>
         <name>Outlook</name>
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.110.2 (26062818)</short_version>
-        <full_version>16.110.26062818</full_version>
-        <last_updated>June 28, 2026</last_updated>
+        <short_version>16.110.1 (26062112)</short_version>
+        <full_version>16.110.26062112</full_version>
+        <last_updated>June 21, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26062818_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26062818_Updater.pkg</latest_download>
-        <sha1>d14e125708f067e174005e970ef982398511639a</sha1>
-        <sha256>0d2a71ac419f7d7a6401f157021779711c1cc26c4d7b02f456c6c8b42d724c73</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26062112_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26062112_Updater.pkg</latest_download>
+        <sha1>6a11eccc8c25c71cf8d75a8d560c86d50287e6ac</sha1>
+        <sha256>bcff6011b7e3da37aca79a1cfa619486fe2006d6f94b1bfdcff779206f5d6669</sha256>
     </package>
     <package>
         <name>OneNote</name>
@@ -174,11 +174,11 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code - Insiders.app</application_name>
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
-        <short_version>1.127.0-</short_version>
-        <full_version>1.127.0-insider</full_version>
+        <short_version>1.128.0-</short_version>
+        <full_version>1.128.0-insider</full_version>
         <last_updated>June 30, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/4fe60c8b1cdac1c4c174f2fb180d0d758272d713/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/98ea0fe1188a0d0c0d81d265768083c6a4f9efa3/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

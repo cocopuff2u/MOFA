@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>June 30, 2026 12:48 PM EDT</last_updated>
+    <last_updated>June 30, 2026 01:47 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -90,28 +90,28 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>26169.903.4834.3266</short_version>
-        <full_version>26169.903.4834.3266</full_version>
-        <last_updated>June 22, 2026</last_updated>
+        <short_version>26177.601.4851.5577</short_version>
+        <full_version>26177.601.4851.5577</full_version>
+        <last_updated>June 26, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26169.903.4834.3266/MicrosoftTeams_26120.3106.4725.800_to_26169.903.4834.3266_BinaryDelta.pkg</update_download>
-        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26169.903.4834.3266/MicrosoftTeams_26120.3106.4725.800_to_26169.903.4834.3266_BinaryDelta.pkg</latest_download>
-        <sha1>ba2c832c1460c8e47a938d05b124c5b501411ed0</sha1>
-        <sha256>0e596f3fd393c19e10ac073d45014a7b2719d5c1e56c214b32dc72ff99cac003</sha256>
+        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26177.601.4851.5577/MicrosoftTeams_26134.1610.4759.7759_to_26177.601.4851.5577_BinaryDelta.pkg</update_download>
+        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26177.601.4851.5577/MicrosoftTeams_26134.1610.4759.7759_to_26177.601.4851.5577_BinaryDelta.pkg</latest_download>
+        <sha1>baeebda01e53497dfe4b844a215ee8845d0ad641</sha1>
+        <sha256>1d258b676ef81e96a962afbe3358bbbdc5dae103d3f783ba9caa5704f2bf2b65</sha256>
     </package>
     <package>
         <name>Intune</name>
         <application_id>IMCP01</application_id>
         <application_name>Company Portal.app</application_name>
         <CFBundleVersion>com.microsoft.intune.companyportal</CFBundleVersion>
-        <short_version>5.2604.2</short_version>
-        <full_version>53.2606003.000</full_version>
-        <last_updated>June 16, 2026</last_updated>
+        <short_version>5.2606.0</short_version>
+        <full_version>53.2606277.000</full_version>
+        <last_updated>June 30, 2026</last_updated>
         <min_os>11.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2604.2-Upgrade.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2604.2-Upgrade.pkg</latest_download>
-        <sha1>bb87b9eddaba55c4c585035671b5cf130f07b15b</sha1>
-        <sha256>7f990faf3ce5f9f5641f796a25c1f43d7f69aaefd5b569503c772d159f75a91e</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2606.0-Upgrade.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/CompanyPortal_5.2606.0-Upgrade.pkg</latest_download>
+        <sha1>f7e20fc24274181df525151324feb172636a3c62</sha1>
+        <sha256>9e468525ab623d93c85ae6185b2178c624971ce6ce4edd84cd5ac70b9a5d3535</sha256>
     </package>
     <package>
         <name>Edge</name>

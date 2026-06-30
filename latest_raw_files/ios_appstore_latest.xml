@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 30, 2026 02:44 PM EDT</last_updated>
+	<last_updated>June 30, 2026 03:39 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,13 +38,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>June 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/79/20/3a792033-0140-efd0-671a-352339e4d4aa/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/21/5c/50215ca0-c524-8e0f-c4a4-5631d756afed/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2625.0</version>
+		<version>5.2624.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
@@ -449,11 +449,11 @@ Keep exploring and translating the world with your camera! If Lens is making you
 		<name>iOS Microsoft 365 Office</name>
 		<application_name>Microsoft 365 Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>June 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/2c/c1/d22cc1be-7a6e-3675-2be1-f4364ae41fe6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d9/28/9ad92862-3c6d-8448-f72d-edf6aded8c5f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.111.2</version>
+		<version>2.111.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>

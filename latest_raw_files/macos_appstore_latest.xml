@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>June 30, 2026 10:58 AM EDT</last_updated>
+	<last_updated>June 30, 2026 11:55 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -27,11 +27,11 @@
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>June 23, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/55/7b/b5557bfd-7923-ebf4-ff7d-948e4ee9e0f9/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 30, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/b6/12/c0b612f5-43c1-05ae-fced-9b72c210df5f/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.110.1</version>
+		<version>16.110.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -87,13 +87,26 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>June 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/65/83/c16583b2-c073-ef27-f632-34fd68439b37/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>June 29, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/48/06/dd480661-3a03-60fb-bfeb-5ce84b615d0f/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>It's time to clean house and fix some bugs! This update includes fixes for issues reported by users and internal telemetry. 
+		<releaseNotes>In this release we made the following updates:
+
+• Added a new Personalization section (under Settings) to customize how the app looks and feels.
+• Updated the Quick Launcher to make it detachable, resizable and independent from the Connection Center lifetime.
+• Moved the Search control from the sidebar to the toolbar, and reordered the toolbar items.
+• Updated the First Run Experience and permission request dialogs.
+• Resolved an issue where tab navigation on the sidebar wasn't working after the app was launched.
+• Corrected default device card thumbnail aspect ratios that could become distorted after resizing the Connection Center.
+• Fixed a bug that caused the Settings dialog to not open in the current active space.
+• Adjusted the default size of the Connection Center for macOS 26+.
+• Optimized device card thumbnail rendering performance in the Connection Center.
+• Improved app responsiveness by coalescing workspace update-triggered UI refreshes.
+• Made updates to improve Continuous Access Evaluation (CAE) scenarios for AVD and Windows 365.
+• Resolved app crashes and hangs.
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.3.6</version>
+		<version>11.3.7</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

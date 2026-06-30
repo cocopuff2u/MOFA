@@ -1,4 +1,4 @@
-last_updated: June 30, 2026 03:28 AM EDT
+last_updated: June 30, 2026 05:15 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -202,30 +202,11 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Opera: AI browser with VPN'
     bundleId: com.opera.OperaTouch
-    currentVersionReleaseDate: June 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/c6/05/3fc60550-e658-931e-7ae3-221ff7d6ca56/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/47/1b/cb471b4d-b358-45af-d857-55c0c0ce177f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.0'
-    releaseNotes: '- Media controls for background tabs -
-
-      If a tab is playing audio in a background tab, the user will be able to mute/unmute
-      the tab from the search or tab bar, by long pressing the tab icon, or from inside
-      the Tabs overview. In order to find the playing tab, there is an animation on
-      the tab inside the Tab view and a pulse on the tab icon. There is also a mute/unmute
-      icon in the search bar. Finally, if a tab is muted and you want to unmute it
-      quickly, you can just press the device volume up/down buttons.
-
-
-      - Improved Sync and Backup -
-
-      Bookmarks, Tabs and Passwords will sync quicker both ways.
-
-      Improved status info in Account and Sync settings
-
-      Added onboarding for sync and backup and easy account sign in/up
-
-
-      - Bug fixes and UI improvements -'
-    version: 6.6.0
+    releaseNotes: Bug fixes and UI improvements
+    version: 6.5.3
     app_store_url: https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
@@ -271,11 +252,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: June 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d8/1b/96d81bc5-3f5a-a22b-c991-4e00d709717e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: June 22, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4b/eb/cb4beb59-d156-90bd-7e05-3dccea2c5a78/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.11.1
+    version: 8.11.0
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint

@@ -1,4 +1,4 @@
-last_updated: July 01, 2026 02:46 PM EDT
+last_updated: July 01, 2026 03:36 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -12,11 +12,11 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: June 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0d/00/920d0019-cb7c-fcec-b7cc-e0055f6a2cf5/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: June 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/62/49/a962497d-ad71-6173-1801-9932d3291c49/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.110.1
+    version: 16.110.2
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
@@ -50,16 +50,18 @@ packages:
     version: 16.110.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
-    application_name: OneDrive
-    bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: May 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/bb/7e/06bb7e20-65db-b7bd-6ff4-cd40e367cd5c/OneDrive.png/512x512bb.png
-    minimumOsVersion: '14.4'
-    releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
-      to bring you the latest performance improvements and bug fixes for the best
-      experience.
-    version: 26.084.0504
-    app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
+    application_name: Microsoft OneNote
+    bundleId: com.microsoft.onenote.mac
+    currentVersionReleaseDate: June 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/dc/c5/28dcc593-44aa-272e-5254-bc99acdc8291/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    minimumOsVersion: '14.0'
+    releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
+      \ OneNote! We listened to your feedback and updated the application with optimizations\
+      \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
+      \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
+      \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
+    version: 16.110.2
+    app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS RMS Sharing
     application_name: RMS Sharing
     bundleId: com.microsoft.protection.rms-sharing-mac

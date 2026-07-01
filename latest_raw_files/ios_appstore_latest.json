@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 01, 2026 02:46 PM EDT",
+    "last_updated": "July 01, 2026 03:36 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -300,14 +300,14 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Meta Ads Manager",
-            "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "June 30, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/48/f7/1548f7c7-d5a5-544e-b18c-96d188870d3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.1",
-            "releaseNotes": "Bug fixes and performance updates",
-            "version": "481.0",
-            "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
+            "application_name": "Google Ads",
+            "bundleId": "com.google.AdWords",
+            "currentVersionReleaseDate": "June 25, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/00/14/93001419-6a3b-53b6-a716-47524d65fc17/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.",
+            "version": "3.33.20084457",
+            "app_store_url": "https://apps.apple.com/us/app/google-ads/id1037457231?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",

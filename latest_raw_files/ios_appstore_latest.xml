@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 01, 2026 02:46 PM EDT</last_updated>
+	<last_updated>July 01, 2026 03:36 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -364,14 +364,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>
-		<application_name>Meta Ads Manager</application_name>
-		<bundleId>com.facebook.MAdMan</bundleId>
-		<currentVersionReleaseDate>June 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/48/f7/1548f7c7-d5a5-544e-b18c-96d188870d3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.1</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance updates</releaseNotes>
-		<version>481.0</version>
-		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
+		<application_name>Google Ads</application_name>
+		<bundleId>com.google.AdWords</bundleId>
+		<currentVersionReleaseDate>June 25, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/00/14/93001419-6a3b-53b6-a716-47524d65fc17/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
+		<releaseNotes>We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.</releaseNotes>
+		<version>3.33.20084457</version>
+		<app_store_url>https://apps.apple.com/us/app/google-ads/id1037457231?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>

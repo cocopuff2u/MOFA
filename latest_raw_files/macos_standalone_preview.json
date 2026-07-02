@@ -1,47 +1,47 @@
 {
-    "last_updated": "July 02, 2026 01:42 PM EDT",
+    "last_updated": "July 02, 2026 03:19 PM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.110.2 (26062818)",
-            "full_version": "16.110.26062818",
-            "last_updated": "June 28, 2026",
+            "short_version": "16.110.1 (26062112)",
+            "full_version": "16.110.26062112",
+            "last_updated": "June 21, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26062818_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26062818_Updater.pkg",
-            "sha1": "81c242c086fa4bd3d529f5dedd19b54ae962e505",
-            "sha256": "2c895a81b0730efc00fe2418d11f25815057e1bb0517b5a235a16fc7cd729a8c"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26062112_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26062112_Updater.pkg",
+            "sha1": "ed09b05e7fe2d9d4a0db185828505eeaa6ba2297",
+            "sha256": "e5da9d1d5837e7a3c9a493b1e105506fd6ec885f4174d11b7e5a04a6490399d8"
         },
         {
             "name": "Excel",
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.110.1 (26062112)",
-            "full_version": "16.110.26062112",
-            "last_updated": "June 21, 2026",
+            "short_version": "16.110.2 (26062818)",
+            "full_version": "16.110.26062818",
+            "last_updated": "June 28, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26062112_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26062112_Updater.pkg",
-            "sha1": "88064f257ad95c9da1b1990a78535f9863f988f2",
-            "sha256": "70c084e11a0e5ac4e191790d873270d9b23b7b7d189594a9fb11f2fa45d413df"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26062818_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26062818_Updater.pkg",
+            "sha1": "8a57ad200563dcdd01145b79a69634638626b54c",
+            "sha256": "38252fac083b5e2950e5b49207e6d2b38d1991d491d12dec03db8581f393645d"
         },
         {
             "name": "PowerPoint",
             "application_id": "PPT32019",
             "application_name": "Microsoft PowerPoint.app",
             "CFBundleVersion": "com.microsoft.powerpoint",
-            "short_version": "16.110.2 (26062818)",
-            "full_version": "16.110.26062818",
-            "last_updated": "June 28, 2026",
+            "short_version": "16.110.1 (26062112)",
+            "full_version": "16.110.26062112",
+            "last_updated": "June 21, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Updater.pkg",
-            "sha1": "62b758994c639f32c3252555e09ec59c0795be31",
-            "sha256": "53fcf5df73e508eb7bfa4ac2807d59ed4730890764ff689c94a9efd5c9957304"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062112_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062112_Updater.pkg",
+            "sha1": "96dab1ef83fed5ab7ecd3096396b802235ff31cc",
+            "sha256": "cdf50b238885705218c2eececc462fa5bb007522344fc1e51a85445782922d40"
         },
         {
             "name": "Outlook",
@@ -178,7 +178,7 @@
             "full_version": "1.128.0-insider",
             "last_updated": "July 02, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/469425b939f7925426af3f39533864f7530e45bb/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/2be9624b801009a53db8f629bd7762137d100007/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

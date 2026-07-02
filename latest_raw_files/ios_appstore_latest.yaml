@@ -1,4 +1,4 @@
-last_updated: July 02, 2026 01:42 PM EDT
+last_updated: July 02, 2026 03:18 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -334,8 +334,8 @@ packages:
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Lens: Translate & Image Search'
     bundleId: com.searchdodo.ios
-    currentVersionReleaseDate: June 16, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/0b/10/340b10e6-4d98-bf4c-fea6-893dd22cc36d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 02, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/3f/15/3e3f158c-8e23-cd7d-495d-d5a9a34ecb14/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.6'
     releaseNotes: "Quick update!\n\nWe are always working to make Lens your go-to\
       \ tool for instantly searching and translating images. \n\nIn version, we\u2019\
@@ -344,7 +344,7 @@ packages:
       \ is smoother, faster, and more reliable than ever.\n\nKeep exploring and translating\
       \ the world with your camera! If Lens is making your life easier, a quick 5-star\
       \ review means the world to us!"
-    version: 3.1.13
+    version: 3.1.14
     app_store_url: https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders

@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 03, 2026 05:00 PM EDT",
+    "last_updated": "July 03, 2026 06:06 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -82,11 +82,11 @@
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "July 03, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/c4/0c/8fc40c68-7c7b-976c-4f40-4f8cb1cc378a/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 11, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/c5/53/e4c553a5-c8f6-6e57-cad3-22aff33ab5af/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
-            "releaseNotes": "Bug fixes and Improvements",
-            "version": "1.1.78290102",
+            "releaseNotes": "Bug fixes and improvements",
+            "version": "1.1.78020101",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4"
         },
         {
@@ -302,11 +302,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "June 30, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/48/f7/1548f7c7-d5a5-544e-b18c-96d188870d3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 03, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/fe/e9/8afee921-a6cd-9c26-28c3-6937eef894a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "481.0",
+            "version": "482.0",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {

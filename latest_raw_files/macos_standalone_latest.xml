@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 02, 2026 08:02 PM EDT</last_updated>
+    <last_updated>July 03, 2026 12:00 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -214,13 +214,13 @@
         <application_id>MSRD10</application_id>
         <application_name>Windows App.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.3.6</short_version>
-        <full_version>3024</full_version>
-        <last_updated>June 09, 2026</last_updated>
+        <short_version>11.3.7</short_version>
+        <full_version>3040</full_version>
+        <last_updated>June 23, 2026</last_updated>
         <min_os>12.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.6_updater.pkg</app_only_update_download>
-        <app_update_sha1>fc2d0302fab9baec8af30e5ebf98dc645f2d7a5f</app_update_sha1>
-        <app_update_sha256>ab652c0e74e1d7a03085d521af489ae251951f175ca13122df853abcfb930a4c</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.7_updater.pkg</app_only_update_download>
+        <app_update_sha1>d38677f30dbae5d78b43636eab7c6f7d9baf79b1</app_update_sha1>
+        <app_update_sha256>162dbfa850feb558140a70e67f2e94461f00aa8cd4717c75ffc38666838a09f8</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=868963</full_update_download>
         <full_update_sha1>05499cc0028668420a1cfde80af4a35f151d0724</full_update_sha1>
         <full_update_sha256>e3a0e38b29de21868b3dd2c2d22f838a2e49df2908a26cbf61f34b52c42c4032</full_update_sha256>

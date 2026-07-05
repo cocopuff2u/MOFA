@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 05, 2026 01:04 PM EDT",
+    "last_updated": "July 05, 2026 03:11 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -126,11 +126,11 @@
             "name": "iOS Microsoft Store Commerce",
             "application_name": "Store Commerce",
             "bundleId": "com.microsoft.storecommerce",
-            "currentVersionReleaseDate": "June 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/8a/18/688a18cc-ae96-cf86-80c3-d793a3a453f1/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 05, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/86/cf/5e86cf2e-f2fe-dc35-5e2b-24d10a889a31/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "9.58.26173",
+            "version": "9.58.26181",
             "app_store_url": "https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4"
         },
         {

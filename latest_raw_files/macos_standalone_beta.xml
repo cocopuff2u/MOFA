@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 05, 2026 02:37 AM EDT</last_updated>
+    <last_updated>July 05, 2026 05:39 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.112.0 (26063025)</short_version>
-        <full_version>16.112.26063025</full_version>
-        <last_updated>June 30, 2026</last_updated>
+        <short_version>16.111.0 (26062533)</short_version>
+        <full_version>16.111.26062533</full_version>
+        <last_updated>June 25, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.112.26063025_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.112.26063025_Updater.pkg</latest_download>
-        <sha1>02d4a580f59e6575b814ca7eebf33cd6b2d10fb9</sha1>
-        <sha256>7eec0515106d7ef8693d72a532e0a5cfb0bf72d8c7936c288ad85fbb91442e22</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.111.26062533_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.111.26062533_Updater.pkg</latest_download>
+        <sha1>N/A</sha1>
+        <sha256>5005ae47003cbce2474eaaa80800e140f2bfad21b7455b0b8e7bab270ee07393</sha256>
     </package>
     <package>
         <name>Excel</name>
@@ -34,28 +34,28 @@
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.112.0 (26063025)</short_version>
-        <full_version>16.112.26063025</full_version>
-        <last_updated>June 30, 2026</last_updated>
+        <short_version>16.111.0 (26062533)</short_version>
+        <full_version>16.111.26062533</full_version>
+        <last_updated>June 25, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.112.26063025_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.112.26063025_Updater.pkg</latest_download>
-        <sha1>2d53fa83d9b07f6b544661d20cc80b79170d07a7</sha1>
-        <sha256>7f6b732b29e411ca1d6b5562602b10cd52c1d56bb65afb347e86184db6b850ec</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.111.26062533_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.111.26062533_Updater.pkg</latest_download>
+        <sha1>e4c565e5b73ef82ec920f4ef8f54779a2d0cf95b</sha1>
+        <sha256>2811ae8429fa8ae674203d48d05f2bdfa5166271f74f3fa8b864be056de43696</sha256>
     </package>
     <package>
         <name>Outlook</name>
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.112.0 (26063025)</short_version>
-        <full_version>16.112.26063025</full_version>
-        <last_updated>June 30, 2026</last_updated>
+        <short_version>16.112.0 (26062931)</short_version>
+        <full_version>16.112.26062931</full_version>
+        <last_updated>June 29, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.112.26063025_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.112.26063025_Updater.pkg</latest_download>
-        <sha1>f7fac55e69be03482461ef9de7226148e49e2752</sha1>
-        <sha256>54170b8df21d1ceed19698b81f977ebd402ed0580fdb7e6f21b453230c34e845</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.112.26062931_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.112.26062931_Updater.pkg</latest_download>
+        <sha1>ee175e4b841614ce9f14f447ceb3499f4a5e36ce</sha1>
+        <sha256>903da1235d045ba15305cad52c835eaef4c9ae7de99b5c62379fcb9bb6bfac8d</sha256>
     </package>
     <package>
         <name>OneNote</name>
@@ -216,13 +216,13 @@
         <application_id>N/A</application_id>
         <application_name>Windows App Beta.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.3.7</short_version>
-        <full_version>11.3.7</full_version>
-        <last_updated>June 10, 2026</last_updated>
+        <short_version>11.3.8</short_version>
+        <full_version>11.3.8</full_version>
+        <last_updated>July 05, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/428d1e87-62e1-4a0f-be2c-3f311ca812bb/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=CO29vR%2BPFBcwlBLtrrzvsDuvzHHgb4vlWVm89mNEdgY%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-06-10T06%3A49%3A21Z&amp;ske=2026-06-11T06%3A54%3A21Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-06-11T06%3A54%3A21Z&amp;sp=r</update_download>
-        <latest_download>https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/428d1e87-62e1-4a0f-be2c-3f311ca812bb/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=CO29vR%2BPFBcwlBLtrrzvsDuvzHHgb4vlWVm89mNEdgY%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-06-10T06%3A49%3A21Z&amp;ske=2026-06-11T06%3A54%3A21Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-06-11T06%3A54%3A21Z&amp;sp=r</latest_download>
-        <sha1>4526f1107bd02c4c32ca04177563445bca1776e5</sha1>
-        <sha256>4af909047ed6e5547aedc7d9f5066ea847279fd48339a44142c92b27d841cd3b</sha256>
+        <update_download>https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/5032dcf2-42a8-4f25-9991-092a83b53153/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=EGBI1iULGXgyRzfq7OD543yIU8Mhmc%2B1k5Ooj7awrI0%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-07-05T07%3A26%3A18Z&amp;ske=2026-07-06T07%3A31%3A18Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-07-06T07%3A31%3A18Z&amp;sp=r</update_download>
+        <latest_download>https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/5032dcf2-42a8-4f25-9991-092a83b53153/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=EGBI1iULGXgyRzfq7OD543yIU8Mhmc%2B1k5Ooj7awrI0%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-07-05T07%3A26%3A18Z&amp;ske=2026-07-06T07%3A31%3A18Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-07-06T07%3A31%3A18Z&amp;sp=r</latest_download>
+        <sha1>bf4064514aabd9c6f561a758f6f363c86cefa74c</sha1>
+        <sha256>6fc0f7d1173b235979e086a6e9af67960e9fb0fab14c2f355a950c794df6809f</sha256>
     </package>
 </latest>

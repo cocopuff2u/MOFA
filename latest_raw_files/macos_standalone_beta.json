@@ -1,19 +1,19 @@
 {
-    "last_updated": "July 05, 2026 03:11 PM EDT",
+    "last_updated": "July 05, 2026 04:55 PM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.112.0 (26063025)",
-            "full_version": "16.112.26063025",
-            "last_updated": "June 30, 2026",
+            "short_version": "16.111.0 (26062533)",
+            "full_version": "16.111.26062533",
+            "last_updated": "June 25, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.112.26063025_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.112.26063025_Updater.pkg",
-            "sha1": "02d4a580f59e6575b814ca7eebf33cd6b2d10fb9",
-            "sha256": "7eec0515106d7ef8693d72a532e0a5cfb0bf72d8c7936c288ad85fbb91442e22"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.111.26062533_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.111.26062533_Updater.pkg",
+            "sha1": "6f80c537158d79ec63a132344f6aff85cfd6a287",
+            "sha256": "5005ae47003cbce2474eaaa80800e140f2bfad21b7455b0b8e7bab270ee07393"
         },
         {
             "name": "Excel",
@@ -132,9 +132,9 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26042.0020",
-            "full_version": "101.26042.0020",
-            "last_updated": "June 12, 2026",
+            "short_version": "101.26052.0015",
+            "full_version": "101.26052.0015",
+            "last_updated": "June 25, 2026",
             "min_os": "14.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg",
@@ -202,14 +202,14 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.84 (26060116)",
-            "full_version": "4.84.26060116",
-            "last_updated": "June 01, 2026",
+            "short_version": "4.84 (26062818)",
+            "full_version": "4.84.26062818",
+            "last_updated": "June 28, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.84.26060116_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.84.26060116_Updater.pkg",
-            "sha1": "08c16cae58662a2cdbc5a6c299c99ebb1c9b1f3d",
-            "sha256": "48084e5c7a829e78d3757f861f054ba50c7fee11afd3b95ce9ddce6f8a073cbf"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.84.26062818_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.84.26062818_Updater.pkg",
+            "sha1": "0749a478694bc23217e7565fc730a296209b8959",
+            "sha256": "4fc4dcd7d80b829a68edcc4194b27debcbb35fac6053917c9ed7335bcc4ce1ae"
         },
         {
             "name": "Windows App Beta",

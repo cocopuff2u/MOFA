@@ -1,4 +1,4 @@
-last_updated: July 07, 2026 04:21 AM EDT
+last_updated: July 07, 2026 07:45 AM EDT
 packages:
 - name: PowerShell
   application_id: N/A
@@ -64,9 +64,9 @@ packages:
   application_id: N/A
   application_name: Azure CLI
   CFBundleVersion: N/A
-  short_version: 2.87.0
-  full_version: 2.87.0
-  last_updated: June 01, 2026
+  short_version: 2.88.0
+  full_version: 2.88.0
+  last_updated: July 07, 2026
   min_os: N/A
   update_download: brew install azure-cli
   latest_download: brew install azure-cli

@@ -1,4 +1,4 @@
-last_updated: July 07, 2026 04:19 AM EDT
+last_updated: July 07, 2026 07:44 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: June 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/79/20/3a792033-0140-efd0-671a-352339e4d4aa/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/36/1d/e2361d35-5c39-d08d-bf10-eb13b0684c55/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2625.0
+    version: 5.2626.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -332,20 +332,15 @@ packages:
     version: '482.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Lens: Translate & Image Search'
-    bundleId: com.searchdodo.ios
-    currentVersionReleaseDate: July 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/3f/15/3e3f158c-8e23-cd7d-495d-d5a9a34ecb14/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.6'
-    releaseNotes: "Quick update!\n\nWe are always working to make Lens your go-to\
-      \ tool for instantly searching and translating images. \n\nIn version, we\u2019\
-      ve been doing some behind-the-scenes housekeeping. We tuned up our internal\
-      \ engine and improved how the app handles navigation to ensure your experience\
-      \ is smoother, faster, and more reliable than ever.\n\nKeep exploring and translating\
-      \ the world with your camera! If Lens is making your life easier, a quick 5-star\
-      \ review means the world to us!"
-    version: 3.1.14
-    app_store_url: https://apps.apple.com/us/app/lens-translate-image-search/id1587316791?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: July 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b7/a2/ffb7a20c-c12f-e4d5-38fc-2f476eb6c420/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 Various improvements for a better experience.\n\xB7 We'll\
+      \ keep refining the app to bring you clearer scans and a smoother editing experience."
+    version: 7.21.0
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

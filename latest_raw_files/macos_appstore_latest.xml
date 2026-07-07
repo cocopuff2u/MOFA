@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 07, 2026 05:20 PM EDT</last_updated>
+	<last_updated>July 07, 2026 06:57 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -16,41 +16,41 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>June 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/62/49/a962497d-ad71-6173-1801-9932d3291c49/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 07, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/40/91/c5409120-edd6-d716-5d07-7ba99aab42fc/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.110.2</version>
+		<version>16.110.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>June 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/b6/12/c0b612f5-43c1-05ae-fced-9b72c210df5f/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 07, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/2d/64/942d64aa-96c4-e8de-28d4-01843aa70064/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.110.2</version>
+		<version>16.110.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>June 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b0/cb/88b0cb2f-3d1a-89dd-8cc5-04941be53d87/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 07, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/64/c8/6064c8d7-0a2d-082a-e5ba-304181d5794b/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.110.2</version>
+		<version>16.110.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>June 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/dc/c5/28dcc593-44aa-272e-5254-bc99acdc8291/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 07, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/b2/c6/16b2c66b-0c5d-1b85-6db9-6d5db0b59b77/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -58,7 +58,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.110.2</version>
+		<version>16.110.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -124,11 +124,11 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<name>MacOS Microsoft CoPilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot-mac</bundleId>
-		<currentVersionReleaseDate>July 06, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/a4/f6/efa4f6f4-37f3-32f2-1c21-5923ae888a32/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>July 07, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/bf/0b/7cbf0b2c-32f1-c366-8b42-d19a3f6f301b/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>25.7.440703001</version>
+		<version>25.7.440707001</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

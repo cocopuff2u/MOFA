@@ -1,4 +1,4 @@
-last_updated: July 07, 2026 01:12 PM EDT
+last_updated: July 07, 2026 03:49 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -40,26 +40,26 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.110.2 (26062818)
-  full_version: 16.110.26062818
-  last_updated: June 28, 2026
+  short_version: 16.110.3 (26070318)
+  full_version: 16.110.26070318
+  last_updated: July 03, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26062818_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26062818_Updater.pkg
-  sha1: d14e125708f067e174005e970ef982398511639a
-  sha256: 0d2a71ac419f7d7a6401f157021779711c1cc26c4d7b02f456c6c8b42d724c73
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26070318_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.110.26070318_Updater.pkg
+  sha1: c85aa82ec4f140d11f16eddcbf115a0623d58d65
+  sha256: 4093ccb2e56f4be3a28d338aab56f5f2f034b2bd79396f44c10296b2769a472d
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.110.2 (26062818)
-  full_version: 16.110.26062818
-  last_updated: June 28, 2026
+  short_version: 16.110.3 (26070318)
+  full_version: 16.110.26070318
+  last_updated: July 03, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.110.26062818_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.110.26062818_Updater.pkg
-  sha1: e14ac2bb99fd5f8be22d531af9a448ec41c240ee
-  sha256: e2375df08d2d09cc726bcea44f5ae069d73efc7adf264bd14ea972a02ac1c2e9
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.110.26070318_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.110.26070318_Updater.pkg
+  sha1: 7d4274a0c609dd87eab20f0f9c2af0f6ae01568f
+  sha256: e99f559bbd23db80d5890481a27b5b9572f0fa0a096e156e4aefe3e9005d74b1
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app
@@ -148,11 +148,11 @@ packages:
   application_id: N/A
   application_name: Visual Studio Code - Insiders.app
   CFBundleVersion: com.microsoft.VSCodeInsiders
-  short_version: 1.128.0-
-  full_version: 1.128.0-insider
+  short_version: 1.129.0-
+  full_version: 1.129.0-insider
   last_updated: July 07, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/7a8049eb2d2ff8a41d2ee8c4bd6e72f61043a700/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/0e647435e81fb3f319191863154af70b5e197384/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

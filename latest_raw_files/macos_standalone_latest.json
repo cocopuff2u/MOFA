@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 07, 2026 03:49 PM EDT",
+    "last_updated": "July 07, 2026 05:20 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -54,32 +54,32 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.110.2 (26062818)",
-            "full_version": "16.110.26062818",
-            "last_updated": "June 28, 2026",
+            "short_version": "16.110.3 (26070318)",
+            "full_version": "16.110.26070318",
+            "last_updated": "July 03, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.110.26062818_Updater.pkg",
-            "app_update_sha1": "8a57ad200563dcdd01145b79a69634638626b54c",
-            "app_update_sha256": "38252fac083b5e2950e5b49207e6d2b38d1991d491d12dec03db8581f393645d",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.110.26070318_Updater.pkg",
+            "app_update_sha1": "a7df11141b79b8215f7fa73dbf008b5ab1e9df6e",
+            "app_update_sha256": "4b4ab23f8e27c9d85c3f62a59bf8443059a4c539d7de344e5484d7357cfb9650",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525135",
-            "full_update_sha1": "c249082000004366a1e85496532d32f1c6d6f257",
-            "full_update_sha256": "776940443aa8cfc9c16169d6747948801b1fe98aa1cef2ba4f3e3a7ad2bc8eab"
+            "full_update_sha1": "7ba7dd8de2128935547e549ccdb78779b2cc3672",
+            "full_update_sha256": "6be3d53735855729637bcdb7af33aca54b099b322ed678b1abbc4ed65c675795"
         },
         {
             "name": "PowerPoint",
             "application_id": "PPT32019",
             "application_name": "Microsoft PowerPoint.app",
             "CFBundleVersion": "com.microsoft.powerpoint",
-            "short_version": "16.110.2 (26062818)",
-            "full_version": "16.110.26062818",
-            "last_updated": "June 28, 2026",
+            "short_version": "16.110.3 (26070318)",
+            "full_version": "16.110.26070318",
+            "last_updated": "July 03, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Updater.pkg",
-            "app_update_sha1": "62b758994c639f32c3252555e09ec59c0795be31",
-            "app_update_sha256": "53fcf5df73e508eb7bfa4ac2807d59ed4730890764ff689c94a9efd5c9957304",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.110.26070318_Updater.pkg",
+            "app_update_sha1": "8d28033193f67007d1324d995851496583fabfe0",
+            "app_update_sha256": "ccc19a2717914e385053c47569f885b35aa35b4d491b6397ef82c13b536fbd7d",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525136",
-            "full_update_sha1": "9808cdbf726c37f16c460b88f8d6f5998258b847",
-            "full_update_sha256": "170c3735400237cae5cc3afd6476b194717458a799b8461d22554389b918dfc0"
+            "full_update_sha1": "b30281f10fad739fe091902c202b0d6e4d3296e8",
+            "full_update_sha256": "a1de24f8b3dc05eced3707884392ea2455e4f1cfef9c7cd0e069381449920aaa"
         },
         {
             "name": "Outlook",

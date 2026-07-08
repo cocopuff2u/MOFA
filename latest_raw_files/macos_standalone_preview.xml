@@ -1,33 +1,33 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 08, 2026 01:47 AM EDT</last_updated>
+    <last_updated>July 08, 2026 04:21 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.111.0 (26070613)</short_version>
-        <full_version>16.111.26070613</full_version>
-        <last_updated>July 06, 2026</last_updated>
+        <short_version>16.110.2 (26062818)</short_version>
+        <full_version>16.110.26062818</full_version>
+        <last_updated>June 28, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26070613_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26070613_Updater.pkg</latest_download>
-        <sha1>6cb984ea01ca2ef3e6835472847da500b1f85d14</sha1>
-        <sha256>ab553b69459d791a351f817faaa1eb7a550a8bd8d1fcf041eaf7758ecaa36fe0</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26062818_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26062818_Updater.pkg</latest_download>
+        <sha1>N/A</sha1>
+        <sha256>2c895a81b0730efc00fe2418d11f25815057e1bb0517b5a235a16fc7cd729a8c</sha256>
     </package>
     <package>
         <name>Excel</name>
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.111.0 (26070613)</short_version>
-        <full_version>16.111.26070613</full_version>
-        <last_updated>July 06, 2026</last_updated>
+        <short_version>16.110.3 (26070318)</short_version>
+        <full_version>16.110.26070318</full_version>
+        <last_updated>July 03, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26070613_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26070613_Updater.pkg</latest_download>
-        <sha1>99deaa62c9ecf715e66e623fbc37f6789a6d22bd</sha1>
-        <sha256>2182114507486b3d0da70b385db508226db6b8418f2de152ae2b6e6a8d4b449c</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26070318_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.110.26070318_Updater.pkg</latest_download>
+        <sha1>a7df11141b79b8215f7fa73dbf008b5ab1e9df6e</sha1>
+        <sha256>4b4ab23f8e27c9d85c3f62a59bf8443059a4c539d7de344e5484d7357cfb9650</sha256>
     </package>
     <package>
         <name>PowerPoint</name>

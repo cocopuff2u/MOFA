@@ -1,12 +1,12 @@
-last_scan_date: July 07, 2026 10:22 PM EDT
+last_scan_date: July 08, 2026 01:47 AM EDT
 releases:
 - date: July 7, 2026
   version: 16.110.3 (26070318)
-  word_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.110.26062818_Updater.pkg
-  excel_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.110.26062818_Updater.pkg
-  powerpoint_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Updater.pkg
-  outlook_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.110.26062818_Updater.pkg
-  onenote_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.110.26062818_Updater.pkg
+  word_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.110.26070318_Updater.pkg
+  excel_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.110.26070318_Updater.pkg
+  powerpoint_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.110.26070318_Updater.pkg
+  outlook_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.110.26070318_Updater.pkg
+  onenote_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.110.26070318_Updater.pkg
   archive: 'false'
 - date: June 30, 2026
   version: 16.110.2 (26062818)

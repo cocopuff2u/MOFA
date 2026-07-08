@@ -123,6 +123,43 @@ def parse_onedrive_xml(file_path):
             "full_update_sha256": "Unknown"
         }
 
+def parse_other_xml(file_path):
+    """
+    Parse the macOS "other" developer tools XML file (PowerShell, .NET SDKs,
+    Azure tooling, sqlcmd, etc.). Package order from the XML is preserved.
+    """
+    logging.info(f"Parsing Other tools XML file: {file_path}")
+
+    # Parse the XML file
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    logging.debug("Other tools XML file parsed successfully")
+
+    # Extract global last_updated
+    global_last_updated = root.find("last_updated").text.strip()
+    logging.info(f"Other tools XML last_updated: {global_last_updated}")
+
+    # Extract package details (keyed by lowercase name, insertion order preserved)
+    packages = {}
+    for package in root.findall("package"):
+        name = package.find("name").text.strip()
+        packages[name.lower()] = {
+            "name": name,
+            "application_id": package.find("application_id").text.strip(),
+            "application_name": package.find("application_name").text.strip(),
+            "cfbundle_version": package.find("CFBundleVersion").text.strip(),
+            "short_version": package.find("short_version").text.strip(),
+            "full_version": package.find("full_version").text.strip(),
+            "last_updated": package.find("last_updated").text.strip(),
+            "min_os": package.find("min_os").text.strip() if package.find("min_os") is not None else "N/A",
+            "update_download": package.find("update_download").text.strip(),
+            "latest_download": package.find("latest_download").text.strip(),
+            "sha1": package.find("sha1").text.strip(),
+            "sha256": package.find("sha256").text.strip(),
+        }
+
+    return global_last_updated, packages
+
 def parse_edge_xml(file_path):
     """
     Parse the Edge XML file and extract details for the 'current' version.
@@ -230,6 +267,81 @@ def generate_macos_table(macos_packages):
     logging.info("macOS AppStore table content generated successfully")
     return table_content
 
+def get_other_package_icon(package_name):
+    """
+    Map an "other" tools package name to its logo in .github/images.
+    """
+    name = package_name.lower()
+    if "powershell" in name:
+        return ".github/images/powershell.png"
+    elif ".net sdk" in name:
+        return ".github/images/dotnet.png"
+    elif "bicep" in name:
+        return ".github/images/bicep.png"
+    elif "sqlcmd" in name:
+        return ".github/images/sqlcmd.png"
+    elif name.startswith("az") or "azure" in name:
+        return ".github/images/azure.png"
+    else:
+        return ".github/images/pkg-icon.png"
+
+def generate_other_table(other_packages):
+    logging.info("Generating Other tools table content")
+
+    table_content = """
+## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft Other Tools Packages
+
+<sup>_Some of these tools are also available via [Homebrew](https://brew.sh); the versions below reflect the latest official Microsoft releases._</sup>
+
+<sup>_Last Updated: <code style="color : mediumseagreen">{other_last_updated}</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
+
+| **Product Package** | **Bundle Information** | **Download** |
+|----------------------|----------------------|--------------|
+"""
+
+    # Direct downloads first, Homebrew-only packages grouped at the bottom
+    direct_packages = [p for p in other_packages.values() if p["latest_download"].startswith("http")]
+    brew_packages = [p for p in other_packages.values() if not p["latest_download"].startswith("http")]
+
+    for package in direct_packages + brew_packages:
+        name = package["name"]
+        icon = get_other_package_icon(name)
+        download = package["latest_download"]
+
+        if download.startswith("http"):
+            download_cell = f"<a href=\"{download}\"><img src=\"{icon}\" alt=\"Download Image\" width=\"80\"></a>"
+        else:
+            # Not a direct download (e.g. installed via Homebrew)
+            download_cell = f"<img src=\"{icon}\" alt=\"{name}\" width=\"80\"><br>`{download}`"
+
+        table_content += (
+            f"| **{name}**<br><br>_**Last Update:** `{package['last_updated']}`_<br> "
+            f"| **Version:**<br>`{package['short_version']}` "
+            f"| {download_cell} |\n"
+        )
+
+    # SHA256 table for packages with direct downloads
+    table_content += """
+### SHA256 Information Table
+
+| **Product Package** | **Download** | **SHA256** |
+|----------------------|-----------------|------------|
+"""
+
+    for package_key, package in other_packages.items():
+        if not package["latest_download"].startswith("http"):
+            continue
+        name = package["name"]
+        icon = get_other_package_icon(name)
+        table_content += (
+            f"| **{name}** "
+            f"| <a href=\"{package['latest_download']}\"><img src=\"{icon}\" alt=\"Download Image\" width=\"80\"></a> "
+            f"| `{package['sha256']}` |\n"
+        )
+
+    logging.info("Other tools table content generated successfully")
+    return table_content
+
 def generate_readme_content(global_last_updated, packages, ios_packages, macos_packages):
     logging.info("Generating README content")
 
@@ -242,6 +354,7 @@ def generate_readme_content(global_last_updated, packages, ios_packages, macos_p
 
     ios_table = generate_ios_table(ios_packages).format(ios_last_updated=ios_last_updated)
     macos_table = generate_macos_table(macos_packages).format(macos_last_updated=macos_last_updated)
+    other_table = generate_other_table(other_packages).format(other_last_updated=other_last_updated)
 
     content = f"""# **MOFA**
 **M**icrosoft **O**verview **F**eed for **A**pple
@@ -367,6 +480,8 @@ We welcome community contributions—fork the repository, ask questions, or shar
 |      Update History                   |          Microsoft Update Channels               |
 |-------------------------|-------------------------|
 | <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"> [Microsoft 365/2021/2024](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac) | <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20">  [Microsoft 365 Apps](https://learn.microsoft.com/en-us/microsoft-365-apps/updates/overview-update-channels) |
+
+{other_table}
 
 {macos_table}
 
@@ -505,12 +620,14 @@ if __name__ == "__main__":
     macos_appstore_xml_path = "latest_raw_files/macos_appstore_latest.xml"
     onedrive_xml_path = "latest_raw_files/macos_standalone_onedrive_all.xml"
     edge_xml_path = "latest_raw_files/macos_standalone_edge_all.xml"  # Update this path if the file is located elsewhere
+    other_xml_path = "latest_raw_files/macos_other_latest.xml"
     readme_file_path = "README.md"
 
     # Parse the XML and generate content
     global_last_updated, packages = parse_latest_xml(xml_file_path)
     ios_last_updated, ios_packages = parse_appstore_xml(ios_appstore_xml_path)
     macos_last_updated, macos_packages = parse_appstore_xml(macos_appstore_xml_path)
+    other_last_updated, other_packages = parse_other_xml(other_xml_path)
     
     # Parse OneDrive XML
     onedrive_data = parse_onedrive_xml(onedrive_xml_path)

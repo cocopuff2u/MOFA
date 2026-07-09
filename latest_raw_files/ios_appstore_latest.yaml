@@ -1,4 +1,4 @@
-last_updated: July 09, 2026 07:53 AM EDT
+last_updated: July 09, 2026 10:49 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -84,8 +84,8 @@ packages:
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
     bundleId: com.microsoft.copilot
-    currentVersionReleaseDate: July 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/99/cc/ef99cc2e-3630-734e-7b32-51bce9005a82/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/98/e5/5b98e5bb-008b-5582-f645-a62e12deadf0/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Introducing the New Copilot: Your AI Companion
 
@@ -96,7 +96,7 @@ packages:
 
       Copilot Daily: Start your day with a news and weather summary. Clean, simple,
       and easy to digest.'
-    version: 30.0.440707001
+    version: 30.0.440701001
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
@@ -393,11 +393,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: July 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/0a/5a/490a5a0f-cf3f-0b30-2fb7-600a6f2514ce/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/07/dd/bd07dd80-ee7b-8e4a-2d18-9251773cab03/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.111.4
+    version: 2.111.3
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

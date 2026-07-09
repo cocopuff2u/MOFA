@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">July 09, 2026 07:53 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">July 09, 2026 10:49 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -128,7 +128,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>_Some of these tools are also available via [Homebrew](https://brew.sh); the versions below reflect the latest official Microsoft releases._</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">July 09, 2026 07:53 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">July 09, 2026 10:55 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -162,7 +162,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">July 09, 2026 07:53 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">July 09, 2026 10:49 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -186,7 +186,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">July 09, 2026 07:53 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">July 09, 2026 10:49 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -198,7 +198,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft OneDrive | `18.5.3` | `com.microsoft.skydrive` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/7a/f5/d47af5a3-2780-2ea0-1783-b1568db2549e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
 | Windows App Mobile | `11.3.2` | `com.microsoft.rdc.ios` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f5/9e/39f59e3f-5392-b524-cb2f-fc642ebca3ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg" alt="Windows App Mobile" width="40"> |
 | Microsoft Defender: Security | `1.1.78290102` | `com.microsoft.scmx` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/c4/0c/8fc40c68-7c7b-976c-4f40-4f8cb1cc378a/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Defender: Security" width="40"> |
-| Microsoft Copilot | `30.0.440707001` | `com.microsoft.copilot` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/99/cc/ef99cc2e-3630-734e-7b32-51bce9005a82/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg" alt="Microsoft Copilot" width="40"> |
+| Microsoft Copilot | `30.0.440701001` | `com.microsoft.copilot` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/98/e5/5b98e5bb-008b-5582-f645-a62e12deadf0/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg" alt="Microsoft Copilot" width="40"> |
 | Microsoft Loop | `2.110` | `com.microsoft.loop` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/ab/70/6eab7061-7b05-d9cd-432d-bdbb44805242/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Loop" width="40"> |
 | Microsoft Warehouse Management | `4.1.4` | `com.microsoft.WarehouseManagement` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/ef/b2/79efb2d6-d239-b3d5-e6da-9543d8f4d11c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg" alt="Microsoft Warehouse Management" width="40"> |
 | Store Commerce | `9.58.26181` | `com.microsoft.storecommerce` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/86/cf/5e86cf2e-f2fe-dc35-5e2b-24d10a889a31/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Store Commerce" width="40"> |
@@ -224,7 +224,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft 365 Admin | `5.7.2` | `com.microsoft.o365shdmobileapp` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0d/b8/e10db871-3c82-f649-3686-5eb88efa87aa/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft 365 Admin" width="40"> |
 | Intune Company Portal | `5.2606.0` | `com.microsoft.CompanyPortal` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Intune Company Portal" width="40"> |
 | Azure Information Protection | `2.1.4` | `com.microsoft.rms-sharing` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/d8/9df6d87e-66ad-d6ab-aad9-d030ef4aa9cb/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Azure Information Protection" width="40"> |
-| Microsoft 365 Copilot | `2.111.4` | `com.microsoft.officemobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/0a/5a/490a5a0f-cf3f-0b30-2fb7-600a6f2514ce/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft 365 Copilot" width="40"> |
+| Microsoft 365 Copilot | `2.111.3` | `com.microsoft.officemobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/07/dd/bd07dd80-ee7b-8e4a-2d18-9251773cab03/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft 365 Copilot" width="40"> |
 | Skype for Business | `6.34.119` | `com.microsoft.lync2013.iphone` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" alt="Skype for Business" width="40"> |
 
 

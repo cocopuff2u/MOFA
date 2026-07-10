@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 from datetime import datetime
 import os
+import re
 
 # Get the root directory of the project (assuming the script is inside a subfolder like '/update_readme_scripts/')
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -196,6 +197,12 @@ def _update_rss_for_package(pkg_conf: dict, pkg_node: ET.Element) -> None:
     update_download = (pkg_node.find('app_only_update_download').text or "").strip()
     last_updated = (pkg_node.find('last_updated').text or "").strip()
 
+    # The guid must be unique per item. Packages with no app-only installer (e.g. the
+    # Office Suite bundle) have app_only_update_download == "N/A", which would make every
+    # item's guid "N/A" and cause RSS readers to show only one entry. Fall back to the
+    # unique per-release version in that case.
+    item_guid = update_download if (update_download and update_download != "N/A") else short_version
+
     # Compute per-package feed paths/urls
     feed_filename = pkg_conf['feed_filename']
     feed_path = os.path.join(FEEDS_DIR, feed_filename)
@@ -292,6 +299,24 @@ def _update_rss_for_package(pkg_conf: dict, pkg_node: ET.Element) -> None:
     else:
         ET.SubElement(channel, 'link').text = SITE_URL
 
+    # Self-heal existing items: backfill any guid that is missing, empty, "N/A", or a
+    # duplicate, deriving a unique value from the item's own version. This retroactively
+    # repairs feeds (e.g. office_suite_rss.xml) whose historical items all had guid "N/A".
+    seen_guids = set()
+    for item in channel.findall('item'):
+        guid_el = item.find('guid')
+        current = (guid_el.text or "").strip() if guid_el is not None else ""
+        if current in ("", "N/A") or current in seen_guids:
+            desc_el = item.find('description')
+            version_match = re.search(r'Version:\s*([^<]+)', _get_all_text(desc_el)) if desc_el is not None else None
+            if version_match:
+                if guid_el is None:
+                    guid_el = ET.SubElement(item, 'guid')
+                guid_el.text = version_match.group(1).strip()
+                guid_el.set('isPermaLink', 'false')
+                current = guid_el.text
+        seen_guids.add(current)
+
     # Check if the package version already exists in the RSS feed
     existing_version = False
     for item in channel.findall('item'):
@@ -317,7 +342,7 @@ def _update_rss_for_package(pkg_conf: dict, pkg_node: ET.Element) -> None:
         pubDate = ET.SubElement(new_item, 'pubDate')
         pubDate.text = last_build_date_text
         guid = ET.SubElement(new_item, 'guid')
-        guid.text = update_download
+        guid.text = item_guid
         guid.set('isPermaLink', 'false')
 
         # Insert the new item into the RSS feed

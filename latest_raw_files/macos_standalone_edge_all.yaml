@@ -1,5 +1,5 @@
 EdgeInsiderVersions:
-  last_updated: July 10, 2026 02:22 PM EDT
+  last_updated: July 10, 2026 04:22 PM EDT
   Version:
   - Name: current
     Version: 150.0.4078.65
@@ -29,11 +29,11 @@ EdgeInsiderVersions:
     Full_Update_Sha256: 97f58fa75e4767660225a9bc90aa61ea274ae5145d1977a0bbd415d359be8572
     Last_Update: July 07, 2026 02:58 PM EDT
   - Name: beta
-    Version: 150.0.4078.65
+    Version: 151.0.4129.15
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca38d2fd-b518-4df1-b7d6-c906f4991689/MicrosoftEdgeBeta-150.0.4078.65.pkg
-    Full_Update_Sha1: 859dea633ea5336f0c9bb27ced9586cadcf67b7a
-    Full_Update_Sha256: f41c96e5ea8f3ac3f8f14ee63891d51285621ec6a551182e987662cf4ee24d15
-    Last_Update: July 09, 2026 04:27 PM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/af632338-bdb5-489c-bd0a-824e2212606f/MicrosoftEdgeBeta-151.0.4129.15.pkg
+    Full_Update_Sha1: 2be1dcec7b3a45c5bd39226f390e59942e5ca1f6
+    Full_Update_Sha256: 61bfb98de502f58a9793085193a0e02c34e317303bbe7a3fe346bcdfedbc5b62
+    Last_Update: July 10, 2026 03:59 PM EDT

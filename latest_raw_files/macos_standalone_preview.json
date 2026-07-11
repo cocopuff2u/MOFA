@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 11, 2026 09:09 AM EDT",
+    "last_updated": "July 11, 2026 10:48 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "26163.407.4839.8659",
-            "full_version": "26163.407.4839.8659",
-            "last_updated": "June 23, 2026",
+            "short_version": "26183.1901.4874.5228",
+            "full_version": "26183.1901.4874.5228",
+            "last_updated": "July 03, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.407.4839.8659/MicrosoftTeams_26134.1610.4759.7759_to_26163.407.4839.8659_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.407.4839.8659/MicrosoftTeams_26134.1610.4759.7759_to_26163.407.4839.8659_BinaryDelta.pkg",
-            "sha1": "d6329c1193235c77cb08ac0ac0aff8cfe2f81889",
-            "sha256": "e8c6ea5dd080ae8984528126fa383d2e28f3e685ce14f0528149dc563cefd60e"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26183.1901.4874.5228/MicrosoftTeams_26134.1610.4759.7759_to_26183.1901.4874.5228_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26183.1901.4874.5228/MicrosoftTeams_26134.1610.4759.7759_to_26183.1901.4874.5228_BinaryDelta.pkg",
+            "sha1": "932174d471ae708be31b3972c736bf5bb2f8ec8d",
+            "sha256": "226429b1446dadb880848003e9ed187e1a2ed2415ae678ffbb3c6ebb48c0a92a"
         },
         {
             "name": "Intune",

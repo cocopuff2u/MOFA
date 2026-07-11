@@ -1,17 +1,17 @@
-last_updated: July 11, 2026 05:43 PM EDT
+last_updated: July 11, 2026 06:42 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.110.3 (26070318)
-  full_version: 16.110.26070318
-  last_updated: July 03, 2026
+  short_version: 16.111.0 (26070613)
+  full_version: 16.111.26070613
+  last_updated: July 06, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26070318_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.110.26070318_Updater.pkg
-  sha1: a242cdb2ca2a416dd622770b4881aa89bce0422c
-  sha256: fe99815c22198556c3e158cf50175f34ef9f09d927ab5a525325ee78ee9cefe0
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26070613_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26070613_Updater.pkg
+  sha1: 6cb984ea01ca2ef3e6835472847da500b1f85d14
+  sha256: ab553b69459d791a351f817faaa1eb7a550a8bd8d1fcf041eaf7758ecaa36fe0
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app
@@ -28,14 +28,14 @@ packages:
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.110.2 (26062818)
-  full_version: 16.110.26062818
-  last_updated: June 28, 2026
+  short_version: 16.111.0 (26070613)
+  full_version: 16.111.26070613
+  last_updated: July 06, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Updater.pkg
-  sha1: 62b758994c639f32c3252555e09ec59c0795be31
-  sha256: 53fcf5df73e508eb7bfa4ac2807d59ed4730890764ff689c94a9efd5c9957304
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.111.26070613_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.111.26070613_Updater.pkg
+  sha1: 43834d19b7a4eede9a88cb5d2358c58c271f3d71
+  sha256: 273fcf0473c56a64a58cd5680b85b9ec951e6df7e13388701afcfea97a0be090
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
@@ -88,14 +88,14 @@ packages:
   application_id: IMCP01
   application_name: Company Portal.app
   CFBundleVersion: com.microsoft.intune.companyportal
-  short_version: 5.2604.2
-  full_version: 53.2606003.000
-  last_updated: June 16, 2026
+  short_version: 5.2606.0
+  full_version: 53.2607303.000
+  last_updated: July 07, 2026
   min_os: '11.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2604.2-Upgrade.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2604.2-Upgrade.pkg
-  sha1: bb87b9eddaba55c4c585035671b5cf130f07b15b
-  sha256: 7f990faf3ce5f9f5641f796a25c1f43d7f69aaefd5b569503c772d159f75a91e
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2606.0-Upgrade.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2606.0-Upgrade.pkg
+  sha1: c11712a9f4aea7be5dd3e3d1043e25baedac20ae
+  sha256: 8bdc0084c29bc5898b638be1b07feb4c5c714bb90ee9bc061df3d0b19d0e3d0c
 - name: Edge
   application_id: EDGE01
   application_name: Microsoft Edge.app
@@ -124,14 +124,14 @@ packages:
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26042.0020
-  full_version: 101.26042.0020
-  last_updated: June 12, 2026
+  short_version: 101.26052.0016
+  full_version: 101.26052.0016
+  last_updated: July 09, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26042.0020_Individuals_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26042.0020_Individuals_Installer.pkg
-  sha1: 6a45e791b361498e65c178c4c4a22d50ad3ffb20
-  sha256: b30a6c60d4726078517bd99a41fd2673628c60a7de59db70b34680cf1aaa1137
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26052.0016_Individuals_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26052.0016_Individuals_Installer.pkg
+  sha1: b2a680b5db52f1454182b64a441c2f13f399a5fb
+  sha256: 6a70be548d1ab303874f2993340d0b394e5e5f29799f1503211feb637d143b41
 - name: Defender Shim
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app

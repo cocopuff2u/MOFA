@@ -1,4 +1,4 @@
-last_updated: July 12, 2026 05:44 PM EDT
+last_updated: July 12, 2026 06:42 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -112,9 +112,9 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26052.0016
-  full_version: 101.26052.0016
-  last_updated: July 09, 2026
+  short_version: 101.26042.0020
+  full_version: 101.26042.0020
+  last_updated: June 12, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg

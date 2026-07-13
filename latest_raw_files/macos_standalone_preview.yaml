@@ -1,4 +1,4 @@
-last_updated: July 13, 2026 06:52 PM EDT
+last_updated: July 13, 2026 07:51 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -52,14 +52,14 @@ packages:
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.111.0 (26070613)
-  full_version: 16.111.26070613
-  last_updated: July 06, 2026
+  short_version: 16.111.5 (26071215)
+  full_version: 16.111.26071215
+  last_updated: July 12, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26070613_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26070613_Updater.pkg
-  sha1: e4423be224fca207639bf367be3efd5384be5d45
-  sha256: 17ce1bf4710779d0a548c3f813361e625229b1b8554495d6ad2b825f76c813ba
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071215_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071215_Updater.pkg
+  sha1: 2019125627a3615bf6fb5137a0434f275d72d3eb
+  sha256: 02dedc2b957e25cf53bf4a70405000e518378081bc1d2d59b3f7e776a1c78877
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app
@@ -112,9 +112,9 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26042.0020
-  full_version: 101.26042.0020
-  last_updated: June 12, 2026
+  short_version: 101.26052.0016
+  full_version: 101.26052.0016
+  last_updated: July 09, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg

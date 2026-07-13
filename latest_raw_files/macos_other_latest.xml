@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 13, 2026 04:12 PM EDT</last_updated>
+    <last_updated>July 13, 2026 05:58 PM EDT</last_updated>
     <package>
         <name>PowerShell</name>
         <application_id>N/A</application_id>
@@ -132,14 +132,14 @@
         <application_id>N/A</application_id>
         <application_name>Bicep CLI</application_name>
         <CFBundleVersion>N/A</CFBundleVersion>
-        <short_version>0.45.6</short_version>
-        <full_version>0.45.6</full_version>
-        <last_updated>July 10, 2026</last_updated>
+        <short_version>0.45.15</short_version>
+        <full_version>0.45.15</full_version>
+        <last_updated>July 13, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://github.com/Azure/bicep/releases/download/v0.45.6/bicep-osx-arm64</update_download>
-        <latest_download>https://github.com/Azure/bicep/releases/download/v0.45.6/bicep-osx-arm64</latest_download>
-        <sha1>5d2f0af23fdce8bc5ec28138912aea78b78ecf12</sha1>
-        <sha256>5f6333335cab4c3eed50425eff1b4043c6fa89b010550550aaa88c10c5fa25a0</sha256>
+        <update_download>https://github.com/Azure/bicep/releases/download/v0.45.15/bicep-osx-arm64</update_download>
+        <latest_download>https://github.com/Azure/bicep/releases/download/v0.45.15/bicep-osx-arm64</latest_download>
+        <sha1>e4e9c309dbd330f166dcb3cfa55096e58fd5bce0</sha1>
+        <sha256>59072cc82da704ab45d6bb11133da15b169795e42ef585dedc73d98e19fcf1be</sha256>
     </package>
     <package>
         <name>sqlcmd</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>July 12, 2026 10:26 PM EDT</last_updated>
+  <last_updated>July 13, 2026 02:12 AM EDT</last_updated>
   <package>
     <name>Production Ring</name>
     <short_version>26.118.0621</short_version>
@@ -58,24 +58,24 @@
   </package>
   <package>
     <name>Rolling Out (Unknown Use)</name>
-    <short_version>26.108.0607</short_version>
+    <short_version>26.119.0622</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=861011</full_update_download>
-    <full_update_sha1>c10d86640735d3bf5df81c237dda5ee7388360be</full_update_sha1>
-    <full_update_sha256>ac97a45971802946e7061e81a3ae58ff6fe291bfeee167030a2fb2328329b9c3</full_update_sha256>
-    <last_updated>July 01, 2026 03:41 AM EDT</last_updated>
+    <full_update_sha1>3fe15d2e90479b9cf4c6b70ce0346092a5ac2201</full_update_sha1>
+    <full_update_sha256>ed8037715552d25538207786b36503ead1be5d5c8cd457c4cabba67df7a11e35</full_update_sha256>
+    <last_updated>July 13, 2026 02:12 AM EDT</last_updated>
   </package>
   <package>
     <name>App New Version (Unknown Use)</name>
-    <short_version>26.106.0603</short_version>
+    <short_version>26.113.0614</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=823060</full_update_download>
-    <full_update_sha1>bc2233f1b0cb981fe7ba0961027f13d7880ccaaa</full_update_sha1>
-    <full_update_sha256>22278b574099df8b2e556d1061f5e024a576e3cefa21d8780717c769e1fbebf5</full_update_sha256>
-    <last_updated>July 01, 2026 03:41 AM EDT</last_updated>
+    <full_update_sha1>c76fb994b52455703db2a5876d174b361f18609a</full_update_sha1>
+    <full_update_sha256>f2fceb86f97304d57ae1b5cb2e02b3a1addedc6c68e0bc95e8b67e362b95992f</full_update_sha256>
+    <last_updated>July 13, 2026 02:12 AM EDT</last_updated>
   </package>
 </latest>

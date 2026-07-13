@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 13, 2026 04:10 PM EDT",
+    "last_updated": "July 13, 2026 05:52 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -150,13 +150,13 @@
             "application_id": "IMCP01",
             "application_name": "Company Portal.app",
             "CFBundleVersion": "com.microsoft.intune.companyportal",
-            "short_version": "5.2604.2",
-            "full_version": "53.2606003.000",
-            "last_updated": "June 16, 2026",
+            "short_version": "5.2606.0",
+            "full_version": "53.2607303.000",
+            "last_updated": "July 07, 2026",
             "min_os": "11.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2604.2-Upgrade.pkg",
-            "app_update_sha1": "bb87b9eddaba55c4c585035671b5cf130f07b15b",
-            "app_update_sha256": "7f990faf3ce5f9f5641f796a25c1f43d7f69aaefd5b569503c772d159f75a91e",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2606.0-Upgrade.pkg",
+            "app_update_sha1": "c11712a9f4aea7be5dd3e3d1043e25baedac20ae",
+            "app_update_sha256": "8bdc0084c29bc5898b638be1b07feb4c5c714bb90ee9bc061df3d0b19d0e3d0c",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=853070",
             "full_update_sha1": "6cdee1598b792a53e5736eae8dd2f91f00c1aeaf",
             "full_update_sha256": "ff3f32c392fdd7eadb3c6b6c8d17c05c864716c387817f8731b241cbd1346197"

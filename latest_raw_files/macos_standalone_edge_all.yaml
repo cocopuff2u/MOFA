@@ -1,5 +1,5 @@
 EdgeInsiderVersions:
-  last_updated: July 14, 2026 03:16 PM EDT
+  last_updated: July 14, 2026 05:02 PM EDT
   Version:
   - Name: current
     Version: 150.0.4078.65
@@ -11,23 +11,23 @@ EdgeInsiderVersions:
     Full_Update_Sha256: 68929c051651b056123369874fe5f6bea0a268500e6c506f6922b2d539a2fd86
     Last_Update: July 11, 2026 05:31 AM EDT
   - Name: canary
-    Version: 152.0.4155.0
+    Version: 152.0.4156.0
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7d2ce70-5ae6-4c50-8875-331ab1248252/MicrosoftEdgeCanary-152.0.4155.0.pkg
-    Full_Update_Sha1: b4bf982238da82b92bb3eba825474a2c79d3d28d
-    Full_Update_Sha256: d00e2871505b81f3a7171bf579916f82da16741a4a8d2c228951a76e8cba7fc1
-    Last_Update: July 14, 2026 08:43 AM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4309662b-5d57-4981-89f2-cd659716896c/MicrosoftEdgeCanary-152.0.4156.0.pkg
+    Full_Update_Sha1: e42452a5df17cb3099afb81504218800599760e5
+    Full_Update_Sha256: a0a84625880deb3ea7c424b4fdf665ca2d0f0a378995aa23fb84d0feff615213
+    Last_Update: July 14, 2026 04:39 PM EDT
   - Name: dev
-    Version: 151.0.4129.21
+    Version: 152.0.4148.0
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/71f8b4fd-bb95-4e36-8bcf-52e3dbfa2a02/MicrosoftEdgeDev-151.0.4129.21.pkg
-    Full_Update_Sha1: 982b85303ec69006baf2ff116673c0975e494dbc
-    Full_Update_Sha256: b35a2aedd4f5bb46b75545805c237627d2323bd7e49432eff04cee57bf5110c5
-    Last_Update: July 13, 2026 02:15 PM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d2d016e-846d-400b-877c-7c1df24a0f95/MicrosoftEdgeDev-152.0.4148.0.pkg
+    Full_Update_Sha1: 1855d89f12b525f2c96be712b30aa55392434c77
+    Full_Update_Sha256: b382bc06888c2a8a86ad73de58ace87f67cf42ef3edb5799713874b3c2b8df82
+    Last_Update: July 14, 2026 04:18 PM EDT
   - Name: beta
     Version: 151.0.4129.21
     Application_ID: EDGE01

@@ -1,37 +1,37 @@
 {
-    "last_updated": "July 14, 2026 05:54 PM EDT",
+    "last_updated": "July 14, 2026 06:54 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
             "application_id": "Data sourced from Outlook (CurrentThrottle)",
             "application_name": "Data sourced from Outlook (CurrentThrottle)",
             "CFBundleVersion": "com.microsoft.office",
-            "short_version": "16.110.0 (26061317)",
-            "full_version": "16.110.26061317",
-            "last_updated": "June 13, 2026",
+            "short_version": "16.111.0 (26071325)",
+            "full_version": "16.111.26071325",
+            "last_updated": "July 13, 2026",
             "min_os": "14.0",
             "app_only_update_download": "N/A",
             "app_update_sha1": "N/A",
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525133",
-            "full_update_sha1": "1f0155e2c8f8fe88ed0d5d5b8c3ab16b16373e75",
-            "full_update_sha256": "986eadffad678ab1ef62543ba135acd082da1aee64ae9ce27e1d1f64d07996a3"
+            "full_update_sha1": "c67d9d6e1b88ea1dd24744cbe3f488e021bcf956",
+            "full_update_sha256": "9a150b1b66735bfeb23e2029a441a3f79db8fe3874d34dbc3ad9f2b92b00c1a4"
         },
         {
             "name": "Microsoft BusinessPro Suite",
             "application_id": "Data sourced from Outlook (CurrentThrottle)",
             "application_name": "Data sourced from Outlook (CurrentThrottle)",
             "CFBundleVersion": "com.microsoft.office",
-            "short_version": "16.110.0 (26061317)",
-            "full_version": "16.110.26061317",
-            "last_updated": "June 13, 2026",
+            "short_version": "16.111.0 (26071325)",
+            "full_version": "16.111.26071325",
+            "last_updated": "July 13, 2026",
             "min_os": "14.0",
             "app_only_update_download": "N/A",
             "app_update_sha1": "N/A",
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
-            "full_update_sha1": "b1818a5bce3a73bd520db8620d5869687db1e1c9",
-            "full_update_sha256": "a7eb1e290c39e0f159d7f5a4221e65e5e3565c874aaf85ede0f0480d577c5929"
+            "full_update_sha1": "2aa1fa092d3d248489c25da6f8a1d1b346ba7c85",
+            "full_update_sha256": "f7424f24ac14edd46bab2ff52285b8a2455ac2e9f98e3be73e9f46524f0999df"
         },
         {
             "name": "Word",

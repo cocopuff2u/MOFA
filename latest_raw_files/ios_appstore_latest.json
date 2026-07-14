@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 14, 2026 01:10 PM EDT",
+    "last_updated": "July 14, 2026 03:13 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -137,11 +137,11 @@
             "name": "iOS Microsoft Dynamics 365 Sales",
             "application_name": "Dynamics 365 Sales",
             "bundleId": "com.microsoft.dynamics.iphone.moca.sales",
-            "currentVersionReleaseDate": "July 13, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/fe/78/71fe7828-44a4-8773-545c-636bf4dd568c/Sales_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "security and bug fixes",
-            "version": "3.26073.2",
+            "currentVersionReleaseDate": "November 11, 2024",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c9/01/4bc9019e-a89d-de7f-7d9d-9bbdd3d81b92/Sales_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "14.0",
+            "releaseNotes": "This version includes experience improvements and bug fixes so sellers can stay on top of their deals better than ever before.",
+            "version": "3.24104.15",
             "app_store_url": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4"
         },
         {
@@ -280,11 +280,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "July 14, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f0/0b/5af00b00-6dfd-4cc9-39d7-b537875dca8d/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 07, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/db/59/23db59de-3664-98d7-b69a-96a29139c107/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.26071.8",
+            "version": "3.26065.7",
             "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {

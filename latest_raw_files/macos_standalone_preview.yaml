@@ -1,4 +1,4 @@
-last_updated: July 14, 2026 01:11 PM EDT
+last_updated: July 14, 2026 03:13 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -16,14 +16,14 @@ packages:
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.111.5 (26071215)
-  full_version: 16.111.26071215
-  last_updated: July 12, 2026
+  short_version: 16.111.0 (26070613)
+  full_version: 16.111.26070613
+  last_updated: July 06, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26071215_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26071215_Updater.pkg
-  sha1: ee2540175e5caa87c10ee64b81db62433d6a8c92
-  sha256: 492dff1edee15e1c0dbf3fc91aa3c39c9fa4ce05df118b61491c6d5222b467d8
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26070613_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26070613_Updater.pkg
+  sha1: 99deaa62c9ecf715e66e623fbc37f6789a6d22bd
+  sha256: 2182114507486b3d0da70b385db508226db6b8418f2de152ae2b6e6a8d4b449c
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
@@ -40,26 +40,26 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.111.0 (26071325)
-  full_version: 16.111.26071325
-  last_updated: July 13, 2026
+  short_version: 16.111.0 (26070613)
+  full_version: 16.111.26070613
+  last_updated: July 06, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071325_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071325_Updater.pkg
-  sha1: 3b1638f4c3b8b55ab34e88eff73e2dcdea9b6541
-  sha256: d0096db367b872506231c3cbbed4a6c6cbb58c13667c7ecca6981362f1d4a776
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26070613_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26070613_Updater.pkg
+  sha1: N/A
+  sha256: N/A
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.111.0 (26071325)
-  full_version: 16.111.26071325
-  last_updated: July 13, 2026
+  short_version: 16.111.0 (26070613)
+  full_version: 16.111.26070613
+  last_updated: July 06, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071325_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071325_Updater.pkg
-  sha1: c7b54b3f5c03054c3eba19fb873dfbcc8694359f
-  sha256: dcc011a405e9a493f89678eb5398033c3108c9237a6c10b093a946608377c244
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26070613_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26070613_Updater.pkg
+  sha1: N/A
+  sha256: N/A
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app
@@ -112,9 +112,9 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26052.0016
-  full_version: 101.26052.0016
-  last_updated: July 09, 2026
+  short_version: 101.26042.0020
+  full_version: 101.26042.0020
+  last_updated: June 12, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
@@ -160,14 +160,14 @@ packages:
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app
   CFBundleVersion: com.microsoft.m365copilot
-  short_version: 1.2607 (0602)
-  full_version: 1.2607.0602
-  last_updated: July 06, 2026
+  short_version: 1.2606 (1501)
+  full_version: 1.2606.1501
+  last_updated: June 15, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.0602_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.0602_Updater.pkg
-  sha1: 4c75a32c1f79e2cbb87e3ea53bee37d6815fb163
-  sha256: bb936acedbefd34d9b44b04051cfc473e5234c2de96f98eb3732f9cfe845d587
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.1501_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.1501_Updater.pkg
+  sha1: ca4c7e388ae7cd85f9fb032e09477c16a521a634
+  sha256: ed39c7b03d26c0d3f33c99bbce1f9587baf160f76f930b267787b06952067bb7
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

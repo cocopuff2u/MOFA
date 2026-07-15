@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>July 15, 2026 12:17 PM EDT</last_scan_date>
+    <last_scan_date>July 15, 2026 02:02 PM EDT</last_scan_date>
     <Update>
         <Date>July 14, 2026</Date>
         <Version>Version 16.111 (Build 26071325)</Version>
@@ -310,29 +310,29 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2026-40359</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40359</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40359</URL>
                 <CVE>CVE-2026-40360</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40360</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40360</URL>
                 <CVE>CVE-2026-40362</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40362</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40362</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2026-40358</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40358</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40358</URL>
                 <CVE>CVE-2026-40363</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40363</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40363</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2026-40361</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40361</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40361</URL>
                 <CVE>CVE-2026-40364</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40364</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40364</URL>
                 <CVE>CVE-2026-40366</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40366</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40366</URL>
                 <CVE>CVE-2026-40367</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-40367</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-40367</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -376,31 +376,31 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2026-32188</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-32188</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-32188</URL>
                 <CVE>CVE-2026-32189</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-32189</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-32189</URL>
                 <CVE>CVE-2026-32197</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-32197</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-32197</URL>
                 <CVE>CVE-2026-32198</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-32198</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-32198</URL>
                 <CVE>CVE-2026-32199</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-32199</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-32199</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2026-32190</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-32190</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-32190</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2026-33095</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-33095</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-33095</URL>
                 <CVE>CVE-2026-33822</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-33822</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-33822</URL>
                 <CVE>CVE-2026-33114</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-33114</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-33114</URL>
                 <CVE>CVE-2026-33115</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2026-33115</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-33115</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -611,36 +611,36 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-62556</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62556</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62556</URL>
                 <CVE>CVE-2025-62560</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62560</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62560</URL>
                 <CVE>CVE-2025-62561</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62561</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62561</URL>
                 <CVE>CVE-2025-62563</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62563</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62563</URL>
                 <CVE>CVE-2025-62564</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62564</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62564</URL>
             </Application>
             <Application>
                 <Name>Outlook</Name>
                 <CVE>CVE-2025-62562</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62562</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62562</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2025-62555</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62555</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62555</URL>
                 <CVE>CVE-2025-62558</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62558</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62558</URL>
                 <CVE>CVE-2025-62559</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62559</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62559</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-62554</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62554</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62554</URL>
                 <CVE>CVE-2025-62557</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-62557</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-62557</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -827,33 +827,33 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-53735</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53735</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53735</URL>
                 <CVE>CVE-2025-53737</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53737</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53737</URL>
                 <CVE>CVE-2025-53739</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53739</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53739</URL>
                 <CVE>CVE-2025-53741</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53741</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53741</URL>
                 <CVE>CVE-2025-53759</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53759</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53759</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2025-53733</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53733</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53733</URL>
                 <CVE>CVE-2025-53736</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53736</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53736</URL>
                 <CVE>CVE-2025-53738</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53738</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53738</URL>
                 <CVE>CVE-2025-53784</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53784</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53784</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-53731</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53731</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53731</URL>
                 <CVE>CVE-2025-53740</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-53740</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-53740</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -886,34 +886,34 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-48812</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-48812</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-48812</URL>
                 <CVE>CVE-2025-49711</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49711</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49711</URL>
             </Application>
             <Application>
                 <Name>PowerPoint</Name>
                 <CVE>CVE-2025-49705</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49705</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49705</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2025-49698</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49698</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49698</URL>
                 <CVE>CVE-2025-49703</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49703</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49703</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-49695</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49695</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49695</URL>
                 <CVE>CVE-2025-49696</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49696</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49696</URL>
                 <CVE>CVE-2025-49697</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49697</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49697</URL>
                 <CVE>CVE-2025-49699</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49699</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49699</URL>
                 <CVE>CVE-2025-49702</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-49702</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-49702</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -946,34 +946,34 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-47165</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47165</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47165</URL>
             </Application>
             <Application>
                 <Name>PowerPoint</Name>
                 <CVE>CVE-2025-47175</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47175</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47175</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2025-47168</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47168</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47168</URL>
                 <CVE>CVE-2025-47170</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47170</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47170</URL>
                 <CVE>CVE-2025-47169</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47169</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47169</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-47173</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47173</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47173</URL>
                 <CVE>CVE-2025-47953</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47953</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47953</URL>
                 <CVE>CVE-2025-47164</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47164</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47164</URL>
                 <CVE>CVE-2025-47167</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47167</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47167</URL>
                 <CVE>CVE-2025-47162</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-47162</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-47162</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1006,30 +1006,30 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-29977</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29977</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-29977</URL>
                 <CVE>CVE-2025-29979</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29979</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-29979</URL>
                 <CVE>CVE-2025-30375</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30375</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30375</URL>
                 <CVE>CVE-2025-30376</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30376</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30376</URL>
                 <CVE>CVE-2025-30393</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30393</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30393</URL>
                 <CVE>CVE-2025-30379</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30379</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30379</URL>
                 <CVE>CVE-2025-30381</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30381</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30381</URL>
                 <CVE>CVE-2025-30383</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30383</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30383</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-30388</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30388</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30388</URL>
                 <CVE>CVE-2025-30377</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30377</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30377</URL>
                 <CVE>CVE-2025-30386</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-30386</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-30386</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1073,40 +1073,40 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-27750</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27750</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-27750</URL>
                 <CVE>CVE-2025-27751</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27751</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-27751</URL>
                 <CVE>CVE-2025-26642</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-26642</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-26642</URL>
             </Application>
             <Application>
                 <Name>OneNote</Name>
                 <CVE>CVE-2025-29822</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29822</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-29822</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2025-29820</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29820</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-29820</URL>
                 <CVE>CVE-2025-27747</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27747</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-27747</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-29816</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29816</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-29816</URL>
                 <CVE>CVE-2025-27745</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27745</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-27745</URL>
                 <CVE>CVE-2025-27746</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27746</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-27746</URL>
                 <CVE>CVE-2025-27748</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27748</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-27748</URL>
                 <CVE>CVE-2025-27749</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27749</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-27749</URL>
                 <CVE>CVE-2025-27752</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-27752</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-27752</URL>
                 <CVE>CVE-2025-29791</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-29791</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-29791</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1161,27 +1161,27 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-24081</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24081</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-24081</URL>
                 <CVE>CVE-2025-24075</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24075</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-24075</URL>
                 <CVE>CVE-2025-24082</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24082</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-24082</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2025-24079</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24079</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-24079</URL>
                 <CVE>CVE-2025-24078</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24078</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-24078</URL>
                 <CVE>CVE-2025-24077</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24077</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-24077</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-24083</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24083</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-24083</URL>
                 <CVE>CVE-2025-24057</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-24057</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-24057</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1214,22 +1214,22 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-21387</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21387</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21387</URL>
                 <CVE>CVE-2025-21390</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21390</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21390</URL>
                 <CVE>CVE-2025-21386</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21386</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21386</URL>
                 <CVE>CVE-2025-21383</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21383</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21383</URL>
                 <CVE>CVE-2025-21381</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21381</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21381</URL>
                 <CVE>CVE-2025-21394</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21394</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21394</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-21392</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21392</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21392</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1262,24 +1262,24 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2025-21362</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21362</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21362</URL>
                 <CVE>CVE-2025-21354</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21354</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21354</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2025-21338</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21338</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21338</URL>
             </Application>
             <Application>
                 <Name>OneNote</Name>
                 <CVE>CVE-2025-21402</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21402</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21402</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2025-21363</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2025-21363</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2025-21363</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1290,12 +1290,12 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2024-49069</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49069</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49069</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2024-49065</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49065</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49065</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1317,25 +1317,25 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2024-49029</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49029</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49029</URL>
                 <CVE>CVE-2024-49028</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49028</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49028</URL>
                 <CVE>CVE-2024-49027</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49027</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49027</URL>
                 <CVE>CVE-2024-49030</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49030</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49030</URL>
             </Application>
             <Application>
                 <Name>Word</Name>
                 <CVE>CVE-2024-49033</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49033</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49033</URL>
             </Application>
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2024-49031</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49031</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49031</URL>
                 <CVE>CVE-2024-49032</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-49032</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-49032</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1423,7 +1423,7 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2024-43465</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-43465</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-43465</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1445,14 +1445,14 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2024-38172</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-38172</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-38172</URL>
                 <CVE>CVE-2024-38170</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-38170</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-38170</URL>
             </Application>
             <Application>
                 <Name>PowerPoint</Name>
                 <CVE>CVE-2024-38171</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-38171</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-38171</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1562,7 +1562,7 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2024-30042</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-30042</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-30042</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1606,7 +1606,7 @@
             <Application>
                 <Name>Excel</Name>
                 <CVE>CVE-2024-26257</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-26257</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-26257</URL>
             </Application>
         </SecurityUpdates>
     </Update>
@@ -1705,7 +1705,7 @@
             <Application>
                 <Name>Office Suite</Name>
                 <CVE>CVE-2024-20677</CVE>
-                <URL>https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2024-20677</URL>
+                <URL>https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2024-20677</URL>
             </Application>
         </SecurityUpdates>
     </Update>

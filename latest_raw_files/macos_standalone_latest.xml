@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 15, 2026 03:21 PM EDT</last_updated>
+    <last_updated>July 15, 2026 04:56 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -230,16 +230,16 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code.app</application_name>
         <CFBundleVersion>com.microsoft.visualstudio</CFBundleVersion>
-        <short_version>1.128.1</short_version>
-        <full_version>1.128.1</full_version>
-        <last_updated>July 14, 2026</last_updated>
+        <short_version>1.129.0</short_version>
+        <full_version>1.129.0</full_version>
+        <last_updated>July 15, 2026</last_updated>
         <min_os>N/A</min_os>
-        <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/5264f2156cbcd7aea5fd004d29eaa10209155d66/VSCode-darwin-universal.zip</app_only_update_download>
-        <app_update_sha1>a7a217e0f0f877896dfef0c2f70b9d8aeef4f549</app_update_sha1>
-        <app_update_sha256>51630f08f459b63387c9e8524835e14f65c9068b6aff8bbb747069598575b971</app_update_sha256>
+        <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/125df4672b8a6a34975303c6b0baa124e560a4f7/VSCode-darwin-universal.zip</app_only_update_download>
+        <app_update_sha1>e5520b500afe2db95f9bb32565e26e10355ee591</app_update_sha1>
+        <app_update_sha256>98bea8065f14695dbf799b904b2b95bc50bb864aaaaaf4dcbce3ab48fb72a101</app_update_sha256>
         <full_update_download>https://code.visualstudio.com/sha/download?build=stable&amp;os=darwin-universal-dmg</full_update_download>
-        <full_update_sha1>feac9be65b3f23340e85fe6fdba129fcd22d6891</full_update_sha1>
-        <full_update_sha256>6bb7b71393e1ae1f831add4e0e0a3d74675e70092f64d978d3ce37d6594be48a</full_update_sha256>
+        <full_update_sha1>339c8520e667b8893a9c1b71e2caad501536d70e</full_update_sha1>
+        <full_update_sha256>cb06df8ce91e6468264761dc21a22a9fc8efbe3f86b1ed91678552ab1d8f04db</full_update_sha256>
     </package>
     <package>
         <name>Copilot</name>

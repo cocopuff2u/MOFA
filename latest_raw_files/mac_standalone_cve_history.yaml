@@ -1,5 +1,161 @@
-last_scan_date: July 14, 2026 10:03 PM EDT
+last_scan_date: July 15, 2026 01:07 AM EDT
 updates:
+- date_text: July 14, 2026
+  security_updates:
+    Excel:
+    - cve_name: CVE-2026-47642
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-47642
+    - cve_name: CVE-2026-48580
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-48580
+    - cve_name: CVE-2026-50408
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-50408
+    - cve_name: CVE-2026-50675
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-50675
+    - cve_name: CVE-2026-50678
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-50678
+    - cve_name: CVE-2026-54131
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-54131
+    - cve_name: CVE-2026-54988
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-54988
+    - cve_name: CVE-2026-55024
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55024
+    - cve_name: CVE-2026-55025
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55025
+    - cve_name: CVE-2026-55029
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55029
+    - cve_name: CVE-2026-55031
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55031
+    - cve_name: CVE-2026-55036
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55036
+    - cve_name: CVE-2026-55037
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55037
+    - cve_name: CVE-2026-55039
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55039
+    - cve_name: CVE-2026-55041
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55041
+    - cve_name: CVE-2026-55044
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55044
+    - cve_name: CVE-2026-55046
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55046
+    - cve_name: CVE-2026-55048
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55048
+    - cve_name: CVE-2026-55053
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55053
+    - cve_name: CVE-2026-55054
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55054
+    - cve_name: CVE-2026-55058
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55058
+    - cve_name: CVE-2026-55122
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55122
+    - cve_name: CVE-2026-55131
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55131
+    - cve_name: CVE-2026-55136
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55136
+    - cve_name: CVE-2026-55137
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55137
+    - cve_name: CVE-2026-55138
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55138
+    - cve_name: CVE-2026-55141
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55141
+    - cve_name: CVE-2026-55898
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55898
+    - cve_name: CVE-2026-55899
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55899
+    - cve_name: CVE-2026-55947
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55947
+    - cve_name: CVE-2026-55948
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55948
+    - cve_name: CVE-2026-55949
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55949
+    - cve_name: CVE-2026-56156
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-56156
+    - cve_name: CVE-2026-58618
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-58618
+    Office Suite:
+    - cve_name: CVE-2026-50387
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-50387
+    - cve_name: CVE-2026-50314
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-50314
+    - cve_name: CVE-2026-50467
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-50467
+    - cve_name: CVE-2026-50665
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-50665
+    - cve_name: CVE-2026-55018
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55018
+    - cve_name: CVE-2026-55022
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55022
+    - cve_name: CVE-2026-55023
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55023
+    - cve_name: CVE-2026-55026
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55026
+    - cve_name: CVE-2026-55027
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55027
+    - cve_name: CVE-2026-55028
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55028
+    - cve_name: CVE-2026-55035
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55035
+    - cve_name: CVE-2026-55042
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55042
+    - cve_name: CVE-2026-55045
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55045
+    - cve_name: CVE-2026-55047
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55047
+    - cve_name: CVE-2026-55056
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55056
+    - cve_name: CVE-2026-55057
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55057
+    - cve_name: CVE-2026-55121
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55121
+    - cve_name: CVE-2026-55125
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55125
+    - cve_name: CVE-2026-55129
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55129
+    - cve_name: CVE-2026-56192
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-56192
+    - cve_name: CVE-2026-56193
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-56193
+    - cve_name: CVE-2026-56195
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-56195
+    - cve_name: CVE-2026-55140
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55140
+    - cve_name: CVE-2026-55049
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55049
+    - cve_name: CVE-2026-55139
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55139
+    OneNote:
+    - cve_name: CVE-2026-55133
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55133
+    PowerPoint:
+    - cve_name: CVE-2026-55043
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55043
+    - cve_name: CVE-2026-55123
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55123
+    - cve_name: CVE-2026-55120
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55120
+    Word:
+    - cve_name: CVE-2026-55033
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55033
+    - cve_name: CVE-2026-55038
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55038
+    - cve_name: CVE-2026-55050
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55050
+    - cve_name: CVE-2026-55055
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55055
+    - cve_name: CVE-2026-55124
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55124
+    - cve_name: CVE-2026-55127
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55127
+    - cve_name: CVE-2026-55128
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55128
+    - cve_name: CVE-2026-55130
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55130
+    - cve_name: CVE-2026-55132
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55132
+    - cve_name: CVE-2026-55134
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55134
+    - cve_name: CVE-2026-55142
+      url: https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-55142
+  version: Version 16.111 (Build 26071325)
 - date_text: July 07, 2026
   security_updates:
     N/A:

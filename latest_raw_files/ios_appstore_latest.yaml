@@ -1,4 +1,4 @@
-last_updated: July 15, 2026 04:01 AM EDT
+last_updated: July 15, 2026 06:05 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -277,11 +277,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: July 07, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/9d/87/a79d878f-c333-9bf4-8458-fb643f004bef/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 14, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/2c/5b/452c5be8-226d-acc7-3e27-dac45371d03f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.12.0
+    version: 8.12.1
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint

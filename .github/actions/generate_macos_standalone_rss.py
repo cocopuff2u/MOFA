@@ -203,6 +203,10 @@ def _update_rss_for_package(pkg_conf: dict, pkg_node: ET.Element) -> None:
     # unique per-release version in that case.
     item_guid = update_download if (update_download and update_download != "N/A") else short_version
 
+    # The item link has the same problem: with no app-only installer it would be "N/A",
+    # sending readers to a 404. Fall back to the package's release notes page instead.
+    item_link = update_download if (update_download and update_download != "N/A") else pkg_conf['release_notes_url']
+
     # Compute per-package feed paths/urls
     feed_filename = pkg_conf['feed_filename']
     feed_path = os.path.join(FEEDS_DIR, feed_filename)
@@ -317,6 +321,14 @@ def _update_rss_for_package(pkg_conf: dict, pkg_node: ET.Element) -> None:
                 current = guid_el.text
         seen_guids.add(current)
 
+        # Likewise repair item links that are missing, empty, or "N/A" by pointing them
+        # at the package's release notes page.
+        link_el = item.find('link')
+        if link_el is None or (link_el.text or "").strip() in ("", "N/A"):
+            if link_el is None:
+                link_el = ET.SubElement(item, 'link')
+            link_el.text = pkg_conf['release_notes_url']
+
     # Check if the package version already exists in the RSS feed
     existing_version = False
     for item in channel.findall('item'):
@@ -336,7 +348,7 @@ def _update_rss_for_package(pkg_conf: dict, pkg_node: ET.Element) -> None:
         title_el = ET.SubElement(new_item, 'title')
         title_el.text = pkg_conf['item_title']
         link_el = ET.SubElement(new_item, 'link')
-        link_el.text = update_download
+        link_el.text = item_link
         desc_el = ET.SubElement(new_item, 'description')
         _set_description_with_link(desc_el, short_version, pkg_conf['release_notes_url'])
         pubDate = ET.SubElement(new_item, 'pubDate')

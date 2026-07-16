@@ -1,4 +1,4 @@
-last_updated: July 16, 2026 06:55 AM EDT
+last_updated: July 16, 2026 08:18 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -16,14 +16,14 @@ packages:
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.111.0 (26070613)
-  full_version: 16.111.26070613
-  last_updated: July 06, 2026
+  short_version: 16.111.0 (26071325)
+  full_version: 16.111.26071325
+  last_updated: July 13, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26070613_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26070613_Updater.pkg
-  sha1: 99deaa62c9ecf715e66e623fbc37f6789a6d22bd
-  sha256: 2182114507486b3d0da70b385db508226db6b8418f2de152ae2b6e6a8d4b449c
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26071325_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26071325_Updater.pkg
+  sha1: fbc0f78665b24dba471fc4f552a4d4c153092178
+  sha256: 9de9fbc08edd4674542702ec0ad395367265bff4a881bc67e998007a401c09c2
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
@@ -40,14 +40,14 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.111.0 (26070613)
-  full_version: 16.111.26070613
-  last_updated: July 06, 2026
+  short_version: 16.111.0 (26071325)
+  full_version: 16.111.26071325
+  last_updated: July 13, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26070613_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26070613_Updater.pkg
-  sha1: 827f722ea0f5bfe9e1b4883c020100ef6a0ca3bf
-  sha256: 2b6de8dbb48563e448a71c82530718f629df7fbf3a83deb39afbd4c71a7c7ad5
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071325_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071325_Updater.pkg
+  sha1: 3b1638f4c3b8b55ab34e88eff73e2dcdea9b6541
+  sha256: d0096db367b872506231c3cbbed4a6c6cbb58c13667c7ecca6981362f1d4a776
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
@@ -172,11 +172,11 @@ packages:
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app
   CFBundleVersion: com.microsoft.autoupdate
-  short_version: 4.83 (26040910)
-  full_version: 4.83.26040910
-  last_updated: April 09, 2026
+  short_version: 4.84 (26071119)
+  full_version: 4.84.26071119
+  last_updated: July 11, 2026
   min_os: '12.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg
-  sha1: a5ef1cfcc15604a45413cb20c1a70937f407b3a2
-  sha256: a307dc89adfd60c0f9d60ad869efd19e22798ec7fd11015a351378e0249325cd
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.84.26071119_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.84.26071119_Updater.pkg
+  sha1: 9353cde2ce4f9535934e2afd91124b8127572b85
+  sha256: be878237348c79d03c6a8286e7b61c58265d9cc5917d1a282c25059fe46bd4a7

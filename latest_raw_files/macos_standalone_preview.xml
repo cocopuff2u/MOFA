@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 16, 2026 01:36 AM EDT</last_updated>
+    <last_updated>July 16, 2026 04:06 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -20,14 +20,14 @@
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.111.0 (26071325)</short_version>
-        <full_version>16.111.26071325</full_version>
-        <last_updated>July 13, 2026</last_updated>
+        <short_version>16.111.0 (26070613)</short_version>
+        <full_version>16.111.26070613</full_version>
+        <last_updated>July 06, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26071325_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26071325_Updater.pkg</latest_download>
-        <sha1>fbc0f78665b24dba471fc4f552a4d4c153092178</sha1>
-        <sha256>9de9fbc08edd4674542702ec0ad395367265bff4a881bc67e998007a401c09c2</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26070613_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26070613_Updater.pkg</latest_download>
+        <sha1>99deaa62c9ecf715e66e623fbc37f6789a6d22bd</sha1>
+        <sha256>2182114507486b3d0da70b385db508226db6b8418f2de152ae2b6e6a8d4b449c</sha256>
     </package>
     <package>
         <name>PowerPoint</name>
@@ -202,13 +202,13 @@
         <application_id>MSau04</application_id>
         <application_name>Microsoft AutoUpdate.app</application_name>
         <CFBundleVersion>com.microsoft.autoupdate</CFBundleVersion>
-        <short_version>4.84 (26071119)</short_version>
-        <full_version>4.84.26071119</full_version>
-        <last_updated>July 11, 2026</last_updated>
+        <short_version>4.83 (26040910)</short_version>
+        <full_version>4.83.26040910</full_version>
+        <last_updated>April 09, 2026</last_updated>
         <min_os>12.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.84.26071119_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.84.26071119_Updater.pkg</latest_download>
-        <sha1>9353cde2ce4f9535934e2afd91124b8127572b85</sha1>
-        <sha256>be878237348c79d03c6a8286e7b61c58265d9cc5917d1a282c25059fe46bd4a7</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg</latest_download>
+        <sha1>a5ef1cfcc15604a45413cb20c1a70937f407b3a2</sha1>
+        <sha256>a307dc89adfd60c0f9d60ad869efd19e22798ec7fd11015a351378e0249325cd</sha256>
     </package>
 </latest>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 16, 2026 01:36 AM EDT",
+    "last_updated": "July 16, 2026 04:06 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -27,11 +27,11 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "July 07, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/2d/64/942d64aa-96c4-e8de-28d4-01843aa70064/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 14, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/58/52/60585219-546c-e4d3-74b9-3dfc0d956e07/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.110.3",
+            "version": "16.111",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 16, 2026 12:14 PM EDT</last_updated>
+    <last_updated>July 16, 2026 02:02 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -134,16 +134,16 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>26163.407.4839.8659</short_version>
-        <full_version>26163.407.4839.8659</full_version>
-        <last_updated>June 23, 2026</last_updated>
+        <short_version>26183.1901.4874.5228</short_version>
+        <full_version>26183.1901.4874.5228</full_version>
+        <last_updated>July 03, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26163.407.4839.8659/MicrosoftTeams_26134.1610.4759.7759_to_26163.407.4839.8659_BinaryDelta.pkg</app_only_update_download>
-        <app_update_sha1>d6329c1193235c77cb08ac0ac0aff8cfe2f81889</app_update_sha1>
-        <app_update_sha256>e8c6ea5dd080ae8984528126fa383d2e28f3e685ce14f0528149dc563cefd60e</app_update_sha256>
+        <app_only_update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26183.1901.4874.5228/MicrosoftTeams_26134.1610.4759.7759_to_26183.1901.4874.5228_BinaryDelta.pkg</app_only_update_download>
+        <app_update_sha1>932174d471ae708be31b3972c736bf5bb2f8ec8d</app_update_sha1>
+        <app_update_sha256>226429b1446dadb880848003e9ed187e1a2ed2415ae678ffbb3c6ebb48c0a92a</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2249065</full_update_download>
-        <full_update_sha1>f218f40c944d6ab9fb9a02701eaf6d573dba1d0a</full_update_sha1>
-        <full_update_sha256>bcf6d54723446063e3b37c5a03bbd5c9f5f8e7bf5e7517d6db2676fc0e684e0b</full_update_sha256>
+        <full_update_sha1>b68e02ec0105471078f8ddd717a43845a390229b</full_update_sha1>
+        <full_update_sha256>ea55e7b683cf606f1642597f35441068dd553db1cafa827927c3f7a04e57b980</full_update_sha256>
     </package>
     <package>
         <name>Intune</name>

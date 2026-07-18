@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 18, 2026 06:43 PM EDT</last_updated>
+    <last_updated>July 18, 2026 07:50 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -62,14 +62,14 @@
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote</CFBundleVersion>
-        <short_version>16.111.5 (26071215)</short_version>
-        <full_version>16.111.26071215</full_version>
-        <last_updated>July 12, 2026</last_updated>
+        <short_version>16.111.0 (26071325)</short_version>
+        <full_version>16.111.26071325</full_version>
+        <last_updated>July 13, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071215_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071215_Updater.pkg</latest_download>
-        <sha1>2019125627a3615bf6fb5137a0434f275d72d3eb</sha1>
-        <sha256>02dedc2b957e25cf53bf4a70405000e518378081bc1d2d59b3f7e776a1c78877</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071325_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071325_Updater.pkg</latest_download>
+        <sha1>c7b54b3f5c03054c3eba19fb873dfbcc8694359f</sha1>
+        <sha256>dcc011a405e9a493f89678eb5398033c3108c9237a6c10b093a946608377c244</sha256>
     </package>
     <package>
         <name>Skype</name>

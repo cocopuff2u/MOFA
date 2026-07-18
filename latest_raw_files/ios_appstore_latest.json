@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 18, 2026 04:01 PM EDT",
+    "last_updated": "July 18, 2026 04:56 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "CamScanner - PDF Scanner App",
-            "bundleId": "com.intsig.CamScannerLite",
-            "currentVersionReleaseDate": "July 13, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/a8/5c/5ba85c5f-77a7-3de5-a57c-36857af9adc9/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "13.0",
-            "releaseNotes": "\u00b7 Various improvements for a better experience.\n\u00b7 We'll keep refining the app to bring you clearer scans and a smoother editing experience.",
-            "version": "7.21.5",
-            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
+            "application_name": "Lens: Translate & Photo Finder",
+            "bundleId": "com.searchdodo.ios",
+            "currentVersionReleaseDate": "July 14, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "15.6",
+            "releaseNotes": "Summer is here!\n\nReady to explore the world and translate everything on the go?\nWe\u2019ve polished the app behind the scenes to make sure your camera translations and image searches are faster and smoother than ever.\nUpdate now, join our Summer Translation event, and travel with total confidence!\n\nIf Lens helps you navigate new places, a quick 5-star rating makes our season!",
+            "version": "3.1.15",
+            "app_store_url": "https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

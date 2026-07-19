@@ -1,4 +1,4 @@
-last_updated: July 19, 2026 04:07 PM EDT
+last_updated: July 19, 2026 05:47 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -355,12 +355,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: July 06, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/40/eb/d240eb5b-c0f8-5315-8554-a2a6810e46d8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: July 19, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/7d/99/7a7d9983-96c2-a9c8-0af1-42eed2fc176d/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: '- Content in your org Apps is now organized by the app creator,
-      so you find what''s relevant faster.'
-    version: '37.9'
+    releaseNotes: "- Improved stability and fixed various bugs.\u200B"
+    version: '38.0'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin

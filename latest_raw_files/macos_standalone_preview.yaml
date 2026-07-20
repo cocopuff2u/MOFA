@@ -1,4 +1,4 @@
-last_updated: July 20, 2026 03:39 PM EDT
+last_updated: July 20, 2026 05:08 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -40,26 +40,26 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.111.1 (26071913)
-  full_version: 16.111.26071913
-  last_updated: July 19, 2026
+  short_version: 16.111.0 (26071325)
+  full_version: 16.111.26071325
+  last_updated: July 13, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071913_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071913_Updater.pkg
-  sha1: 0193338ed2e3c651420a6a33717d20dfbc38a033
-  sha256: 7cef79ed4a76919b542e39f87efc206fc7963d6304e797e128fd05a8bb9a786b
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071325_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071325_Updater.pkg
+  sha1: 3b1638f4c3b8b55ab34e88eff73e2dcdea9b6541
+  sha256: d0096db367b872506231c3cbbed4a6c6cbb58c13667c7ecca6981362f1d4a776
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.111.1 (26071913)
-  full_version: 16.111.26071913
-  last_updated: July 19, 2026
+  short_version: 16.111.0 (26071325)
+  full_version: 16.111.26071325
+  last_updated: July 13, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071913_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071913_Updater.pkg
-  sha1: b11dfaeaccbca0937595047a1d433dab0f24b77c
-  sha256: 44a94cdc49279c5c56ac56867ad8d4ede088a21113fe6978ad9a4bdbf8b3ee34
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071325_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26071325_Updater.pkg
+  sha1: c7b54b3f5c03054c3eba19fb873dfbcc8694359f
+  sha256: dcc011a405e9a493f89678eb5398033c3108c9237a6c10b093a946608377c244
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app
@@ -112,26 +112,26 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26062.0005
-  full_version: 101.26062.0005
-  last_updated: July 07, 2026
+  short_version: 101.26052.0016
+  full_version: 101.26052.0016
+  last_updated: July 09, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
-  sha1: 70b53ff3e58b10bb8158f51b92a7f8b0dcdd2ee8
-  sha256: 30be7b9f9bac4224d1fc494447491760c31c4695520e797f94a94b16ca9bf90d
+  sha1: 2e5952309eace18041d9f49d31bbd743ad794bdb
+  sha256: 7e55c94272b34477bba35739e4c899fb575feb1d21466720b0f1aadaf9566479
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26062.0005
-  full_version: 101.26062.0005
-  last_updated: July 07, 2026
+  short_version: 101.26052.0016
+  full_version: 101.26052.0016
+  last_updated: July 09, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0005_Individuals_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0005_Individuals_Installer.pkg
-  sha1: 0f13452f2869c96386cea447151c13bd91c71490
-  sha256: 2df6768151a554392e2ee3cce42c569a78c24abe1be126af81ab0e77e37ecf1f
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26052.0016_Individuals_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26052.0016_Individuals_Installer.pkg
+  sha1: N/A
+  sha256: 6a70be548d1ab303874f2993340d0b394e5e5f29799f1503211feb637d143b41
 - name: Defender Shim
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app
@@ -172,11 +172,11 @@ packages:
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app
   CFBundleVersion: com.microsoft.autoupdate
-  short_version: 4.84 (26071119)
-  full_version: 4.84.26071119
-  last_updated: July 11, 2026
+  short_version: 4.83 (26040910)
+  full_version: 4.83.26040910
+  last_updated: April 09, 2026
   min_os: '12.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.84.26071119_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.84.26071119_Updater.pkg
-  sha1: 9353cde2ce4f9535934e2afd91124b8127572b85
-  sha256: be878237348c79d03c6a8286e7b61c58265d9cc5917d1a282c25059fe46bd4a7
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg
+  sha1: a5ef1cfcc15604a45413cb20c1a70937f407b3a2
+  sha256: a307dc89adfd60c0f9d60ad869efd19e22798ec7fd11015a351378e0249325cd

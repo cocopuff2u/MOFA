@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 20, 2026 05:55 AM EDT</last_updated>
+	<last_updated>July 20, 2026 08:13 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -452,11 +452,11 @@ If Lens helps you navigate new places, a quick 5-star rating makes our season!</
 		<name>iOS Microsoft 365 Office</name>
 		<application_name>Microsoft 365 Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>July 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/76/84/22768401-8f6d-15e5-8d15-23d218407468/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/f0/cc/35f0cc51-ca9c-f54d-2653-b44a8359fd38/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.112</version>
+		<version>2.112.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>

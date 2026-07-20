@@ -1,19 +1,19 @@
 {
-    "last_updated": "July 20, 2026 05:11 PM EDT",
+    "last_updated": "July 20, 2026 06:56 PM EDT",
     "packages": [
         {
             "name": "PowerShell",
             "application_id": "N/A",
             "application_name": "PowerShell",
             "CFBundleVersion": "com.microsoft.powershell",
-            "short_version": "7.6.3",
-            "full_version": "7.6.3",
-            "last_updated": "June 16, 2026",
+            "short_version": "7.6.4",
+            "full_version": "7.6.4",
+            "last_updated": "July 20, 2026",
             "min_os": "N/A",
-            "update_download": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/powershell-7.6.3-osx-arm64.pkg",
-            "latest_download": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/powershell-7.6.3-osx-arm64.pkg",
-            "sha1": "b2c1c0ac5a620f6e7f9e092108cc3363ad9ac483",
-            "sha256": "84ec89be312a761d49bf4ec6e676355a715a01cb36b4e53cd16084e98bdac492"
+            "update_download": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-osx-arm64.pkg",
+            "latest_download": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-osx-arm64.pkg",
+            "sha1": "22ae17df9991a3daa9db0a83bebb3ec4c6da5142",
+            "sha256": "0f79ff3f9c41b110b2873b87aba65f52aaca20aeaa6dd7bc3f6920a61d5dca2f"
         },
         {
             "name": ".NET SDK 10 (LTS)",

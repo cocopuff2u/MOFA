@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 21, 2026 03:14 PM EDT</last_updated>
+	<last_updated>July 21, 2026 05:03 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>July 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/d9/ed/58d9ed95-5d71-f153-8746-fbf436314bae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 21, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/3c/c1/193cc171-211a-68b4-09e8-11bec89a5ccc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>18.5.4</version>
+		<version>18.6.5</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -89,11 +89,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>July 03, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/c4/0c/8fc40c68-7c7b-976c-4f40-4f8cb1cc378a/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/5e/8c/1c5e8c24-2259-eca8-930b-449f5e8041c3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and Improvements</releaseNotes>
-		<version>1.1.78290102</version>
+		<releaseNotes>Bug fixes and improvements</releaseNotes>
+		<version>1.1.79080103</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4</app_store_url>
 	</package>
 	<package>
@@ -419,11 +419,12 @@ If Lens helps you navigate new places, a quick 5-star rating makes our season!</
 		<name>iOS Microsoft 365 Admin</name>
 		<application_name>Microsoft 365 Admin</application_name>
 		<bundleId>com.microsoft.o365shdmobileapp</bundleId>
-		<currentVersionReleaseDate>September 05, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0d/b8/e10db871-3c82-f649-3686-5eb88efa87aa/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>July 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/33/81/ae3381f4-7438-5861-f7ee-b31d9585ba27/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>As part of this release, Admins will now receive real-time notifications on their mobile devices when Copilot license requests are submitted — enabling quicker response and streamlined license management on the go.</releaseNotes>
-		<version>5.7.2</version>
+		<releaseNotes>- Bug fixes for a more reliable experience
+- Refreshed app icon for a cleaner, more modern look</releaseNotes>
+		<version>6.0.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-365-admin/id761397963?uo=4</app_store_url>
 	</package>
 	<package>

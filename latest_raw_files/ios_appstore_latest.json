@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 21, 2026 07:53 PM EDT",
+    "last_updated": "July 21, 2026 10:13 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "July 13, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/73/ea/bb73ea76-9207-8e1b-a83e-1903b02cb2e4/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 20, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c6/8c/5bc68c14-5fdf-93b2-9467-764d5ecb5c27/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2627.0",
+            "version": "5.2628.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -258,11 +258,11 @@
             "name": "iOS Microsoft Sharepoint",
             "application_name": "Microsoft SharePoint",
             "bundleId": "com.microsoft.sharepoint",
-            "currentVersionReleaseDate": "July 21, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/f3/e1/48f3e18a-6336-610d-89f1-5219499fdf2b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "June 15, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.6",
             "releaseNotes": "Stability improvements and fixes.",
-            "version": "5.0.3",
+            "version": "5.0.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4"
         },
         {

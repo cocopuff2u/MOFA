@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 21, 2026 10:13 PM EDT",
+    "last_updated": "July 22, 2026 04:21 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -225,11 +225,11 @@
             "name": "iOS Microsoft Azure",
             "application_name": "Microsoft Azure",
             "bundleId": "com.microsoft.azure",
-            "currentVersionReleaseDate": "July 02, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/c9/73/0cc973ae-3708-3e1e-6730-8557953eac9d/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 21, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-            "version": "8.1.9",
+            "version": "8.1.10",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4"
         },
         {
@@ -258,11 +258,11 @@
             "name": "iOS Microsoft Sharepoint",
             "application_name": "Microsoft SharePoint",
             "bundleId": "com.microsoft.sharepoint",
-            "currentVersionReleaseDate": "June 15, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 21, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/f3/e1/48f3e18a-6336-610d-89f1-5219499fdf2b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.6",
             "releaseNotes": "Stability improvements and fixes.",
-            "version": "5.0.2",
+            "version": "5.0.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens: Translate & Photo Finder",
-            "bundleId": "com.searchdodo.ios",
-            "currentVersionReleaseDate": "July 14, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.6",
-            "releaseNotes": "Summer is here!\n\nReady to explore the world and translate everything on the go?\nWe\u2019ve polished the app behind the scenes to make sure your camera translations and image searches are faster and smoother than ever.\nUpdate now, join our Summer Translation event, and travel with total confidence!\n\nIf Lens helps you navigate new places, a quick 5-star rating makes our season!",
-            "version": "3.1.15",
-            "app_store_url": "https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4"
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
+            "currentVersionReleaseDate": "July 20, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/0c/a6/3d0ca6bb-b565-7345-4a55-f88fe7afbd9e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 Various improvements for smoother document editing.\n\u00b7 We're always working to make scanning and managing documents easier.",
+            "version": "7.22.0",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

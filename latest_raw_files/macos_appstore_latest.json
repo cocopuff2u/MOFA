@@ -1,26 +1,26 @@
 {
-    "last_updated": "July 21, 2026 07:53 PM EDT",
+    "last_updated": "July 21, 2026 10:13 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "July 14, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/14/86/e5148600-741a-e2b4-de38-2d91fb5d9aee/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 21, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/3a/dd/a33add0c-6dec-65a5-14a0-ddf47466bc6a/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.111",
+            "version": "16.111.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "July 21, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/e6/35/03e63525-2606-a651-ec7e-650d3c9a1060/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 14, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/ac/40/71ac4044-c53d-3746-fdf4-a83afb0e2c0d/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.111.1",
+            "version": "16.111",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4"
         },
         {

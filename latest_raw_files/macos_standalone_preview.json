@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 22, 2026 03:09 PM EDT",
+    "last_updated": "July 22, 2026 05:01 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -48,14 +48,14 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.111.0 (26071325)",
-            "full_version": "16.111.26071325",
-            "last_updated": "July 13, 2026",
+            "short_version": "16.111.1 (26071913)",
+            "full_version": "16.111.26071913",
+            "last_updated": "July 19, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071325_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071325_Updater.pkg",
-            "sha1": "3b1638f4c3b8b55ab34e88eff73e2dcdea9b6541",
-            "sha256": "d0096db367b872506231c3cbbed4a6c6cbb58c13667c7ecca6981362f1d4a776"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071913_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26071913_Updater.pkg",
+            "sha1": "0193338ed2e3c651420a6a33717d20dfbc38a033",
+            "sha256": "7cef79ed4a76919b542e39f87efc206fc7963d6304e797e128fd05a8bb9a786b"
         },
         {
             "name": "OneNote",

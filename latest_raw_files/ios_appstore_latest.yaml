@@ -1,4 +1,4 @@
-last_updated: July 22, 2026 07:58 PM EDT
+last_updated: July 22, 2026 10:24 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -313,13 +313,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: June 30, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5a/6e/fc5a6e9e-4166-895d-d0dc-c9cb4e1a2716/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: July 22, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/a4/04/5fa4049e-a823-3dd6-267c-89cb83202a59/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
       improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.50
+    version: 6.8.51
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
     application_name: Meta Ads Manager
@@ -331,15 +331,18 @@ packages:
     version: '484.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: July 20, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/0c/a6/3d0ca6bb-b565-7345-4a55-f88fe7afbd9e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Various improvements for smoother document editing.\n\xB7\
-      \ We're always working to make scanning and managing documents easier."
-    version: 7.22.0
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: 'Lens: Translate & Photo Finder'
+    bundleId: com.searchdodo.ios
+    currentVersionReleaseDate: July 14, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.6'
+    releaseNotes: "Summer is here!\n\nReady to explore the world and translate everything\
+      \ on the go?\nWe\u2019ve polished the app behind the scenes to make sure your\
+      \ camera translations and image searches are faster and smoother than ever.\n\
+      Update now, join our Summer Translation event, and travel with total confidence!\n\
+      \nIf Lens helps you navigate new places, a quick 5-star rating makes our season!"
+    version: 3.1.15
+    app_store_url: https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

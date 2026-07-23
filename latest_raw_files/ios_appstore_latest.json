@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 23, 2026 06:01 PM EDT",
+    "last_updated": "July 23, 2026 07:00 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -137,11 +137,11 @@
             "name": "iOS Microsoft Dynamics 365 Sales",
             "application_name": "Dynamics 365 Sales",
             "bundleId": "com.microsoft.dynamics.iphone.moca.sales",
-            "currentVersionReleaseDate": "July 23, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/78/a8/8b78a8df-fd80-ab2f-b345-3a560e50d824/Sales_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/fe/78/71fe7828-44a4-8773-545c-636bf4dd568c/Sales_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "security and bug fixes",
-            "version": "3.26073.4",
+            "version": "3.26073.2",
             "app_store_url": "https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4"
         },
         {
@@ -302,11 +302,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "July 17, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/5b/3d/b95b3d0b-f5f6-1e94-a1cc-865c4f9bcb2f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 23, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/74/f1/4b74f132-e861-174c-65be-a438c6ed63e5/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "484.0",
+            "version": "485.0",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {

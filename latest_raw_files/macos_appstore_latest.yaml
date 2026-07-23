@@ -1,4 +1,4 @@
-last_updated: July 22, 2026 07:58 PM EDT
+last_updated: July 22, 2026 10:24 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -30,15 +30,14 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: July 14, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/77/52/5c7752cf-160b-7614-5e2a-1308d1306ac2/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: July 21, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/b9/a1/f5b9a198-4ca2-7c59-3f0e-c8846c78b792/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
-    releaseNotes: "Feature Updates: \n\u2022 Mail: Outlook for Mac now allows users\
-      \ to edit messages held in the Outbox before they are sent. Simply open the\
-      \ queued message, make the necessary changes, and send it again.\n\u2022 Navigation:\
-      \ Left navigation rail customization is now supported. Users can pin or unpin\
-      \ modules and reorder them via drag-and-drop to match their preferred workflow."
-    version: '16.111'
+    releaseNotes: "\u2022 \tMail: Fixed an issue with rendering color in message window\
+      \ title bar.\n\u2022 \tMail: Improved performance in reading and composing large\
+      \ complex emails including those with multiple embedded Loop components.\n\u2022\
+      \ \tSearch: Fixed an issue where the search bar may become unresponsive."
+    version: 16.111.1
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote

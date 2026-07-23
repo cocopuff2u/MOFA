@@ -1,4 +1,4 @@
-last_updated: July 23, 2026 07:06 AM EDT
+last_updated: July 23, 2026 11:52 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -135,11 +135,11 @@ packages:
   - name: iOS Microsoft Dynamics 365 Sales
     application_name: Dynamics 365 Sales
     bundleId: com.microsoft.dynamics.iphone.moca.sales
-    currentVersionReleaseDate: July 13, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/fe/78/71fe7828-44a4-8773-545c-636bf4dd568c/Sales_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: July 23, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/78/a8/8b78a8df-fd80-ab2f-b345-3a560e50d824/Sales_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: security and bug fixes
-    version: 3.26073.2
+    version: 3.26073.4
     app_store_url: https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4
   - name: iOS Microsoft Lists
     application_name: Microsoft To Do

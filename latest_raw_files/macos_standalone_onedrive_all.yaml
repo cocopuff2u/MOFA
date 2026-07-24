@@ -1,5 +1,5 @@
 latest:
-  last_updated: July 24, 2026 10:51 AM EDT
+  last_updated: July 24, 2026 12:33 PM EDT
   package:
   - name: Production Ring
     short_version: 26.123.0628
@@ -47,20 +47,20 @@ latest:
     full_update_sha256: cf927ceac76bddb80cf583b60a705b1f9837283adf910a232b4e72d22ba22998
     last_updated: July 17, 2026 12:11 PM EDT
   - name: Rolling Out (Unknown Use)
-    short_version: 26.119.0622
+    short_version: 26.123.0628
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
     full_update_download: https://go.microsoft.com/fwlink/?linkid=861011
-    full_update_sha1: 3fe15d2e90479b9cf4c6b70ce0346092a5ac2201
-    full_update_sha256: ed8037715552d25538207786b36503ead1be5d5c8cd457c4cabba67df7a11e35
-    last_updated: July 13, 2026 02:12 AM EDT
+    full_update_sha1: 8f7bb1daf51753f40c4287207bb8c785817bfd20
+    full_update_sha256: cf927ceac76bddb80cf583b60a705b1f9837283adf910a232b4e72d22ba22998
+    last_updated: July 24, 2026 12:33 PM EDT
   - name: App New Version (Unknown Use)
-    short_version: 26.113.0614
+    short_version: 26.119.0622
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
     full_update_download: https://go.microsoft.com/fwlink/?linkid=823060
-    full_update_sha1: c76fb994b52455703db2a5876d174b361f18609a
-    full_update_sha256: f2fceb86f97304d57ae1b5cb2e02b3a1addedc6c68e0bc95e8b67e362b95992f
-    last_updated: July 13, 2026 02:12 AM EDT
+    full_update_sha1: 3fe15d2e90479b9cf4c6b70ce0346092a5ac2201
+    full_update_sha256: ed8037715552d25538207786b36503ead1be5d5c8cd457c4cabba67df7a11e35
+    last_updated: July 24, 2026 12:33 PM EDT

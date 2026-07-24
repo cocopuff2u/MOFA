@@ -1,6 +1,6 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "July 23, 2026 07:01 PM EDT",
+        "last_updated": "July 23, 2026 08:01 PM EDT",
         "Version": [
             {
                 "Name": "current",
@@ -11,7 +11,7 @@
                 "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7cc18f6a-5748-466f-94da-a333ade19dd6/MicrosoftEdge-150.0.4078.96.pkg",
                 "Full_Update_Sha1": "55585a399e7d933f61cce96b16870f43015daa19",
                 "Full_Update_Sha256": "fd44cf2baf74d0b7eddc964770218fef6b92c9cb39c437a404ca05697f7cc32f",
-                "Last_Update": "July 23, 2026 06:59 PM EDT"
+                "Last_Update": "July 23, 2026 07:01 PM EDT"
             },
             {
                 "Name": "canary",

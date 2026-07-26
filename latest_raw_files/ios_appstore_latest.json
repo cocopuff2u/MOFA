@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 26, 2026 01:57 AM EDT",
+    "last_updated": "July 26, 2026 04:20 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -181,11 +181,11 @@
             "name": "iOS Microsoft Whiteboard",
             "application_name": "Whiteboard: just draw together",
             "bundleId": "com.jimschultz.WhiteBoard",
-            "currentVersionReleaseDate": "June 07, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/12/20/cf12204a-2b70-d7d2-3fcb-bb3ed1e2030f/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 25, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/ca/19/c0ca1945-8d1a-8d48-04b5-e9c41fd684f1/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.6",
-            "releaseNotes": "Thanks everyone for using Whiteboard. Here's what's new in this version :) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Fixed crash in Messages\n* Improved launch time\n* Improved error reporting\n* Improved drawing board loading and rendering\n\n\n2.0 Additions and Improvements\n* Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n* Introducing Creator Kit, get the most out of Whiteboard and support Indie development\n* Now you can zoom in and out on drawings and images!\n* Scroll around in freedom on the all new, expansive, drawing board.\n* Autorotate from portrait to landscape and back, or you can choose to lock orientation.\n* Drawing library, open and continue working on your recent drawings.\n* Add new drawing button, create a new drawing anytime.\n* Significant performance and stability improvements\n* Adds lock for drawing board zoom/pan/scroll\n* Many more exciting things are coming\n* Stay tuned\n\n- Jim\n\nIssues, questions or suggestions?\n\u2022 jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022 Please subscribe to Creator Kit to help support development\n\u2022 Please rate the app 5 stars so more people find it\n\u2022 Please share Whiteboard with a friend or family member to help get the word out.\n\u2022 Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard.",
-            "version": "2.7.1",
+            "releaseNotes": "Thanks everyone for using Whiteboard. Here's what's new in this version :) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Smoother editing and faster saves for large drawings\n* Faster drawing library loading\n* Photo picker opens faster\n* Creator Kit unlocks more reliably after purchase\n\n\n2.0 Additions and Improvements\n* Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n* Introducing Creator Kit, get the most out of Whiteboard and support Indie development\n* Now you can zoom in and out on drawings and images!\n* Scroll around in freedom on the all new, expansive, drawing board.\n* Autorotate from portrait to landscape and back, or you can choose to lock orientation.\n* Drawing library, open and continue working on your recent drawings.\n* Add new drawing button, create a new drawing anytime.\n* Significant performance and stability improvements\n* Adds lock for drawing board zoom/pan/scroll\n* Many more exciting things are coming\n* Stay tuned\n\n- Jim\n\nIssues, questions or suggestions?\n\u2022 jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022 Please subscribe to Creator Kit to help support development\n\u2022 Please rate the app 5 stars so more people find it\n\u2022 Please share Whiteboard with a friend or family member to help get the word out.\n\u2022 Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard.",
+            "version": "2.8.0",
             "app_store_url": "https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4"
         },
         {
@@ -302,11 +302,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "July 23, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/74/f1/4b74f132-e861-174c-65be-a438c6ed63e5/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 25, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/b6/51/7cb6517b-adcf-68e7-bb3b-958c71c77ad6/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "485.0",
+            "version": "485.1",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {

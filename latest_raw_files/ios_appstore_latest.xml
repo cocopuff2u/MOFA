@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>July 26, 2026 04:20 AM EDT</last_updated>
+	<last_updated>July 26, 2026 06:41 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -202,16 +202,16 @@ On-premises – Fixed issues affecting on-premises deployments on iOS.</releaseN
 		<name>iOS Microsoft Whiteboard</name>
 		<application_name>Whiteboard: just draw together</application_name>
 		<bundleId>com.jimschultz.WhiteBoard</bundleId>
-		<currentVersionReleaseDate>July 25, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/ca/19/c0ca1945-8d1a-8d48-04b5-e9c41fd684f1/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>June 07, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/12/20/cf12204a-2b70-d7d2-3fcb-bb3ed1e2030f/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.6</minimumOsVersion>
 		<releaseNotes>Thanks everyone for using Whiteboard. Here's what's new in this version :) Please keep the feedback coming y'all! Enjoy.
 
 CHANGELOG
-* Smoother editing and faster saves for large drawings
-* Faster drawing library loading
-* Photo picker opens faster
-* Creator Kit unlocks more reliably after purchase
+* Fixed crash in Messages
+* Improved launch time
+* Improved error reporting
+* Improved drawing board loading and rendering
 
 
 2.0 Additions and Improvements
@@ -239,7 +239,7 @@ Like Whiteboard?
 • Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.
 • Please subscribe to my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw
 • Please send me your Whiteboard drawings on Instagram @getwhiteboard.</releaseNotes>
-		<version>2.8.0</version>
+		<version>2.7.1</version>
 		<app_store_url>https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,4 +1,4 @@
-last_updated: July 28, 2026 05:03 PM EDT
+last_updated: July 28, 2026 06:11 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -74,16 +74,16 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.111.1 (26071913)
-  full_version: 16.111.26071913
-  last_updated: July 19, 2026
+  short_version: 16.111.2 (26072617)
+  full_version: 16.111.26072617
+  last_updated: July 26, 2026
   min_os: '14.0'
-  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.111.26071913_Updater.pkg
-  app_update_sha1: 0193338ed2e3c651420a6a33717d20dfbc38a033
-  app_update_sha256: 7cef79ed4a76919b542e39f87efc206fc7963d6304e797e128fd05a8bb9a786b
+  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.111.26072617_Updater.pkg
+  app_update_sha1: 22ba6c32e424c4845d910d127586dd850699f380
+  app_update_sha256: f7a1ed3e6fefa7258f52ca5e746cfa531255c9a78c78a3f84790f4aa091c8878
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2228621
-  full_update_sha1: 0193338ed2e3c651420a6a33717d20dfbc38a033
-  full_update_sha256: 7cef79ed4a76919b542e39f87efc206fc7963d6304e797e128fd05a8bb9a786b
+  full_update_sha1: 22ba6c32e424c4845d910d127586dd850699f380
+  full_update_sha256: f7a1ed3e6fefa7258f52ca5e746cfa531255c9a78c78a3f84790f4aa091c8878
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app

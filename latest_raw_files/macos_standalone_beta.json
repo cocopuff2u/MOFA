@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 28, 2026 01:44 PM EDT",
+    "last_updated": "July 28, 2026 03:17 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -174,11 +174,11 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code - Insiders.app",
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
-            "short_version": "1.131.0-",
-            "full_version": "1.131.0-insider",
+            "short_version": "1.132.0-",
+            "full_version": "1.132.0-insider",
             "last_updated": "July 28, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/e4c7e7b1d6d060162f4aa7f8225271b67ce1df75/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/9b51cf9b8ca8c8ae09c409d9a9f3adf91019fb34/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"
@@ -216,14 +216,14 @@
             "application_id": "N/A",
             "application_name": "Windows App Beta.app",
             "CFBundleVersion": "com.microsoft.windows.app",
-            "short_version": "11.3.8",
-            "full_version": "11.3.8",
-            "last_updated": "July 05, 2026",
+            "short_version": "11.3.9",
+            "full_version": "11.3.9",
+            "last_updated": "July 27, 2026",
             "min_os": "N/A",
-            "update_download": "https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/5032dcf2-42a8-4f25-9991-092a83b53153/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=EGBI1iULGXgyRzfq7OD543yIU8Mhmc%2B1k5Ooj7awrI0%3D&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-07-05T07%3A26%3A18Z&ske=2026-07-06T07%3A31%3A18Z&sks=b&skv=2019-07-07&se=2026-07-06T07%3A31%3A18Z&sp=r",
-            "latest_download": "https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/5032dcf2-42a8-4f25-9991-092a83b53153/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=EGBI1iULGXgyRzfq7OD543yIU8Mhmc%2B1k5Ooj7awrI0%3D&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-07-05T07%3A26%3A18Z&ske=2026-07-06T07%3A31%3A18Z&sks=b&skv=2019-07-07&se=2026-07-06T07%3A31%3A18Z&sp=r",
-            "sha1": "bf4064514aabd9c6f561a758f6f363c86cefa74c",
-            "sha256": "6fc0f7d1173b235979e086a6e9af67960e9fb0fab14c2f355a950c794df6809f"
+            "update_download": "https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/09b2f511-4de7-4b87-a64c-9bf2e94f64c4/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=M0nQWp8WiVZlfx7ZR5kgvlXEmgyVhDWmJSKrAc7FOvc%3D&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-07-28T16%3A31%3A56Z&ske=2026-07-29T16%3A36%3A56Z&sks=b&skv=2019-07-07&se=2026-07-29T16%3A36%3A56Z&sp=r",
+            "latest_download": "https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/09b2f511-4de7-4b87-a64c-9bf2e94f64c4/Windows%20App%20Beta.app.zip?sv=2019-07-07&sr=c&sig=M0nQWp8WiVZlfx7ZR5kgvlXEmgyVhDWmJSKrAc7FOvc%3D&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-07-28T16%3A31%3A56Z&ske=2026-07-29T16%3A36%3A56Z&sks=b&skv=2019-07-07&se=2026-07-29T16%3A36%3A56Z&sp=r",
+            "sha1": "f6bf2c0bdd68a792498d78c9538e0394a8679641",
+            "sha256": "a5636128395f07c857eb260ce44c7ea386df114aacb4f6468c0ca5353de9d630"
         }
     ]
 }

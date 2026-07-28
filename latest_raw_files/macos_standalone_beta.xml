@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>July 28, 2026 01:44 PM EDT</last_updated>
+    <last_updated>July 28, 2026 03:17 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -174,11 +174,11 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code - Insiders.app</application_name>
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
-        <short_version>1.131.0-</short_version>
-        <full_version>1.131.0-insider</full_version>
+        <short_version>1.132.0-</short_version>
+        <full_version>1.132.0-insider</full_version>
         <last_updated>July 28, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/e4c7e7b1d6d060162f4aa7f8225271b67ce1df75/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/9b51cf9b8ca8c8ae09c409d9a9f3adf91019fb34/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>
@@ -216,13 +216,13 @@
         <application_id>N/A</application_id>
         <application_name>Windows App Beta.app</application_name>
         <CFBundleVersion>com.microsoft.windows.app</CFBundleVersion>
-        <short_version>11.3.8</short_version>
-        <full_version>11.3.8</full_version>
-        <last_updated>July 05, 2026</last_updated>
+        <short_version>11.3.9</short_version>
+        <full_version>11.3.9</full_version>
+        <last_updated>July 27, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/5032dcf2-42a8-4f25-9991-092a83b53153/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=EGBI1iULGXgyRzfq7OD543yIU8Mhmc%2B1k5Ooj7awrI0%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-07-05T07%3A26%3A18Z&amp;ske=2026-07-06T07%3A31%3A18Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-07-06T07%3A31%3A18Z&amp;sp=r</update_download>
-        <latest_download>https://appcenter-filemanagement-distrib3ede6f06e-h5anddcdhqfxdafd.z01.azurefd.net/5032dcf2-42a8-4f25-9991-092a83b53153/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=EGBI1iULGXgyRzfq7OD543yIU8Mhmc%2B1k5Ooj7awrI0%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-07-05T07%3A26%3A18Z&amp;ske=2026-07-06T07%3A31%3A18Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-07-06T07%3A31%3A18Z&amp;sp=r</latest_download>
-        <sha1>bf4064514aabd9c6f561a758f6f363c86cefa74c</sha1>
-        <sha256>6fc0f7d1173b235979e086a6e9af67960e9fb0fab14c2f355a950c794df6809f</sha256>
+        <update_download>https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/09b2f511-4de7-4b87-a64c-9bf2e94f64c4/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=M0nQWp8WiVZlfx7ZR5kgvlXEmgyVhDWmJSKrAc7FOvc%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-07-28T16%3A31%3A56Z&amp;ske=2026-07-29T16%3A36%3A56Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-07-29T16%3A36%3A56Z&amp;sp=r</update_download>
+        <latest_download>https://appcenter-filemanagement-distrib2ede6f06e-gnhah4hfatgph4dr.z01.azurefd.net/09b2f511-4de7-4b87-a64c-9bf2e94f64c4/Windows%20App%20Beta.app.zip?sv=2019-07-07&amp;sr=c&amp;sig=M0nQWp8WiVZlfx7ZR5kgvlXEmgyVhDWmJSKrAc7FOvc%3D&amp;skoid=05571020-ed2f-4af9-8176-0df11ddebe41&amp;sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&amp;skt=2026-07-28T16%3A31%3A56Z&amp;ske=2026-07-29T16%3A36%3A56Z&amp;sks=b&amp;skv=2019-07-07&amp;se=2026-07-29T16%3A36%3A56Z&amp;sp=r</latest_download>
+        <sha1>f6bf2c0bdd68a792498d78c9538e0394a8679641</sha1>
+        <sha256>a5636128395f07c857eb260ce44c7ea386df114aacb4f6468c0ca5353de9d630</sha256>
     </package>
 </latest>

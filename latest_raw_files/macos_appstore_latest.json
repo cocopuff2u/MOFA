@@ -1,37 +1,37 @@
 {
-    "last_updated": "July 29, 2026 01:47 AM EDT",
+    "last_updated": "July 29, 2026 04:33 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "July 21, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/3a/dd/a33add0c-6dec-65a5-14a0-ddf47466bc6a/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/9a/92/919a92d9-ef0d-e80a-91a8-31d0956169c7/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.111.1",
+            "version": "16.111.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Excel",
             "application_name": "Microsoft Excel",
             "bundleId": "com.microsoft.Excel",
-            "currentVersionReleaseDate": "July 21, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/e6/35/03e63525-2606-a651-ec7e-650d3c9a1060/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/a1/89/d4a18912-d47d-35f7-5266-95e3d7b727da/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.111.1",
+            "version": "16.111.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "July 21, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/46/0e/bf460e96-3c27-e2b9-67dc-47a61c510c58/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/0a/69/1a0a69f9-6903-9033-ae2a-ebd3c1f91d4c/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.111.1",
+            "version": "16.111.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {
@@ -49,11 +49,11 @@
             "name": "MacOS Microsoft OneNote",
             "application_name": "Microsoft OneNote",
             "bundleId": "com.microsoft.onenote.mac",
-            "currentVersionReleaseDate": "July 21, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/64/57a264d7-c93e-f429-06ee-dd82f21ee25d/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/8f/8f/748f8fe0-90cb-4e10-52f7-d7a9cdcb4d28/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "This month\u2019s update is bug fixes only.\n\nThanks for using OneNote! We listened to your feedback and updated the application with optimizations to help improve your note taking experience. \n \nHaving trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.\nHave an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback",
-            "version": "16.111.1",
+            "version": "16.111.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4"
         },
         {
@@ -82,11 +82,11 @@
             "name": "MacOS Microsoft Windows App",
             "application_name": "Windows App",
             "bundleId": "com.microsoft.rdc.macos",
-            "currentVersionReleaseDate": "June 29, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/48/06/dd480661-3a03-60fb-bfeb-5ce84b615d0f/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 27, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/cf/1c/9acf1caf-3c38-1993-ecfb-c6a5b30c8d3a/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added a new Personalization section (under Settings) to customize how the app looks and feels.\n\u2022 Updated the Quick Launcher to make it detachable, resizable and independent from the Connection Center lifetime.\n\u2022 Moved the Search control from the sidebar to the toolbar, and reordered the toolbar items.\n\u2022 Updated the First Run Experience and permission request dialogs.\n\u2022 Resolved an issue where tab navigation on the sidebar wasn't working after the app was launched.\n\u2022 Corrected default device card thumbnail aspect ratios that could become distorted after resizing the Connection Center.\n\u2022 Fixed a bug that caused the Settings dialog to not open in the current active space.\n\u2022 Adjusted the default size of the Connection Center for macOS 26+.\n\u2022 Optimized device card thumbnail rendering performance in the Connection Center.\n\u2022 Improved app responsiveness by coalescing workspace update-triggered UI refreshes.\n\u2022 Made updates to improve Continuous Access Evaluation (CAE) scenarios for AVD and Windows 365.\n\u2022 Resolved app crashes and hangs.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
-            "version": "11.3.7",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Resolved an issue that prevented screen sharing from taking place when using Teams optimizations.\n\u2022 Fixed a bug that caused the \"Connection Information\" menu item to not appear when expected.\n\u2022 Made updates to ensure that app windows alway honor the assigned desktop (versus always opening in the current desktop).\n\u2022 Addressed reported bugs and crashes.\n\nIf you encounter any errors, you can contact us via Help > Submit Feedback.",
+            "version": "11.3.8",
             "app_store_url": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&uo=4"
         },
         {

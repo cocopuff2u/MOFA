@@ -1,4 +1,4 @@
-last_updated: July 29, 2026 11:49 AM EDT
+last_updated: July 29, 2026 01:15 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -112,9 +112,9 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26062.0005
-  full_version: 101.26062.0005
-  last_updated: July 07, 2026
+  short_version: 101.26062.0009
+  full_version: 101.26062.0009
+  last_updated: July 22, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg
@@ -160,14 +160,14 @@ packages:
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app
   CFBundleVersion: com.microsoft.m365copilot
-  short_version: 1.2607 (1302)
-  full_version: 1.2607.1302
-  last_updated: July 13, 2026
+  short_version: 1.2607 (2001)
+  full_version: 1.2607.2001
+  last_updated: July 20, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.1302_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.1302_Updater.pkg
-  sha1: d810843b20570e0a913da4035ba0d4b49f08b9aa
-  sha256: d09f9d69bb6bebf89a35c4e0acc6ca6947285b3b13bc399b6d9f7b4d8aa0590d
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2001_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2001_Updater.pkg
+  sha1: d543624d7f567e1d6b9611c000be0f291fa25d11
+  sha256: 9bce3b4f5c20129ddb4ce890e9f83af025303142c02acaebbc3978ed471b3e75
 - name: MAU
   application_id: MSau04
   application_name: Microsoft AutoUpdate.app

@@ -1,4 +1,4 @@
-last_updated: July 29, 2026 01:47 AM EDT
+last_updated: July 29, 2026 04:33 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -42,15 +42,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: July 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/00/ce/0f00ce3f-844b-7e86-941a-e6ed1d7bbf80/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/54/56/c35456fa-40e1-a889-9ab6-bdff1ed3389e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.112.1
+    version: 16.112.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
@@ -304,11 +304,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: July 21, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/6f/68/876f686c-95a6-b89c-4260-7d2e7e5b5721/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: July 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/02/46/c0024655-4df4-5cd6-edb6-f14c6d1a5efe/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.26072.5
+    version: 3.26073.7
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator

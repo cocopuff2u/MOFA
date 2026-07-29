@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 29, 2026 01:11 PM EDT",
+    "last_updated": "July 29, 2026 03:08 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "July 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/20/23/4c202315-57e2-025f-84da-fc99efa62d04/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "July 21, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/b9/a1/f5b9a198-4ca2-7c59-3f0e-c8846c78b792/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.111.2",
+            "releaseNotes": "\u2022 \tMail: Fixed an issue with rendering color in message window title bar.\n\u2022 \tMail: Improved performance in reading and composing large complex emails including those with multiple embedded Loop components.\n\u2022 \tSearch: Fixed an issue where the search bar may become unresponsive.",
+            "version": "16.111.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {

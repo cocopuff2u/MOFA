@@ -1,4 +1,4 @@
-last_updated: July 30, 2026 11:49 AM EDT
+last_updated: July 30, 2026 01:22 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -64,13 +64,21 @@ packages:
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
     bundleId: com.microsoft.rdc.ios
-    currentVersionReleaseDate: June 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f5/9e/39f59e3f-5392-b524-cb2f-fc642ebca3ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/85/a9/a685a954-fe7d-4fd8-fbe9-3f32988a984a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: It's time to clean house and fix some bugs! This update includes
-      fixes for issues reported by users and internal telemetry. If you encounter
-      any errors, you can contact us via Settings > Submit Feedback.
-    version: 11.3.2
+    releaseNotes: "In this release we made the following updates:\n\n\u2022 Updated\
+      \ and improved Liquid Glass styling and elements throughout the app.\n\u2022\
+      \ Modernized and refreshed the app settings UI.\n\u2022 Reworked the extended\
+      \ keys and auxiliary keyboard UI.\n\u2022 Improved the in-session connection\
+      \ bar experience.\n\u2022 Made updates to improve Continuous Access Evaluation\
+      \ (CAE) scenarios for AVD and Windows 365.\n\u2022 Resolved issues with RemoteApp\
+      \ auto-reconnect scenarios.\n\u2022 Addressed a bug that caused Connection Center\
+      \ thumbnail images to float out of place.\n\u2022 Resolved UDP connectivity\
+      \ issues encountered when connecting to AVD and Windows 365 endpoints.\n\u2022\
+      \ Fixed accessibility bugs.\n\u2022 Addressed reported bugs and crashes.\n\n\
+      If you encounter any errors, you can contact us via Settings > Submit Feedback."
+    version: 11.3.3
     app_store_url: https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
@@ -277,11 +285,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: July 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/34/72/b834723b-fd28-a775-f0d3-20e3f7136f15/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/bf/ba/19bfba23-892d-efbb-9d87-62399492a38a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.13.0
+    version: 8.13.1
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
@@ -388,14 +396,17 @@ packages:
     version: 2.1.4
     app_store_url: https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft 365 Copilot
-    bundleId: com.microsoft.officemobile
+    application_name: Microsoft Outlook
+    bundleId: com.microsoft.Office.Outlook
     currentVersionReleaseDate: July 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/f6/32/b8f632dc-cd55-bb53-fcef-34fc72414af3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/85/c4/0f85c4c6-8a52-7052-c149-c516e37dbab6/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.112.2
-    app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
+    releaseNotes: "This update includes performance improvements and bug fixes to\
+      \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
+      \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
+      \ you."
+    version: 5.2629.0
+    app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

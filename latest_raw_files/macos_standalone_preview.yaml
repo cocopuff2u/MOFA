@@ -1,4 +1,4 @@
-last_updated: July 30, 2026 03:19 PM EDT
+last_updated: July 30, 2026 05:04 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -150,9 +150,9 @@ packages:
   CFBundleVersion: com.microsoft.VSCodeInsiders
   short_version: 1.132.0-
   full_version: 1.132.0-insider
-  last_updated: July 29, 2026
+  last_updated: July 30, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/54917b34eaaeeec2b294c43d691fc6c1e4b86c89/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/eb7a00caa262f7fd09c6445c43d4adc445e50086/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

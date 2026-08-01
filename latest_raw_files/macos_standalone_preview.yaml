@@ -1,4 +1,4 @@
-last_updated: July 31, 2026 07:58 PM EDT
+last_updated: July 31, 2026 10:27 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -16,26 +16,26 @@ packages:
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.111.2 (26072617)
-  full_version: 16.111.26072617
-  last_updated: July 26, 2026
-  min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26072617_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26072617_Updater.pkg
-  sha1: 954cc66913e53463ec8c3b75092152bbf5074b53
-  sha256: 51ac6410b62e4076233985cf9072842dd2f6976231471bbec250974445620e10
-- name: PowerPoint
-  application_id: PPT32019
-  application_name: Microsoft PowerPoint.app
-  CFBundleVersion: com.microsoft.powerpoint
   short_version: 16.111.1 (26071913)
   full_version: 16.111.26071913
   last_updated: July 19, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.111.26071913_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.111.26071913_Updater.pkg
-  sha1: 15471f50adb999da4d213257fcdd45ec39ea00a4
-  sha256: 70c30a4abaa876294eeb1fc6f5babde3bd220321f91b470ed653ae7f373e7c98
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26071913_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.111.26071913_Updater.pkg
+  sha1: 9340a0cb7b6112fa51dee905a0074a3814213d0d
+  sha256: e156946a6b1e41eb416a0c37484a3247e42c1eddeafe22477b9ea613390337f0
+- name: PowerPoint
+  application_id: PPT32019
+  application_name: Microsoft PowerPoint.app
+  CFBundleVersion: com.microsoft.powerpoint
+  short_version: 16.111.2 (26072617)
+  full_version: 16.111.26072617
+  last_updated: July 26, 2026
+  min_os: '14.0'
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.111.26072617_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.111.26072617_Updater.pkg
+  sha1: 454b555e346d1895faef4e9133259d7afc09a8c3
+  sha256: 5cf81eb2dc5221545fd8d9222467bea975882bfd2a43d7825f977bbbcf672332
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
@@ -112,14 +112,14 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26062.0009
-  full_version: 101.26062.0009
-  last_updated: July 22, 2026
+  short_version: 101.26062.0005
+  full_version: 101.26062.0005
+  last_updated: July 07, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
-  sha1: 5f7e9aa7350eac6207a2929f1ff535a45685f7a7
-  sha256: 03022785a1957518b6a3812a2655e4c50547b789d948ca0c7e22144bfc1e2dc6
+  sha1: N/A
+  sha256: N/A
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app

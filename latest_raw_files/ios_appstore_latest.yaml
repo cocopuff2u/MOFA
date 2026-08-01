@@ -1,4 +1,4 @@
-last_updated: August 01, 2026 06:38 AM EDT
+last_updated: August 01, 2026 08:00 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -294,11 +294,11 @@ packages:
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: August 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/3b/34/4b3b3473-e37a-5320-76a6-d9e2bae2166a/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 21, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/f3/e1/48f3e18a-6336-610d-89f1-5219499fdf2b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.6'
     releaseNotes: Stability improvements and fixes.
-    version: 5.0.4
+    version: 5.0.3
     app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Business Central
     application_name: Dynamics 365 Business Central
@@ -332,11 +332,11 @@ packages:
   - name: iOS Microsoft Advertising
     application_name: Meta Ads Manager
     bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: July 31, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/8c/58/618c58c8-37d6-b356-1255-2ab892de9ce4/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/b6/51/7cb6517b-adcf-68e7-bb3b-958c71c77ad6/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.1'
     releaseNotes: Bug fixes and performance updates
-    version: '486.0'
+    version: '485.1'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Lens: Translate & Photo Finder'

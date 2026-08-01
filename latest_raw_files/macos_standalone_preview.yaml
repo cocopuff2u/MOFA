@@ -1,4 +1,4 @@
-last_updated: August 01, 2026 09:21 AM EDT
+last_updated: August 01, 2026 10:56 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -112,9 +112,9 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26062.0005
-  full_version: 101.26062.0005
-  last_updated: July 07, 2026
+  short_version: 101.26062.0009
+  full_version: 101.26062.0009
+  last_updated: July 22, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
@@ -124,14 +124,14 @@ packages:
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26062.0005
-  full_version: 101.26062.0005
-  last_updated: July 07, 2026
+  short_version: 101.26062.0009
+  full_version: 101.26062.0009
+  last_updated: July 22, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0005_Individuals_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0005_Individuals_Installer.pkg
-  sha1: N/A
-  sha256: 2df6768151a554392e2ee3cce42c569a78c24abe1be126af81ab0e77e37ecf1f
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0009_Individuals_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0009_Individuals_Installer.pkg
+  sha1: fdffd306fcf8b268d5ac751c2aedab3a58a30800
+  sha256: 66313d49f10fc9889d19d8b3c6563af551da6874160063a79c3054e99a52fe66
 - name: Defender Shim
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app

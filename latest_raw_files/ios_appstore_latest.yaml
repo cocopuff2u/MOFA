@@ -1,4 +1,4 @@
-last_updated: August 01, 2026 10:25 PM EDT
+last_updated: August 02, 2026 01:52 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -294,11 +294,11 @@ packages:
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: July 21, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/f3/e1/48f3e18a-6336-610d-89f1-5219499fdf2b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/3b/34/4b3b3473-e37a-5320-76a6-d9e2bae2166a/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.6'
     releaseNotes: Stability improvements and fixes.
-    version: 5.0.3
+    version: 5.0.4
     app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Business Central
     application_name: Dynamics 365 Business Central
@@ -339,18 +339,15 @@ packages:
     version: '486.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Lens: Translate & Photo Finder'
-    bundleId: com.searchdodo.ios
-    currentVersionReleaseDate: July 14, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.6'
-    releaseNotes: "Summer is here!\n\nReady to explore the world and translate everything\
-      \ on the go?\nWe\u2019ve polished the app behind the scenes to make sure your\
-      \ camera translations and image searches are faster and smoother than ever.\n\
-      Update now, join our Summer Translation event, and travel with total confidence!\n\
-      \nIf Lens helps you navigate new places, a quick 5-star rating makes our season!"
-    version: 3.1.15
-    app_store_url: https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: July 31, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/68/74/106874a7-a251-1417-a7b5-86b65ed08c5f/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 Various improvements for smoother document editing.\n\xB7\
+      \ We're always working to make scanning and managing documents easier."
+    version: 7.22.5
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

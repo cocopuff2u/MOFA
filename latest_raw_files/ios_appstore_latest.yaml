@@ -1,4 +1,4 @@
-last_updated: August 04, 2026 03:25 PM EDT
+last_updated: August 04, 2026 05:07 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -170,12 +170,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: August 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/69/1f/f8691f89-633f-9da7-9a6d-596aee40aa1e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: July 27, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/2e/72/fd2e72c5-6384-5714-8891-9dce6bd4e2ca/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.6'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 11.50.0
+    version: 11.49.0
     app_store_url: https://apps.apple.com/us/app/viva-engage/id289559439?uo=4
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'
@@ -339,14 +339,18 @@ packages:
     version: '486.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: Lens - PDF Scanner and Editor
-    bundleId: com.Scantera593thzp.app
-    currentVersionReleaseDate: July 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/36/91/0c36918d-aa5a-20f6-1ac7-f46f37900ec0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
-    releaseNotes: More AI. More Productivity.
-    version: 1.3.1
-    app_store_url: https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4
+    application_name: 'Lens: Translate & Photo Finder'
+    bundleId: com.searchdodo.ios
+    currentVersionReleaseDate: July 14, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.6'
+    releaseNotes: "Summer is here!\n\nReady to explore the world and translate everything\
+      \ on the go?\nWe\u2019ve polished the app behind the scenes to make sure your\
+      \ camera translations and image searches are faster and smoother than ever.\n\
+      Update now, join our Summer Translation event, and travel with total confidence!\n\
+      \nIf Lens helps you navigate new places, a quick 5-star rating makes our season!"
+    version: 3.1.15
+    app_store_url: https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

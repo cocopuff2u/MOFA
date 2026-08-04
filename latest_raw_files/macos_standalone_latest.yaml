@@ -1,4 +1,4 @@
-last_updated: August 04, 2026 06:58 PM EDT
+last_updated: August 04, 2026 07:59 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -32,16 +32,16 @@ packages:
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.111.2 (26072617)
-  full_version: 16.111.26072617
-  last_updated: July 26, 2026
+  short_version: 16.111.3 (26080215)
+  full_version: 16.111.26080215
+  last_updated: August 02, 2026
   min_os: '14.0'
-  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.111.26072617_Updater.pkg
-  app_update_sha1: 7c74714eec9bf144cbb652dd98caad9be4000c41
-  app_update_sha256: 93f57b6d75dc8a1f085dc5055aac85f617c64f0ca0e2fa93514ee41bb3e1adbe
+  app_only_update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.111.26080215_Updater.pkg
+  app_update_sha1: 4d531b51366dfd9acb2e190b3717ba9507737960
+  app_update_sha256: cd92bb0761e55ccc6cd1271acabaad12184219dc327a64baebcaba797283e1d4
   full_update_download: https://go.microsoft.com/fwlink/?linkid=525134
-  full_update_sha1: 59a85d6c14d17fb8c0f0c2532c94ad0fd43673da
-  full_update_sha256: db5c3c4383f9ba66403e398923f6241951ba358e1c25391692a8e8051a9fc11f
+  full_update_sha1: 421ad53e19fc34c91791013702394bf56d818df8
+  full_update_sha256: 6dd81d88bddeda465a067d56946ad1f55f10743f81c6a86eec44461859503449
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app

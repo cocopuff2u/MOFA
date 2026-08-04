@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 04, 2026 12:09 AM EDT",
+    "last_updated": "August 04, 2026 03:34 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -246,16 +246,16 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2607 (2001)",
-            "full_version": "1.2607.2001",
-            "last_updated": "July 20, 2026",
+            "short_version": "1.2607 (2701)",
+            "full_version": "1.2607.2701",
+            "last_updated": "July 27, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2001_Updater.pkg",
-            "app_update_sha1": "d543624d7f567e1d6b9611c000be0f291fa25d11",
-            "app_update_sha256": "9bce3b4f5c20129ddb4ce890e9f83af025303142c02acaebbc3978ed471b3e75",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2701_Updater.pkg",
+            "app_update_sha1": "8f6486d77c03545fed3c3e7860e8a070f68ad53e",
+            "app_update_sha256": "dc3e8ac09d9266ac078017ec7b6b2451e0b7b5949f34f09363b8412beabe7dd8",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2325438",
-            "full_update_sha1": "e3102afbf42a45391534df851e0d74f5e635be9c",
-            "full_update_sha256": "b82a89bc3854db5aeae6e1ec2afea84f8a0643581b1a9124533a3930e05898f6"
+            "full_update_sha1": "d6283a81ad4cb8ee95445213e467d100ce584b24",
+            "full_update_sha256": "9fc64b6a970c647dd64114a876e254adc78057a05e4402ab7c3f8729e41671b3"
         },
         {
             "name": "MAU",

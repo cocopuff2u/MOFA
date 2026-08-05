@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 05, 2026 01:42 AM EDT</last_updated>
+    <last_updated>August 05, 2026 04:29 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.111.3 (26080215)</short_version>
-        <full_version>16.111.26080215</full_version>
-        <last_updated>August 02, 2026</last_updated>
+        <short_version>16.111.2 (26072617)</short_version>
+        <full_version>16.111.26072617</full_version>
+        <last_updated>July 26, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26080215_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26080215_Updater.pkg</latest_download>
-        <sha1>4d531b51366dfd9acb2e190b3717ba9507737960</sha1>
-        <sha256>cd92bb0761e55ccc6cd1271acabaad12184219dc327a64baebcaba797283e1d4</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26072617_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26072617_Updater.pkg</latest_download>
+        <sha1>7c74714eec9bf144cbb652dd98caad9be4000c41</sha1>
+        <sha256>93f57b6d75dc8a1f085dc5055aac85f617c64f0ca0e2fa93514ee41bb3e1adbe</sha256>
     </package>
     <package>
         <name>Excel</name>
@@ -178,7 +178,7 @@
         <full_version>1.133.0-insider</full_version>
         <last_updated>August 05, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/121da1b979f117fbf4ccdd2935bbe30b123fa543/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/d90b90332515fe87d3ea344cbd4b0ae405128e9a/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

@@ -1,13 +1,13 @@
-last_updated: August 05, 2026 09:58 AM EDT
+last_updated: August 05, 2026 11:59 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Word
-    currentVersionReleaseDate: August 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/af/71/4aaf717e-a016-8927-32b5-45208c9a3da7/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: July 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/9a/92/919a92d9-ef0d-e80a-91a8-31d0956169c7/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.111.3
+    version: 16.111.2
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
@@ -30,24 +30,24 @@ packages:
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: August 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/0e/ce/ad0ece5a-87d0-8180-126a-d15c8fef4157/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: July 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/20/23/4c202315-57e2-025f-84da-fc99efa62d04/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.111.3
+    version: 16.111.2
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: August 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/57/60/93576002-2468-3446-7abb-83cc8d341671/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: July 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/8f/8f/748f8fe0-90cb-4e10-52f7-d7a9cdcb4d28/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.111.3
+    version: 16.111.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive

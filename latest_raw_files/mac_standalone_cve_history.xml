@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <Updates>
-    <last_scan_date>August 04, 2026 10:24 PM EDT</last_scan_date>
+    <last_scan_date>August 05, 2026 01:42 AM EDT</last_scan_date>
+    <Update>
+        <Date>August 04, 2026</Date>
+        <Version>Version 16.111.3 (Build 26080215)</Version>
+        <SecurityUpdates>
+            <Application>
+                <Name>N/A</Name>
+                <CVE>N/A</CVE>
+                <URL>N/A</URL>
+            </Application>
+        </SecurityUpdates>
+    </Update>
     <Update>
         <Date>July 28, 2026</Date>
         <Version>Version 16.111.2 (Build 26072617)</Version>

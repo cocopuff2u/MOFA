@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 05, 2026 07:56 PM EDT",
+    "last_updated": "August 05, 2026 10:10 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "CamScanner - PDF Scanner App",
-            "bundleId": "com.intsig.CamScannerLite",
-            "currentVersionReleaseDate": "August 04, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/31/c5/0b31c5d4-45b5-d870-a82c-4ce1632be739/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "13.0",
-            "releaseNotes": "\u00b7 Improved features in the tools for easier document handling.\n\u00b7 Smarter AI search that finds what you need faster and more accurately.\n\u00b7 Now supports Markdown for you to view right in the app.",
-            "version": "7.23.0",
-            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
+            "application_name": "Lens - PDF Scanner and Editor",
+            "bundleId": "com.Scantera593thzp.app",
+            "currentVersionReleaseDate": "July 23, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/36/91/0c36918d-aa5a-20f6-1ac7-f46f37900ec0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "More AI. More Productivity.",
+            "version": "1.3.1",
+            "app_store_url": "https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

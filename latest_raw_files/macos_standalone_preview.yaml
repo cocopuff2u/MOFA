@@ -1,17 +1,17 @@
-last_updated: August 07, 2026 01:36 AM EDT
+last_updated: August 07, 2026 03:08 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.111.2 (26072617)
-  full_version: 16.111.26072617
-  last_updated: July 26, 2026
+  short_version: 16.112.0 (26080332)
+  full_version: 16.112.26080332
+  last_updated: August 03, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26072617_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26072617_Updater.pkg
-  sha1: 7c74714eec9bf144cbb652dd98caad9be4000c41
-  sha256: 93f57b6d75dc8a1f085dc5055aac85f617c64f0ca0e2fa93514ee41bb3e1adbe
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26080332_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26080332_Updater.pkg
+  sha1: 45cce682a892025c1ea2f7f207f439c1f70079bd
+  sha256: ed5be0cef7cdb21798f6fbfd9a0685870811ac713eca4c87c0cf7294744bf756
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app
@@ -150,9 +150,9 @@ packages:
   CFBundleVersion: com.microsoft.VSCodeInsiders
   short_version: 1.133.0-
   full_version: 1.133.0-insider
-  last_updated: August 06, 2026
+  last_updated: August 07, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/780ea331b2861816fe6bb8215d812933c81df83b/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/1fe4419f0564f15cc8af9b5c322fe357b7e5a935/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

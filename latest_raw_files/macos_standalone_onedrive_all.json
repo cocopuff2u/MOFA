@@ -1,6 +1,6 @@
 {
   "latest": {
-    "last_updated": "August 07, 2026 10:10 AM EDT",
+    "last_updated": "August 07, 2026 11:52 AM EDT",
     "package": [
       {
         "name": "Production Ring",
@@ -15,14 +15,14 @@
       },
       {
         "name": "Upcoming Production Ring",
-        "short_version": "26.134.0713",
+        "short_version": "26.139.0720",
         "application_id": "ONDR18",
         "application_name": "OneDrive.app",
         "CFBundleVersion": "com.microsoft.onedrive",
-        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/26.134.0713.0003/universal/OneDrive.pkg",
-        "full_update_sha1": "b2f377149873e2fa874f3f2bf34762f34b009828",
-        "full_update_sha256": "d52042b56fd1684437061f17f79a3919a3e0072b1210650b6275c973981c7b98",
-        "last_updated": "July 31, 2026 01:25 PM EDT"
+        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/26.139.0720.0003/universal/OneDrive.pkg",
+        "full_update_sha1": "b4349968cc4f7b14a7b781d37b53410180336db0",
+        "full_update_sha256": "bf0f79ec5ae7505d9e2c237126984f37307e5cad86191b611781d28b0aea2965",
+        "last_updated": "August 07, 2026 11:52 AM EDT"
       },
       {
         "name": "Deferred Ring",

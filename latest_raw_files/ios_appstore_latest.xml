@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 06, 2026 09:56 AM EDT</last_updated>
+	<last_updated>August 06, 2026 08:38 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -215,9 +215,9 @@ On-premises – Fixed issues affecting on-premises deployments on iOS.</releaseN
 		<name>iOS Microsoft Whiteboard</name>
 		<application_name>Whiteboard: just draw together</application_name>
 		<bundleId>com.jimschultz.WhiteBoard</bundleId>
-		<currentVersionReleaseDate>July 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/7d/fc/c07dfc51-ccf3-a11f-55cc-fbe9b31336d9/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.6</minimumOsVersion>
+		<currentVersionReleaseDate>August 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/1d/49/831d4918-70dc-1c9b-4a12-95d8640b7337/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.5</minimumOsVersion>
 		<releaseNotes>Thanks everyone for using Whiteboard. Here's what's new in this version :) Please keep the feedback coming y'all! Enjoy.
 
 CHANGELOG
@@ -225,6 +225,7 @@ CHANGELOG
 * Faster drawing library loading
 * Photo picker opens faster
 * Creator Kit unlocks more reliably after purchase
+* Fixes an issue with drawing on iOS 17 devices
 
 
 2.0 Additions and Improvements
@@ -251,8 +252,8 @@ Like Whiteboard?
 • Please share Whiteboard with a friend or family member to help get the word out.
 • Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard, send me drawings, questions, concerns and feedback.
 • Please subscribe to my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw
-• Please send me your Whiteboard drawings on Instagram @getwhiteboard.</releaseNotes>
-		<version>2.8.1</version>
+• Please send me your Whiteboard drawings on Instagram @getwhiteboard</releaseNotes>
+		<version>2.8.2</version>
 		<app_store_url>https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4</app_store_url>
 	</package>
 	<package>
@@ -382,11 +383,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Meta Ads Manager</application_name>
 		<bundleId>com.facebook.MAdMan</bundleId>
-		<currentVersionReleaseDate>August 04, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bd/ff/45bdff64-af9b-26c3-f2db-ba7fea162a65/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 06, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/27/10/94271081-3dba-8832-446e-f0a9ac0cd634/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.1</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance updates</releaseNotes>
-		<version>486.1</version>
+		<version>487.0</version>
 		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>

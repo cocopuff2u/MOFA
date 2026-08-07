@@ -1,4 +1,4 @@
-last_updated: August 06, 2026 09:56 AM EDT
+last_updated: August 06, 2026 08:38 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -180,31 +180,32 @@ packages:
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'
     bundleId: com.jimschultz.WhiteBoard
-    currentVersionReleaseDate: July 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/7d/fc/c07dfc51-ccf3-a11f-55cc-fbe9b31336d9/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.6'
+    currentVersionReleaseDate: August 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/1d/49/831d4918-70dc-1c9b-4a12-95d8640b7337/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.5'
     releaseNotes: "Thanks everyone for using Whiteboard. Here's what's new in this\
       \ version :) Please keep the feedback coming y'all! Enjoy.\n\nCHANGELOG\n* Smoother\
       \ editing and faster saves for large drawings\n* Faster drawing library loading\n\
       * Photo picker opens faster\n* Creator Kit unlocks more reliably after purchase\n\
-      \n\n2.0 Additions and Improvements\n* Introducing SharePlay drawing, draw with\
-      \ others over FaceTime or Messages.\n* Introducing Creator Kit, get the most\
-      \ out of Whiteboard and support Indie development\n* Now you can zoom in and\
-      \ out on drawings and images!\n* Scroll around in freedom on the all new, expansive,\
-      \ drawing board.\n* Autorotate from portrait to landscape and back, or you can\
-      \ choose to lock orientation.\n* Drawing library, open and continue working\
-      \ on your recent drawings.\n* Add new drawing button, create a new drawing anytime.\n\
-      * Significant performance and stability improvements\n* Adds lock for drawing\
-      \ board zoom/pan/scroll\n* Many more exciting things are coming\n* Stay tuned\n\
-      \n- Jim\n\nIssues, questions or suggestions?\n\u2022 jim@getwhiteboard.com\n\
-      \nLike Whiteboard?\n\u2022 Please subscribe to Creator Kit to help support development\n\
-      \u2022 Please rate the app 5 stars so more people find it\n\u2022 Please share\
-      \ Whiteboard with a friend or family member to help get the word out.\n\u2022\
-      \ Please email me jim@getwhiteboard.com and let me know how you're using Whiteboard,\
-      \ send me drawings, questions, concerns and feedback.\n\u2022 Please subscribe\
-      \ to my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\
-      \u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard."
-    version: 2.8.1
+      * Fixes an issue with drawing on iOS 17 devices\n\n\n2.0 Additions and Improvements\n\
+      * Introducing SharePlay drawing, draw with others over FaceTime or Messages.\n\
+      * Introducing Creator Kit, get the most out of Whiteboard and support Indie\
+      \ development\n* Now you can zoom in and out on drawings and images!\n* Scroll\
+      \ around in freedom on the all new, expansive, drawing board.\n* Autorotate\
+      \ from portrait to landscape and back, or you can choose to lock orientation.\n\
+      * Drawing library, open and continue working on your recent drawings.\n* Add\
+      \ new drawing button, create a new drawing anytime.\n* Significant performance\
+      \ and stability improvements\n* Adds lock for drawing board zoom/pan/scroll\n\
+      * Many more exciting things are coming\n* Stay tuned\n\n- Jim\n\nIssues, questions\
+      \ or suggestions?\n\u2022 jim@getwhiteboard.com\n\nLike Whiteboard?\n\u2022\
+      \ Please subscribe to Creator Kit to help support development\n\u2022 Please\
+      \ rate the app 5 stars so more people find it\n\u2022 Please share Whiteboard\
+      \ with a friend or family member to help get the word out.\n\u2022 Please email\
+      \ me jim@getwhiteboard.com and let me know how you're using Whiteboard, send\
+      \ me drawings, questions, concerns and feedback.\n\u2022 Please subscribe to\
+      \ my YouTube channel https://www.youtube.com/channel/UCSr7ecHz6AnGvbGJNJSODbw\n\
+      \u2022 Please send me your Whiteboard drawings on Instagram @getwhiteboard"
+    version: 2.8.2
     app_store_url: https://apps.apple.com/us/app/whiteboard-just-draw-together/id1160517834?uo=4
   - name: iOS Microsoft Edge AI Browser
     application_name: 'Opera: AI browser with VPN'
@@ -332,11 +333,11 @@ packages:
   - name: iOS Microsoft Advertising
     application_name: Meta Ads Manager
     bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: August 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bd/ff/45bdff64-af9b-26c3-f2db-ba7fea162a65/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/27/10/94271081-3dba-8832-446e-f0a9ac0cd634/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.1'
     releaseNotes: Bug fixes and performance updates
-    version: '486.1'
+    version: '487.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: Lens - PDF Scanner and Editor

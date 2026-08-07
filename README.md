@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">August 07, 2026 11:51 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">August 07, 2026 12:49 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -51,7 +51,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Outlook** <sup>365/2021/2024</sup> **App Only Installer** <br><sub>_(Does Not Contain MAU)_</sub><br><br>_**Last Update:** `August 02, 2026`_<br> | **Version:**<br>`16.111.3 (26080215)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.outlook` | <a href="https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.111.26080215_Updater.pkg"><img src=".github/images/Outlook.png" alt="Download Image" width="80"></a>|
 | **OneNote** <sup>365/2021/2024</sup> **Standalone Installer**<br><br>_**Last Update:** `August 02, 2026`_<br> | **Version:**<br>`16.111.3 (26080215)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.onenote.mac` | <a href="https://go.microsoft.com/fwlink/?linkid=820886"><img src=".github/images/OneNote.png" alt="Download Image" width="80"></a> |
 | **OneNote** <sup>365/2021/2024</sup> **App Only Installer** <br><sub>_(Does Not Contain MAU)_</sub><br><br>_**Last Update:** `August 02, 2026`_<br> | **Version:**<br>`16.111.3 (26080215)`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.onenote.mac` | <a href="https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.111.26080215_Updater.pkg"><img src=".github/images/OneNote.png" alt="Download Image" width="80"></a> |
-| **OneDrive Standalone Installer** <sup>(Production Ring)</sup> <br><a href="https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0#OSVersion=Mac" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `July 31, 2026 01:25 PM EDT`_<br> | **Version:**<br>`26.134.0713`<br><br>**Min OS:**<br>`NA`<br><br>**CFBundle ID:**<br>`com.microsoft.OneDrive` | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive.png" alt="Download Image" width="80"></a> |
+| **OneDrive Standalone Installer** <sup>(Production Ring)</sup> <br><a href="https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0#OSVersion=Mac" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `August 07, 2026 12:50 PM EDT`_<br> | **Version:**<br>`26.139.0720`<br><br>**Min OS:**<br>`NA`<br><br>**CFBundle ID:**<br>`com.microsoft.OneDrive` | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive.png" alt="Download Image" width="80"></a> |
 | **Skype for Business Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781?ui=en-us&rs=en-us&ad=us" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `January 20, 2026`_<br> | **Version:**<br>`16.31.0.31`<br><br>**Min OS:**<br>`10.14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.SkypeForBusiness` | <a href="https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg"><img src=".github/images/skype_for_business.png" alt="Download Image" width="80"></a> |
 | **Teams Standalone Installer**<br><a href="https://support.microsoft.com/en-us/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `July 20, 2026`_<br> | **Version:**<br>`26198.202.4929.7171`<br><br>**Min OS:**<br>`14.0`<br><br>**CFBundle ID:**<br>`com.microsoft.teams2` | <a href="https://go.microsoft.com/fwlink/?linkid=2249065"><img src=".github/images/Teams.png" alt="Download Image" width="80"></a> |
 | **InTune Company Portal Standalone Installer**<br><a href="https://aka.ms/intuneupdates" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br>_**Last Update:** `July 07, 2026`_<br> | **Version:**<br>`5.2606.0`<br><br>**Min OS:**<br>`11.0`<br><br>**CFBundle ID:**<br>`com.microsoft.CompanyPortalMac` | <a href="https://go.microsoft.com/fwlink/?linkid=853070"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> |
@@ -85,7 +85,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Outlook App Only** | <a href="https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.111.26080215_Updater.pkg"><img src=".github/images/Outlook.png" alt="Download Image" width="80"></a> | `91d6b7f27126326c0edb2dcf8b64476446c613913b39902d344d89764c5ba2c4` |
 | **OneNote Standalone** | <a href="https://go.microsoft.com/fwlink/?linkid=820886"><img src=".github/images/OneNote.png" alt="Download Image" width="80"></a> | `a133a84aa119de9ceb808372fe68d9497421ea96ba443df321b0b4a28a3602f4` |
 | **OneNote App Only** | <a href="https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.111.26080215_Updater.pkg"><img src=".github/images/OneNote.png" alt="Download Image" width="80"></a> | `a133a84aa119de9ceb808372fe68d9497421ea96ba443df321b0b4a28a3602f4` |
-| **OneDrive** | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive.png" alt="Download Image" width="80"></a> | `d52042b56fd1684437061f17f79a3919a3e0072b1210650b6275c973981c7b98` |
+| **OneDrive** | <a href="https://go.microsoft.com/fwlink/?linkid=823060"><img src=".github/images/OneDrive.png" alt="Download Image" width="80"></a> | `bf0f79ec5ae7505d9e2c237126984f37307e5cad86191b611781d28b0aea2965` |
 | **Skype for Business** | <a href="https://download.microsoft.com/download/5ea1d93d-e654-4865-a75a-0d90256e4f25/Skype%20for%20Business%20on%20Mac%20Installer%2016.31.0.31.pkg"><img src=".github/images/skype_for_business.png" alt="Download Image" width="80"></a> | `891dbba7518645642e6bfe4287071b984830994c528fad82490b4df6b14e4312` |
 | **Teams** | <a href="https://go.microsoft.com/fwlink/?linkid=2249065"><img src=".github/images/Teams.png" alt="Download Image" width="80"></a> | `bbbd24cce58e508e879cabe13694dd06d1177e2a4de865ac0a152e17ba253f88` |
 | **Intune Company Portal Standalone** | <a href="https://go.microsoft.com/fwlink/?linkid=853070"><img src=".github/images/companyportal.png" alt="Download Image" width="80"></a> | `ff3f32c392fdd7eadb3c6b6c8d17c05c864716c387817f8731b241cbd1346197` |
@@ -128,7 +128,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>_Some of these tools are also available via [Homebrew](https://brew.sh); the versions below reflect the latest official Microsoft releases._</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">August 07, 2026 11:56 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">August 07, 2026 12:59 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -162,7 +162,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">August 07, 2026 11:52 AM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">August 07, 2026 12:49 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -186,7 +186,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">August 07, 2026 11:52 AM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">August 07, 2026 12:49 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

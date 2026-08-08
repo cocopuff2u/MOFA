@@ -1,19 +1,19 @@
 {
-    "last_updated": "August 08, 2026 05:33 AM EDT",
+    "last_updated": "August 08, 2026 06:27 AM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.112.0 (26080332)",
-            "full_version": "16.112.26080332",
-            "last_updated": "August 03, 2026",
+            "short_version": "16.111.3 (26080215)",
+            "full_version": "16.111.26080215",
+            "last_updated": "August 02, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26080332_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26080332_Updater.pkg",
-            "sha1": "45cce682a892025c1ea2f7f207f439c1f70079bd",
-            "sha256": "ed5be0cef7cdb21798f6fbfd9a0685870811ac713eca4c87c0cf7294744bf756"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26080215_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.111.26080215_Updater.pkg",
+            "sha1": "4d531b51366dfd9acb2e190b3717ba9507737960",
+            "sha256": "cd92bb0761e55ccc6cd1271acabaad12184219dc327a64baebcaba797283e1d4"
         },
         {
             "name": "Excel",
@@ -132,14 +132,14 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26062.0009",
-            "full_version": "101.26062.0009",
-            "last_updated": "July 22, 2026",
+            "short_version": "101.26062.0011",
+            "full_version": "101.26062.0011",
+            "last_updated": "July 31, 2026",
             "min_os": "14.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
-            "sha1": "2f30b14415b136af86504339e3e1c66f44ffd454",
-            "sha256": "7f8d30c4f429e484ade6f0aca369ecb0484b3eefa772a4b75b68c1d3e2ed346a"
+            "sha1": "5f7e9aa7350eac6207a2929f1ff535a45685f7a7",
+            "sha256": "03022785a1957518b6a3812a2655e4c50547b789d948ca0c7e22144bfc1e2dc6"
         },
         {
             "name": "Defender For Consumers",
@@ -188,14 +188,14 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2607 (2701)",
-            "full_version": "1.2607.2701",
-            "last_updated": "July 27, 2026",
+            "short_version": "1.2607 (2001)",
+            "full_version": "1.2607.2001",
+            "last_updated": "July 20, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2701_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2701_Updater.pkg",
-            "sha1": "8f6486d77c03545fed3c3e7860e8a070f68ad53e",
-            "sha256": "dc3e8ac09d9266ac078017ec7b6b2451e0b7b5949f34f09363b8412beabe7dd8"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2001_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2001_Updater.pkg",
+            "sha1": "d543624d7f567e1d6b9611c000be0f291fa25d11",
+            "sha256": "9bce3b4f5c20129ddb4ce890e9f83af025303142c02acaebbc3978ed471b3e75"
         },
         {
             "name": "MAU",

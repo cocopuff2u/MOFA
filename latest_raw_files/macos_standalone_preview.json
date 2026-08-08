@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 08, 2026 12:52 AM EDT",
+    "last_updated": "August 08, 2026 01:39 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -48,14 +48,14 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.111.2 (26072617)",
-            "full_version": "16.111.26072617",
-            "last_updated": "July 26, 2026",
+            "short_version": "16.112.0 (26080332)",
+            "full_version": "16.112.26080332",
+            "last_updated": "August 03, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26072617_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.111.26072617_Updater.pkg",
-            "sha1": "22ba6c32e424c4845d910d127586dd850699f380",
-            "sha256": "f7a1ed3e6fefa7258f52ca5e746cfa531255c9a78c78a3f84790f4aa091c8878"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26080332_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26080332_Updater.pkg",
+            "sha1": "9bfccd272075d3b9475b85a977f2a70518506bb3",
+            "sha256": "ddae81649a47dc97d6b52582f6ca1da80891504d07429822087e235d6147b76f"
         },
         {
             "name": "OneNote",
@@ -132,14 +132,14 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26062.0009",
-            "full_version": "101.26062.0009",
-            "last_updated": "July 22, 2026",
+            "short_version": "101.26062.0011",
+            "full_version": "101.26062.0011",
+            "last_updated": "July 31, 2026",
             "min_os": "14.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "sha1": "5f7e9aa7350eac6207a2929f1ff535a45685f7a7",
-            "sha256": "03022785a1957518b6a3812a2655e4c50547b789d948ca0c7e22144bfc1e2dc6"
+            "sha256": "7f8d30c4f429e484ade6f0aca369ecb0484b3eefa772a4b75b68c1d3e2ed346a"
         },
         {
             "name": "Defender For Consumers",

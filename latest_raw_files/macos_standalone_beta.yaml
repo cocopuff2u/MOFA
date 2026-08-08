@@ -1,4 +1,4 @@
-last_updated: August 08, 2026 09:43 AM EDT
+last_updated: August 08, 2026 10:28 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -40,14 +40,14 @@ packages:
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
   CFBundleVersion: com.microsoft.outlook
-  short_version: 16.113.0 (26080420)
-  full_version: 16.113.26080420
-  last_updated: August 04, 2026
+  short_version: 16.113.0 (26072826)
+  full_version: 16.113.26072826
+  last_updated: July 28, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.113.26080420_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.113.26080420_Updater.pkg
-  sha1: 66bcd013d50f9eaf53dfbad45817dbaca7d78e14
-  sha256: 2af4e3b1889c6905db62692454a627568a74cd2714743cee22c2a1d45a3878bc
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.113.26072826_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.113.26072826_Updater.pkg
+  sha1: 9d0998e17d7a576cb24a51ea65cba7f0d4bce2ac
+  sha256: 66c27ed212eb8cc5cfe81183a437748ffe6d5d8c77430c0c832210ef1bffb483
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
@@ -112,9 +112,9 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26062.0011
-  full_version: 101.26062.0011
-  last_updated: July 31, 2026
+  short_version: 101.26062.0009
+  full_version: 101.26062.0009
+  last_updated: July 22, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg

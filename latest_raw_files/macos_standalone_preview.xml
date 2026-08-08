@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 08, 2026 09:41 AM EDT</last_updated>
+    <last_updated>August 08, 2026 10:28 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -132,13 +132,13 @@
         <application_id>WDAV00</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
-        <short_version>101.26062.0011</short_version>
-        <full_version>101.26062.0011</full_version>
-        <last_updated>July 31, 2026</last_updated>
+        <short_version>101.26062.0009</short_version>
+        <full_version>101.26062.0009</full_version>
+        <last_updated>July 22, 2026</last_updated>
         <min_os>14.0</min_os>
         <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg</update_download>
         <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg</latest_download>
-        <sha1>5f7e9aa7350eac6207a2929f1ff535a45685f7a7</sha1>
+        <sha1>2f30b14415b136af86504339e3e1c66f44ffd454</sha1>
         <sha256>03022785a1957518b6a3812a2655e4c50547b789d948ca0c7e22144bfc1e2dc6</sha256>
     </package>
     <package>

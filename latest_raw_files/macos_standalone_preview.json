@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 08, 2026 09:41 AM EDT",
+    "last_updated": "August 08, 2026 10:28 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -132,13 +132,13 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26062.0011",
-            "full_version": "101.26062.0011",
-            "last_updated": "July 31, 2026",
+            "short_version": "101.26062.0009",
+            "full_version": "101.26062.0009",
+            "last_updated": "July 22, 2026",
             "min_os": "14.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
-            "sha1": "5f7e9aa7350eac6207a2929f1ff535a45685f7a7",
+            "sha1": "2f30b14415b136af86504339e3e1c66f44ffd454",
             "sha256": "03022785a1957518b6a3812a2655e4c50547b789d948ca0c7e22144bfc1e2dc6"
         },
         {

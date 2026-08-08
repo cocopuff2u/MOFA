@@ -1,4 +1,4 @@
-last_updated: August 08, 2026 02:35 PM EDT
+last_updated: August 08, 2026 03:26 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -16,14 +16,14 @@ packages:
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.113.0 (26080219)
-  full_version: 16.113.26080219
-  last_updated: August 02, 2026
+  short_version: 16.113.0 (26080420)
+  full_version: 16.113.26080420
+  last_updated: August 04, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26080219_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26080219_Updater.pkg
-  sha1: 5b91fdaecd4073bcba321576b7d05b024c984c4d
-  sha256: a62ad585d2e31da2f3f76f757105f2077c2014b39897b9d158ae04b8b1c0cfef
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26080420_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26080420_Updater.pkg
+  sha1: 1166f574840ddab0a62a2614f9a2ed965d41a398
+  sha256: 5fb6e9539db926625b10934fdebe7545b813f6bc906e8669004317c132c2e08e
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
@@ -76,14 +76,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 26204.901.4946.2675
-  full_version: 26204.901.4946.2675
-  last_updated: July 24, 2026
+  short_version: 26213.1001.4977.3018
+  full_version: 26213.1001.4977.3018
+  last_updated: August 03, 2026
   min_os: '14.0'
-  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26204.901.4946.2675/MicrosoftTeams_26149.1804.4788.5681_to_26204.901.4946.2675_BinaryDelta.pkg
-  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26204.901.4946.2675/MicrosoftTeams_26149.1804.4788.5681_to_26204.901.4946.2675_BinaryDelta.pkg
-  sha1: 61cbac5347d48f6a8aeb5309f6bd1ce8d643c3cf
-  sha256: 3e7b464bab0a006bc7ac2fd399a2723fd1dac16470243ffa5d41d70322f74cea
+  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1001.4977.3018/MicrosoftTeams_26163.407.4839.8659_to_26213.1001.4977.3018_BinaryDelta.pkg
+  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1001.4977.3018/MicrosoftTeams_26163.407.4839.8659_to_26213.1001.4977.3018_BinaryDelta.pkg
+  sha1: 24da913ad145cd28edef2e34efe1a465e2593d2c
+  sha256: 424645116d33cb191fded37033c47be90144d11d6fbe7666530ebeddf32294f3
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app

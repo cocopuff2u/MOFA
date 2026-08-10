@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 10, 2026 01:48 PM EDT",
+    "last_updated": "August 10, 2026 02:51 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -62,14 +62,14 @@
             "application_id": "ONMC2019",
             "application_name": "Microsoft OneNote.app",
             "CFBundleVersion": "com.microsoft.onenote",
-            "short_version": "16.112.0 (26080332)",
-            "full_version": "16.112.26080332",
-            "last_updated": "August 03, 2026",
+            "short_version": "16.111.3 (26080215)",
+            "full_version": "16.111.26080215",
+            "last_updated": "August 02, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.112.26080332_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.112.26080332_Updater.pkg",
-            "sha1": "3129c3f1a50129be718fb621550e953924a3ac96",
-            "sha256": "adcc70f5ccd302890fb35cb86d23d11122345ec72258cde37a6c54ad0112212c"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26080215_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.111.26080215_Updater.pkg",
+            "sha1": "ea30d51e4641955b942fad4b8396d162b9f6ed3e",
+            "sha256": "a133a84aa119de9ceb808372fe68d9497421ea96ba443df321b0b4a28a3602f4"
         },
         {
             "name": "Skype",
@@ -202,14 +202,14 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.85 (26080216)",
-            "full_version": "4.85.26080216",
-            "last_updated": "August 02, 2026",
+            "short_version": "4.84 (26071119)",
+            "full_version": "4.84.26071119",
+            "last_updated": "July 11, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
-            "sha1": "6335128b56bb29cbf2224228074e6434431648a0",
-            "sha256": "318e3ba568e7c4dbd6b7daf7d15359306b6ffe7cb888ed25f6f03ca90ccb806f"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.84.26071119_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.84.26071119_Updater.pkg",
+            "sha1": "9353cde2ce4f9535934e2afd91124b8127572b85",
+            "sha256": "be878237348c79d03c6a8286e7b61c58265d9cc5917d1a282c25059fe46bd4a7"
         }
     ]
 }

@@ -1,4 +1,4 @@
-last_updated: August 10, 2026 02:51 PM EDT
+last_updated: August 10, 2026 03:52 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -12,20 +12,20 @@ packages:
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: August 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e5/ca/b6e5ca3d-3511-53ef-a27c-b9b00398b98b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/3a/90/963a907a-5601-bc27-6358-fa9480bda4de/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.112.3
+    version: 2.112.4
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: August 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/ef/06/4fef069c-0321-2162-9f32-552f0bc252cb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/11/6b/1c116b2a-b64e-e692-23b3-6e1d98b532a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.112.3
+    version: 2.112.4
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -400,11 +400,11 @@ packages:
   - name: iOS Microsoft 365 Office
     application_name: Microsoft 365 Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: August 10, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/6d/d8/c06dd84a-fdb9-6b38-8ad1-2cc68b848b13/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/8d/30/138d3024-32cf-e5e0-4b4c-02d45e30679f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: '2.113'
+    version: 2.112.4
     app_store_url: https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

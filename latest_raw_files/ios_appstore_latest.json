@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 11, 2026 06:36 PM EDT",
+    "last_updated": "August 11, 2026 07:34 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -71,11 +71,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Windows App Mobile",
             "bundleId": "com.microsoft.rdc.ios",
-            "currentVersionReleaseDate": "July 29, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/85/a9/a685a954-fe7d-4fd8-fbe9-3f32988a984a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 11, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/f4/53/0af45388-cb1c-a3ec-3764-88bcb9a597f1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "26.0",
-            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Updated and improved Liquid Glass styling and elements throughout the app.\n\u2022 Modernized and refreshed the app settings UI.\n\u2022 Reworked the extended keys and auxiliary keyboard UI.\n\u2022 Improved the in-session connection bar experience.\n\u2022 Made updates to improve Continuous Access Evaluation (CAE) scenarios for AVD and Windows 365.\n\u2022 Resolved issues with RemoteApp auto-reconnect scenarios.\n\u2022 Addressed a bug that caused Connection Center thumbnail images to float out of place.\n\u2022 Resolved UDP connectivity issues encountered when connecting to AVD and Windows 365 endpoints.\n\u2022 Fixed accessibility bugs.\n\u2022 Addressed reported bugs and crashes.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.3.3",
+            "releaseNotes": "In this release we made the following updates:\n \n\u2022 Fixed bugs reported by users and internal telemetry.\n\u2022 Resolved input capture issues that were affecting multitasking.\n\u2022 Reworked aspects of the new in-session controls tutorial.\n\u2022 Redesigned the Add Workspace, Add Account and Workspace Details flows to start from the current tab.\n\u2022 Cleaned up the Liquid Glass app settings page.\n \nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
+            "version": "11.3.4",
             "app_store_url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens: Translate & Photo Finder",
-            "bundleId": "com.searchdodo.ios",
-            "currentVersionReleaseDate": "July 14, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.6",
-            "releaseNotes": "Summer is here!\n\nReady to explore the world and translate everything on the go?\nWe\u2019ve polished the app behind the scenes to make sure your camera translations and image searches are faster and smoother than ever.\nUpdate now, join our Summer Translation event, and travel with total confidence!\n\nIf Lens helps you navigate new places, a quick 5-star rating makes our season!",
-            "version": "3.1.15",
-            "app_store_url": "https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4"
+            "application_name": "Lens - PDF Scanner and Editor",
+            "bundleId": "com.Scantera593thzp.app",
+            "currentVersionReleaseDate": "July 23, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/36/91/0c36918d-aa5a-20f6-1ac7-f46f37900ec0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "16.0",
+            "releaseNotes": "More AI. More Productivity.",
+            "version": "1.3.1",
+            "app_store_url": "https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",
@@ -357,11 +357,11 @@
             "name": "iOS Microsoft Intune Company Portal",
             "application_name": "Intune Company Portal",
             "bundleId": "com.microsoft.CompanyPortal",
-            "currentVersionReleaseDate": "August 11, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a1/a3/bda1a30f-4d89-9da7-b23b-36b5c7e0d3af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "July 08, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "We\u2019ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.",
-            "version": "5.2606.2",
+            "version": "5.2606.0",
             "app_store_url": "https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4"
         },
         {

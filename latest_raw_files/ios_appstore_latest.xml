@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 10, 2026 07:30 PM EDT</last_updated>
+	<last_updated>August 10, 2026 09:20 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -16,11 +16,11 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>August 10, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/3a/90/963a907a-5601-bc27-6358-fa9480bda4de/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 03, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e5/ca/b6e5ca3d-3511-53ef-a27c-b9b00398b98b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.112.4</version>
+		<version>2.112.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>
@@ -51,8 +51,8 @@ Feel free to send us any comments or questions by going to Settings &gt; Help &a
 		<name>iOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote</bundleId>
-		<currentVersionReleaseDate>August 10, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/77/10/5f771049-91c6-88b3-f934-13fb56ce4aa0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 03, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/9d/51/8b9d51f4-7d63-1c9d-c115-69efb1cf7cbb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -60,7 +60,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.112.4</version>
+		<version>16.112.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4</app_store_url>
 	</package>
 	<package>

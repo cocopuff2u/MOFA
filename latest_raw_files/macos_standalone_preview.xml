@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 11, 2026 01:56 PM EDT</last_updated>
+    <last_updated>August 11, 2026 02:56 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -90,14 +90,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>26213.1001.4977.3018</short_version>
-        <full_version>26213.1001.4977.3018</full_version>
-        <last_updated>August 03, 2026</last_updated>
+        <short_version>26213.1003.5004.4102</short_version>
+        <full_version>26213.1003.5004.4102</full_version>
+        <last_updated>August 11, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1001.4977.3018/MicrosoftTeams_26163.407.4839.8659_to_26213.1001.4977.3018_BinaryDelta.pkg</update_download>
-        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1001.4977.3018/MicrosoftTeams_26163.407.4839.8659_to_26213.1001.4977.3018_BinaryDelta.pkg</latest_download>
-        <sha1>24da913ad145cd28edef2e34efe1a465e2593d2c</sha1>
-        <sha256>424645116d33cb191fded37033c47be90144d11d6fbe7666530ebeddf32294f3</sha256>
+        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1003.5004.4102/MicrosoftTeams_26163.407.4839.8659_to_26213.1003.5004.4102_BinaryDelta.pkg</update_download>
+        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1003.5004.4102/MicrosoftTeams_26163.407.4839.8659_to_26213.1003.5004.4102_BinaryDelta.pkg</latest_download>
+        <sha1>fdc0cf12aff1543a6d0282d81c0f4fbcbf43bae9</sha1>
+        <sha256>a8136856e796035798c203cf07ab53a8a22723fddd3f331ddad51afe5f88bbae</sha256>
     </package>
     <package>
         <name>Intune</name>

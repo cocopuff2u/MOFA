@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 11, 2026 07:40 AM EDT</last_updated>
+	<last_updated>August 11, 2026 11:56 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -204,11 +204,11 @@ On-premises – Fixed issues affecting on-premises deployments on iOS.</releaseN
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>August 04, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/69/1f/f8691f89-633f-9da7-9a6d-596aee40aa1e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 11, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/9d/de/9e9dde9f-5f29-0419-2625-2319b5ddc4ac/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.6</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.50.0</version>
+		<version>11.51.0</version>
 		<app_store_url>https://apps.apple.com/us/app/viva-engage/id289559439?uo=4</app_store_url>
 	</package>
 	<package>
@@ -361,11 +361,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>July 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/af/93/05af93d0-6f77-cc49-05e1-57b06bc05b58/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 11, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/bc/44/46bc4486-df70-9ce5-88f9-c5bc623637a6/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26073.12</version>
+		<version>3.26081.14</version>
 		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
@@ -392,14 +392,20 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Lens - PDF Scanner and Editor</application_name>
-		<bundleId>com.Scantera593thzp.app</bundleId>
-		<currentVersionReleaseDate>July 23, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/36/91/0c36918d-aa5a-20f6-1ac7-f46f37900ec0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>More AI. More Productivity.</releaseNotes>
-		<version>1.3.1</version>
-		<app_store_url>https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4</app_store_url>
+		<application_name>Lens: Translate &amp; Photo Finder</application_name>
+		<bundleId>com.searchdodo.ios</bundleId>
+		<currentVersionReleaseDate>July 14, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.6</minimumOsVersion>
+		<releaseNotes>Summer is here!
+
+Ready to explore the world and translate everything on the go?
+We’ve polished the app behind the scenes to make sure your camera translations and image searches are faster and smoother than ever.
+Update now, join our Summer Translation event, and travel with total confidence!
+
+If Lens helps you navigate new places, a quick 5-star rating makes our season!</releaseNotes>
+		<version>3.1.15</version>
+		<app_store_url>https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

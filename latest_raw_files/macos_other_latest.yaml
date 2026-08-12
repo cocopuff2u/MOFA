@@ -1,4 +1,4 @@
-last_updated: August 12, 2026 06:36 PM EDT
+last_updated: August 12, 2026 07:41 PM EDT
 packages:
 - name: PowerShell
   application_id: N/A
@@ -88,26 +88,26 @@ packages:
   application_id: N/A
   application_name: Azure Developer CLI (azd)
   CFBundleVersion: N/A
-  short_version: 1.30.0
-  full_version: 1.30.0
-  last_updated: August 05, 2026
+  short_version: 1.31.0
+  full_version: 1.31.0
+  last_updated: August 12, 2026
   min_os: N/A
-  update_download: https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.30.0/azd-darwin-arm64.zip
-  latest_download: https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.30.0/azd-darwin-arm64.zip
-  sha1: 20ab358fd4127fa08edeed7ea432f4d7469cc8e1
-  sha256: 5836dd70bb3da35bd0fd12413f7c699d3877688b56aedee0502fb18cef44d6ce
+  update_download: https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.31.0/azd-darwin-arm64.zip
+  latest_download: https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.31.0/azd-darwin-arm64.zip
+  sha1: fc4efda71be6e782b64e36245f7756a62b823bf1
+  sha256: f58d118fea99f3dc2fe9ed7e603174b80c24c41f4283fd8a73ddee82da040c78
 - name: AzCopy
   application_id: N/A
   application_name: AzCopy
   CFBundleVersion: N/A
-  short_version: 10.32.6
-  full_version: 10.32.6
-  last_updated: July 09, 2026
+  short_version: 10.32.7
+  full_version: 10.32.7
+  last_updated: August 12, 2026
   min_os: N/A
-  update_download: https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.6/azcopy_darwin_arm64_10.32.6.zip
-  latest_download: https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.6/azcopy_darwin_arm64_10.32.6.zip
-  sha1: b024d49588d485a59e382b71dbeb876a58b900ef
-  sha256: 2e05ba83a23ff8bbbc22ce27772daf24f5a7924a8455d701a915cb73a0b8ff2f
+  update_download: https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_darwin_arm64_10.32.7.zip
+  latest_download: https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_darwin_arm64_10.32.7.zip
+  sha1: ec703c9fde3b2812b75b84757e266358ee3b0e90
+  sha256: 9ff234c4e0eed47d74b112320a0774326da213feee603caa93da35f9d09b7d1c
 - name: Bicep CLI
   application_id: N/A
   application_name: Bicep CLI

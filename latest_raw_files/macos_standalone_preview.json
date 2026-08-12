@@ -1,19 +1,19 @@
 {
-    "last_updated": "August 12, 2026 06:36 PM EDT",
+    "last_updated": "August 12, 2026 07:36 PM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.112.0 (26081010)",
-            "full_version": "16.112.26081010",
-            "last_updated": "August 10, 2026",
+            "short_version": "16.112.0 (26080332)",
+            "full_version": "16.112.26080332",
+            "last_updated": "August 03, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081010_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081010_Updater.pkg",
-            "sha1": "e5d35380c07f67951a30e31540c613ad104a9e80",
-            "sha256": "5e6680cbe5f869d99b7d3da52aa371dd70660f7e53fe632f694fa77934723165"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26080332_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26080332_Updater.pkg",
+            "sha1": "45cce682a892025c1ea2f7f207f439c1f70079bd",
+            "sha256": "ed5be0cef7cdb21798f6fbfd9a0685870811ac713eca4c87c0cf7294744bf756"
         },
         {
             "name": "Excel",
@@ -176,9 +176,9 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.134.0-",
             "full_version": "1.134.0-insider",
-            "last_updated": "August 11, 2026",
+            "last_updated": "August 12, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/f844934f854c9277a48627aac77ebcea69591ae1/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/661f18fdeb7861d25e79df68b32af3a681eff7b2/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"
@@ -188,14 +188,14 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2608 (0301)",
-            "full_version": "1.2608.0301",
-            "last_updated": "August 03, 2026",
+            "short_version": "1.2607 (2701)",
+            "full_version": "1.2607.2701",
+            "last_updated": "July 27, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2608.0301_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2608.0301_Updater.pkg",
-            "sha1": "246ccec7998c58ff74c671423d68063227df5c90",
-            "sha256": "d8633efb969c3b7a429b9f1a4e294ce1092ac95b05ee11c10848943d88c81364"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2701_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2607.2701_Updater.pkg",
+            "sha1": "8f6486d77c03545fed3c3e7860e8a070f68ad53e",
+            "sha256": "dc3e8ac09d9266ac078017ec7b6b2451e0b7b5949f34f09363b8412beabe7dd8"
         },
         {
             "name": "MAU",

@@ -1,4 +1,4 @@
-last_updated: August 12, 2026 05:07 AM EDT
+last_updated: August 12, 2026 06:56 AM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -208,8 +208,8 @@ packages:
   app_update_sha1: 3dad682142f018340254479af7d968ae3a302bff
   app_update_sha256: 455fb03d68e8d470aea9e84c2a6e804d071d7f2ca9614c24db04c21d713885e3
   full_update_download: https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal-dmg
-  full_update_sha1: N/A
-  full_update_sha256: N/A
+  full_update_sha1: fb786a4117ff99028e059bd5fc1aeae1dc1867fb
+  full_update_sha256: b6a56c17814665f90f3eb33add47a381085f9394058da5bb46b950a766e667f8
 - name: Copilot
   application_id: MSCP10
   application_name: Microsoft 365 Copilot.app

@@ -1,6 +1,326 @@
 {
-    "last_scan_date": "August 11, 2026 09:37 PM EDT",
+    "last_scan_date": "August 12, 2026 12:02 AM EDT",
     "updates": [
+        {
+            "date_text": "August 11, 2026",
+            "version": "Version 16.112 (Build 26081010)",
+            "security_updates": {
+                "Excel": [
+                    {
+                        "cve_name": "CVE-2026-65807",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-65807"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68793",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68793"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68794",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68794"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68795",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68795"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68796",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68796"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68797",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68797"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68798",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68798"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68799",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68799"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68800",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68800"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68801",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68801"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68802",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68802"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68803",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68803"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68804",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68804"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68805",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68805"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68806",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68806"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68807",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68807"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68808",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68808"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68810",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68810"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68811",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68811"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68812",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68812"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68813",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68813"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68814",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68814"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68815",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68815"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68816",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68816"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68817",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68817"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70327",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70327"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70328",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70328"
+                    }
+                ],
+                "Outlook": [
+                    {
+                        "cve_name": "CVE-2026-63518",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63518"
+                    }
+                ],
+                "PowerPoint": [
+                    {
+                        "cve_name": "CVE-2026-68809",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68809"
+                    }
+                ],
+                "Office Suite": [
+                    {
+                        "cve_name": "CVE-2026-62804",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-62804"
+                    },
+                    {
+                        "cve_name": "CVE-2026-62842",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-62842"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63513",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63513"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63515",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63515"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63517",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63517"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63519",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63519"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63524",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63524"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63526",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63526"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63532",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63532"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63533",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63533"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64898",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64898"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64899",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64899"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64903",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64903"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64904",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64904"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64909",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64909"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64910",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64910"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64911",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64911"
+                    },
+                    {
+                        "cve_name": "CVE-2026-65657",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-65657"
+                    },
+                    {
+                        "cve_name": "CVE-2026-65661",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-65661"
+                    },
+                    {
+                        "cve_name": "CVE-2026-65664",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-65664"
+                    },
+                    {
+                        "cve_name": "CVE-2026-66807",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-66807"
+                    },
+                    {
+                        "cve_name": "CVE-2026-68818",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-68818"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70312",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70312"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70313",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70313"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70314",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70314"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70315",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70315"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70316",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70316"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70317",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70317"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70319",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70319"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70320",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70320"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70322",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70322"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70323",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70323"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70325",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70325"
+                    }
+                ],
+                "Word": [
+                    {
+                        "cve_name": "CVE-2026-58651",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-58651"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63527",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63527"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63528",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63528"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63530",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63530"
+                    },
+                    {
+                        "cve_name": "CVE-2026-63531",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-63531"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64905",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64905"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64907",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64907"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64915",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64915"
+                    },
+                    {
+                        "cve_name": "CVE-2026-64917",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-64917"
+                    },
+                    {
+                        "cve_name": "CVE-2026-66809",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-66809"
+                    },
+                    {
+                        "cve_name": "CVE-2026-66810",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-66810"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70310",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70310"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70311",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70311"
+                    },
+                    {
+                        "cve_name": "CVE-2026-70318",
+                        "url": "https://portal.msrc.microsoft.com/security-guidance/advisory/CVE-2026-70318"
+                    }
+                ]
+            }
+        },
         {
             "date_text": "August 04, 2026",
             "version": "Version 16.111.3 (Build 26080215)",

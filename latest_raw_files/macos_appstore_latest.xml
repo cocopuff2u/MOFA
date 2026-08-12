@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 12, 2026 01:42 AM EDT</last_updated>
+	<last_updated>August 12, 2026 03:17 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,15 +38,11 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>August 11, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/c4/88/1dc488c1-02c5-f981-f194-d45111e2cb57/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 04, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/0e/ce/ad0ece5a-87d0-8180-126a-d15c8fef4157/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>• Mail Theming: Links and At Mention colors in the reading pane now match the app's accent color. 
-• Calendar: Outlook includes a new setting that lets you open new events in a separate window instead of a popover. 
-• Calendar: The weather widget now uses the Liquid Glass visual design for a more modern and integrated appearance on supported versions of macOS. 
-• Calendar: Outlook now includes a setting that automatically updates the default event creation time zone when your device's time zone changes. 
-• Calendar: You can now choose to display My Day as an icon only mode in the menu bar from the My Day settings.</releaseNotes>
-		<version>16.112</version>
+		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
+		<version>16.111.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -91,18 +87,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>July 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/cf/1c/9acf1caf-3c38-1993-ecfb-c6a5b30c8d3a/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>August 11, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/41/8b/4a418bf7-9e3a-e9b6-531e-eec1e1900cbe/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates:
-
-• Resolved an issue that prevented screen sharing from taking place when using Teams optimizations.
-• Fixed a bug that caused the &quot;Connection Information&quot; menu item to not appear when expected.
-• Made updates to ensure that app windows alway honor the assigned desktop (versus always opening in the current desktop).
-• Addressed reported bugs and crashes.
-
-If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.3.8</version>
+		<releaseNotes>In this release we made some improvements to help enhance the stability and security of Windows App. If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
+		<version>11.3.9</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

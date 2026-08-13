@@ -1,4 +1,4 @@
-last_updated: August 13, 2026 11:55 AM EDT
+last_updated: August 13, 2026 12:52 PM EDT
 packages:
 - name: Microsoft Office Suite
   application_id: Data sourced from Outlook (CurrentThrottle)
@@ -116,16 +116,16 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 26198.202.4929.7171
-  full_version: 26198.202.4929.7171
-  last_updated: July 20, 2026
+  short_version: 26213.1006.5011.1671
+  full_version: 26213.1006.5011.1671
+  last_updated: August 12, 2026
   min_os: '14.0'
-  app_only_update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26198.202.4929.7171/MicrosoftTeams_26149.1804.4788.5681_to_26198.202.4929.7171_BinaryDelta.pkg
-  app_update_sha1: a62f7180dbc32e40f3420da7219637cc2041260a
-  app_update_sha256: 4b46fafebc4cc114fa823ad3fd202f73b0eb7832be1b4301ee02628434bb5e0d
+  app_only_update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1006.5011.1671/MicrosoftTeams_26183.1901.4874.5228_to_26213.1006.5011.1671_BinaryDelta.pkg
+  app_update_sha1: e42dd0621cb7346f6574a982b1f6af768e94301b
+  app_update_sha256: 415c9a3b3bc38ec1e140c2de4aaa409fc85f9f7930554d8ba24c90a957a42ab8
   full_update_download: https://go.microsoft.com/fwlink/?linkid=2249065
-  full_update_sha1: b65dfaaa209abf2a3a9851e35eedce2b0d12c4d1
-  full_update_sha256: bbbd24cce58e508e879cabe13694dd06d1177e2a4de865ac0a152e17ba253f88
+  full_update_sha1: 47d5254c382061d22f44b95679c201beb2987d92
+  full_update_sha256: dd5fab62b2003993a49ac86ecdc653500e970e29efd8c8b100f17d0adb30987e
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app

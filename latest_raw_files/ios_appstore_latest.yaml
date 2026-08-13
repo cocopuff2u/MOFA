@@ -1,4 +1,4 @@
-last_updated: August 13, 2026 06:59 AM EDT
+last_updated: August 13, 2026 07:44 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -381,12 +381,12 @@ packages:
   - name: iOS Microsoft Intune Company Portal
     application_name: Intune Company Portal
     bundleId: com.microsoft.CompanyPortal
-    currentVersionReleaseDate: July 08, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a1/a3/bda1a30f-4d89-9da7-b23b-36b5c7e0d3af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "We\u2019ve been improving the stability of the Company Portal.\
       \ This helps keep your information safe and makes the app work more efficiently."
-    version: 5.2606.0
+    version: 5.2606.2
     app_store_url: https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4
   - name: iOS Microsoft Azure Information Protection
     application_name: Azure Information Protection

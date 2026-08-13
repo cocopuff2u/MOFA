@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 12, 2026 07:35 PM EDT",
+    "last_updated": "August 12, 2026 09:39 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -198,16 +198,16 @@
             "application_id": "WDAVSHIM",
             "application_name": "N/A",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26030.0000",
-            "full_version": "101.26030.0000",
-            "last_updated": "May 08, 2026",
+            "short_version": "101.26050.0000",
+            "full_version": "101.26050.0000",
+            "last_updated": "July 28, 2026",
             "min_os": "12.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26030.0000_Individuals_Shim_Installer.pkg",
-            "app_update_sha1": "25f9f9634ac9bf70be8b9741c2587d8dd17136c3",
-            "app_update_sha256": "e306f0bd9cd2dcd7160fa415e2b19a883b0d9f65c551030be52fbdda72a1b90a",
-            "full_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26030.0000_Individuals_Shim_Installer.pkg",
-            "full_update_sha1": "25f9f9634ac9bf70be8b9741c2587d8dd17136c3",
-            "full_update_sha256": "e306f0bd9cd2dcd7160fa415e2b19a883b0d9f65c551030be52fbdda72a1b90a"
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg",
+            "app_update_sha1": "9b335f964f35275540e2b24cb9434b255a223e58",
+            "app_update_sha256": "5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c",
+            "full_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg",
+            "full_update_sha1": "9b335f964f35275540e2b24cb9434b255a223e58",
+            "full_update_sha256": "5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c"
         },
         {
             "name": "Windows App",

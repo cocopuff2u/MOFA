@@ -1,4 +1,4 @@
-last_updated: August 13, 2026 05:40 PM EDT
+last_updated: August 13, 2026 06:36 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -60,13 +60,13 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: August 12, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4e/8a/cb4e8ab2-a667-5509-62a0-f5d5cc97da3e/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: August 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/01/68/01016872-a8d6-c1f6-aa6b-a3c3b643d2b4/OneDrive.png/512x512bb.png
     minimumOsVersion: '14.4'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 26.139.0720
+    version: 26.134.0713
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
     application_name: RMS Sharing

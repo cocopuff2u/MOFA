@@ -1,4 +1,4 @@
-last_updated: August 16, 2026 01:23 AM EDT
+last_updated: August 16, 2026 02:32 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -327,14 +327,15 @@ packages:
     version: 6.8.52
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
-    application_name: Meta Ads Manager
-    bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: August 13, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/37/bc/5337bc08-b756-0f66-57f4-1fc3cb7595d4/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.1'
-    releaseNotes: Bug fixes and performance updates
-    version: '488.0'
-    app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
+    application_name: Google Ads
+    bundleId: com.google.AdWords
+    currentVersionReleaseDate: August 07, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/b2/8b/cdb28bbe-cb83-8aa7-52ba-e132e1034701/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: We regularly update the Google Ads mobile app to provide you with
+      a better experience managing your account on the go.
+    version: 3.36.20086932
+    app_store_url: https://apps.apple.com/us/app/google-ads/id1037457231?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: 'Lens: Translate & Photo Finder'
     bundleId: com.searchdodo.ios

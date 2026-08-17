@@ -1,13 +1,13 @@
-last_updated: August 17, 2026 07:20 AM EDT
+last_updated: August 17, 2026 08:35 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: August 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/a1/c7/47a1c75a-17e0-0828-2713-79d235ec1db4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/55/bf/9955bf5f-7c91-1859-4038-ceea2f8d31b3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: '2.113'
+    version: 2.112.4
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
@@ -21,11 +21,11 @@ packages:
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: August 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/c1/d9/29c1d935-7da9-9f42-9f43-a99d26408912/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/11/6b/1c116b2a-b64e-e692-23b3-6e1d98b532a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: '2.113'
+    version: 2.112.4
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -42,15 +42,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: August 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/cc/d8/40ccd877-8c19-44f4-2134-d93385d2728a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/77/10/5f771049-91c6-88b3-f934-13fb56ce4aa0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: '16.113'
+    version: 16.112.4
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive

@@ -1,4 +1,4 @@
-last_updated: August 17, 2026 10:13 PM EDT
+last_updated: August 17, 2026 11:40 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: August 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/26/33/272633e4-6be8-d269-abeb-04f896721f8f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/06/7b/6e067b42-0147-0edb-9e26-ce9dbb9f08e2/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2632.0
+    version: 5.2631.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -166,12 +166,12 @@ packages:
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
     bundleId: wefwef
-    currentVersionReleaseDate: August 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/fb/ef/a4fbef17-14c2-d91c-a1d9-0cfca1b9edf9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/9d/de/9e9dde9f-5f29-0419-2625-2319b5ddc4ac/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.6'
     releaseNotes: This update includes stability enhancements and bug fixes to improve
       your overall experience.
-    version: 11.52.0
+    version: 11.51.0
     app_store_url: https://apps.apple.com/us/app/viva-engage/id289559439?uo=4
   - name: iOS Microsoft Whiteboard
     application_name: 'Whiteboard: just draw together'
@@ -336,18 +336,16 @@ packages:
     version: '488.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Lens: Translate & Photo Finder'
-    bundleId: com.searchdodo.ios
-    currentVersionReleaseDate: July 14, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.6'
-    releaseNotes: "Summer is here!\n\nReady to explore the world and translate everything\
-      \ on the go?\nWe\u2019ve polished the app behind the scenes to make sure your\
-      \ camera translations and image searches are faster and smoother than ever.\n\
-      Update now, join our Summer Translation event, and travel with total confidence!\n\
-      \nIf Lens helps you navigate new places, a quick 5-star rating makes our season!"
-    version: 3.1.15
-    app_store_url: https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: August 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/f5/15/3cf515f6-c289-255b-a746-b93376436953/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '13.0'
+    releaseNotes: "\xB7 Improved features in the tools for easier document handling.\n\
+      \xB7 Smarter AI search that finds what you need faster and more accurately.\n\
+      \xB7 Now supports Markdown for you to view right in the app."
+    version: 7.23.5
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

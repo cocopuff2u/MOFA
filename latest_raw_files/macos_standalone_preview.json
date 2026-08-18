@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 17, 2026 07:18 PM EDT",
+    "last_updated": "August 17, 2026 08:59 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "26213.1003.5004.4102",
-            "full_version": "26213.1003.5004.4102",
-            "last_updated": "August 11, 2026",
+            "short_version": "26213.1006.5011.1671",
+            "full_version": "26213.1006.5011.1671",
+            "last_updated": "August 12, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1003.5004.4102/MicrosoftTeams_26163.407.4839.8659_to_26213.1003.5004.4102_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1003.5004.4102/MicrosoftTeams_26163.407.4839.8659_to_26213.1003.5004.4102_BinaryDelta.pkg",
-            "sha1": "fdc0cf12aff1543a6d0282d81c0f4fbcbf43bae9",
-            "sha256": "a8136856e796035798c203cf07ab53a8a22723fddd3f331ddad51afe5f88bbae"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1006.5011.1671/MicrosoftTeams_26183.1901.4874.5228_to_26213.1006.5011.1671_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1006.5011.1671/MicrosoftTeams_26183.1901.4874.5228_to_26213.1006.5011.1671_BinaryDelta.pkg",
+            "sha1": "e42dd0621cb7346f6574a982b1f6af768e94301b",
+            "sha256": "415c9a3b3bc38ec1e140c2de4aaa409fc85f9f7930554d8ba24c90a957a42ab8"
         },
         {
             "name": "Intune",
@@ -146,14 +146,14 @@
             "application_id": "WDAVCONSUMER",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26062.0011",
-            "full_version": "101.26062.0011",
-            "last_updated": "July 31, 2026",
+            "short_version": "101.26062.0012",
+            "full_version": "101.26062.0012",
+            "last_updated": "August 12, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0011_Individuals_Installer.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0011_Individuals_Installer.pkg",
-            "sha1": "N/A",
-            "sha256": "9a3a8875f9af41791d09e0c37244dda10225c51eecbe7e0c34f2602a8316368b"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0012_Individuals_Installer.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26062.0012_Individuals_Installer.pkg",
+            "sha1": "b03cf4a4cd7d43de429887e0fb42c110f205f264",
+            "sha256": "3b93cf3ccbdfda3127a2a83ac2cb9017bddb637e65b2de721376888b7e949855"
         },
         {
             "name": "Defender Shim",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 19, 2026 02:28 PM EDT</last_updated>
+    <last_updated>August 19, 2026 03:21 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -20,42 +20,42 @@
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.113.0 (26081216)</short_version>
-        <full_version>16.113.26081216</full_version>
-        <last_updated>August 12, 2026</last_updated>
+        <short_version>16.113.0 (26081618)</short_version>
+        <full_version>16.113.26081618</full_version>
+        <last_updated>August 16, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081216_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081216_Updater.pkg</latest_download>
-        <sha1>002ad54dbc0b5a4b62f794467a5d20dc042e8080</sha1>
-        <sha256>1a27d605f940d34ed5af49556b488974b0e0823e154d32239b5156c42c11062c</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081618_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081618_Updater.pkg</latest_download>
+        <sha1>ce57eccfd63851980f6cb5372da96dd9bee1685c</sha1>
+        <sha256>f80e746c4e2dedc476083ce2d11b37107626278c21a69b9c1e4550bda6e646cc</sha256>
     </package>
     <package>
         <name>PowerPoint</name>
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.113.0 (26081216)</short_version>
-        <full_version>16.113.26081216</full_version>
-        <last_updated>August 12, 2026</last_updated>
+        <short_version>16.113.0 (26081618)</short_version>
+        <full_version>16.113.26081618</full_version>
+        <last_updated>August 16, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.113.26081216_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.113.26081216_Updater.pkg</latest_download>
-        <sha1>ac7c6b4c7b757458d87b4e90d906b9eef37d6289</sha1>
-        <sha256>490c0b488bb8885d45a84789aa4785d11be0f4e395137276ce11a9de0b8ba7b8</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.113.26081618_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.113.26081618_Updater.pkg</latest_download>
+        <sha1>4339754ee6103196c302aca3160043e8a30c38a0</sha1>
+        <sha256>41d80b71f4742201a897cda1775b36d7027d997a2e7d1e9089392055065c5ca7</sha256>
     </package>
     <package>
         <name>Outlook</name>
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.113.0 (26081216)</short_version>
-        <full_version>16.113.26081216</full_version>
-        <last_updated>August 12, 2026</last_updated>
+        <short_version>16.113.0 (26081618)</short_version>
+        <full_version>16.113.26081618</full_version>
+        <last_updated>August 16, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.113.26081216_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.113.26081216_Updater.pkg</latest_download>
-        <sha1>4b1323f8ddc21abc11f986c16df5298925e5f11f</sha1>
-        <sha256>5a546a633d17d0eef56d1c830d9b25d82aac5744e9e50dbac8454931bd83f868</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.113.26081618_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.113.26081618_Updater.pkg</latest_download>
+        <sha1>6fbb1317f6564aeb7a2e10dc5bab336c33c15bf6</sha1>
+        <sha256>269bdbc960cbfe4fedfb22dd959138abb128335d521bb22e528a954648249971</sha256>
     </package>
     <package>
         <name>OneNote</name>
@@ -178,7 +178,7 @@
         <full_version>1.135.0-insider</full_version>
         <last_updated>August 19, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/a1c7d1be7ebeddac39ee87a311d940b04b2e5da2/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/fff2914fa0497b26ebcc5a3cf78fc571e24807d0/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 19, 2026 06:23 AM EDT",
+    "last_updated": "August 19, 2026 07:20 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -60,11 +60,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "August 06, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/32/de/ac32de55-4c18-c864-5d17-a7436a3fe515/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/8f/0c/6e8f0caf-a993-d648-1900-09ac260bdef5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "18.7.3",
+            "releaseNotes": "After scanning, you can now save photos to your device's photo library or save photos and documents to your device's files storage\u2014while still having the option to save a copy to OneDrive.",
+            "version": "18.8.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
         },
         {
@@ -91,14 +91,14 @@
         },
         {
             "name": "iOS Microsoft Copilot",
-            "application_name": "Copilot: Your AI Assistant",
-            "bundleId": "com.microsoft.copilot",
+            "application_name": "Microsoft Copilot",
+            "bundleId": "com.microsoft.officemobile",
             "currentVersionReleaseDate": "August 18, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/89/1f/ff891f1a-eb30-c457-902a-f30474b9ee28/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Introducing the New Copilot: Your AI Companion\nThis update includes an intuitive design with more digestible and faster answers, plus new features.\nCopilot Voice: Perfect for brainstorming, quick questions, or just venting.\nCopilot Daily: Start your day with a news and weather summary. Clean, simple, and easy to digest.",
-            "version": "30.0.440813001",
-            "app_store_url": "https://apps.apple.com/us/app/copilot-your-ai-assistant/id6472538445?uo=4"
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/9a/51/fe9a5197-9eaf-0485-6997-a21031cec3f7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "18.0",
+            "releaseNotes": "\u2022 General quality and performance enhancements.",
+            "version": "2.113.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4"
         },
         {
             "name": "iOS Microsoft Loop",
@@ -280,11 +280,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "August 18, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/20/bc/5120bc41-2e80-fced-c963-0d5f8fcb00a2/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 11, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/bc/44/46bc4486-df70-9ce5-88f9-c5bc623637a6/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.26082.7",
+            "version": "3.26081.14",
             "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {
@@ -377,14 +377,14 @@
         },
         {
             "name": "iOS Microsoft 365 Office",
-            "application_name": "Microsoft 365 Copilot",
+            "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "August 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/6d/d8/c06dd84a-fdb9-6b38-8ad1-2cc68b848b13/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/9a/51/fe9a5197-9eaf-0485-6997-a21031cec3f7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.113",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
+            "version": "2.113.1",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4"
         },
         {
             "name": "iOS Microsoft Skype for Business",

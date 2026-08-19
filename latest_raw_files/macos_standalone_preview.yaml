@@ -1,4 +1,4 @@
-last_updated: August 18, 2026 09:00 PM EDT
+last_updated: August 18, 2026 10:17 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -76,14 +76,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 26213.1006.5011.1671
-  full_version: 26213.1006.5011.1671
-  last_updated: August 12, 2026
+  short_version: 26225.1701.5018.9366
+  full_version: 26225.1701.5018.9366
+  last_updated: August 14, 2026
   min_os: '14.0'
-  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1006.5011.1671/MicrosoftTeams_26183.1901.4874.5228_to_26213.1006.5011.1671_BinaryDelta.pkg
-  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26213.1006.5011.1671/MicrosoftTeams_26183.1901.4874.5228_to_26213.1006.5011.1671_BinaryDelta.pkg
-  sha1: e42dd0621cb7346f6574a982b1f6af768e94301b
-  sha256: 415c9a3b3bc38ec1e140c2de4aaa409fc85f9f7930554d8ba24c90a957a42ab8
+  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg
+  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg
+  sha1: 7f46c8e774a52e519fb1873387496f0c67256197
+  sha256: a51e8eae3427b285a0c9e8b0c74a5f9dd846748a1e82aa2959b48b06cc576d92
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app
@@ -112,14 +112,14 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26062.0012
-  full_version: 101.26062.0012
-  last_updated: August 12, 2026
+  short_version: 101.26062.0011
+  full_version: 101.26062.0011
+  last_updated: July 31, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
-  sha1: 45fe137ae2d5580a234502d0a6e6ec9c35245947
-  sha256: 7968b8761c5721c86c0758ca74bd8db58fa09ed70393eb545a0c6f8ea39dfce2
+  sha1: 2f30b14415b136af86504339e3e1c66f44ffd454
+  sha256: 7f8d30c4f429e484ade6f0aca369ecb0484b3eefa772a4b75b68c1d3e2ed346a
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app

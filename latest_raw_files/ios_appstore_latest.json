@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 20, 2026 11:28 AM EDT",
+    "last_updated": "August 20, 2026 12:29 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -82,11 +82,11 @@
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "August 20, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/4c/1f/1b4c1f5c-b953-ce50-d0aa-06fa6ba14188/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 04, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/08/86/990886fa-3344-993b-d35e-40b2977b0131/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and improvements",
-            "version": "1.1.80120102",
+            "version": "1.1.79210103",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens: Translate & Photo Finder",
-            "bundleId": "com.searchdodo.ios",
-            "currentVersionReleaseDate": "July 14, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a0/ef/a6a0ef3d-67f6-7483-e8d5-22e05016e106/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.6",
-            "releaseNotes": "Summer is here!\n\nReady to explore the world and translate everything on the go?\nWe\u2019ve polished the app behind the scenes to make sure your camera translations and image searches are faster and smoother than ever.\nUpdate now, join our Summer Translation event, and travel with total confidence!\n\nIf Lens helps you navigate new places, a quick 5-star rating makes our season!",
-            "version": "3.1.15",
-            "app_store_url": "https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4"
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
+            "currentVersionReleaseDate": "August 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/ae/9f/f7ae9f20-d5ed-fdb8-c75e-7b5844536878/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 Improved Slides mode: scan multiple pages more smoothly, and change filters more easily.\n\u00b7 Markdown documents now support editing.",
+            "version": "7.24.0",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",
@@ -335,11 +335,11 @@
             "name": "iOS Microsoft Power BI",
             "application_name": "Microsoft Power BI",
             "bundleId": "com.microsoft.powerbimobile",
-            "currentVersionReleaseDate": "August 19, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/56/de/fc56deb9-0ac1-8240-ada4-3d4b07d7de4a/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 02, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/b8/41/39b84198-f8a5-16a2-2b55-cef45e99fd42/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "- Improved stability and fixed various bugs.\u200b",
-            "version": "38.2",
+            "releaseNotes": "- Get data from Power BI report visuals to share or analyze in Excel.",
+            "version": "38.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4"
         },
         {
@@ -379,11 +379,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "August 19, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/ef/4f/e6ef4f7a-82e8-8aad-f392-581c4c7cd7fc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/9a/51/fe9a5197-9eaf-0485-6997-a21031cec3f7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.113.2",
+            "version": "2.113.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4"
         },
         {

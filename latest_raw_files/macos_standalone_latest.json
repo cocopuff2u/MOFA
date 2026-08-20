@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 20, 2026 04:22 PM EDT",
+    "last_updated": "August 20, 2026 05:23 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -166,9 +166,9 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26062.0011",
-            "full_version": "101.26062.0011",
-            "last_updated": "July 31, 2026",
+            "short_version": "101.26062.0012",
+            "full_version": "101.26062.0012",
+            "last_updated": "August 12, 2026",
             "min_os": "14.0",
             "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg",
             "app_update_sha1": "2f30b14415b136af86504339e3e1c66f44ffd454",

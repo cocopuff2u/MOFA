@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 20, 2026 01:25 AM EDT</last_updated>
+    <last_updated>August 20, 2026 02:38 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.112.1 (26081720)</short_version>
-        <full_version>16.112.26081720</full_version>
-        <last_updated>August 17, 2026</last_updated>
+        <short_version>16.112.0 (26081010)</short_version>
+        <full_version>16.112.26081010</full_version>
+        <last_updated>August 10, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081720_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081720_Updater.pkg</latest_download>
-        <sha1>c15adc3a4116a8e6c2144195eaf0728649514cc8</sha1>
-        <sha256>3c15401eda0bd4cdd80f0dda224fc7329ddef7719139714c39d6048b87ae27e7</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081010_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081010_Updater.pkg</latest_download>
+        <sha1>e5d35380c07f67951a30e31540c613ad104a9e80</sha1>
+        <sha256>5e6680cbe5f869d99b7d3da52aa371dd70660f7e53fe632f694fa77934723165</sha256>
     </package>
     <package>
         <name>Excel</name>
@@ -34,28 +34,28 @@
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.112.1 (26081720)</short_version>
-        <full_version>16.112.26081720</full_version>
-        <last_updated>August 17, 2026</last_updated>
+        <short_version>16.112.0 (26081010)</short_version>
+        <full_version>16.112.26081010</full_version>
+        <last_updated>August 10, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26081720_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26081720_Updater.pkg</latest_download>
-        <sha1>c3d91a3d1441457aead5addf2c7f15121bda8ddf</sha1>
-        <sha256>2265825c718eaa465e3f4f8d350209ff64c3c14d642d5bc2f123af5507dff67a</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26081010_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26081010_Updater.pkg</latest_download>
+        <sha1>N/A</sha1>
+        <sha256>5523294904f78e84fcc90fc1496b240ded56ebc5fd754fd9d22f5d32edc98c54</sha256>
     </package>
     <package>
         <name>Outlook</name>
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.112.1 (26081720)</short_version>
-        <full_version>16.112.26081720</full_version>
-        <last_updated>August 17, 2026</last_updated>
+        <short_version>16.112.0 (26081010)</short_version>
+        <full_version>16.112.26081010</full_version>
+        <last_updated>August 10, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26081720_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26081720_Updater.pkg</latest_download>
-        <sha1>e326e034c2243bf1596fcdab7e5a51a7f7e6e6ee</sha1>
-        <sha256>3e2acfc7a81df2722b39ba6255a97e86cbe82b2dc5bdf014a231a0e2d2773531</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26081010_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26081010_Updater.pkg</latest_download>
+        <sha1>78c371cf4a65f8368f0c0130053cde28861afd33</sha1>
+        <sha256>b84a77b26bc247e2b86615b7bffdf66586783f99cf9ae403bdbacc41b794b799</sha256>
     </package>
     <package>
         <name>OneNote</name>
@@ -176,9 +176,9 @@
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
         <short_version>1.135.0-</short_version>
         <full_version>1.135.0-insider</full_version>
-        <last_updated>August 19, 2026</last_updated>
+        <last_updated>August 20, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/7e0ab9d1672db1f56f2a67913f4df63a609a2119/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/05bf4f5ce25799e2d0daf32bf90cb885ca75a0b9/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 20, 2026 09:43 AM EDT</last_updated>
+    <last_updated>August 20, 2026 10:31 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -20,14 +20,14 @@
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.113.0 (26081913)</short_version>
-        <full_version>16.113.26081913</full_version>
-        <last_updated>August 19, 2026</last_updated>
+        <short_version>16.113.0 (26081618)</short_version>
+        <full_version>16.113.26081618</full_version>
+        <last_updated>August 16, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081913_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081913_Updater.pkg</latest_download>
-        <sha1>15baaa195aef668bf7ee6b3b64ff8043a84b3399</sha1>
-        <sha256>6ceea53e824319536aa1f5f697d631073833bef446c58240be6d842956bc3336</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081618_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081618_Updater.pkg</latest_download>
+        <sha1>ce57eccfd63851980f6cb5372da96dd9bee1685c</sha1>
+        <sha256>f80e746c4e2dedc476083ce2d11b37107626278c21a69b9c1e4550bda6e646cc</sha256>
     </package>
     <package>
         <name>PowerPoint</name>
@@ -62,14 +62,14 @@
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote</CFBundleVersion>
-        <short_version>16.113.0 (26081216)</short_version>
-        <full_version>16.113.26081216</full_version>
-        <last_updated>August 12, 2026</last_updated>
+        <short_version>16.113.0 (26081618)</short_version>
+        <full_version>16.113.26081618</full_version>
+        <last_updated>August 16, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.113.26081216_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.113.26081216_Updater.pkg</latest_download>
-        <sha1>N/A</sha1>
-        <sha256>N/A</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.113.26081618_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.113.26081618_Updater.pkg</latest_download>
+        <sha1>fe097b390227d22dfc4d1c0e9cf36b16b2fbf026</sha1>
+        <sha256>2dcb06e7b6a9af556212cce6c280f9b3bf16778f5c9a26977d6aff953b88476a</sha256>
     </package>
     <package>
         <name>Skype</name>
@@ -90,14 +90,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
-        <short_version>26218.2401.4995.4970</short_version>
-        <full_version>26218.2401.4995.4970</full_version>
-        <last_updated>August 07, 2026</last_updated>
+        <short_version>26225.1701.5018.9366</short_version>
+        <full_version>26225.1701.5018.9366</full_version>
+        <last_updated>August 14, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26218.2401.4995.4970/MicrosoftTeams_26163.407.4839.8659_to_26218.2401.4995.4970_BinaryDelta.pkg</update_download>
-        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26218.2401.4995.4970/MicrosoftTeams_26163.407.4839.8659_to_26218.2401.4995.4970_BinaryDelta.pkg</latest_download>
-        <sha1>0f4a102edc75466cb6c535fb1d85c4b942d47f89</sha1>
-        <sha256>0132827d257ee543b978a935154f62ac017aa1fccd9b54b2a75f375a0516bce2</sha256>
+        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg</update_download>
+        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg</latest_download>
+        <sha1>7f46c8e774a52e519fb1873387496f0c67256197</sha1>
+        <sha256>a51e8eae3427b285a0c9e8b0c74a5f9dd846748a1e82aa2959b48b06cc576d92</sha256>
     </package>
     <package>
         <name>Intune</name>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 21, 2026 09:41 AM EDT",
+    "last_updated": "August 21, 2026 10:30 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -82,11 +82,11 @@
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "August 20, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/4c/1f/1b4c1f5c-b953-ce50-d0aa-06fa6ba14188/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 04, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/08/86/990886fa-3344-993b-d35e-40b2977b0131/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and improvements",
-            "version": "1.1.80120102",
+            "version": "1.1.79210103",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4"
         },
         {

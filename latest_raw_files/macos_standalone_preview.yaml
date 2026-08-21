@@ -1,29 +1,29 @@
-last_updated: August 20, 2026 07:21 PM EDT
+last_updated: August 20, 2026 09:03 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.112.1 (26081720)
-  full_version: 16.112.26081720
-  last_updated: August 17, 2026
+  short_version: 16.112.0 (26081010)
+  full_version: 16.112.26081010
+  last_updated: August 10, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081720_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081720_Updater.pkg
-  sha1: c15adc3a4116a8e6c2144195eaf0728649514cc8
-  sha256: 3c15401eda0bd4cdd80f0dda224fc7329ddef7719139714c39d6048b87ae27e7
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081010_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081010_Updater.pkg
+  sha1: e5d35380c07f67951a30e31540c613ad104a9e80
+  sha256: 5e6680cbe5f869d99b7d3da52aa371dd70660f7e53fe632f694fa77934723165
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.112.1 (26081720)
-  full_version: 16.112.26081720
-  last_updated: August 17, 2026
+  short_version: 16.112.0 (26081010)
+  full_version: 16.112.26081010
+  last_updated: August 10, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26081720_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26081720_Updater.pkg
-  sha1: f9832c3ce43dd11a003f9e193f7066b72eb73643
-  sha256: 03b1f54382cfe5ca900f3b554360b5f6f74e5343206409c9405adabe0a793f14
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26081010_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26081010_Updater.pkg
+  sha1: 62acb0e9a6ef8430e4cfaae111f467e647ba474b
+  sha256: a5ad030b47b8e355f3834eb532842f5ddcb1cced7fe2bfc84019c77685ec7eab
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
@@ -136,14 +136,14 @@ packages:
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26050.0000
-  full_version: 101.26050.0000
-  last_updated: July 28, 2026
+  short_version: 101.26030.0000
+  full_version: 101.26030.0000
+  last_updated: May 08, 2026
   min_os: '12.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg
-  sha1: 9b335f964f35275540e2b24cb9434b255a223e58
-  sha256: 5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26030.0000_Individuals_Shim_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26030.0000_Individuals_Shim_Installer.pkg
+  sha1: 25f9f9634ac9bf70be8b9741c2587d8dd17136c3
+  sha256: e306f0bd9cd2dcd7160fa415e2b19a883b0d9f65c551030be52fbdda72a1b90a
 - name: Visual
   application_id: N/A
   application_name: Visual Studio Code - Insiders.app

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 21, 2026 08:59 PM EDT</last_updated>
+	<last_updated>August 21, 2026 10:20 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -386,11 +386,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>Lens - PDF Scanner and Editor</application_name>
 		<bundleId>com.Scantera593thzp.app</bundleId>
-		<currentVersionReleaseDate>August 18, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/9e/fa/5b9efac7-2b28-c473-5994-053d915ef817/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 21, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f9/5f/87f95f7a-c168-2ace-b8e1-d6319bba0c36/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Small bug fixes</releaseNotes>
-		<version>1.4.1</version>
+		<releaseNotes>Bug fixes and performance enhancements</releaseNotes>
+		<version>1.4.2</version>
 		<app_store_url>https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4</app_store_url>
 	</package>
 	<package>

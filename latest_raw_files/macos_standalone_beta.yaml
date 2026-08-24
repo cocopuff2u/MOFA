@@ -1,4 +1,4 @@
-last_updated: August 24, 2026 10:37 AM EDT
+last_updated: August 24, 2026 11:34 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -76,14 +76,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 26232.2001.5043.6023
-  full_version: 26232.2001.5043.6023
-  last_updated: August 21, 2026
+  short_version: 26225.1701.5018.9366
+  full_version: 26225.1701.5018.9366
+  last_updated: August 14, 2026
   min_os: '14.0'
-  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26232.2001.5043.6023/MicrosoftTeams_26183.1901.4874.5228_to_26232.2001.5043.6023_BinaryDelta.pkg
-  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26232.2001.5043.6023/MicrosoftTeams_26183.1901.4874.5228_to_26232.2001.5043.6023_BinaryDelta.pkg
-  sha1: 74e459afe2a4216b39b989003d32ada81beec477
-  sha256: 59b969019b58c61f5edfe4da84476240eeaf0e14f58e40b19cfa41c3838262e3
+  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg
+  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg
+  sha1: 7f46c8e774a52e519fb1873387496f0c67256197
+  sha256: a51e8eae3427b285a0c9e8b0c74a5f9dd846748a1e82aa2959b48b06cc576d92
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app

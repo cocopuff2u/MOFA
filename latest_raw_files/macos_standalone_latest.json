@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 25, 2026 06:21 PM EDT",
+    "last_updated": "August 25, 2026 07:20 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -38,16 +38,16 @@
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.112.1 (26081720)",
-            "full_version": "16.112.26081720",
-            "last_updated": "August 17, 2026",
+            "short_version": "16.112.2 (26082125)",
+            "full_version": "16.112.26082125",
+            "last_updated": "August 21, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.112.26081720_Updater.pkg",
-            "app_update_sha1": "c15adc3a4116a8e6c2144195eaf0728649514cc8",
-            "app_update_sha256": "3c15401eda0bd4cdd80f0dda224fc7329ddef7719139714c39d6048b87ae27e7",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.112.26082125_Updater.pkg",
+            "app_update_sha1": "6842489b4c8ff738d601f6e5ac7109ff5a4b1aa9",
+            "app_update_sha256": "5c106854a5edf0c9e9f0e4ebe8445d49e4af8d7678c6b585042cfbdbef329dee",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525134",
-            "full_update_sha1": "fc67f90f394b4e20117cc3471221071c9ac988ce",
-            "full_update_sha256": "bac312145a1733b904f36cf0d7de2cf93e15aebbc1f0d5665a72d887eb7c5997"
+            "full_update_sha1": "f3e3ca093cd129407810000454968e1a6110c0f1",
+            "full_update_sha256": "7714a3492573e019923ea95541d43082e856104ea0913cfd9b55930bccf296c4"
         },
         {
             "name": "Excel",

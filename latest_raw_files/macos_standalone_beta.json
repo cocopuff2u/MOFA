@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 25, 2026 08:40 AM EDT",
+    "last_updated": "August 25, 2026 09:49 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -20,14 +20,14 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.113.0 (26082314)",
-            "full_version": "16.113.26082314",
-            "last_updated": "August 23, 2026",
+            "short_version": "16.113.0 (26081913)",
+            "full_version": "16.113.26081913",
+            "last_updated": "August 19, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26082314_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26082314_Updater.pkg",
-            "sha1": "a2a7071cd2746f45aa432aa597f2fdd08d9b2528",
-            "sha256": "51fa5cbe574a5c19fb473b49694c731352a46dfa3a62ce7b3cd614a35f65dfc8"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081913_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081913_Updater.pkg",
+            "sha1": "15baaa195aef668bf7ee6b3b64ff8043a84b3399",
+            "sha256": "6ceea53e824319536aa1f5f697d631073833bef446c58240be6d842956bc3336"
         },
         {
             "name": "PowerPoint",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "26225.1701.5018.9366",
-            "full_version": "26225.1701.5018.9366",
-            "last_updated": "August 14, 2026",
+            "short_version": "26232.2001.5043.6023",
+            "full_version": "26232.2001.5043.6023",
+            "last_updated": "August 21, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg",
-            "sha1": "7f46c8e774a52e519fb1873387496f0c67256197",
-            "sha256": "a51e8eae3427b285a0c9e8b0c74a5f9dd846748a1e82aa2959b48b06cc576d92"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26232.2001.5043.6023/MicrosoftTeams_26183.1901.4874.5228_to_26232.2001.5043.6023_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26232.2001.5043.6023/MicrosoftTeams_26183.1901.4874.5228_to_26232.2001.5043.6023_BinaryDelta.pkg",
+            "sha1": "74e459afe2a4216b39b989003d32ada81beec477",
+            "sha256": "59b969019b58c61f5edfe4da84476240eeaf0e14f58e40b19cfa41c3838262e3"
         },
         {
             "name": "Intune",
@@ -178,7 +178,7 @@
             "full_version": "1.135.0-insider",
             "last_updated": "August 25, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/68953c79d41be497c119c6602fd85158a5ee56b8/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/7437923619df0b080f2fc0f85e7033558bd2865c/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

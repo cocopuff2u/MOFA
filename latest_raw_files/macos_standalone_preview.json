@@ -1,19 +1,19 @@
 {
-    "last_updated": "August 25, 2026 04:23 PM EDT",
+    "last_updated": "August 25, 2026 05:23 PM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.112.2 (26082125)",
-            "full_version": "16.112.26082125",
-            "last_updated": "August 21, 2026",
+            "short_version": "16.112.1 (26081720)",
+            "full_version": "16.112.26081720",
+            "last_updated": "August 17, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26082125_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26082125_Updater.pkg",
-            "sha1": "6842489b4c8ff738d601f6e5ac7109ff5a4b1aa9",
-            "sha256": "5c106854a5edf0c9e9f0e4ebe8445d49e4af8d7678c6b585042cfbdbef329dee"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081720_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26081720_Updater.pkg",
+            "sha1": "c15adc3a4116a8e6c2144195eaf0728649514cc8",
+            "sha256": "3c15401eda0bd4cdd80f0dda224fc7329ddef7719139714c39d6048b87ae27e7"
         },
         {
             "name": "Excel",
@@ -160,25 +160,25 @@
             "application_id": "WDAVSHIM",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26050.0000",
-            "full_version": "101.26050.0000",
-            "last_updated": "July 28, 2026",
+            "short_version": "101.26030.0000",
+            "full_version": "101.26030.0000",
+            "last_updated": "May 08, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg",
-            "sha1": "9b335f964f35275540e2b24cb9434b255a223e58",
-            "sha256": "5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26030.0000_Individuals_Shim_Installer.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26030.0000_Individuals_Shim_Installer.pkg",
+            "sha1": "25f9f9634ac9bf70be8b9741c2587d8dd17136c3",
+            "sha256": "e306f0bd9cd2dcd7160fa415e2b19a883b0d9f65c551030be52fbdda72a1b90a"
         },
         {
             "name": "Visual",
             "application_id": "N/A",
             "application_name": "Visual Studio Code - Insiders.app",
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
-            "short_version": "1.135.0-",
-            "full_version": "1.135.0-insider",
+            "short_version": "1.136.0-",
+            "full_version": "1.136.0-insider",
             "last_updated": "August 25, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/7437923619df0b080f2fc0f85e7033558bd2865c/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/293593cce438781a8093ad49dd221cf50dcd0d7a/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

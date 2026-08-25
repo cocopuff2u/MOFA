@@ -1,4 +1,4 @@
-last_updated: August 25, 2026 07:22 AM EDT
+last_updated: August 25, 2026 08:38 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -66,17 +66,13 @@ packages:
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
     bundleId: com.microsoft.rdc.ios
-    currentVersionReleaseDate: August 11, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/f4/53/0af45388-cb1c-a3ec-3764-88bcb9a597f1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 24, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/2e/b2/d02eb286-bf57-8144-c21d-c7839c4b45a0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: "In this release we made the following updates:\n \n\u2022 Fixed\
-      \ bugs reported by users and internal telemetry.\n\u2022 Resolved input capture\
-      \ issues that were affecting multitasking.\n\u2022 Reworked aspects of the new\
-      \ in-session controls tutorial.\n\u2022 Redesigned the Add Workspace, Add Account\
-      \ and Workspace Details flows to start from the current tab.\n\u2022 Cleaned\
-      \ up the Liquid Glass app settings page.\n \nIf you encounter any errors, you\
-      \ can contact us via Settings > Submit Feedback."
-    version: 11.3.4
+    releaseNotes: In this release, we made some improvements to help enhance the stability
+      and supportability of Windows App. If you encounter any errors, you can contact
+      us via Settings > Submit Feedback.
+    version: 11.3.5
     app_store_url: https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'

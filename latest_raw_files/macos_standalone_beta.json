@@ -1,19 +1,19 @@
 {
-    "last_updated": "August 25, 2026 04:37 AM EDT",
+    "last_updated": "August 25, 2026 05:33 AM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.113.0 (26081913)",
-            "full_version": "16.113.26081913",
-            "last_updated": "August 19, 2026",
+            "short_version": "16.113.0 (26082314)",
+            "full_version": "16.113.26082314",
+            "last_updated": "August 23, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26081913_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26081913_Updater.pkg",
-            "sha1": "02400833c79331dd60800a55ba8e2e3ba3bf3dc4",
-            "sha256": "8d1c654c87acdd1b2e9cda45a621b7345edf598594b042fde29dc6b1dad4b0df"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26082314_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26082314_Updater.pkg",
+            "sha1": "2a7f14f7568089be3c1c83b474823def01381ef2",
+            "sha256": "5f5c8dcd76fd65c9a57bc30ebb31fd0a7158ddd2f37d364a2a4d6faa1d24eee9"
         },
         {
             "name": "Excel",

@@ -1,4 +1,4 @@
-last_updated: August 26, 2026 02:40 AM EDT
+last_updated: August 26, 2026 03:41 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -326,15 +326,14 @@ packages:
     version: '489.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: August 18, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/ae/9f/f7ae9f20-d5ed-fdb8-c75e-7b5844536878/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Improved Slides mode: scan multiple pages more smoothly, and\
-      \ change filters more easily.\n\xB7 Markdown documents now support editing."
-    version: 7.24.0
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: Lens - PDF Scanner and Editor
+    bundleId: com.Scantera593thzp.app
+    currentVersionReleaseDate: August 21, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f9/5f/87f95f7a-c168-2ace-b8e1-d6319bba0c36/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Bug fixes and performance enhancements
+    version: 1.4.2
+    app_store_url: https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

@@ -1,29 +1,29 @@
-last_updated: August 26, 2026 02:43 AM EDT
+last_updated: August 26, 2026 03:43 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.113.0 (26081913)
-  full_version: 16.113.26081913
-  last_updated: August 19, 2026
-  min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26081913_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26081913_Updater.pkg
-  sha1: 02400833c79331dd60800a55ba8e2e3ba3bf3dc4
-  sha256: 8d1c654c87acdd1b2e9cda45a621b7345edf598594b042fde29dc6b1dad4b0df
-- name: Excel
-  application_id: XCEL2019
-  application_name: Microsoft Excel.app
-  CFBundleVersion: com.microsoft.excel
   short_version: 16.113.0 (26082314)
   full_version: 16.113.26082314
   last_updated: August 23, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26082314_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26082314_Updater.pkg
-  sha1: a2a7071cd2746f45aa432aa597f2fdd08d9b2528
-  sha256: 51fa5cbe574a5c19fb473b49694c731352a46dfa3a62ce7b3cd614a35f65dfc8
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26082314_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26082314_Updater.pkg
+  sha1: 2a7f14f7568089be3c1c83b474823def01381ef2
+  sha256: 5f5c8dcd76fd65c9a57bc30ebb31fd0a7158ddd2f37d364a2a4d6faa1d24eee9
+- name: Excel
+  application_id: XCEL2019
+  application_name: Microsoft Excel.app
+  CFBundleVersion: com.microsoft.excel
+  short_version: 16.113.0 (26080420)
+  full_version: 16.113.26080420
+  last_updated: August 04, 2026
+  min_os: '14.0'
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26080420_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26080420_Updater.pkg
+  sha1: 1166f574840ddab0a62a2614f9a2ed965d41a398
+  sha256: 5fb6e9539db926625b10934fdebe7545b813f6bc906e8669004317c132c2e08e
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
@@ -52,14 +52,14 @@ packages:
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
   CFBundleVersion: com.microsoft.onenote
-  short_version: 16.113.0 (26081913)
-  full_version: 16.113.26081913
-  last_updated: August 19, 2026
+  short_version: 16.113.0 (26082314)
+  full_version: 16.113.26082314
+  last_updated: August 23, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.113.26081913_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.113.26081913_Updater.pkg
-  sha1: 0a387b1678ffa7d5fb35fc63f5d3f66a8b13c2b7
-  sha256: d43dc9d7892913feee3cb6589b3000bfdb5e1da68dff9611f42787aa9c015eef
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.113.26082314_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_OneNote_16.113.26082314_Updater.pkg
+  sha1: 37c917016ba4bfea4c618b2045f65624252f5dbe
+  sha256: 00a02fc8d42dfa4bdf923ec6bf52e07ab8de725ce12e114e04692de74c9be831
 - name: Skype
   application_id: MSFB16
   application_name: Skype for Business.app
@@ -76,14 +76,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams
-  short_version: 26225.1701.5018.9366
-  full_version: 26225.1701.5018.9366
-  last_updated: August 14, 2026
+  short_version: 26232.2001.5043.6023
+  full_version: 26232.2001.5043.6023
+  last_updated: August 21, 2026
   min_os: '14.0'
-  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg
-  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg
-  sha1: 7f46c8e774a52e519fb1873387496f0c67256197
-  sha256: a51e8eae3427b285a0c9e8b0c74a5f9dd846748a1e82aa2959b48b06cc576d92
+  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26232.2001.5043.6023/MicrosoftTeams_26183.1901.4874.5228_to_26232.2001.5043.6023_BinaryDelta.pkg
+  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26232.2001.5043.6023/MicrosoftTeams_26183.1901.4874.5228_to_26232.2001.5043.6023_BinaryDelta.pkg
+  sha1: 74e459afe2a4216b39b989003d32ada81beec477
+  sha256: 59b969019b58c61f5edfe4da84476240eeaf0e14f58e40b19cfa41c3838262e3
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app

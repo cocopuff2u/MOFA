@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">August 26, 2026 05:37 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">August 26, 2026 10:51 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -128,7 +128,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>_Some of these tools are also available via [Homebrew](https://brew.sh); the versions below reflect the latest official Microsoft releases._</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">August 26, 2026 05:39 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">August 26, 2026 10:54 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -138,7 +138,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **.NET SDK 9 (STS)**<br><br>_**Last Update:** `August 11, 2026`_<br> | **Version:**<br>`9.0.317` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.317/dotnet-sdk-9.0.317-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
 | **.NET SDK 8 (LTS)**<br><br>_**Last Update:** `August 11, 2026`_<br> | **Version:**<br>`8.0.424` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.424/dotnet-sdk-8.0.424-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
 | **Azure Functions Core Tools**<br><br>_**Last Update:** `August 24, 2026`_<br> | **Version:**<br>`4.14.0` | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.14.0/Azure.Functions.Cli.osx-arm64.4.14.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
-| **Azure Developer CLI (azd)**<br><br>_**Last Update:** `August 19, 2026`_<br> | **Version:**<br>`1.31.2` | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.31.2/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
+| **Azure Developer CLI (azd)**<br><br>_**Last Update:** `August 26, 2026`_<br> | **Version:**<br>`1.32.0` | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.32.0/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **AzCopy**<br><br>_**Last Update:** `August 12, 2026`_<br> | **Version:**<br>`10.32.7` | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_darwin_arm64_10.32.7.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **Bicep CLI**<br><br>_**Last Update:** `July 30, 2026`_<br> | **Version:**<br>`0.46.1` | <a href="https://github.com/Azure/bicep/releases/download/v0.46.1/bicep-osx-arm64"><img src=".github/images/bicep.png" alt="Download Image" width="80"></a> |
 | **Azure CLI**<br><br>_**Last Update:** `August 12, 2026`_<br> | **Version:**<br>`2.89.1` | <img src=".github/images/azure.png" alt="Azure CLI" width="80"><br>`brew install azure-cli` |
@@ -154,7 +154,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **.NET SDK 9 (STS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.317/dotnet-sdk-9.0.317-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `62b62ede499c2703e075afad4570e4acd1506b6d8b0b927185485a7c7983973a` |
 | **.NET SDK 8 (LTS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.424/dotnet-sdk-8.0.424-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `611d8fe999a4fad934249a4c114b28bdd1895bba20593f93efa08ae0d3ea8633` |
 | **Azure Functions Core Tools** | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.14.0/Azure.Functions.Cli.osx-arm64.4.14.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `b0f71d0a287139215e3a628eca406885d6358aaeff6843480582c8ea6a1726a1` |
-| **Azure Developer CLI (azd)** | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.31.2/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `8dbccb1593ed2de87d40c98473335858cf8bd3b7a99842df195fe4e3cff278f1` |
+| **Azure Developer CLI (azd)** | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.32.0/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `4bc27a610ed2d971f9d1a8c82ee8e54df68abfba9fb514acd61ec1781ce36178` |
 | **AzCopy** | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_darwin_arm64_10.32.7.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `9ff234c4e0eed47d74b112320a0774326da213feee603caa93da35f9d09b7d1c` |
 | **Bicep CLI** | <a href="https://github.com/Azure/bicep/releases/download/v0.46.1/bicep-osx-arm64"><img src=".github/images/bicep.png" alt="Download Image" width="80"></a> | `7e1064cc780e1767822d7f112f25fdbe72c956e40f75c24254ce8530b41d649a` |
 
@@ -162,7 +162,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">August 26, 2026 05:37 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">August 26, 2026 10:51 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -170,7 +170,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft Excel | `16.112.2` | `com.microsoft.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/dc/66/b9dc66f8-170d-99d7-acca-66bf23e40b85/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
 | Microsoft PowerPoint | `16.112.2` | `com.microsoft.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ad/4a/34ad4a5e-46a8-d8ce-31cd-20da487024ab/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `16.112.1` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/4e/71/4e4e7158-a7bf-aee8-726f-e16870957916/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
-| Microsoft OneNote | `16.112.2` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/38/fa/e038fa17-242c-08d0-b230-a907563ea1fa/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
+| Microsoft OneNote | `16.112.1` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/9e/6e/009e6ea4-c3a2-2eda-6dfd-0012aa19f444/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
 | OneDrive | `26.139.0720` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4e/8a/cb4e8ab2-a667-5509-62a0-f5d5cc97da3e/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
 | RMS Sharing | `1.3.4` | `com.microsoft.protection.rms-sharing-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/09/a4/f4/09a4f4b3-7aed-51c0-8e6b-5cb95ec6dada/rmssharing.png/512x512bb.png" alt="RMS Sharing" width="40"> |
 | Windows App | `11.4.0` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/71/ff/f571ff21-86a3-fa50-7494-53a5feaf658e/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
@@ -186,7 +186,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">August 26, 2026 05:37 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">August 26, 2026 10:51 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -224,7 +224,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Microsoft 365 Admin | `6.0.1` | `com.microsoft.o365shdmobileapp` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/2a/0a/092a0a45-9984-9a8b-9555-f4b37522e4ac/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft 365 Admin" width="40"> |
 | Intune Company Portal | `5.2606.2` | `com.microsoft.CompanyPortal` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a1/a3/bda1a30f-4d89-9da7-b23b-36b5c7e0d3af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Intune Company Portal" width="40"> |
 | Azure Information Protection | `2.1.4` | `com.microsoft.rms-sharing` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/d8/9df6d87e-66ad-d6ab-aad9-d030ef4aa9cb/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg" alt="Azure Information Protection" width="40"> |
-| Microsoft Copilot | `2.113.3` | `com.microsoft.officemobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/ef/7a/acef7add-7acb-054e-fb18-3bfbb1e8bb15/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft Copilot" width="40"> |
+| Microsoft Copilot | `2.113.4` | `com.microsoft.officemobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/8c/79/788c7921-50db-4d0c-8332-8dada5096dd6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft Copilot" width="40"> |
 | Skype for Business | `6.34.119` | `com.microsoft.lync2013.iphone` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" alt="Skype for Business" width="40"> |
 
 

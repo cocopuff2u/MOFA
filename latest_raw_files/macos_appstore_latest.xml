@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 27, 2026 07:32 PM EDT</last_updated>
+	<last_updated>August 28, 2026 04:50 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -74,14 +74,14 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>RMS Sharing</application_name>
-		<bundleId>com.microsoft.protection.rms-sharing-mac</bundleId>
-		<currentVersionReleaseDate>March 19, 2021</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/09/a4/f4/09a4f4b3-7aed-51c0-8e6b-5cb95ec6dada/rmssharing.png/512x512bb.png</icon_image>
-		<minimumOsVersion>10.9</minimumOsVersion>
-		<releaseNotes>Bug fixes, security updates</releaseNotes>
-		<version>1.3.4</version>
-		<app_store_url>https://apps.apple.com/us/app/rms-sharing/id908570259?mt=12&amp;uo=4</app_store_url>
+		<application_name>ShareMe: File Sharing &amp; MeDrop</application_name>
+		<bundleId>com.sharedrop.wifiShare</bundleId>
+		<currentVersionReleaseDate>August 21, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/47/49/4747496e-8352-5fe7-1a6c-828600ea4921/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>Bug fixes</releaseNotes>
+		<version>1.0.4</version>
+		<app_store_url>https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

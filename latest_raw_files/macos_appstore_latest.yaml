@@ -1,4 +1,4 @@
-last_updated: August 28, 2026 04:50 AM EDT
+last_updated: August 28, 2026 04:39 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -61,14 +61,14 @@ packages:
     version: 26.139.0720
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
-    application_name: 'ShareMe: File Sharing & MeDrop'
-    bundleId: com.sharedrop.wifiShare
-    currentVersionReleaseDate: August 21, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/47/49/4747496e-8352-5fe7-1a6c-828600ea4921/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: Bug fixes
-    version: 1.0.4
-    app_store_url: https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4
+    application_name: Share-A-Cart
+    bundleId: com.shareacart.Share-A-Cart-for-Everything
+    currentVersionReleaseDate: August 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/5d/dc/3f5ddc81-ff32-0083-dbd4-f17f74f97806/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.1'
+    releaseNotes: Adds barcode scanner to product search.
+    version: 3.20.0
+    app_store_url: https://apps.apple.com/us/app/share-a-cart/id1537641390?uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

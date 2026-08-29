@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 27, 2026 07:32 PM EDT</last_updated>
+	<last_updated>August 28, 2026 11:03 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -366,22 +366,22 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Meta Ads Manager</application_name>
 		<bundleId>com.facebook.MAdMan</bundleId>
-		<currentVersionReleaseDate>August 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/23/f6/8f23f605-9a1a-d701-7707-7d2ba8b8b2f2/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 27, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/8f/76/c08f76d9-8390-9d67-08af-2685b2f8b5a6/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.1</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance updates</releaseNotes>
-		<version>489.0</version>
+		<version>490.0</version>
 		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>Lens - PDF Scanner and Editor</application_name>
 		<bundleId>com.Scantera593thzp.app</bundleId>
-		<currentVersionReleaseDate>August 21, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f9/5f/87f95f7a-c168-2ace-b8e1-d6319bba0c36/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 28, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance enhancements</releaseNotes>
-		<version>1.4.2</version>
+		<releaseNotes>Code refinements, minor bug fix</releaseNotes>
+		<version>1.4.3</version>
 		<app_store_url>https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4</app_store_url>
 	</package>
 	<package>
@@ -431,14 +431,16 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Azure Information Protection</name>
-		<application_name>Azure Information Protection</application_name>
-		<bundleId>com.microsoft.rms-sharing</bundleId>
-		<currentVersionReleaseDate>August 25, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/d8/9df6d87e-66ad-d6ab-aad9-d030ef4aa9cb/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>Bug fixes</releaseNotes>
-		<version>2.1.4</version>
-		<app_store_url>https://apps.apple.com/us/app/azure-information-protection/id689516635?uo=4</app_store_url>
+		<application_name>Microsoft Azure</application_name>
+		<bundleId>com.microsoft.azure</bundleId>
+		<currentVersionReleaseDate>July 21, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
+		<releaseNotes>Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.
+
+Please reach out to us for any questions, concerns, or feature requests.</releaseNotes>
+		<version>8.1.10</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>

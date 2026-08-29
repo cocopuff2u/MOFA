@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 29, 2026 10:54 AM EDT",
+    "last_updated": "August 29, 2026 02:08 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -60,23 +60,23 @@
             "name": "MacOS Microsoft OneDrive",
             "application_name": "OneDrive",
             "bundleId": "com.microsoft.OneDrive-mac",
-            "currentVersionReleaseDate": "August 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4e/8a/cb4e8ab2-a667-5509-62a0-f5d5cc97da3e/OneDrive.png/512x512bb.png",
+            "currentVersionReleaseDate": "August 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/55/06/d055065d-8a6a-8852-e31f-f7d976a595ae/OneDrive.png/512x512bb.png",
             "minimumOsVersion": "14.4",
             "releaseNotes": "Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.",
-            "version": "26.139.0720",
+            "version": "26.145.0728",
             "app_store_url": "https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4"
         },
         {
             "name": "MacOS RMS Sharing",
-            "application_name": "Share-A-Cart",
-            "bundleId": "com.shareacart.Share-A-Cart-for-Everything",
-            "currentVersionReleaseDate": "August 25, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/5d/dc/3f5ddc81-ff32-0083-dbd4-f17f74f97806/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.1",
-            "releaseNotes": "Adds barcode scanner to product search.",
-            "version": "3.20.0",
-            "app_store_url": "https://apps.apple.com/us/app/share-a-cart/id1537641390?uo=4"
+            "application_name": "ShareMe: File Sharing & MeDrop",
+            "bundleId": "com.sharedrop.wifiShare",
+            "currentVersionReleaseDate": "August 21, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/47/49/4747496e-8352-5fe7-1a6c-828600ea4921/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "minimumOsVersion": "15.0",
+            "releaseNotes": "Bug fixes",
+            "version": "1.0.4",
+            "app_store_url": "https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4"
         },
         {
             "name": "MacOS Microsoft Windows App",

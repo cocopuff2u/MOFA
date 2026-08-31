@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 30, 2026 05:49 PM EDT</last_updated>
+	<last_updated>August 30, 2026 08:10 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -244,8 +244,8 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Opera: AI browser with VPN</application_name>
 		<bundleId>com.opera.OperaTouch</bundleId>
-		<currentVersionReleaseDate>August 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/08/44/08084439-e659-94d9-b02b-6647607b806f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 30, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d1/8c/16d18ccc-83d5-6c53-7316-4fa63d8f09bf/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>- App links dialog. 
 Sometimes links will open in external apps by default on iOS. This feature will allow the users to decide (dialog) if they want to open the link in the browser or in the external app. The choice will be stored as default behavior for each domain/link and can be changed in Settings.
@@ -258,7 +258,7 @@ Opera AI will always open in a normal tab from now on. Old AI chats can be found
 - Memory optimization
 Various changes in order to minimize memory usage
 - Other bug fixes and UI improvements</releaseNotes>
-		<version>6.7.0</version>
+		<version>6.7.1</version>
 		<app_store_url>https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4</app_store_url>
 	</package>
 	<package>

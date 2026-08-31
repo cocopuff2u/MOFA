@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 30, 2026 05:49 PM EDT",
+    "last_updated": "August 30, 2026 08:10 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -192,11 +192,11 @@
             "name": "iOS Microsoft Edge AI Browser",
             "application_name": "Opera: AI browser with VPN",
             "bundleId": "com.opera.OperaTouch",
-            "currentVersionReleaseDate": "August 27, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/08/44/08084439-e659-94d9-b02b-6647607b806f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "August 30, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d1/8c/16d18ccc-83d5-6c53-7316-4fa63d8f09bf/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "- App links dialog. \nSometimes links will open in external apps by default on iOS. This feature will allow the users to decide (dialog) if they want to open the link in the browser or in the external app. The choice will be stored as default behavior for each domain/link and can be changed in Settings.\n- Media Settings\nA user can enable \"Forced Media Playback in background tabs or if app is in background.\n- Always mute a domain\nIf a website automatically plays media or sound that you find annoying, you can choose to always mute it (until unmuted) when loaded. Long press the mute button in the searchbar and select \"Always mute domain\"\n- We've removed the Opera AI sheet\nOpera AI will always open in a normal tab from now on. Old AI chats can be found as separate tabs in the tab manager.\n- Memory optimization\nVarious changes in order to minimize memory usage\n- Other bug fixes and UI improvements",
-            "version": "6.7.0",
+            "version": "6.7.1",
             "app_store_url": "https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4"
         },
         {

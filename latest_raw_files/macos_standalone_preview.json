@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 30, 2026 08:10 PM EDT",
+    "last_updated": "August 31, 2026 02:36 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -132,9 +132,9 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26072.0015",
-            "full_version": "101.26072.0015",
-            "last_updated": "August 21, 2026",
+            "short_version": "101.26062.0012",
+            "full_version": "101.26062.0012",
+            "last_updated": "August 12, 2026",
             "min_os": "14.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
@@ -176,9 +176,9 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.136.0-",
             "full_version": "1.136.0-insider",
-            "last_updated": "August 28, 2026",
+            "last_updated": "August 31, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/d5ceefbe0b296c4d8fbbf3664aff8cad73cd1b5d/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/db46a82c4f4a77c4853867dcdba5057229b5d099/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

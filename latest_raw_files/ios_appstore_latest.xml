@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>August 30, 2026 08:10 PM EDT</last_updated>
+	<last_updated>August 31, 2026 02:36 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -244,8 +244,8 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Opera: AI browser with VPN</application_name>
 		<bundleId>com.opera.OperaTouch</bundleId>
-		<currentVersionReleaseDate>August 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d1/8c/16d18ccc-83d5-6c53-7316-4fa63d8f09bf/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 27, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/08/44/08084439-e659-94d9-b02b-6647607b806f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>- App links dialog. 
 Sometimes links will open in external apps by default on iOS. This feature will allow the users to decide (dialog) if they want to open the link in the browser or in the external app. The choice will be stored as default behavior for each domain/link and can be changed in Settings.
@@ -258,7 +258,7 @@ Opera AI will always open in a normal tab from now on. Old AI chats can be found
 - Memory optimization
 Various changes in order to minimize memory usage
 - Other bug fixes and UI improvements</releaseNotes>
-		<version>6.7.1</version>
+		<version>6.7.0</version>
 		<app_store_url>https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4</app_store_url>
 	</package>
 	<package>
@@ -399,11 +399,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>August 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/56/de/fc56deb9-0ac1-8240-ada4-3d4b07d7de4a/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 30, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/9b/9a2e9ba8-236c-6940-361e-6f58c1b4f037/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>38.2</version>
+		<releaseNotes>- Tap 'Rotate view' in the footer to switch report layouts for larger visuals or a broader view of the data.</releaseNotes>
+		<version>38.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4</app_store_url>
 	</package>
 	<package>

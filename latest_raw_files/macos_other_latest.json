@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 31, 2026 08:40 PM EDT",
+    "last_updated": "September 01, 2026 01:59 AM EDT",
     "packages": [
         {
             "name": "PowerShell",
@@ -76,9 +76,9 @@
             "application_id": "N/A",
             "application_name": "Azure CLI",
             "CFBundleVersion": "N/A",
-            "short_version": "2.89.1",
-            "full_version": "2.89.1",
-            "last_updated": "August 12, 2026",
+            "short_version": "2.90.0",
+            "full_version": "2.90.0",
+            "last_updated": "September 01, 2026",
             "min_os": "N/A",
             "update_download": "brew install azure-cli",
             "latest_download": "brew install azure-cli",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>August 31, 2026 08:40 PM EDT</last_updated>
+    <last_updated>September 01, 2026 01:59 AM EDT</last_updated>
     <package>
         <name>PowerShell</name>
         <application_id>N/A</application_id>
@@ -76,9 +76,9 @@
         <application_id>N/A</application_id>
         <application_name>Azure CLI</application_name>
         <CFBundleVersion>N/A</CFBundleVersion>
-        <short_version>2.89.1</short_version>
-        <full_version>2.89.1</full_version>
-        <last_updated>August 12, 2026</last_updated>
+        <short_version>2.90.0</short_version>
+        <full_version>2.90.0</full_version>
+        <last_updated>September 01, 2026</last_updated>
         <min_os>N/A</min_os>
         <update_download>brew install azure-cli</update_download>
         <latest_download>brew install azure-cli</latest_download>

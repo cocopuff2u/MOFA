@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 01, 2026 06:20 PM EDT</last_updated>
+    <last_updated>September 01, 2026 08:47 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -160,14 +160,14 @@
         <application_id>WDAVSHIM</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
-        <short_version>101.26060.0000</short_version>
-        <full_version>101.26060.0000</full_version>
-        <last_updated>August 18, 2026</last_updated>
+        <short_version>101.26050.0000</short_version>
+        <full_version>101.26050.0000</full_version>
+        <last_updated>July 28, 2026</last_updated>
         <min_os>12.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg</latest_download>
-        <sha1>8051720ebbe2550990a108315e5ce7c840766aeb</sha1>
-        <sha256>8914d9f0cd511e134617d08d3bcbf01df96fd08b1ca34b5dc912d27a54aa3c6c</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg</latest_download>
+        <sha1>9b335f964f35275540e2b24cb9434b255a223e58</sha1>
+        <sha256>5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c</sha256>
     </package>
     <package>
         <name>Visual</name>

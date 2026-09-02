@@ -1,4 +1,4 @@
-last_updated: September 01, 2026 06:20 PM EDT
+last_updated: September 01, 2026 08:46 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -55,11 +55,13 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: September 01, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/7c/7a/0f7c7a9b-71cc-f886-e47c-d7d68a70a5e0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: August 22, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/79/f0/7f79f0d8-caed-9910-a48f-baa206711f87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: This update contains bug fixes and stability improvements.
-    version: 18.9.3
+    releaseNotes: "After scanning, you can now save photos to your device's photo\
+      \ library or save photos and documents to your device's files storage\u2014\
+      while still having the option to save a copy to OneDrive."
+    version: 18.8.3
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile

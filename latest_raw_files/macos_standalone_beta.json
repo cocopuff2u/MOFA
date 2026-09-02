@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 01, 2026 08:47 PM EDT",
+    "last_updated": "September 02, 2026 01:24 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams",
-            "short_version": "26225.1701.5018.9366",
-            "full_version": "26225.1701.5018.9366",
-            "last_updated": "August 14, 2026",
+            "short_version": "26239.1301.5067.5326",
+            "full_version": "26239.1301.5067.5326",
+            "last_updated": "August 28, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg",
-            "sha1": "7f46c8e774a52e519fb1873387496f0c67256197",
-            "sha256": "a51e8eae3427b285a0c9e8b0c74a5f9dd846748a1e82aa2959b48b06cc576d92"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26239.1301.5067.5326/MicrosoftTeams_26198.202.4929.7171_to_26239.1301.5067.5326_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26239.1301.5067.5326/MicrosoftTeams_26198.202.4929.7171_to_26239.1301.5067.5326_BinaryDelta.pkg",
+            "sha1": "9b33f98182f478809288066503fd3de82a44dea2",
+            "sha256": "fb963a89b4da1f97c9a53e66c8f49f50d35b67d21c5f7c5e9ee33c14f7ed400c"
         },
         {
             "name": "Intune",
@@ -160,25 +160,25 @@
             "application_id": "WDAVSHIM",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.defender.endpoint",
-            "short_version": "101.26050.0000",
-            "full_version": "101.26050.0000",
-            "last_updated": "July 28, 2026",
+            "short_version": "101.26060.0000",
+            "full_version": "101.26060.0000",
+            "last_updated": "August 18, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg",
-            "sha1": "9b335f964f35275540e2b24cb9434b255a223e58",
-            "sha256": "5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg",
+            "sha1": "8051720ebbe2550990a108315e5ce7c840766aeb",
+            "sha256": "8914d9f0cd511e134617d08d3bcbf01df96fd08b1ca34b5dc912d27a54aa3c6c"
         },
         {
             "name": "Visual",
             "application_id": "N/A",
             "application_name": "Visual Studio Code - Insiders.app",
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
-            "short_version": "1.136.0-",
-            "full_version": "1.136.0-insider",
-            "last_updated": "September 01, 2026",
+            "short_version": "1.137.0-",
+            "full_version": "1.137.0-insider",
+            "last_updated": "September 02, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/6b83849594a181ba0dcadea99844b6f1f42bbcc9/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/48465bfbc57a81b0ff223d928753972c51b9ecd2/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

@@ -1,4 +1,4 @@
-last_updated: September 01, 2026 08:47 PM EDT
+last_updated: September 02, 2026 01:24 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -136,23 +136,23 @@ packages:
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.defender.endpoint
-  short_version: 101.26050.0000
-  full_version: 101.26050.0000
-  last_updated: July 28, 2026
+  short_version: 101.26060.0000
+  full_version: 101.26060.0000
+  last_updated: August 18, 2026
   min_os: '12.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg
-  sha1: 9b335f964f35275540e2b24cb9434b255a223e58
-  sha256: 5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg
+  sha1: 8051720ebbe2550990a108315e5ce7c840766aeb
+  sha256: 8914d9f0cd511e134617d08d3bcbf01df96fd08b1ca34b5dc912d27a54aa3c6c
 - name: Visual
   application_id: N/A
   application_name: Visual Studio Code - Insiders.app
   CFBundleVersion: com.microsoft.VSCodeInsiders
-  short_version: 1.136.0-
-  full_version: 1.136.0-insider
-  last_updated: September 01, 2026
+  short_version: 1.137.0-
+  full_version: 1.137.0-insider
+  last_updated: September 02, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/6b83849594a181ba0dcadea99844b6f1f42bbcc9/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/48465bfbc57a81b0ff223d928753972c51b9ecd2/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

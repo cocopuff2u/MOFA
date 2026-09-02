@@ -107,7 +107,7 @@ apps = {
     "OneNote": {
         "url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409ONMC2019.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.onenote",
+            "CFBundleVersion": "com.microsoft.onenote.mac",
         },
         "keys": {
             "application_id": "Application ID",
@@ -155,7 +155,7 @@ apps = {
     "Teams": {
         "url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409TEAMS21.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.teams",
+            "CFBundleVersion": "com.microsoft.teams2",
             "application_name": "Microsoft Teams.app",
         },
         "keys": {
@@ -170,7 +170,7 @@ apps = {
     },    "Intune": {
         "url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409IMCP01.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.intune.companyportal",
+            "CFBundleVersion": "com.microsoft.CompanyPortalMac",
             "application_name": "Company Portal.app",
         },
         "keys": {
@@ -202,7 +202,7 @@ apps = {
     "Defender For Endpoint": {
         "url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409WDAV00.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav",
             "application_name": "Microsoft Defender.app",
         },
         "keys": {
@@ -218,7 +218,7 @@ apps = {
     "Defender For Consumers": {
         "url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409WDAVCONSUMER.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav",
             "application_name": "Microsoft Defender.app",
         },
         "keys": {
@@ -234,7 +234,7 @@ apps = {
     "Defender Shim": {
         "url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409WDAVSHIM.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav",
             "application_name": "Microsoft Defender.app",
         },
         "keys": {
@@ -299,7 +299,7 @@ apps = {
         "type": "appcenter",
         "base": "https://install.appcenter.ms/api/v0.1/apps/rdmacios-k2vy/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.windows.app",
+            "CFBundleVersion": "com.microsoft.rdc.macos",
             "application_name": "Windows App Beta.app",
             "application_id": "N/A",
             "min_os": "N/A"

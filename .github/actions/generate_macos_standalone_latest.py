@@ -139,7 +139,7 @@ apps = {
     "OneNote": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409ONMC2019.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.onenote",
+            "CFBundleVersion": "com.microsoft.onenote.mac",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=820886",
         },
         "keys": {
@@ -194,7 +194,7 @@ apps = {
     "Teams": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409TEAMS21.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.teams",
+            "CFBundleVersion": "com.microsoft.teams2",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2249065",
             "application_name": "Microsoft Teams.app",
         },
@@ -209,7 +209,7 @@ apps = {
     },    "Intune": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409IMCP01.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.intune.companyportal",
+            "CFBundleVersion": "com.microsoft.CompanyPortalMac",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=853070",
             "application_name": "Company Portal.app",
         },
@@ -241,7 +241,7 @@ apps = {
     "Defender For Endpoint": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409WDAV00.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2097502",
             "application_name": "Microsoft Defender.app",
         },
@@ -257,7 +257,7 @@ apps = {
     "Defender for Consumers": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409WDAVCONSUMER.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2247001",
             "application_name": "Microsoft Defender.app",
         },
@@ -273,7 +273,7 @@ apps = {
     "Defender Shim": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409WDAVSHIM.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav.shim",
             "application_name": "N/A",
         },
         "keys": {
@@ -289,7 +289,7 @@ apps = {
     "Windows App": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSRD10.xml",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.windows.app",
+            "CFBundleVersion": "com.microsoft.rdc.macos",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=868963",
             "application_name": "Windows App.app",
         },
@@ -305,7 +305,7 @@ apps = {
     "Visual": {
         "url": "https://update.code.visualstudio.com/api/update/darwin-universal/stable/384ff7382de624fb94dbaf6da11977bba1ecd427",
         "manual_entries": {
-            "CFBundleVersion": "com.microsoft.visualstudio",
+            "CFBundleVersion": "com.microsoft.VSCode",
             "full_update_download": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal-dmg",
             "application_name": "Visual Studio Code.app",
         },
@@ -548,6 +548,12 @@ def fetch_and_process(app_name, config):
         # Special handling for OneDrive
         if app_name == "OneDrive":
             extracted_data["last_updated"] = last_update_date_time  # Use current date and time as last_updated
+
+        # Publish download links on the live OneCDN host. The legacy officecdnmac
+        # host intermittently fails DNS/connections (seen with Licensing Helper).
+        for url_key in ("full_update_download", "app_only_update_download"):
+            if str(extracted_data.get(url_key, "")).startswith("http"):
+                extracted_data[url_key] = to_onecdn(extracted_data[url_key])
 
         # Recompute hashes only when something changed; otherwise reuse existing data.
         if app_name in existing_data:

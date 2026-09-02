@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 02, 2026 10:55 AM EDT",
+    "last_updated": "September 02, 2026 12:07 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -14,8 +14,8 @@
             "app_update_sha1": "N/A",
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525133",
-            "full_update_sha1": "bdbc879e70d190a85de6ef4527b4b650839b5b65",
-            "full_update_sha256": "24abbe33dd58134ca22c5658bd05a56b05248f2acb2577126e44d19f184d2c76"
+            "full_update_sha1": "ef63ac84682ef4c67e90fc7cd47ff768a32e44f1",
+            "full_update_sha256": "46c0df926b79c87a9a754aad1d571156ebc0c5875a63ae3ef802d83314ee9c45"
         },
         {
             "name": "Microsoft BusinessPro Suite",
@@ -30,8 +30,8 @@
             "app_update_sha1": "N/A",
             "app_update_sha256": "N/A",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2009112",
-            "full_update_sha1": "99a088ea96ed8f3c55842425952e6bfe46e68430",
-            "full_update_sha256": "d473ddd08b608b93ffc6f23c89087d0c8b0591eadb004d8ac508cdeef9be5348"
+            "full_update_sha1": "f0d564339d0840fa1963470df4df116d6a6414da",
+            "full_update_sha256": "71b79d8841fed6893b37edb3edc6dc0b36f8d22bf73ad3a0709c360076f22ea1"
         },
         {
             "name": "Word",
@@ -46,8 +46,8 @@
             "app_update_sha1": "979a93fbdc27fd74ca4ed1a8c5400d74df17989b",
             "app_update_sha256": "293c88d9dc871d524cd87828dd33d9cae48ca1c0b07d51fc1d7dcc681798684f",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525134",
-            "full_update_sha1": "f3e3ca093cd129407810000454968e1a6110c0f1",
-            "full_update_sha256": "7714a3492573e019923ea95541d43082e856104ea0913cfd9b55930bccf296c4"
+            "full_update_sha1": "a080ff646a9392aa6aec8ad09ce96e9a9113adaa",
+            "full_update_sha256": "9156b92606948613d5fae45f87369fe378f8834ed6416c18b6c67fcca25460cd"
         },
         {
             "name": "Excel",
@@ -62,8 +62,8 @@
             "app_update_sha1": "dd43deccfe6436424293e40ca8f3532bf32bef98",
             "app_update_sha256": "1c5a37bd7a7664c86a826e12dddeade20f95b7b5dc5bb7de8514ac1ae6551cf8",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525135",
-            "full_update_sha1": "f21af8ba9bb538feb641d8d63f2251436e91ceff",
-            "full_update_sha256": "62aa6fb517d3f201ffb8c26694dbca181fc001a19dd6cef2210c2dc062c73e7a"
+            "full_update_sha1": "a7456e8e3276c78be6d5b6f8c99e27a0900c0869",
+            "full_update_sha256": "8d7e51e42886c9ae7a0c7981aa6df64c8ce56eb08948afee270c26bf3c1a9eee"
         },
         {
             "name": "PowerPoint",
@@ -78,8 +78,8 @@
             "app_update_sha1": "117bb4573a732a9a0b54f9f82f1974f1bab84084",
             "app_update_sha256": "650b0812699785bf36ebace53920f3a2980338612242718215c8a952b32cd6a4",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=525136",
-            "full_update_sha1": "76395ab06b8c82cd9f540ef25d0c7acfd87da286",
-            "full_update_sha256": "65b942024c7e8cc50b657c5a6a45a73e52ce1c96ee38a4984f870c58963e909d"
+            "full_update_sha1": "f4e23c89882888f512f249b1ebdccbd09e94df8e",
+            "full_update_sha256": "77aaa12e2769a2c31d41718d51672d1e6ec88de9bd2490dd11cef04289d5cd1e"
         },
         {
             "name": "Outlook",
@@ -94,14 +94,14 @@
             "app_update_sha1": "b51b1ebee8edb4606834a3b68bd6c2bb95ca6c7a",
             "app_update_sha256": "e5b95e49c261d70a4f570b9c08621d96e66366c0372bba98378ade5b1b7e993f",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2228621",
-            "full_update_sha1": "4030b00b1d5d9f99c9540a44b9ebdd96ed3a4aad",
-            "full_update_sha256": "a9735114ab388fe7db94db9c6fd856b58c698a34ce5e5abfba958fdea8a91537"
+            "full_update_sha1": "b51b1ebee8edb4606834a3b68bd6c2bb95ca6c7a",
+            "full_update_sha256": "e5b95e49c261d70a4f570b9c08621d96e66366c0372bba98378ade5b1b7e993f"
         },
         {
             "name": "OneNote",
             "application_id": "ONMC2019",
             "application_name": "Microsoft OneNote.app",
-            "CFBundleVersion": "com.microsoft.onenote",
+            "CFBundleVersion": "com.microsoft.onenote.mac",
             "short_version": "16.112.3 (26083020)",
             "full_version": "16.112.26083020",
             "last_updated": "August 30, 2026",
@@ -110,8 +110,8 @@
             "app_update_sha1": "a673a1e67925b5e7dff712796f1f69585046cc75",
             "app_update_sha256": "31480a1d46ce7fd3c294942914eacba0a92602a5e14376458d45040fd97134c5",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=820886",
-            "full_update_sha1": "fba040afc1e5395b8e9630c74c57583bfea03983",
-            "full_update_sha256": "8da23bd6fd07199e552393d94c34839e693208038fdc4d819fe5d0d2186863b0"
+            "full_update_sha1": "a673a1e67925b5e7dff712796f1f69585046cc75",
+            "full_update_sha256": "31480a1d46ce7fd3c294942914eacba0a92602a5e14376458d45040fd97134c5"
         },
         {
             "name": "Skype",
@@ -133,7 +133,7 @@
             "name": "Teams",
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
-            "CFBundleVersion": "com.microsoft.teams",
+            "CFBundleVersion": "com.microsoft.teams2",
             "short_version": "26213.1006.5011.1671",
             "full_version": "26213.1006.5011.1671",
             "last_updated": "August 12, 2026",
@@ -142,14 +142,14 @@
             "app_update_sha1": "e42dd0621cb7346f6574a982b1f6af768e94301b",
             "app_update_sha256": "415c9a3b3bc38ec1e140c2de4aaa409fc85f9f7930554d8ba24c90a957a42ab8",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2249065",
-            "full_update_sha1": "47d5254c382061d22f44b95679c201beb2987d92",
-            "full_update_sha256": "dd5fab62b2003993a49ac86ecdc653500e970e29efd8c8b100f17d0adb30987e"
+            "full_update_sha1": "a6c98a918c2e0f6818076563b7adbe8e8677ff52",
+            "full_update_sha256": "f0eb1ef43ead863940d560b65e45f21460013307efead39744b24fceb8baf97b"
         },
         {
             "name": "Intune",
             "application_id": "IMCP01",
             "application_name": "Company Portal.app",
-            "CFBundleVersion": "com.microsoft.intune.companyportal",
+            "CFBundleVersion": "com.microsoft.CompanyPortalMac",
             "short_version": "5.2606.0",
             "full_version": "53.2607303.000",
             "last_updated": "July 07, 2026",
@@ -158,30 +158,30 @@
             "app_update_sha1": "c11712a9f4aea7be5dd3e3d1043e25baedac20ae",
             "app_update_sha256": "8bdc0084c29bc5898b638be1b07feb4c5c714bb90ee9bc061df3d0b19d0e3d0c",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=853070",
-            "full_update_sha1": "6cdee1598b792a53e5736eae8dd2f91f00c1aeaf",
-            "full_update_sha256": "ff3f32c392fdd7eadb3c6b6c8d17c05c864716c387817f8731b241cbd1346197"
+            "full_update_sha1": "beea899c994e54520ae9dfbea4fe22518eb32044",
+            "full_update_sha256": "d5f25d41e8812fe715ea394196dcda02760bed38dec75950aa26132ab6f3bf93"
         },
         {
             "name": "Defender For Endpoint",
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav",
             "short_version": "101.26062.0012",
             "full_version": "101.26062.0012",
             "last_updated": "August 12, 2026",
             "min_os": "14.0",
             "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav-upgrade.pkg",
-            "app_update_sha1": "2f30b14415b136af86504339e3e1c66f44ffd454",
-            "app_update_sha256": "7f8d30c4f429e484ade6f0aca369ecb0484b3eefa772a4b75b68c1d3e2ed346a",
+            "app_update_sha1": "45fe137ae2d5580a234502d0a6e6ec9c35245947",
+            "app_update_sha256": "7968b8761c5721c86c0758ca74bd8db58fa09ed70393eb545a0c6f8ea39dfce2",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2097502",
-            "full_update_sha1": "23a5b1889036f7473033b54b6127fbb0357d75b0",
-            "full_update_sha256": "23759b8f337c2242b253f0867da0490448ccd75e2fd3a4951361c62da1d11561"
+            "full_update_sha1": "12cac780ec6fd5cdebed59fd6ca93a2fde5a4c90",
+            "full_update_sha256": "ceb615d5b436694a4897769fdc15a25961fc4845d21db6a07ef1c61f35211eb7"
         },
         {
             "name": "Defender for Consumers",
             "application_id": "WDAVCONSUMER",
             "application_name": "Microsoft Defender.app",
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav",
             "short_version": "101.26062.0012",
             "full_version": "101.26062.0012",
             "last_updated": "August 12, 2026",
@@ -197,7 +197,7 @@
             "name": "Defender Shim",
             "application_id": "WDAVSHIM",
             "application_name": "N/A",
-            "CFBundleVersion": "com.microsoft.defender.endpoint",
+            "CFBundleVersion": "com.microsoft.wdav.shim",
             "short_version": "101.26060.0000",
             "full_version": "101.26060.0000",
             "last_updated": "August 18, 2026",
@@ -213,7 +213,7 @@
             "name": "Windows App",
             "application_id": "MSRD10",
             "application_name": "Windows App.app",
-            "CFBundleVersion": "com.microsoft.windows.app",
+            "CFBundleVersion": "com.microsoft.rdc.macos",
             "short_version": "11.4.0",
             "full_version": "3078",
             "last_updated": "August 20, 2026",
@@ -222,14 +222,14 @@
             "app_update_sha1": "6e44555dfcd7b6327eeab973324d50007bbd4922",
             "app_update_sha256": "bc1c4ec95b88b2fdb471f08290747f989997b7a2a9cd6227476cd794ea74a107",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=868963",
-            "full_update_sha1": "1e5ab8262b64b6b3d71960f2aede5f1c39e2237b",
-            "full_update_sha256": "40202478c16a670dd8c472e07a66e42f7cc88b1834a945830efdffde69a8949c"
+            "full_update_sha1": "ca7cb6c33d6c1c52226944c529eb922dfa0a0592",
+            "full_update_sha256": "bdc7ccf2914960074d8eaeaa0b3661127bb3a29291f6832ab7dfdadf70c4171a"
         },
         {
             "name": "Visual",
             "application_id": "N/A",
             "application_name": "Visual Studio Code.app",
-            "CFBundleVersion": "com.microsoft.visualstudio",
+            "CFBundleVersion": "com.microsoft.VSCode",
             "short_version": "1.136.0",
             "full_version": "1.136.0",
             "last_updated": "September 02, 2026",
@@ -254,8 +254,8 @@
             "app_update_sha1": "246ccec7998c58ff74c671423d68063227df5c90",
             "app_update_sha256": "d8633efb969c3b7a429b9f1a4e294ce1092ac95b05ee11c10848943d88c81364",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2325438",
-            "full_update_sha1": "d6283a81ad4cb8ee95445213e467d100ce584b24",
-            "full_update_sha256": "9fc64b6a970c647dd64114a876e254adc78057a05e4402ab7c3f8729e41671b3"
+            "full_update_sha1": "ba267251dc54b3e0108e93b21a603d3dc7d48d94",
+            "full_update_sha256": "8825334adb5d4c62f9cc4c4b19536bb2b133c6bfe5d7e1249f3b3cf5c150a8ed"
         },
         {
             "name": "MAU",
@@ -282,10 +282,10 @@
             "full_version": "16.77.23091003",
             "last_updated": "September 10, 2023",
             "min_os": "11.0",
-            "app_only_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg",
             "app_update_sha1": "cc58741e0243b5fb0682ca499b07c3a21060bb52",
             "app_update_sha256": "2ef5b5006534c0d20d46c7353f42a0dc1faff7d53ba89a3151ccf5102c059905",
-            "full_update_download": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg",
+            "full_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg",
             "full_update_sha1": "cc58741e0243b5fb0682ca499b07c3a21060bb52",
             "full_update_sha256": "2ef5b5006534c0d20d46c7353f42a0dc1faff7d53ba89a3151ccf5102c059905"
         },

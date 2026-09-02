@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 02, 2026 10:56 AM EDT</last_updated>
+    <last_updated>September 02, 2026 02:23 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -20,14 +20,14 @@
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.112.3 (26083020)</short_version>
-        <full_version>16.112.26083020</full_version>
-        <last_updated>August 30, 2026</last_updated>
+        <short_version>16.112.2 (26082125)</short_version>
+        <full_version>16.112.26082125</full_version>
+        <last_updated>August 21, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26083020_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26083020_Updater.pkg</latest_download>
-        <sha1>dd43deccfe6436424293e40ca8f3532bf32bef98</sha1>
-        <sha256>1c5a37bd7a7664c86a826e12dddeade20f95b7b5dc5bb7de8514ac1ae6551cf8</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26082125_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26082125_Updater.pkg</latest_download>
+        <sha1>3e7185f760d528dd2d465f681bc37d0bab10b77b</sha1>
+        <sha256>d8ee4c5b90dd3d86db3d90bb6f769492ba94fa1eee65fdbb209a25a2a42f2aed</sha256>
     </package>
     <package>
         <name>PowerPoint</name>
@@ -61,7 +61,7 @@
         <name>OneNote</name>
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
-        <CFBundleVersion>com.microsoft.onenote</CFBundleVersion>
+        <CFBundleVersion>com.microsoft.onenote.mac</CFBundleVersion>
         <short_version>16.112.3 (26083020)</short_version>
         <full_version>16.112.26083020</full_version>
         <last_updated>August 30, 2026</last_updated>
@@ -89,7 +89,7 @@
         <name>Teams</name>
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
-        <CFBundleVersion>com.microsoft.teams</CFBundleVersion>
+        <CFBundleVersion>com.microsoft.teams2</CFBundleVersion>
         <short_version>26225.1704.5081.2906</short_version>
         <full_version>26225.1704.5081.2906</full_version>
         <last_updated>September 02, 2026</last_updated>
@@ -103,7 +103,7 @@
         <name>Intune</name>
         <application_id>IMCP01</application_id>
         <application_name>Company Portal.app</application_name>
-        <CFBundleVersion>com.microsoft.intune.companyportal</CFBundleVersion>
+        <CFBundleVersion>com.microsoft.CompanyPortalMac</CFBundleVersion>
         <short_version>5.2608.0</short_version>
         <full_version>53.2608178.000</full_version>
         <last_updated>August 28, 2026</last_updated>
@@ -131,7 +131,7 @@
         <name>Defender For Endpoint</name>
         <application_id>WDAV00</application_id>
         <application_name>Microsoft Defender.app</application_name>
-        <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
+        <CFBundleVersion>com.microsoft.wdav</CFBundleVersion>
         <short_version>101.26062.0012</short_version>
         <full_version>101.26062.0012</full_version>
         <last_updated>August 12, 2026</last_updated>
@@ -145,7 +145,7 @@
         <name>Defender For Consumers</name>
         <application_id>WDAVCONSUMER</application_id>
         <application_name>Microsoft Defender.app</application_name>
-        <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
+        <CFBundleVersion>com.microsoft.wdav</CFBundleVersion>
         <short_version>101.26072.0015</short_version>
         <full_version>101.26072.0015</full_version>
         <last_updated>August 21, 2026</last_updated>
@@ -159,7 +159,7 @@
         <name>Defender Shim</name>
         <application_id>WDAVSHIM</application_id>
         <application_name>Microsoft Defender.app</application_name>
-        <CFBundleVersion>com.microsoft.defender.endpoint</CFBundleVersion>
+        <CFBundleVersion>com.microsoft.wdav</CFBundleVersion>
         <short_version>101.26060.0000</short_version>
         <full_version>101.26060.0000</full_version>
         <last_updated>August 18, 2026</last_updated>

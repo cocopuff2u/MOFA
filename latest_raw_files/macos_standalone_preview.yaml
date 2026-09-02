@@ -1,4 +1,4 @@
-last_updated: September 02, 2026 10:56 AM EDT
+last_updated: September 02, 2026 02:23 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -16,14 +16,14 @@ packages:
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.112.3 (26083020)
-  full_version: 16.112.26083020
-  last_updated: August 30, 2026
+  short_version: 16.112.2 (26082125)
+  full_version: 16.112.26082125
+  last_updated: August 21, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26083020_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26083020_Updater.pkg
-  sha1: dd43deccfe6436424293e40ca8f3532bf32bef98
-  sha256: 1c5a37bd7a7664c86a826e12dddeade20f95b7b5dc5bb7de8514ac1ae6551cf8
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26082125_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26082125_Updater.pkg
+  sha1: 3e7185f760d528dd2d465f681bc37d0bab10b77b
+  sha256: d8ee4c5b90dd3d86db3d90bb6f769492ba94fa1eee65fdbb209a25a2a42f2aed
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
@@ -51,7 +51,7 @@ packages:
 - name: OneNote
   application_id: ONMC2019
   application_name: Microsoft OneNote.app
-  CFBundleVersion: com.microsoft.onenote
+  CFBundleVersion: com.microsoft.onenote.mac
   short_version: 16.112.3 (26083020)
   full_version: 16.112.26083020
   last_updated: August 30, 2026
@@ -75,7 +75,7 @@ packages:
 - name: Teams
   application_id: TEAMS21
   application_name: Microsoft Teams.app
-  CFBundleVersion: com.microsoft.teams
+  CFBundleVersion: com.microsoft.teams2
   short_version: 26225.1704.5081.2906
   full_version: 26225.1704.5081.2906
   last_updated: September 02, 2026
@@ -87,7 +87,7 @@ packages:
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app
-  CFBundleVersion: com.microsoft.intune.companyportal
+  CFBundleVersion: com.microsoft.CompanyPortalMac
   short_version: 5.2608.0
   full_version: 53.2608178.000
   last_updated: August 28, 2026
@@ -111,7 +111,7 @@ packages:
 - name: Defender For Endpoint
   application_id: WDAV00
   application_name: Microsoft Defender.app
-  CFBundleVersion: com.microsoft.defender.endpoint
+  CFBundleVersion: com.microsoft.wdav
   short_version: 101.26062.0012
   full_version: 101.26062.0012
   last_updated: August 12, 2026
@@ -123,7 +123,7 @@ packages:
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
-  CFBundleVersion: com.microsoft.defender.endpoint
+  CFBundleVersion: com.microsoft.wdav
   short_version: 101.26072.0015
   full_version: 101.26072.0015
   last_updated: August 21, 2026
@@ -135,7 +135,7 @@ packages:
 - name: Defender Shim
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app
-  CFBundleVersion: com.microsoft.defender.endpoint
+  CFBundleVersion: com.microsoft.wdav
   short_version: 101.26060.0000
   full_version: 101.26060.0000
   last_updated: August 18, 2026

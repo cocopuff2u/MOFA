@@ -1,19 +1,19 @@
 {
-    "last_updated": "September 03, 2026 03:43 AM EDT",
+    "last_updated": "September 03, 2026 08:32 AM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.113.0 (26082730)",
-            "full_version": "16.113.26082730",
-            "last_updated": "August 27, 2026",
+            "short_version": "16.114.0 (26090140)",
+            "full_version": "16.114.26090140",
+            "last_updated": "September 01, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26082730_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.113.26082730_Updater.pkg",
-            "sha1": "d368e833a99726bb7b8afe1088177e526d83d4ff",
-            "sha256": "3298077cbe7d6369c41362bdc78d5bf86c7729deee183689f9eb2b8659ebdf7b"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.114.26090140_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.114.26090140_Updater.pkg",
+            "sha1": "d478b46981891e9e84a05b8a150c3bfc0b1223fe",
+            "sha256": "309434b036e7eab444bc37439bfe8b7e0710b030ec60723fb8006c1e3b0732e7"
         },
         {
             "name": "Excel",
@@ -176,9 +176,9 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.137.0-",
             "full_version": "1.137.0-insider",
-            "last_updated": "September 02, 2026",
+            "last_updated": "September 03, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/a3c780be1ff7381b665d0592052fb1c7c9e93ab6/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/af195aabe861b9d99fcb322904793322ae7f0952/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 03, 2026 12:53 PM EDT</last_updated>
+	<last_updated>September 03, 2026 03:36 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -65,27 +65,23 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>August 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/55/06/d055065d-8a6a-8852-e31f-f7d976a595ae/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 03, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/fb/8c/c3fb8ce9-a9b2-576c-c0f7-326f011b363b/OneDrive.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.4</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>26.145.0728</version>
+		<version>26.153.0809</version>
 		<app_store_url>https://apps.apple.com/us/app/onedrive/id823766827?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>File transfer &amp; Data Sharing</application_name>
-		<bundleId>file.transfer.app</bundleId>
-		<currentVersionReleaseDate>August 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/db/57/29db57ea-3dc1-2af7-4422-cc3a79442980/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.6</minimumOsVersion>
-		<releaseNotes>• Completely Redesigned UI: A brand new, beautiful, and intuitive interface.
-• Performance Boost: Faster device discovery and much more reliable file transfers. 
-• Better Device Support: Enhanced layouts for iPad and Mac users. 
-• Under-the-hood Improvements: Fixed connection drops and improved overall stability. 
-• Premium Features: Share unlimited large files with our new premium tier.</releaseNotes>
-		<version>1.0.17</version>
-		<app_store_url>https://apps.apple.com/us/app/file-transfer-data-sharing/id1535420575?uo=4</app_store_url>
+		<application_name>ShareMe: File Sharing &amp; MeDrop</application_name>
+		<bundleId>com.sharedrop.wifiShare</bundleId>
+		<currentVersionReleaseDate>September 03, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/0e/e4/3b0ee45e-a411-073a-27e5-b11d412e5d3e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>Bug fixes</releaseNotes>
+		<version>1.0.6</version>
+		<app_store_url>https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

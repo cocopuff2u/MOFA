@@ -1,4 +1,4 @@
-last_updated: September 03, 2026 12:53 PM EDT
+last_updated: September 03, 2026 03:36 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -52,28 +52,23 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: August 28, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/55/06/d055065d-8a6a-8852-e31f-f7d976a595ae/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: September 03, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/fb/8c/c3fb8ce9-a9b2-576c-c0f7-326f011b363b/OneDrive.png/512x512bb.png
     minimumOsVersion: '14.4'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 26.145.0728
+    version: 26.153.0809
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
-    application_name: File transfer & Data Sharing
-    bundleId: file.transfer.app
-    currentVersionReleaseDate: August 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/db/57/29db57ea-3dc1-2af7-4422-cc3a79442980/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.6'
-    releaseNotes: "\u2022 Completely Redesigned UI: A brand new, beautiful, and intuitive\
-      \ interface.\n\u2022 Performance Boost: Faster device discovery and much more\
-      \ reliable file transfers. \n\u2022 Better Device Support: Enhanced layouts\
-      \ for iPad and Mac users. \n\u2022 Under-the-hood Improvements: Fixed connection\
-      \ drops and improved overall stability. \n\u2022 Premium Features: Share unlimited\
-      \ large files with our new premium tier."
-    version: 1.0.17
-    app_store_url: https://apps.apple.com/us/app/file-transfer-data-sharing/id1535420575?uo=4
+    application_name: 'ShareMe: File Sharing & MeDrop'
+    bundleId: com.sharedrop.wifiShare
+    currentVersionReleaseDate: September 03, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/0e/e4/3b0ee45e-a411-073a-27e5-b11d412e5d3e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '15.0'
+    releaseNotes: Bug fixes
+    version: 1.0.6
+    app_store_url: https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

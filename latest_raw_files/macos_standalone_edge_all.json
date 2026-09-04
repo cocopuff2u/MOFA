@@ -1,6 +1,6 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "September 03, 2026 06:13 PM EDT",
+        "last_updated": "September 03, 2026 08:45 PM EDT",
         "Version": [
             {
                 "Name": "current",
@@ -15,14 +15,14 @@
             },
             {
                 "Name": "canary",
-                "Version": "154.0.4255.0",
+                "Version": "154.0.4257.0",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cbe60828-b919-4dce-a332-4b256612178c/MicrosoftEdgeCanary-154.0.4255.0.pkg",
-                "Full_Update_Sha1": "40ee9dbb39e6f53e2d12bf1cc063e663508661f5",
-                "Full_Update_Sha256": "15bf14027519f3ddb6259d26c3836af15a51f714b518924f1951a164c403f677",
-                "Last_Update": "September 02, 2026 06:15 PM EDT"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa157b6b-2848-4457-8d9c-c3f4adb9c97e/MicrosoftEdgeCanary-154.0.4257.0.pkg",
+                "Full_Update_Sha1": "1da897acd51070c657a94c1ecc83938bc53f7525",
+                "Full_Update_Sha256": "b9427d22f6e7c553b6c7a5faa7743df767e0ae81b6bc8a06198e2cabfa7d9752",
+                "Last_Update": "September 03, 2026 06:44 PM EDT"
             },
             {
                 "Name": "dev",
@@ -37,14 +37,14 @@
             },
             {
                 "Name": "beta",
-                "Version": "153.0.4234.13",
+                "Version": "153.0.4234.19",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c66df55-0899-44b6-8d9d-6d69ee00b316/MicrosoftEdgeBeta-153.0.4234.13.pkg",
-                "Full_Update_Sha1": "678c0de52089aaf6f8b0b018c7c7ac3c5e6b60c4",
-                "Full_Update_Sha256": "37b60cb3d216633a7c9f227540e8753c67f0126187c8f73a31a2963e0324a0a8",
-                "Last_Update": "August 31, 2026 01:16 PM EDT"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e2717d50-fbe5-4edd-ab39-feb8ec5627e0/MicrosoftEdgeBeta-153.0.4234.19.pkg",
+                "Full_Update_Sha1": "fc311044a4ef244413d23f6d1c030bb3e2d0fad6",
+                "Full_Update_Sha256": "0a24feb0942d6979d784c0c46d5aceda2d1fa47dcc6674e1d8de3eead4607202",
+                "Last_Update": "September 03, 2026 06:19 PM EDT"
             }
         ]
     }

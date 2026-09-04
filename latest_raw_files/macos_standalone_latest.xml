@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 03, 2026 06:12 PM EDT</last_updated>
+    <last_updated>September 03, 2026 08:41 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -150,16 +150,16 @@
         <application_id>IMCP01</application_id>
         <application_name>Company Portal.app</application_name>
         <CFBundleVersion>com.microsoft.CompanyPortalMac</CFBundleVersion>
-        <short_version>5.2606.0</short_version>
-        <full_version>53.2607303.000</full_version>
-        <last_updated>July 07, 2026</last_updated>
+        <short_version>5.2608.0</short_version>
+        <full_version>53.2608178.000</full_version>
+        <last_updated>August 28, 2026</last_updated>
         <min_os>11.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2606.0-Upgrade.pkg</app_only_update_download>
-        <app_update_sha1>c11712a9f4aea7be5dd3e3d1043e25baedac20ae</app_update_sha1>
-        <app_update_sha256>8bdc0084c29bc5898b638be1b07feb4c5c714bb90ee9bc061df3d0b19d0e3d0c</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2608.0-Upgrade.pkg</app_only_update_download>
+        <app_update_sha1>14e9eab599687ab455e710b50337b2958ac19729</app_update_sha1>
+        <app_update_sha256>c4ed25fef2f62d88b1f9be0a84eebf5a0aa58141a34794a3fe0b17151cdc6722</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=853070</full_update_download>
-        <full_update_sha1>beea899c994e54520ae9dfbea4fe22518eb32044</full_update_sha1>
-        <full_update_sha256>d5f25d41e8812fe715ea394196dcda02760bed38dec75950aa26132ab6f3bf93</full_update_sha256>
+        <full_update_sha1>42fd1733947b9cd5497f336e106192afeb1275a4</full_update_sha1>
+        <full_update_sha256>08f18b9b1c0db678ef80b5e560bb29aa45074218b56685765a6d964eb3dda9f7</full_update_sha256>
     </package>
     <package>
         <name>Defender For Endpoint</name>

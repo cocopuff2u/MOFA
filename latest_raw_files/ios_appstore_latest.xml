@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 05, 2026 09:13 AM EDT</last_updated>
+	<last_updated>September 05, 2026 12:30 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>September 01, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/7c/7a/0f7c7a9b-71cc-f886-e47c-d7d68a70a5e0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 04, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/58/7b/06587b3c-eba9-e45a-6e47-48fd32cae813/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update contains bug fixes and stability improvements.</releaseNotes>
-		<version>18.9.3</version>
+		<version>18.9.4</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -366,28 +366,24 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Meta Ads Manager</application_name>
 		<bundleId>com.facebook.MAdMan</bundleId>
-		<currentVersionReleaseDate>August 27, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/8f/76/c08f76d9-8390-9d67-08af-2685b2f8b5a6/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/87/5f/53875fad-f3f6-e3d9-1e00-2d7cb39fadda/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.1</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance updates</releaseNotes>
-		<version>490.0</version>
+		<version>491.0</version>
 		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Lens: Translate &amp; Photo Finder</application_name>
-		<bundleId>com.searchdodo.ios</bundleId>
-		<currentVersionReleaseDate>August 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/19/b3/ac19b3fe-ab4f-ddef-8489-ba0cadf03d28/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.6</minimumOsVersion>
-		<releaseNotes>Your first moments in Lens are now absolutely seamless! 
-
-We revamped the initial setup so you can dive right in without skipping a beat. 
-We also fine-tuned things under the hood, ensuring your browsing remains perfectly smooth and completely uninterrupted. 
-
-If these speedy new updates make your visual experience even better, a 5-star review means the world to us! Thanks for choosing Lens.</releaseNotes>
-		<version>3.1.16</version>
-		<app_store_url>https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4</app_store_url>
+		<application_name>CamScanner - PDF Scanner App</application_name>
+		<bundleId>com.intsig.CamScannerLite</bundleId>
+		<currentVersionReleaseDate>August 31, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/07/ea/8d07eabd-76eb-ba47-a010-0adc5cd99849/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>13.0</minimumOsVersion>
+		<releaseNotes>· Image translation engine upgraded. Layouts now better match the original.
+· Various improvements for a better experience.</releaseNotes>
+		<version>7.25.0</version>
+		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

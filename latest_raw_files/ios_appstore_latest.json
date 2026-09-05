@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 05, 2026 09:13 AM EDT",
+    "last_updated": "September 05, 2026 12:30 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -60,11 +60,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "September 01, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/7c/7a/0f7c7a9b-71cc-f886-e47c-d7d68a70a5e0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 04, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/58/7b/06587b3c-eba9-e45a-6e47-48fd32cae813/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This update contains bug fixes and stability improvements.",
-            "version": "18.9.3",
+            "version": "18.9.4",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
         },
         {
@@ -302,23 +302,23 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "August 27, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/8f/76/c08f76d9-8390-9d67-08af-2685b2f8b5a6/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 05, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/87/5f/53875fad-f3f6-e3d9-1e00-2d7cb39fadda/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "490.0",
+            "version": "491.0",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens: Translate & Photo Finder",
-            "bundleId": "com.searchdodo.ios",
-            "currentVersionReleaseDate": "August 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/19/b3/ac19b3fe-ab4f-ddef-8489-ba0cadf03d28/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.6",
-            "releaseNotes": "Your first moments in Lens are now absolutely seamless! \n\nWe revamped the initial setup so you can dive right in without skipping a beat. \nWe also fine-tuned things under the hood, ensuring your browsing remains perfectly smooth and completely uninterrupted. \n\nIf these speedy new updates make your visual experience even better, a 5-star review means the world to us! Thanks for choosing Lens.",
-            "version": "3.1.16",
-            "app_store_url": "https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4"
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
+            "currentVersionReleaseDate": "August 31, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/07/ea/8d07eabd-76eb-ba47-a010-0adc5cd99849/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 Image translation engine upgraded. Layouts now better match the original.\n\u00b7 Various improvements for a better experience.",
+            "version": "7.25.0",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

@@ -1,16 +1,16 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>September 04, 2026 06:47 PM EDT</last_updated>
+  <last_updated>September 04, 2026 08:41 PM EDT</last_updated>
   <Version>
     <Name>current</Name>
-    <Version>152.0.4191.62</Version>
+    <Version>152.0.4191.66</Version>
     <Application_ID>EDGE01</Application_ID>
     <Application_Name>Microsoft Edge.app</Application_Name>
     <CFBundleVersion>com.microsoft.edgemac</CFBundleVersion>
-    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d6715c7-1ec1-4375-87b1-2a7780b0aa60/MicrosoftEdge-152.0.4191.62.pkg</Full_Update_Download>
-    <Full_Update_Sha1>c8d8f681414b0732de45f01a9f6924f6f7303510</Full_Update_Sha1>
-    <Full_Update_Sha256>122d127a1ea71ad1d8da6ccf4dedcfc5c17c15199ffd292382da598cad4294ce</Full_Update_Sha256>
-    <Last_Update>September 02, 2026 04:05 PM EDT</Last_Update>
+    <Full_Update_Download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/35c7ec3f-425a-430f-9998-6db18f725089/MicrosoftEdge-152.0.4191.66.pkg</Full_Update_Download>
+    <Full_Update_Sha1>a41aa0574da03b2abe269b9012cacad434c2e520</Full_Update_Sha1>
+    <Full_Update_Sha256>ea0cb511706321fbe7800d3e1d6b8e7c1237d9abea97d68a9ac56f7317479b38</Full_Update_Sha256>
+    <Last_Update>September 04, 2026 07:27 PM EDT</Last_Update>
   </Version>
   <Version>
     <Name>canary</Name>

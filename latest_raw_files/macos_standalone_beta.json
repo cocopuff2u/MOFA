@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 06, 2026 02:50 PM EDT",
+    "last_updated": "September 06, 2026 05:01 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -188,14 +188,14 @@
             "application_id": "MSCP10",
             "application_name": "Microsoft 365 Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "1.2608 (0301)",
-            "full_version": "1.2608.0301",
-            "last_updated": "August 03, 2026",
-            "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2608.0301_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_365_Copilot_universal_1.2608.0301_Updater.pkg",
-            "sha1": "246ccec7998c58ff74c671423d68063227df5c90",
-            "sha256": "d8633efb969c3b7a429b9f1a4e294ce1092ac95b05ee11c10848943d88c81364"
+            "short_version": "152.0 (4191)",
+            "full_version": "152.0.4191.53",
+            "last_updated": "August 28, 2026",
+            "min_os": "13.0",
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Copilot-152.0.4191.53.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Copilot-152.0.4191.53.pkg",
+            "sha1": "053f2f7b6ec3e88bbbe118345e2cb8addcae4489",
+            "sha256": "1305d77facaa6a757aeadffd3491b1ba3b941cf06d7a8d989a426439d3e18dfb"
         },
         {
             "name": "MAU",

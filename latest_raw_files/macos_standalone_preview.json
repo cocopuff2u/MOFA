@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 07, 2026 01:38 AM EDT",
+    "last_updated": "September 07, 2026 07:28 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -48,14 +48,14 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.112.3 (26083020)",
-            "full_version": "16.112.26083020",
-            "last_updated": "August 30, 2026",
+            "short_version": "16.112.2 (26082125)",
+            "full_version": "16.112.26082125",
+            "last_updated": "August 21, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26083020_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26083020_Updater.pkg",
-            "sha1": "b51b1ebee8edb4606834a3b68bd6c2bb95ca6c7a",
-            "sha256": "e5b95e49c261d70a4f570b9c08621d96e66366c0372bba98378ade5b1b7e993f"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26082125_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26082125_Updater.pkg",
+            "sha1": "4030b00b1d5d9f99c9540a44b9ebdd96ed3a4aad",
+            "sha256": "a9735114ab388fe7db94db9c6fd856b58c698a34ce5e5abfba958fdea8a91537"
         },
         {
             "name": "OneNote",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams2",
-            "short_version": "26225.1701.5018.9366",
-            "full_version": "26225.1701.5018.9366",
-            "last_updated": "August 14, 2026",
+            "short_version": "26225.1704.5081.2906",
+            "full_version": "26225.1704.5081.2906",
+            "last_updated": "September 02, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1701.5018.9366/MicrosoftTeams_26183.1901.4874.5228_to_26225.1701.5018.9366_BinaryDelta.pkg",
-            "sha1": "7f46c8e774a52e519fb1873387496f0c67256197",
-            "sha256": "a51e8eae3427b285a0c9e8b0c74a5f9dd846748a1e82aa2959b48b06cc576d92"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1704.5081.2906/MicrosoftTeams_26183.1901.4874.5228_to_26225.1704.5081.2906_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1704.5081.2906/MicrosoftTeams_26183.1901.4874.5228_to_26225.1704.5081.2906_BinaryDelta.pkg",
+            "sha1": "e8918c5476c34c0ac61ca7e2a0bf167a9aae9d99",
+            "sha256": "a910521ffed526d26ea6bcee095b522785140b208e127c5e72b75d60e8117ef0"
         },
         {
             "name": "Intune",
@@ -176,9 +176,9 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.137.0-",
             "full_version": "1.137.0-insider",
-            "last_updated": "September 04, 2026",
+            "last_updated": "September 07, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/de8cc55dae905582f191fdcfb6dff8c811a743c4/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/94b021b519e8e3e99777a1ff72c77e32e0d4b1d3/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

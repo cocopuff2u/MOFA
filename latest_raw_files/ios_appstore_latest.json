@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 07, 2026 01:38 AM EDT",
+    "last_updated": "September 07, 2026 07:28 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -313,11 +313,11 @@
             "name": "iOS Microsoft Lens PDF Scanner",
             "application_name": "CamScanner - PDF Scanner App",
             "bundleId": "com.intsig.CamScannerLite",
-            "currentVersionReleaseDate": "August 31, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/07/ea/8d07eabd-76eb-ba47-a010-0adc5cd99849/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 07, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ff/f2/26fff2c0-729b-5216-0c13-7d0499f10940/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "13.0",
             "releaseNotes": "\u00b7 Image translation engine upgraded. Layouts now better match the original.\n\u00b7 Various improvements for a better experience.",
-            "version": "7.25.0",
+            "version": "7.25.5",
             "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {

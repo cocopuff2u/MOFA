@@ -1,17 +1,17 @@
-last_updated: September 08, 2026 03:51 PM EDT
+last_updated: September 08, 2026 06:20 PM EDT
 packages:
 - name: PowerShell
   application_id: N/A
   application_name: PowerShell
   CFBundleVersion: com.microsoft.powershell
-  short_version: 7.6.5
-  full_version: 7.6.5
-  last_updated: August 14, 2026
+  short_version: 7.6.6
+  full_version: 7.6.6
+  last_updated: September 08, 2026
   min_os: N/A
-  update_download: https://github.com/PowerShell/PowerShell/releases/download/v7.6.5/powershell-7.6.5-osx-arm64.pkg
-  latest_download: https://github.com/PowerShell/PowerShell/releases/download/v7.6.5/powershell-7.6.5-osx-arm64.pkg
-  sha1: abbfdcb99a8204353a1f45b28e0d423628396a97
-  sha256: 6ea58f4e91ab2df133ac18a42e291e4e870a623e3c5ab6f8368259cd9ac22770
+  update_download: https://github.com/PowerShell/PowerShell/releases/download/v7.6.6/powershell-7.6.6-osx-arm64.pkg
+  latest_download: https://github.com/PowerShell/PowerShell/releases/download/v7.6.6/powershell-7.6.6-osx-arm64.pkg
+  sha1: 12e64d0327775d3a4ce2f894fec2a41a5e49d8cf
+  sha256: 64950d0f9a11f890c57199ec5e0f340f8f5fe2bbc9df43c35aed66e3d16d76bb
 - name: .NET SDK 10 (LTS)
   application_id: N/A
   application_name: .NET SDK 10 (LTS)

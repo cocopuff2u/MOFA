@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 08, 2026 03:50 PM EDT</last_updated>
+	<last_updated>September 08, 2026 06:19 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -16,11 +16,11 @@
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>September 07, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d9/d3/35d9d370-5d64-8913-1d82-068228313dca/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 31, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/38/b0/4638b03e-e27d-3d85-447e-012985100fd4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.113.4</version>
+		<version>2.113.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>
@@ -122,16 +122,22 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Warehouse Management</name>
 		<application_name>Microsoft Warehouse Management</application_name>
 		<bundleId>com.microsoft.WarehouseManagement</bundleId>
-		<currentVersionReleaseDate>September 07, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a0/54/c0a05449-d259-9597-2698-9b8d68321225/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.4</minimumOsVersion>
+		<currentVersionReleaseDate>May 28, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/ef/b2/79efb2d6-d239-b3d5-e6da-9543d8f4d11c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>What's New:
-Version 4.1.6.0 adds the following fixes and improvements:
+Version 4.1.4.0 adds the following fixes and improvements:
 
-Everyday Fixes and Polish
-Spinner: On spinner, if the value is greater than 20, it will not automatically set as 0 on spinner.
-Numpad entries: You can use an external numpad with WMA now for digit inputs.</releaseNotes>
-		<version>4.1.6</version>
+Features:
+Camera improvements: Added support for Code 39 Mod 43 barcodes.
+Right-to-left (RTL) support: Corrected layout and formatting issues for right-to-left languages.
+
+Bug fixes:
+Submit spinner – Resolved a UI hang and glitch that occurred when submitting forms.
+Keyboard focus – Fixed an issue where the virtual keyboard didn't automatically trigger when typing started.
+Encoding – Resolved character rendering and text corruption issues.
+On-premises – Fixed issues affecting on-premises deployments on iOS.</releaseNotes>
+		<version>4.1.4</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,4 +1,4 @@
-last_updated: September 08, 2026 01:04 PM EDT
+last_updated: September 08, 2026 03:51 PM EDT
 packages:
 - name: PowerShell
   application_id: N/A
@@ -112,14 +112,14 @@ packages:
   application_id: N/A
   application_name: Bicep CLI
   CFBundleVersion: N/A
-  short_version: 0.46.1
-  full_version: 0.46.1
-  last_updated: July 30, 2026
+  short_version: 0.47.16
+  full_version: 0.47.16
+  last_updated: September 08, 2026
   min_os: N/A
-  update_download: https://github.com/Azure/bicep/releases/download/v0.46.1/bicep-osx-arm64
-  latest_download: https://github.com/Azure/bicep/releases/download/v0.46.1/bicep-osx-arm64
-  sha1: 7d3b483ff4c9b6be59f2e162f86a82797a673e50
-  sha256: 7e1064cc780e1767822d7f112f25fdbe72c956e40f75c24254ce8530b41d649a
+  update_download: https://github.com/Azure/bicep/releases/download/v0.47.16/bicep-osx-arm64
+  latest_download: https://github.com/Azure/bicep/releases/download/v0.47.16/bicep-osx-arm64
+  sha1: 13d36a6abb8b85f843fb2a6c5339d0f80e528670
+  sha256: 68046a084c88503cf6bd11dacf2a1c4ffcb7e3ac9c6b310d295e024af21bbea4
 - name: sqlcmd
   application_id: N/A
   application_name: sqlcmd

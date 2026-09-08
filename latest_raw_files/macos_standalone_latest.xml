@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 08, 2026 01:02 PM EDT</last_updated>
+    <last_updated>September 08, 2026 03:49 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -134,13 +134,13 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams2</CFBundleVersion>
-        <short_version>26225.1704.5081.2906</short_version>
-        <full_version>26225.1704.5081.2906</full_version>
-        <last_updated>September 02, 2026</last_updated>
+        <short_version>26225.1706.5101.3140</short_version>
+        <full_version>26225.1706.5101.3140</full_version>
+        <last_updated>September 08, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1704.5081.2906/MicrosoftTeams_26183.1901.4874.5228_to_26225.1704.5081.2906_BinaryDelta.pkg</app_only_update_download>
-        <app_update_sha1>e8918c5476c34c0ac61ca7e2a0bf167a9aae9d99</app_update_sha1>
-        <app_update_sha256>a910521ffed526d26ea6bcee095b522785140b208e127c5e72b75d60e8117ef0</app_update_sha256>
+        <app_only_update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1706.5101.3140/MicrosoftTeams_26198.202.4929.7171_to_26225.1706.5101.3140_BinaryDelta.pkg</app_only_update_download>
+        <app_update_sha1>d19417628ba6f73db0970bbc56d031b613ca8af3</app_update_sha1>
+        <app_update_sha256>30b621efce52ec013618fd38bdf59f8f84f01c242dfb45e5a34147046f79d821</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2249065</full_update_download>
         <full_update_sha1>a6c98a918c2e0f6818076563b7adbe8e8677ff52</full_update_sha1>
         <full_update_sha256>f0eb1ef43ead863940d560b65e45f21460013307efead39744b24fceb8baf97b</full_update_sha256>
@@ -230,16 +230,16 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code.app</application_name>
         <CFBundleVersion>com.microsoft.VSCode</CFBundleVersion>
-        <short_version>1.136.1</short_version>
-        <full_version>1.136.1</full_version>
-        <last_updated>September 03, 2026</last_updated>
+        <short_version>1.136.2</short_version>
+        <full_version>1.136.2</full_version>
+        <last_updated>September 04, 2026</last_updated>
         <min_os>N/A</min_os>
-        <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/a44adf7f53e00964ab890f9f8758a334f1fc15bc/VSCode-darwin-universal.zip</app_only_update_download>
-        <app_update_sha1>013daa38bf6e4c64e69ad5269a3341b4cf616035</app_update_sha1>
-        <app_update_sha256>336c7d078197bfce3cf439b0aac8932b9171672890ba9ef70a4a8eaeb5844b3e</app_update_sha256>
+        <app_only_update_download>https://vscode.download.prss.microsoft.com/dbazure/download/stable/88e44fa0e00b08f7758b4f6d05632e4fd5e4df6f/VSCode-darwin-universal.zip</app_only_update_download>
+        <app_update_sha1>95b5aa20d6717a8638fbd97e2f38ef89d57cfa23</app_update_sha1>
+        <app_update_sha256>a7b138cc78357c3b7cc0cf89812cdc1e36898fff0e4ae0f8fe3f7a27f6f7264a</app_update_sha256>
         <full_update_download>https://code.visualstudio.com/sha/download?build=stable&amp;os=darwin-universal-dmg</full_update_download>
-        <full_update_sha1>ac125c2101e336428a404027a6b3a045209372c2</full_update_sha1>
-        <full_update_sha256>aa799dee4479b30c2c3c48ca97bc0f4039937d0bdd7f22cbd39adb0ef13279bc</full_update_sha256>
+        <full_update_sha1>426ec4b7332b75a1e5765b64c7641c2eca6896d6</full_update_sha1>
+        <full_update_sha256>11c2589ddd8c56a00a14650a7e7f388096a7e6cdd73d9944fb87deaa98ebd807</full_update_sha256>
     </package>
     <package>
         <name>Copilot</name>

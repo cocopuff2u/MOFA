@@ -1,4 +1,4 @@
-last_updated: September 09, 2026 02:19 PM EDT
+last_updated: September 09, 2026 05:28 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -64,13 +64,13 @@ packages:
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
     bundleId: com.microsoft.rdc.ios
-    currentVersionReleaseDate: August 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/2e/b2/d02eb286-bf57-8144-c21d-c7839c4b45a0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4e/82/2c4e8298-4519-1111-8165-4f5564907fd5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
     releaseNotes: In this release, we made some improvements to help enhance the stability
-      and supportability of Windows App. If you encounter any errors, you can contact
-      us via Settings > Submit Feedback.
-    version: 11.3.5
+      and security of Windows App. If you encounter any errors, you can contact us
+      via Settings > Submit Feedback.
+    version: 11.3.6
     app_store_url: https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
@@ -148,11 +148,11 @@ packages:
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
-    currentVersionReleaseDate: August 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/d5/04/f5d5044c-869a-b876-704f-d7cefe19fd8c/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/99/77/53997701-6426-8816-aa39-fe75c471d492/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: Minor updates, bug fixes, and performance improvements.
-    version: 13.26082.7
+    version: 13.26082.8
     app_store_url: https://apps.apple.com/us/app/dynamics-365-field-service/id1485579247?uo=4
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
@@ -259,11 +259,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: September 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/d0/fe/d9d0fe80-f987-c8eb-e729-031ff11fe152/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c5/20/c1c52081-51ee-eee8-5619-921ff965b4eb/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.16.0 (100772026162301)
+    version: 8.16.1
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
@@ -306,11 +306,11 @@ packages:
   - name: iOS Microsoft Advertising
     application_name: Meta Ads Manager
     bundleId: com.facebook.MAdMan
-    currentVersionReleaseDate: September 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/87/5f/53875fad-f3f6-e3d9-1e00-2d7cb39fadda/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/54/6d/e6546d56-12db-3847-5bd8-5359d413dc6d/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.1'
     releaseNotes: Bug fixes and performance updates
-    version: '491.0'
+    version: '491.1'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
     application_name: Lens - PDF Scanner and Editor

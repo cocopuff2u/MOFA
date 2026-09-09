@@ -1,5 +1,5 @@
 EdgeInsiderVersions:
-  last_updated: September 09, 2026 05:35 PM EDT
+  last_updated: September 09, 2026 07:57 PM EDT
   Version:
   - Name: current
     Version: 152.0.4191.66
@@ -20,20 +20,20 @@ EdgeInsiderVersions:
     Full_Update_Sha256: d2226ae899040bf082237d320f4558d61264c0b5a74aadbac8f0492d54dcc8a3
     Last_Update: September 09, 2026 08:42 AM EDT
   - Name: dev
-    Version: 154.0.4251.0
+    Version: 155.0.4268.0
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1d647d45-47a3-4107-92c6-643276df5e7b/MicrosoftEdgeDev-154.0.4251.0.pkg
-    Full_Update_Sha1: ca3159a14611ae442207cd667c7eeeaef0e7af2d
-    Full_Update_Sha256: e362a7bd4f501ff0336c544978402a4a6e3f20df3fa45ece7c8442b1606dacb5
-    Last_Update: September 01, 2026 01:42 PM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bfbb38fe-c603-42a7-9f68-6bd727a7b32c/MicrosoftEdgeDev-155.0.4268.0.pkg
+    Full_Update_Sha1: bc4deb6ce4ce407344cc0ae5026ce46522cc1368
+    Full_Update_Sha256: 4402e219e3e237def3d1cfd156acd267c3365bb78bf300dcfe25c4459e4f3c15
+    Last_Update: September 09, 2026 07:38 PM EDT
   - Name: beta
-    Version: 153.0.4234.19
+    Version: 154.0.4258.9
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e2717d50-fbe5-4edd-ab39-feb8ec5627e0/MicrosoftEdgeBeta-153.0.4234.19.pkg
-    Full_Update_Sha1: fc311044a4ef244413d23f6d1c030bb3e2d0fad6
-    Full_Update_Sha256: 0a24feb0942d6979d784c0c46d5aceda2d1fa47dcc6674e1d8de3eead4607202
-    Last_Update: September 03, 2026 06:19 PM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d32e56f2-66b7-4ddd-8265-d13e6c9e865e/MicrosoftEdgeBeta-154.0.4258.9.pkg
+    Full_Update_Sha1: 4600de08c3577db4408503b04618310c58ae008b
+    Full_Update_Sha256: eae3f9a8e7f8ac884b6119f9f06465125df0f1e7a1156156ed1ba8747adb479e
+    Last_Update: September 09, 2026 07:51 PM EDT

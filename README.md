@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">September 09, 2026 05:28 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">September 09, 2026 07:47 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -128,7 +128,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>_Some of these tools are also available via [Homebrew](https://brew.sh); the versions below reflect the latest official Microsoft releases._</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">September 09, 2026 05:35 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">September 09, 2026 07:57 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -138,7 +138,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **.NET SDK 9 (STS)**<br><br>_**Last Update:** `September 08, 2026`_<br> | **Version:**<br>`9.0.318` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.318/dotnet-sdk-9.0.318-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
 | **.NET SDK 8 (LTS)**<br><br>_**Last Update:** `September 08, 2026`_<br> | **Version:**<br>`8.0.425` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.425/dotnet-sdk-8.0.425-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
 | **Azure Functions Core Tools**<br><br>_**Last Update:** `August 24, 2026`_<br> | **Version:**<br>`4.14.0` | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.14.0/Azure.Functions.Cli.osx-arm64.4.14.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
-| **Azure Developer CLI (azd)**<br><br>_**Last Update:** `September 03, 2026`_<br> | **Version:**<br>`1.33.0` | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.33.0/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
+| **Azure Developer CLI (azd)**<br><br>_**Last Update:** `September 09, 2026`_<br> | **Version:**<br>`1.34.0` | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.34.0/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **AzCopy**<br><br>_**Last Update:** `August 27, 2026`_<br> | **Version:**<br>`10.32.8` | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.8/azcopy_darwin_arm64_10.32.8.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **Bicep CLI**<br><br>_**Last Update:** `September 08, 2026`_<br> | **Version:**<br>`0.47.16` | <a href="https://github.com/Azure/bicep/releases/download/v0.47.16/bicep-osx-arm64"><img src=".github/images/bicep.png" alt="Download Image" width="80"></a> |
 | **Azure CLI**<br><br>_**Last Update:** `September 01, 2026`_<br> | **Version:**<br>`2.90.0` | <img src=".github/images/azure.png" alt="Azure CLI" width="80"><br>`brew install azure-cli` |
@@ -154,7 +154,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **.NET SDK 9 (STS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.318/dotnet-sdk-9.0.318-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `1a50cc4db7e8dcc360220fc73e08f0ee9ef41cc8d7b453f4bc02c2a7f61e1ed0` |
 | **.NET SDK 8 (LTS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.425/dotnet-sdk-8.0.425-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `fcf2e9d9f48107303cf18adb9092331f1efa54627d635f9f8de56aa028d3340f` |
 | **Azure Functions Core Tools** | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.14.0/Azure.Functions.Cli.osx-arm64.4.14.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `b0f71d0a287139215e3a628eca406885d6358aaeff6843480582c8ea6a1726a1` |
-| **Azure Developer CLI (azd)** | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.33.0/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `78da4c8c52ef5c77c20315973f44faab53d12ed429f9ec166963f1f05bddc68f` |
+| **Azure Developer CLI (azd)** | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.34.0/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `7beba7d339fc2c025cb4f46c8b2a89ac0af6ca2023cca7bfba80eff85bfe5d86` |
 | **AzCopy** | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.8/azcopy_darwin_arm64_10.32.8.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `d17c2a7df11425f2dbc9df397af41495b32a38009e1a230e3c21892cc7a2c8c1` |
 | **Bicep CLI** | <a href="https://github.com/Azure/bicep/releases/download/v0.47.16/bicep-osx-arm64"><img src=".github/images/bicep.png" alt="Download Image" width="80"></a> | `68046a084c88503cf6bd11dacf2a1c4ffcb7e3ac9c6b310d295e024af21bbea4` |
 
@@ -162,7 +162,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">September 09, 2026 05:28 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">September 09, 2026 07:47 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -186,7 +186,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">September 09, 2026 05:28 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">September 09, 2026 07:47 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

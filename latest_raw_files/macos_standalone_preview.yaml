@@ -1,41 +1,41 @@
-last_updated: September 09, 2026 05:28 PM EDT
+last_updated: September 09, 2026 07:47 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.112.3 (26090417)
-  full_version: 16.112.26090417
-  last_updated: September 04, 2026
+  short_version: 16.112.4 (26090911)
+  full_version: 16.112.26090911
+  last_updated: September 09, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090417_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090417_Updater.pkg
-  sha1: 5fbdf135f09ea5a98360cf42e41141cb1fc0cff8
-  sha256: 1f937b6fff8e4d1ff127a4a89bd26125d34e4cae88b3671cea335e5d91f68212
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090911_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090911_Updater.pkg
+  sha1: 6e31d60ef0b0be3a569960e89ba4aa32a3852db0
+  sha256: 917d91a518cc518765a475649fc1a5e9cb8c541e2c9705a508f2dbe52a4458f0
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.112.4 (26090911)
-  full_version: 16.112.26090911
-  last_updated: September 09, 2026
+  short_version: 16.112.3 (26090417)
+  full_version: 16.112.26090417
+  last_updated: September 04, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26090911_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26090911_Updater.pkg
-  sha1: 6274b98f11f354049bf6ea0b38e1c0770fd3ad5d
-  sha256: 2b3fa4ef5fd1bcd5e4f3885e92fa1a018ca9faf421cdb8725c3ac7ea81977d89
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26090417_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.112.26090417_Updater.pkg
+  sha1: 42fc175b138852555a4b62998d5eda1c48777214
+  sha256: d17f39f47fd604fd349c9181a1061a06125fe9e0307bfbe8e8444ca981444b94
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.112.4 (26090911)
-  full_version: 16.112.26090911
-  last_updated: September 09, 2026
+  short_version: 16.112.3 (26090417)
+  full_version: 16.112.26090417
+  last_updated: September 04, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090911_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090911_Updater.pkg
-  sha1: 53f3707c1ea53ca7e6f67871c24d9a07cae1a22c
-  sha256: 0a95f8405106847423cd801a7fd912f06bb88af7966bb459a35cdd6145d98c29
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090417_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090417_Updater.pkg
+  sha1: 3a1f0fa779679940c44144304e49b0dba0ecc3af
+  sha256: e17d35ee6b77891146d3c7700204726fb5e6f22febeaf79381fd106b52cf02ce
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app

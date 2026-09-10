@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 09, 2026 10:53 PM EDT",
+    "last_updated": "September 10, 2026 03:50 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -93,11 +93,11 @@
             "name": "iOS Microsoft Copilot",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "September 07, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/6d/f1/e66df1dd-1071-fc2f-53a0-ea4a4cba44f1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 10, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/b0/d7/6ab0d7c7-df97-2bf8-a8e4-2701bc8005cc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.113.6",
+            "version": "2.113.7",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4"
         },
         {
@@ -190,14 +190,14 @@
         },
         {
             "name": "iOS Microsoft Edge AI Browser",
-            "application_name": "Opera: AI browser with VPN",
+            "application_name": "Opera Browser with VPN",
             "bundleId": "com.opera.OperaTouch",
-            "currentVersionReleaseDate": "August 30, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d1/8c/16d18ccc-83d5-6c53-7316-4fa63d8f09bf/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 10, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ed/bd/68edbdf8-39a4-043e-eb64-0130e3f83926/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
-            "releaseNotes": "- App links dialog. \nSometimes links will open in external apps by default on iOS. This feature will allow the users to decide (dialog) if they want to open the link in the browser or in the external app. The choice will be stored as default behavior for each domain/link and can be changed in Settings.\n- Media Settings\nA user can enable \"Forced Media Playback in background tabs or if app is in background.\n- Always mute a domain\nIf a website automatically plays media or sound that you find annoying, you can choose to always mute it (until unmuted) when loaded. Long press the mute button in the searchbar and select \"Always mute domain\"\n- We've removed the Opera AI sheet\nOpera AI will always open in a normal tab from now on. Old AI chats can be found as separate tabs in the tab manager.\n- Memory optimization\nVarious changes in order to minimize memory usage\n- Other bug fixes and UI improvements",
-            "version": "6.7.1",
-            "app_store_url": "https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974?uo=4"
+            "releaseNotes": "- A couple of crashes fixed\n- Other bug fixes and UI improvements",
+            "version": "6.7.2",
+            "app_store_url": "https://apps.apple.com/us/app/opera-browser-with-vpn/id1411869974?uo=4"
         },
         {
             "name": "iOS Microsoft Seeing AI",
@@ -291,11 +291,11 @@
             "name": "iOS Microsoft Authenticator",
             "application_name": "Microsoft Authenticator",
             "bundleId": "com.microsoft.azureauthenticator",
-            "currentVersionReleaseDate": "August 31, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/3f/31/953f3143-8530-0b80-b9cc-d3a52d45b4fd/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 10, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/26/ad/8026adff-d8e1-15e4-3366-be76b24250b9/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
-            "version": "6.8.54",
+            "version": "6.8.55",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens - PDF Scanner and Editor",
-            "bundleId": "com.Scantera593thzp.app",
-            "currentVersionReleaseDate": "August 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Code refinements, minor bug fix",
-            "version": "1.4.3",
-            "app_store_url": "https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4"
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
+            "currentVersionReleaseDate": "September 07, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ff/f2/26fff2c0-729b-5216-0c13-7d0499f10940/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 Image translation engine upgraded. Layouts now better match the original.\n\u00b7 Various improvements for a better experience.",
+            "version": "7.25.5",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",
@@ -379,11 +379,11 @@
             "name": "iOS Microsoft 365 Office",
             "application_name": "Microsoft Copilot",
             "bundleId": "com.microsoft.officemobile",
-            "currentVersionReleaseDate": "September 07, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/6d/f1/e66df1dd-1071-fc2f-53a0-ea4a4cba44f1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 10, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/b0/d7/6ab0d7c7-df97-2bf8-a8e4-2701bc8005cc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.113.6",
+            "version": "2.113.7",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4"
         },
         {

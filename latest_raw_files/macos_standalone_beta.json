@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 10, 2026 03:52 AM EDT",
+    "last_updated": "September 10, 2026 08:41 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -20,14 +20,14 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.114.0 (26090717)",
-            "full_version": "16.114.26090717",
-            "last_updated": "September 07, 2026",
+            "short_version": "16.113.0 (26081913)",
+            "full_version": "16.113.26081913",
+            "last_updated": "August 19, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.114.26090717_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.114.26090717_Updater.pkg",
-            "sha1": "bbee3ec8d9c94fb378e453af050d7b8783247325",
-            "sha256": "b286c879aada6d9280e2139169ee160ad59a2cc1dc4ab7be1679e20d2c745a60"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081913_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.113.26081913_Updater.pkg",
+            "sha1": "N/A",
+            "sha256": "6ceea53e824319536aa1f5f697d631073833bef446c58240be6d842956bc3336"
         },
         {
             "name": "PowerPoint",
@@ -174,11 +174,11 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code - Insiders.app",
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
-            "short_version": "1.137.0-",
-            "full_version": "1.137.0-insider",
-            "last_updated": "September 08, 2026",
+            "short_version": "1.138.0-",
+            "full_version": "1.138.0-insider",
+            "last_updated": "September 10, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/645f29cc3176500b4b5762ba887cf2a7f0ffdf2c/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/1410ae566a7ec09ae775a65a995076f0e303fafb/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

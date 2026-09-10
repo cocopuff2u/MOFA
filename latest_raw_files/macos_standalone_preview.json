@@ -1,19 +1,19 @@
 {
-    "last_updated": "September 09, 2026 10:53 PM EDT",
+    "last_updated": "September 10, 2026 03:50 AM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.112.3 (26090417)",
-            "full_version": "16.112.26090417",
-            "last_updated": "September 04, 2026",
+            "short_version": "16.112.4 (26090911)",
+            "full_version": "16.112.26090911",
+            "last_updated": "September 09, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090417_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090417_Updater.pkg",
-            "sha1": "5fbdf135f09ea5a98360cf42e41141cb1fc0cff8",
-            "sha256": "1f937b6fff8e4d1ff127a4a89bd26125d34e4cae88b3671cea335e5d91f68212"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090911_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090911_Updater.pkg",
+            "sha1": "6e31d60ef0b0be3a569960e89ba4aa32a3852db0",
+            "sha256": "917d91a518cc518765a475649fc1a5e9cb8c541e2c9705a508f2dbe52a4458f0"
         },
         {
             "name": "Excel",
@@ -34,14 +34,14 @@
             "application_id": "PPT32019",
             "application_name": "Microsoft PowerPoint.app",
             "CFBundleVersion": "com.microsoft.powerpoint",
-            "short_version": "16.112.4 (26090911)",
-            "full_version": "16.112.26090911",
-            "last_updated": "September 09, 2026",
+            "short_version": "16.112.3 (26090417)",
+            "full_version": "16.112.26090417",
+            "last_updated": "September 04, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090911_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090911_Updater.pkg",
-            "sha1": "53f3707c1ea53ca7e6f67871c24d9a07cae1a22c",
-            "sha256": "0a95f8405106847423cd801a7fd912f06bb88af7966bb459a35cdd6145d98c29"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090417_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090417_Updater.pkg",
+            "sha1": "3a1f0fa779679940c44144304e49b0dba0ecc3af",
+            "sha256": "e17d35ee6b77891146d3c7700204726fb5e6f22febeaf79381fd106b52cf02ce"
         },
         {
             "name": "Outlook",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams2",
-            "short_version": "26225.1706.5101.3140",
-            "full_version": "26225.1706.5101.3140",
+            "short_version": "26246.1702.5102.8942",
+            "full_version": "26246.1702.5102.8942",
             "last_updated": "September 08, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1706.5101.3140/MicrosoftTeams_26198.202.4929.7171_to_26225.1706.5101.3140_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26225.1706.5101.3140/MicrosoftTeams_26198.202.4929.7171_to_26225.1706.5101.3140_BinaryDelta.pkg",
-            "sha1": "d19417628ba6f73db0970bbc56d031b613ca8af3",
-            "sha256": "30b621efce52ec013618fd38bdf59f8f84f01c242dfb45e5a34147046f79d821"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26246.1702.5102.8942/MicrosoftTeams_26213.1006.5011.1671_to_26246.1702.5102.8942_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26246.1702.5102.8942/MicrosoftTeams_26213.1006.5011.1671_to_26246.1702.5102.8942_BinaryDelta.pkg",
+            "sha1": "4045abb9bf98b740dad1141fc652ac06cc3bd9b9",
+            "sha256": "5e65a449a1298ac5e8b6399df3f0a4218b05d7403ff5f5deeb48b080f9f02450"
         },
         {
             "name": "Intune",
@@ -174,11 +174,11 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code - Insiders.app",
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
-            "short_version": "1.138.0-",
-            "full_version": "1.138.0-insider",
-            "last_updated": "September 09, 2026",
+            "short_version": "1.137.0-",
+            "full_version": "1.137.0-insider",
+            "last_updated": "September 08, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/1f398ff5fa56ae9b782dc3a55856562233efd72e/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/645f29cc3176500b4b5762ba887cf2a7f0ffdf2c/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

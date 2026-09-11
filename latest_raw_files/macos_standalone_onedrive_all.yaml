@@ -1,24 +1,24 @@
 latest:
-  last_updated: September 11, 2026 02:08 PM EDT
+  last_updated: September 11, 2026 05:31 PM EDT
   package:
   - name: Production Ring
-    short_version: 26.158.0816
+    short_version: 26.163.0823
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.158.0816.0002/universal/OneDrive.pkg
-    full_update_sha1: d2204d9f0c89acc502314ad06698d615fff992f4
-    full_update_sha256: ffeaf23f94eb0671d683d9186ba1b1052e149e047c7c6035734977d4e498a13c
-    last_updated: September 04, 2026 02:02 PM EDT
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.163.0823.0004/universal/OneDrive.pkg
+    full_update_sha1: ee8d72feed17711cfa788f0888881ed89d58d090
+    full_update_sha256: f2da833e1f043e2a3e991073de1d76fda18be56a0eaaeac93a45c9baef48be74
+    last_updated: September 11, 2026 05:31 PM EDT
   - name: Upcoming Production Ring
-    short_version: 26.158.0816
+    short_version: 26.163.0823
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.158.0816.0002/universal/OneDrive.pkg
-    full_update_sha1: d2204d9f0c89acc502314ad06698d615fff992f4
-    full_update_sha256: ffeaf23f94eb0671d683d9186ba1b1052e149e047c7c6035734977d4e498a13c
-    last_updated: September 04, 2026 02:02 PM EDT
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.163.0823.0004/universal/OneDrive.pkg
+    full_update_sha1: ee8d72feed17711cfa788f0888881ed89d58d090
+    full_update_sha256: f2da833e1f043e2a3e991073de1d76fda18be56a0eaaeac93a45c9baef48be74
+    last_updated: September 11, 2026 05:31 PM EDT
   - name: Deferred Ring
     short_version: 26.078.0426
     application_id: ONDR18
@@ -38,29 +38,29 @@ latest:
     full_update_sha256: cf927ceac76bddb80cf583b60a705b1f9837283adf910a232b4e72d22ba22998
     last_updated: August 10, 2026 11:56 AM EDT
   - name: Insider Ring
+    short_version: 26.163.0823
+    application_id: ONDR18
+    application_name: OneDrive.app
+    CFBundleVersion: com.microsoft.onedrive
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.163.0823.0004/universal/OneDrive.pkg
+    full_update_sha1: ee8d72feed17711cfa788f0888881ed89d58d090
+    full_update_sha256: f2da833e1f043e2a3e991073de1d76fda18be56a0eaaeac93a45c9baef48be74
+    last_updated: September 11, 2026 05:31 PM EDT
+  - name: Rolling Out (Unknown Use)
     short_version: 26.158.0816
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.158.0816.0002/universal/OneDrive.pkg
+    full_update_download: https://go.microsoft.com/fwlink/?linkid=861011
     full_update_sha1: d2204d9f0c89acc502314ad06698d615fff992f4
     full_update_sha256: ffeaf23f94eb0671d683d9186ba1b1052e149e047c7c6035734977d4e498a13c
-    last_updated: September 04, 2026 02:02 PM EDT
-  - name: Rolling Out (Unknown Use)
+    last_updated: September 11, 2026 05:31 PM EDT
+  - name: App New Version (Unknown Use)
     short_version: 26.153.0809
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://go.microsoft.com/fwlink/?linkid=861011
+    full_update_download: https://go.microsoft.com/fwlink/?linkid=823060
     full_update_sha1: 53a916455c7d0007041bfa10e921850e252eea19
     full_update_sha256: 35d67e76de8579fa0b533fff7ff3b618ea54f574a8a557bb9d3d736b14029f78
-    last_updated: September 02, 2026 10:56 AM EDT
-  - name: App New Version (Unknown Use)
-    short_version: 26.150.0804
-    application_id: ONDR18
-    application_name: OneDrive.app
-    CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://go.microsoft.com/fwlink/?linkid=823060
-    full_update_sha1: bc1e5e519d6227a7e4b3dd6d770227b3eb23e6e6
-    full_update_sha256: e718dda687b08d1c908d4aa43a20fcb987e07e897d4f255adec5487f49593265
-    last_updated: September 02, 2026 10:56 AM EDT
+    last_updated: September 11, 2026 05:31 PM EDT

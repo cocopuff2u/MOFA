@@ -1,17 +1,17 @@
-last_updated: September 10, 2026 06:13 PM EDT
+last_updated: September 10, 2026 08:48 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.113.0 (26090931)
-  full_version: 16.113.26090931
-  last_updated: September 09, 2026
+  short_version: 16.112.2 (26082125)
+  full_version: 16.112.26082125
+  last_updated: August 21, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26090931_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26090931_Updater.pkg
-  sha1: 79ccf31dfd3b75e32b6a957accdce8c58627d21b
-  sha256: 2e7911c5cbbc59ad443d3bb8edb4b53706cfc4724b9e95a0ad20d47d174e860c
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26082125_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26082125_Updater.pkg
+  sha1: 6842489b4c8ff738d601f6e5ac7109ff5a4b1aa9
+  sha256: 5c106854a5edf0c9e9f0e4ebe8445d49e4af8d7678c6b585042cfbdbef329dee
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app

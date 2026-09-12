@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 12, 2026 03:39 AM EDT</last_updated>
+    <last_updated>September 12, 2026 07:58 AM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -48,28 +48,28 @@
         <application_id>OPIM2019</application_id>
         <application_name>Microsoft Outlook.app</application_name>
         <CFBundleVersion>com.microsoft.outlook</CFBundleVersion>
-        <short_version>16.112.3 (26090417)</short_version>
-        <full_version>16.112.26090417</full_version>
-        <last_updated>September 04, 2026</last_updated>
+        <short_version>16.113.0 (26090931)</short_version>
+        <full_version>16.113.26090931</full_version>
+        <last_updated>September 09, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26090417_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26090417_Updater.pkg</latest_download>
-        <sha1>a0dfd0ba3f39f2bfd899542deda45c0f442cc8cb</sha1>
-        <sha256>e07f80743750ccf65e85158ca64f4024006fcf6b359c3751885a7134f8429233</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.113.26090931_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.113.26090931_Updater.pkg</latest_download>
+        <sha1>dd49ecd0e05cd90444844a97f465b6be8accdc63</sha1>
+        <sha256>4f5a708066954229b5e6b5a3acce0b95c95ad86ea463c3e229604a7a8d2af027</sha256>
     </package>
     <package>
         <name>OneNote</name>
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote.mac</CFBundleVersion>
-        <short_version>16.113.0 (26090931)</short_version>
-        <full_version>16.113.26090931</full_version>
+        <short_version>16.112.4 (26090911)</short_version>
+        <full_version>16.112.26090911</full_version>
         <last_updated>September 09, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.113.26090931_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.113.26090931_Updater.pkg</latest_download>
-        <sha1>b8d2b481e7a6532be5c38995bcea22a5e3beb6c0</sha1>
-        <sha256>54e42ba9cbf034a91784fd5cd8c9a0ae11172a47dc9e31c027107520b1a87b22</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.112.26090911_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.112.26090911_Updater.pkg</latest_download>
+        <sha1>68cfa562903805606ca2e32fa10f627d9adb4fe5</sha1>
+        <sha256>6cb356b3f54cfa0956ca9a3a03ecb3dd693cc7163d3f2c662a69d81dbe7bc428</sha256>
     </package>
     <package>
         <name>Skype</name>
@@ -104,14 +104,14 @@
         <application_id>IMCP01</application_id>
         <application_name>Company Portal.app</application_name>
         <CFBundleVersion>com.microsoft.CompanyPortalMac</CFBundleVersion>
-        <short_version>5.2606.0</short_version>
-        <full_version>53.2607303.000</full_version>
-        <last_updated>July 07, 2026</last_updated>
+        <short_version>5.2608.0</short_version>
+        <full_version>53.2608178.000</full_version>
+        <last_updated>August 28, 2026</last_updated>
         <min_os>11.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2606.0-Upgrade.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2606.0-Upgrade.pkg</latest_download>
-        <sha1>c11712a9f4aea7be5dd3e3d1043e25baedac20ae</sha1>
-        <sha256>8bdc0084c29bc5898b638be1b07feb4c5c714bb90ee9bc061df3d0b19d0e3d0c</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2608.0-Upgrade.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/CompanyPortal_5.2608.0-Upgrade.pkg</latest_download>
+        <sha1>14e9eab599687ab455e710b50337b2958ac19729</sha1>
+        <sha256>c4ed25fef2f62d88b1f9be0a84eebf5a0aa58141a34794a3fe0b17151cdc6722</sha256>
     </package>
     <package>
         <name>Edge</name>
@@ -132,14 +132,14 @@
         <application_id>WDAV00</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.wdav</CFBundleVersion>
-        <short_version>101.26062.0012</short_version>
-        <full_version>101.26062.0012</full_version>
-        <last_updated>August 12, 2026</last_updated>
+        <short_version>101.26072.0016</short_version>
+        <full_version>101.26072.0016</full_version>
+        <last_updated>August 28, 2026</last_updated>
         <min_os>14.0</min_os>
         <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg</update_download>
         <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg</latest_download>
-        <sha1>7109d08cced38da5b199df0d22827875cde30fb5</sha1>
-        <sha256>9c1527dcd4f17cf2dd082f60867e2e3a0f59db991c69c08a8b5354aaae3e7504</sha256>
+        <sha1>9e4993255e4ead71df5b60392681782b0e74e981</sha1>
+        <sha256>71574f0d8ad3db3e6f8ec36dce3f2d66e870f1a2ec807419a31f1130b98d0d38</sha256>
     </package>
     <package>
         <name>Defender For Consumers</name>

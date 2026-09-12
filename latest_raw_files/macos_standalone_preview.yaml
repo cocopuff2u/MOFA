@@ -1,4 +1,4 @@
-last_updated: September 12, 2026 01:40 PM EDT
+last_updated: September 12, 2026 04:07 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -28,14 +28,14 @@ packages:
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.112.4 (26090911)
-  full_version: 16.112.26090911
+  short_version: 16.113.0 (26090931)
+  full_version: 16.113.26090931
   last_updated: September 09, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090911_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26090911_Updater.pkg
-  sha1: 53f3707c1ea53ca7e6f67871c24d9a07cae1a22c
-  sha256: 0a95f8405106847423cd801a7fd912f06bb88af7966bb459a35cdd6145d98c29
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26090931_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26090931_Updater.pkg
+  sha1: f465d8c1b732c5500a85a03a2e91592ddae61ec7
+  sha256: 3d948ddb54d614310fd780fb68294f82f51e2243d209f181c001975d39e40e65
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
@@ -112,13 +112,13 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.wdav
-  short_version: 101.26062.0012
-  full_version: 101.26062.0012
-  last_updated: August 12, 2026
+  short_version: 101.26072.0016
+  full_version: 101.26072.0016
+  last_updated: August 28, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
-  sha1: N/A
+  sha1: 9e4993255e4ead71df5b60392681782b0e74e981
   sha256: 71574f0d8ad3db3e6f8ec36dce3f2d66e870f1a2ec807419a31f1130b98d0d38
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
@@ -136,14 +136,14 @@ packages:
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.wdav
-  short_version: 101.26050.0000
-  full_version: 101.26050.0000
-  last_updated: July 28, 2026
+  short_version: 101.26060.0000
+  full_version: 101.26060.0000
+  last_updated: August 18, 2026
   min_os: '12.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg
-  sha1: 9b335f964f35275540e2b24cb9434b255a223e58
-  sha256: 5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg
+  sha1: 8051720ebbe2550990a108315e5ce7c840766aeb
+  sha256: 8914d9f0cd511e134617d08d3bcbf01df96fd08b1ca34b5dc912d27a54aa3c6c
 - name: Visual
   application_id: N/A
   application_name: Visual Studio Code - Insiders.app

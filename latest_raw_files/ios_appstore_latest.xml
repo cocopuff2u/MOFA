@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 13, 2026 06:49 PM EDT</last_updated>
+	<last_updated>September 13, 2026 08:39 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -89,11 +89,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>September 07, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/b4/57/75b45793-9f6f-d60c-88c6-c1988a477f20/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 13, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/1c/35/1d1c35a9-4305-aec7-30f5-d6326ca89e8f/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and improvements</releaseNotes>
-		<version>1.1.80270104</version>
+		<version>1.1.81120108</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,4 +1,4 @@
-last_updated: September 15, 2026 03:29 PM EDT
+last_updated: September 15, 2026 06:41 PM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -61,14 +61,16 @@ packages:
     version: 26.158.0816
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
-    application_name: 'ShareMe: File Sharing & MeDrop'
-    bundleId: com.sharedrop.wifiShare
-    currentVersionReleaseDate: September 12, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/18/d4/7118d43b-eb93-77be-6849-a27438c33d74/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: Bug fixes
-    version: 1.0.7
-    app_store_url: https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4
+    application_name: Share-A-Cart
+    bundleId: com.shareacart.Share-A-Cart-for-Everything
+    currentVersionReleaseDate: August 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a4/1f/ada41fe1-e5c4-98f8-26ab-9e543dd513cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.1'
+    releaseNotes: Search across all stores from Choose Store, with results grouped
+      by retailer. Browse current deals, open a full-screen product view, and enjoy
+      general fixes for cart, receive, and navigation.
+    version: 4.0.0
+    app_store_url: https://apps.apple.com/us/app/share-a-cart/id1537641390?uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

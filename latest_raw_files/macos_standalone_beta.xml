@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 15, 2026 11:27 AM EDT</last_updated>
+    <last_updated>September 15, 2026 03:30 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -90,14 +90,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams2</CFBundleVersion>
-        <short_version>26246.1702.5102.8942</short_version>
-        <full_version>26246.1702.5102.8942</full_version>
-        <last_updated>September 08, 2026</last_updated>
+        <short_version>26253.1103.5124.9723</short_version>
+        <full_version>26253.1103.5124.9723</full_version>
+        <last_updated>September 15, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26246.1702.5102.8942/MicrosoftTeams_26213.1006.5011.1671_to_26246.1702.5102.8942_BinaryDelta.pkg</update_download>
-        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26246.1702.5102.8942/MicrosoftTeams_26213.1006.5011.1671_to_26246.1702.5102.8942_BinaryDelta.pkg</latest_download>
-        <sha1>4045abb9bf98b740dad1141fc652ac06cc3bd9b9</sha1>
-        <sha256>5e65a449a1298ac5e8b6399df3f0a4218b05d7403ff5f5deeb48b080f9f02450</sha256>
+        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26253.1103.5124.9723/MicrosoftTeams_26213.1006.5011.1671_to_26253.1103.5124.9723_BinaryDelta.pkg</update_download>
+        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26253.1103.5124.9723/MicrosoftTeams_26213.1006.5011.1671_to_26253.1103.5124.9723_BinaryDelta.pkg</latest_download>
+        <sha1>1f43741fc9741025dd2fb2cabc3510d09d09dade</sha1>
+        <sha256>a1378d46dee18d5d4820c130adcb9d4d74a241933566549f11fbb49fbcc7ab5a</sha256>
     </package>
     <package>
         <name>Intune</name>
@@ -174,11 +174,11 @@
         <application_id>N/A</application_id>
         <application_name>Visual Studio Code - Insiders.app</application_name>
         <CFBundleVersion>com.microsoft.VSCodeInsiders</CFBundleVersion>
-        <short_version>1.138.0-</short_version>
-        <full_version>1.138.0-insider</full_version>
+        <short_version>1.139.0-</short_version>
+        <full_version>1.139.0-insider</full_version>
         <last_updated>September 15, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/7debcd0e2acdea1c52de81bf9ee1620444407dda/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/f44f55cde0c1ff6c834bad0bb46397bc48711da8/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

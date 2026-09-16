@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 16, 2026 11:19 AM EDT</last_updated>
+    <last_updated>September 16, 2026 03:23 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -20,14 +20,14 @@
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.113.0 (26090931)</short_version>
-        <full_version>16.113.26090931</full_version>
-        <last_updated>September 09, 2026</last_updated>
+        <short_version>16.113.0 (26091433)</short_version>
+        <full_version>16.113.26091433</full_version>
+        <last_updated>September 14, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26090931_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26090931_Updater.pkg</latest_download>
-        <sha1>0e0a811a7e14f06a72ce1cafe5b9686999dbe3c7</sha1>
-        <sha256>e92591e15499cf43dc49d079162818c7b78ef2f9b9e31643c2bcebb80fe3c9a9</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26091433_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26091433_Updater.pkg</latest_download>
+        <sha1>be5972470194aa0f3be5881f71bdc8e0ce77db3b</sha1>
+        <sha256>8312160ac141bdce479f40e4b07450b330f8199130ce04bef3d0979af6694fee</sha256>
     </package>
     <package>
         <name>PowerPoint</name>
@@ -178,7 +178,7 @@
         <full_version>1.139.0-insider</full_version>
         <last_updated>September 16, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/c74ba73b780a4a33173c006e52560d61432f53d6/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/4dbe1643e6189ba7b1bbe542cc0e56a94d9ff132/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

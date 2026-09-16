@@ -1,37 +1,37 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 16, 2026 03:21 PM EDT</last_updated>
+    <last_updated>September 16, 2026 06:36 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
         <application_name>Data sourced from Outlook (CurrentThrottle)</application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.112.0 (26081010)</short_version>
-        <full_version>16.112.26081010</full_version>
-        <last_updated>August 10, 2026</last_updated>
+        <short_version>16.113.0 (26091433)</short_version>
+        <full_version>16.113.26091433</full_version>
+        <last_updated>September 14, 2026</last_updated>
         <min_os>14.0</min_os>
         <app_only_update_download>N/A</app_only_update_download>
         <app_update_sha1>N/A</app_update_sha1>
         <app_update_sha256>N/A</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=525133</full_update_download>
-        <full_update_sha1>ef63ac84682ef4c67e90fc7cd47ff768a32e44f1</full_update_sha1>
-        <full_update_sha256>46c0df926b79c87a9a754aad1d571156ebc0c5875a63ae3ef802d83314ee9c45</full_update_sha256>
+        <full_update_sha1>ca52be33e2e2e8257d92741eea0e3275a328c619</full_update_sha1>
+        <full_update_sha256>b68ad8817bc6dbe2e433a4b6329391665410ddfb38e71aab5e7d7a28faa7b0cf</full_update_sha256>
     </package>
     <package>
         <name>Microsoft BusinessPro Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
         <application_name>Data sourced from Outlook (CurrentThrottle)</application_name>
         <CFBundleVersion>com.microsoft.office</CFBundleVersion>
-        <short_version>16.112.0 (26081010)</short_version>
-        <full_version>16.112.26081010</full_version>
-        <last_updated>August 10, 2026</last_updated>
+        <short_version>16.113.0 (26091433)</short_version>
+        <full_version>16.113.26091433</full_version>
+        <last_updated>September 14, 2026</last_updated>
         <min_os>14.0</min_os>
         <app_only_update_download>N/A</app_only_update_download>
         <app_update_sha1>N/A</app_update_sha1>
         <app_update_sha256>N/A</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2009112</full_update_download>
-        <full_update_sha1>f0d564339d0840fa1963470df4df116d6a6414da</full_update_sha1>
-        <full_update_sha256>71b79d8841fed6893b37edb3edc6dc0b36f8d22bf73ad3a0709c360076f22ea1</full_update_sha256>
+        <full_update_sha1>cb5def9d7967f1fb4f833129ebc5bb54815f43ef</full_update_sha1>
+        <full_update_sha256>8b824c5d623a54676a5796c2b8435afcf520cdddd2b4eb8e603376278ba7d8fc</full_update_sha256>
     </package>
     <package>
         <name>Word</name>
@@ -102,16 +102,16 @@
         <application_id>ONMC2019</application_id>
         <application_name>Microsoft OneNote.app</application_name>
         <CFBundleVersion>com.microsoft.onenote.mac</CFBundleVersion>
-        <short_version>16.112.4 (26090911)</short_version>
-        <full_version>16.112.26090911</full_version>
-        <last_updated>September 09, 2026</last_updated>
+        <short_version>16.113.0 (26091433)</short_version>
+        <full_version>16.113.26091433</full_version>
+        <last_updated>September 14, 2026</last_updated>
         <min_os>14.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.112.26090911_Updater.pkg</app_only_update_download>
-        <app_update_sha1>68cfa562903805606ca2e32fa10f627d9adb4fe5</app_update_sha1>
-        <app_update_sha256>6cb356b3f54cfa0956ca9a3a03ecb3dd693cc7163d3f2c662a69d81dbe7bc428</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.113.26091433_Updater.pkg</app_only_update_download>
+        <app_update_sha1>433e558509cacb17f72993f8bc8ef33fdb3664bc</app_update_sha1>
+        <app_update_sha256>20518656c1b28121d055122a2cca0d880ce379791da08045481075261b25e5cc</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=820886</full_update_download>
-        <full_update_sha1>68cfa562903805606ca2e32fa10f627d9adb4fe5</full_update_sha1>
-        <full_update_sha256>6cb356b3f54cfa0956ca9a3a03ecb3dd693cc7163d3f2c662a69d81dbe7bc428</full_update_sha256>
+        <full_update_sha1>433e558509cacb17f72993f8bc8ef33fdb3664bc</full_update_sha1>
+        <full_update_sha256>20518656c1b28121d055122a2cca0d880ce379791da08045481075261b25e5cc</full_update_sha256>
     </package>
     <package>
         <name>Skype</name>

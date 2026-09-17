@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 17, 2026 04:54 PM EDT</last_updated>
+    <last_updated>September 17, 2026 07:21 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -20,28 +20,28 @@
         <application_id>XCEL2019</application_id>
         <application_name>Microsoft Excel.app</application_name>
         <CFBundleVersion>com.microsoft.excel</CFBundleVersion>
-        <short_version>16.113.0 (26090931)</short_version>
-        <full_version>16.113.26090931</full_version>
-        <last_updated>September 09, 2026</last_updated>
+        <short_version>16.113.0 (26091433)</short_version>
+        <full_version>16.113.26091433</full_version>
+        <last_updated>September 14, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26090931_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26090931_Updater.pkg</latest_download>
-        <sha1>0e0a811a7e14f06a72ce1cafe5b9686999dbe3c7</sha1>
-        <sha256>e92591e15499cf43dc49d079162818c7b78ef2f9b9e31643c2bcebb80fe3c9a9</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26091433_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26091433_Updater.pkg</latest_download>
+        <sha1>be5972470194aa0f3be5881f71bdc8e0ce77db3b</sha1>
+        <sha256>8312160ac141bdce479f40e4b07450b330f8199130ce04bef3d0979af6694fee</sha256>
     </package>
     <package>
         <name>PowerPoint</name>
         <application_id>PPT32019</application_id>
         <application_name>Microsoft PowerPoint.app</application_name>
         <CFBundleVersion>com.microsoft.powerpoint</CFBundleVersion>
-        <short_version>16.113.0 (26090931)</short_version>
-        <full_version>16.113.26090931</full_version>
-        <last_updated>September 09, 2026</last_updated>
+        <short_version>16.113.0 (26091433)</short_version>
+        <full_version>16.113.26091433</full_version>
+        <last_updated>September 14, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26090931_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26090931_Updater.pkg</latest_download>
-        <sha1>f465d8c1b732c5500a85a03a2e91592ddae61ec7</sha1>
-        <sha256>3d948ddb54d614310fd780fb68294f82f51e2243d209f181c001975d39e40e65</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26091433_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26091433_Updater.pkg</latest_download>
+        <sha1>a856632140a83c73a52ea208f2a1a25c9fea4f51</sha1>
+        <sha256>7d88e267b224becac03b8d2d4c040aa36cea02083062e0ee2e14b32a4dc3b1f0</sha256>
     </package>
     <package>
         <name>Outlook</name>
@@ -178,7 +178,7 @@
         <full_version>1.139.0-insider</full_version>
         <last_updated>September 17, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/046944034292b5479b4e9a50ad1a508033ffb64f/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/4fa9fcf245ad90eb1f21fae5ed0511515e068b1d/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

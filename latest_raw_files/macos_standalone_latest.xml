@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 17, 2026 09:00 AM EDT</last_updated>
+    <last_updated>September 17, 2026 01:30 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -214,16 +214,16 @@
         <application_id>MSRD10</application_id>
         <application_name>Windows App.app</application_name>
         <CFBundleVersion>com.microsoft.rdc.macos</CFBundleVersion>
-        <short_version>11.4.1</short_version>
-        <full_version>3092</full_version>
-        <last_updated>September 03, 2026</last_updated>
+        <short_version>11.4.2</short_version>
+        <full_version>3104</full_version>
+        <last_updated>September 15, 2026</last_updated>
         <min_os>12.0</min_os>
-        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.4.1_updater.pkg</app_only_update_download>
-        <app_update_sha1>c4c3d51b2cd01a75b21eb72455af1af44d48c171</app_update_sha1>
-        <app_update_sha256>b81cded6bb596135a7604347286a9c6b3b1d8dc1c754281ef1ecd2f765900d61</app_update_sha256>
+        <app_only_update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.4.2_updater.pkg</app_only_update_download>
+        <app_update_sha1>61c9835c6e690179711885ed9a732d30de2677cc</app_update_sha1>
+        <app_update_sha256>c744ca024dfd3c055fb3de73d1835b73154b46af93c017133ba848efd2b163bb</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=868963</full_update_download>
-        <full_update_sha1>ca7cb6c33d6c1c52226944c529eb922dfa0a0592</full_update_sha1>
-        <full_update_sha256>bdc7ccf2914960074d8eaeaa0b3661127bb3a29291f6832ab7dfdadf70c4171a</full_update_sha256>
+        <full_update_sha1>680fd9050917e8212ad278dd3c211c6827d4b1ea</full_update_sha1>
+        <full_update_sha256>346b9cc2e97ce9d82bdff7c565983b9061f27c3aec38831d3c46e64a1bdfbc75</full_update_sha256>
     </package>
     <package>
         <name>Visual</name>

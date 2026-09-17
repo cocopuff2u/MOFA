@@ -1,19 +1,19 @@
 {
-    "last_updated": "September 16, 2026 06:39 PM EDT",
+    "last_updated": "September 16, 2026 09:04 PM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.113.0 (26091433)",
-            "full_version": "16.113.26091433",
-            "last_updated": "September 14, 2026",
+            "short_version": "16.112.3 (26090417)",
+            "full_version": "16.112.26090417",
+            "last_updated": "September 04, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26091433_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26091433_Updater.pkg",
-            "sha1": "9850ed6a6602732e1e06bbbff235f317b8a39f39",
-            "sha256": "1f1af5ce04946fc6308f71ca1eb82aef4bba799b4f23852e81fad66a8ae61a9b"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090417_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26090417_Updater.pkg",
+            "sha1": "5fbdf135f09ea5a98360cf42e41141cb1fc0cff8",
+            "sha256": "1f937b6fff8e4d1ff127a4a89bd26125d34e4cae88b3671cea335e5d91f68212"
         },
         {
             "name": "Excel",
@@ -34,14 +34,14 @@
             "application_id": "PPT32019",
             "application_name": "Microsoft PowerPoint.app",
             "CFBundleVersion": "com.microsoft.powerpoint",
-            "short_version": "16.113.0 (26091433)",
-            "full_version": "16.113.26091433",
-            "last_updated": "September 14, 2026",
+            "short_version": "16.113.0 (26090931)",
+            "full_version": "16.113.26090931",
+            "last_updated": "September 09, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26091433_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26091433_Updater.pkg",
-            "sha1": "a856632140a83c73a52ea208f2a1a25c9fea4f51",
-            "sha256": "7d88e267b224becac03b8d2d4c040aa36cea02083062e0ee2e14b32a4dc3b1f0"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26090931_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26090931_Updater.pkg",
+            "sha1": "f465d8c1b732c5500a85a03a2e91592ddae61ec7",
+            "sha256": "3d948ddb54d614310fd780fb68294f82f51e2243d209f181c001975d39e40e65"
         },
         {
             "name": "Outlook",
@@ -62,14 +62,14 @@
             "application_id": "ONMC2019",
             "application_name": "Microsoft OneNote.app",
             "CFBundleVersion": "com.microsoft.onenote.mac",
-            "short_version": "16.113.0 (26091433)",
-            "full_version": "16.113.26091433",
-            "last_updated": "September 14, 2026",
+            "short_version": "16.112.3 (26083020)",
+            "full_version": "16.112.26083020",
+            "last_updated": "August 30, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.113.26091433_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.113.26091433_Updater.pkg",
-            "sha1": "433e558509cacb17f72993f8bc8ef33fdb3664bc",
-            "sha256": "20518656c1b28121d055122a2cca0d880ce379791da08045481075261b25e5cc"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.112.26083020_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.112.26083020_Updater.pkg",
+            "sha1": "a673a1e67925b5e7dff712796f1f69585046cc75",
+            "sha256": "31480a1d46ce7fd3c294942914eacba0a92602a5e14376458d45040fd97134c5"
         },
         {
             "name": "Skype",
@@ -160,14 +160,14 @@
             "application_id": "WDAVSHIM",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.wdav",
-            "short_version": "101.26060.0000",
-            "full_version": "101.26060.0000",
-            "last_updated": "August 18, 2026",
+            "short_version": "101.26050.0000",
+            "full_version": "101.26050.0000",
+            "last_updated": "July 28, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26060.0000_Individuals_Shim_Installer.pkg",
-            "sha1": "8051720ebbe2550990a108315e5ce7c840766aeb",
-            "sha256": "8914d9f0cd511e134617d08d3bcbf01df96fd08b1ca34b5dc912d27a54aa3c6c"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26050.0000_Individuals_Shim_Installer.pkg",
+            "sha1": "9b335f964f35275540e2b24cb9434b255a223e58",
+            "sha256": "5dc6b008a0eafe6751b735af6496ca88dac8d9452d59d059a6d65d4f84b3a35c"
         },
         {
             "name": "Visual",
@@ -178,7 +178,7 @@
             "full_version": "1.139.0-insider",
             "last_updated": "September 16, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/4dbe1643e6189ba7b1bbe542cc0e56a94d9ff132/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/c74ba73b780a4a33173c006e52560d61432f53d6/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

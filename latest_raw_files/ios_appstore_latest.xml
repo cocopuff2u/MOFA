@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 17, 2026 07:21 PM EDT</last_updated>
+	<last_updated>September 17, 2026 10:59 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -236,15 +236,17 @@ Like Whiteboard?
 	</package>
 	<package>
 		<name>iOS Microsoft Edge AI Browser</name>
-		<application_name>Opera Browser with VPN</application_name>
-		<bundleId>com.opera.OperaTouch</bundleId>
-		<currentVersionReleaseDate>September 10, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ed/bd/68edbdf8-39a4-043e-eb64-0130e3f83926/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>- A couple of crashes fixed
-- Other bug fixes and UI improvements</releaseNotes>
-		<version>6.7.2</version>
-		<app_store_url>https://apps.apple.com/us/app/opera-browser-with-vpn/id1411869974?uo=4</app_store_url>
+		<application_name>Microsoft Edge</application_name>
+		<bundleId>com.microsoft.msedge</bundleId>
+		<currentVersionReleaseDate>September 14, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/09/3e/0c093efa-5719-2da0-b558-3b3d7841aa4d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
+		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release.
+• New Shortcuts widget: Quickly access your favorite sites, features, and tools right from your Home screen.
+• Bug fixes, stability, and performance improvements.
+Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
+		<version>153.4234.32</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Seeing AI</name>
@@ -307,11 +309,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Sharepoint</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>September 15, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/25/89/40258911-e38c-486c-0588-42ca98f9b30d/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 17, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/de/d0/c7ded070-6dde-beb5-b57a-d5ffa0444fad/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.6</minimumOsVersion>
 		<releaseNotes>Stability improvements and fixes.</releaseNotes>
-		<version>5.1.2</version>
+		<version>5.1.4</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 18, 2026 03:25 PM EDT",
+    "last_updated": "September 18, 2026 06:13 PM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -262,13 +262,13 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.85 (26080216)",
-            "full_version": "4.85.26080216",
-            "last_updated": "August 02, 2026",
+            "short_version": "4.85 (26091737)",
+            "full_version": "4.85.26091737",
+            "last_updated": "September 17, 2026",
             "min_os": "12.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
-            "app_update_sha1": "6335128b56bb29cbf2224228074e6434431648a0",
-            "app_update_sha256": "318e3ba568e7c4dbd6b7daf7d15359306b6ffe7cb888ed25f6f03ca90ccb806f",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
+            "app_update_sha1": "8076247fccb0d1ea6086c28772417f0b26caa069",
+            "app_update_sha256": "d647aba9538983f0c6cd892d2c3442b71ae1c8573ce53cbf62eb3ea831e9d165",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=830196",
             "full_update_sha1": "9353cde2ce4f9535934e2afd91124b8127572b85",
             "full_update_sha256": "be878237348c79d03c6a8286e7b61c58265d9cc5917d1a282c25059fe46bd4a7"

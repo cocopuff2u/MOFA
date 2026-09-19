@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 19, 2026 01:28 AM EDT",
+    "last_updated": "September 19, 2026 10:09 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -27,11 +27,11 @@
             "name": "iOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Office.Powerpoint",
-            "currentVersionReleaseDate": "September 14, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/6e/88/8c6e8853-a349-2a3d-b66d-b71e8ef282cc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 19, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/6d/95/0b6d95b2-589b-1b23-ae97-a75e3e6a3408/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.113.5",
+            "version": "2.114",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4"
         },
         {
@@ -71,11 +71,11 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Windows App Mobile",
             "bundleId": "com.microsoft.rdc.ios",
-            "currentVersionReleaseDate": "September 09, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4e/82/2c4e8298-4519-1111-8165-4f5564907fd5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 17, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/3b/d1/ee3bd131-2867-20cb-4bb6-4ea44358bf8a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "26.0",
-            "releaseNotes": "In this release, we made some improvements to help enhance the stability and security of Windows App. If you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.3.6",
+            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added support for completing in-session WebAuthn challenges by using local passwordless credentials.\n\u2022 Added external identity support.\n\u2022 Updated the UX to replace \"Frontline\" with \"Flex Shared\" and \"Frontline Shared\" with \"Flex Dedicated\".\n\u2022 Addressed Cloud PC tile status not updating automatically (or promptly) after a state change.\n\u2022 Fixed an issue where remote audio stopped rendering when connecting to Windows 7 PCs.\n\u2022 Resolved a black screen encountered when connecting to an invalid resource while another RemoteApp session was active.\n\u2022 Made updates to improve Continuous Access Evaluation (CAE) scenarios for AVD and Windows 365.\n\u2022 Prevented hardware keyboard focus from being captured when the app is inactive in Stage Manager and Split View.\n\u2022 Fixed Add Workspace incorrectly preventing users from adding the same AVD or Windows 365 feed with another account.\n\nIn addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for some upcoming features.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
+            "version": "11.3.7",
             "app_store_url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
         },
         {
@@ -258,11 +258,11 @@
             "name": "iOS Microsoft Sharepoint",
             "application_name": "Microsoft SharePoint",
             "bundleId": "com.microsoft.sharepoint",
-            "currentVersionReleaseDate": "September 17, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/de/d0/c7ded070-6dde-beb5-b57a-d5ffa0444fad/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/13/31/ba133196-43a4-23d6-99c6-8215d1cf0479/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.6",
             "releaseNotes": "Stability improvements and fixes.",
-            "version": "5.1.4",
+            "version": "5.1.5",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4"
         },
         {
@@ -302,23 +302,23 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "September 11, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/c4/2c/a7c42c8c-f044-6f73-586a-ce6213c71ca5/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/7c/b4/e97cb41b-51ec-86c9-1e37-dd9fa74c4122/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "492.0",
+            "version": "493.0",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens - PDF Scanner and Editor",
-            "bundleId": "com.Scantera593thzp.app",
-            "currentVersionReleaseDate": "August 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Code refinements, minor bug fix",
-            "version": "1.4.3",
-            "app_store_url": "https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4"
+            "application_name": "CamScanner - PDF Scanner App",
+            "bundleId": "com.intsig.CamScannerLite",
+            "currentVersionReleaseDate": "September 07, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ff/f2/26fff2c0-729b-5216-0c13-7d0499f10940/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "\u00b7 Image translation engine upgraded. Layouts now better match the original.\n\u00b7 Various improvements for a better experience.",
+            "version": "7.25.5",
+            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

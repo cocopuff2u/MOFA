@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 20, 2026 01:40 AM EDT</last_updated>
+	<last_updated>September 20, 2026 06:32 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,11 +38,28 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>September 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/d8/0f/b6d80f2b-b0f1-8f7a-e246-4639bd252a45/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/11/eb/f511ebca-b848-e913-f26b-a6519656e8b8/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.113.1</version>
+		<releaseNotes>Resolved Issues: 
+•  Mail: The unread-count badge in the Dock now initializes correctly at startup.  
+•  Mail: Improved the experience for viewing and interacting with Loop components in Outlook messages.
+•  Add-ins: Attachments added or removed by add-ins now synchronize more reliably, including during rapid or overlapping draft saves. 
+ 
+Feature Updates: 
+•  Calendar: Outlook Settings now let users manage work hours and work-location schedules for supported accounts.
+•  Calendar: Users can choose whether accepted invitations are removed from the Inbox and whether conflicting events are automatically declined on supported accounts.
+•  Mail: Replies forwards, initial content, and signatures now automatically follow the left-to-right or right-to-left direction of the referenced message.
+•  Mail: Added Editor Settings to customize spelling and grammar by language. 
+•  Mail: Added a remove button to make deleting recipients easier when composing emails. 
+•  Mail: Paste Options now supports converting Markdown to rich text. 
+•  Mail: Paragraph Options now provide better control over advanced formatting.
+•  Contacts: Administrators can use cloud policy to control whether presence indicators appear for recipients and contacts in Outlook.
+•  Copilot: Eligible users can now see linked Microsoft account subscriptions associated with their Copilot account in Outlook Settings. 
+•  Security: Outlook can automatically inherit an appropriate sensitivity label from labeled attachments 
+•  General: Users can right-click Mail, Calendar, and People icons in the left rail to open them in a separate window. 
+•  General: Users can personalize Outlook by choosing an accent color.</releaseNotes>
+		<version>16.113</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

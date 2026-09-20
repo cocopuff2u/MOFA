@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 20, 2026 06:32 AM EDT</last_updated>
+	<last_updated>September 20, 2026 10:27 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -252,14 +252,14 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>September 14, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/09/3e/0c093efa-5719-2da0-b558-3b3d7841aa4d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/08/a5/3808a55e-0441-0d74-4172-8118e7a275ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what’s new in this release.
 • New Shortcuts widget: Quickly access your favorite sites, features, and tools right from your Home screen.
 • Bug fixes, stability, and performance improvements.
 Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
-		<version>153.4234.32</version>
+		<version>153.4234.46</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
@@ -378,12 +378,12 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>CamScanner - PDF Scanner App</application_name>
 		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>September 07, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ff/f2/26fff2c0-729b-5216-0c13-7d0499f10940/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>· Image translation engine upgraded. Layouts now better match the original.
-· Various improvements for a better experience.</releaseNotes>
-		<version>7.25.5</version>
+		<currentVersionReleaseDate>September 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/7c/31/127c3199-a34a-d480-76bb-ead2b2aeff5f/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>· Improved the ID Folder, making it easier to find and manage your IDs.
+· Various enhancements for a smoother experience.</releaseNotes>
+		<version>7.26.5</version>
 		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>

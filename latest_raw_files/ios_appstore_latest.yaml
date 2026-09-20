@@ -1,4 +1,4 @@
-last_updated: September 20, 2026 06:32 AM EDT
+last_updated: September 20, 2026 10:27 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -210,15 +210,15 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: Microsoft Edge
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: September 14, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/09/3e/0c093efa-5719-2da0-b558-3b3d7841aa4d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 20, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/08/a5/3808a55e-0441-0d74-4172-8118e7a275ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what\u2019s new in this release.\n\
       \u2022 New Shortcuts widget: Quickly access your favorite sites, features, and\
       \ tools right from your Home screen.\n\u2022 Bug fixes, stability, and performance\
       \ improvements.\nUpgrade to the latest version and enjoy a smarter and more\
       \ efficient Microsoft Edge!"
-    version: 153.4234.32
+    version: 153.4234.46
     app_store_url: https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
@@ -320,12 +320,12 @@ packages:
   - name: iOS Microsoft Lens PDF Scanner
     application_name: CamScanner - PDF Scanner App
     bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: September 07, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/ff/f2/26fff2c0-729b-5216-0c13-7d0499f10940/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '13.0'
-    releaseNotes: "\xB7 Image translation engine upgraded. Layouts now better match\
-      \ the original.\n\xB7 Various improvements for a better experience."
-    version: 7.25.5
+    currentVersionReleaseDate: September 20, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/7c/31/127c3199-a34a-d480-76bb-ead2b2aeff5f/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.0'
+    releaseNotes: "\xB7 Improved the ID Folder, making it easier to find and manage\
+      \ your IDs.\n\xB7 Various enhancements for a smoother experience."
+    version: 7.26.5
     app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders

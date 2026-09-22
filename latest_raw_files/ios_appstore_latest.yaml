@@ -1,4 +1,4 @@
-last_updated: September 22, 2026 06:53 AM EDT
+last_updated: September 22, 2026 11:23 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: September 15, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/a9/d9/a2a9d9d2-4aec-74a0-1993-4e70f746e601/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.0'
+    currentVersionReleaseDate: September 21, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/3c/fb/6b3cfb63-046d-d649-dd21-195dc41e1702/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '26.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2635.1
+    version: 5.2637.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -106,11 +106,11 @@ packages:
   - name: iOS Microsoft Loop
     application_name: Microsoft Loop
     bundleId: com.microsoft.loop
-    currentVersionReleaseDate: August 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/f3/1926f343-4a61-0820-7499-db12c3366168/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 21, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/ea/87/78ea8783-1585-105a-16f8-fd4ef8ce37a5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: '2.113'
+    version: 2.114.1
     app_store_url: https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4
   - name: iOS Microsoft Warehouse Management
     application_name: Microsoft Warehouse Management
@@ -318,15 +318,14 @@ packages:
     version: '493.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: September 20, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/7c/31/127c3199-a34a-d480-76bb-ead2b2aeff5f/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: "\xB7 Improved the ID Folder, making it easier to find and manage\
-      \ your IDs.\n\xB7 Various enhancements for a smoother experience."
-    version: 7.26.5
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: Lens - PDF Scanner and Editor
+    bundleId: com.Scantera593thzp.app
+    currentVersionReleaseDate: August 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Code refinements, minor bug fix
+    version: 1.4.3
+    app_store_url: https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

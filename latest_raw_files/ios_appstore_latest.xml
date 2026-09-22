@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 22, 2026 01:48 AM EDT</last_updated>
+	<last_updated>September 22, 2026 06:53 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,21 +38,21 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>September 21, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/3c/fb/6b3cfb63-046d-d649-dd21-195dc41e1702/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>26.0</minimumOsVersion>
+		<currentVersionReleaseDate>September 15, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/a9/d9/a2a9d9d2-4aec-74a0-1993-4e70f746e601/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2637.0</version>
+		<version>5.2635.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote</bundleId>
-		<currentVersionReleaseDate>September 21, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/b7/e1/75b7e17f-ed42-cc5d-b6a5-4f6404ab784c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 14, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/9f/80/2f9f80cc-95a5-1f5e-5111-b8a67dabe9ed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -60,7 +60,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.114.1</version>
+		<version>16.113.5</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4</app_store_url>
 	</package>
 	<package>
@@ -125,11 +125,11 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Loop</name>
 		<application_name>Microsoft Loop</application_name>
 		<bundleId>com.microsoft.loop</bundleId>
-		<currentVersionReleaseDate>September 21, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/ea/87/78ea8783-1585-105a-16f8-fd4ef8ce37a5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>August 17, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/f3/1926f343-4a61-0820-7499-db12c3366168/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.114.1</version>
+		<version>2.113</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4</app_store_url>
 	</package>
 	<package>
@@ -345,11 +345,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>September 08, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/e2/4d/98e24d50-24d4-64ad-9153-16502f0ecaa9/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/93/d1/8293d124-dd4e-a20d-a705-3f172df93296/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26085.7</version>
+		<version>3.26092.8</version>
 		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
@@ -376,14 +376,15 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Lens - PDF Scanner and Editor</application_name>
-		<bundleId>com.Scantera593thzp.app</bundleId>
-		<currentVersionReleaseDate>August 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Code refinements, minor bug fix</releaseNotes>
-		<version>1.4.3</version>
-		<app_store_url>https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4</app_store_url>
+		<application_name>CamScanner - PDF Scanner App</application_name>
+		<bundleId>com.intsig.CamScannerLite</bundleId>
+		<currentVersionReleaseDate>September 20, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/7c/31/127c3199-a34a-d480-76bb-ead2b2aeff5f/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>· Improved the ID Folder, making it easier to find and manage your IDs.
+· Various enhancements for a smoother experience.</releaseNotes>
+		<version>7.26.5</version>
+		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

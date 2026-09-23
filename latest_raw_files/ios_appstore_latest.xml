@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 23, 2026 03:15 AM EDT</last_updated>
+	<last_updated>September 23, 2026 09:18 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -376,14 +376,15 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Lens - PDF Scanner and Editor</application_name>
-		<bundleId>com.Scantera593thzp.app</bundleId>
-		<currentVersionReleaseDate>August 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Code refinements, minor bug fix</releaseNotes>
-		<version>1.4.3</version>
-		<app_store_url>https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4</app_store_url>
+		<application_name>CamScanner - PDF Scanner App</application_name>
+		<bundleId>com.intsig.CamScannerLite</bundleId>
+		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>· Improved the ID Folder, making it easier to find and manage your IDs.
+· Various enhancements for a smoother experience.</releaseNotes>
+		<version>7.26.6</version>
+		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

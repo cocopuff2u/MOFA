@@ -1,47 +1,47 @@
 {
-    "last_updated": "September 22, 2026 09:12 PM EDT",
+    "last_updated": "September 23, 2026 03:15 AM EDT",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.112.2 (26082125)",
-            "full_version": "16.112.26082125",
-            "last_updated": "August 21, 2026",
+            "short_version": "16.113.2 (26092012)",
+            "full_version": "16.113.26092012",
+            "last_updated": "September 20, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26082125_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.112.26082125_Updater.pkg",
-            "sha1": "6842489b4c8ff738d601f6e5ac7109ff5a4b1aa9",
-            "sha256": "5c106854a5edf0c9e9f0e4ebe8445d49e4af8d7678c6b585042cfbdbef329dee"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092012_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092012_Updater.pkg",
+            "sha1": "55c80d3562185e383378bdc14baa019eb4267cb3",
+            "sha256": "dbc851ce1a45d3a9184094aefdb9bb47f60edff5246b42af52cb425cf8d80c04"
         },
         {
             "name": "Excel",
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.113.2 (26092012)",
-            "full_version": "16.113.26092012",
-            "last_updated": "September 20, 2026",
+            "short_version": "16.113.0 (26090931)",
+            "full_version": "16.113.26090931",
+            "last_updated": "September 09, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26092012_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26092012_Updater.pkg",
-            "sha1": "5a486bf808dec87aa0baf63368dc443cb6b47d1c",
-            "sha256": "0df0eb671a0ba751cfb5976f4c2df9b5b774090e4c65e590c829a9594cb7621f"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26090931_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26090931_Updater.pkg",
+            "sha1": "0e0a811a7e14f06a72ce1cafe5b9686999dbe3c7",
+            "sha256": "e92591e15499cf43dc49d079162818c7b78ef2f9b9e31643c2bcebb80fe3c9a9"
         },
         {
             "name": "PowerPoint",
             "application_id": "PPT32019",
             "application_name": "Microsoft PowerPoint.app",
             "CFBundleVersion": "com.microsoft.powerpoint",
-            "short_version": "16.113.2 (26092012)",
-            "full_version": "16.113.26092012",
-            "last_updated": "September 20, 2026",
+            "short_version": "16.113.1 (26091740)",
+            "full_version": "16.113.26091740",
+            "last_updated": "September 17, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26092012_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26092012_Updater.pkg",
-            "sha1": "7908f2949ad6e26a42f8e7782ae40a2219992e93",
-            "sha256": "bb5b5578e0cdeee0134f37efb1642e38200f6b0f1ae5828fc0950cc72a51e7a6"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26091740_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26091740_Updater.pkg",
+            "sha1": "74ee17c02fb1a0b8f0c08e2b0e558f345a3692e7",
+            "sha256": "085e4ec17d73e3c5c60d487e8274f3ad74ba6ff778cb96930cf61f2c605ffd12"
         },
         {
             "name": "Outlook",
@@ -202,14 +202,14 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.85 (26091737)",
-            "full_version": "4.85.26091737",
-            "last_updated": "September 17, 2026",
+            "short_version": "4.85 (26080216)",
+            "full_version": "4.85.26080216",
+            "last_updated": "August 02, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
-            "sha1": "8076247fccb0d1ea6086c28772417f0b26caa069",
-            "sha256": "d647aba9538983f0c6cd892d2c3442b71ae1c8573ce53cbf62eb3ea831e9d165"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
+            "sha1": "6335128b56bb29cbf2224228074e6434431648a0",
+            "sha256": "318e3ba568e7c4dbd6b7daf7d15359306b6ffe7cb888ed25f6f03ca90ccb806f"
         }
     ]
 }

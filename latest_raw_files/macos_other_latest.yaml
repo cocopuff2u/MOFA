@@ -1,4 +1,4 @@
-last_updated: September 23, 2026 02:14 PM EDT
+last_updated: September 23, 2026 06:01 PM EDT
 packages:
 - name: PowerShell
   application_id: N/A
@@ -76,14 +76,14 @@ packages:
   application_id: N/A
   application_name: Azure Functions Core Tools
   CFBundleVersion: N/A
-  short_version: 4.15.0
-  full_version: 4.15.0
-  last_updated: September 22, 2026
+  short_version: 4.15.1
+  full_version: 4.15.1
+  last_updated: September 23, 2026
   min_os: N/A
-  update_download: https://github.com/Azure/azure-functions-core-tools/releases/download/4.15.0/Azure.Functions.Cli.osx-arm64.4.15.0.zip
-  latest_download: https://github.com/Azure/azure-functions-core-tools/releases/download/4.15.0/Azure.Functions.Cli.osx-arm64.4.15.0.zip
-  sha1: 3d903c50dc22a5f9f29792ef723412db7255967b
-  sha256: 18a3827ee2cb769b00ccbea0346c92ed440a233d8d62541fdfb441043f45b2b1
+  update_download: https://github.com/Azure/azure-functions-core-tools/releases/download/4.15.1/Azure.Functions.Cli.osx-arm64.4.15.1.zip
+  latest_download: https://github.com/Azure/azure-functions-core-tools/releases/download/4.15.1/Azure.Functions.Cli.osx-arm64.4.15.1.zip
+  sha1: b07a1440ea102100e1e21d5d003d9fa1b71a4c29
+  sha256: a1708a7b7415e79cbb2309c1eff9bf26d62e6982bff31ce06448f53686b71d49
 - name: Azure Developer CLI (azd)
   application_id: N/A
   application_name: Azure Developer CLI (azd)

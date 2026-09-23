@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 23, 2026 02:14 PM EDT</last_updated>
+    <last_updated>September 23, 2026 06:01 PM EDT</last_updated>
     <package>
         <name>PowerShell</name>
         <application_id>N/A</application_id>
@@ -90,14 +90,14 @@
         <application_id>N/A</application_id>
         <application_name>Azure Functions Core Tools</application_name>
         <CFBundleVersion>N/A</CFBundleVersion>
-        <short_version>4.15.0</short_version>
-        <full_version>4.15.0</full_version>
-        <last_updated>September 22, 2026</last_updated>
+        <short_version>4.15.1</short_version>
+        <full_version>4.15.1</full_version>
+        <last_updated>September 23, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://github.com/Azure/azure-functions-core-tools/releases/download/4.15.0/Azure.Functions.Cli.osx-arm64.4.15.0.zip</update_download>
-        <latest_download>https://github.com/Azure/azure-functions-core-tools/releases/download/4.15.0/Azure.Functions.Cli.osx-arm64.4.15.0.zip</latest_download>
-        <sha1>3d903c50dc22a5f9f29792ef723412db7255967b</sha1>
-        <sha256>18a3827ee2cb769b00ccbea0346c92ed440a233d8d62541fdfb441043f45b2b1</sha256>
+        <update_download>https://github.com/Azure/azure-functions-core-tools/releases/download/4.15.1/Azure.Functions.Cli.osx-arm64.4.15.1.zip</update_download>
+        <latest_download>https://github.com/Azure/azure-functions-core-tools/releases/download/4.15.1/Azure.Functions.Cli.osx-arm64.4.15.1.zip</latest_download>
+        <sha1>b07a1440ea102100e1e21d5d003d9fa1b71a4c29</sha1>
+        <sha256>a1708a7b7415e79cbb2309c1eff9bf26d62e6982bff31ce06448f53686b71d49</sha256>
     </package>
     <package>
         <name>Azure Developer CLI (azd)</name>

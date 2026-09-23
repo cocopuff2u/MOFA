@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 23, 2026 03:15 AM EDT",
+    "last_updated": "September 23, 2026 09:18 AM EDT",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -230,16 +230,16 @@
             "application_id": "N/A",
             "application_name": "Visual Studio Code.app",
             "CFBundleVersion": "com.microsoft.VSCode",
-            "short_version": "1.138.0",
-            "full_version": "1.138.0",
-            "last_updated": "September 15, 2026",
+            "short_version": "1.139.0",
+            "full_version": "1.139.0",
+            "last_updated": "September 22, 2026",
             "min_os": "N/A",
-            "app_only_update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/7debcd0e2acdea1c52de81bf9ee1620444407dda/VSCode-darwin-universal.zip",
-            "app_update_sha1": "e18f50a34be31e4ecd4176c445b7b94c21344b29",
-            "app_update_sha256": "47c7f8eac4c1ea8be855b26795d50315771488bc79949fb4af76880ebafb9e82",
+            "app_only_update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/2242ebbb54efeeb0129e08e919e7e8d43033cd83/VSCode-darwin-universal.zip",
+            "app_update_sha1": "8ecde38d87533ba1550215bacc7f035bf3144162",
+            "app_update_sha256": "4431ef031015bb40cc0e629482ba0721545f959a5b3da41fb33ffc74eef33c90",
             "full_update_download": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal-dmg",
-            "full_update_sha1": "3b78ef6dc7c96b34efbfe834f3860fcca9053e15",
-            "full_update_sha256": "77861248a73ef15219f6928b84b46be6ae78950fe843326f0da7a1b936c3c239"
+            "full_update_sha1": "cbcd6e2bac4bec14a1143e3a23ec905b74b52348",
+            "full_update_sha256": "bd5a94257b44626fd55c7b5963597c7552475d8e0994559f3db1d35eef539c6a"
         },
         {
             "name": "Copilot",

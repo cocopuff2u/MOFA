@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 23, 2026 09:18 AM EDT",
+    "last_updated": "September 23, 2026 02:12 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "September 19, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/d8/0f/b6d80f2b-b0f1-8f7a-e246-4639bd252a45/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 22, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/aa/9d/baaa9dfc-d64c-b4de-ff1e-ea2deb565aaa/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.113.1",
+            "releaseNotes": "\u2022 Fixed an issue where a blank line after the signature could disappear when reopening a saved reply draft.\n\u2022 Fixed an issue preventing some users from being able to use the application.\n\u2022 Fixed an issue preventing users to send email under Report as False Positive DLP scenario.\n\u2022 General quality and performance enhancements.",
+            "version": "16.113.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {
@@ -71,11 +71,11 @@
             "name": "MacOS RMS Sharing",
             "application_name": "ShareMe: File Sharing & MeDrop",
             "bundleId": "com.sharedrop.wifiShare",
-            "currentVersionReleaseDate": "September 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/18/d4/7118d43b-eb93-77be-6849-a27438c33d74/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 22, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Bug fixes",
-            "version": "1.0.7",
+            "version": "1.0.8",
             "app_store_url": "https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4"
         },
         {

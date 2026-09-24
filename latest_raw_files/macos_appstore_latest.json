@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 23, 2026 06:00 PM EDT",
+    "last_updated": "September 23, 2026 08:15 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -71,11 +71,11 @@
             "name": "MacOS RMS Sharing",
             "application_name": "ShareMe: File Sharing & MeDrop",
             "bundleId": "com.sharedrop.wifiShare",
-            "currentVersionReleaseDate": "September 22, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 12, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/18/d4/7118d43b-eb93-77be-6849-a27438c33d74/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Bug fixes",
-            "version": "1.0.8",
+            "version": "1.0.7",
             "app_store_url": "https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4"
         },
         {

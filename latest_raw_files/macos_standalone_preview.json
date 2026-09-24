@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 24, 2026 07:02 AM EDT",
+    "last_updated": "September 24, 2026 11:46 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -20,14 +20,14 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.113.1 (26091740)",
-            "full_version": "16.113.26091740",
-            "last_updated": "September 17, 2026",
+            "short_version": "16.113.2 (26092012)",
+            "full_version": "16.113.26092012",
+            "last_updated": "September 20, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26091740_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26091740_Updater.pkg",
-            "sha1": "ac962a81ffda703f3796cbba7bcbbb50f9086094",
-            "sha256": "6e7971f89e6c31648d914f1a87cce5de1ef1adacd668e87dc2f5f822750ef44d"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26092012_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26092012_Updater.pkg",
+            "sha1": "5a486bf808dec87aa0baf63368dc443cb6b47d1c",
+            "sha256": "0df0eb671a0ba751cfb5976f4c2df9b5b774090e4c65e590c829a9594cb7621f"
         },
         {
             "name": "PowerPoint",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams2",
-            "short_version": "26246.1709.5146.8945",
-            "full_version": "26246.1709.5146.8945",
+            "short_version": "26261.302.5145.4860",
+            "full_version": "26261.302.5145.4860",
             "last_updated": "September 21, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26246.1709.5146.8945/MicrosoftTeams_26225.1704.5081.2906_to_26246.1709.5146.8945_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26246.1709.5146.8945/MicrosoftTeams_26225.1704.5081.2906_to_26246.1709.5146.8945_BinaryDelta.pkg",
-            "sha1": "ea6e2e2f944022e0f9a9e45d1c5ae9a09a93a04b",
-            "sha256": "33ede4ae5975b18dbb9b4f76feb2623aed8262e4e78b6027d716d78528e60eef"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26261.302.5145.4860/MicrosoftTeams_26225.1706.5101.3140_to_26261.302.5145.4860_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26261.302.5145.4860/MicrosoftTeams_26225.1706.5101.3140_to_26261.302.5145.4860_BinaryDelta.pkg",
+            "sha1": "a033fe3e6f92803c64dda82fc0d71fee3b2180fa",
+            "sha256": "9871f7b197ed3cb609bd4a02ad323b817c848d61d07119b9fc8ee34a71f3c6d7"
         },
         {
             "name": "Intune",
@@ -132,9 +132,9 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.wdav",
-            "short_version": "101.26072.0016",
-            "full_version": "101.26072.0016",
-            "last_updated": "August 28, 2026",
+            "short_version": "101.26072.0017",
+            "full_version": "101.26072.0017",
+            "last_updated": "September 10, 2026",
             "min_os": "14.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",

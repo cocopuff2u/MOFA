@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 25, 2026 09:12 AM EDT</last_updated>
+    <last_updated>September 25, 2026 02:12 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -238,8 +238,8 @@
         <app_update_sha1>e5a4efd82f3036422320b54d047e9484bd95ca42</app_update_sha1>
         <app_update_sha256>14622ed6299ff525ba93a6b8a7f8fa52601d45aa8b1b4a6a2c5afaa0cda6a39f</app_update_sha256>
         <full_update_download>https://code.visualstudio.com/sha/download?build=stable&amp;os=darwin-universal-dmg</full_update_download>
-        <full_update_sha1>N/A</full_update_sha1>
-        <full_update_sha256>N/A</full_update_sha256>
+        <full_update_sha1>f4e1df3c4947b574217dccd0b537c2a8c0d8e435</full_update_sha1>
+        <full_update_sha256>351812b8955a969c01cb8d028c2809ea5a1b23b63b2383258d91d6451715032f</full_update_sha256>
     </package>
     <package>
         <name>Copilot</name>

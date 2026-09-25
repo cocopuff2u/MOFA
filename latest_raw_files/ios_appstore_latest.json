@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 25, 2026 03:04 AM EDT",
+    "last_updated": "September 25, 2026 09:13 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -71,22 +71,22 @@
             "name": "iOS Microsoft Windows App Mobile",
             "application_name": "Windows App Mobile",
             "bundleId": "com.microsoft.rdc.ios",
-            "currentVersionReleaseDate": "September 17, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/3b/d1/ee3bd131-2867-20cb-4bb6-4ea44358bf8a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/29/75/5e2975d7-6156-3423-6dc1-c54fc70c3930/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "26.0",
-            "releaseNotes": "In this release we made the following updates:\n\n\u2022 Added support for completing in-session WebAuthn challenges by using local passwordless credentials.\n\u2022 Added external identity support.\n\u2022 Updated the UX to replace \"Frontline\" with \"Flex Shared\" and \"Frontline Shared\" with \"Flex Dedicated\".\n\u2022 Addressed Cloud PC tile status not updating automatically (or promptly) after a state change.\n\u2022 Fixed an issue where remote audio stopped rendering when connecting to Windows 7 PCs.\n\u2022 Resolved a black screen encountered when connecting to an invalid resource while another RemoteApp session was active.\n\u2022 Made updates to improve Continuous Access Evaluation (CAE) scenarios for AVD and Windows 365.\n\u2022 Prevented hardware keyboard focus from being captured when the app is inactive in Stage Manager and Split View.\n\u2022 Fixed Add Workspace incorrectly preventing users from adding the same AVD or Windows 365 feed with another account.\n\nIn addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for some upcoming features.\n\nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
-            "version": "11.3.7",
+            "releaseNotes": "In this release we made the following updates:\n \n\u2022 Added support for iPhone 18 Pro and iPhone 18 Pro Max.\n\u2022 Enhanced diagnostic insights for the external identity support feature.\n \nIf you encounter any errors, you can contact us via Settings > Submit Feedback.",
+            "version": "11.3.8",
             "app_store_url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
         },
         {
             "name": "iOS Microsoft Defender Security",
             "application_name": "Microsoft Defender: Security",
             "bundleId": "com.microsoft.scmx",
-            "currentVersionReleaseDate": "September 15, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/be/24/13be244b-e450-aac8-a969-1c7d6a0498d7/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/b3/74/dbb374fc-8abf-3921-df9d-036db6f9334c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and improvements",
-            "version": "1.1.81140101",
+            "version": "1.1.81160103",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4"
         },
         {

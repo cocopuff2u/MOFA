@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 26, 2026 06:44 AM EDT</last_updated>
+	<last_updated>September 26, 2026 10:51 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,13 +38,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>September 21, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/3c/fb/6b3cfb63-046d-d649-dd21-195dc41e1702/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 25, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/64/7b/c8647b4f-0a55-33c9-a789-38c98f5b2d6c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2637.0</version>
+		<version>5.2637.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
@@ -78,25 +78,16 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Windows App Mobile</application_name>
 		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>September 17, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/3b/d1/ee3bd131-2867-20cb-4bb6-4ea44358bf8a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 24, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/29/75/5e2975d7-6156-3423-6dc1-c54fc70c3930/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>In this release we made the following updates:
-
-• Added support for completing in-session WebAuthn challenges by using local passwordless credentials.
-• Added external identity support.
-• Updated the UX to replace &quot;Frontline&quot; with &quot;Flex Shared&quot; and &quot;Frontline Shared&quot; with &quot;Flex Dedicated&quot;.
-• Addressed Cloud PC tile status not updating automatically (or promptly) after a state change.
-• Fixed an issue where remote audio stopped rendering when connecting to Windows 7 PCs.
-• Resolved a black screen encountered when connecting to an invalid resource while another RemoteApp session was active.
-• Made updates to improve Continuous Access Evaluation (CAE) scenarios for AVD and Windows 365.
-• Prevented hardware keyboard focus from being captured when the app is inactive in Stage Manager and Split View.
-• Fixed Add Workspace incorrectly preventing users from adding the same AVD or Windows 365 feed with another account.
-
-In addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for some upcoming features.
-
+ 
+• Added support for iPhone 18 Pro and iPhone 18 Pro Max.
+• Enhanced diagnostic insights for the external identity support feature.
+ 
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.3.7</version>
+		<version>11.3.8</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>

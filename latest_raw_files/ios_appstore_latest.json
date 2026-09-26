@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 25, 2026 08:20 PM EDT",
+    "last_updated": "September 26, 2026 01:48 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -302,11 +302,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "September 18, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/7c/b4/e97cb41b-51ec-86c9-1e37-dd9fa74c4122/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 25, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/88/6f/92886ff0-add1-62b9-382a-f0e1968358ae/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "493.0",
+            "version": "494.0",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {

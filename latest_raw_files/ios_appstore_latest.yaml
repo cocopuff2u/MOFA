@@ -1,4 +1,4 @@
-last_updated: September 27, 2026 02:08 AM EDT
+last_updated: September 27, 2026 08:41 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: September 21, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/3c/fb/6b3cfb63-046d-d649-dd21-195dc41e1702/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/64/7b/c8647b4f-0a55-33c9-a789-38c98f5b2d6c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2637.0
+    version: 5.2637.1
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -306,15 +306,14 @@ packages:
     version: '494.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: September 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: "\xB7 Improved the ID Folder, making it easier to find and manage\
-      \ your IDs.\n\xB7 Various enhancements for a smoother experience."
-    version: 7.26.6
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: Lens - PDF Scanner and Editor
+    bundleId: com.Scantera593thzp.app
+    currentVersionReleaseDate: August 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Code refinements, minor bug fix
+    version: 1.4.3
+    app_store_url: https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

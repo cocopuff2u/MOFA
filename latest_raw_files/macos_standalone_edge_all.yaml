@@ -1,5 +1,5 @@
 EdgeInsiderVersions:
-  last_updated: September 28, 2026 02:25 PM EDT
+  last_updated: September 28, 2026 07:44 PM EDT
   Version:
   - Name: current
     Version: 154.0.4258.37
@@ -11,14 +11,14 @@ EdgeInsiderVersions:
     Full_Update_Sha256: d104a5c2f288b3f8d8db964bba26e8545f645ea88b0d64ece1215b63a742a9a5
     Last_Update: September 24, 2026 03:11 PM EDT
   - Name: canary
-    Version: 156.0.4306.0
+    Version: 156.0.4307.0
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/befc8679-f133-4d81-b790-9dbb7f9b8520/MicrosoftEdgeCanary-156.0.4306.0.pkg
-    Full_Update_Sha1: 52bbfa73be0a6bec2502a79ef0f64dd67e4edeb6
-    Full_Update_Sha256: d611c29fd8f95065439ffc55bb2b01d73b5616fbcd2e6697b7cc5da1d1a632c0
-    Last_Update: September 28, 2026 01:34 PM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/537b403b-5578-4321-aa87-fec12959b2ef/MicrosoftEdgeCanary-156.0.4307.0.pkg
+    Full_Update_Sha1: d7e21c13377f521d038bf0c3544f4fa524d1f043
+    Full_Update_Sha256: 80a148cff742305b3fce739d6ea0494ff33181869b712e593559ae8dfd83e848
+    Last_Update: September 28, 2026 07:04 PM EDT
   - Name: dev
     Version: 156.0.4285.0
     Application_ID: EDGE01
@@ -29,11 +29,11 @@ EdgeInsiderVersions:
     Full_Update_Sha256: 2580101532605d29b535d83775a60e20e5435e8032be2c526e6df4af6f4be993
     Last_Update: September 22, 2026 03:56 PM EDT
   - Name: beta
-    Version: 155.0.4283.18
+    Version: 155.0.4283.24
     Application_ID: EDGE01
     Application_Name: Microsoft Edge.app
     CFBundleVersion: com.microsoft.edgemac
-    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/efc3880c-f797-4055-9cff-ce600b43c90c/MicrosoftEdgeBeta-155.0.4283.18.pkg
-    Full_Update_Sha1: b62ed77c1153985d09496b8949215ce77a47093f
-    Full_Update_Sha256: a75a709fbb2799018bf9a83fa253055931a8f779b66c2c3f8297bcd109587b0b
-    Last_Update: September 25, 2026 05:19 PM EDT
+    Full_Update_Download: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cb83df70-84ff-4bf9-a900-24c5c49afe9a/MicrosoftEdgeBeta-155.0.4283.24.pkg
+    Full_Update_Sha1: 7b368a2d08c2252cce40ddb9d0c1fd9c2b978e3d
+    Full_Update_Sha256: 5ec687188c9e7017b4dcc98ff3be58ee6a1c7df3404b741a80e66807130de015
+    Last_Update: September 28, 2026 03:44 PM EDT

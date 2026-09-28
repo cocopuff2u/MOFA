@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 28, 2026 02:23 PM EDT</last_updated>
+	<last_updated>September 28, 2026 07:39 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -149,11 +149,14 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<name>MacOS Universal Print</name>
 		<application_name>Universal Print</application_name>
 		<bundleId>com.microsoft.universalprintmac</bundleId>
-		<currentVersionReleaseDate>May 30, 2025</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/42/98/35429802-8ef5-c306-5279-ea3873609e14/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 28, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/8b/dd/f38bdd4b-9c98-61e1-b30b-6a57cd562347/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.6.1</minimumOsVersion>
-		<releaseNotes>Includes support for more customers.</releaseNotes>
-		<version>1.0.5</version>
+		<releaseNotes>- Improved sign-in reliability and better restoration of your sign-in status when opening Universal Print.
+- A smoother Add Printer experience, with more reliable search, selection, and printer installation.
+- Printer lists now preserve their status during refreshes and update more smoothly.
+- More reliable setup and uninstall behavior, including improved support for managed environments and clearer uninstall progress.</releaseNotes>
+		<version>1.1.0</version>
 		<app_store_url>https://apps.apple.com/us/app/universal-print/id6450432292?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

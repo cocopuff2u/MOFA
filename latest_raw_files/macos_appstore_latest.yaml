@@ -1,4 +1,4 @@
-last_updated: September 28, 2026 11:59 PM EDT
+last_updated: September 29, 2026 06:26 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -56,13 +56,13 @@ packages:
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
     bundleId: com.microsoft.OneDrive-mac
-    currentVersionReleaseDate: September 16, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0c/51/be0c5106-dfe3-f562-9fca-a3984a223bfd/OneDrive.png/512x512bb.png
+    currentVersionReleaseDate: September 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c5/8f/8dc58fe8-a436-532f-086b-355200fd1516/OneDrive.png/512x512bb.png
     minimumOsVersion: '14.4'
     releaseNotes: Thank you for using OneDrive. We are always looking to update OneDrive
       to bring you the latest performance improvements and bug fixes for the best
       experience.
-    version: 26.163.0823
+    version: 26.168.0830
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
     application_name: 'ShareMe: File Sharing & MeDrop'
@@ -128,11 +128,20 @@ packages:
   - name: MacOS Universal Print
     application_name: Universal Print
     bundleId: com.microsoft.universalprintmac
-    currentVersionReleaseDate: May 30, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/42/98/35429802-8ef5-c306-5279-ea3873609e14/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png
+    currentVersionReleaseDate: September 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/8b/dd/f38bdd4b-9c98-61e1-b30b-6a57cd562347/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png
     minimumOsVersion: 14.6.1
-    releaseNotes: Includes support for more customers.
-    version: 1.0.5
+    releaseNotes: '- Improved sign-in reliability and better restoration of your sign-in
+      status when opening Universal Print.
+
+      - A smoother Add Printer experience, with more reliable search, selection, and
+      printer installation.
+
+      - Printer lists now preserve their status during refreshes and update more smoothly.
+
+      - More reliable setup and uninstall behavior, including improved support for
+      managed environments and clearer uninstall progress.'
+    version: 1.1.0
     app_store_url: https://apps.apple.com/us/app/universal-print/id6450432292?mt=12&uo=4
   - name: MacOS Microsoft Rewards for Safari
     application_name: Microsoft Rewards for Safari

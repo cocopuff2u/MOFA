@@ -1,4 +1,4 @@
-last_updated: September 30, 2026 02:21 AM EDT
+last_updated: September 30, 2026 09:18 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -12,33 +12,31 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: September 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/cc/e6/89cce6c9-674a-4b16-0ee6-09a46de2be8b/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: September 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/87/c6/0287c60c-dcbc-b60d-6884-f99e6c3b3578/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.113.2
+    version: 16.113.3
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: September 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b6/e7/9ab6e772-c23c-9183-125a-667f86684be9/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: September 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/a4/3d/bfa43d90-00d8-8cfd-deaa-a9ecc014f20f/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.113.2
+    version: 16.113.3
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: September 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/aa/9d/baaa9dfc-d64c-b4de-ff1e-ea2deb565aaa/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: September 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/b5/e4/50b5e430-cfe3-39b1-fb82-e06ee6bd4818/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
-    releaseNotes: "\u2022 Fixed an issue where a blank line after the signature could\
-      \ disappear when reopening a saved reply draft.\n\u2022 Fixed an issue preventing\
-      \ some users from being able to use the application.\n\u2022 Fixed an issue\
-      \ preventing users to send email under Report as False Positive DLP scenario.\n\
-      \u2022 General quality and performance enhancements."
-    version: 16.113.2
+    releaseNotes: "\u2022 Fixed an issue preventing sharing documents and content\
+      \ from other Office applications to Outlook.\n\u2022 General quality and performance\
+      \ enhancements."
+    version: 16.113.3
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote

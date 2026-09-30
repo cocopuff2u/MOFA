@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 30, 2026 02:21 AM EDT",
+    "last_updated": "September 30, 2026 09:18 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "September 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/ec/c6/81ecc693-62f5-2bbd-b8ff-efd5bb322ddd/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 29, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/04/22/19042244-3c6e-37ce-b31f-e805c6cd848c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "26.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2637.2",
+            "version": "5.2638.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -280,11 +280,11 @@
             "name": "iOS Microsoft Power Apps",
             "application_name": "Power Apps",
             "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "September 22, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/93/d1/8293d124-dd4e-a20d-a705-3f172df93296/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "September 29, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/3d/8e/103d8eaa-1021-7bc8-d56a-98f687ecbc96/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.26092.8",
+            "version": "3.26093.8",
             "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {

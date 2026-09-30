@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>September 30, 2026 02:48 PM EDT</last_updated>
+    <last_updated>September 30, 2026 06:48 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
         <application_name>Microsoft Word.app</application_name>
         <CFBundleVersion>com.microsoft.word</CFBundleVersion>
-        <short_version>16.113.3 (26092714)</short_version>
-        <full_version>16.113.26092714</full_version>
-        <last_updated>September 27, 2026</last_updated>
+        <short_version>16.113.2 (26092012)</short_version>
+        <full_version>16.113.26092012</full_version>
+        <last_updated>September 20, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092714_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092714_Updater.pkg</latest_download>
-        <sha1>31f7e85cedf56eb6290f7c570a7e2df7f49f0cad</sha1>
-        <sha256>e2bc233f835311914b19d28a9d14d1976148b02a444d01641efeedcfc6fb1527</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092012_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092012_Updater.pkg</latest_download>
+        <sha1>55c80d3562185e383378bdc14baa019eb4267cb3</sha1>
+        <sha256>dbc851ce1a45d3a9184094aefdb9bb47f60edff5246b42af52cb425cf8d80c04</sha256>
     </package>
     <package>
         <name>Excel</name>

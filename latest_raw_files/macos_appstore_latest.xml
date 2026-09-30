@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 29, 2026 09:00 PM EDT</last_updated>
+	<last_updated>September 30, 2026 02:21 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/ae/69/c9ae6983-578e-9e9f-a312-4dae0055c617/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 29, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/9d/38/1f9d38c3-55d0-341e-8b64-c676e98cdf91/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.113.2</version>
+		<version>16.113.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -52,8 +52,8 @@
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3c/a4/d73ca45d-ad14-f44e-f1fe-21c8b32ef3d1/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 29, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/fb/68/e1fb6863-861d-8f69-c87e-7adde0b196c5/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -61,7 +61,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.113.2</version>
+		<version>16.113.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -90,23 +90,31 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>September 17, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/aa/f2/dcaaf264-abe9-b2f6-7a7f-91cee26a6704/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 29, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/9f/4a/969f4a04-6289-d352-93f7-3f69f70f995f/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates:
- 
-• Added support for completing in-session WebAuthn challenges by using local passwordless credentials.
-• Added external identity support.
-• Made updates to support macOS 27.
-• Updated the UX to replace &quot;Frontline&quot; with &quot;Flex Dedicated&quot; and &quot;Frontline Shared&quot; with &quot;Flex Shared&quot;.
-• Improved the Quick Launcher shortcut recording experience.
-• Improved camera resource handling when closing a session window.
-• Fixed a crash caused by a race between smart card redirection and session teardown.
- 
-In addition, we've also made numerous behind-the-scenes updates to improve performance and stability, and to lay the groundwork for some upcoming features.
+		<releaseNotes>In this release we made the following updates to address issues with RemoteApp connections:
+
+• Resolved an issue where the secure desktop window would appear empty while connecting to a remote app when using multiple monitors.
+• Fixed mispaints that occurred if advanced RemoteFX graphics were not being used to render remote apps.
+
+We also fixed some other bugs:
+
+• Fixed issues with ALT-based shortcuts (such as ALT+ENTER and ALT+UP ARROW) in Unicode keyboard mode.
+• Resolved modifier-key state that could interfere with subsequent SHIFT-based mouse click selections and keyboard shortcuts.
+• Fixed a startup hang that prevented command-line operations from completing.
+• Handled connection failures caused by saved credentials containing a domain but no username (users will be prompted to correct invalid credentials).
+
+In addition, we made improvements to enhance diagnostics insights:
+
+• Improved classification of sign-in errors to better distinguish access restrictions from internal authentication failures.
+• Improved connection and workspace diagnostics by identifying whether a signed-in Entra account is a home or guest account.
+• Fixed an issue where UDP connection drops caused by network instability were incorrectly classified.
+
+We have also added a toggle to enable WebAuthn redirection for AVD and Windows 365-based connections (Settings &gt; General &gt; Use WebAuthn redirection). Individual PC connections can be opted out of WebAuthn redirection by configuring published PC custom settings (under the Devices &amp; Audio tab).
 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.4.2</version>
+		<version>11.4.3</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

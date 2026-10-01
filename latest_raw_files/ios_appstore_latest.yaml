@@ -1,4 +1,4 @@
-last_updated: October 01, 2026 04:15 AM EDT
+last_updated: October 01, 2026 11:58 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -233,15 +233,15 @@ packages:
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure
-    currentVersionReleaseDate: September 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/26/6b/33266b19-abbb-c0fe-5ff2-9e998dce1f86/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/05/95/d505958f-1193-a36d-ccb0-94b1c06ec90f/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Thank you for using the Azure app. Our regular updates include
       performance improvements and bug fixes to make the app faster and more reliable.
 
 
       Please reach out to us for any questions, concerns, or feature requests.'
-    version: 8.1.12
+    version: 8.1.13
     app_store_url: https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
@@ -255,11 +255,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: September 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ff/e0/ecffe051-af85-edee-02da-88b89319ad81/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/d9/40/5bd940d9-d71d-17b0-7515-8fff4d9e7aa4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.17.0
+    version: 8.17.1
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
@@ -309,14 +309,15 @@ packages:
     version: '494.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: Lens - PDF Scanner and Editor
-    bundleId: com.Scantera593thzp.app
-    currentVersionReleaseDate: August 28, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
-    releaseNotes: Code refinements, minor bug fix
-    version: 1.4.3
-    app_store_url: https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: September 22, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.0'
+    releaseNotes: "\xB7 Improved the ID Folder, making it easier to find and manage\
+      \ your IDs.\n\xB7 Various enhancements for a smoother experience."
+    version: 7.26.6
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

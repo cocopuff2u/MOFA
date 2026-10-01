@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>September 30, 2026 09:47 PM EDT</last_updated>
+	<last_updated>October 01, 2026 04:15 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Word</bundleId>
-		<currentVersionReleaseDate>September 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/9d/38/1f9d38c3-55d0-341e-8b64-c676e98cdf91/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/ae/69/c9ae6983-578e-9e9f-a312-4dae0055c617/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.113.3</version>
+		<version>16.113.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -27,11 +27,11 @@
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>September 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/a4/3d/bfa43d90-00d8-8cfd-deaa-a9ecc014f20f/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b6/e7/9ab6e772-c23c-9183-125a-667f86684be9/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.113.3</version>
+		<version>16.113.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

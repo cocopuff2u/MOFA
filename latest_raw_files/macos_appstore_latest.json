@@ -1,15 +1,15 @@
 {
-    "last_updated": "September 30, 2026 09:47 PM EDT",
+    "last_updated": "October 01, 2026 04:15 AM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
             "application_name": "Microsoft Word",
             "bundleId": "com.microsoft.Word",
-            "currentVersionReleaseDate": "September 29, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/9d/38/1f9d38c3-55d0-341e-8b64-c676e98cdf91/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 22, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/ae/69/c9ae6983-578e-9e9f-a312-4dae0055c617/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.113.3",
+            "version": "16.113.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4"
         },
         {
@@ -27,11 +27,11 @@
             "name": "MacOS Microsoft PowerPoint",
             "application_name": "Microsoft PowerPoint",
             "bundleId": "com.microsoft.Powerpoint",
-            "currentVersionReleaseDate": "September 29, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/a4/3d/bfa43d90-00d8-8cfd-deaa-a9ecc014f20f/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "September 22, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b6/e7/9ab6e772-c23c-9183-125a-667f86684be9/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "14.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "16.113.3",
+            "version": "16.113.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4"
         },
         {

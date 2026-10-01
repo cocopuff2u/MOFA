@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 01, 2026 04:14 AM EDT</last_updated>
+    <last_updated>October 01, 2026 10:07 AM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -256,6 +256,22 @@
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2325438</full_update_download>
         <full_update_sha1>39ce117f7bace2c7905c985a1fcf9503725b7543</full_update_sha1>
         <full_update_sha256>0fea044825f482ebce9f7308fc77ac99b0ff2718d7bfa4e43db59dfe621d4632</full_update_sha256>
+    </package>
+    <package>
+        <name>Copilot App</name>
+        <application_id>mscopilot-stable</application_id>
+        <application_name>Copilot.app</application_name>
+        <CFBundleVersion>com.microsoft.m365copilot</CFBundleVersion>
+        <short_version>153.0.4234.38</short_version>
+        <full_version>153.0.4234.38</full_version>
+        <last_updated>September 17, 2026</last_updated>
+        <min_os>13.0</min_os>
+        <app_only_update_download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/33f80c9d-4d2c-47c3-afee-a053a3855cea/Copilot-153.0.4234.38.pkg</app_only_update_download>
+        <app_update_sha1>f5ab657d2716b14dbf2a6edd75768111e4ed0836</app_update_sha1>
+        <app_update_sha256>557e17e0bf22ce8523c709ad62841336feb92c9a9a0024cb6bef149017a3d312</app_update_sha256>
+        <full_update_download>https://go.microsoft.com/fwlink/?linkid=2325114</full_update_download>
+        <full_update_sha1>f5ab657d2716b14dbf2a6edd75768111e4ed0836</full_update_sha1>
+        <full_update_sha256>557e17e0bf22ce8523c709ad62841336feb92c9a9a0024cb6bef149017a3d312</full_update_sha256>
     </package>
     <package>
         <name>MAU</name>

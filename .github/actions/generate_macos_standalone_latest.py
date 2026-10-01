@@ -334,6 +334,30 @@ apps = {
             "min_os": "Minimum OS"
         }
     },
+    "Copilot App": {
+        # The converged (Chromium-based) Copilot app that Microsoft 365 Copilot is
+        # transitioning into (GitHub issue #25). It is NOT published through MAU: it
+        # ships its own EdgeUpdater (Omaha) and is registered under the app id
+        # "mscopilot-stable". Microsoft exposes its releases on the same public
+        # edgeupdates API the Edge feed uses; we pick the macOS universal pkg.
+        "url": "https://edgeupdates.microsoft.com/api/copilot",
+        "edgeupdates": {
+            "product": "Stable",
+            "platform": "MacOS",
+            "architecture": "universal",
+            "artifact": "pkg",
+        },
+        "manual_entries": {
+            "CFBundleVersion": "com.microsoft.m365copilot",  # same bundle id as M365 Copilot (it replaces it)
+            "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2325114",
+            "application_id": "mscopilot-stable",  # EdgeUpdater app id
+            "application_name": "Copilot.app",
+            # LSMinimumSystemVersion from Copilot.app/Contents/Info.plist (153.0.4234.38);
+            # the edgeupdates API does not publish a minimum OS.
+            "min_os": "13.0",
+        },
+        "keys": {}
+    },
     "MAU": {
         "url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409MSau04.xml",
         "manual_entries": {
@@ -505,8 +529,11 @@ def fetch_and_process(app_name, config):
 
         logging.info(f"Response status code: {response.status_code}")
 
+        # edgeupdates.microsoft.com release feed (Copilot app)
+        if "edgeupdates" in config:
+            extracted_data = process_edgeupdates_data(response.json(), config)
         # Check if the response is in JSON format
-        if response.headers.get('Content-Type', '').startswith('application/json'):
+        elif response.headers.get('Content-Type', '').startswith('application/json'):
             app_data = response.json()
             logging.info(f"JSON data: {app_data}")
             extracted_data = process_json_data(app_data, config)
@@ -635,6 +662,44 @@ def find_key_value(element, key_name):
                 return value
     return "N/A"
 
+# Function to process an edgeupdates.microsoft.com release feed
+# (https://edgeupdates.microsoft.com/api/copilot). The feed is a list of
+# products, each with a list of per-platform/architecture releases; only the
+# release that carries the requested artifact (the installer pkg) is used.
+def process_edgeupdates_data(feed, config):
+    sel = config["edgeupdates"]
+    product = next((p for p in feed if p.get("Product") == sel["product"]), None)
+    if product is None:
+        raise RuntimeError(f"product {sel['product']!r} not found in edgeupdates feed")
+
+    candidates = []
+    for release in product.get("Releases", []):
+        if release.get("Platform") != sel["platform"]:
+            continue
+        if release.get("Architecture") != sel["architecture"]:
+            continue
+        artifact = next((a for a in release.get("Artifacts", [])
+                         if a.get("ArtifactName") == sel["artifact"]), None)
+        if artifact is None:
+            continue
+        candidates.append((release, artifact))
+    if not candidates:
+        raise RuntimeError(
+            f"no {sel['platform']}/{sel['architecture']} {sel['artifact']} release in edgeupdates feed")
+
+    release, artifact = max(candidates,
+                            key=lambda ra: (version_tuple(ra[0].get("ProductVersion", "")),
+                                            ra[0].get("PublishedTime", "")))
+    version = release.get("ProductVersion", "N/A")
+    logging.info(f"edgeupdates release: {version} published {release.get('PublishedTime')} "
+                 f"({artifact.get('Location')}, sha256 {artifact.get('Hash')})")
+    return {
+        "short_version": version,
+        "full_version": version,
+        "last_updated": convert_last_updated(release.get("PublishedTime", "N/A")),
+        "app_only_update_download": artifact.get("Location", "N/A"),
+    }
+
 # Function to process JSON data
 def process_json_data(app_data, config):
     extracted_data = {}
@@ -653,10 +718,27 @@ def process_json_data(app_data, config):
 _hash_cache = {}
 
 # Download a package once and compute both SHA1 and SHA256 in a single streaming pass.
+def resolve_final_url(url):
+    """Follow redirects (e.g. go.microsoft.com/fwlink) and return the final URL.
+    Falls back to the input URL if the HEAD request fails."""
+    try:
+        r = requests.head(url, allow_redirects=True, timeout=REQUEST_TIMEOUT)
+        if r.url:
+            return r.url
+    except Exception as e:
+        logging.warning(f"Could not resolve redirects for {url}: {e}")
+    return url
+
 def compute_hashes(url):
     if not url:
         return "N/A", "N/A"
     if url in _hash_cache:
+        return _hash_cache[url]
+    # A fwlink and a direct CDN link often point at the same package (e.g. the
+    # Copilot app); hash by the resolved URL so it is downloaded only once.
+    final_url = resolve_final_url(url)
+    if final_url != url and final_url in _hash_cache:
+        _hash_cache[url] = _hash_cache[final_url]
         return _hash_cache[url]
     try:
         logging.info(f"Hashing {url}...")
@@ -672,6 +754,7 @@ def compute_hashes(url):
         logging.error(f"Error hashing {url}: {e}")
         result = ("N/A", "N/A")
     _hash_cache[url] = result
+    _hash_cache[final_url] = result
     return result
 
 # Pairs of (download-URL field, its SHA1 field, its SHA256 field).

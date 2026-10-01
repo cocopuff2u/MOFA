@@ -1,13 +1,13 @@
-last_updated: September 30, 2026 06:48 PM EDT
+last_updated: September 30, 2026 09:47 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: September 28, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/6e/5a/a16e5a83-b375-4e94-c43e-116c42ca2815/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/67/2b/4d672bae-4685-e060-7b90-b830e11c8de8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.114.2
+    version: 2.114.3
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
@@ -233,15 +233,15 @@ packages:
   - name: iOS Microsoft Azure
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure
-    currentVersionReleaseDate: September 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/26/6b/33266b19-abbb-c0fe-5ff2-9e998dce1f86/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/05/95/d505958f-1193-a36d-ccb0-94b1c06ec90f/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Thank you for using the Azure app. Our regular updates include
       performance improvements and bug fixes to make the app faster and more reliable.
 
 
       Please reach out to us for any questions, concerns, or feature requests.'
-    version: 8.1.12
+    version: 8.1.13
     app_store_url: https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4
   - name: iOS Microsoft To-Do
     application_name: Microsoft To Do
@@ -255,11 +255,11 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: September 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ff/e0/ecffe051-af85-edee-02da-88b89319ad81/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/d9/40/5bd940d9-d71d-17b0-7515-8fff4d9e7aa4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.17.0
+    version: 8.17.1
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
@@ -362,24 +362,24 @@ packages:
   - name: iOS Microsoft Azure Information Protection
     application_name: Microsoft Azure
     bundleId: com.microsoft.azure
-    currentVersionReleaseDate: September 17, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/26/6b/33266b19-abbb-c0fe-5ff2-9e998dce1f86/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: September 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/05/95/d505958f-1193-a36d-ccb0-94b1c06ec90f/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '16.0'
     releaseNotes: 'Thank you for using the Azure app. Our regular updates include
       performance improvements and bug fixes to make the app faster and more reliable.
 
 
       Please reach out to us for any questions, concerns, or feature requests.'
-    version: 8.1.12
+    version: 8.1.13
     app_store_url: https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4
   - name: iOS Microsoft 365 Office
     application_name: Microsoft Copilot
     bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: September 21, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/94/ed/6994ed6d-80ae-35ff-3451-b9d8b81412b4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: September 30, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/20/2c/cc202cbe-eabe-44f2-6f74-ad72fedad682/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.114.1
+    version: 2.114.2
     app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business

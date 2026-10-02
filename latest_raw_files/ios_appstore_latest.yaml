@@ -1,4 +1,4 @@
-last_updated: October 01, 2026 04:45 PM EDT
+last_updated: October 01, 2026 08:29 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -273,11 +273,11 @@ packages:
   - name: iOS Microsoft Dynamics 365 Business Central
     application_name: Dynamics 365 Business Central
     bundleId: com.microsoft.dynamics.ProjectMadeira
-    currentVersionReleaseDate: March 10, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/27/dd/4827dddc-01ba-e5ab-60c5-6b38ee8677f4/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: October 01, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ea/a7/8ceaa7b2-d87a-8b89-a882-6eef852cfbee/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
-    releaseNotes: Business Central icon 2026
-    version: '4.5'
+    releaseNotes: Some general fixes
+    version: '4.6'
     app_store_url: https://apps.apple.com/us/app/dynamics-365-business-central/id1093325047?uo=4
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
@@ -309,15 +309,14 @@ packages:
     version: '494.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: CamScanner - PDF Scanner App
-    bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: September 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.0'
-    releaseNotes: "\xB7 Improved the ID Folder, making it easier to find and manage\
-      \ your IDs.\n\xB7 Various enhancements for a smoother experience."
-    version: 7.26.6
-    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
+    application_name: Lens - PDF Scanner and Editor
+    bundleId: com.Scantera593thzp.app
+    currentVersionReleaseDate: August 28, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/35/cb/2935cb4b-c5c7-bcae-57bd-40c8d10defaf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '16.0'
+    releaseNotes: Code refinements, minor bug fix
+    version: 1.4.3
+    app_store_url: https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

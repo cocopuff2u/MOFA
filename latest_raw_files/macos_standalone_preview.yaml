@@ -1,29 +1,29 @@
-last_updated: October 01, 2026 08:29 PM EDT
+last_updated: October 02, 2026 02:38 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.113.3 (26092714)
-  full_version: 16.113.26092714
-  last_updated: September 27, 2026
+  short_version: 16.113.2 (26092012)
+  full_version: 16.113.26092012
+  last_updated: September 20, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092714_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092714_Updater.pkg
-  sha1: 31f7e85cedf56eb6290f7c570a7e2df7f49f0cad
-  sha256: e2bc233f835311914b19d28a9d14d1976148b02a444d01641efeedcfc6fb1527
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092012_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.113.26092012_Updater.pkg
+  sha1: 55c80d3562185e383378bdc14baa019eb4267cb3
+  sha256: dbc851ce1a45d3a9184094aefdb9bb47f60edff5246b42af52cb425cf8d80c04
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.113.3 (26092714)
-  full_version: 16.113.26092714
-  last_updated: September 27, 2026
+  short_version: 16.113.2 (26092012)
+  full_version: 16.113.26092012
+  last_updated: September 20, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26092714_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26092714_Updater.pkg
-  sha1: bf5a01ec7d4d32b177f95fb9a6fceffb77daa0cb
-  sha256: a55dcb5645b88523dc0b6dcacc16555d1350ab921956c3572d954716a273334b
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26092012_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26092012_Updater.pkg
+  sha1: 5a486bf808dec87aa0baf63368dc443cb6b47d1c
+  sha256: 0df0eb671a0ba751cfb5976f4c2df9b5b774090e4c65e590c829a9594cb7621f
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
@@ -150,9 +150,9 @@ packages:
   CFBundleVersion: com.microsoft.VSCodeInsiders
   short_version: 1.141.0-
   full_version: 1.141.0-insider
-  last_updated: October 01, 2026
+  last_updated: October 02, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/ec2e580674cdb512aa9b2a9596ab35d8a9590f1e/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/de892dd1f9971e3a7d8c758a8788d86854047605/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

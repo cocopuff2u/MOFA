@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 03, 2026 09:03 AM EDT",
+    "last_updated": "October 03, 2026 01:01 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -48,14 +48,14 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.115.0 (26092926)",
-            "full_version": "16.115.26092926",
-            "last_updated": "September 29, 2026",
+            "short_version": "16.114.0 (26092111)",
+            "full_version": "16.114.26092111",
+            "last_updated": "September 21, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.115.26092926_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.115.26092926_Updater.pkg",
-            "sha1": "959fd8df12795962b3b729d0a3e9855dec6a8051",
-            "sha256": "1a1527e036a798da2ddcf4f4bf973a58e3ba32843848c9b9f838283efdfe5fe4"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.114.26092111_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Outlook_16.114.26092111_Updater.pkg",
+            "sha1": "2371e683d2ca1c143ef4e20fbb545207d39e61f3",
+            "sha256": "ef8ead1dbba4e4faefa570b400a17589771d3e42387180642e0c9449a3819505"
         },
         {
             "name": "OneNote",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams2",
-            "short_version": "26267.1701.5163.3395",
-            "full_version": "26267.1701.5163.3395",
-            "last_updated": "September 25, 2026",
+            "short_version": "26253.1104.5133.1680",
+            "full_version": "26253.1104.5133.1680",
+            "last_updated": "September 17, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26267.1701.5163.3395/MicrosoftTeams_26225.1706.5101.3140_to_26267.1701.5163.3395_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26267.1701.5163.3395/MicrosoftTeams_26225.1706.5101.3140_to_26267.1701.5163.3395_BinaryDelta.pkg",
-            "sha1": "fe75a54b11844086267450f0c4f30889f35af205",
-            "sha256": "93ead13cf96665952823da786689981ec3601bd1e913536f26406c6cf00cd022"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26253.1104.5133.1680/MicrosoftTeams_26225.1704.5081.2906_to_26253.1104.5133.1680_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26253.1104.5133.1680/MicrosoftTeams_26225.1704.5081.2906_to_26253.1104.5133.1680_BinaryDelta.pkg",
+            "sha1": "060b41b5a1a9471554c6c3c704edeae3f352bced",
+            "sha256": "0e410d24aab68870ff4bcff7d151c4fbc9aa63c13053735e860d16da1354b065"
         },
         {
             "name": "Intune",

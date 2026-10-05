@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 04, 2026 09:32 PM EDT",
+    "last_updated": "October 05, 2026 04:13 AM EDT",
     "packages": [
         {
             "name": "Word",
@@ -48,14 +48,14 @@
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.112.0 (26081010)",
-            "full_version": "16.112.26081010",
-            "last_updated": "August 10, 2026",
+            "short_version": "16.113.3 (26092714)",
+            "full_version": "16.113.26092714",
+            "last_updated": "September 27, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26081010_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.112.26081010_Updater.pkg",
-            "sha1": "78c371cf4a65f8368f0c0130053cde28861afd33",
-            "sha256": "b84a77b26bc247e2b86615b7bffdf66586783f99cf9ae403bdbacc41b794b799"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.113.26092714_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.113.26092714_Updater.pkg",
+            "sha1": "ff3f7e0caa79faecf806e6f5592dbd09064f9fe8",
+            "sha256": "348100068b2fa577fccdd4bb81ae898ef6672ecfdb8de37fb1f871e095cd9efa"
         },
         {
             "name": "OneNote",
@@ -176,9 +176,9 @@
             "CFBundleVersion": "com.microsoft.VSCodeInsiders",
             "short_version": "1.141.0-",
             "full_version": "1.141.0-insider",
-            "last_updated": "October 03, 2026",
+            "last_updated": "October 05, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/429a4ec703266abbd31f6886764e4127955bdc9d/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/ae1080a9ed1098a8b532c6cfd50977d784b29e6d/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"
@@ -202,14 +202,14 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.85 (26080216)",
-            "full_version": "4.85.26080216",
-            "last_updated": "August 02, 2026",
+            "short_version": "4.85 (26091737)",
+            "full_version": "4.85.26091737",
+            "last_updated": "September 17, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
-            "sha1": "6335128b56bb29cbf2224228074e6434431648a0",
-            "sha256": "318e3ba568e7c4dbd6b7daf7d15359306b6ffe7cb888ed25f6f03ca90ccb806f"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
+            "sha1": "8076247fccb0d1ea6086c28772417f0b26caa069",
+            "sha256": "d647aba9538983f0c6cd892d2c3442b71ae1c8573ce53cbf62eb3ea831e9d165"
         }
     ]
 }

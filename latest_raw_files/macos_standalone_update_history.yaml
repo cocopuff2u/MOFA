@@ -1,5 +1,15 @@
-last_scan_date: October 06, 2026 01:51 PM EDT
+last_scan_date: October 06, 2026 06:15 PM EDT
 releases:
+- date: October 06, 2026
+  version: 16.113.4 (26100421)
+  businesspro_suite_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.113.26100421_BusinessPro_Installer.pkg
+  suite_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.113.26100421_Installer.pkg
+  word_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage//C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.113.26100421_Updater.pkg
+  excel_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.113.26100421_Updater.pkg
+  powerpoint_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.113.26100421_Updater.pkg
+  outlook_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.113.26100421_Updater.pkg
+  onenote_update: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.113.26100421_Updater.pkg
+  archive: 'false'
 - date: September 29, 2026
   version: 16.113.3 (26092714)
   businesspro_suite_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.113.26092714_BusinessPro_Installer.pkg

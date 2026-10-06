@@ -1,6 +1,18 @@
 {
-    "last_scan_date": "October 06, 2026 01:51 PM EDT",
+    "last_scan_date": "October 06, 2026 06:15 PM EDT",
     "updates": [
+        {
+            "date_text": "October 06, 2026",
+            "version": "Version 16.113.4 (Build 26100421)",
+            "security_updates": {
+                "N/A": [
+                    {
+                        "cve_name": "N/A",
+                        "url": null
+                    }
+                ]
+            }
+        },
         {
             "date_text": "September 29, 2026",
             "version": "Version 16.113.3 (Build 26092714)",

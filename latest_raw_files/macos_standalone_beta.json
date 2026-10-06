@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 06, 2026 07:44 AM EDT",
+    "last_updated": "October 06, 2026 01:52 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -202,14 +202,14 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.85 (26091737)",
-            "full_version": "4.85.26091737",
-            "last_updated": "September 17, 2026",
+            "short_version": "4.86 (26093010)",
+            "full_version": "4.86.26093010",
+            "last_updated": "September 30, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
-            "sha1": "8076247fccb0d1ea6086c28772417f0b26caa069",
-            "sha256": "d647aba9538983f0c6cd892d2c3442b71ae1c8573ce53cbf62eb3ea831e9d165"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.86.26093010_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_AutoUpdate_4.86.26093010_Updater.pkg",
+            "sha1": "ebf4cdc12477fc073c34b24b055b8990ab574aa8",
+            "sha256": "42d37b3714eb6e133b2cc6b51f77d9a39e12cdea2c07126a3626713ac158bb97"
         },
         {
             "name": "Windows App Beta",

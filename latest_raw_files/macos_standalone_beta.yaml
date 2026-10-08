@@ -1,41 +1,41 @@
-last_updated: October 08, 2026 12:06 PM EDT
+last_updated: October 08, 2026 05:50 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
   application_name: Microsoft Word.app
   CFBundleVersion: com.microsoft.word
-  short_version: 16.115.0 (26100424)
-  full_version: 16.115.26100424
-  last_updated: October 04, 2026
+  short_version: 16.115.0 (26092926)
+  full_version: 16.115.26092926
+  last_updated: September 29, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.115.26100424_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.115.26100424_Updater.pkg
-  sha1: 4a1df793c6e7accf012a7983c9e374296474ab14
-  sha256: b1343ebcf8e34c4b5308eb905d93b5bb6d7e87c25a94b7508332ef555917cf65
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.115.26092926_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Word_16.115.26092926_Updater.pkg
+  sha1: db4e70755a3d25e5dfb74823cff37b210a02be9a
+  sha256: dc704417d9701a836be391b3a2b423c2979ec224537704b16195332a72485cbe
 - name: Excel
   application_id: XCEL2019
   application_name: Microsoft Excel.app
   CFBundleVersion: com.microsoft.excel
-  short_version: 16.115.0 (26100424)
-  full_version: 16.115.26100424
-  last_updated: October 04, 2026
-  min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.115.26100424_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.115.26100424_Updater.pkg
-  sha1: 365d79ea6a08cc08def4f174cb1a7dc8f932449d
-  sha256: a5cc63f5d5624277d97cf8e27ef1a6cfcdc4c3c97ba85d93f6c13e11c997ded1
+  short_version: 16.115.0 (26100743)
+  full_version: 16.115.26100743
+  last_updated: October 07, 2026
+  min_os: '15.0'
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.115.26100743_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_Excel_16.115.26100743_Updater.pkg
+  sha1: 1cd84d1b0fdeb1fb63fb65ba97b532b0ae511d84
+  sha256: 343a1ea415daad6d5077e1eda9cc2977ce04cac72ef4e2811b38a1453e69d4f4
 - name: PowerPoint
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.115.0 (26100424)
-  full_version: 16.115.26100424
-  last_updated: October 04, 2026
-  min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.115.26100424_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.115.26100424_Updater.pkg
-  sha1: 13a58193ccb5480878608d5c317d803cf0852b42
-  sha256: 428f301e43744e0d26dbf30fe4ab92712f73c5dd2034361643a4918910a38947
+  short_version: 16.115.0 (26100743)
+  full_version: 16.115.26100743
+  last_updated: October 07, 2026
+  min_os: '15.0'
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.115.26100743_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/Microsoft_PowerPoint_16.115.26100743_Updater.pkg
+  sha1: a75b6de28709ec443eac2e10b5a8303f6f374f92
+  sha256: 73db5995d7e4b22caa8071e00ca0316ad2a69cf28d1e53ae3e63bcd92d9fc83e
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
@@ -152,7 +152,7 @@ packages:
   full_version: 1.142.0-insider
   last_updated: October 08, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/ddcb6c27affe30052a2ade0bfe6c8bcaea9f89e5/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/d2a9268a5f75f47930b6e77853d2346824cab2b2/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

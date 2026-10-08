@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 08, 2026 04:22 AM EDT</last_updated>
+	<last_updated>October 08, 2026 12:05 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -163,14 +163,14 @@ Numpad entries: You can use an external numpad with WMA now for digit inputs.</r
 	</package>
 	<package>
 		<name>iOS Microsoft Lists</name>
-		<application_name>Microsoft To Do</application_name>
-		<bundleId>com.microsoft.to-do</bundleId>
-		<currentVersionReleaseDate>July 06, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.6</minimumOsVersion>
-		<releaseNotes>We fixed some bugs to improve the app experience.</releaseNotes>
-		<version>2.177</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4</app_store_url>
+		<application_name>Microsoft SharePoint</application_name>
+		<bundleId>com.microsoft.sharepoint</bundleId>
+		<currentVersionReleaseDate>September 25, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/7f/66/d77f664e-9e60-e81a-f6b7-e656f40e98d5/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.6</minimumOsVersion>
+		<releaseNotes>Stability improvements and fixes.</releaseNotes>
+		<version>5.1.6</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>
@@ -369,12 +369,12 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>CamScanner - PDF Scanner App</application_name>
 		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8a/4d/e38a4d7b-5420-27c9-e98b-4c0a0418ddb5/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>· Improved the ID Folder, making it easier to find and manage your IDs.
-· Various enhancements for a smoother experience.</releaseNotes>
-		<version>7.26.6</version>
+		<releaseNotes>· Enhanced Word editing: Easily adjust text formatting.
+· Account switching: Quickly switch between multiple accounts.</releaseNotes>
+		<version>7.27.0</version>
 		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>

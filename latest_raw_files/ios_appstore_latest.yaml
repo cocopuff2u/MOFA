@@ -1,4 +1,4 @@
-last_updated: October 08, 2026 04:22 AM EDT
+last_updated: October 08, 2026 12:05 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -141,14 +141,14 @@ packages:
     version: 3.26073.4
     app_store_url: https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4
   - name: iOS Microsoft Lists
-    application_name: Microsoft To Do
-    bundleId: com.microsoft.to-do
-    currentVersionReleaseDate: July 06, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '17.6'
-    releaseNotes: We fixed some bugs to improve the app experience.
-    version: '2.177'
-    app_store_url: https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4
+    application_name: Microsoft SharePoint
+    bundleId: com.microsoft.sharepoint
+    currentVersionReleaseDate: September 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/7f/66/d77f664e-9e60-e81a-f6b7-e656f40e98d5/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '18.6'
+    releaseNotes: Stability improvements and fixes.
+    version: 5.1.6
+    app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
@@ -311,12 +311,12 @@ packages:
   - name: iOS Microsoft Lens PDF Scanner
     application_name: CamScanner - PDF Scanner App
     bundleId: com.intsig.CamScannerLite
-    currentVersionReleaseDate: September 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 08, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8a/4d/e38a4d7b-5420-27c9-e98b-4c0a0418ddb5/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '15.0'
-    releaseNotes: "\xB7 Improved the ID Folder, making it easier to find and manage\
-      \ your IDs.\n\xB7 Various enhancements for a smoother experience."
-    version: 7.26.6
+    releaseNotes: "\xB7 Enhanced Word editing: Easily adjust text formatting.\n\xB7\
+      \ Account switching: Quickly switch between multiple accounts."
+    version: 7.27.0
     app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders

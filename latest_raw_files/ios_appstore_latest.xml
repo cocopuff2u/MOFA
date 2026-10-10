@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 10, 2026 02:12 PM EDT</last_updated>
+	<last_updated>October 10, 2026 06:11 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -303,11 +303,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>October 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/49/32/a04932ad-6602-eb4b-5aba-272178038259/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 30, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/d9/40/5bd940d9-d71d-17b0-7515-8fff4d9e7aa4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>8.18.0</version>
+		<version>8.17.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4</app_store_url>
 	</package>
 	<package>
@@ -437,16 +437,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Outlook</application_name>
-		<bundleId>com.microsoft.Office.Outlook</bundleId>
+		<application_name>Microsoft Copilot</application_name>
+		<bundleId>com.microsoft.officemobile</bundleId>
 		<currentVersionReleaseDate>October 05, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/1d/35/6c1d3539-3063-ca53-763a-7d68055b20b8/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>26.0</minimumOsVersion>
-		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
-
-Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2639.0</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d5/3d/c1d53da8-6c85-dacb-bbf5-6922022f1a55/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
+		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
+		<version>2.114.3</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

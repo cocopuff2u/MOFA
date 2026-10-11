@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 11, 2026 03:53 PM EDT</last_updated>
+	<last_updated>October 11, 2026 07:25 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -392,12 +392,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/75/5b/b5755bf8-8457-7864-9c99-b4a4bb025cb8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 11, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/aa/ba/3baaba7a-5a8e-9e00-546a-164d82992901/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>- Quickly access filters, reset changes, and more as you explore your data. To turn off this feature, go to Settings and turn off 'Docked report footer'.
-- Find contact details in the Info drawer for a report, app, or dashboard, and email the right person directly from your phone.</releaseNotes>
-		<version>38.4</version>
+		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
+		<version>38.5</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4</app_store_url>
 	</package>
 	<package>

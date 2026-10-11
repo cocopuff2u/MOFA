@@ -35,7 +35,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
 <sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 11, 2026 03:53 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 11, 2026 07:25 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -130,7 +130,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>_Some of these tools are also available via [Homebrew](https://brew.sh); the versions below reflect the latest official Microsoft releases._</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 11, 2026 03:53 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 11, 2026 07:26 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -164,7 +164,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 11, 2026 03:53 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 11, 2026 07:25 PM EDT</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -188,7 +188,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 ## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 11, 2026 03:53 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 11, 2026 07:25 PM EDT</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -222,7 +222,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | Meta Ads Manager | `496.0` | `com.facebook.MAdMan` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/e2/5e/b6e25e4f-edbd-3f6f-cbc8-974f290a03f6/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg" alt="Meta Ads Manager" width="40"> |
 | CamScanner - PDF Scanner App | `7.27.0` | `com.intsig.CamScannerLite` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8a/4d/e38a4d7b-5420-27c9-e98b-4c0a0418ddb5/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg" alt="CamScanner - PDF Scanner App" width="40"> |
 | Work Folders | `2.2.0` | `com.microsoft.workfolders` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/46/15/ed46150c-83ff-e2bc-4caa-8b5948d65bd2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" alt="Work Folders" width="40"> |
-| Microsoft Power BI | `38.4` | `com.microsoft.powerbimobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/75/5b/b5755bf8-8457-7864-9c99-b4a4bb025cb8/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |
+| Microsoft Power BI | `38.5` | `com.microsoft.powerbimobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/aa/ba/3baaba7a-5a8e-9e00-546a-164d82992901/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |
 | Microsoft 365 Admin | `6.1.0` | `com.microsoft.o365shdmobileapp` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fc/a6/7efca6a8-70d1-6b39-7443-2010382da196/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft 365 Admin" width="40"> |
 | Intune Company Portal | `5.2608.0` | `com.microsoft.CompanyPortal` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/47/d4/6447d413-7f2a-7bae-4eaa-5fa2a249c60a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Intune Company Portal" width="40"> |
 | Microsoft Azure | `8.1.13` | `com.microsoft.azure` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/05/95/d505958f-1193-a36d-ccb0-94b1c06ec90f/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Azure" width="40"> |

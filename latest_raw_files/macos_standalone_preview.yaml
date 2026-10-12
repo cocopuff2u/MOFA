@@ -1,4 +1,4 @@
-last_updated: October 12, 2026 12:06 AM EDT
+last_updated: October 12, 2026 08:42 AM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -28,14 +28,14 @@ packages:
   application_id: PPT32019
   application_name: Microsoft PowerPoint.app
   CFBundleVersion: com.microsoft.powerpoint
-  short_version: 16.112.2 (26082125)
-  full_version: 16.112.26082125
-  last_updated: August 21, 2026
+  short_version: 16.113.4 (26100421)
+  full_version: 16.113.26100421
+  last_updated: October 04, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26082125_Updater.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.112.26082125_Updater.pkg
-  sha1: N/A
-  sha256: N/A
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26100421_Updater.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26100421_Updater.pkg
+  sha1: e31615afba85bfc9b73a3d5e76cd64dd2da30533
+  sha256: 5ff1f22f99259995740b035613f43f66ff13460bc0bdf37234a079df1a12608f
 - name: Outlook
   application_id: OPIM2019
   application_name: Microsoft Outlook.app
@@ -150,9 +150,9 @@ packages:
   CFBundleVersion: com.microsoft.VSCodeInsiders
   short_version: 1.142.0-
   full_version: 1.142.0-insider
-  last_updated: October 09, 2026
+  last_updated: October 12, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/dab4f45f6cbfbd55ff3de3ac3a328fb7d6d2f642/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/ff00e788322523ee1e9e8ee2c9bb4b89af93a3c2/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 12, 2026 08:42 AM EDT",
+    "last_updated": "October 12, 2026 05:32 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -20,42 +20,42 @@
             "application_id": "XCEL2019",
             "application_name": "Microsoft Excel.app",
             "CFBundleVersion": "com.microsoft.excel",
-            "short_version": "16.113.4 (26100421)",
-            "full_version": "16.113.26100421",
-            "last_updated": "October 04, 2026",
+            "short_version": "16.114.0 (26101123)",
+            "full_version": "16.114.26101123",
+            "last_updated": "October 11, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26100421_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.113.26100421_Updater.pkg",
-            "sha1": "130dbce3f2be0ae533d19423f70ecb8ddde6ad34",
-            "sha256": "b287cc74567466e470c1983f418cf73181ea448a15c55ab243477fc023fc268e"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.114.26101123_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Excel_16.114.26101123_Updater.pkg",
+            "sha1": "f7187c3b82a336b2d9a21d798a7a9ee51c8191b8",
+            "sha256": "41f65cfaf214cd421ca1992ab74d61e7a3641d8c0761d889ea74252719a77435"
         },
         {
             "name": "PowerPoint",
             "application_id": "PPT32019",
             "application_name": "Microsoft PowerPoint.app",
             "CFBundleVersion": "com.microsoft.powerpoint",
-            "short_version": "16.113.4 (26100421)",
-            "full_version": "16.113.26100421",
-            "last_updated": "October 04, 2026",
+            "short_version": "16.114.0 (26101123)",
+            "full_version": "16.114.26101123",
+            "last_updated": "October 11, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26100421_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.113.26100421_Updater.pkg",
-            "sha1": "e31615afba85bfc9b73a3d5e76cd64dd2da30533",
-            "sha256": "5ff1f22f99259995740b035613f43f66ff13460bc0bdf37234a079df1a12608f"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.114.26101123_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_PowerPoint_16.114.26101123_Updater.pkg",
+            "sha1": "1fb775fde20bb875a45f0f5e93e601a95cb79697",
+            "sha256": "9e0e5e30450f2f8a73b52369299fd50b0018281ee3f1a37b379958547b998ec3"
         },
         {
             "name": "Outlook",
             "application_id": "OPIM2019",
             "application_name": "Microsoft Outlook.app",
             "CFBundleVersion": "com.microsoft.outlook",
-            "short_version": "16.113.4 (26100421)",
-            "full_version": "16.113.26100421",
-            "last_updated": "October 04, 2026",
+            "short_version": "16.114.0 (26101123)",
+            "full_version": "16.114.26101123",
+            "last_updated": "October 11, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.113.26100421_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.113.26100421_Updater.pkg",
-            "sha1": "dd575dec462450d101958cdd7a72735fa4e6cde6",
-            "sha256": "fb431c4a86357bf65ca9547988f0365f67b939d74572281d082955e21bc30018"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.114.26101123_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Outlook_16.114.26101123_Updater.pkg",
+            "sha1": "1c0a9682486a0e04f4b766ed7f3fd168760e47c8",
+            "sha256": "def26faa40b716c0e818a9fa8be7e1b99097de4d299b284c1185e8b77d46bd07"
         },
         {
             "name": "OneNote",
@@ -178,7 +178,7 @@
             "full_version": "1.142.0-insider",
             "last_updated": "October 12, 2026",
             "min_os": "N/A",
-            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/ff00e788322523ee1e9e8ee2c9bb4b89af93a3c2/VSCode-darwin-universal.zip",
+            "update_download": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/363a43fb9eb3551f66ff60d5d12d14d9daa02300/VSCode-darwin-universal.zip",
             "latest_download": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal",
             "sha1": "N/A",
             "sha256": "N/A"

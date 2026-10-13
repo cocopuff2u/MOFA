@@ -1,5 +1,5 @@
 latest:
-  last_updated: October 12, 2026 05:32 PM EDT
+  last_updated: October 12, 2026 10:49 PM EDT
   package:
   - name: Production Ring
     short_version: 26.173.0906
@@ -29,14 +29,14 @@ latest:
     full_update_sha256: cf927ceac76bddb80cf583b60a705b1f9837283adf910a232b4e72d22ba22998
     last_updated: October 12, 2026 05:32 PM EDT
   - name: Upcoming Deferred  Ring
-    short_version: 26.123.0628
+    short_version: 26.189.0928
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
     full_update_download: https://go.microsoft.com/fwlink/?linkid=861010
-    full_update_sha1: 8f7bb1daf51753f40c4287207bb8c785817bfd20
-    full_update_sha256: cf927ceac76bddb80cf583b60a705b1f9837283adf910a232b4e72d22ba22998
-    last_updated: August 10, 2026 11:56 AM EDT
+    full_update_sha1: a996e5d502c0011d19fd501ae4099a0837066192
+    full_update_sha256: 60200ebb35bc7575fc8b1189e32e660420f688bf1ccc0ecb6699151b898d832f
+    last_updated: October 12, 2026 10:49 PM EDT
   - name: Insider Ring
     short_version: 26.173.0906
     application_id: ONDR18

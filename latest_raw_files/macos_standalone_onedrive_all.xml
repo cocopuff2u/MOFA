@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>October 12, 2026 05:32 PM EDT</last_updated>
+  <last_updated>October 12, 2026 10:49 PM EDT</last_updated>
   <package>
     <name>Production Ring</name>
     <short_version>26.173.0906</short_version>
@@ -36,14 +36,14 @@
   </package>
   <package>
     <name>Upcoming Deferred  Ring</name>
-    <short_version>26.123.0628</short_version>
+    <short_version>26.189.0928</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
     <full_update_download>https://go.microsoft.com/fwlink/?linkid=861010</full_update_download>
-    <full_update_sha1>8f7bb1daf51753f40c4287207bb8c785817bfd20</full_update_sha1>
-    <full_update_sha256>cf927ceac76bddb80cf583b60a705b1f9837283adf910a232b4e72d22ba22998</full_update_sha256>
-    <last_updated>August 10, 2026 11:56 AM EDT</last_updated>
+    <full_update_sha1>a996e5d502c0011d19fd501ae4099a0837066192</full_update_sha1>
+    <full_update_sha256>60200ebb35bc7575fc8b1189e32e660420f688bf1ccc0ecb6699151b898d832f</full_update_sha256>
+    <last_updated>October 12, 2026 10:49 PM EDT</last_updated>
   </package>
   <package>
     <name>Insider Ring</name>

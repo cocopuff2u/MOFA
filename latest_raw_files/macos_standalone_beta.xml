@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 13, 2026 06:03 AM EDT</last_updated>
+    <last_updated>October 13, 2026 01:32 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -90,14 +90,14 @@
         <application_id>TEAMS21</application_id>
         <application_name>Microsoft Teams.app</application_name>
         <CFBundleVersion>com.microsoft.teams2</CFBundleVersion>
-        <short_version>26276.502.5208.6223</short_version>
-        <full_version>26276.502.5208.6223</full_version>
-        <last_updated>October 07, 2026</last_updated>
+        <short_version>26281.901.5217.4103</short_version>
+        <full_version>26281.901.5217.4103</full_version>
+        <last_updated>October 09, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26276.502.5208.6223/MicrosoftTeams_26225.1708.5124.9749_to_26276.502.5208.6223_BinaryDelta.pkg</update_download>
-        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26276.502.5208.6223/MicrosoftTeams_26225.1708.5124.9749_to_26276.502.5208.6223_BinaryDelta.pkg</latest_download>
-        <sha1>6eeffd45d1f9cac224e612a4b339fdeb4542f715</sha1>
-        <sha256>782f52dbb6c68946fc441833758b486b6eca58f8ac77d9edd261e094e7014ad3</sha256>
+        <update_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26281.901.5217.4103/MicrosoftTeams_26225.1708.5124.9749_to_26281.901.5217.4103_BinaryDelta.pkg</update_download>
+        <latest_download>https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26281.901.5217.4103/MicrosoftTeams_26225.1708.5124.9749_to_26281.901.5217.4103_BinaryDelta.pkg</latest_download>
+        <sha1>661b6b997856c09b74ccd9cd13ce7c32a8828a86</sha1>
+        <sha256>4652e6cd7090cfe792f472cd863104ecc6221a3adaa2ea101bdff179fd7786ef</sha256>
     </package>
     <package>
         <name>Intune</name>
@@ -132,9 +132,9 @@
         <application_id>WDAV00</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.wdav</CFBundleVersion>
-        <short_version>101.26082.0011</short_version>
-        <full_version>101.26082.0011</full_version>
-        <last_updated>September 26, 2026</last_updated>
+        <short_version>101.26072.0017</short_version>
+        <full_version>101.26072.0017</full_version>
+        <last_updated>September 10, 2026</last_updated>
         <min_os>14.0</min_os>
         <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg</update_download>
         <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/wdav-upgrade.pkg</latest_download>
@@ -178,7 +178,7 @@
         <full_version>1.142.0-insider</full_version>
         <last_updated>October 13, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/e9eaf94e8bb01badde47d2518e16d3e1cdab1dd9/VSCode-darwin-universal.zip</update_download>
+        <update_download>https://vscode.download.prss.microsoft.com/dbazure/download/insider/d5dfbe9aa2c84cc3cbc3d4926a5155983aceeef1/VSCode-darwin-universal.zip</update_download>
         <latest_download>https://code.visualstudio.com/sha/download?build=insider&amp;os=darwin-universal</latest_download>
         <sha1>N/A</sha1>
         <sha256>N/A</sha256>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 14, 2026 03:03 AM EDT",
+    "last_updated": "October 14, 2026 08:48 AM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "iOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Office.Outlook",
-            "currentVersionReleaseDate": "October 05, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/1d/35/6c1d3539-3063-ca53-763a-7d68055b20b8/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 12, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/84/db/c684db5d-e933-9df3-f9be-6445df9138af/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "26.0",
             "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from you.",
-            "version": "5.2639.0",
+            "version": "5.2640.0",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
         },
         {
@@ -60,11 +60,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "September 28, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/49/8e/17498e22-559b-1dbc-089d-6203026abc38/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 12, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3a/be/e23abe0c-74d5-fc43-3c2d-36b1a6a87dde/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
-            "releaseNotes": "We would like to let our users know that we are planning on dropping support for the OneDrive app on iOS 18 and iPadOS 18 versions soon. Please ensure you're on one of the later versions of iOS/iPadOS (26 or 27) to make sure you're still able to access the latest version of the OneDrive app.",
-            "version": "18.11.2",
+            "releaseNotes": "This is the last version of the OneDrive iOS and iPadOS apps that can be installed on devices with iOS 18 or iPadOS 18. The next one will only support iOS 26 and 27 and iPadOS 26 and 27.",
+            "version": "18.12.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "CamScanner - PDF Scanner App",
-            "bundleId": "com.intsig.CamScannerLite",
-            "currentVersionReleaseDate": "October 08, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8a/4d/e38a4d7b-5420-27c9-e98b-4c0a0418ddb5/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "15.0",
-            "releaseNotes": "\u00b7 Enhanced Word editing: Easily adjust text formatting.\n\u00b7 Account switching: Quickly switch between multiple accounts.",
-            "version": "7.27.0",
-            "app_store_url": "https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4"
+            "application_name": "Lens: Translate & Photo Finder",
+            "bundleId": "com.searchdodo.ios",
+            "currentVersionReleaseDate": "August 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/19/b3/ac19b3fe-ab4f-ddef-8489-ba0cadf03d28/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "15.6",
+            "releaseNotes": "Your first moments in Lens are now absolutely seamless! \n\nWe revamped the initial setup so you can dive right in without skipping a beat. \nWe also fine-tuned things under the hood, ensuring your browsing remains perfectly smooth and completely uninterrupted. \n\nIf these speedy new updates make your visual experience even better, a 5-star review means the world to us! Thanks for choosing Lens.",
+            "version": "3.1.16",
+            "app_store_url": "https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

@@ -7,43 +7,62 @@
 #
 # Version History:
 # 1.0.0 - Based on the latest available package from *Office-Reset.com*; recreated for MOFA to continue maintenance where *Office-Reset.com* left off.
+# 1.1.0 - Fixed $HOME variable shadowing (renamed to $UserHome); removed unused autoload;
+#          updated conditionals to zsh-native [[ ]]; added cfprefsd flush before plist removal;
+#          added missing Outlook data paths (caches, cookies, saved state, legacy app support).
 #
 # ============================================================
 
-
 echo "Office-Reset: Starting postinstall for Remove_Outlook_Data"
-autoload is-at-least
 
 GetLoggedInUser() {
-	LOGGEDIN=$(/bin/echo "show State:/Users/ConsoleUser" | /usr/sbin/scutil | /usr/bin/awk '/Name :/&&!/loginwindow/{print $3}')
-	if [ "$LOGGEDIN" = "" ]; then
-		echo "$USER"
-	else
-		echo "$LOGGEDIN"
-	fi
+    local loggedIn
+    loggedIn=$(/bin/echo "show State:/Users/ConsoleUser" | /usr/sbin/scutil | /usr/bin/awk '/Name :/&&!/loginwindow/{print $3}')
+    if [[ -z "$loggedIn" ]]; then
+        echo "$USER"
+    else
+        echo "$loggedIn"
+    fi
 }
 
 SetHomeFolder() {
-	HOME=$(dscl . read /Users/"$1" NFSHomeDirectory | cut -d ':' -f2 | cut -d ' ' -f2)
-	if [ "$HOME" = "" ]; then
-		if [ -d "/Users/$1" ]; then
-			HOME="/Users/$1"
-		else
-			HOME=$(eval echo "~$1")
-		fi
-	fi
+    UserHome=$(dscl . read /Users/"$1" NFSHomeDirectory | cut -d ':' -f2 | cut -d ' ' -f2)
+    if [[ -z "$UserHome" ]]; then
+        if [[ -d "/Users/$1" ]]; then
+            UserHome="/Users/$1"
+        else
+            UserHome=$(eval echo "~$1")
+        fi
+    fi
 }
 
 ## Main
 LoggedInUser=$(GetLoggedInUser)
 SetHomeFolder "$LoggedInUser"
-echo "Office-Reset: Running as: $LoggedInUser; Home Folder: $HOME"
+echo "Office-Reset: Running as: $LoggedInUser; Home Folder: $UserHome"
 
+echo "Office-Reset: Stopping Outlook"
 /usr/bin/pkill -9 'Microsoft Outlook'
 
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.Outlook.plist"
+# Flush cfprefsd cache before removing preference plists.
+# Without this, cfprefsd may recreate plists from its in-memory cache after deletion.
+/usr/bin/killall cfprefsd 2>/dev/null; true
 
-/bin/rm -rf "$HOME/Library/Group Containers/UBF8T346G9.Office/Outlook"
-/bin/rm -f "$HOME/Library/Group Containers/UBF8T346G9.Office/OutlookProfile.plist"
+echo "Office-Reset: Removing Outlook preferences"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.Outlook.plist"
 
+echo "Office-Reset: Removing Outlook data"
+/bin/rm -rf "$UserHome/Library/Group Containers/UBF8T346G9.Office/Outlook"
+/bin/rm -f  "$UserHome/Library/Group Containers/UBF8T346G9.Office/OutlookProfile.plist"
+
+# Legacy Outlook data location (Outlook 2016 and earlier)
+/bin/rm -rf "$UserHome/Library/Application Support/Microsoft/Outlook"
+
+echo "Office-Reset: Removing Outlook caches and ancillary data"
+/bin/rm -rf "$UserHome/Library/Caches/com.microsoft.Outlook"
+/bin/rm -rf "$UserHome/Library/WebKit/com.microsoft.Outlook"
+/bin/rm -rf "$UserHome/Library/Saved Application State/com.microsoft.Outlook.savedState"
+/bin/rm -f  "$UserHome/Library/Cookies/com.microsoft.Outlook.binarycookies"
+
+echo "Office-Reset: Outlook data removal complete for $LoggedInUser"
 exit 0

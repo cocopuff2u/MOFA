@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 14, 2026 08:16 PM EDT</last_updated>
+	<last_updated>October 15, 2026 01:31 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -78,19 +78,16 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Windows App Mobile</application_name>
 		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>October 14, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/2d/97/ed2d974b-dad4-2dea-7696-8f32a0d8b9dd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 24, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/29/75/5e2975d7-6156-3423-6dc1-c54fc70c3930/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
-		<releaseNotes>This update includes security, connection reliability, and session-switching improvements:
+		<releaseNotes>In this release we made the following updates:
  
-• Resolved an issue where relaunching an active PC connection could switch to an existing remote app session.
-• Fixed the Connection Center active connection preview so it reflects and reopens the most recently visited session.
-• Improved handling of missing or invalid saved usernames to help prevent connection failures.
-• Improved authentication reliability when starting multiple connections and refined sign-in error handling.
-• Made targeted security fixes for clipboard redirection, remote session watermarking, certificate parsing, and RDP licensing.
+• Added support for iPhone 18 Pro and iPhone 18 Pro Max.
+• Enhanced diagnostic insights for the external identity support feature.
  
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.3.9</version>
+		<version>11.3.8</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>
@@ -331,11 +328,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>October 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/49/32/a04932ad-6602-eb4b-5aba-272178038259/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 15, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ac/d6/0facd652-7de5-115e-54f1-0308cfc4175d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>8.18.0</version>
+		<version>8.18.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4</app_store_url>
 	</package>
 	<package>

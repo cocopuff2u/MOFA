@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 14, 2026 05:16 PM EDT</last_updated>
+    <last_updated>October 14, 2026 08:17 PM EDT</last_updated>
     <package>
         <name>Word</name>
         <application_id>MSWD2019</application_id>
@@ -132,28 +132,28 @@
         <application_id>WDAV00</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.wdav</CFBundleVersion>
-        <short_version>101.26072.0017</short_version>
-        <full_version>101.26072.0017</full_version>
-        <last_updated>September 10, 2026</last_updated>
+        <short_version>101.26082.0011</short_version>
+        <full_version>101.26082.0011</full_version>
+        <last_updated>September 26, 2026</last_updated>
         <min_os>14.0</min_os>
         <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg</update_download>
         <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg</latest_download>
-        <sha1>77bbbc90fa52b564bb5b211f20bd6afcd172f93f</sha1>
-        <sha256>361024e7667529852dbad51442f5c490b222dd2fe4340b90796e4b0673ce78c1</sha256>
+        <sha1>07477164db5f7a3344616754f108c35301e8e5cd</sha1>
+        <sha256>dd6dc7bb9cf6517134e29cbd24fcbae81b45ed36048a4c33f2fb09370f0fb37d</sha256>
     </package>
     <package>
         <name>Defender For Consumers</name>
         <application_id>WDAVCONSUMER</application_id>
         <application_name>Microsoft Defender.app</application_name>
         <CFBundleVersion>com.microsoft.wdav</CFBundleVersion>
-        <short_version>101.26072.0017</short_version>
-        <full_version>101.26072.0017</full_version>
-        <last_updated>September 10, 2026</last_updated>
+        <short_version>101.26082.0011</short_version>
+        <full_version>101.26082.0011</full_version>
+        <last_updated>September 26, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26072.0017_Individuals_Installer.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26072.0017_Individuals_Installer.pkg</latest_download>
-        <sha1>1020afecfe8ed7cf6e9556fbb3be19431073b75a</sha1>
-        <sha256>7b6b8c7a0601acffb2fdc957c8ba4ecf2728dbfe57c45c001ba0450e1e8c19c8</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26082.0011_Individuals_Installer.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26082.0011_Individuals_Installer.pkg</latest_download>
+        <sha1>78590b20001d5bdb15f7c3b6aa49ef216a233c6a</sha1>
+        <sha256>8bab7372192cfc856cb8c8b8fda15bc84bd9a50d33845ae16a66f951e1dcc3f2</sha256>
     </package>
     <package>
         <name>Defender Shim</name>
@@ -188,14 +188,14 @@
         <application_id>MSCP10</application_id>
         <application_name>Microsoft 365 Copilot.app</application_name>
         <CFBundleVersion>com.microsoft.m365copilot</CFBundleVersion>
-        <short_version>1.2608 (0301)</short_version>
-        <full_version>1.2608.0301</full_version>
-        <last_updated>August 03, 2026</last_updated>
+        <short_version>1.2609 (2301)</short_version>
+        <full_version>1.2609.2301</full_version>
+        <last_updated>September 25, 2026</last_updated>
         <min_os>14.0</min_os>
-        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2608.0301_Updater.pkg</update_download>
-        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2608.0301_Updater.pkg</latest_download>
-        <sha1>N/A</sha1>
-        <sha256>d8633efb969c3b7a429b9f1a4e294ce1092ac95b05ee11c10848943d88c81364</sha256>
+        <update_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2609.2301_Updater.pkg</update_download>
+        <latest_download>https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_365_Copilot_universal_1.2609.2301_Updater.pkg</latest_download>
+        <sha1>b72165f580005442002e972bd113677675b827de</sha1>
+        <sha256>01899e641e6f3da154fd80ec6b9dbfc808d3aec195b4e5aae19b86333e708ff3</sha256>
     </package>
     <package>
         <name>MAU</name>

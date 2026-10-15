@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 15, 2026 03:39 PM EDT</last_updated>
+	<last_updated>October 15, 2026 06:52 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -82,44 +82,33 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>PocketServer: Folder Sharing</application_name>
-		<bundleId>com.baonguyen.PocketServer</bundleId>
-		<currentVersionReleaseDate>October 05, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/07/b9/ac07b961-4e94-30d8-f09d-06286f2598e4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.6</minimumOsVersion>
-		<releaseNotes>HTTPS support: Encrypt File Sharing and Folder Sharing connections with an optional HTTPS toggle in each server's settings. Browsers will show a warning the first time, which is expected for local servers.</releaseNotes>
-		<version>2.0.0</version>
-		<app_store_url>https://apps.apple.com/us/app/pocketserver-folder-sharing/id6743850070?uo=4</app_store_url>
+		<application_name>ShareMe: File Sharing &amp; MeDrop</application_name>
+		<bundleId>com.sharedrop.wifiShare</bundleId>
+		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>Bug fixes</releaseNotes>
+		<version>1.0.8</version>
+		<app_store_url>https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>
 		<application_name>Windows App</application_name>
 		<bundleId>com.microsoft.rdc.macos</bundleId>
-		<currentVersionReleaseDate>September 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/9f/4a/969f4a04-6289-d352-93f7-3f69f70f995f/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>October 15, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/34/52/3534528e-f77f-37c8-458c-e4c74c913cfe/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>In this release we made the following updates to address issues with RemoteApp connections:
-
-• Resolved an issue where the secure desktop window would appear empty while connecting to a remote app when using multiple monitors.
-• Fixed mispaints that occurred if advanced RemoteFX graphics were not being used to render remote apps.
-
-We also fixed some other bugs:
-
-• Fixed issues with ALT-based shortcuts (such as ALT+ENTER and ALT+UP ARROW) in Unicode keyboard mode.
-• Resolved modifier-key state that could interfere with subsequent SHIFT-based mouse click selections and keyboard shortcuts.
-• Fixed a startup hang that prevented command-line operations from completing.
-• Handled connection failures caused by saved credentials containing a domain but no username (users will be prompted to correct invalid credentials).
-
-In addition, we made improvements to enhance diagnostics insights:
-
-• Improved classification of sign-in errors to better distinguish access restrictions from internal authentication failures.
-• Improved connection and workspace diagnostics by identifying whether a signed-in Entra account is a home or guest account.
-• Fixed an issue where UDP connection drops caused by network instability were incorrectly classified.
-
-We have also added a toggle to enable WebAuthn redirection for AVD and Windows 365-based connections (Settings &gt; General &gt; Use WebAuthn redirection). Individual PC connections can be opted out of WebAuthn redirection by configuring published PC custom settings (under the Devices &amp; Audio tab).
-
+		<releaseNotes>In this release we made the following updates:
+ 
+• Added a confirmation dialog for RDP file-based connections, showing the remote PC name and shared local resources.
+• Prevented duplicate desktop sessions when the same connection is launched in quick succession.
+• Improved stability when pinning, unpinning, and reordering apps and devices in the Connection Center.
+• Fixed an issue that could cause the app to become unresponsive when deleting a workspace.
+• Improved reliability when initiating multiple Microsoft Entra ID-authenticated connections concurrently.
+• Made targeted security fixes for clipboard redirection, remote session watermarking, certificate parsing, and RDP licensing.
+ 
 If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</releaseNotes>
-		<version>11.4.3</version>
+		<version>11.4.4</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app/id1295203466?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

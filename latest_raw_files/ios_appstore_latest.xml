@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 16, 2026 11:09 AM EDT</last_updated>
+	<last_updated>October 16, 2026 03:14 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -67,23 +67,31 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>October 12, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3a/be/e23abe0c-74d5-fc43-3c2d-36b1a6a87dde/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/9e/02/e29e02f8-152b-019b-1431-b7ea0dab357f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This is the last version of the OneDrive iOS and iPadOS apps that can be installed on devices with iOS 18 or iPadOS 18. The next one will only support iOS 26 and 27 and iPadOS 26 and 27.</releaseNotes>
-		<version>18.12.2</version>
+		<version>18.12.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
-		<application_name>Link to Windows</application_name>
-		<bundleId>com.microsoft.LinkToWindows</bundleId>
-		<currentVersionReleaseDate>October 08, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/35/889235b0-e29c-8649-a6ec-ba30e0b4280d/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.6</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>1.26092.10.0</version>
-		<app_store_url>https://apps.apple.com/us/app/link-to-windows/id6443686328?uo=4</app_store_url>
+		<application_name>Windows App Mobile</application_name>
+		<bundleId>com.microsoft.rdc.ios</bundleId>
+		<currentVersionReleaseDate>October 14, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/2d/97/ed2d974b-dad4-2dea-7696-8f32a0d8b9dd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>26.0</minimumOsVersion>
+		<releaseNotes>This update includes security, connection reliability, and session-switching improvements:
+ 
+• Resolved an issue where relaunching an active PC connection could switch to an existing remote app session.
+• Fixed the Connection Center active connection preview so it reflects and reopens the most recently visited session.
+• Improved handling of missing or invalid saved usernames to help prevent connection failures.
+• Improved authentication reliability when starting multiple connections and refined sign-in error handling.
+• Made targeted security fixes for clipboard redirection, remote session watermarking, certificate parsing, and RDP licensing.
+ 
+If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
+		<version>11.3.9</version>
+		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Defender Security</name>
@@ -460,14 +468,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Copilot</application_name>
-		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>October 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/c3/21/f0c32163-e21b-fbfd-ba3f-1cf01c8a2d33/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft Word</application_name>
+		<bundleId>com.microsoft.Office.Word</bundleId>
+		<currentVersionReleaseDate>October 12, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/6b/ae/cd6baec4-0e48-0ea3-df3a-679aaf776b16/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.115</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
+		<version>2.114.5</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

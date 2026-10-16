@@ -1,4 +1,4 @@
-last_updated: October 16, 2026 01:23 AM EDT
+last_updated: October 16, 2026 11:09 AM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -64,23 +64,14 @@ packages:
     version: 18.12.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
-    application_name: Windows App Mobile
-    bundleId: com.microsoft.rdc.ios
-    currentVersionReleaseDate: October 14, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/2d/97/ed2d974b-dad4-2dea-7696-8f32a0d8b9dd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '26.0'
-    releaseNotes: "This update includes security, connection reliability, and session-switching\
-      \ improvements:\n \n\u2022 Resolved an issue where relaunching an active PC\
-      \ connection could switch to an existing remote app session.\n\u2022 Fixed the\
-      \ Connection Center active connection preview so it reflects and reopens the\
-      \ most recently visited session.\n\u2022 Improved handling of missing or invalid\
-      \ saved usernames to help prevent connection failures.\n\u2022 Improved authentication\
-      \ reliability when starting multiple connections and refined sign-in error handling.\n\
-      \u2022 Made targeted security fixes for clipboard redirection, remote session\
-      \ watermarking, certificate parsing, and RDP licensing.\n \nIf you encounter\
-      \ any errors, you can contact us via Settings > Submit Feedback."
-    version: 11.3.9
-    app_store_url: https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4
+    application_name: Link to Windows
+    bundleId: com.microsoft.LinkToWindows
+    currentVersionReleaseDate: October 08, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/35/889235b0-e29c-8649-a6ec-ba30e0b4280d/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '16.6'
+    releaseNotes: Bug fixes and performance improvements
+    version: 1.26092.10.0
+    app_store_url: https://apps.apple.com/us/app/link-to-windows/id6443686328?uo=4
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx

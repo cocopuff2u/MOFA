@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 16, 2026 01:23 AM EDT</last_updated>
+	<last_updated>October 16, 2026 11:09 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -76,22 +76,14 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>iOS Microsoft Windows App Mobile</name>
-		<application_name>Windows App Mobile</application_name>
-		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>October 14, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/2d/97/ed2d974b-dad4-2dea-7696-8f32a0d8b9dd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>26.0</minimumOsVersion>
-		<releaseNotes>This update includes security, connection reliability, and session-switching improvements:
- 
-• Resolved an issue where relaunching an active PC connection could switch to an existing remote app session.
-• Fixed the Connection Center active connection preview so it reflects and reopens the most recently visited session.
-• Improved handling of missing or invalid saved usernames to help prevent connection failures.
-• Improved authentication reliability when starting multiple connections and refined sign-in error handling.
-• Made targeted security fixes for clipboard redirection, remote session watermarking, certificate parsing, and RDP licensing.
- 
-If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.3.9</version>
-		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
+		<application_name>Link to Windows</application_name>
+		<bundleId>com.microsoft.LinkToWindows</bundleId>
+		<currentVersionReleaseDate>October 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/35/889235b0-e29c-8649-a6ec-ba30e0b4280d/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>16.6</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>1.26092.10.0</version>
+		<app_store_url>https://apps.apple.com/us/app/link-to-windows/id6443686328?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Defender Security</name>

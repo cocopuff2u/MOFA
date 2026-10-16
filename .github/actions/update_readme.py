@@ -227,9 +227,9 @@ def generate_ios_table(ios_packages):
     logging.info("Generating iOS AppStore table content")
 
     table_content = """
-## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft iOS AppStore Packages
+## iOS App Store
 
-<sup>_Last Updated: <code style="color : mediumseagreen">{ios_last_updated}</code> [**_Raw XML_**](latest_raw_files/ios_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/ios_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/ios_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>🟢 Updated <code>{ios_last_updated}</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -249,9 +249,9 @@ def generate_macos_table(macos_packages):
     logging.info("Generating macOS AppStore table content")
 
     table_content = """
-## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft MacOS AppStore Packages
+## Mac App Store
 
-<sup>_Last Updated: <code style="color : mediumseagreen">{macos_last_updated}</code> [**_Raw XML_**](latest_raw_files/macos_appstore_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_appstore_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_appstore_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>🟢 Updated <code>{macos_last_updated}</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -289,11 +289,11 @@ def generate_other_table(other_packages):
     logging.info("Generating Other tools table content")
 
     table_content = """
-## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft Other Tools Packages
+## Other Microsoft apps
 
-<sup>_Some of these tools are also available via [Homebrew](https://brew.sh); the versions below reflect the latest official Microsoft releases._</sup>
+<sup>Microsoft tools outside the Office suite, from GitHub releases, Microsoft's CDN or Homebrew. Some are Homebrew-only; the versions below are the latest official releases.</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">{other_last_updated}</code> [**_Raw XML_**](latest_raw_files/macos_other_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_other_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_other_latest.json) (Automatically Updated every 4 hours)_</sup>
+<sup>🟢 Updated <code>{other_last_updated}</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -322,7 +322,7 @@ def generate_other_table(other_packages):
 
     # SHA256 table for packages with direct downloads
     table_content += """
-### SHA256 Information Table
+### SHA256 hashes
 
 | **Product Package** | **Download** | **SHA256** |
 |----------------------|-----------------|------------|
@@ -356,44 +356,56 @@ def generate_readme_content(global_last_updated, packages, ios_packages, macos_p
     macos_table = generate_macos_table(macos_packages).format(macos_last_updated=macos_last_updated)
     other_table = generate_other_table(other_packages).format(other_last_updated=other_last_updated)
 
-    content = f"""# **MOFA**
-**M**icrosoft **O**verview **F**eed for **A**pple
+    content = f"""<div align="center">
 
-<img src=".github/images/logo_Mofa_NoBackground.png" alt="MOFA Image" width="200">
+<a href="https://mofa.cocolabs.dev"><img src=".github/branding/github-readme-banner-2400x600.png" alt="MOFA - Microsoft Overview Feed For Apple" width="100%"></a>
 
-Welcome to the **MOFA** repository! This resource offers Microsoft Office downloads for macOS, comprehensive data feeds for all iOS, Mac App Store, and other Microsoft apps, along with tools and documentation links to help Mac admins manage and repair Microsoft products on Apple platforms. Feeds are automatically updated from XML and JSON links directly from Microsoft.
+<br>
 
-Building on the legacy of the now-defunct [**MacAdmins.software**](https://macadmins.software), MOFA provides a comprehensive and up-to-date solution. Special thanks to [**Paul Bowden**](https://github.com/pbowden-msft) for his exceptional contributions to the Mac Admins community.
-
-We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>🌟 Explore the MOFA Website 🌟</th>
-    <th>⭐ Support the Project – Give it a Star! ⭐</th>
-  </tr>
-  <tr>
-    <td align="center">🌐 <strong>Visit:</strong> <a href="https://mofa.cocolabs.dev">mofa.cocolabs.dev</a> 🌐</td>
-    <td align="center">
-      <a href="https://github.com/cocopuff2u/mofa">
-        <img src="https://img.shields.io/github/stars/cocopuff2u/mofa" alt="GitHub Repo Stars">
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://mofa.cocolabs.dev"><img src="https://img.shields.io/badge/website-mofa.cocolabs.dev-037F8C?style=for-the-badge&labelColor=0B2E36" alt="Website"></a> <a href="https://github.com/cocopuff2u/MOFA/stargazers"><img src="https://img.shields.io/github/stars/cocopuff2u/MOFA?style=for-the-badge&color=046672&labelColor=0B2E36" alt="GitHub stars"></a> <a href="https://mofa.cocolabs.dev/standalone_apps/standalone_raw_feeds_en#rss-feeds"><img src="https://img.shields.io/badge/RSS-11_feeds-BF1304?style=for-the-badge&labelColor=0B2E36" alt="RSS feeds"></a> <a href="https://macadmins.org/slack"><img src="https://img.shields.io/badge/Mac_Admins-Slack-6F890B?style=for-the-badge&labelColor=0B2E36" alt="Mac Admins Slack"></a>
 
 </div>
 
+**MOFA** tracks every Microsoft app on macOS and iOS: current, preview and beta versions, SHA hashes, update and CVE history, and direct download links to Microsoft's CDN. Everything is scraped from Microsoft and Apple on a schedule and published here as XML, YAML and JSON, so you can read the tables below or point your own tooling at the feeds.
 
+> **Prefer a website?** All of this, plus guides, configuration profiles and repair tools, is at **[mofa.cocolabs.dev](https://mofa.cocolabs.dev)**. The site is built from the same feeds, so it is never behind this README.
 
-## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Microsoft Standalone Packages
+## What's in here
 
-<sup>All links below direct to Microsoft's official Content Delivery Network (CDN).</sup>
-<sup>The links provided will always download the latest version offered by Microsoft. However, the version information listed below reflects the version available at the time of this update.</sup>
+| Section | What you get | On the website |
+|---|---|---|
+| [Standalone packages](#standalone-packages) | Office, Teams, OneDrive, Edge, Defender, Intune, Windows App and more, with SHA256 hashes and the last builds for older macOS | [Current](https://mofa.cocolabs.dev/standalone_apps/standalone_current_version_en) · [Preview](https://mofa.cocolabs.dev/standalone_apps/standalone_preview_version_en) · [Beta](https://mofa.cocolabs.dev/standalone_apps/standalone_beta_version_en) · [Update history](https://mofa.cocolabs.dev/standalone_apps/standalone_update_history_en) · [CVE history](https://mofa.cocolabs.dev/standalone_apps/standalone_cve_history_en) |
+| [Other Microsoft apps](#other-microsoft-apps) | PowerShell, .NET SDKs, Azure tooling, Bicep and sqlcmd | [Other apps](https://mofa.cocolabs.dev/standalone_apps/macos_standalone_other_readme) |
+| [Mac App Store](#mac-app-store) | Versions and bundle IDs for Microsoft's Mac App Store apps | [Mac App Store](https://mofa.cocolabs.dev/macos_appstore/macos_appstore_current_version) |
+| [iOS App Store](#ios-app-store) | Versions and bundle IDs for Microsoft's iOS apps | [iOS App Store](https://mofa.cocolabs.dev/ios_appstore/ios_appstore_current_version) |
+| [Raw feeds](#raw-feeds) | Every dataset as XML, YAML and JSON, plus RSS | [Raw feeds](https://mofa.cocolabs.dev/standalone_apps/standalone_raw_feeds_en) |
+| [Tools and guides](#tools-and-guides) | Repair tools, `.mobileconfig` profiles, preference keys, how-to guides | [MacOS Tools](https://mofa.cocolabs.dev/macos_tools/microsoft_office_repair_tools) |
 
-<sup>_Last Updated: <code style="color : mediumseagreen">{global_last_updated}</code> [**_Raw XML_**](latest_raw_files/macos_standalone_latest.xml) [**_Raw YAML_**](latest_raw_files/macos_standalone_latest.yaml) [**_Raw JSON_**](latest_raw_files/macos_standalone_latest.json) (Automatically Updated every 1 hour)_</sup>
+## Raw feeds
+
+Machine-readable copies of everything on this page live in [`latest_raw_files/`](latest_raw_files). Each dataset is written in three formats and refreshed on the schedule shown next to its table.
+
+| Dataset | | | |
+|---|---|---|---|
+| Standalone packages, current | [<kbd>XML</kbd>](latest_raw_files/macos_standalone_latest.xml) | [<kbd>YAML</kbd>](latest_raw_files/macos_standalone_latest.yaml) | [<kbd>JSON</kbd>](latest_raw_files/macos_standalone_latest.json) |
+| Standalone packages, preview | [<kbd>XML</kbd>](latest_raw_files/macos_standalone_preview.xml) | [<kbd>YAML</kbd>](latest_raw_files/macos_standalone_preview.yaml) | [<kbd>JSON</kbd>](latest_raw_files/macos_standalone_preview.json) |
+| Standalone packages, beta | [<kbd>XML</kbd>](latest_raw_files/macos_standalone_beta.xml) | [<kbd>YAML</kbd>](latest_raw_files/macos_standalone_beta.yaml) | [<kbd>JSON</kbd>](latest_raw_files/macos_standalone_beta.json) |
+| Office update history | [<kbd>XML</kbd>](latest_raw_files/macos_standalone_update_history.xml) | [<kbd>YAML</kbd>](latest_raw_files/macos_standalone_update_history.yaml) | [<kbd>JSON</kbd>](latest_raw_files/macos_standalone_update_history.json) |
+| Office CVE history | [<kbd>XML</kbd>](latest_raw_files/mac_standalone_cve_history.xml) | [<kbd>YAML</kbd>](latest_raw_files/mac_standalone_cve_history.yaml) | [<kbd>JSON</kbd>](latest_raw_files/mac_standalone_cve_history.json) |
+| Teams update history | [<kbd>XML</kbd>](latest_raw_files/teams_update_history.xml) | [<kbd>YAML</kbd>](latest_raw_files/teams_update_history.yaml) | [<kbd>JSON</kbd>](latest_raw_files/teams_update_history.json) |
+| OneDrive, all rings | [<kbd>XML</kbd>](latest_raw_files/macos_standalone_onedrive_all.xml) | [<kbd>YAML</kbd>](latest_raw_files/macos_standalone_onedrive_all.yaml) | [<kbd>JSON</kbd>](latest_raw_files/macos_standalone_onedrive_all.json) |
+| Edge, all channels | [<kbd>XML</kbd>](latest_raw_files/macos_standalone_edge_all.xml) | [<kbd>YAML</kbd>](latest_raw_files/macos_standalone_edge_all.yaml) | [<kbd>JSON</kbd>](latest_raw_files/macos_standalone_edge_all.json) |
+| Other Microsoft apps | [<kbd>XML</kbd>](latest_raw_files/macos_other_latest.xml) | [<kbd>YAML</kbd>](latest_raw_files/macos_other_latest.yaml) | [<kbd>JSON</kbd>](latest_raw_files/macos_other_latest.json) |
+| Mac App Store | [<kbd>XML</kbd>](latest_raw_files/macos_appstore_latest.xml) | [<kbd>YAML</kbd>](latest_raw_files/macos_appstore_latest.yaml) | [<kbd>JSON</kbd>](latest_raw_files/macos_appstore_latest.json) |
+| iOS App Store | [<kbd>XML</kbd>](latest_raw_files/ios_appstore_latest.xml) | [<kbd>YAML</kbd>](latest_raw_files/ios_appstore_latest.yaml) | [<kbd>JSON</kbd>](latest_raw_files/ios_appstore_latest.json) |
+
+<sup>RSS: one feed per standalone app in [`latest_raw_files/macos_standalone_rss/`](latest_raw_files/macos_standalone_rss). Links on the [website](https://mofa.cocolabs.dev/standalone_apps/standalone_raw_feeds_en#rss-feeds).</sup>
+
+## Standalone packages
+
+<sup>Direct links to Microsoft's CDN. A link always downloads the newest build Microsoft offers, so the version shown is the one available at the time of the last update.</sup>
+
+<sup>🟢 Updated <code>{global_last_updated}</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -428,7 +440,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Quick Assist Installer**<br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Quick Assist', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Quick Assist', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Quick Assist', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.quickassist` | <a href="{get_standalone_package_detail(packages, 'Quick Assist', 'full_update_download')}"><img src=".github/images/quickassist.png" alt="Download Image" width="80"></a>|
 | **Remote Help Installer**<br><br>_**Last Update:** `{get_standalone_package_detail(packages, 'Remote Help', 'last_updated')}`_<br> | **Version:**<br>`{get_standalone_package_detail(packages, 'Remote Help', 'short_version')}`<br><br>**Min OS:**<br>`{get_standalone_package_detail(packages, 'Remote Help', 'min_os')}`<br><br>**CFBundle ID:**<br>`com.microsoft.remotehelp` | <a href="{get_standalone_package_detail(packages, 'Remote Help', 'full_update_download')}"><img src=".github/images/remotehelp.png" alt="Download Image" width="80"></a>|
 
-### SHA256 Information Table
+### SHA256 hashes
 
 | **Product Package** | **Download** | **SHA256** |
 |----------------------|-----------------|------------|
@@ -463,9 +475,11 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Quick Assist** | <a href="{get_standalone_package_detail(packages, 'Quick Assist', 'full_update_download')}"><img src=".github/images/quickassist.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'Quick Assist', 'full_update_sha256')}` |
 | **Remote Help** | <a href="{get_standalone_package_detail(packages, 'Remote Help', 'full_update_download')}"><img src=".github/images/remotehelp.png" alt="Download Image" width="80"></a> | `{get_standalone_package_detail(packages, 'Remote Help', 'full_update_sha256')}` |
 
-<sup>_**For items without specific release notes, please refer to the release notes for the entire suite.**_</sup> <br>
+<sup>Verify a download with <code>shasum -a 256 /path/to/file.pkg</code> and compare it to the table. Guide: [How to SHA256](guides/How_To_SHA256.md). Apps without their own release notes follow the Office suite's. SHA1 and preview/beta hashes are on the [website](https://mofa.cocolabs.dev/standalone_apps/standalone_sha256_hashes_en).</sup>
 
-<sup>_<img src=".github/images/sha-256.png" alt="Download Image" width="15">[**How to Get the SHA256 Guide**](/guides/How_To_SHA256.md)<img src=".github/images/sha-256.png" alt="Download Image" width="15">_</sup>
+### Last supported versions
+
+<sup>The final build of the Office suite for each macOS that Microsoft no longer supports.</sup>
 
 | **Last Supported MacOS** | **File Name** | **Version** | **Download** |
 |---------------------------|----------------|-------------|--------------|
@@ -479,9 +493,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | macOS 10.15 Catalina<br><img src=".github/images/MacOS_Catalina_logo.png" alt="macOS Icon" width="60"> | Microsoft BusinessPro Suite Installer| `16.66` | <a href="https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22100900_BusinessPro_Installer.pkg"><img src=".github/images/suite.png" alt="Download Image" width="80"></a> |
 
 
-|      Update History                   |          Microsoft Update Channels               |
-|-------------------------|-------------------------|
-| <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"> [Microsoft 365/2021/2024](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac) | <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20">  [Microsoft 365 Apps](https://learn.microsoft.com/en-us/microsoft-365-apps/updates/overview-update-channels) |
+<sup>Related: <a href="https://mofa.cocolabs.dev/standalone_apps/standalone_update_history_en"><kbd>Office update history</kbd></a> <a href="https://mofa.cocolabs.dev/standalone_apps/standalone_cve_history_en"><kbd>CVE history</kbd></a> <a href="https://mofa.cocolabs.dev/standalone_apps/teams_update_history_en"><kbd>Teams update history</kbd></a> <a href="https://mofa.cocolabs.dev/standalone_apps/standalone_last_supported_versions_en"><kbd>Last supported versions</kbd></a> <a href="https://learn.microsoft.com/en-us/microsoft-365-apps/updates/overview-update-channels"><kbd>Microsoft update channels</kbd></a></sup>
 
 {other_table}
 
@@ -489,86 +501,38 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 {ios_table}
 
-## 🛠️ Microsoft Office Repair Tools & Scripts 🛠️
+## Tools and guides
 
-This section has been moved to the [MOFA website](https://mofa.cocolabs.dev/macos_tools/microsoft_office_repair_tools.html), where you'll find a **comprehensive list of Microsoft Office repair tools** designed to help troubleshoot and resolve common issues on macOS.  
+These moved to the website, where they are easier to browse and kept current. The source files still live in this repository.
 
-For additional community scripts, visit: [Community Scripts](https://mofa.cocolabs.dev/macos_tools/community_scripts.html).
+| | |
+|---|---|
+| **[Office repair tools](https://mofa.cocolabs.dev/macos_tools/microsoft_office_repair_tools)** | Reset and repair scripts for Office, Outlook, OneDrive, Teams and friends, including the archived Office Reset packages in [`office_reset_tools/`](office_reset_tools). |
+| **[Community scripts](https://mofa.cocolabs.dev/macos_tools/community_scripts)** | Scripts shared by Mac admins for installing, updating and troubleshooting Microsoft apps. |
+| **[Configuration profiles](https://mofa.cocolabs.dev/macos_tools/preconfigured_profiles)** | Ready-to-deploy `.mobileconfig` files for Microsoft AutoUpdate deadlines and privacy prompts. Source in [`mobileconfig_profiles/`](mobileconfig_profiles). |
+| **[Preference keys](https://mofa.cocolabs.dev/macos_tools/profile_breakdown)** | How Office plist keys work, with the community preference list and Microsoft's documentation. |
+| **Guides** | [How to plist](guides/How_To_plist.md) · [How to SHA256](guides/How_To_SHA256.md) |
 
-## **Microsoft Office Preference Keys**
+## Get involved
 
-PLIST (Property List) files are used by macOS to store settings and preferences for apps, services, and system configurations, allowing Mac admins to:
+MOFA is built in the open by Mac admins, for Mac admins. You don't need to be a developer to help.
 
-- **Customize deployments**
-- **Enforce policies**
-- **Manage application behavior efficiently**
+| | |
+|---|---|
+| 🐛 **[Report an issue](https://github.com/cocopuff2u/MOFA/issues)** | A wrong version, a dead link, a missing app. Issues are the fastest way to get it fixed. |
+| 💡 **[Suggest something](https://github.com/cocopuff2u/MOFA/discussions)** | New feeds, new apps to track, or anything that would make MOFA more useful. |
+| 🔀 **Send a pull request** | Fork the repo, make your change and open a PR. The generators live in [`.github/actions/`](.github/actions). |
+| 💬 **[Mac Admins Slack](https://macadmins.org/slack)** | Say hi to `cocopuff2u`, or join `#microsoft-office`, `#microsoft-autoupdate`, `#microsoft-intune`, `#microsoft-windows-app` and `#microsoft-teams`. |
+| ⭐ **[Star the repo](https://github.com/cocopuff2u/MOFA)** | It helps other admins find the project. |
+| ☕ **[Buy me a coffee](https://www.buymeacoffee.com/cocopuff2u)** | Covers the domain and hosting; anything left over goes back to the Mac Admins community. |
 
-For a detailed guide on how to create and manage PLIST files, refer to the [How to Plist Guide](/guides/How_To_plist.md).
+## Thanks
 
-### **Recommended Resources:**
+MOFA picks up where the much-missed [MacAdmins.software](https://macadmins.software) left off. Special thanks to [Paul Bowden](https://github.com/pbowden-msft) for years of exceptional work for the Mac Admins community, and to everyone who has [contributed](https://mofa.cocolabs.dev/about_support/team) since.
 
-#### **<img src=".github/images/MAF_Badge_4c.png" alt="Download Image" width="30"> Mac Admin Community-Driven Preferences List (Highly Recommended!)**:
-- [View Google Doc](https://docs.google.com/spreadsheets/d/1ESX5td0y0OP3jdzZ-C2SItm-TUi-iA_bcHCBvaoCumw/edit?gid=0#gid=0)
+Useful background reading: [Microsoft versioning explained](https://macmule.com/2018/09/24/microsoft-office-for-mac-changes-versioning-shenanigans/) · [Deployment options for Office for Mac](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/deployment-options-for-office-for-mac) · [Deploying from the Mac App Store](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/deploy-mac-app-store) · [Jamf: managing Microsoft Office](https://learn.jamf.com/en-US/bundle/technical-paper-microsoft-office-current/page/User_Experience_Configuration.html)
 
-#### **<img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"> Official Microsoft Documentation:**
-
-- [General PLIST Preferences](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/deploy-preferences-for-office-for-mac)
-- [App-Specific Preferences](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/set-preference-per-app)
-- [Outlook Preferences](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/preferences-outlook)
-- [Office Suite Preferences](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/preferences-office)
-
-## **Contributing and Providing Feedback**
-
-We warmly welcome your contributions and feedback to **macadmins_msft**! Here’s how you can get involved:
-
-### 📋 **Report Issues**
-Have a bug to report or a feature to request? Submit an issue on our [GitHub Issues page](https://github.com/cocopuff2u/macadmins_msft/issues).
-
-### 💬 **Join the Discussion**
-Connect and collaborate in the [GitHub Discussions](https://github.com/cocopuff2u/macadmins_msft/discussions) or the [Mac Admins Slack Channel](https://macadmins.slack.com/).
-- **Reach Out Directly:** Contact me on Slack at `cocopuff2u` for direct collaboration or questions.
-- **New to Slack?** [Sign up here](https://join.slack.com/t/macadmins/shared_invite/zt-2tq3md5zr-jDtuUFHAFa8CIBwPhpFfFQ).
-- **Existing User?** [Sign in here](https://macadmins.slack.com/).
-- **Explore Slack Channels:**
-    - `#microsoft-office`
-    - `#microsoft-autoupdate`
-    - `#microsoft-intune`
-    - `#microsoft-windows-app`
-    - `#microsoft-office-365`
-    - `#microsoft-teams`
-
-### ✉️ **Contact via Email**
-For inquiries, reach out directly at [cocopuff2u@yahoo.com](mailto:cocopuff2u@yahoo.com).
-
-### 🛠️ **Contribute Directly**
-Fork the repository, make your changes, and submit a pull request—every contribution counts!
-
-### 💡 **Share Your Feedback**
-Help us improve! Share your ideas and suggestions in the [GitHub Discussions](https://github.com/cocopuff2u/macadmins_msft/discussions) or via email.
-
-### 🌟 **Support the Project**
-Your contributions directly support the costs of securing a domain name for the upcoming site, with the remainder donated to the Mac Admins community. This project isn’t about profit—it's about giving back to the community and covering minor expenses to make this resource more accessible.  
-
-If you’re feeling extra generous, leave a note to let me know your support is for my coffee fund—it’s always appreciated! Check the button below to support MOFA:
-
-<a href="https://www.buymeacoffee.com/cocopuff2u">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Support%20This%20Project&emoji=%F0%9F%92%BB&slug=cocopuff2u&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"
-    alt="Support this project"/>
-</a>
-
-## **Helpful Links**
-
-Below are a list of helpful links.
-- **Microsoft Versioning Shenanigans**: [View Link](https://macmule.com/2018/09/24/microsoft-office-for-mac-changes-versioning-shenanigans/)
-- **Microsoft Deployment Options**: [View Link](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/deployment-options-for-office-for-mac)
-- **Microsoft Deploy From App Store**: [View Link](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/deploy-mac-app-store)
-- **JAMF Technical Paper: Managing Microsoft Office**: [View Link](https://learn.jamf.com/en-US/bundle/technical-paper-microsoft-office-current/page/User_Experience_Configuration.html)
-
-## **Trademarks**
-
-- **Microsoft 365, Office 365, Excel, PowerPoint, Outlook, OneDrive, OneNote, Teams** are trademarks of Microsoft Corporation.
-- **Mac** and **macOS** are trademarks of Apple Inc.
-- Other names and brands may be claimed as the property of their respective owners.
+<sub>Microsoft 365, Office 365, Excel, PowerPoint, Outlook, OneDrive, OneNote, Teams and Edge are trademarks of Microsoft Corporation. Mac, macOS and iOS are trademarks of Apple Inc. Other names and brands may be claimed as the property of their respective owners. MOFA is a community project and is not affiliated with Microsoft or Apple.</sub>
 """
     logging.info("README content generated successfully")
 

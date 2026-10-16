@@ -51,7 +51,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - Office Suite RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac",
         "item_title": "New Microsoft Office Suite Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "MAU",
@@ -60,7 +60,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - MAU RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-history-microsoft-autoupdate",
         "item_title": "New Microsoft AutoUpdate Released",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "Word",
@@ -69,7 +69,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - Word RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac",
         "item_title": "New Microsoft Word Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "Excel",
@@ -78,7 +78,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - Excel RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac",
         "item_title": "New Microsoft Excel Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "PowerPoint",
@@ -87,7 +87,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - PowerPoint RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac",
         "item_title": "New Microsoft PowerPoint Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "Outlook",
@@ -96,7 +96,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - Outlook RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac",
         "item_title": "New Microsoft Outlook Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "OneNote",
@@ -105,7 +105,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - OneNote RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac",
         "item_title": "New Microsoft OneNote Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "Teams",
@@ -114,7 +114,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - Teams RSS Feed",
         "release_notes_url": "https://support.microsoft.com/en-us/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de",
         "item_title": "New Microsoft Teams Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "Intune",
@@ -123,7 +123,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - Company Portal RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new",
         "item_title": "New Microsoft Company Portal Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "Defender For Endpoint",
@@ -132,7 +132,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - Defender For Endpoint RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/defender-endpoint/mac-whatsnew",
         "item_title": "New Microsoft Defender For Endpoint Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     },
     {
         "name": "Windows App",
@@ -141,7 +141,7 @@ PACKAGES = [
         "channel_description": "Microsoft Office Feed for Apple - Windows App RSS Feed",
         "release_notes_url": "https://learn.microsoft.com/en-us/windows-app/whats-new?tabs=macos",
         "item_title": "New Microsoft Windows App Release",
-        "image_url": "https://mofa.cocolabs.dev/images/logo_Mofa_NoBackground.png",
+        "image_url": "https://mofa.cocolabs.dev/images/mofa-icon-1024.png",
     }
 ]
 

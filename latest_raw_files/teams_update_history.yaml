@@ -1,0 +1,2933 @@
+last_scan_date: October 16, 2026 03:00 PM EDT
+mac:
+  name: New Teams for Mac
+  cloud: Public
+  releases:
+  - date: October 07, 2026
+    version: 26261.303.5165.1465
+    slimcore_version: 2026.36.0-1.4-h5655d
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26261.303.5165.1465/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 29, 2026
+    version: 26246.1709.5146.8945
+    slimcore_version: 2026.34.0-1.12-h93a62
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26246.1709.5146.8945/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 23, 2026
+    version: 26225.1708.5124.9749
+    slimcore_version: 2026.31.0-1.16-hecde1
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26225.1708.5124.9749/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 19, 2026
+    version: 26213.1006.5011.1671
+    slimcore_version: 2026.29.0-1.10-h6b5a5
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26213.1006.5011.1671/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 03, 2026
+    version: 26198.202.4929.7171
+    slimcore_version: 2026.27.0-1.7-h83468
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26198.202.4929.7171/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 22, 2026
+    version: 26183.1901.4874.5228
+    slimcore_version: 2026.24.0-1.5-h5445c
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26183.1901.4874.5228/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 01, 2026
+    version: 26163.407.4839.8659
+    slimcore_version: 2026.22.0-1.1-h71c91
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26163.407.4839.8659/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 17, 2026
+    version: 26149.1804.4788.5681
+    slimcore_version: 2026.20.0-1.7-hd7e43
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26149.1804.4788.5681/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 08, 2026
+    version: 26134.1610.4759.7759
+    slimcore_version: 2026.18.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26134.1610.4759.7759/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 29, 2026
+    version: 26120.3106.4725.800
+    slimcore_version: 2026.16.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26120.3106.4725.800/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 18, 2026
+    version: 26106.2113.4690.1073
+    slimcore_version: 2026.12.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26106.2113.4690.1073/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 30, 2026
+    version: 26093.311.4599.3126
+    slimcore_version: 2026.12.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26093.311.4599.3126/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 22, 2026
+    version: 26072.608.4595.8484
+    slimcore_version: 2026.7.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26072.608.4595.8484/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 29, 2026
+    version: 26059.604.4471.2584
+    slimcore_version: 2026.7.0-1.4-h89be7
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26059.604.4471.2584/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 19, 2026
+    version: 26043.2109.4484.3337
+    slimcore_version: 2026.5.0-1.4-h812a9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26043.2109.4484.3337/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 19, 2026
+    version: 26032.605.4378.6183
+    slimcore_version: 2026.3.0-1.1-h61b92
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26032.605.4378.6183/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 05, 2026
+    version: 26015.1401.4272.1018
+    slimcore_version: 2025.49.0-1.8-hee8e9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26015.1401.4272.1018/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 30, 2026
+    version: 26004.403.4267.4118
+    slimcore_version: 2025.49.0-1.8-hee8e9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26004.403.4267.4118/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 11, 2026
+    version: 25331.1107.4213.8634
+    slimcore_version: 2025.45.0-1.3-hf2481
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25331.1107.4213.8634/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 20, 2025
+    version: 25306.805.4102.7211
+    slimcore_version: 2025.42.0-1.14-h01bb8
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25306.805.4102.7211/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 05, 2025
+    version: 25290.302.4044.3989
+    slimcore_version: 2025.40.0-1.5-h7866f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25290.302.4044.3989/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 21, 2025
+    version: 25275.2602.4021.9366
+    slimcore_version: 2025.38.0-1.8-h51f71
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25275.2602.4021.9366/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 07, 2025
+    version: 25255.703.3981.5698
+    slimcore_version: 2025.35.0-1.10-h8784f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25255.703.3981.5698/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 21, 2025
+    version: 25240.1603.3956.3103
+    slimcore_version: 2025.33.0-1.5-he6d52
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25240.1603.3956.3103/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 03, 2025
+    version: 25227.301.3887.7726
+    slimcore_version: 2025.31.0-1.1-h52db0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25227.301.3887.7726/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 19, 2025
+    version: 25212.2404.3875.1360
+    slimcore_version: 2025.29.0-1.7-h384ff
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25212.2404.3875.1360/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 05, 2025
+    version: 25198.1302.3822.1091
+    slimcore_version: 2025.27.0-1.8-h0ed35
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25198.1302.3822.1091/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 28, 2025
+    version: 25185.205.3812.7741
+    slimcore_version: 2025.25.0-1.17-hc396d
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25185.205.3812.7741/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 03, 2025
+    version: 25163.3001.3726.6503
+    slimcore_version: 2025.21.0-1.12-h57dac
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25163.3001.3726.6503/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 20, 2025
+    version: 25151.505.3727.5755
+    slimcore_version: 2025.20.0-1.7-h777ec
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25151.505.3727.5755/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 09, 2025
+    version: 25122.1207.3700.1444
+    slimcore_version: 2025.16.0-1.10-h07f04
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25122.1207.3700.1444/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 05, 2025
+    version: 25093.2105.3614.8220
+    slimcore_version: 2025.12.0-1.20-h26996
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25093.2105.3614.8220/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 21, 2025
+    version: 25079.2107.3576.1611
+    slimcore_version: 25079.2107.3576.1611
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25079.2107.3576.1611/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 06, 2025
+    version: 25072.1704.3539.4369
+    slimcore_version: 2025.8.0-1.9-h82bda
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25072.1704.3539.4369/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 20, 2025
+    version: 25060.203.3471.5023
+    slimcore_version: 2025.7.0-1.09-h345dc
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25060.203.3471.5023/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 12, 2025
+    version: 25044.2406.3471.4570
+    slimcore_version: 2025.5.0-1.7-h51fb4
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25044.2406.3471.4570/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 28, 2025
+    version: 25031.1203.3429.7545
+    slimcore_version: 2025.03.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25031.1203.3429.7545/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 11, 2025
+    version: 25016.1904.3401.2239
+    slimcore_version: 2024.50.0-1.19-hf38aa
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25016.1904.3401.2239/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 06, 2025
+    version: 25016.1904.3401.2239
+    slimcore_version: 2024.50.0-1.19-hf38aa
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25016.1904.3401.2239/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 28, 2025
+    version: 25007.203.3361.6689
+    slimcore_version: 2024.50.0-1.7-hd751f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25007.203.3361.6689/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 23, 2025
+    version: 25007.203.3361.6689
+    slimcore_version: 2024.50.0-1.7-hd751f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25007.203.3361.6689/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 16, 2025
+    version: 24335.207.3345.5574
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.207.3345.5574/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 10, 2025
+    version: 24335.207.3345.5574
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.207.3345.5574/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 20, 2024
+    version: 24335.204.3298.2649
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.204.3298.2649/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 18, 2024
+    version: 24295.606.3238.6194
+    slimcore_version: 2024.41.0-1.3-h818b2
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24295.606.3238.6194/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 11, 2024
+    version: 24295.606.3238.6194
+    slimcore_version: 2024.41.01.03
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24295.606.3238.6194/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 01, 2024
+    version: 24277.3502.3161.3007
+    slimcore_version: 2024.39.01.12
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24277.3502.3161.3007/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 11, 2024
+    version: 24256.2503.3156.9924
+    slimcore_version: 2024.36.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24256.2503.3156.9924/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 01, 2024
+    version: 24244.507.3125.3475
+    slimcore_version: 2024.34.01.4
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24244.507.3125.3475/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 23, 2024
+    version: 24231.509.3122.5539
+    slimcore_version: 2024.32.01.05
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24231.509.3122.5539/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 02, 2024
+    version: 24215.1002.3039.5089
+    slimcore_version: 2024.30.01.04
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24215.1002.3039.5089/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 07, 2024
+    version: 24193.1707.3028.4282
+    slimcore_version: 2024.27.01.10
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24193.1707.3028.4282/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 31, 2024
+    version: 24180.210.3001.6635
+    slimcore_version: 2024.25.01.06
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24180.210.3001.6635/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 10, 2024
+    version: 24165.1406.2974.9471
+    slimcore_version: 2024.23.01.03
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24165.1406.2974.9471/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 25, 2024
+    version: 24152.405.2925.6762
+    slimcore_version: 2024.19.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24152.405.2925.6762/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 17, 2024
+    version: 24137.2012.2930.9819
+    slimcore_version: 2024.19.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24137.2012.2930.9819/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 07, 2024
+    version: 24124.1412.2911.3341
+    slimcore_version: 2024.17.01.10
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24124.1412.2911.3341/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 21, 2024
+    version: 24102.2214.2869.7475
+    slimcore_version: 2024.14.01.41
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24102.2214.2869.7475/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 13, 2024
+    version: 24091.213.2852.3731
+    slimcore_version: 2024.10.01.20
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24091.213.2852.3731/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 16, 2024
+    version: 24074.2607.2799.9843
+    slimcore_version: 2024.09.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24074.2607.2799.9843/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 05, 2024
+    version: 24060.2809.2788.1256
+    slimcore_version: 2024.08.01.02
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24060.2809.2788.1256/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 27, 2024
+    version: 24046.2813.2770.1094
+    slimcore_version: 2024.05.01.14
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24046.2813.2770.1094/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 08, 2024
+    version: 24033.812.2721.9190
+    slimcore_version: 2024.04.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24033.812.2721.9190/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 14, 2024
+    version: 24004.1304.2655.7488
+    slimcore_version: 2023.50.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24004.1304.2655.7488/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 18, 2024
+    version: 23335.208.2601.834
+    slimcore_version: 2023.44.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23335.208.2601.834/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 11, 2024
+    version: 23320.3110.2622.1325
+    slimcore_version: 2023.44.01.03
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23320.3110.2622.1325/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 12, 2023
+    version: 23306.3408.2576.5406
+    slimcore_version: 2023.43.01.22
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23306.3408.2576.5406/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 17, 2023
+    version: 23285.3809.2525.961
+    slimcore_version: 2023.38.01.50
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23285.3809.2525.961/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 18, 2023
+    version: 23272.2708.2452.9689
+    slimcore_version: 2023.36.01.18
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23272.2708.2452.9689/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 04, 2023
+    version: 23247.720.2421.8365
+    slimcore_version: 2023.32.01.28
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23247.720.2421.8365/MicrosoftTeams.pkg
+    archive: 'false'
+ios:
+  name: Teams for iOS
+  cloud: Public
+  releases:
+  - date: August 24, 2026
+    version: 8.15.0 (100772026152401)
+    slimcore_version: 2026.21.01.15
+    rolling_out: 'false'
+  - date: August 13, 2026
+    version: 8.14.1 (100772026143003)
+    slimcore_version: 2026.21.01.15
+    rolling_out: 'false'
+  - date: August 07, 2026
+    version: 8.14.0 (100772026142304)
+    slimcore_version: 2026.21.01.15
+    rolling_out: 'false'
+  - date: July 30, 2026
+    version: 8.13.1 (100772026133701)
+    slimcore_version: 2026.21.01.15
+    rolling_out: 'false'
+  - date: July 24, 2026
+    version: 8.13.0 (100772026133102)
+    slimcore_version: 2026.21.01.15
+    rolling_out: 'false'
+  - date: July 14, 2026
+    version: 8.12.1 (100772026123502)
+    slimcore_version: 2026.16.01.27
+    rolling_out: 'false'
+  - date: July 07, 2026
+    version: 8.12.0 (100772026122702)
+    slimcore_version: 2026.16.01.26
+    rolling_out: 'false'
+  - date: June 29, 2026
+    version: 8.11.1 (100772026113402)
+    slimcore_version: 2026.16.01.26
+    rolling_out: 'false'
+  - date: June 22, 2026
+    version: 8.11.0 (100772026112402)
+    slimcore_version: 2026.16.01.26
+    rolling_out: 'false'
+  - date: June 17, 2026
+    version: 8.10.3 (100772026103505)
+    slimcore_version: 2026.16.01.26
+    rolling_out: 'false'
+  - date: June 16, 2026
+    version: 8.10.2 (100772026103401)
+    slimcore_version: 2026.16.01.24
+    rolling_out: 'false'
+  - date: June 11, 2026
+    version: 8.10.1 (100772026102901)
+    slimcore_version: 2026.16.01.24
+    rolling_out: 'false'
+  - date: June 05, 2026
+    version: 8.10.0 (100772026102401)
+    slimcore_version: 2026.16.01.24
+    rolling_out: 'false'
+  - date: May 27, 2026
+    version: 8.9.2 (100772026092901)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: May 25, 2026
+    version: 8.9.1 (100772026092601)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: May 21, 2026
+    version: 8.9.0 (100772026092302)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: May 15, 2026
+    version: 8.8.1 (100772026083002)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: May 08, 2026
+    version: 8.8.0 (100772026082301)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: April 30, 2026
+    version: 8.7.2 (100772026073701)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: April 29, 2026
+    version: 8.7.1 (100772026073502)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: April 23, 2026
+    version: 8.7.0 (100772026073002)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: April 15, 2026
+    version: 8.6.2 (100772026063606)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: April 08, 2026
+    version: 8.6.1 (100772026063001)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: April 03, 2026
+    version: 8.6.0 (100772026062401)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: March 23, 2026
+    version: 8.5.1 (100772026052702)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: March 18, 2026
+    version: 8.5.0 (100772026052301)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: March 09, 2026
+    version: 8.3.1 (100772026034201)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: March 02, 2026
+    version: 8.3.0 (100772026033201)
+    slimcore_version: 2026.02.01.06
+    rolling_out: 'false'
+  - date: February 25, 2026
+    version: 8.2.2 (100772026024401)
+    slimcore_version: 2025.49.01.13
+    rolling_out: 'false'
+  - date: February 19, 2026
+    version: 8.2.1 (100772026023602)
+    slimcore_version: 2025.49.01.13
+    rolling_out: 'false'
+  - date: February 12, 2026
+    version: 8.2.0 (100772026023004)
+    slimcore_version: 2025.49.01.13
+    rolling_out: 'false'
+  - date: February 03, 2026
+    version: 8.1.1 (100772026015601)
+    slimcore_version: 2025.45.01.3
+    rolling_out: 'false'
+  - date: January 27, 2026
+    version: 8.1.0 (100772026014904)
+    slimcore_version: 2025.45.01.3
+    rolling_out: 'false'
+  - date: January 22, 2026
+    version: 7.23.2 (100772025235902)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: January 20, 2026
+    version: 7.23.1 (100772025235601)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: January 13, 2026
+    version: 7.23.0 (100772025234501)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: December 21, 2025
+    version: 7.22.2 (100772025223902)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: December 14, 2025
+    version: 7.22.1 (100772025223301)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: December 11, 2025
+    version: 7.22.0 (100772025223006)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: November 26, 2025
+    version: 7.21.1 (100772025212902)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: November 19, 2025
+    version: 7.21.0 (100772025212201)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: November 14, 2025
+    version: 7.20.1 (100772025203102)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: November 07, 2025
+    version: 7.20.0 (100772025202401)
+    slimcore_version: 2025.38.01.6
+    rolling_out: 'false'
+  - date: October 26, 2025
+    version: 7.19.1 (100772025193201)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: October 23, 2025
+    version: 7.19.0 (100772025193002)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: October 17, 2025
+    version: 7.18.2 (100772025183801)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: October 07, 2025
+    version: 7.18.1 (100772025182801)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: September 29, 2025
+    version: 7.18.0 (100772025182001)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: September 22, 2025
+    version: 7.17.1 (100772025172703)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: September 17, 2025
+    version: 7.17.0 (100772025172202)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: September 12, 2025
+    version: 7.16.2 (100772025163101)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: September 10, 2025
+    version: 7.16.1 (100772025162901)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: September 03, 2025
+    version: 7.16.0 (100772025162201)
+    slimcore_version: 2025.27.01.13
+    rolling_out: 'false'
+  - date: August 26, 2025
+    version: 7.15.1 (100772025152601)
+    slimcore_version: 2025.25.01.13
+    rolling_out: 'false'
+  - date: August 20, 2025
+    version: 7.15.0 (100772025152101)
+    slimcore_version: 2025.25.01.13
+    rolling_out: 'false'
+  - date: August 13, 2025
+    version: 7.14.1 (100772025142802)
+    slimcore_version: 2025.25.01.13
+    rolling_out: 'false'
+  - date: August 07, 2025
+    version: 7.14.0 (100772025142202)
+    slimcore_version: 2025.25.01.13
+    rolling_out: 'false'
+  - date: August 04, 2025
+    version: 7.13.1 (100772025133901)
+    slimcore_version: 2025.23.01.10
+    rolling_out: 'false'
+  - date: July 24, 2025
+    version: 7.13.0 (100772025132902)
+    slimcore_version: 2025.23.01.10
+    rolling_out: 'false'
+  - date: July 14, 2025
+    version: 7.12.1 (100772025122803)
+    slimcore_version: 2025.23.01.10
+    rolling_out: 'false'
+  - date: July 02, 2025
+    version: 7.11.1 (100772025113001)
+    slimcore_version: 2025.19.01.12
+    rolling_out: 'false'
+  - date: May 02, 2025
+    version: 7.07.03 (100772025074301)
+    slimcore_version: 2025.07.01.02
+    rolling_out: 'false'
+  - date: April 21, 2025
+    version: 7.06.02 (100772025063501)
+    slimcore_version: 2025.07.01.02
+    rolling_out: 'false'
+  - date: April 06, 2025
+    version: 7.06.01 (100772025062501)
+    slimcore_version: 2025.07.01.02
+    rolling_out: 'false'
+  - date: March 10, 2025
+    version: 7.4.0 (1.0.0.77.2025042802)
+    slimcore_version: 2024.44.01.12
+    rolling_out: 'false'
+  - date: March 06, 2025
+    version: 7.4.0 (100772025042802)
+    slimcore_version: 2024.44.01.12
+    rolling_out: 'false'
+  - date: February 27, 2025
+    version: 7.03.02 (100772025033501)
+    slimcore_version: 2024.44.01.12
+    rolling_out: 'false'
+  - date: February 17, 2025
+    version: 7.2.1 (100772025023402)
+    slimcore_version: 2024.44.01.12
+    rolling_out: 'false'
+  - date: February 02, 2025
+    version: 7.01.01 (100772025015501)
+    slimcore_version: 2024.44.01.12
+    rolling_out: 'false'
+  - date: January 31, 2025
+    version: 7.01.01 (100772025015501)
+    slimcore_version: 2024.44.01.12
+    rolling_out: 'false'
+  - date: January 16, 2025
+    version: 6.23.02 (100772024235601)
+    slimcore_version: 2024.44.01.12
+    rolling_out: 'false'
+  - date: January 06, 2025
+    version: 6.22.03 (100772024225301)
+    slimcore_version: 2024.44.01.05
+    rolling_out: 'false'
+  - date: December 18, 2024
+    version: 6.22.1 (100772024223602)
+    slimcore_version: 2024.44.01.05
+    rolling_out: 'false'
+  - date: November 21, 2024
+    version: 6.21.1 (100772024213002)
+    slimcore_version: 2024.40.01.06
+    rolling_out: 'false'
+  - date: November 11, 2024
+    version: 6.20.1 (100772024202601)
+    slimcore_version: 2024.40.01.06
+    rolling_out: 'false'
+  - date: October 28, 2024
+    version: 6.19.2 (100772024193602)
+    slimcore_version: 2024.35.01.10
+    rolling_out: 'false'
+  - date: October 16, 2024
+    version: 6.18.2 (100772024183701)
+    slimcore_version: 2024.35.01.10
+    rolling_out: 'false'
+  - date: September 26, 2024
+    version: 6.17.2 (100772024173101)
+    slimcore_version: 2024.25.01.36
+    rolling_out: 'false'
+  - date: September 10, 2024
+    version: 6.16.2 (100772024162901)
+    slimcore_version: 2024.25.01.36
+    rolling_out: 'false'
+  - date: August 27, 2024
+    version: 6.15.1 (100772024153402)
+    slimcore_version: 2024.25.01.36
+    rolling_out: 'false'
+  - date: August 05, 2024
+    version: 6.14.1 (100772024142602)
+    slimcore_version: 2024.25.01.11
+    rolling_out: 'false'
+  - date: July 21, 2024
+    version: 6.13.1 (100772024132501)
+    slimcore_version: 2024.22.01.06
+    rolling_out: 'false'
+  - date: July 09, 2024
+    version: 6.12.1 (100772024123001)
+    slimcore_version: 2024.22.01.06
+    rolling_out: 'false'
+  - date: June 28, 2024
+    version: 6.11.2 (100772024112802)
+    slimcore_version: 2024.13.01.05
+    rolling_out: 'false'
+  - date: June 10, 2024
+    version: 6.10.1 (100772024102601)
+    slimcore_version: 2024.05.20.02
+    rolling_out: 'false'
+  - date: May 29, 2024
+    version: 6.9.2 (100772024093903)
+    slimcore_version: 2024.13.01.05
+    rolling_out: 'false'
+  - date: May 16, 2024
+    version: 6.8.1 (100772024083501)
+    slimcore_version: 2024.13.01.05
+    rolling_out: 'false'
+  - date: April 30, 2024
+    version: 6.7.1 (100772024073003)
+    slimcore_version: 2024.09.01.03
+    rolling_out: 'false'
+  - date: April 11, 2024
+    version: 6.6.1 (100772024062901)
+    slimcore_version: 2024.09.01.03
+    rolling_out: 'false'
+  - date: March 26, 2024
+    version: 6.5.1 (100772024053003)
+    slimcore_version: 2024.05.01.02
+    rolling_out: 'false'
+  - date: March 14, 2024
+    version: 6.4.2 (100772024043501)
+    slimcore_version: 2024.05.01.02
+    rolling_out: 'false'
+  - date: February 26, 2024
+    version: 6.3.2 (100772024033102)
+    slimcore_version: 2023.50.01.30
+    rolling_out: 'false'
+  - date: February 13, 2024
+    version: 6.2.2 (100772024023001)
+    slimcore_version: 2023.50.01.22
+    rolling_out: 'false'
+  - date: February 01, 2024
+    version: 6.1.1 (100772024013702)
+    slimcore_version: 2023.48.01.08
+    rolling_out: 'false'
+  - date: January 16, 2024
+    version: 5.23.0 (100772023235003)
+    slimcore_version: 2023.48.01.08
+    rolling_out: 'false'
+  - date: January 08, 2024
+    version: 5.22.3 (100772023225401)
+    slimcore_version: 2023.44.01.07
+    rolling_out: 'false'
+  - date: December 03, 2023
+    version: 5.21.1 (100772023213801)
+    slimcore_version: 2023.39.01.06
+    rolling_out: 'false'
+  - date: November 17, 2023
+    version: 5.20.2 (100772023203704)
+    slimcore_version: 2023.39.01.06
+    rolling_out: 'false'
+  - date: October 25, 2023
+    version: 5.19.1 (100772023193003)
+    slimcore_version: 2023.35.01.08
+    rolling_out: 'false'
+  - date: October 13, 2023
+    version: 5.18.1 (100772023183101)
+    slimcore_version: 2023.35.01.08
+    rolling_out: 'false'
+  - date: October 02, 2023
+    version: 5.17.1 (100772023173201)
+    slimcore_version: 2023.31.01.01
+    rolling_out: 'false'
+  - date: September 11, 2023
+    version: 5.16.0 (100772023162501)
+    slimcore_version: 2023.31.01.01
+    rolling_out: 'false'
+  - date: September 04, 2023
+    version: 5.15.2 (100772023154302)
+    slimcore_version: 2023.26.01.03
+    rolling_out: 'false'
+  - date: August 16, 2023
+    version: 5.14.2 (100772023143702)
+    slimcore_version: 2023.26.01.03
+    rolling_out: 'false'
+  - date: July 23, 2023
+    version: 5.13.0 (100772023132501)
+    slimcore_version: 2023.22.01.02
+    rolling_out: 'false'
+  - date: July 17, 2023
+    version: 5.12.1 (100772023122503)
+    slimcore_version: 2023.22.01.02
+    rolling_out: 'false'
+  - date: July 04, 2023
+    version: 5.11.2 (100772023114301)
+    slimcore_version: 2023.16.01.04
+    rolling_out: 'false'
+  - date: Jun 9, 2023
+    version: 5.10.0 (100772023103002)
+    slimcore_version: 2023.16.01.04
+    rolling_out: 'false'
+  - date: May 29, 2023
+    version: 5.9.1 (100772023093201)
+    slimcore_version: 2023.13.01.08
+    rolling_out: 'false'
+  - date: May 15, 2023
+    version: 5.8.1 (100772023083301)
+    slimcore_version: 2023.13.01.08
+    rolling_out: 'false'
+  - date: April 25, 2023
+    version: 5.7.1 (100772023073202)
+    slimcore_version: 2023.09.01.18
+    rolling_out: 'false'
+  - date: April 11, 2023
+    version: 5.6.0 (100772023062801)
+    slimcore_version: 2023.09.01.18
+    rolling_out: 'false'
+  - date: April 04, 2023
+    version: 5.5.2 (100772023053501)
+    slimcore_version: 2023.05.01.06
+    rolling_out: 'false'
+  - date: March 20, 2023
+    version: 5.4.2 (100772023043603)
+    slimcore_version: 2023.05.01.06
+    rolling_out: 'false'
+  - date: March 07, 2023
+    version: 5.3.1 (100772023033902)
+    slimcore_version: 2023.01.01.02
+    rolling_out: 'false'
+  - date: February 16, 2023
+    version: 5.2.1 (100772023023901)
+    slimcore_version: 2023.01.01.02
+    rolling_out: 'false'
+  - date: February 06, 2023
+    version: 5.1.0 (100772023013901)
+    slimcore_version: 2022.46.01.07
+    rolling_out: 'false'
+  - date: January 28, 2023
+    version: 4.23.2 (100772022235805)
+    slimcore_version: 2022.46.01.07
+    rolling_out: 'false'
+  - date: December 22, 2022
+    version: 4.22.1 (100772022223502)
+    slimcore_version: 2022.43.01.08
+    rolling_out: 'false'
+  - date: December 12, 2022
+    version: 4.21.4 (100772022214701)
+    slimcore_version: 2022.43.01.01
+    rolling_out: 'false'
+  - date: November 21, 2022
+    version: 4.20.1(100772022203901)
+    slimcore_version: 2022.40.01.09
+    rolling_out: 'false'
+  - date: November 06, 2022
+    version: 4.19.0(100772022193701)
+    slimcore_version: 2022.38.01.04
+    rolling_out: 'false'
+  - date: October 27, 2022
+    version: 4.18.1 (100772022184201)
+    slimcore_version: 2022.34.01.08
+    rolling_out: 'false'
+  - date: October 13, 2022
+    version: 4.17.2 (100772022174705)
+    slimcore_version: 2022.34.01.08
+    rolling_out: 'false'
+  - date: September 21, 2022
+    version: 4.16.1 (100772022163501)
+    slimcore_version: 2022.30.01.06
+    rolling_out: 'false'
+  - date: September 05, 2022
+    version: 4.15.1 (100772022153904)
+    slimcore_version: 2022.30.01.06
+    rolling_out: 'false'
+  - date: August 18, 2022
+    version: 4.14.1 (100772022143702)
+    slimcore_version: 2022.25.01.01
+    rolling_out: 'false'
+  - date: August 05, 2022
+    version: 4.13.0 (100772022133101)
+    slimcore_version: 2022.21.01.06
+    rolling_out: 'false'
+  - date: July 20, 2022
+    version: 4.12.0 (100772022123101)
+    slimcore_version: 2022.21.01.06
+    rolling_out: 'false'
+  - date: July 13, 2022
+    version: 4.11.0 (100772022112901)
+    slimcore_version: 2022.21.01.06
+    rolling_out: 'false'
+classic_mac:
+  name: Classic Teams for Mac
+  cloud: Public
+  releases:
+  - date: August 06, 2025
+    version: 1.8.00.21151
+    slimcore_version: 2024.04.01.65
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: July 16, 2025
+    version: 1.8.00.18352
+    slimcore_version: 2024.04.01.65
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: May 19, 2025
+    version: 1.08.00.13251
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: April 21, 2025
+    version: 1.08.00.9657
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: March 18, 2025
+    version: 1.08.00.7057
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: March 03, 2025
+    version: 1.08.00.4958
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: February 26, 2025
+    version: 1.08.00.4958
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: January 22, 2025
+    version: 1.8.00.1358
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: January 20, 2025
+    version: 1.8.00.1358
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: January 16, 2025
+    version: 1.8.00.1358
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: December 17, 2024
+    version: 1.7.00.33758
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: November 22, 2024
+    version: 1.7.00.30955
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: October 18, 2024
+    version: 1.7.00.27854
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: September 20, 2024
+    version: 1.7.00.25763
+    slimcore_version: 2024.04.01.57
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: September 09, 2024
+    version: 1.7.00.24661
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: July 24, 2024
+    version: 1.7.00.19151
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: July 02, 2024
+    version: 1.7.00.16352
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: June 14, 2024
+    version: 1.7.00.15956
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: May 23, 2024
+    version: 1.7.00.13452
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: April 10, 2024
+    version: 1.7.00.9457
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: March 08, 2024
+    version: 1.7.00.5951
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 14, 2024
+    version: 1.7.00.3856
+    slimcore_version: 2023.50.01.07
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: January 31, 2024
+    version: 1.7.00.1859
+    slimcore_version: 2023.45.01.17
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: January 08, 2024
+    version: 1.6.00.35956
+    slimcore_version: 2023.43.01.25
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: November 08, 2023
+    version: 1.6.00.29954
+    slimcore_version: 2023.38.01.51
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: October 09, 2023
+    version: 1.6.00.27656
+    slimcore_version: 2023.32.01.5
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: September 13, 2023
+    version: 1.6.00.24065
+    slimcore_version: 2023.30.01.14
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: August 14, 2023
+    version: 1.6.00.22155
+    slimcore_version: 2023.25.01.11
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: July 12, 2023
+    version: 1.6.00.17554
+    slimcore_version: 2023.21.01.09
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: June 07, 2023
+    version: 1.6.00.12966
+    slimcore_version: 2023.16.01.04
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: May 08, 2023
+    version: 1.6.00.11156
+    slimcore_version: 2023.13.01.25
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: April 03, 2023
+    version: 1.6.00.7354
+    slimcore_version: 2023.09.01.08
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: March 16, 2023
+    version: 1.6.00.4464
+    slimcore_version: 2023.05.01.18
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 10, 2023
+    version: 1.6.00.1159
+    slimcore_version: 2022.50.01.12
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: January 31, 2023
+    version: 1.6.00.364
+    slimcore_version: 2022.48.01.07
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: December 07, 2022
+    version: 1.5.00.33356
+    slimcore_version: 2022.44.01.14
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: November 17, 2022
+    version: 1.5.00.31156
+    slimcore_version: 2022.39.01.03
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: October 18, 2022
+    version: 1.5.00.26358
+    slimcore_version: 2022.35.01.22
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: August 30, 2022
+    version: 1.5.00.22362
+    slimcore_version: 2022.30.01.06
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: August 15, 2022
+    version: 1.5.00.21551
+    slimcore_version: 2022.26.01.15
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: July 05, 2022
+    version: 1.5.00.17261
+    slimcore_version: 2022.22.01.05
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: May 31, 2022
+    version: 1.5.00.12661
+    slimcore_version: 2022.17.01.08
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: May 02, 2022
+    version: 1.5.00.11157
+    slimcore_version: 2022.13.01.04
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: April 19, 2022
+    version: 1.5.00.9159
+    slimcore_version: 2022.09.01.05
+    electron_version: 10.4.7
+    rolling_out: 'false'
+mac_gcc:
+  name: New Teams for Mac (GCC)
+  cloud: Government
+  releases:
+  - date: October 09, 2026
+    version: 26261.303.5165.1465
+    slimcore_version: 2026.36.0-1.4-h5655d
+    rolling_out: 'true'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26261.303.5165.1465/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 07, 2026
+    version: 26246.1709.5146.8945
+    slimcore_version: 2026.34.0-1.12-h93a62
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26246.1709.5146.8945/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 24, 2026
+    version: 26225.1708.5124.9749
+    slimcore_version: 2026.31.0-1.16-hecde1
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26225.1708.5124.9749/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 25, 2026
+    version: 26213.1006.5011.1671
+    slimcore_version: 2026.29.0-1.10-h6b5a5
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26213.1006.5011.1671/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 10, 2026
+    version: 26198.202.4929.7171
+    slimcore_version: 2026.27.0-1.7-h83468
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26198.202.4929.7171/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 28, 2026
+    version: 26183.1901.4874.5228
+    slimcore_version: 2026.24.0-1.5-h5445c
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26183.1901.4874.5228/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 05, 2026
+    version: 26163.407.4839.8659
+    slimcore_version: 2026.22.0-1.1-h71c91
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26163.407.4839.8659/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 21, 2026
+    version: 26149.1804.4788.5681
+    slimcore_version: 2026.20.0-1.7-hd7e43
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26149.1804.4788.5681/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 11, 2026
+    version: 26134.1610.4759.7759
+    slimcore_version: 2026.18.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26134.1610.4759.7759/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 04, 2026
+    version: 26120.3106.4725.800
+    slimcore_version: 2026.16.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26120.3106.4725.800/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 22, 2026
+    version: 26106.2113.4690.1073
+    slimcore_version: 2026.12.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26106.2113.4690.1073/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 06, 2026
+    version: 26093.311.4599.3126
+    slimcore_version: 2026.12.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26093.311.4599.3126/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 24, 2026
+    version: 26072.608.4595.8484
+    slimcore_version: 2026.7.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26072.608.4595.8484/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 02, 2026
+    version: 26059.604.4471.2584
+    slimcore_version: 2026.7.0-1.4-h89be7
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26059.604.4471.2584/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 24, 2026
+    version: 26043.2109.4484.3337
+    slimcore_version: 2026.5.0-1.4-h812a9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26043.2109.4484.3337/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 20, 2026
+    version: 26032.605.4378.6183
+    slimcore_version: 2026.3.0-1.1-h61b92
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26032.605.4378.6183/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 11, 2026
+    version: 26015.1401.4272.1018
+    slimcore_version: 2025.49.0-1.8-hee8e9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26015.1401.4272.1018/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 29, 2026
+    version: 26004.403.4267.4118
+    slimcore_version: 2025.49.0-1.8-hee8e9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26004.403.4267.4118/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 12, 2026
+    version: 25331.1107.4213.8634
+    slimcore_version: 2025.45.0-1.3-hf2481
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25331.1107.4213.8634/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 11, 2025
+    version: 25290.302.4044.3989
+    slimcore_version: 2025.40.0-1.5-h7866f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25290.302.4044.3989/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 27, 2025
+    version: 25275.2602.4021.9366
+    slimcore_version: 2025.38.0-1.8-h51f71
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25275.2602.4021.9366/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 05, 2025
+    version: 25255.702.3963.1832
+    slimcore_version: 2025.35.0-1.10-h8784f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25255.702.3963.1832/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 25, 2025
+    version: 25240.1603.3956.3103
+    slimcore_version: 2025.33.0-1.5-he6d52
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25240.1603.3956.3103/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 03, 2025
+    version: 25227.301.3887.7726
+    slimcore_version: 2025.31.0-1.1-h52db0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25227.301.3887.7726/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 19, 2025
+    version: 25212.2404.3875.1360
+    slimcore_version: 2025.29.0-1.7-h384ff
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25212.2404.3875.1360/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 05, 2025
+    version: 25198.1302.3822.1091
+    slimcore_version: 2025.27.0-1.8-h0ed35
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25198.1302.3822.1091/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 28, 2025
+    version: 25185.205.3812.7741
+    slimcore_version: 2025.25.0-1.17-hc396d
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25185.205.3812.7741/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 03, 2025
+    version: 25163.3001.3726.6503
+    slimcore_version: 2025.21.0-1.12-h57dac
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25163.3001.3726.6503/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 21, 2025
+    version: 25079.2107.3576.1611
+    slimcore_version: 2025.10.0-1.4-he7dba
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25079.2107.3576.1611/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 27, 2025
+    version: 25060.203.3471.5023
+    slimcore_version: 2025.07.0-1.09-h345dc
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25060.203.3471.5023/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 12, 2025
+    version: 25044.2406.3471.4570
+    slimcore_version: 2025.05.0-1.07-h51fb4
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25044.2406.3471.4570/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 12, 2025
+    version: 25044.2406.3471.4570
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25044.2406.3471.4570/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 06, 2025
+    version: 25031.1205.3471.1031
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25031.1205.3471.1031/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 28, 2025
+    version: 25031.1203.3429.7545
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25031.1203.3429.7545/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 11, 2025
+    version: 25016.1904.3401.2239
+    slimcore_version: 2024.50.0-1.19-hf38aa
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25016.1904.3401.2239/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 28, 2025
+    version: 25007.203.3361.6689
+    slimcore_version: 2024.50.0-1.7-hd751f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25007.203.3361.6689/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 16, 2025
+    version: 24335.207.3345.5574
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.207.3345.5574/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 07, 2025
+    version: 24335.204.3298.2649
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.204.3298.2649/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 16, 2024
+    version: 24295.615.3297.8324
+    slimcore_version: 2024.41.0-1.3-h818b2
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24295.615.3297.8324/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 18, 2024
+    version: 24295.606.3238.6194
+    slimcore_version: 2024.41.0-1.3-h818b2
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24295.606.3238.6194/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 01, 2024
+    version: 24277.3502.3161.3007
+    slimcore_version: 2024.39.01.12
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24277.3502.3161.3007/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 11, 2024
+    version: 24256.2503.3156.9924
+    slimcore_version: 2024.36.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24256.2503.3156.9924/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 01, 2024
+    version: 24244.507.3125.3475
+    slimcore_version: 2024.34.01.4
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24244.507.3125.3475/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 23, 2024
+    version: 24231.509.3122.5539
+    slimcore_version: 2024.32.01.05
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24231.509.3122.5539/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 02, 2024
+    version: 24215.1002.3039.5089
+    slimcore_version: 2024.30.01.04
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24215.1002.3039.5089/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 07, 2024
+    version: 24193.1707.3028.4282
+    slimcore_version: 2024.27.01.10
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24193.1707.3028.4282/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 31, 2024
+    version: 24180.210.3001.6635
+    slimcore_version: 2024.25.01.06
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24180.210.3001.6635/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 10, 2024
+    version: 24165.1406.2974.9471
+    slimcore_version: 2024.23.01.03
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24165.1406.2974.9471/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 25, 2024
+    version: 24152.405.2925.6762
+    slimcore_version: 2024.19.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24152.405.2925.6762/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 17, 2024
+    version: 24137.2012.2930.9819
+    slimcore_version: 2024.19.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24137.2012.2930.9819/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 07, 2024
+    version: 24124.1412.2911.3341
+    slimcore_version: 2024.17.01.10
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24124.1412.2911.3341/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 21, 2024
+    version: 24102.2214.2869.7475
+    slimcore_version: 2024.14.01.41
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24102.2214.2869.7475/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 06, 2024
+    version: 24091.212.2846.1453
+    slimcore_version: 2024.10.01.20
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24091.212.2846.1453/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 16, 2024
+    version: 24074.2607.2799.9843
+    slimcore_version: 2024.09.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24074.2607.2799.9843/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 05, 2024
+    version: 24060.2809.2788.1256
+    slimcore_version: 2024.08.01.02
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24060.2809.2788.1256/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 28, 2024
+    version: 24046.2813.2770.1094
+    slimcore_version: 2024.05.01.14
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24046.2813.2770.1094/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 22, 2024
+    version: 24033.813.2770.1138
+    slimcore_version: 2024.04.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24033.813.2770.1138/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 15, 2024
+    version: 24004.1305.2689.3758
+    slimcore_version: 2023.50.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24004.1305.2689.3758/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 18, 2024
+    version: 23335.208.2601.834
+    slimcore_version: 2023.44.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23335.208.2601.834/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 02, 2023
+    version: 23272.2700.2417.5630
+    slimcore_version: 2023.36.01.18
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23272.2700.2417.5630/MicrosoftTeams.pkg
+    archive: 'false'
+mac_gcch:
+  name: New Teams for Mac (GCCH)
+  cloud: Government
+  releases:
+  - date: October 09, 2026
+    version: 26261.303.5165.1465
+    slimcore_version: 2026.36.0-1.4-h5655d
+    rolling_out: 'true'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26261.303.5165.1465/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 07, 2026
+    version: 26246.1709.5146.8945
+    slimcore_version: 2026.34.0-1.12-h93a62
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26246.1709.5146.8945/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 24, 2026
+    version: 26225.1708.5124.9749
+    slimcore_version: 2026.31.0-1.16-hecde1
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26225.1708.5124.9749/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 25, 2026
+    version: 26213.1006.5011.1671
+    slimcore_version: 2026.29.0-1.10-h6b5a5
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26213.1006.5011.1671/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 10, 2026
+    version: 26198.202.4929.7171
+    slimcore_version: 2026.27.0-1.7-h83468
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26198.202.4929.7171/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 28, 2026
+    version: 26183.1901.4874.5228
+    slimcore_version: 2026.24.0-1.5-h5445c
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26183.1901.4874.5228/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 05, 2026
+    version: 26163.407.4839.8659
+    slimcore_version: 2026.22.0-1.1-h71c91
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26163.407.4839.8659/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 21, 2026
+    version: 26149.1804.4788.5681
+    slimcore_version: 2026.20.0-1.7-hd7e43
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26149.1804.4788.5681/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 11, 2026
+    version: 26134.1610.4759.7759
+    slimcore_version: 2026.18.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26134.1610.4759.7759/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 04, 2026
+    version: 26120.3106.4725.800
+    slimcore_version: 2026.16.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26120.3106.4725.800/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 22, 2026
+    version: 26106.2113.4690.1073
+    slimcore_version: 2026.12.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26106.2113.4690.1073/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 06, 2026
+    version: 26093.311.4599.3126
+    slimcore_version: 2026.12.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26093.311.4599.3126/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 24, 2026
+    version: 26072.608.4595.8484
+    slimcore_version: 2026.7.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26072.608.4595.8484/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 02, 2026
+    version: 26059.604.4471.2584
+    slimcore_version: 2026.7.0-1.4-h89be7
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26059.604.4471.2584/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 24, 2026
+    version: 26043.2109.4484.3337
+    slimcore_version: 2026.5.0-1.4-h812a9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26043.2109.4484.3337/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 20, 2026
+    version: 26032.605.4378.6183
+    slimcore_version: 2026.3.0-1.1-h61b92
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26032.605.4378.6183/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 11, 2026
+    version: 26015.1401.4272.1018
+    slimcore_version: 2025.49.0-1.8-hee8e9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26015.1401.4272.1018/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 29, 2026
+    version: 26004.403.4267.4118
+    slimcore_version: 2025.49.0-1.8-hee8e9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26004.403.4267.4118/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 12, 2026
+    version: 25331.1107.4213.8634
+    slimcore_version: 2025.45.0-1.3-hf2481
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25331.1107.4213.8634/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 11, 2025
+    version: 25290.302.4044.3989
+    slimcore_version: 2025.40.0-1.5-h7866f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25290.302.4044.3989/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 27, 2025
+    version: 25275.2602.4021.9366
+    slimcore_version: 2025.38.0-1.8-h51f71
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25275.2602.4021.9366/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 05, 2025
+    version: 25255.702.3963.1832
+    slimcore_version: 2025.35.0-1.10-h8784f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25255.702.3963.1832/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 25, 2025
+    version: 25240.1603.3956.3103
+    slimcore_version: 2025.33.0-1.5-he6d52
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25240.1603.3956.3103/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 03, 2025
+    version: 25227.301.3887.7726
+    slimcore_version: 2025.31.0-1.1-h52db0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25227.301.3887.7726/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 19, 2025
+    version: 25212.2404.3875.1360
+    slimcore_version: 2025.29.0-1.7-h384ff
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25212.2404.3875.1360/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 05, 2025
+    version: 25198.1302.3822.1091
+    slimcore_version: 2025.27.0-1.8-h0ed35
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25198.1302.3822.1091/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 28, 2025
+    version: 25185.205.3812.7741
+    slimcore_version: 2025.25.0-1.17-hc396d
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25185.205.3812.7741/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 03, 2025
+    version: 25163.3001.3726.6503
+    slimcore_version: 2025.21.0-1.12-h57dac
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25163.3001.3726.6503/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 20, 2025
+    version: 25151.505.3727.5755
+    slimcore_version: 2025.20.0-1.7-h777ec
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25151.505.3727.5755/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 09, 2025
+    version: 25122.1207.3700.1444
+    slimcore_version: 2025.16.0-1.10-h07f04
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25122.1207.3700.1444/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 19, 2025
+    version: 25107.1606.3643.3915
+    slimcore_version: 2025.14.0-1.8-haf49c
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25107.1606.3643.3915/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 21, 2025
+    version: 25079.2107.3576.1611
+    slimcore_version: 2025.10.0-1.4-he7dba
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25079.2107.3576.1611/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 27, 2025
+    version: 25060.203.3471.5023
+    slimcore_version: 2025.07.0-1.09-h345dc
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25060.203.3471.5023/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 12, 2025
+    version: 25044.2406.3471.4570
+    slimcore_version: 2025.05.0-1.07-h51fb4
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25044.2406.3471.4570/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 12, 2025
+    version: 25044.2406.3471.4570
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25044.2406.3471.4570/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 06, 2025
+    version: 25031.1205.3471.1031
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25031.1205.3471.1031/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 28, 2025
+    version: 25031.1203.3429.7545
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25031.1203.3429.7545/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 11, 2025
+    version: 25016.1904.3401.2239
+    slimcore_version: 2024.50.0-1.19-hf38aa
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25016.1904.3401.2239/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 28, 2025
+    version: 25007.203.3361.6689
+    slimcore_version: 2024.50.0-1.7-hd751f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25007.203.3361.6689/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 16, 2025
+    version: 24335.207.3345.5574
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.207.3345.5574/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 07, 2025
+    version: 24335.204.3298.2649
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.204.3298.2649/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 16, 2024
+    version: 24295.615.3297.8324
+    slimcore_version: 2024.41.0-1.3-h818b2
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24295.615.3297.8324/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 18, 2024
+    version: 24295.606.3238.6194
+    slimcore_version: 2024.41.0-1.3-h818b2
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24295.606.3238.6194/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 01, 2024
+    version: 24277.3502.3161.3007
+    slimcore_version: 2024.39.01.12
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24277.3502.3161.3007/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 11, 2024
+    version: 24256.2503.3156.9924
+    slimcore_version: 2024.36.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24256.2503.3156.9924/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 01, 2024
+    version: 24244.507.3125.3475
+    slimcore_version: 2024.34.01.4
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24244.507.3125.3475/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 23, 2024
+    version: 24231.509.3122.5539
+    slimcore_version: 2024.32.01.05
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24231.509.3122.5539/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 02, 2024
+    version: 24215.1002.3039.5089
+    slimcore_version: 2024.30.01.04
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24215.1002.3039.5089/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 07, 2024
+    version: 24193.1707.3028.4282
+    slimcore_version: 2024.27.01.10
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24193.1707.3028.4282/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 31, 2024
+    version: 24180.210.3001.6635
+    slimcore_version: 2024.25.01.06
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24180.210.3001.6635/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 10, 2024
+    version: 24165.1406.2974.9471
+    slimcore_version: 2024.23.01.03
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24165.1406.2974.9471/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 25, 2024
+    version: 24152.405.2925.6762
+    slimcore_version: 2024.19.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24152.405.2925.6762/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 17, 2024
+    version: 24137.2012.2930.9819
+    slimcore_version: 2024.19.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24137.2012.2930.9819/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 07, 2024
+    version: 24124.1412.2911.3341
+    slimcore_version: 2024.17.01.10
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24124.1412.2911.3341/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 21, 2024
+    version: 24102.2214.2869.7475
+    slimcore_version: 2024.14.01.41
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24102.2214.2869.7475/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 06, 2024
+    version: 24091.212.2846.1453
+    slimcore_version: 2024.10.01.20
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24091.212.2846.1453/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 16, 2024
+    version: 24074.2607.2799.9843
+    slimcore_version: 2024.09.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24074.2607.2799.9843/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 05, 2024
+    version: 24060.2809.2788.1256
+    slimcore_version: 2024.08.01.02
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24060.2809.2788.1256/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 28, 2024
+    version: 24046.2813.2770.1094
+    slimcore_version: 2024.05.01.14
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24046.2813.2770.1094/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 22, 2024
+    version: 24033.813.2770.1138
+    slimcore_version: 2024.04.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24033.813.2770.1138/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 15, 2024
+    version: 24004.1305.2689.3758
+    slimcore_version: 2023.50.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24004.1305.2689.3758/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 18, 2024
+    version: 23335.208.2601.834
+    slimcore_version: 2023.44.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23335.208.2601.834/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 15, 2023
+    version: 23320.3107.2575.3762
+    slimcore_version: 2023.44.01.03
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23320.3107.2575.3762/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 12, 2023
+    version: 23306.3408.2576.5406
+    slimcore_version: 2023.43.01.22
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23306.3408.2576.5406/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 09, 2023
+    version: 23285.3805.2505.9215
+    slimcore_version: 2023.38.01.50
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23285.3805.2505.9215/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 20, 2023
+    version: 23272.2708.2452.9689
+    slimcore_version: 2023.36.01.18
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23272.2708.2452.9689/MicrosoftTeams.pkg
+    archive: 'false'
+mac_dod:
+  name: New Teams for Mac (DoD)
+  cloud: Government
+  releases:
+  - date: October 09, 2026
+    version: 26261.303.5165.1465
+    slimcore_version: 2026.36.0-1.4-h5655d
+    rolling_out: 'true'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26261.303.5165.1465/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 07, 2026
+    version: 26246.1709.5146.8945
+    slimcore_version: 2026.34.0-1.12-h93a62
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26246.1709.5146.8945/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 24, 2026
+    version: 26225.1708.5124.9749
+    slimcore_version: 2026.31.0-1.16-hecde1
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26225.1708.5124.9749/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 25, 2026
+    version: 26213.1006.5011.1671
+    slimcore_version: 2026.29.0-1.10-h6b5a5
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26213.1006.5011.1671/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 10, 2026
+    version: 26198.202.4929.7171
+    slimcore_version: 2026.27.0-1.7-h83468
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26198.202.4929.7171/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 28, 2026
+    version: 26183.1901.4874.5228
+    slimcore_version: 2026.24.0-1.5-h5445c
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26183.1901.4874.5228/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 05, 2026
+    version: 26163.407.4839.8659
+    slimcore_version: 2026.22.0-1.1-h71c91
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26163.407.4839.8659/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 21, 2026
+    version: 26149.1804.4788.5681
+    slimcore_version: 2026.20.0-1.7-hd7e43
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26149.1804.4788.5681/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 11, 2026
+    version: 26134.1610.4759.7759
+    slimcore_version: 2026.18.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26134.1610.4759.7759/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 04, 2026
+    version: 26120.3106.4725.800
+    slimcore_version: 2026.16.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26120.3106.4725.800/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 22, 2026
+    version: 26106.2113.4690.1073
+    slimcore_version: 2026.12.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26106.2113.4690.1073/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 06, 2026
+    version: 26093.311.4599.3126
+    slimcore_version: 2026.12.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26093.311.4599.3126/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 24, 2026
+    version: 26072.608.4595.8484
+    slimcore_version: 2026.7.0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26072.608.4595.8484/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 02, 2026
+    version: 26059.604.4471.2584
+    slimcore_version: 2026.7.0-1.4-h89be7
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26059.604.4471.2584/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 24, 2026
+    version: 26043.2109.4484.3337
+    slimcore_version: 2026.5.0-1.4-h812a9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26043.2109.4484.3337/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 20, 2026
+    version: 26032.605.4378.6183
+    slimcore_version: 2026.3.0-1.1-h61b92
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26032.605.4378.6183/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 11, 2026
+    version: 26015.1401.4272.1018
+    slimcore_version: 2025.49.0-1.8-hee8e9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26015.1401.4272.1018/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 29, 2026
+    version: 26004.403.4267.4118
+    slimcore_version: 2025.49.0-1.8-hee8e9
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/26004.403.4267.4118/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 12, 2026
+    version: 25331.1107.4213.8634
+    slimcore_version: 2025.45.0-1.3-hf2481
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25331.1107.4213.8634/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 20, 2025
+    version: 25306.805.4102.7211
+    slimcore_version: 2025.42.0-1.14-h01bb8
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25306.805.4102.7211/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 11, 2025
+    version: 25290.302.4044.3989
+    slimcore_version: 2025.40.0-1.5-h7866f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25290.302.4044.3989/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 27, 2025
+    version: 25275.2602.4021.9366
+    slimcore_version: 2025.38.0-1.8-h51f71
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25275.2602.4021.9366/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 05, 2025
+    version: 25255.702.3963.1832
+    slimcore_version: 2025.35.0-1.10-h8784f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25255.702.3963.1832/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 25, 2025
+    version: 25240.1603.3956.3103
+    slimcore_version: 2025.33.0-1.5-he6d52
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25240.1603.3956.3103/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 03, 2025
+    version: 25227.301.3887.7726
+    slimcore_version: 2025.31.0-1.1-h52db0
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25227.301.3887.7726/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 19, 2025
+    version: 25212.2404.3875.1360
+    slimcore_version: 2025.29.0-1.7-h384ff
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25212.2404.3875.1360/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 05, 2025
+    version: 25198.1302.3822.1091
+    slimcore_version: 2025.27.0-1.8-h0ed35
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25198.1302.3822.1091/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 28, 2025
+    version: 25185.205.3812.7741
+    slimcore_version: 2025.25.0-1.17-hc396d
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25185.205.3812.7741/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 03, 2025
+    version: 25163.3001.3726.6503
+    slimcore_version: 2025.21.0-1.12-h57dac
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25163.3001.3726.6503/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 20, 2025
+    version: 25151.505.3727.5755
+    slimcore_version: 2025.20.0-1.7-h777ec
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25151.505.3727.5755/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 09, 2025
+    version: 25122.1207.3700.1444
+    slimcore_version: 2025.16.0-1.10-h07f04
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25122.1207.3700.1444/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 19, 2025
+    version: 25107.1606.3643.3915
+    slimcore_version: 2025.14.0-1.8-haf49c
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25107.1606.3643.3915/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 21, 2025
+    version: 25079.2107.3576.1611
+    slimcore_version: 2025.10.0-1.4-he7dba
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25079.2107.3576.1611/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 27, 2025
+    version: 25060.203.3471.5023
+    slimcore_version: 2025.07.0-1.09-h345dc
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25060.203.3471.5023/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 12, 2025
+    version: 25044.2406.3471.4570
+    slimcore_version: 2025.05.0-1.07-h51fb4
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25044.2406.3471.4570/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 12, 2025
+    version: 25044.2406.3471.4570
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25044.2406.3471.4570/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 06, 2025
+    version: 25031.1205.3471.1031
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25031.1205.3471.1031/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 28, 2025
+    version: 25031.1203.3429.7545
+    slimcore_version: 2025.3.0-1.15-hf1afd
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25031.1203.3429.7545/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 11, 2025
+    version: 25016.1904.3401.2239
+    slimcore_version: 2024.50.0-1.19-hf38aa
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25016.1904.3401.2239/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 28, 2025
+    version: 25007.203.3361.6689
+    slimcore_version: 2024.50.0-1.7-hd751f
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/25007.203.3361.6689/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 16, 2025
+    version: 24335.207.3345.5574
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.207.3345.5574/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 07, 2025
+    version: 24335.204.3298.2649
+    slimcore_version: 2024.47.0-1.10-h452ab
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24335.204.3298.2649/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 16, 2024
+    version: 24295.615.3297.8324
+    slimcore_version: 2024.41.0-1.3-h818b2
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24295.615.3297.8324/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 18, 2024
+    version: 24295.606.3238.6194
+    slimcore_version: 2024.41.0-1.3-h818b2
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24295.606.3238.6194/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 01, 2024
+    version: 24277.3502.3161.3007
+    slimcore_version: 2024.39.01.12
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24277.3502.3161.3007/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 11, 2024
+    version: 24256.2503.3156.9924
+    slimcore_version: 2024.36.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24256.2503.3156.9924/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: October 01, 2024
+    version: 24244.507.3125.3475
+    slimcore_version: 2024.34.01.4
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24244.507.3125.3475/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: September 02, 2024
+    version: 24215.1002.3039.5089
+    slimcore_version: 2024.30.01.04
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24215.1002.3039.5089/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: August 07, 2024
+    version: 24193.1707.3028.4282
+    slimcore_version: 2024.27.01.10
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24193.1707.3028.4282/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 31, 2024
+    version: 24180.210.3001.6635
+    slimcore_version: 2024.25.01.06
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24180.210.3001.6635/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: July 10, 2024
+    version: 24165.1406.2974.9471
+    slimcore_version: 2024.23.01.03
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24165.1406.2974.9471/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 25, 2024
+    version: 24152.405.2925.6762
+    slimcore_version: 2024.19.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24152.405.2925.6762/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 17, 2024
+    version: 24137.2012.2930.9819
+    slimcore_version: 2024.19.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24137.2012.2930.9819/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: June 07, 2024
+    version: 24124.1412.2911.3341
+    slimcore_version: 2024.17.01.10
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24124.1412.2911.3341/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 21, 2024
+    version: 24102.2214.2869.7475
+    slimcore_version: 2024.14.01.41
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24102.2214.2869.7475/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: May 06, 2024
+    version: 24091.212.2846.1453
+    slimcore_version: 2024.10.01.20
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24091.212.2846.1453/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 16, 2024
+    version: 24074.2607.2799.9843
+    slimcore_version: 2024.09.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24074.2607.2799.9843/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: April 05, 2024
+    version: 24060.2809.2788.1256
+    slimcore_version: 2024.08.01.02
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24060.2809.2788.1256/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 28, 2024
+    version: 24046.2813.2770.1094
+    slimcore_version: 2024.05.01.14
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24046.2813.2770.1094/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: March 22, 2024
+    version: 24033.813.2770.1138
+    slimcore_version: 2024.04.01.01
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24033.813.2770.1138/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: February 15, 2024
+    version: 24004.1305.2689.3758
+    slimcore_version: 2023.50.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/24004.1305.2689.3758/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: January 18, 2024
+    version: 23335.208.2601.834
+    slimcore_version: 2023.44.01.07
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23335.208.2601.834/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 15, 2023
+    version: 23320.3107.2575.3762
+    slimcore_version: 2023.44.01.03
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23320.3107.2575.3762/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: December 12, 2023
+    version: 23306.3408.2576.5406
+    slimcore_version: 2023.43.01.22
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23306.3408.2576.5406/MicrosoftTeams.pkg
+    archive: 'false'
+  - date: November 09, 2023
+    version: 23285.3805.2505.9215
+    slimcore_version: 2023.38.01.50
+    rolling_out: 'false'
+    installer_download: https://statics.teams.cdn.office.net/production-osx/23285.3805.2505.9215/MicrosoftTeams.pkg
+    archive: 'false'
+classic_mac_gcc:
+  name: Classic Teams for Mac (GCC)
+  cloud: Government
+  releases:
+  - date: July 22, 2025
+    version: 1.8.00.18352
+    slimcore_version: 2024.04.01.65
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: May 20, 2025
+    version: 1.8.00.13251
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: April 22, 2025
+    version: 1.08.00.9657
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: March 19, 2025
+    version: 1.08.00.7057
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: March 07, 2025
+    version: 1.08.00.4958
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: January 22, 2025
+    version: 1.08.00.1358
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: December 19, 2024
+    version: 1.7.00.33758
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: October 21, 2024
+    version: 1.7.00.27854
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: September 23, 2024
+    version: 1.7.00.25763
+    slimcore_version: 2024.04.01.57
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: September 10, 2024
+    version: 1.7.00.24661
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: July 25, 2024
+    version: 1.7.00.19151
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: July 08, 2024
+    version: 1.7.00.16352
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: June 14, 2024
+    version: 1.7.00.15956
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: May 23, 2024
+    version: 1.7.00.13452
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: May 03, 2024
+    version: 1.7.00.11653
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: April 03, 2024
+    version: 1.7.00.7953
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: March 13, 2024
+    version: 1.7.00.5951
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 22, 2024
+    version: 1.7.00.3856
+    slimcore_version: 2023.50.01.07
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 01, 2024
+    version: 1.7.00.1859
+    slimcore_version: 2023.45.01.17
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: January 08, 2024
+    version: 1.6.00.35956
+    slimcore_version: 2023.43.01.25
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: November 08, 2023
+    version: 1.6.00.29954
+    slimcore_version: 2023.38.01.51
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: October 10, 2023
+    version: 1.6.00.27656
+    slimcore_version: 2023.32.01.5
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: September 19, 2023
+    version: 1.6.00.24065
+    slimcore_version: 2023.30.01.14
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: August 09, 2023
+    version: 1.6.00.19353
+    slimcore_version: 2023.25.01.11
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: July 12, 2023
+    version: 1.6.00.17554
+    slimcore_version: 2023.21.01.09
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: June 21, 2023
+    version: 1.6.00.16465
+    slimcore_version: 2023.16.01.04
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: May 15, 2023
+    version: 1.6.00.11156
+    slimcore_version: 2023.13.01.25
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: April 04, 2023
+    version: 1.6.00.7354
+    slimcore_version: 2023.09.01.08
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: March 14, 2023
+    version: 1.6.00.4464
+    slimcore_version: 2023.05.01.18
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 10, 2023
+    version: 1.6.00.1159
+    slimcore_version: 2022.50.01.12
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: January 30, 2023
+    version: 1.6.00.364
+    slimcore_version: 2022.48.01.07
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: December 14, 2022
+    version: 1.5.00.33356
+    slimcore_version: 2022.44.01.14
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: December 01, 2022
+    version: 1.5.00.31156
+    slimcore_version: 2022.39.01.03
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: October 19, 2022
+    version: 1.5.00.26358
+    slimcore_version: 2022.35.01.22
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: August 30, 2022
+    version: 1.5.00.22362
+    slimcore_version: 2022.30.01.06
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: August 15, 2022
+    version: 1.5.00.21551
+    slimcore_version: 2022.26.01.15
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: July 01, 2022
+    version: 1.5.00.17261
+    slimcore_version: 2022.22.01.05
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: June 06, 2022
+    version: 1.5.00.12661
+    slimcore_version: 2022.17.01.08
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: May 11, 2022
+    version: 1.5.00.12657
+    slimcore_version: 2022.13.01.04
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: April 14, 2022
+    version: 1.5.00.10369
+    slimcore_version: 2022.09.01.5
+    electron_version: 10.4.7
+    rolling_out: 'false'
+classic_mac_gcch:
+  name: Classic Teams for Mac (GCCH)
+  cloud: Government
+  releases:
+  - date: May 20, 2025
+    version: 1.8.00.13251
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: April 22, 2025
+    version: 1.08.00.9657
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: March 19, 2025
+    version: 1.08.00.7057
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: March 07, 2025
+    version: 1.08.00.4958
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: January 22, 2025
+    version: 1.08.00.1358
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: December 19, 2024
+    version: 1.7.00.33758
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: October 21, 2024
+    version: 1.7.00.27854
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: September 23, 2024
+    version: 1.7.00.25763
+    slimcore_version: 2024.04.01.57
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: September 10, 2024
+    version: 1.7.00.24661
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: July 25, 2024
+    version: 1.7.00.19151
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: July 08, 2024
+    version: 1.7.00.16352
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: June 14, 2024
+    version: 1.7.00.15956
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: May 23, 2024
+    version: 1.7.00.13452
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: May 03, 2024
+    version: 1.7.00.11653
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: April 03, 2024
+    version: 1.7.00.7953
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: March 13, 2024
+    version: 1.7.00.5951
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 22, 2024
+    version: 1.7.00.3856
+    slimcore_version: 2023.50.01.07
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 01, 2024
+    version: 1.7.00.1859
+    slimcore_version: 2023.45.01.17
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: January 08, 2024
+    version: 1.6.00.35956
+    slimcore_version: 2023.43.01.25
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: November 08, 2023
+    version: 1.6.00.29954
+    slimcore_version: 2023.38.01.51
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: October 10, 2023
+    version: 1.6.00.27656
+    slimcore_version: 2023.32.01.5
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: September 19, 2023
+    version: 1.6.00.24065
+    slimcore_version: 2023.30.01.14
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: August 09, 2023
+    version: 1.6.00.19353
+    slimcore_version: 2023.25.01.11
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: July 12, 2023
+    version: 1.6.00.17554
+    slimcore_version: 2023.21.01.09
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: June 21, 2023
+    version: 1.6.00.16465
+    slimcore_version: 2023.16.01.04
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: May 15, 2023
+    version: 1.6.00.11156
+    slimcore_version: 2023.13.01.25
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: April 04, 2023
+    version: 1.6.00.7354
+    slimcore_version: 2023.09.01.08
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: March 14, 2023
+    version: 1.6.00.4464
+    slimcore_version: 2023.05.01.18
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 10, 2023
+    version: 1.6.00.1159
+    slimcore_version: 2022.50.01.12
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: January 30, 2023
+    version: 1.6.00.364
+    slimcore_version: 2022.48.01.07
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: December 14, 2022
+    version: 1.5.00.33356
+    slimcore_version: 2022.44.01.14
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: December 01, 2022
+    version: 1.5.00.31156
+    slimcore_version: 2022.39.01.03
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: October 19, 2022
+    version: 1.5.00.26358
+    slimcore_version: 2022.35.01.22
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: August 30, 2022
+    version: 1.5.00.22362
+    slimcore_version: 2022.30.01.06
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: August 15, 2022
+    version: 1.5.00.21551
+    slimcore_version: 2022.26.01.15
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: July 01, 2022
+    version: 1.5.00.17261
+    slimcore_version: 2022.22.01.05
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: June 06, 2022
+    version: 1.5.00.12661
+    slimcore_version: 2022.17.01.08
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: May 11, 2022
+    version: 1.5.00.12657
+    slimcore_version: 2022.13.01.04
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: April 14, 2022
+    version: 1.5.00.10369
+    slimcore_version: 2022.09.01.05
+    electron_version: 10.4.7
+    rolling_out: 'false'
+classic_mac_dod:
+  name: Classic Teams for Mac (DoD)
+  cloud: Government
+  releases:
+  - date: May 20, 2025
+    version: 1.8.00.13251
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: April 22, 2025
+    version: 1.08.00.9657
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: March 19, 2025
+    version: 1.08.00.7057
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: March 07, 2025
+    version: 1.08.00.4958
+    slimcore_version: 2024.04.01.61
+    electron_version: 31.7.7
+    rolling_out: 'false'
+  - date: January 22, 2025
+    version: 1.08.00.1358
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: December 19, 2024
+    version: 1.7.00.33758
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: October 21, 2024
+    version: 1.7.00.27854
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: September 23, 2024
+    version: 1.7.00.25763
+    slimcore_version: 2024.04.01.57
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: September 10, 2024
+    version: 1.7.00.24661
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: July 25, 2024
+    version: 1.7.00.19151
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: July 08, 2024
+    version: 1.7.00.16352
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: June 14, 2024
+    version: 1.7.00.15956
+    slimcore_version: 2024.04.01.37
+    electron_version: 22.3.27
+    rolling_out: 'false'
+  - date: May 23, 2024
+    version: 1.7.00.13452
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: May 03, 2024
+    version: 1.7.00.11653
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: April 03, 2024
+    version: 1.7.00.7953
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: March 13, 2024
+    version: 1.7.00.5951
+    slimcore_version: 2024.04.01.37
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 22, 2024
+    version: 1.7.00.3856
+    slimcore_version: 2023.50.01.07
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 01, 2024
+    version: 1.7.00.1859
+    slimcore_version: 2023.45.01.17
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: January 08, 2024
+    version: 1.6.00.35956
+    slimcore_version: 2023.43.01.25
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: November 08, 2023
+    version: 1.6.00.29954
+    slimcore_version: 2023.38.01.51
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: October 10, 2023
+    version: 1.6.00.27656
+    slimcore_version: 2023.32.01.5
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: September 19, 2023
+    version: 1.6.00.24065
+    slimcore_version: 2023.30.01.14
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: August 09, 2023
+    version: 1.6.00.19353
+    slimcore_version: 2023.25.01.11
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: July 12, 2023
+    version: 1.6.00.17554
+    slimcore_version: 2023.21.01.09
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: June 21, 2023
+    version: 1.6.00.16465
+    slimcore_version: 2023.16.01.04
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: May 15, 2023
+    version: 1.6.00.11156
+    slimcore_version: 2023.13.01.25
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: April 04, 2023
+    version: 1.6.00.7354
+    slimcore_version: 2023.09.01.08
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: March 14, 2023
+    version: 1.6.00.4464
+    slimcore_version: 2023.05.01.18
+    electron_version: 19.1.8
+    rolling_out: 'false'
+  - date: February 10, 2023
+    version: 1.6.00.1159
+    slimcore_version: 2022.50.01.12
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: January 30, 2023
+    version: 1.6.00.364
+    slimcore_version: 2022.48.01.07
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: December 14, 2022
+    version: 1.5.00.33356
+    slimcore_version: 2022.44.01.14
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: December 01, 2022
+    version: 1.5.00.31156
+    slimcore_version: 2022.39.01.03
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: October 19, 2022
+    version: 1.5.00.26358
+    slimcore_version: 2022.35.01.22
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: August 30, 2022
+    version: 1.5.00.22362
+    slimcore_version: 2022.30.01.06
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: August 15, 2022
+    version: 1.5.00.21551
+    slimcore_version: 2022.26.01.15
+    electron_version: 16.2.8
+    rolling_out: 'false'
+  - date: July 01, 2022
+    version: 1.5.00.17261
+    slimcore_version: 2022.22.01.05
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: June 06, 2022
+    version: 1.5.00.12661
+    slimcore_version: 2022.17.01.08
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: May 11, 2022
+    version: 1.5.00.12657
+    slimcore_version: 2022.13.01.04
+    electron_version: 10.4.7
+    rolling_out: 'false'
+  - date: April 14, 2022
+    version: 1.5.00.10369
+    slimcore_version: 2022.09.01.05
+    electron_version: 10.4.7
+    rolling_out: 'false'

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 16, 2026 03:14 PM EDT</last_updated>
+	<last_updated>October 16, 2026 06:27 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>October 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/9e/02/e29e02f8-152b-019b-1431-b7ea0dab357f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 12, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3a/be/e23abe0c-74d5-fc43-3c2d-36b1a6a87dde/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This is the last version of the OneDrive iOS and iPadOS apps that can be installed on devices with iOS 18 or iPadOS 18. The next one will only support iOS 26 and 27 and iPadOS 26 and 27.</releaseNotes>
-		<version>18.12.3</version>
+		<version>18.12.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -193,11 +193,11 @@ Suggested quantity: Suggested quantities above 20 now appear when the quantity s
 		<name>iOS Microsoft Lists</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>October 15, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/06/61/1c0661ff-c76d-81e8-3345-6ecc6f127567/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>September 25, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/7f/66/d77f664e-9e60-e81a-f6b7-e656f40e98d5/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.6</minimumOsVersion>
 		<releaseNotes>Stability improvements and fixes.</releaseNotes>
-		<version>5.1.7</version>
+		<version>5.1.6</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
@@ -468,14 +468,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Word</application_name>
-		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>October 12, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/6b/ae/cd6baec4-0e48-0ea3-df3a-679aaf776b16/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft Copilot</application_name>
+		<bundleId>com.microsoft.officemobile</bundleId>
+		<currentVersionReleaseDate>October 13, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/c3/21/f0c32163-e21b-fbfd-ba3f-1cf01c8a2d33/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.114.5</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
+		<version>2.115</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

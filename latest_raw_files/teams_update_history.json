@@ -1,9 +1,17 @@
 {
-    "last_scan_date": "October 16, 2026 06:27 PM EDT",
+    "last_scan_date": "October 16, 2026 09:00 PM EDT",
     "mac": {
         "name": "New Teams for Mac",
         "cloud": "Public",
         "releases": [
+            {
+                "date": "October 16, 2026",
+                "version": "26276.505.5234.9924",
+                "slimcore_version": "2026.37.0-1.11-h606d2",
+                "rolling_out": "false",
+                "installer_download": "https://statics.teams.cdn.office.net/production-osx/26276.505.5234.9924/MicrosoftTeams.pkg",
+                "archive": "false"
+            },
             {
                 "date": "October 07, 2026",
                 "version": "26261.303.5165.1465",
@@ -1671,10 +1679,10 @@
         "cloud": "Government",
         "releases": [
             {
-                "date": "October 09, 2026",
+                "date": "October 13, 2026",
                 "version": "26261.303.5165.1465",
                 "slimcore_version": "2026.36.0-1.4-h5655d",
-                "rolling_out": "true",
+                "rolling_out": "false",
                 "installer_download": "https://statics.teams.cdn.office.net/production-osx/26261.303.5165.1465/MicrosoftTeams.pkg",
                 "archive": "false"
             },
@@ -2157,10 +2165,10 @@
         "cloud": "Government",
         "releases": [
             {
-                "date": "October 09, 2026",
+                "date": "October 13, 2026",
                 "version": "26261.303.5165.1465",
                 "slimcore_version": "2026.36.0-1.4-h5655d",
-                "rolling_out": "true",
+                "rolling_out": "false",
                 "installer_download": "https://statics.teams.cdn.office.net/production-osx/26261.303.5165.1465/MicrosoftTeams.pkg",
                 "archive": "false"
             },
@@ -2691,10 +2699,10 @@
         "cloud": "Government",
         "releases": [
             {
-                "date": "October 09, 2026",
+                "date": "October 13, 2026",
                 "version": "26261.303.5165.1465",
                 "slimcore_version": "2026.36.0-1.4-h5655d",
-                "rolling_out": "true",
+                "rolling_out": "false",
                 "installer_download": "https://statics.teams.cdn.office.net/production-osx/26261.303.5165.1465/MicrosoftTeams.pkg",
                 "archive": "false"
             },

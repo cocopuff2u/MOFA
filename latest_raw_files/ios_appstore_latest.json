@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 18, 2026 03:12 PM EDT",
+    "last_updated": "October 18, 2026 06:11 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -278,14 +278,14 @@
         },
         {
             "name": "iOS Microsoft Power Apps",
-            "application_name": "ECG PowerApp",
-            "bundleId": "com.ECG.reactapp",
-            "currentVersionReleaseDate": "October 16, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/81/df/d181dff6-cdca-091b-4008-866104ef387f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "13.0",
-            "releaseNotes": "Bug fixes and performance improvements",
-            "version": "6.0.203",
-            "app_store_url": "https://apps.apple.com/us/app/ecg-powerapp/id1398352884?uo=4"
+            "application_name": "Power Apps",
+            "bundleId": "com.microsoft.msapps",
+            "currentVersionReleaseDate": "October 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/51/46/6f514620-e846-df83-2fb7-2403eb6728e7/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "17.0",
+            "releaseNotes": "\u2022 Bug fixes and performance improvements",
+            "version": "3.26101.9",
+            "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
         },
         {
             "name": "iOS Microsoft Authenticator",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 17, 2026 05:15 PM EDT</last_updated>
+	<last_updated>October 17, 2026 10:50 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>October 12, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3a/be/e23abe0c-74d5-fc43-3c2d-36b1a6a87dde/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/9e/02/e29e02f8-152b-019b-1431-b7ea0dab357f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>This is the last version of the OneDrive iOS and iPadOS apps that can be installed on devices with iOS 18 or iPadOS 18. The next one will only support iOS 26 and 27 and iPadOS 26 and 27.</releaseNotes>
-		<version>18.12.2</version>
+		<version>18.12.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -362,14 +362,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Power Apps</name>
-		<application_name>Power Apps</application_name>
-		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>October 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/51/46/6f514620-e846-df83-2fb7-2403eb6728e7/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26101.9</version>
-		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
+		<application_name>ECG PowerApp</application_name>
+		<bundleId>com.ECG.reactapp</bundleId>
+		<currentVersionReleaseDate>October 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/81/df/d181dff6-cdca-091b-4008-866104ef387f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>13.0</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
+		<version>6.0.203</version>
+		<app_store_url>https://apps.apple.com/us/app/ecg-powerapp/id1398352884?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>
@@ -384,14 +384,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Advertising</name>
-		<application_name>Google Ads</application_name>
-		<bundleId>com.google.AdWords</bundleId>
+		<application_name>Meta Ads Manager</application_name>
+		<bundleId>com.facebook.MAdMan</bundleId>
 		<currentVersionReleaseDate>October 15, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/ae/ac/33aeace3-d820-0c7b-83f8-0645047b9701/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.</releaseNotes>
-		<version>3.41.20090807</version>
-		<app_store_url>https://apps.apple.com/us/app/google-ads/id1037457231?uo=4</app_store_url>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/c3/a7/40c3a758-2ed1-b977-33f5-c3fd57f42002/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.1</minimumOsVersion>
+		<releaseNotes>Bug fixes and performance updates</releaseNotes>
+		<version>497.0</version>
+		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
@@ -468,14 +468,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Word</application_name>
-		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>October 12, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/6b/ae/cd6baec4-0e48-0ea3-df3a-679aaf776b16/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft Copilot</application_name>
+		<bundleId>com.microsoft.officemobile</bundleId>
+		<currentVersionReleaseDate>October 13, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/c3/21/f0c32163-e21b-fbfd-ba3f-1cf01c8a2d33/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.114.5</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
+		<version>2.115</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

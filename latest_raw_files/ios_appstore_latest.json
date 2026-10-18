@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 17, 2026 05:15 PM EDT",
+    "last_updated": "October 17, 2026 10:50 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -60,11 +60,11 @@
             "name": "iOS Microsoft OneDrive",
             "application_name": "Microsoft OneDrive",
             "bundleId": "com.microsoft.skydrive",
-            "currentVersionReleaseDate": "October 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3a/be/e23abe0c-74d5-fc43-3c2d-36b1a6a87dde/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 16, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/9e/02/e29e02f8-152b-019b-1431-b7ea0dab357f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "This is the last version of the OneDrive iOS and iPadOS apps that can be installed on devices with iOS 18 or iPadOS 18. The next one will only support iOS 26 and 27 and iPadOS 26 and 27.",
-            "version": "18.12.2",
+            "version": "18.12.3",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
         },
         {
@@ -278,14 +278,14 @@
         },
         {
             "name": "iOS Microsoft Power Apps",
-            "application_name": "Power Apps",
-            "bundleId": "com.microsoft.msapps",
-            "currentVersionReleaseDate": "October 13, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/51/46/6f514620-e846-df83-2fb7-2403eb6728e7/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "17.0",
-            "releaseNotes": "\u2022 Bug fixes and performance improvements",
-            "version": "3.26101.9",
-            "app_store_url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
+            "application_name": "ECG PowerApp",
+            "bundleId": "com.ECG.reactapp",
+            "currentVersionReleaseDate": "October 16, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/81/df/d181dff6-cdca-091b-4008-866104ef387f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "13.0",
+            "releaseNotes": "Bug fixes and performance improvements",
+            "version": "6.0.203",
+            "app_store_url": "https://apps.apple.com/us/app/ecg-powerapp/id1398352884?uo=4"
         },
         {
             "name": "iOS Microsoft Authenticator",
@@ -300,14 +300,14 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Google Ads",
-            "bundleId": "com.google.AdWords",
+            "application_name": "Meta Ads Manager",
+            "bundleId": "com.facebook.MAdMan",
             "currentVersionReleaseDate": "October 15, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/ae/ac/33aeace3-d820-0c7b-83f8-0645047b9701/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.",
-            "version": "3.41.20090807",
-            "app_store_url": "https://apps.apple.com/us/app/google-ads/id1037457231?uo=4"
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/c3/a7/40c3a758-2ed1-b977-33f5-c3fd57f42002/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "15.1",
+            "releaseNotes": "Bug fixes and performance updates",
+            "version": "497.0",
+            "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
@@ -377,14 +377,14 @@
         },
         {
             "name": "iOS Microsoft 365 Office",
-            "application_name": "Microsoft Word",
-            "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "October 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/6b/ae/cd6baec4-0e48-0ea3-df3a-679aaf776b16/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "application_name": "Microsoft Copilot",
+            "bundleId": "com.microsoft.officemobile",
+            "currentVersionReleaseDate": "October 13, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/c3/21/f0c32163-e21b-fbfd-ba3f-1cf01c8a2d33/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.114.5",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
+            "version": "2.115",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4"
         },
         {
             "name": "iOS Microsoft Skype for Business",

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 17, 2026 10:50 PM EDT</last_updated>
+	<last_updated>October 18, 2026 08:24 AM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -362,14 +362,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Power Apps</name>
-		<application_name>ECG PowerApp</application_name>
-		<bundleId>com.ECG.reactapp</bundleId>
-		<currentVersionReleaseDate>October 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/81/df/d181dff6-cdca-091b-4008-866104ef387f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>13.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>6.0.203</version>
-		<app_store_url>https://apps.apple.com/us/app/ecg-powerapp/id1398352884?uo=4</app_store_url>
+		<application_name>Power Apps</application_name>
+		<bundleId>com.microsoft.msapps</bundleId>
+		<currentVersionReleaseDate>October 13, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/51/46/6f514620-e846-df83-2fb7-2403eb6728e7/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.0</minimumOsVersion>
+		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
+		<version>3.26101.9</version>
+		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Authenticator</name>

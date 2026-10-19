@@ -1,422 +1,522 @@
-import requests
+"""
+Generate latest_raw_files/macos_standalone_onedrive_all.{xml,json,yaml}
+
+Reads every OneDrive for Mac update-ring manifest Microsoft publishes
+(g.live.com/0USSDMC_W5T/*), the official download fwlinks, and the macOS
+table on the OneDrive release-notes page.
+
+Output keeps the original <package> schema (name, short_version,
+application_id, application_name, CFBundleVersion, full_update_download,
+full_update_sha1, full_update_sha256, last_updated) so update_readme.py and
+the website keep working, and adds extra fields alongside:
+
+  build                  4-part build number, e.g. 26.173.0906.0008
+  rollout_percent        Throttle from the manifest (100 = fully released)
+  min_applicable         oldest installed build this update applies to
+  max_applicable         newest installed build this update applies to
+  intel_update_download  Intel-only pkg
+  intel_update_sha256    Microsoft-published SHA256 of the Intel pkg
+  universal_zip_download / universal_zip_sha1
+  release_date           from the release-notes page when Microsoft lists it
+  fwlink                 the go.microsoft.com link for this ring, if any
+  updater                which updater reads this manifest
+  source                 manifest URL the data came from
+  sha256_source          "microsoft_manifest" or "computed"
+  sha256_verified        "true" when a download was hashed and matched
+
+Hashes come from the manifests, so no installer download is needed.
+Set ONEDRIVE_VERIFY_DOWNLOAD=true to also download each changed pkg,
+compute SHA1 and verify SHA256 against Microsoft's published value.
+
+Set ONEDRIVE_OUTPUT_DIR to write somewhere other than latest_raw_files/.
+"""
+
+import base64
 import hashlib
+import html
+import json
+import logging
+import os
+import plistlib
+import re
 import xml.etree.ElementTree as ET
+from collections import OrderedDict
 from datetime import datetime
 from xml.dom.minidom import parseString
-import logging
-import subprocess
-import os
-import json
-import yaml  # Add this import
-from collections import OrderedDict  # Add this import
-import pytz  # Add this import
 
-# Configure logging
+import pytz
+import requests
+import yaml
+
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-def fetch_url_content(url):
-    response = requests.get(url)
-    response.raise_for_status()
-    return response.content
+MANIFEST_BASE = "https://g.live.com/0USSDMC_W5T/"
+RELEASE_NOTES_URL = ("https://support.microsoft.com/en-us/office/"
+                     "onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0")
+HEADERS = {"User-Agent": "MOFA/1.0 (+https://github.com/cocopuff2u/MOFA)"}
+TIMEOUT = 60
 
-def calculate_hash(content, hash_type="sha256"):
-    if hash_type == "sha256":
-        return hashlib.sha256(content).hexdigest()
-    elif hash_type == "sha1":
-        return hashlib.sha1(content).hexdigest()
-    return None
+# Ring label -> manifests. "in_app" is read by the OneDriveUpdaterDaemon inside
+# OneDrive.app; "standalone" is read by the legacy OneDriveStandaloneUpdater
+# LaunchAgent. Enterprise is Microsoft's internal name for the Deferred ring.
+# MSIT rings are Microsoft-internal dogfood rings; builds are public on the CDN.
+RINGS = OrderedDict([
+    ("Production Ring", {"in_app": "StandaloneProductManifest", "standalone": "MacODSUProduction",
+                         "fwlink": "https://go.microsoft.com/fwlink/?linkid=823060"}),
+    ("Deferred Ring",   {"in_app": "StandaloneEnterpriseManifest", "standalone": "MacODSUEnterprise",
+                         "fwlink": "https://go.microsoft.com/fwlink/?linkid=861009"}),
+    ("Insider Ring",    {"in_app": "StandaloneInsidersManifest", "standalone": "MacODSUInsiders",
+                         "fwlink": None}),
+    ("MSIT Slow Ring (Preview)", {"in_app": "StandaloneMsitSlowManifest", "standalone": "MacODSUMsitSlow",
+                                  "fwlink": None}),
+    ("MSIT Fast Ring (Preview)", {"in_app": "StandaloneMsitFastManifest", "standalone": "MacODSUMsitFast",
+                                  "fwlink": None}),
+])
 
-def extract_from_xml(url, key):
-    response = requests.get(url)
-    response.raise_for_status()
-    tree = ET.fromstring(response.content)
-    logging.info(f"Parsing XML from {url} for key '{key}'")
-    for parent in tree.iter():
-        for element in parent:
-            if element.tag == "key" and element.text == key:
-                # Look for the next sibling element with the tag "string"
-                siblings = list(parent)
-                for i, sibling in enumerate(siblings):
-                    if sibling == element and i + 1 < len(siblings):
-                        next_sibling = siblings[i + 1]
-                        if next_sibling.tag == "string":
-                            logging.info(f"Found value for key '{key}': {next_sibling.text}")
-                            return next_sibling.text
-    logging.warning(f"Key '{key}' not found in XML from {url}")
-    return None
+# fwlinks that are not simply "current build of a ring"
+FWLINK_PACKAGES = [
+    {"name": "Upcoming Deferred Ring", "url": "https://go.microsoft.com/fwlink/?linkid=861010",
+     "note": "Deferred ring build currently rolling out (see release notes target date)"},
+    {"name": "Rolling Out (Unknown Use)", "url": "https://go.microsoft.com/fwlink/?linkid=861011",
+     "note": "Purpose not documented by Microsoft; historically lags Production by about a week"},
+    {"name": "Production Ring (Official Download Link)", "url": "https://go.microsoft.com/fwlink/?linkid=823060",
+     "note": "The public 'Download OneDrive for Mac' link; matches the release-notes Production version"},
+]
 
-def fetch_linked_id_version(url):
-    try:
-        # Corrected the curl command to fetch the version
-        result = subprocess.run(
-            f"curl -fsIL \"{url}\" | grep -i location: | cut -d '/' -f 6 | cut -d '.' -f 1-3",
-            capture_output=True,
-            text=True,
-            shell=True
-        )
-        version = result.stdout.strip()
-        if version:
-            logging.info(f"Fetched version '{version}' for URL: {url}")
-            return version
+# Last supported build for older macOS versions
+# Manifest names are the threshold: MacOS14_4Manifest is what a Mac running
+# anything older than 14.4 is offered (26.145 already requires 14.4).
+LEGACY_MACOS = OrderedDict([
+    ("macOS below 10.13", "MacOS10_13Manifest"),
+    ("macOS below 10.15", "MacOS10_15Manifest"),
+    ("macOS below 12.3",  "MacOS12_3Manifest"),
+    ("macOS below 13.0",  "MacOS13_0Manifest"),
+    ("macOS below 14.4",  "MacOS14_4Manifest"),
+])
+
+PACKAGE_ORDER = [
+    "Production Ring", "Upcoming Production Ring", "Production Ring (Official Download Link)",
+    "Deferred Ring", "Upcoming Deferred Ring",
+    "Insider Ring", "Upcoming Insider Ring",
+    "MSIT Slow Ring (Preview)", "Upcoming MSIT Slow Ring (Preview)",
+    "MSIT Fast Ring (Preview)", "Upcoming MSIT Fast Ring (Preview)",
+    "Rolling Out (Unknown Use)",
+    "Production Ring (Standalone Updater)", "Deferred Ring (Standalone Updater)",
+    "Insider Ring (Standalone Updater)",
+    "MSIT Slow Ring (Standalone Updater)", "MSIT Fast Ring (Standalone Updater)",
+]
+
+# Fields the README parser requires on every package, in the original order.
+LEGACY_FIELDS = ["name", "short_version", "application_id", "application_name", "CFBundleVersion",
+                 "full_update_download", "full_update_sha1", "full_update_sha256", "last_updated"]
+EXTRA_FIELDS = ["build", "rollout_percent", "min_applicable", "max_applicable",
+                "intel_update_download", "intel_update_sha256",
+                "universal_zip_download", "universal_zip_sha1",
+                "release_date", "fwlink", "updater", "source", "sha256_source", "sha256_verified", "note"]
+ALL_FIELDS = LEGACY_FIELDS + EXTRA_FIELDS
+
+
+# --------------------------------------------------------------------------- helpers
+
+def now_eastern():
+    utc_now = datetime.now(pytz.utc)
+    return utc_now.astimezone(pytz.timezone("US/Eastern")).strftime("%B %d, %Y %I:%M %p %Z")
+
+
+def http_get(url):
+    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    r.raise_for_status()
+    return r
+
+
+def b64_to_hex(value):
+    if not value:
         return "N/A"
+    try:
+        return base64.b64decode(value).hex()
+    except Exception:
+        return "N/A"
+
+
+def build_from_url(url):
+    m = re.search(r"/(\d{2}\.\d{3}\.\d{4}\.\d{4})/", url or "")
+    return m.group(1) if m else None
+
+
+def short_version(build):
+    return ".".join(build.split(".")[:3]) if build else "N/A"
+
+
+def resolve_fwlink(url):
+    """Follow redirects with HEAD and return the final URL."""
+    try:
+        r = requests.head(url, headers=HEADERS, allow_redirects=True, timeout=TIMEOUT)
+        return r.url
     except Exception as e:
-        logging.error(f"Error fetching version for URL {url}: {e}")
-        return "N/A"
+        logging.error(f"Could not resolve {url}: {e}")
+        return None
 
-def load_existing_data(file_path):
-    """Load existing data from the output XML file."""
+
+# --------------------------------------------------------------------------- manifests
+
+def fetch_manifest(name):
+    """Return a list of entries (newest first) from one g.live.com manifest."""
+    url = MANIFEST_BASE + name
     try:
-        tree = ET.parse(file_path)
-        root = tree.getroot()
-        existing_data = {}
-        for package in root.findall("package"):
-            name_element = package.find("name")
-            short_version_element = package.find("short_version")
-            last_updated_element = package.find("last_updated")
-            download_element = package.find("full_update_download")
-            sha1_element = package.find("full_update_sha1")
-            sha256_element = package.find("full_update_sha256")
+        data = http_get(url).content
+        plist = plistlib.loads(data)
+    except Exception as e:
+        logging.error(f"Could not read manifest {name}: {e}")
+        return []
 
-            # Ensure elements exist before accessing their text
-            name = name_element.text if name_element is not None else None
-            short_version = short_version_element.text if short_version_element is not None else None
-            last_updated = last_updated_element.text if last_updated_element is not None else None
-            download_url = download_element.text if download_element is not None else None
-            sha1 = sha1_element.text if sha1_element is not None else "N/A"
-            sha256 = sha256_element.text if sha256_element is not None else "N/A"
+    entries = []
+    for d in plist.get("ManifestArray", []):
+        sv = d.get("CFBundleShortVersionString")
+        bv = d.get("CFBundleVersion", "")
+        if not sv:
+            continue
+        build = f"{sv}.{bv.split('.')[-1]}" if bv else sv
+        universal_pkg = d.get("UniversalPkgBinaryURL") or ""
+        intel_pkg = d.get("PkgBinaryURL") or ""
+        entries.append({
+            "build": build,
+            "short_version": sv,
+            "rollout_percent": str(int(d.get("Throttle", 100))),
+            "min_applicable": d.get("MinApplicable", "N/A"),
+            "max_applicable": d.get("MaxApplicable", "N/A"),
+            # Prefer the universal pkg; very old manifests only have an Intel pkg
+            "full_update_download": universal_pkg or intel_pkg,
+            "full_update_sha256": b64_to_hex(d.get("UniversalPkgSha256Hash") if universal_pkg else d.get("PkgSha256Hash")),
+            "intel_update_download": intel_pkg or "N/A",
+            "intel_update_sha256": b64_to_hex(d.get("PkgSha256Hash")),
+            "universal_zip_download": d.get("UniversalBinaryURL", "N/A"),
+            "universal_zip_sha1": d.get("UniversalSha1Hash", "N/A"),
+            "source": url,
+        })
+    entries.sort(key=lambda e: e["build"], reverse=True)
+    return entries
 
-            if name:
-                existing_data[name] = {
-                    "short_version": short_version,
-                    "last_updated": last_updated,
-                    "full_update_download": download_url,
-                    "full_update_sha1": sha1,
-                    "full_update_sha256": sha256
-                }
-        return existing_data
+
+# --------------------------------------------------------------------------- release notes
+
+def fetch_release_notes():
+    """Return (mac_table, dates). mac_table: ring -> {released, rolling_out};
+    dates: 4-part build -> 'Month D, YYYY' for the macOS sections."""
+    try:
+        t = http_get(RELEASE_NOTES_URL).text
+    except Exception as e:
+        logging.error(f"Could not read release notes: {e}")
+        return {}, {}
+
+    def clean(s):
+        return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
+
+    mac_table = {}
+    for tb in re.findall(r"<table.*?</table>", t, flags=re.S):
+        rows = [[clean(c) for c in re.findall(r"<t[dh].*?</t[dh]>", tr, flags=re.S)]
+                for tr in re.findall(r"<tr.*?</tr>", tb, flags=re.S)]
+        if any("universal" in " ".join(r).lower() for r in rows):  # the macOS table
+            for r in rows[1:]:
+                if len(r) >= 3:
+                    mac_table[r[0]] = {"released": r[1].split(" (")[0].strip(),
+                                       "rolling_out": r[2].strip() or "N/A"}
+
+    dates, section = {}, None
+    for _, h in re.findall(r"<(h[1-4])[^>]*>(.*?)</h[1-4]>", t, flags=re.S):
+        h = clean(h)
+        if h.startswith("macOS") or h.startswith("Windows"):
+            section = h
+        elif section and section.startswith("macOS"):
+            m = re.match(r"(\d{2}\.\d{3}\.\d{4}\.\d{4}) \((.+)\)", h)
+            if m:
+                dates[m.group(1)] = m.group(2)
+    logging.info(f"Release notes: {mac_table}; {len(dates)} dated macOS builds")
+    return mac_table, dates
+
+
+# --------------------------------------------------------------------------- existing data
+
+def load_existing(path):
+    existing = {}
+    try:
+        root = ET.parse(path).getroot()
     except FileNotFoundError:
-        logging.warning(f"{file_path} not found. Starting fresh.")
-        return {}
+        logging.warning(f"{path} not found. Starting fresh.")
+        return existing
     except Exception as e:
         logging.error(f"Error loading existing data: {e}")
-        return {}
+        return existing
+    for pkg in root.findall("package"):
+        rec = {child.tag: (child.text or "") for child in pkg}
+        name = rec.get("name")
+        if name:
+            # Old files only had a 3-part version; derive build from the URL if possible
+            if not rec.get("build"):
+                rec["build"] = build_from_url(rec.get("full_update_download")) or rec.get("short_version")
+            existing[name] = rec
+    return existing
 
-def has_version_changed(package_name, new_version, existing_data):
-    """Check if the version has changed compared to local data."""
-    if package_name not in existing_data:
-        logging.info(f"New package detected: '{package_name}'")
-        return True
-        
-    old_version = existing_data[package_name]["short_version"]
-    if old_version != new_version:
-        logging.info(f"Version change for '{package_name}': {old_version} -> {new_version}")
-        return True
-        
-    logging.info(f"No version change for '{package_name}': still {old_version}")
-    return False
 
-def generate_package_xml(package_data, existing_data, now):
-    package = ET.Element("package")
-    
-    package_name = package_data.get("name", "")
-    # If we're using existing data (no version change), use all the old data
-    if not package_data.get("version_changed", True) and package_name in existing_data:
-        existing_package = existing_data[package_name]
-        
-        # Add elements in the specified order
-        name = ET.SubElement(package, "name")
-        name.text = package_name
+# --------------------------------------------------------------------------- hashing
 
-        short_version = ET.SubElement(package, "short_version")
-        short_version.text = existing_package["short_version"]
+_download_cache = {}
 
-        application_id = ET.SubElement(package, "application_id")
-        application_id.text = "ONDR18"
 
-        application_name = ET.SubElement(package, "application_name")
-        application_name.text = "OneDrive.app"
+def hash_download(url):
+    """Download a pkg once per run and return (sha1, sha256)."""
+    if url in _download_cache:
+        return _download_cache[url]
+    logging.info(f"Downloading {url} to compute hashes")
+    sha1, sha256 = hashlib.sha1(), hashlib.sha256()
+    with requests.get(url, headers=HEADERS, stream=True, timeout=TIMEOUT) as r:
+        r.raise_for_status()
+        for chunk in r.iter_content(1024 * 1024):
+            sha1.update(chunk)
+            sha256.update(chunk)
+    _download_cache[url] = (sha1.hexdigest(), sha256.hexdigest())
+    return _download_cache[url]
 
-        cf_bundle_version = ET.SubElement(package, "CFBundleVersion")
-        cf_bundle_version.text = "com.microsoft.onedrive"
 
-        full_update_download = ET.SubElement(package, "full_update_download")
-        full_update_download.text = existing_package["full_update_download"]
+def verify_enabled():
+    return os.environ.get("ONEDRIVE_VERIFY_DOWNLOAD", "false").lower() in ("1", "true", "yes")
 
-        full_update_sha1 = ET.SubElement(package, "full_update_sha1")
-        full_update_sha1.text = existing_package["full_update_sha1"]
 
-        full_update_sha256 = ET.SubElement(package, "full_update_sha256")
-        full_update_sha256.text = existing_package["full_update_sha256"]
+# --------------------------------------------------------------------------- package assembly
 
-        last_updated = ET.SubElement(package, "last_updated")
-        last_updated.text = existing_package["last_updated"]  # Keep the original timestamp
+def base_package(name):
+    return OrderedDict([
+        ("name", name),
+        ("short_version", "N/A"),
+        ("application_id", "ONDR18"),
+        ("application_name", "OneDrive.app"),
+        ("CFBundleVersion", "com.microsoft.onedrive"),
+        ("full_update_download", "N/A"),
+        ("full_update_sha1", "N/A"),
+        ("full_update_sha256", "N/A"),
+        ("last_updated", "N/A"),
+    ] + [(f, "N/A") for f in EXTRA_FIELDS])
+
+
+def finalize(pkg, existing, now, all_known_builds):
+    """Set last_updated based on whether the build changed, carry over SHA1,
+    and optionally download+verify."""
+    name = pkg["name"]
+    old = existing.get(name)
+    changed = not old or old.get("build") != pkg["build"]
+
+    if not changed:
+        pkg["last_updated"] = old.get("last_updated") or now
+        if old.get("full_update_sha1") not in (None, "", "N/A"):
+            pkg["full_update_sha1"] = old["full_update_sha1"]
+        if old.get("sha256_verified") == "true" and old.get("full_update_sha256") == pkg["full_update_sha256"]:
+            pkg["sha256_verified"] = "true"
+        logging.info(f"No change for '{name}': still {pkg['build']}")
     else:
-        # Add elements with new data
-        name = ET.SubElement(package, "name")
-        name.text = package_name
+        pkg["last_updated"] = now
+        logging.info(f"Change for '{name}': {old.get('build') if old else 'new'} -> {pkg['build']}")
 
-        short_version = ET.SubElement(package, "short_version")
-        short_version.text = package_data.get("short_version", "N/A")
+    # Reuse a SHA1 computed earlier for the same build under another package name
+    if pkg["full_update_sha1"] == "N/A":
+        for rec in all_known_builds.values():
+            if rec.get("build") == pkg["build"] and rec.get("full_update_download") == pkg["full_update_download"] \
+                    and rec.get("full_update_sha1") not in (None, "", "N/A"):
+                pkg["full_update_sha1"] = rec["full_update_sha1"]
+                break
 
-        application_id = ET.SubElement(package, "application_id")
-        application_id.text = "ONDR18"
+    if changed and verify_enabled() and pkg["full_update_download"].startswith("http"):
+        try:
+            sha1, sha256 = hash_download(pkg["full_update_download"])
+            pkg["full_update_sha1"] = sha1
+            if pkg["full_update_sha256"] == "N/A":
+                pkg["full_update_sha256"] = sha256
+                pkg["sha256_source"] = "computed"
+                pkg["sha256_verified"] = "true"
+            elif sha256 == pkg["full_update_sha256"]:
+                pkg["sha256_verified"] = "true"
+            else:
+                pkg["sha256_verified"] = "false"
+                logging.error(f"SHA256 mismatch for {name}: manifest {pkg['full_update_sha256']} vs computed {sha256}")
+        except Exception as e:
+            logging.error(f"Download/verify failed for {name}: {e}")
+    return pkg
 
-        application_name = ET.SubElement(package, "application_name")
-        application_name.text = "OneDrive.app"
 
-        cf_bundle_version = ET.SubElement(package, "CFBundleVersion")
-        cf_bundle_version.text = "com.microsoft.onedrive"
+def package_from_entry(name, entry, updater, fwlink, dates, note="N/A"):
+    pkg = base_package(name)
+    pkg.update({
+        "short_version": entry["short_version"],
+        "build": entry["build"],
+        "full_update_download": entry["full_update_download"],
+        "full_update_sha256": entry["full_update_sha256"],
+        "sha256_source": "microsoft_manifest" if entry["full_update_sha256"] != "N/A" else "N/A",
+        "rollout_percent": entry["rollout_percent"],
+        "min_applicable": entry["min_applicable"],
+        "max_applicable": entry["max_applicable"],
+        "intel_update_download": entry["intel_update_download"],
+        "intel_update_sha256": entry["intel_update_sha256"],
+        "universal_zip_download": entry["universal_zip_download"],
+        "universal_zip_sha1": entry["universal_zip_sha1"],
+        "release_date": dates.get(entry["build"], "N/A"),
+        "fwlink": fwlink or "N/A",
+        "updater": updater,
+        "source": entry["source"],
+        "note": note,
+    })
+    return pkg
 
-        full_update_download = ET.SubElement(package, "full_update_download")
-        full_update_download.text = package_data.get("full_update_download", "")
 
-        full_update_sha1 = ET.SubElement(package, "full_update_sha1")
-        full_update_sha1.text = package_data.get("full_update_sha1", "N/A")
-
-        full_update_sha256 = ET.SubElement(package, "full_update_sha256")
-        full_update_sha256.text = package_data.get("full_update_sha256", "N/A")
-
-        last_updated = ET.SubElement(package, "last_updated")
-        last_updated.text = now
-
-    return package
-
-def skip_sha_checks():
-    # Function to determine if SHA checks should be skipped
-    # This can be controlled via an environment variable or a configuration flag
-    return False  # Set to True to skip SHA checks
-
-def fetch_package_data(existing_data):
+def build_packages(existing, now):
+    mac_table, dates = fetch_release_notes()
     packages = []
+    builds_seen = {}  # build -> entry, for fwlink hash reuse
 
-    # URLs with linkid (generate information)
-    linkid_urls = [
-        {"name": "Deferred Ring", "url": "https://go.microsoft.com/fwlink/?linkid=861009"},
-        {"name": "Upcoming Deferred  Ring", "url": "https://go.microsoft.com/fwlink/?linkid=861010"},
-        {"name": "Rolling Out (Unknown Use)", "url": "https://go.microsoft.com/fwlink/?linkid=861011"},
-        {"name": "App New Version (Unknown Use)", "url": "https://go.microsoft.com/fwlink/?linkid=823060"}
-    ]
-    for entry in linkid_urls:
-        short_version = fetch_linked_id_version(entry["url"])
-        version_changed = has_version_changed(entry["name"], short_version, existing_data)
-        
-        # Only fetch content and calculate hashes if version has changed
-        if version_changed and not skip_sha_checks():
-            logging.info(f"Fetching content and calculating hashes for {entry['name']}")
-            content = fetch_url_content(entry["url"])
-            sha1 = calculate_hash(content, "sha1")
-            sha256 = calculate_hash(content, "sha256")
+    for ring, cfg in RINGS.items():
+        # In-app updater manifest is the primary row for the ring
+        entries = fetch_manifest(cfg["in_app"])
+        if entries:
+            current = next((e for e in entries if e["rollout_percent"] == "100"), entries[-1])
+            packages.append(package_from_entry(ring, current, "OneDrive.app in-app updater", cfg["fwlink"], dates))
+            for e in entries:
+                builds_seen[e["build"]] = e
+                if e is not current and e["build"] > current["build"]:
+                    packages.append(package_from_entry(
+                        f"Upcoming {ring}", e, "OneDrive.app in-app updater", None, dates,
+                        note=f"Staged rollout at {e['rollout_percent']}% of devices"))
         else:
-            if entry["name"] in existing_data:
-                sha1 = existing_data[entry["name"]]["full_update_sha1"]
-                sha256 = existing_data[entry["name"]]["full_update_sha256"]
-            else:
-                sha1 = "N/A"
-                sha256 = "N/A"
-            
-        package_data = {
-            "name": entry["name"],
-            "short_version": short_version,
-            "full_update_download": entry["url"],
-            "full_update_sha1": sha1,
-            "full_update_sha256": sha256,
-            "version_changed": version_changed
-        }
-        packages.append(package_data)
+            logging.error(f"No entries in {cfg['in_app']}")
 
-    # URLs without linkid (pull XML information)
-    xml_urls = [
-        {
-            "name": "Insider Ring",
-            "url": "https://g.live.com/0USSDMC_W5T/MacODSUInsiders",
-            "version_key": "CFBundleShortVersionString",
-            "binary_url_key": "UniversalPkgBinaryURL"
-        },
-        {
-            "name": "Upcoming Production Ring",
-            "url": "https://g.live.com/0USSDMC_W5T/StandaloneProductManifest",
-            "version_key": "CFBundleShortVersionString",
-            "binary_url_key": "UniversalPkgBinaryURL"
-        },
-        {
-            "name": "Production Ring",
-            "url": "https://g.live.com/0USSDMC_W5T/StandaloneProductManifest",
-            "version_key": "CFBundleShortVersionString",
-            "binary_url_key": "UniversalPkgBinaryURL"
-        }
-    ]
-    for entry in xml_urls:
-        version = extract_from_xml(entry["url"], entry["version_key"])
-        version_changed = has_version_changed(entry["name"], version, existing_data)
-        
-        # Only fetch binary URL and calculate hashes if version has changed
-        if version_changed:
-            binary_url = extract_from_xml(entry["url"], entry["binary_url_key"])
-            if not binary_url:
-                logging.error(f"Binary URL not found for {entry['name']} in {entry['url']}")
-                continue
-                
-            if not skip_sha_checks():
-                logging.info(f"Fetching content and calculating hashes for {entry['name']}")
-                content = fetch_url_content(binary_url)
-                sha1 = calculate_hash(content, "sha1")
-                sha256 = calculate_hash(content, "sha256")
-            else:
-                sha1 = "N/A"
-                sha256 = "N/A"
+        # Legacy standalone updater manifest
+        sa_entries = fetch_manifest(cfg["standalone"])
+        if sa_entries:
+            e = sa_entries[0]
+            builds_seen.setdefault(e["build"], e)
+            packages.append(package_from_entry(
+                f"{ring.replace(' (Preview)', '')} (Standalone Updater)", e,
+                "OneDriveStandaloneUpdater (legacy LaunchAgent)", None, dates))
+
+    # fwlink-based rows
+    for item in FWLINK_PACKAGES:
+        final = resolve_fwlink(item["url"])
+        build = build_from_url(final)
+        pkg = base_package(item["name"])
+        pkg.update({"fwlink": item["url"], "updater": "N/A", "source": item["url"], "note": item["note"],
+                    "full_update_download": final or item["url"],
+                    "build": build or "N/A", "short_version": short_version(build)})
+        if build and build in builds_seen:
+            e = builds_seen[build]
+            if e["full_update_download"] == final:
+                pkg.update({"full_update_sha256": e["full_update_sha256"], "sha256_source": "microsoft_manifest",
+                            "intel_update_download": e["intel_update_download"],
+                            "intel_update_sha256": e["intel_update_sha256"],
+                            "universal_zip_download": e["universal_zip_download"],
+                            "universal_zip_sha1": e["universal_zip_sha1"],
+                            "min_applicable": e["min_applicable"], "max_applicable": e["max_applicable"]})
         else:
-            # Use existing data if version hasn't changed
-            binary_url = existing_data[entry["name"]]["full_update_download"]
-            sha1 = existing_data[entry["name"]]["full_update_sha1"]
-            sha256 = existing_data[entry["name"]]["full_update_sha256"]
-            
-        package_data = {
-            "name": entry["name"],
-            "short_version": version,
-            "full_update_download": binary_url,
-            "full_update_sha1": sha1,
-            "full_update_sha256": sha256,
-            "version_changed": version_changed
-        }
-        packages.append(package_data)
+            # Build not in any current manifest: carry over hashes if the build is unchanged,
+            # otherwise compute them (this is the only case that needs a download).
+            old = existing.get(item["name"])
+            if old and old.get("build") == build and old.get("full_update_sha256") not in (None, "", "N/A"):
+                pkg["full_update_sha256"] = old["full_update_sha256"]
+                pkg["sha256_source"] = old.get("sha256_source") or "computed"
+            elif final:
+                try:
+                    sha1, sha256 = hash_download(final)
+                    pkg.update({"full_update_sha1": sha1, "full_update_sha256": sha256,
+                                "sha256_source": "computed", "sha256_verified": "true"})
+                except Exception as ex:
+                    logging.error(f"Could not hash {final}: {ex}")
+        pkg["release_date"] = dates.get(build, "N/A")
+        if item["name"] == "Upcoming Deferred Ring" and mac_table.get("Deferred", {}).get("rolling_out") not in (None, "N/A"):
+            pkg["note"] = f"{item['note']}. Release notes: {mac_table['Deferred']['rolling_out']}"
+        packages.append(pkg)
 
-    return packages
+    # Last supported builds for older macOS
+    for label, manifest in LEGACY_MACOS.items():
+        entries = fetch_manifest(manifest)
+        if entries:
+            packages.append(package_from_entry(f"Last Build for {label}", entries[0], "OneDrive.app in-app updater",
+                                               None, dates, note="Final build offered to this macOS range"))
+
+    # Order: known names first in PACKAGE_ORDER, then legacy macOS rows in list order
+    order = {n: i for i, n in enumerate(PACKAGE_ORDER)}
+    packages = [p for _, p in sorted(enumerate(packages), key=lambda ip: order.get(ip[1]["name"], 500 + ip[0]))]
+
+    known = dict(existing)
+    for p in packages:
+        finalize(p, existing, now, known)
+        known[p["name"]] = p
+    return packages, mac_table
+
+
+# --------------------------------------------------------------------------- output
+
+def to_xml(packages, mac_table, now):
+    root = ET.Element("latest")
+    ET.SubElement(root, "last_updated").text = now
+
+    rn = ET.SubElement(root, "release_notes")
+    ET.SubElement(rn, "source").text = RELEASE_NOTES_URL
+    for ring in ("Production", "Deferred"):
+        v = mac_table.get(ring, {})
+        el = ET.SubElement(rn, ring.lower())
+        ET.SubElement(el, "released").text = v.get("released", "N/A")
+        ET.SubElement(el, "rolling_out").text = v.get("rolling_out", "N/A")
+
+    for p in packages:
+        pkg = ET.SubElement(root, "package")
+        for f in ALL_FIELDS:
+            ET.SubElement(pkg, f).text = str(p.get(f, "N/A"))
+    return parseString(ET.tostring(root, encoding="utf-8")).toprettyxml(indent="  ")
+
 
 def xml_to_dict(element):
-    """Convert XML element to ordered dictionary for JSON/YAML conversion."""
     result = OrderedDict()
     for child in element:
-        # Handle nested elements
         if len(child):
             child_dict = xml_to_dict(child)
             if child.tag in result:
-                # If the tag already exists, convert to list or append
                 if not isinstance(result[child.tag], list):
                     result[child.tag] = [result[child.tag]]
                 result[child.tag].append(child_dict)
             else:
                 result[child.tag] = child_dict
         else:
-            # Handle text elements
             result[child.tag] = child.text or ""
     return result
 
+
 def convert_to_json_yaml(xml_file):
-    """Convert XML file to JSON and YAML formats."""
-    try:
-        tree = ET.parse(xml_file)
-        root = tree.getroot()
-        
-        # Convert XML to ordered dictionary
-        data = OrderedDict()
-        data[root.tag] = xml_to_dict(root)
-        
-        # Generate file paths
-        base_path = os.path.splitext(xml_file)[0]
-        json_file = f"{base_path}.json"
-        yaml_file = f"{base_path}.yaml"
-        
-        # Write JSON file
-        with open(json_file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
-        logging.info(f"Generated JSON file: {json_file}")
-        
-        # Set up YAML to preserve dictionary order
-        class OrderedDumper(yaml.SafeDumper):
-            pass
-        
-        def _dict_representer(dumper, data):
-            return dumper.represent_mapping(
-                yaml.resolver.Resolver.DEFAULT_MAPPING_TAG,
-                data.items())
-        
-        OrderedDumper.add_representer(OrderedDict, _dict_representer)
-        
-        # Write YAML file with order preserved
-        with open(yaml_file, 'w', encoding='utf-8') as f:
-            yaml.dump(data, f, default_flow_style=False, allow_unicode=True, 
-                     Dumper=OrderedDumper)
-        logging.info(f"Generated YAML file: {yaml_file}")
-        
-        return True
-    except Exception as e:
-        logging.error(f"Error converting XML to JSON/YAML: {e}")
-        return False
+    root = ET.parse(xml_file).getroot()
+    data = OrderedDict()
+    data[root.tag] = xml_to_dict(root)
+    base = os.path.splitext(xml_file)[0]
+    with open(f"{base}.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-def get_package_order_priority(package_name):
-    """
-    Returns a numeric priority for package ordering.
-    Lower numbers will appear first in the sorted list.
-    """
-    order_map = {
-        "Production Ring": 1,
-        "Upcoming Production Ring": 2,
-        "Deferred Ring": 3,
-        "Upcoming Deferred  Ring": 4,
-        "Insider Ring": 5,
-        "Rolling Out (Unknown Use)": 6,
-        "App New Version (Unknown Use)": 7,
-    }
-    return order_map.get(package_name, 999)  # Default high number for unknown packages
+    class OrderedDumper(yaml.SafeDumper):
+        pass
 
-def get_current_date_time():
-    """
-    Get the current date and time in Eastern Time.
+    OrderedDumper.add_representer(
+        OrderedDict, lambda d, v: d.represent_mapping(yaml.resolver.Resolver.DEFAULT_MAPPING_TAG, v.items()))
+    with open(f"{base}.yaml", "w", encoding="utf-8") as f:
+        yaml.dump(data, f, default_flow_style=False, allow_unicode=True, Dumper=OrderedDumper)
+    logging.info(f"Wrote {base}.json and {base}.yaml")
 
-    Returns:
-        str: The formatted date and time.
-    """
-    # Get current UTC time and convert it to Eastern Time (or any other timezone)
-    utc_now = datetime.now(pytz.utc)  # Get current UTC time with tz info
-    eastern_time = utc_now.astimezone(pytz.timezone('US/Eastern'))  # Convert to Eastern Time
-
-    # Format the date and time as needed (e.g., 12/06/2024 04:30 PM Eastern)
-    formatted_date_time = eastern_time.strftime('%B %d, %Y %I:%M %p %Z')  # 'December 06, 2024 04:30 PM Eastern'
-
-    return formatted_date_time
 
 def main():
-    output_file = "latest_raw_files/macos_standalone_onedrive_all.xml"
-    now = get_current_date_time()  # Use the new function to get the current date and time
-    
-    # Load existing data if available
-    existing_data = load_existing_data(output_file)
-    
-    # Fetch package data, reusing existing data where possible
-    packages = fetch_package_data(existing_data)
-    
-    # Sort packages in the specified order
-    packages.sort(key=lambda pkg: get_package_order_priority(pkg["name"]))
-    
-    # Check if any package has changed
-    any_changes = any(package.get("version_changed", True) for package in packages)
-    
-    # Always generate a new XML file to update the global last_updated timestamp
-    # Generate new XML 
-    root = ET.Element("latest")
-    global_last_updated = ET.SubElement(root, "last_updated")
-    global_last_updated.text = now  # Always update the global last_updated field
-    
-    for package_data in packages:
-        package_xml = generate_package_xml(package_data, existing_data, now)
-        root.append(package_xml)
+    out_dir = os.environ.get("ONEDRIVE_OUTPUT_DIR", "latest_raw_files")
+    os.makedirs(out_dir, exist_ok=True)
+    output_file = os.path.join(out_dir, "macos_standalone_onedrive_all.xml")
+    now = now_eastern()
 
-    # Convert to string and pretty-print
-    rough_string = ET.tostring(root, encoding="utf-8")
-    reparsed = parseString(rough_string)
-    pretty_xml = reparsed.toprettyxml(indent="  ")
+    existing = load_existing(output_file)
+    packages, mac_table = build_packages(existing, now)
 
-    # Write to file
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write(pretty_xml)
-    
-    if any_changes:
-        logging.info(f"Updated {output_file} with {len(packages)} packages - some packages were updated")
-    else:
-        logging.info(f"Updated {output_file} with {len(packages)} packages - only global timestamp was updated")
-        
-    # Convert XML to JSON and YAML formats
+        f.write(to_xml(packages, mac_table, now))
+    logging.info(f"Wrote {output_file} with {len(packages)} packages")
     convert_to_json_yaml(output_file)
+
 
 if __name__ == "__main__":
     main()

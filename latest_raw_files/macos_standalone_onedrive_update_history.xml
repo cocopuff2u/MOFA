@@ -1,0 +1,1435 @@
+<?xml version="1.0" ?>
+<Releases>
+    <last_scan_date>October 19, 2026 12:35 PM EDT</last_scan_date>
+    <total_builds>110</total_builds>
+    <release>
+        <build>26.202.1015.0001</build>
+        <version>26.202.1015</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>MSIT Fast</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.202.1015.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>4d432410921976f753300e66e853753bdd5f942e9365b67bda161c4907cc249a</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.202.1015.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>3a4722b3e1aa53284d331342b4fb2d5928e7f2a7c38b2bc2ba95c771c87ef738</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneMsitFastManifest</sources>
+    </release>
+    <release>
+        <build>26.198.1011.0001</build>
+        <version>26.198.1011</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>MSIT Fast</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>543d1da427743e8bd24c0d2c1fb3cf99dd8ed7fbce92002077e68b745669f21b</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>7976f4fb32a2d95c3c67d6a9bb857cc4f4499996ae72d211f3200b38d4c6fbb5</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:MacODSUMsitFast</sources>
+    </release>
+    <release>
+        <build>26.195.1006.0004</build>
+        <version>26.195.1006</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Insiders, MSIT Slow</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>828570e8da790e5154a322af67f8ec53303232916d1831e0c55d16bd38a4d4cc</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>cda0cb06de23dbfdc03058e884821340fd57aeb5fd764357c7b7299dcd946d44</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneInsidersManifest, manifest:StandaloneMsitSlowManifest, manifest:MacODSUMsitSlow</sources>
+    </release>
+    <release>
+        <build>26.189.0928.0007</build>
+        <version>26.189.0928</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0007/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>5179f0925a80988986fc3356a01f4f8d53221f5afd80d25d0b291d4b6cc1da79</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0007/OneDrive.pkg</intel_download>
+        <intel_sha256>29a510413d5ae47e853d16438a39a90b524a5b53755dd32ab4dd4f5c4dddfb7a</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneInsidersManifest</sources>
+    </release>
+    <release>
+        <build>26.173.0906.0008</build>
+        <version>26.173.0906</version>
+        <release_date>September 25, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.173.0906.0008/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>cc0270130dc32cf92d27a52a145639a6cbbf0e88287a1b5603be4292af9da66a</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.173.0906.0008/OneDrive.pkg</intel_download>
+        <intel_sha256>7f5daa07d204019e913bda1a25a149344dca57f1872229bde479450562756459</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:MacODSUInsiders, release_notes</sources>
+    </release>
+    <release>
+        <build>26.173.0906.0007</build>
+        <version>26.173.0906</version>
+        <release_date>N/A</release_date>
+        <first_seen>September 25, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.173.0906.0007/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>c434af40c41677c7f1eb6732fb0ef92407b67a6d406ea1e783ce260f46228f52</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.173.0906.0007/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.168.0830.0006</build>
+        <version>26.168.0830</version>
+        <release_date>September 18, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.168.0830.0006/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.168.0830.0006/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.168.0830.0004</build>
+        <version>26.168.0830</version>
+        <release_date>N/A</release_date>
+        <first_seen>September 18, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.168.0830.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>b9c353ede5d346d9670c27313a79155fddf256f58fadc9bad2cf4eb211a90864</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.168.0830.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.163.0823.0004</build>
+        <version>26.163.0823</version>
+        <release_date>September 11, 2026</release_date>
+        <first_seen>September 11, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.163.0823.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>f2da833e1f043e2a3e991073de1d76fda18be56a0eaaeac93a45c9baef48be74</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.163.0823.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.158.0816.0002</build>
+        <version>26.158.0816</version>
+        <release_date>September 4, 2026</release_date>
+        <first_seen>September 04, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.158.0816.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>ffeaf23f94eb0671d683d9186ba1b1052e149e047c7c6035734977d4e498a13c</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.158.0816.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.153.0809.0004</build>
+        <version>26.153.0809</version>
+        <release_date>August 28, 2026</release_date>
+        <first_seen>August 28, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.153.0809.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>35d67e76de8579fa0b533fff7ff3b618ea54f574a8a557bb9d3d736b14029f78</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.153.0809.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.150.0804.0011</build>
+        <version>26.150.0804</version>
+        <release_date>August 21, 2026</release_date>
+        <first_seen>August 22, 2026</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.150.0804.0011/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>e718dda687b08d1c908d4aa43a20fcb987e07e897d4f255adec5487f49593265</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.150.0804.0011/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.150.0804.0010</build>
+        <version>26.150.0804</version>
+        <release_date>N/A</release_date>
+        <first_seen>August 21, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.150.0804.0010/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>e8aa3d7989013dee9578ba6e99978fd2173f13400d2328fbcaa245613f637f18</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.150.0804.0010/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.145.0728.0011</build>
+        <version>26.145.0728</version>
+        <release_date>August 14, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.145.0728.0011/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.145.0728.0011/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.145.0728.0010</build>
+        <version>26.145.0728</version>
+        <release_date>N/A</release_date>
+        <first_seen>August 21, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.145.0728.0010/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>e7d1a96a6c79a2d2d64baf84b07af0fab34d181c614ac998b4c37e0e125cf3f1</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.145.0728.0010/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.145.0728.0009</build>
+        <version>26.145.0728</version>
+        <release_date>N/A</release_date>
+        <first_seen>August 14, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.145.0728.0009/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>4f3fdfb8a39789ebb4f64ea07b1fa0a84eb262e4d887b3f448d4efb84d668970</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.145.0728.0009/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.139.0720.0007</build>
+        <version>26.139.0720</version>
+        <release_date>August 7, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.139.0720.0007/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.139.0720.0007/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.139.0720.0003</build>
+        <version>26.139.0720</version>
+        <release_date>N/A</release_date>
+        <first_seen>August 07, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.139.0720.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>bf0f79ec5ae7505d9e2c237126984f37307e5cad86191b611781d28b0aea2965</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.139.0720.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.134.0713.0007</build>
+        <version>26.134.0713</version>
+        <release_date>July 31, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.134.0713.0007/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.134.0713.0007/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.134.0713.0003</build>
+        <version>26.134.0713</version>
+        <release_date>N/A</release_date>
+        <first_seen>July 31, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.134.0713.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>d52042b56fd1684437061f17f79a3919a3e0072b1210650b6275c973981c7b98</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.134.0713.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.129.0706.0004</build>
+        <version>26.129.0706</version>
+        <release_date>July 24, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.129.0706.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.129.0706.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.129.0706.0003</build>
+        <version>26.129.0706</version>
+        <release_date>N/A</release_date>
+        <first_seen>July 24, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.129.0706.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>82de159dfba1a07c60bf49cd2a201878daabe13c9af3b92040c4fb1737a13a16</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.129.0706.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.123.0628.0001</build>
+        <version>26.123.0628</version>
+        <release_date>July 17, 2026</release_date>
+        <first_seen>July 17, 2026</first_seen>
+        <rings>Production, Insiders, Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.123.0628.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>cf927ceac76bddb80cf583b60a705b1f9837283adf910a232b4e72d22ba22998</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.123.0628.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>7d454e37d0ab34ba03548aa25756c30f8010e372ee987a44d69ac9b1f10a24fb</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, manifest:StandaloneEnterpriseManifest, manifest:MacODSUEnterprise, release_notes</sources>
+    </release>
+    <release>
+        <build>26.119.0622.0003</build>
+        <version>26.119.0622</version>
+        <release_date>July 10, 2026</release_date>
+        <first_seen>July 10, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.119.0622.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>ed8037715552d25538207786b36503ead1be5d5c8cd457c4cabba67df7a11e35</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.119.0622.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.118.0621.0001</build>
+        <version>26.118.0621</version>
+        <release_date>N/A</release_date>
+        <first_seen>July 10, 2026</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.118.0621.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>a273fc0cd339b6102fa1c622d0610d5e3165e6743379a979fb7be6ec1aa00a9e</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.118.0621.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.113.0614.0004</build>
+        <version>26.113.0614</version>
+        <release_date>July 3, 2026</release_date>
+        <first_seen>July 03, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.113.0614.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>f2fceb86f97304d57ae1b5cb2e02b3a1addedc6c68e0bc95e8b67e362b95992f</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.113.0614.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.108.0607.0002</build>
+        <version>26.108.0607</version>
+        <release_date>June 26, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.108.0607.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.108.0607.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.108.0607.0001</build>
+        <version>26.108.0607</version>
+        <release_date>N/A</release_date>
+        <first_seen>June 26, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.108.0607.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>c2bcc6c0203e210bd890d9ec885598a891e14e78d07c33dffd99fb2e7f7ac5e7</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.108.0607.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.106.0603.0003</build>
+        <version>26.106.0603</version>
+        <release_date>June 19, 2026</release_date>
+        <first_seen>June 19, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.106.0603.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>22278b574099df8b2e556d1061f5e024a576e3cefa21d8780717c769e1fbebf5</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.106.0603.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.098.0524.0004</build>
+        <version>26.098.0524</version>
+        <release_date>June 12, 2026</release_date>
+        <first_seen>June 12, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.098.0524.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>85dfbe556b09a8e287186bed4a61d05a8a04350a0f669d99a3ed3e0396ae85ef</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.098.0524.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.095.0519.0003</build>
+        <version>26.095.0519</version>
+        <release_date>June 5, 2026</release_date>
+        <first_seen>June 05, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.095.0519.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>37aae54a4ba9dd9184296a78490416b682e78b8ea2b4f0f198336c3e85f0b0b7</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.095.0519.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.088.0510.0004</build>
+        <version>26.088.0510</version>
+        <release_date>May 29, 2026</release_date>
+        <first_seen>May 29, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.088.0510.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>64bb51367175efcb6fea6d7fb8ed6bbf10d7117b0c1a40130f56ce157beff6a8</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.088.0510.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.084.0504.0007</build>
+        <version>26.084.0504</version>
+        <release_date>May 26, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.084.0504.0007/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.084.0504.0007/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.084.0504.0004</build>
+        <version>26.084.0504</version>
+        <release_date>N/A</release_date>
+        <first_seen>May 22, 2026</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.084.0504.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>e9305a1cf1dad38ad022f1c3547e869d395dc2fa956d12cd7ebdfb2fc88ca1ad</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.084.0504.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.079.0427.0003</build>
+        <version>26.079.0427</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 15, 2026</first_seen>
+        <rings>Production, Last for macOS below 14.4</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.079.0427.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>c6ab02811eec5c678fdfc3ea8c65293c7a8d10f092896984696f67c40357f638</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.079.0427.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>da748beea782cdd986f3d6c8cd1b12f6f07673dbd0f9ddf6b61fef9fc6261d65</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, manifest:StandaloneProductManifest, manifest:MacODSUProduction, manifest:MacOS14_4Manifest</sources>
+    </release>
+    <release>
+        <build>26.078.0426.0002</build>
+        <version>26.078.0426</version>
+        <release_date>May 15, 2026</release_date>
+        <first_seen>May 15, 2026</first_seen>
+        <rings>Production, Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.078.0426.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>c500f9fbc51e856fc890832d6e9352c2c0af6a5400a4c4b3e2e2c0ef48ecbbab</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.078.0426.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.074.0420.0001</build>
+        <version>26.074.0420</version>
+        <release_date>N/A</release_date>
+        <first_seen>May 08, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.074.0420.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>d1ceb4d92934057f47a67045f14ccd88c8b0a696c50cf425b04f8c53778a12cb</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.074.0420.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.070.0414.0001</build>
+        <version>26.070.0414</version>
+        <release_date>May 1, 2026</release_date>
+        <first_seen>May 01, 2026</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.070.0414.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>4f631db4a048f359829ae523210475983ca8cb80b90f4718d2f0af5299bf87d0</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.070.0414.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.063.0405.0002</build>
+        <version>26.063.0405</version>
+        <release_date>April 24, 2026</release_date>
+        <first_seen>April 24, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.063.0405.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>2a832e34c4603b7de122d3a7bc7652f1b254dc8af0045f0ec6e4730427f68623</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.063.0405.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.062.0402.0002</build>
+        <version>26.062.0402</version>
+        <release_date>April 17, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.062.0402.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.062.0402.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.062.0402.0001</build>
+        <version>26.062.0402</version>
+        <release_date>N/A</release_date>
+        <first_seen>April 17, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.062.0402.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>a9bfea1271a47cb56059ac440a851b1b901b4937028291c90c00ecd129f7ed7f</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.062.0402.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.055.0323.0004</build>
+        <version>26.055.0323</version>
+        <release_date>April 10, 2026</release_date>
+        <first_seen>April 10, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.055.0323.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>14a3870b9bc09ec2c1d8e3d5c291b22879793c3e8ba11993c37e34f4553aa7df</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.055.0323.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.051.0316.0004</build>
+        <version>26.051.0316</version>
+        <release_date>April 4, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.051.0316.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.051.0316.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.051.0316.0003</build>
+        <version>26.051.0316</version>
+        <release_date>N/A</release_date>
+        <first_seen>April 03, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.051.0316.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>6549dd5e3cc9a4a9f7d8aff6766cc895d4f903db0ffbb7cc04d2147d455d65c1</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.051.0316.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.045.0308.0003</build>
+        <version>26.045.0308</version>
+        <release_date>March 27, 2026</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.045.0308.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.045.0308.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>26.045.0308.0001</build>
+        <version>26.045.0308</version>
+        <release_date>N/A</release_date>
+        <first_seen>March 27, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.045.0308.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>42cad93dca2d45203eaa08e9d11b2622283ea4f2f4f1a68de0833147c293f6c4</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.045.0308.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.040.0301.0001</build>
+        <version>26.040.0301</version>
+        <release_date>March 20, 2026</release_date>
+        <first_seen>March 20, 2026</first_seen>
+        <rings>Production, Insiders, Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.040.0301.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>717bcf5dbce3a44fc5a27db916ba62291161236e71a87e827a38f044de49613d</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.040.0301.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.035.0222.0002</build>
+        <version>26.035.0222</version>
+        <release_date>March 13, 2026</release_date>
+        <first_seen>March 13, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.035.0222.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>68008c93814b4f0cf984419fd918977dd9d557d989af9bf37b9f4d382a7c6591</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.035.0222.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.032.0217.0003</build>
+        <version>26.032.0217</version>
+        <release_date>March 6, 2026</release_date>
+        <first_seen>March 09, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.032.0217.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>36d40f706718214f476c1e45443ef7cc308787643e29dc02a839ee69dc89952e</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.032.0217.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.026.0209.0004</build>
+        <version>26.026.0209</version>
+        <release_date>February 27, 2026</release_date>
+        <first_seen>February 27, 2026</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.026.0209.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>f1248400b64f8309212a1f1841271afa9b4f8da5bbc9b6cef525960aaf8a624b</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.026.0209.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.022.0203.0006</build>
+        <version>26.022.0203</version>
+        <release_date>February 20, 2026</release_date>
+        <first_seen>February 20, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.022.0203.0006/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>697bc7500a7a1e824445ec02fb8795462c0d0df8c7abb515abb866bc79d8f689</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.022.0203.0006/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.017.0126.0002</build>
+        <version>26.017.0126</version>
+        <release_date>February 13, 2026</release_date>
+        <first_seen>February 13, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.017.0126.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>88349f741cc75ea94b8bde6fcbba35061cf212651394bc9b8432461f975099cb</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.017.0126.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.012.0119.0002</build>
+        <version>26.012.0119</version>
+        <release_date>February 6, 2026</release_date>
+        <first_seen>February 06, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.012.0119.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>44643d84cd416c6064acaec77d7c37675ebe711a29b6067db26a0f8b518d8a29</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.012.0119.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.007.0112.0002</build>
+        <version>26.007.0112</version>
+        <release_date>January 30, 2026</release_date>
+        <first_seen>January 30, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.007.0112.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>e20cfb23f4fd1a1dad1e81bc2d35b963cfe524ee56a7d88de8ae2a6829239b73</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.007.0112.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>26.002.0105.0001</build>
+        <version>26.002.0105</version>
+        <release_date>January 23, 2026</release_date>
+        <first_seen>January 23, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.002.0105.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>fdd84bf01b508f27ed26fd85b773501f3f383e212e0b0b3e69af66d4cef342ff</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.002.0105.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.243.1211.0001</build>
+        <version>25.243.1211</version>
+        <release_date>January 19, 2026</release_date>
+        <first_seen>January 16, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.243.1211.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>97d90c7bdd8cc9f7129d5cbab38b72a61b516a970bd71c363803f0a740263219</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.243.1211.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.238.1204.0001</build>
+        <version>25.238.1204</version>
+        <release_date>January 12, 2026</release_date>
+        <first_seen>January 09, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.238.1204.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>524a6919ebbd24d6df65792a8ce37bfacbb50dd333945ab0b70414215da0cf88</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.238.1204.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.224.1116.0003</build>
+        <version>25.224.1116</version>
+        <release_date>January 5, 2026</release_date>
+        <first_seen>December 12, 2025</first_seen>
+        <rings>Production, Insiders, Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.224.1116.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>af9a46aebad03ac57c604bf228d1a140a29d4c57bcf4e95599c2e94f41c917e9</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.224.1116.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.222.1112.0002</build>
+        <version>25.222.1112</version>
+        <release_date>December 9, 2025</release_date>
+        <first_seen>December 08, 2025</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.222.1112.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>d36980c815e8921922de25cd1817f1da0ed735681202f6f8ce2e437cc7fee349</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.222.1112.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.216.1104.0002</build>
+        <version>25.216.1104</version>
+        <release_date>December 3, 2025</release_date>
+        <first_seen>November 21, 2025</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.216.1104.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>8a1168cdb0c06c6dcd51a882eda8ddf3a8547c4e2f6590173d45bc1e5bccb028</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.216.1104.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.209.1026.0002</build>
+        <version>25.209.1026</version>
+        <release_date>November 17, 2025</release_date>
+        <first_seen>November 14, 2025</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.209.1026.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>507e5241cd5aa0664caccca23a909cb371fb40b8345ce1f557fd71ecbfaf7ea3</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.209.1026.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.206.1021.0003</build>
+        <version>25.206.1021</version>
+        <release_date>November 10, 2025</release_date>
+        <first_seen>November 07, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.206.1021.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>85ee1bd8f12dc8d50f97f7a5f9daa97ee71b4181cda0fe6ab5636c80547149f0</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.206.1021.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.199.1012.0002</build>
+        <version>25.199.1012</version>
+        <release_date>November 3, 2025</release_date>
+        <first_seen>October 31, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.199.1012.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>edd93e86e129e05974e33ad545759b38697dbb6f5e93c5ff4abfbbcc59677557</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.199.1012.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.194.1005.0003</build>
+        <version>25.194.1005</version>
+        <release_date>October 27, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.194.1005.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.194.1005.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.194.1005.0002</build>
+        <version>25.194.1005</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 24, 2025</first_seen>
+        <rings>Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.194.1005.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>d5245399a376cce7fee4caa8ef2506294d134de3e6a871331ed94a026493235e</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.194.1005.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.189.0928.0002</build>
+        <version>25.189.0928</version>
+        <release_date>October 20, 2025</release_date>
+        <first_seen>October 17, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.189.0928.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>35eea0ac3c7094a4d664d7726f204b1fa842b80d23b3a40385f9585ba88ea144</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.189.0928.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.189.0928.0001</build>
+        <version>25.189.0928</version>
+        <release_date>N/A</release_date>
+        <first_seen>September 29, 2025</first_seen>
+        <rings>Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.189.0928.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>77320128f23b7f288c8f6be31693fa5d35ca88ac33c55eb5392e654082985e65</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.189.0928.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.184.0921.0004</build>
+        <version>25.184.0921</version>
+        <release_date>October 13, 2025</release_date>
+        <first_seen>October 13, 2025</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.184.0921.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>c8e2f57a159f1c67ecad1d2028134e4209e799f0392b35835963e90f7f605cb2</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.184.0921.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.179.0914.0003</build>
+        <version>25.179.0914</version>
+        <release_date>October 6, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production, Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.179.0914.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.179.0914.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.179.0914.0002</build>
+        <version>25.179.0914</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 06, 2025</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.179.0914.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>da87c0228eca322aa143b3a8b63dd0274e6a10e762936a780be98f5ff0b1f1b1</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.179.0914.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.174.0907.0003</build>
+        <version>25.174.0907</version>
+        <release_date>September 29, 2025</release_date>
+        <first_seen>September 29, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.174.0907.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>4809ad78c87df61762cf017c1a04cd832c74fc66e07dba285d20c30f47b08d57</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.174.0907.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.170.0901.0003</build>
+        <version>25.170.0901</version>
+        <release_date>September 19, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.170.0901.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.170.0901.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.170.0901.0002</build>
+        <version>25.170.0901</version>
+        <release_date>N/A</release_date>
+        <first_seen>September 18, 2025</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.170.0901.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>02360ff1d1359c7d7ed43c2f53d5a5b18b96317ca4258fcfcd3d1f4f44a45e2c</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.170.0901.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.164.0824.0003</build>
+        <version>25.164.0824</version>
+        <release_date>September 12, 2025</release_date>
+        <first_seen>September 13, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.164.0824.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>9dd2ae5a3acc3f6d32944ffceac6eb61abf7c312267a2d0dc9f8243f94fa7b6d</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.164.0824.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.159.0817.0003</build>
+        <version>25.159.0817</version>
+        <release_date>September 5, 2025</release_date>
+        <first_seen>September 05, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.159.0817.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>05ce307537b859a3209a5503dc5d38513431be41c9b4a4eac8471175c2df872f</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.159.0817.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.140.0720.0001</build>
+        <version>25.140.0720</version>
+        <release_date>August 8, 2025</release_date>
+        <first_seen>August 08, 2025</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.140.0720.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>0dc74e53287d9d41bd5f43e86a86c8bf0cd0d17b9437c307e541c5b087e7ae8a</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.140.0720.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.137.0715.0004</build>
+        <version>25.137.0715</version>
+        <release_date>October 13, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.137.0715.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.137.0715.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.137.0715.0001</build>
+        <version>25.137.0715</version>
+        <release_date>July 31, 2025</release_date>
+        <first_seen>August 01, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.137.0715.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>e5c6ecdcc62790266ebdd110f797c622baf302fb7e5320c964b86434cc73c141</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.137.0715.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.130.0706.0004</build>
+        <version>25.130.0706</version>
+        <release_date>July 25, 2025</release_date>
+        <first_seen>July 25, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.130.0706.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>bc016be0f422cab1077e6670444bf0a5d4c29a3963b49a09818e66e605dfc972</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.130.0706.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.127.0701.0006</build>
+        <version>25.127.0701</version>
+        <release_date>N/A</release_date>
+        <first_seen>July 18, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.127.0701.0006/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>8b45889f2be28698dbc1b98d42ab2fd4f068a4fd4eb79db70f20e1041880ca8e</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.127.0701.0006/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.127.0701.0005</build>
+        <version>25.127.0701</version>
+        <release_date>July 18, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.127.0701.0005/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.127.0701.0005/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.122.0624.0003</build>
+        <version>25.122.0624</version>
+        <release_date>July 11, 2025</release_date>
+        <first_seen>July 12, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.122.0624.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>bb308fb37adfb3c84ead5e160f9c67de78df30a871e4a8c0a66224795f136a55</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.122.0624.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.115.0615.0002</build>
+        <version>25.115.0615</version>
+        <release_date>July 7, 2025</release_date>
+        <first_seen>July 07, 2025</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.115.0615.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>286da29f27b1fb6190b4b13039893d93f3ed663f41bef5369c95e3a3a6eec155</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.115.0615.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.110.0608.0001</build>
+        <version>25.110.0608</version>
+        <release_date>June 30, 2025</release_date>
+        <first_seen>June 27, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.110.0608.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>0ffe2ac792b0d4c29b1605743afc50272216de3ae78a8880386d2e925a4c7d42</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.110.0608.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.105.0601.0002</build>
+        <version>25.105.0601</version>
+        <release_date>June 23, 2025</release_date>
+        <first_seen>June 20, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.105.0601.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>45b2872eb196ec348bce5ca7952e906179c6133d02bebf13c0b582c408644142</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.105.0601.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.101.0526.0002</build>
+        <version>25.101.0526</version>
+        <release_date>N/A</release_date>
+        <first_seen>June 13, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.101.0526.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>a5473b52a8e3229cc7d254d58506ed6cf25e662edff7d10f90ea4e868178adcf</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.101.0526.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.095.0518.0002</build>
+        <version>25.095.0518</version>
+        <release_date>June 9, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production, Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.095.0518.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.095.0518.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.095.0518.0001</build>
+        <version>25.095.0518</version>
+        <release_date>N/A</release_date>
+        <first_seen>June 06, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.095.0518.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>91fa50d73c842d4f84b4d8c269aa724a68170b836ce6ef53e58917fdbf53a78b</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.095.0518.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.091.0512.0001</build>
+        <version>25.091.0512</version>
+        <release_date>June 3, 2025</release_date>
+        <first_seen>May 30, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.091.0512.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>54d44016aa8518c3b9ee51fa52a34b8dc9f8c4cdcec61b99a3d607728a2cd8de</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.091.0512.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.085.0504.0002</build>
+        <version>25.085.0504</version>
+        <release_date>May 26, 2025</release_date>
+        <first_seen>May 23, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.085.0504.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>11c8f836924dd9eea238e632ece7a96f0546fbfc3b57a6d59f35f5eb95df8f01</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.085.0504.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.080.0427.0003</build>
+        <version>25.080.0427</version>
+        <release_date>May 19, 2025</release_date>
+        <first_seen>May 16, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.080.0427.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>04b99f050361d351b4e29c185ee5382e9bc977adbb5deeb1209fbe5df2523aed</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.080.0427.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.075.0420.0002</build>
+        <version>25.075.0420</version>
+        <release_date>May 12, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.075.0420.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.075.0420.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.075.0420.0001</build>
+        <version>25.075.0420</version>
+        <release_date>N/A</release_date>
+        <first_seen>May 09, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.075.0420.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>d245c8ed726ca17e5b11e231859b92351ae813b88db3f684f3c4b194b5bba04a</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.075.0420.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.070.0413.0001</build>
+        <version>25.070.0413</version>
+        <release_date>May 5, 2025</release_date>
+        <first_seen>May 02, 2025</first_seen>
+        <rings>Insiders, Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.070.0413.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>c209d5dab529f5bdc2cdda2b09754ba65dc22e70211633214e785021b6af1632</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.070.0413.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.065.0406.0002</build>
+        <version>25.065.0406</version>
+        <release_date>April 25, 2025</release_date>
+        <first_seen>April 25, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.065.0406.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>b7f0cd0a10971d27683a4b96787f34f27722f93b8c148ad85eaa1d8304a32525</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.065.0406.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.060.0330.0003</build>
+        <version>25.060.0330</version>
+        <release_date>April 18, 2025</release_date>
+        <first_seen>April 18, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.060.0330.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>827d0824d2e005ec260a16de4c39b4de9956da125bb73ef8135c0ecbaac894ad</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.060.0330.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.056.0324.0003</build>
+        <version>25.056.0324</version>
+        <release_date>April 14, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production, Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.056.0324.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.056.0324.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.056.0324.0002</build>
+        <version>25.056.0324</version>
+        <release_date>N/A</release_date>
+        <first_seen>April 11, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.056.0324.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>b7d2273f62ecb025d7b5dc8efdccbac989198a858c05c9dd156a0ccc090fe8ec</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.056.0324.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history</sources>
+    </release>
+    <release>
+        <build>25.051.0317.0003</build>
+        <version>25.051.0317</version>
+        <release_date>March 29, 2025</release_date>
+        <first_seen>April 10, 2025</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.051.0317.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>59024d3ec3198792ea2b01ce86400f5188756e663d89accad44e6b0ec708f553</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.051.0317.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>mofa_git_history, release_notes</sources>
+    </release>
+    <release>
+        <build>25.046.0310.0005</build>
+        <version>25.046.0310</version>
+        <release_date>March 21, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.046.0310.0005/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.041.0303.0002</build>
+        <version>25.041.0303</version>
+        <release_date>March 17, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.041.0303.0002/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.035.0223.0003</build>
+        <version>25.035.0223</version>
+        <release_date>March 7, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.035.0223.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.031.0217.0003</build>
+        <version>25.031.0217</version>
+        <release_date>February 28, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.031.0217.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.025.0209.0001</build>
+        <version>25.025.0209</version>
+        <release_date>February 20, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.025.0209.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.020.0202.0001</build>
+        <version>25.020.0202</version>
+        <release_date>February 14, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.020.0202.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>25.005.0112.0003</build>
+        <version>25.005.0112</version>
+        <release_date>April 10, 2025</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Deferred</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/25.005.0112.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>N/A</intel_sha256>
+        <download_available>true</download_available>
+        <sources>release_notes</sources>
+    </release>
+    <release>
+        <build>24.226.1006.0007</build>
+        <version>24.226.1006</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Last for macOS below 13.0</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/24.226.1006.0007/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>5588e51b86cf509d060a4412b299060e3aca10a2ab151e9b41685e92144a97b0</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/24.226.1006.0007/OneDrive.pkg</intel_download>
+        <intel_sha256>9f0573988fb044d4f3dce9e2ba59bc1e7686b144d5fb7433068d35826e03605d</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:MacOS13_0Manifest</sources>
+    </release>
+    <release>
+        <build>24.132.0701.0003</build>
+        <version>24.132.0701</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Last for macOS below 12.3</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/24.132.0701.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>8f0f5a849dc6d0a65cea4bdd5d122ad49b47f5d696a7c0a407fc30a6e227f536</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/24.132.0701.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>8eac8a02de97d8a0ddb4cc610c96403f02d578357e109f329a340fa203a60166</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:MacOS12_3Manifest</sources>
+    </release>
+    <release>
+        <build>23.174.0820.0003</build>
+        <version>23.174.0820</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Last for macOS below 10.15</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/23.174.0820.0003/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>81e06c6ea0da5bf83bec818068db3c1c972d47ae56bdb35cabf7fe2f148f4058</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/23.174.0820.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>ba1d166b06a6b4c28569c99250122716c66d25d4f9493464af6a4556eccae1fc</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:MacOS10_15Manifest</sources>
+    </release>
+    <release>
+        <build>21.170.0822.0003</build>
+        <version>21.170.0822</version>
+        <release_date>N/A</release_date>
+        <first_seen>October 19, 2026</first_seen>
+        <rings>Last for macOS below 10.13</rings>
+        <universal_download>N/A</universal_download>
+        <universal_sha256>N/A</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Prod/21.170.0822.0003/OneDrive.pkg</intel_download>
+        <intel_sha256>ec17252f4e264b8d69cc91425f761e587a8d92159840d72f876a3b0a55fa78a3</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:MacOS10_13Manifest</sources>
+    </release>
+</Releases>

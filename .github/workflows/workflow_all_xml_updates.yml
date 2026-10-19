@@ -138,7 +138,24 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add latest_raw_files/*
-          git commit -m "Auto updating iOS XML, YAML, JSON files" || echo "No changes to commit"
+          git commit -m "Auto updating OneDrive XML, YAML, JSON files" || echo "No changes to commit"
+          git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
+
+      - name: Run update script for OneDrive update history
+        continue-on-error: true
+        run: |
+          python3 .github/actions/generate_onedrive_update_history.py
+          git add latest_raw_files/*
+
+      - name: Commit changes for OneDrive update history (if any)
+        continue-on-error: true
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add latest_raw_files/*
+          git commit -m "Auto updating OneDrive update history XML, YAML, JSON files" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
 
       - name: Run update script for macOS standalone preview

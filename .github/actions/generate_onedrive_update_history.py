@@ -84,6 +84,7 @@ OLD_NAME_TO_RING = {
     "Insider Ring": "Insiders", "Upcoming Insider Ring": "Insiders",
     "Rolling Out (Unknown Use)": "Rolling Out", "App New Version (Unknown Use)": "Production",
     "Production Ring (Official Download Link)": "Production",
+    "Production Ring (Legacy Manifest)": "Production",
 }
 
 FIELDS = ["build", "version", "release_date", "first_seen", "rings",

@@ -83,19 +83,40 @@ FWLINK_PACKAGES = [
      "note": "The public 'Download OneDrive for Mac' link; matches the release-notes Production version"},
 ]
 
-# Last supported build for older macOS versions
-# Manifest names are the threshold: MacOS14_4Manifest is what a Mac running
-# anything older than 14.4 is offered (26.145 already requires 14.4).
-LEGACY_MACOS = OrderedDict([
-    ("macOS below 10.13", "MacOS10_13Manifest"),
-    ("macOS below 10.15", "MacOS10_15Manifest"),
-    ("macOS below 12.3",  "MacOS12_3Manifest"),
-    ("macOS below 13.0",  "MacOS13_0Manifest"),
-    ("macOS below 14.4",  "MacOS14_4Manifest"),
-])
+# Per-macOS manifests. The name is the *minimum* macOS a manifest serves: a Mac reads
+# the manifest for the highest threshold at or below its own version, so
+# MacOS15_0Manifest is what every Mac on macOS 15 or newer is offered. The newest
+# threshold that returns content is therefore the live Production ring, and the
+# older ones hold the final build for Macs that cannot run the current release.
+# StandaloneProductManifest still exists but current clients no longer read it
+# (it has sat on the macOS 14 build since April 2026); it is kept as a labelled row.
+# Verified against the in-app updater's logs on a macOS 26 Mac, which fetched the
+# 15.0 manifest's build rather than StandaloneProductManifest's.
+MACOS_THRESHOLDS = ["10.13", "10.15", "12.3", "13.0", "14.4", "15.0"]
+# Probed every run (a missing manifest answers 204) so a new threshold is picked up
+# as soon as Microsoft publishes one.
+MACOS_PROBE = [f"{major}.{minor}" for major in (15, 16, 26, 27) for minor in range(0, 8)]
+
+
+def macos_manifest(threshold):
+    return "MacOS" + threshold.replace(".", "_") + "Manifest"
+
+
+def version_key(v):
+    return [int(x) for x in v.split(".")]
+
+
+def macos_upper_label(next_threshold):
+    """'14.4' -> '14.3', '13.0' -> '12.x', '26.0' -> '15.x' (Apple went 15 -> 26)."""
+    major, minor = version_key(next_threshold)
+    if minor > 0:
+        return f"{major}.{minor - 1}"
+    return f"{15 if major == 26 else major - 1}.x"
+
 
 PACKAGE_ORDER = [
     "Production Ring", "Upcoming Production Ring", "Production Ring (Official Download Link)",
+    "Production Ring (Legacy Manifest)",
     "Deferred Ring", "Upcoming Deferred Ring",
     "Insider Ring", "Upcoming Insider Ring",
     "MSIT Slow Ring (Preview)", "Upcoming MSIT Slow Ring (Preview)",
@@ -159,14 +180,19 @@ def resolve_fwlink(url):
 
 # --------------------------------------------------------------------------- manifests
 
-def fetch_manifest(name):
-    """Return a list of entries (newest first) from one g.live.com manifest."""
+def fetch_manifest(name, quiet=False):
+    """Return a list of entries (newest first) from one g.live.com manifest.
+    quiet=True is for probing manifests that may not exist (Microsoft answers 204)."""
     url = MANIFEST_BASE + name
     try:
         data = http_get(url).content
+        if not data:
+            if not quiet:
+                logging.error(f"Manifest {name} is empty")
+            return []
         plist = plistlib.loads(data)
     except Exception as e:
-        logging.error(f"Could not read manifest {name}: {e}")
+        (logging.debug if quiet else logging.error)(f"Could not read manifest {name}: {e}")
         return []
 
     entries = []
@@ -370,12 +396,32 @@ def build_packages(existing, now):
     packages = []
     builds_seen = {}  # build -> entry, for fwlink hash reuse
 
+    # Per-macOS manifests, oldest threshold first. The newest one that exists is the
+    # live Production ring (see MACOS_THRESHOLDS above).
+    macos_entries = OrderedDict()
+    for t in sorted(set(MACOS_THRESHOLDS + MACOS_PROBE), key=version_key):
+        entries = fetch_manifest(macos_manifest(t), quiet=t not in MACOS_THRESHOLDS)
+        if entries:
+            macos_entries[t] = entries
+            for e in entries:
+                builds_seen.setdefault(e["build"], e)
+    production_threshold = next(reversed(macos_entries)) if macos_entries else None
+    if production_threshold and production_threshold not in MACOS_THRESHOLDS:
+        logging.warning(f"New per-macOS manifest found: {macos_manifest(production_threshold)}; add it to MACOS_THRESHOLDS")
+
     for ring, cfg in RINGS.items():
-        # In-app updater manifest is the primary row for the ring
-        entries = fetch_manifest(cfg["in_app"])
+        # In-app updater manifest is the primary row for the ring. Production comes
+        # from the newest per-macOS manifest; StandaloneProductManifest is legacy.
+        note = "N/A"
+        if ring == "Production Ring" and production_threshold:
+            entries = macos_entries[production_threshold]
+            note = (f"From {macos_manifest(production_threshold)}, the manifest Macs on macOS "
+                    f"{production_threshold} and newer read")
+        else:
+            entries = fetch_manifest(cfg["in_app"])
         if entries:
             current = next((e for e in entries if e["rollout_percent"] == "100"), entries[-1])
-            packages.append(package_from_entry(ring, current, "OneDrive.app in-app updater", cfg["fwlink"], dates))
+            packages.append(package_from_entry(ring, current, "OneDrive.app in-app updater", cfg["fwlink"], dates, note=note))
             for e in entries:
                 builds_seen[e["build"]] = e
                 if e is not current and e["build"] > current["build"]:
@@ -384,6 +430,14 @@ def build_packages(existing, now):
                         note=f"Staged rollout at {e['rollout_percent']}% of devices"))
         else:
             logging.error(f"No entries in {cfg['in_app']}")
+
+        if ring == "Production Ring" and production_threshold:
+            legacy = fetch_manifest(cfg["in_app"])
+            if legacy:
+                packages.append(package_from_entry(
+                    "Production Ring (Legacy Manifest)", legacy[0], "OneDrive.app in-app updater", None, dates,
+                    note="StandaloneProductManifest. Current clients read the per-macOS manifests instead; "
+                         "kept for reference"))
 
         # Legacy standalone updater manifest
         sa_entries = fetch_manifest(cfg["standalone"])
@@ -430,12 +484,14 @@ def build_packages(existing, now):
             pkg["note"] = f"{item['note']}. Release notes: {mac_table['Deferred']['rolling_out']}"
         packages.append(pkg)
 
-    # Last supported builds for older macOS
-    for label, manifest in LEGACY_MACOS.items():
-        entries = fetch_manifest(manifest)
-        if entries:
-            packages.append(package_from_entry(f"Last Build for {label}", entries[0], "OneDrive.app in-app updater",
-                                               None, dates, note="Final build offered to this macOS range"))
+    # Last supported builds for older macOS: every per-macOS manifest except the newest
+    thresholds = list(macos_entries)
+    for i, t in enumerate(thresholds[:-1]):
+        upper = macos_upper_label(thresholds[i + 1])
+        packages.append(package_from_entry(
+            f"Last Build for macOS {t} to {upper}", macos_entries[t][0], "OneDrive.app in-app updater", None, dates,
+            note=f"Final build offered to Macs on macOS {t} through {upper}; "
+                 f"newer macOS reads {macos_manifest(thresholds[i + 1])}"))
 
     # Order: known names first in PACKAGE_ORDER, then legacy macOS rows in list order
     order = {n: i for i, n in enumerate(PACKAGE_ORDER)}

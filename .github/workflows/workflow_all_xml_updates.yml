@@ -238,14 +238,3 @@ jobs:
           git add README.md
           git commit -m "Auto Updating README File" || echo "No changes to commit"
           git push https://github-actions[bot]:$TOKEN@github.com/cocopuff2u/macadmins_msft.git
-
-      - name: Tell MOFA_WEBSITE to rebuild
-        if: success()
-        env:
-          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        run: |
-          curl -sS -f -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $TOKEN" \
-            https://api.github.com/repos/cocopuff2u/MOFA_WEBSITE/dispatches \
-            -d '{"event_type":"mofa-updated"}'

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 19, 2026 02:20 PM EDT",
+    "last_updated": "October 19, 2026 06:47 PM EDT",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -124,14 +124,14 @@
         },
         {
             "name": "MacOS Universal Print",
-            "application_name": "Printer App: Smart Printer \u2022",
-            "bundleId": "com.maximaapps.printer",
-            "currentVersionReleaseDate": "September 15, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/34/2c/5f342c54-ebab-203d-68a5-e0865c2b825b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "We\u2019ve squashed some bugs to improve your experience",
-            "version": "3.1.3",
-            "app_store_url": "https://apps.apple.com/us/app/printer-app-smart-printer/id1576856672?uo=4"
+            "application_name": "Universal Print",
+            "bundleId": "com.microsoft.universalprintmac",
+            "currentVersionReleaseDate": "September 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/8b/dd/f38bdd4b-9c98-61e1-b30b-6a57cd562347/AppIconProd-85-220-0-4-0-0-2x-0-0.png/512x512bb.png",
+            "minimumOsVersion": "14.6.1",
+            "releaseNotes": "- Improved sign-in reliability and better restoration of your sign-in status when opening Universal Print.\n- A smoother Add Printer experience, with more reliable search, selection, and printer installation.\n- Printer lists now preserve their status during refreshes and update more smoothly.\n- More reliable setup and uninstall behavior, including improved support for managed environments and clearer uninstall progress.",
+            "version": "1.1.0",
+            "app_store_url": "https://apps.apple.com/us/app/universal-print/id6450432292?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Rewards for Safari",

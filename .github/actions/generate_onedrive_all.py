@@ -391,6 +391,13 @@ def package_from_entry(name, entry, updater, fwlink, dates, note="N/A"):
     return pkg
 
 
+def released_entry(entries):
+    """The fully rolled-out (Throttle 100) entry of a manifest, or the last one if
+    none is at 100. Manifests list a staged rollout first, so [0] would be the
+    throttled build during a rollout."""
+    return next((e for e in entries if e["rollout_percent"] == "100"), entries[-1])
+
+
 def build_packages(existing, now):
     mac_table, dates = fetch_release_notes()
     packages = []
@@ -420,7 +427,7 @@ def build_packages(existing, now):
         else:
             entries = fetch_manifest(cfg["in_app"])
         if entries:
-            current = next((e for e in entries if e["rollout_percent"] == "100"), entries[-1])
+            current = released_entry(entries)
             packages.append(package_from_entry(ring, current, "OneDrive.app in-app updater", cfg["fwlink"], dates, note=note))
             for e in entries:
                 builds_seen[e["build"]] = e
@@ -435,15 +442,16 @@ def build_packages(existing, now):
             legacy = fetch_manifest(cfg["in_app"])
             if legacy:
                 packages.append(package_from_entry(
-                    "Production Ring (Legacy Manifest)", legacy[0], "OneDrive.app in-app updater", None, dates,
+                    "Production Ring (Legacy Manifest)", released_entry(legacy), "OneDrive.app in-app updater", None, dates,
                     note="StandaloneProductManifest. Current clients read the per-macOS manifests instead; "
                          "kept for reference"))
 
         # Legacy standalone updater manifest
         sa_entries = fetch_manifest(cfg["standalone"])
         if sa_entries:
-            e = sa_entries[0]
-            builds_seen.setdefault(e["build"], e)
+            e = released_entry(sa_entries)
+            for entry in sa_entries:
+                builds_seen.setdefault(entry["build"], entry)
             packages.append(package_from_entry(
                 f"{ring.replace(' (Preview)', '')} (Standalone Updater)", e,
                 "OneDriveStandaloneUpdater (legacy LaunchAgent)", None, dates))

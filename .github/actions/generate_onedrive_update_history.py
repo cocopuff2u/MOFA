@@ -23,13 +23,18 @@ One-time seeding (run locally, needs full git history for --seed-git):
       date), adding any that exist; ring is "unknown" for these
 
 Per release:
-  build, version, release_date (official, if Microsoft lists it),
+  build, version, release_date (Microsoft's Production ring date, if listed),
+  deferred_release_date (Microsoft's Deferred ring date, if listed),
+  cdn_published (Last-Modified of the package on Microsoft's CDN, i.e. when the
+  file itself was uploaded; revised builds keep the base version number, so this
+  can be months after the date in the version),
   first_seen (when MOFA first recorded it), rings (comma list),
   universal_download, universal_sha256, intel_download, intel_sha256,
   download_available (true/false/unknown), sources (comma list)
 """
 
 import argparse
+from email.utils import parsedate_to_datetime
 import base64
 import html
 import json
@@ -85,9 +90,26 @@ OLD_NAME_TO_RING = {
     "Rolling Out (Unknown Use)": "Rolling Out", "App New Version (Unknown Use)": "Production",
     "Production Ring (Official Download Link)": "Production",
     "Production Ring (Legacy Manifest)": "Production",
+    "MSIT Slow Ring (Preview)": "MSIT Slow", "Upcoming MSIT Slow Ring (Preview)": "MSIT Slow",
+    "MSIT Fast Ring (Preview)": "MSIT Fast", "Upcoming MSIT Fast Ring (Preview)": "MSIT Fast",
 }
 
-FIELDS = ["build", "version", "release_date", "first_seen", "rings",
+
+def ring_for_package_name(name):
+    """Ring label for a package name from any version of the current-state feed,
+    or None when the name says nothing useful about a ring."""
+    name = " ".join(name.split())
+    if name in OLD_NAME_TO_RING:
+        return OLD_NAME_TO_RING[name]
+    base = name.replace(" (Standalone Updater)", "")
+    if base in OLD_NAME_TO_RING:
+        return OLD_NAME_TO_RING[base]
+    m = re.match(r"Last Build for macOS (\d+\.\d+) to ", name)
+    if m:
+        return f"Last for macOS {m.group(1)}+"
+    return None
+
+FIELDS = ["build", "version", "release_date", "deferred_release_date", "cdn_published", "first_seen", "rings",
           "universal_download", "universal_sha256", "intel_download", "intel_sha256",
           "download_available", "sources"]
 
@@ -153,10 +175,12 @@ class History:
             for child in rel:
                 rec[child.tag] = child.text or "N/A"
             if BUILD_RE.fullmatch(rec["build"] or ""):
+                rings = [r for r in (rec.get("rings") or "").split(", ") if r and r not in ("N/A", "unknown")]
+                rec["rings"] = ", ".join(rings) or "N/A"
                 self.records[rec["build"]] = rec
         logging.info(f"Loaded {len(self.records)} builds from {self.path}")
 
-    def upsert(self, build, ring=None, source=None, first_seen=None, release_date=None,
+    def upsert(self, build, ring=None, source=None, first_seen=None, release_date=None, deferred_release_date=None,
                universal_download=None, universal_sha256=None, intel_download=None, intel_sha256=None):
         if not BUILD_RE.fullmatch(build):
             return None
@@ -179,10 +203,12 @@ class History:
                         rec["first_seen"] = first_seen
                 except Exception:
                     pass
-        add_to_list_field(rec, "rings", ring)
+        add_to_list_field(rec, "rings", None if ring == "unknown" else ring)
         add_to_list_field(rec, "sources", source)
         if release_date and rec["release_date"] == "N/A":
             rec["release_date"] = release_date
+        if deferred_release_date and rec["deferred_release_date"] == "N/A":
+            rec["deferred_release_date"] = deferred_release_date
         for k, v in (("universal_download", universal_download), ("universal_sha256", universal_sha256),
                      ("intel_download", intel_download), ("intel_sha256", intel_sha256)):
             if v and v != "N/A" and rec[k] == "N/A":
@@ -274,7 +300,12 @@ def ingest_release_notes(hist):
         return
     n = 0
     for build, ring, date in parse_release_notes_html(text, "release_notes"):
-        hist.upsert(build, ring=ring, source="release_notes", release_date=date)
+        # The page dates a build once per ring: Production first, then Deferred
+        # roughly 60 days later. Keep them apart so neither feed shows the wrong one.
+        if ring == "Deferred":
+            hist.upsert(build, ring=ring, source="release_notes", deferred_release_date=date)
+        else:
+            hist.upsert(build, ring=ring, source="release_notes", release_date=date)
         n += 1
     logging.info(f"Release notes: {n} macOS builds")
 
@@ -307,7 +338,7 @@ def seed_from_git(hist, repo_root="."):
                 build = m.group(1) if m else None
             if not build:
                 continue
-            ring = OLD_NAME_TO_RING.get(name, "unknown")
+            ring = ring_for_package_name(name)
             sha256 = (pkg.findtext("full_update_sha256") or "").strip()
             universal = url if "/universal/" in url else None
             intel = url if url.startswith(CDN) and "/universal/" not in url else None
@@ -357,12 +388,20 @@ def seed_from_wayback(hist):
         time.sleep(6)
 
 
-def cdn_url_exists(url):
+def cdn_head(url):
+    """(exists, published) for a CDN URL; published is 'Month D, YYYY' from Last-Modified or None."""
     try:
         r = requests.head(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
-        return r.status_code == 200 and int(r.headers.get("Content-Length", "0")) > 1_000_000
+        ok = r.status_code == 200 and int(r.headers.get("Content-Length", "0")) > 1_000_000
+        lm = r.headers.get("Last-Modified")
+        published = parsedate_to_datetime(lm).strftime("%B %d, %Y").replace(" 0", " ") if ok and lm else None
+        return ok, published
     except Exception:
-        return False
+        return False, None
+
+
+def cdn_url_exists(url):
+    return cdn_head(url)[0]
 
 
 def fill_cdn_urls(hist, check_all=False):
@@ -380,13 +419,28 @@ def fill_cdn_urls(hist, check_all=False):
         for field, url in candidates:
             if rec[field] != "N/A":
                 continue
-            if cdn_url_exists(url):
+            ok, published = cdn_head(url)
+            if ok:
                 rec[field] = url
                 available = True
+                if published and rec["cdn_published"] == "N/A":
+                    rec["cdn_published"] = published
         for field in ("universal_download", "intel_download"):
             if rec[field] != "N/A" and not available:
-                available = cdn_url_exists(rec[field])
+                available, published = cdn_head(rec[field])
+                if published and rec["cdn_published"] == "N/A":
+                    rec["cdn_published"] = published
         rec["download_available"] = "true" if available else "false"
+
+    # Upload date for builds checked before this field existed: one HEAD each, once.
+    for build, rec in hist.records.items():
+        if rec["cdn_published"] != "N/A" or rec["download_available"] != "true":
+            continue
+        url = rec["universal_download"] if rec["universal_download"] != "N/A" else rec["intel_download"]
+        if url != "N/A":
+            _, published = cdn_head(url)
+            if published:
+                rec["cdn_published"] = published
 
 
 def probe_cdn(hist, start, end, max_suffix=12):

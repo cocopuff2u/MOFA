@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 19, 2026 06:47 PM EDT</last_updated>
+	<last_updated>October 19, 2026 09:31 PM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -82,14 +82,14 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>ShareMe: File Sharing &amp; MeDrop</application_name>
+		<application_name>MeDrop: File Sharing</application_name>
 		<bundleId>com.sharedrop.wifiShare</bundleId>
 		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
 		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Bug fixes</releaseNotes>
 		<version>1.0.8</version>
-		<app_store_url>https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4</app_store_url>
+		<app_store_url>https://apps.apple.com/us/app/medrop-file-sharing/id6783182140?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

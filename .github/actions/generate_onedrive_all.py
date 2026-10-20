@@ -12,6 +12,15 @@ the website keep working, and adds extra fields alongside:
 
   build                  4-part build number, e.g. 26.173.0906.0008
   rollout_percent        Throttle from the manifest (100 = fully released)
+  release_date           Microsoft's date for this build in the ring the row belongs to
+                         (Production-family rows use the Production date, Deferred rows the
+                         Deferred date; Insider/MSIT rows have none)
+  release_ring           which ring release_date refers to (Production, Deferred or N/A)
+  first_seen             the day MOFA first recorded this build in any ring (from the
+                         update-history feed), the honest date for rows Microsoft does not date
+  min_macos              lowest macOS the build is offered to, where a per-macOS manifest says
+  cdn_published          Last-Modified of the package on Microsoft's CDN: when Microsoft
+                         uploaded this exact file, the best date for builds they do not list
   min_applicable         oldest installed build this update applies to
   max_applicable         newest installed build this update applies to
   intel_update_download  Intel-only pkg
@@ -41,6 +50,7 @@ import plistlib
 import re
 import xml.etree.ElementTree as ET
 from collections import OrderedDict
+from email.utils import parsedate_to_datetime
 from datetime import datetime
 from xml.dom.minidom import parseString
 
@@ -133,7 +143,8 @@ LEGACY_FIELDS = ["name", "short_version", "application_id", "application_name", 
 EXTRA_FIELDS = ["build", "rollout_percent", "min_applicable", "max_applicable",
                 "intel_update_download", "intel_update_sha256",
                 "universal_zip_download", "universal_zip_sha1",
-                "release_date", "fwlink", "updater", "source", "sha256_source", "sha256_verified", "note"]
+                "release_date", "release_ring", "first_seen", "min_macos", "cdn_published",
+                "fwlink", "updater", "source", "sha256_source", "sha256_verified", "note"]
 ALL_FIELDS = LEGACY_FIELDS + EXTRA_FIELDS
 
 
@@ -227,7 +238,9 @@ def fetch_manifest(name, quiet=False):
 
 def fetch_release_notes():
     """Return (mac_table, dates). mac_table: ring -> {released, rolling_out};
-    dates: 4-part build -> 'Month D, YYYY' for the macOS sections."""
+    dates: ring ('Production' | 'Deferred') -> {4-part build: 'Month D, YYYY'}. The page
+    dates a build once per ring, so the same build has a Production date and, about 60
+    days later, a Deferred date."""
     try:
         t = http_get(RELEASE_NOTES_URL).text
     except Exception as e:
@@ -247,7 +260,7 @@ def fetch_release_notes():
                     mac_table[r[0]] = {"released": r[1].split(" (")[0].strip(),
                                        "rolling_out": r[2].strip() or "N/A"}
 
-    dates, section = {}, None
+    dates, section = {"Production": {}, "Deferred": {}}, None
     for _, h in re.findall(r"<(h[1-4])[^>]*>(.*?)</h[1-4]>", t, flags=re.S):
         h = clean(h)
         if h.startswith("macOS") or h.startswith("Windows"):
@@ -255,12 +268,43 @@ def fetch_release_notes():
         elif section and section.startswith("macOS"):
             m = re.match(r"(\d{2}\.\d{3}\.\d{4}\.\d{4}) \((.+)\)", h)
             if m:
-                dates[m.group(1)] = m.group(2)
-    logging.info(f"Release notes: {mac_table}; {len(dates)} dated macOS builds")
+                dates["Deferred" if "Deferred" in section else "Production"][m.group(1)] = m.group(2)
+    logging.info(f"Release notes: {mac_table}; {sum(len(v) for v in dates.values())} dated macOS builds")
     return mac_table, dates
 
 
 # --------------------------------------------------------------------------- existing data
+
+FIRST_SEEN = {}  # build -> 'Month D, YYYY', loaded from the update-history feed in main()
+
+
+def load_first_seen(out_dir):
+    path = os.path.join(out_dir, "macos_standalone_onedrive_update_history.xml")
+    try:
+        root = ET.parse(path).getroot()
+    except Exception as e:
+        logging.warning(f"No update history at {path} ({e}); first_seen falls back to today")
+        return {}
+    return {r.findtext("build"): (r.findtext("first_seen") or "N/A")
+            for r in root.findall("release") if r.findtext("build")}
+
+
+def release_info(name, build, dates):
+    """(date, ring) Microsoft lists for this build in the ring this row belongs to.
+    Deferred rows use the Deferred date. Production-family rows (Production itself, the
+    official download link, the legacy manifest, the last builds for older macOS and the
+    undocumented rolling-out link) use the Production date. Insider and MSIT rows get
+    N/A: Microsoft dates nothing for those rings, and the Production date would be weeks
+    after the ring actually got the build."""
+    if "Deferred" in name:
+        ring = "Deferred"
+    elif name.startswith(("Production", "Last Build", "Rolling Out")):
+        ring = "Production"
+    else:
+        return "N/A", "N/A"
+    d = dates.get(ring, {}).get(build)
+    return (d, ring) if d else ("N/A", "N/A")
+
 
 def load_existing(path):
     existing = {}
@@ -286,6 +330,18 @@ def load_existing(path):
 # --------------------------------------------------------------------------- hashing
 
 _download_cache = {}
+
+
+def cdn_published(url):
+    """'Month D, YYYY' from the package's Last-Modified header, or N/A."""
+    try:
+        r = requests.head(url, headers=HEADERS, allow_redirects=True, timeout=TIMEOUT)
+        lm = r.headers.get("Last-Modified")
+        if lm:
+            return parsedate_to_datetime(lm).strftime("%B %d, %Y").replace(" 0", " ")
+    except Exception as e:
+        logging.warning(f"No Last-Modified for {url}: {e}")
+    return "N/A"
 
 
 def hash_download(url):
@@ -341,6 +397,19 @@ def finalize(pkg, existing, now, all_known_builds):
         pkg["last_updated"] = now
         logging.info(f"Change for '{name}': {old.get('build') if old else 'new'} -> {pkg['build']}")
 
+    first_seen = FIRST_SEEN.get(pkg["build"])
+    if (not first_seen or first_seen == "N/A") and old and old.get("build") == pkg["build"]:
+        first_seen = old.get("first_seen")
+    if not first_seen or first_seen == "N/A":
+        first_seen = " ".join(now.split()[:3]).rstrip(",")  # 'Month D, YYYY' part of now
+    pkg["first_seen"] = first_seen
+
+    # When Microsoft uploaded this exact file. Carry it over while the build is unchanged.
+    if not changed and old.get("cdn_published") not in (None, "", "N/A"):
+        pkg["cdn_published"] = old["cdn_published"]
+    elif pkg["full_update_download"].startswith("http"):
+        pkg["cdn_published"] = cdn_published(pkg["full_update_download"])
+
     # Reuse a SHA1 computed earlier for the same build under another package name
     if pkg["full_update_sha1"] == "N/A":
         for rec in all_known_builds.values():
@@ -382,12 +451,12 @@ def package_from_entry(name, entry, updater, fwlink, dates, note="N/A"):
         "intel_update_sha256": entry["intel_update_sha256"],
         "universal_zip_download": entry["universal_zip_download"],
         "universal_zip_sha1": entry["universal_zip_sha1"],
-        "release_date": dates.get(entry["build"], "N/A"),
         "fwlink": fwlink or "N/A",
         "updater": updater,
         "source": entry["source"],
         "note": note,
     })
+    pkg["release_date"], pkg["release_ring"] = release_info(name, entry["build"], dates)
     return pkg
 
 
@@ -429,6 +498,8 @@ def build_packages(existing, now):
         if entries:
             current = released_entry(entries)
             packages.append(package_from_entry(ring, current, "OneDrive.app in-app updater", cfg["fwlink"], dates, note=note))
+            if ring == "Production Ring" and production_threshold:
+                packages[-1]["min_macos"] = production_threshold
             for e in entries:
                 builds_seen[e["build"]] = e
                 if e is not current and e["build"] > current["build"]:
@@ -487,7 +558,10 @@ def build_packages(existing, now):
                                 "sha256_source": "computed", "sha256_verified": "true"})
                 except Exception as ex:
                     logging.error(f"Could not hash {final}: {ex}")
-        pkg["release_date"] = dates.get(build, "N/A")
+        pkg["release_date"], pkg["release_ring"] = release_info(item["name"], build, dates)
+        if item["name"].startswith("Production") and production_threshold \
+                and any(e["build"] == build for e in macos_entries[production_threshold]):
+            pkg["min_macos"] = production_threshold
         if item["name"] == "Upcoming Deferred Ring" and mac_table.get("Deferred", {}).get("rolling_out") not in (None, "N/A"):
             pkg["note"] = f"{item['note']}. Release notes: {mac_table['Deferred']['rolling_out']}"
         packages.append(pkg)
@@ -500,6 +574,7 @@ def build_packages(existing, now):
             f"Last Build for macOS {t} to {upper}", macos_entries[t][0], "OneDrive.app in-app updater", None, dates,
             note=f"Final build offered to Macs on macOS {t} through {upper}; "
                  f"newer macOS reads {macos_manifest(thresholds[i + 1])}"))
+        packages[-1]["min_macos"] = t
 
     # Order: known names first in PACKAGE_ORDER, then legacy macOS rows in list order
     order = {n: i for i, n in enumerate(PACKAGE_ORDER)}
@@ -569,6 +644,7 @@ def convert_to_json_yaml(xml_file):
 
 def main():
     out_dir = os.environ.get("ONEDRIVE_OUTPUT_DIR", "latest_raw_files")
+    FIRST_SEEN.update(load_first_seen(out_dir))
     os.makedirs(out_dir, exist_ok=True)
     output_file = os.path.join(out_dir, "macos_standalone_onedrive_all.xml")
     now = now_eastern()

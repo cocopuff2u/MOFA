@@ -1,4 +1,4 @@
-last_updated: October 19, 2026 09:31 PM EDT
+last_updated: October 20, 2026 03:05 AM EDT
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -80,14 +80,14 @@ packages:
     version: 26.168.0830
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
-    application_name: 'MeDrop: File Sharing'
+    application_name: 'ShareMe: File Sharing & MeDrop'
     bundleId: com.sharedrop.wifiShare
     currentVersionReleaseDate: September 22, 2026
     icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '15.0'
     releaseNotes: Bug fixes
     version: 1.0.8
-    app_store_url: https://apps.apple.com/us/app/medrop-file-sharing/id6783182140?uo=4
+    app_store_url: https://apps.apple.com/us/app/shareme-file-sharing-medrop/id6783182140?uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

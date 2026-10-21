@@ -46,7 +46,7 @@ GetLoggedInUser() {
 
 SetHomeFolder() {
 	# Use dscl to resolve home directory; fall back to /Users/<username>
-	HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | awk '{print $NF}')
+	HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
 	if [[ -z "$HOME" ]]; then
 		HOME="/Users/$1"
 	fi
@@ -152,11 +152,11 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 
 /bin/rm -rf "/Library/Application Support/Microsoft/MERP2.0"
 
-/bin/rm -rf "${TMPDIR}MSauClones"
+/bin/rm -rf "${TMPDIR:-/tmp}/MSauClones"
 /bin/rm -rf "/Library/Caches/com.microsoft.autoupdate.helper/"
 /bin/rm -rf "/Library/Caches/com.microsoft.autoupdate.fba/"
-/bin/rm -f  "${TMPDIR}TelemetryUploadFilecom.microsoft.autoupdate.fba.txt"
-/bin/rm -f  "${TMPDIR}TelemetryUploadFilecom.microsoft.autoupdate2.txt"
+/bin/rm -f  "${TMPDIR:-/tmp}/TelemetryUploadFilecom.microsoft.autoupdate.fba.txt"
+/bin/rm -f  "${TMPDIR:-/tmp}/TelemetryUploadFilecom.microsoft.autoupdate2.txt"
 
 /bin/rm -rf "/Applications/.Microsoft Word.app.installBackup"
 /bin/rm -rf "/Applications/.Microsoft Excel.app.installBackup"

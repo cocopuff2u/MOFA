@@ -46,7 +46,7 @@ SetHomeFolder() {
     # Prefer NFSHomeDirectory from dscl; fall back to /Users/<username>
     # NOTE: Using dscl avoids the original eval echo "~$1", which is unsafe if
     # the username contains shell metacharacters.
-    HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | awk '{print $NF}')
+    HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
     if [[ -z "$HOME" ]]; then
         HOME="/Users/$1"
     fi
@@ -56,9 +56,10 @@ SetHomeFolder() {
 # The security tool deletes only one matching entry per invocation; this loop
 # continues until no matching entries remain (more robust than a fixed repeat count).
 DeleteAllKeychainGeneric() {
-    local flag="$1" value="$2"
-    while /usr/bin/security delete-generic-password "${flag}" "${value}" 2>/dev/null; do
-        :
+    local flag="$1" value="$2" count=0
+    # Cap iterations so a misbehaving security tool can never loop forever
+    while (( count < 50 )) && /usr/bin/security delete-generic-password "${flag}" "${value}" 2>/dev/null; do
+        (( count++ ))
     done
 }
 

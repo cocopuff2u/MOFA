@@ -31,13 +31,11 @@ GetLoggedInUser() {
 }
 
 SetHomeFolder() {
-    UserHome=$(dscl . read /Users/"$1" NFSHomeDirectory | cut -d ':' -f2 | cut -d ' ' -f2)
+    # Prefer NFSHomeDirectory from dscl; fall back to /Users/<username>.
+    # No eval: the username is never passed through the shell parser.
+    UserHome=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
     if [[ -z "$UserHome" ]]; then
-        if [[ -d "/Users/$1" ]]; then
-            UserHome="/Users/$1"
-        else
-            UserHome=$(eval echo "~$1")
-        fi
+        UserHome="/Users/$1"
     fi
 }
 

@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 21, 2026 04:26 PM EDT",
+    "last_updated": "October 21, 2026 07:53 PM EDT",
     "packages": [
         {
             "name": "Word",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams2",
-            "short_version": "26276.505.5234.9924",
-            "full_version": "26276.505.5234.9924",
-            "last_updated": "October 14, 2026",
+            "short_version": "26289.203.5259.2574",
+            "full_version": "26289.203.5259.2574",
+            "last_updated": "October 20, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26276.505.5234.9924/MicrosoftTeams_26225.1708.5124.9749_to_26276.505.5234.9924_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26276.505.5234.9924/MicrosoftTeams_26225.1708.5124.9749_to_26276.505.5234.9924_BinaryDelta.pkg",
-            "sha1": "3d577bdff0f14eac1ad932cccb98fd1de8c05d3a",
-            "sha256": "0193236ddfbfb265c53373c002dee17861ed0e8ab2c922084afff51b1a797769"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26289.203.5259.2574/MicrosoftTeams_26246.1709.5146.8945_to_26289.203.5259.2574_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26289.203.5259.2574/MicrosoftTeams_26246.1709.5146.8945_to_26289.203.5259.2574_BinaryDelta.pkg",
+            "sha1": "d93a3452308e97392864198c44781b4e0d240756",
+            "sha256": "8760d965df1425b7a39ba0390ec28940e81e6094ad8175895ce42974286e754a"
         },
         {
             "name": "Intune",
@@ -202,14 +202,14 @@
             "application_id": "MSau04",
             "application_name": "Microsoft AutoUpdate.app",
             "CFBundleVersion": "com.microsoft.autoupdate",
-            "short_version": "4.85 (26080216)",
-            "full_version": "4.85.26080216",
-            "last_updated": "August 02, 2026",
+            "short_version": "4.85 (26091737)",
+            "full_version": "4.85.26091737",
+            "last_updated": "September 17, 2026",
             "min_os": "12.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26080216_Updater.pkg",
-            "sha1": "6335128b56bb29cbf2224228074e6434431648a0",
-            "sha256": "318e3ba568e7c4dbd6b7daf7d15359306b6ffe7cb888ed25f6f03ca90ccb806f"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg",
+            "sha1": "8076247fccb0d1ea6086c28772417f0b26caa069",
+            "sha256": "d647aba9538983f0c6cd892d2c3442b71ae1c8573ce53cbf62eb3ea831e9d165"
         }
     ]
 }

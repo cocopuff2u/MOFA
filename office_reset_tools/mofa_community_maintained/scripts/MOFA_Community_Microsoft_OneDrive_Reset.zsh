@@ -59,7 +59,7 @@ SetHomeFolder() {
     # Prefer NFSHomeDirectory from dscl; fall back to /Users/<username>
     # NOTE: Using dscl avoids the original eval echo "~$1", which is unsafe if
     # the username contains shell metacharacters.
-    HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | awk '{print $NF}')
+    HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
     if [[ -z "$HOME" ]]; then
         HOME="/Users/$1"
     fi
@@ -219,9 +219,9 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -f "/Library/Managed Preferences/com.microsoft.OneDriveStandaloneUpdater.plist"
 /bin/rm -f "/Library/Managed Preferences/com.microsoft.OneDriveUpdater.plist"
 
-/bin/rm -rf "${TMPDIR}com.microsoft.OneDrive"
-/bin/rm -rf "${TMPDIR}com.microsoft.OneDrive.FinderSync"
-/bin/rm -f  "${TMPDIR}OneDriveVersion.xml"
+/bin/rm -rf "${TMPDIR:-/tmp}/com.microsoft.OneDrive"
+/bin/rm -rf "${TMPDIR:-/tmp}/com.microsoft.OneDrive.FinderSync"
+/bin/rm -f  "${TMPDIR:-/tmp}/OneDriveVersion.xml"
 
 KeychainHasLogin=$(/usr/bin/security list-keychains | grep 'login.keychain')
 if [[ -z "$KeychainHasLogin" ]]; then
@@ -249,7 +249,7 @@ echo "Office-Reset: Listing keychains for logged-in user"
 # The (N) qualifier suppresses errors if no match is found; [1] selects the
 # first result to avoid passing multiple paths to sqlite3.
 local -a keychain_candidates
-keychain_candidates=("${HOME}/Library/Keychains/"*/keychain-2.db)
+keychain_candidates=("${HOME}/Library/Keychains/"**/keychain-2.db(N))
 if [[ -f "${keychain_candidates[1]}" ]]; then
     /usr/bin/sqlite3 "${keychain_candidates[1]}" \
         "DELETE FROM genp WHERE agrp='UBF8T346G9.com.microsoft.identity.universalstorage';"

@@ -92,7 +92,7 @@ GetLoggedInUser() {
 
 SetHomeFolder() {
     # Use dscl to resolve home directory; fall back to /Users/<username>
-    HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | awk '{print $NF}')
+    HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
     if [[ -z "$HOME" ]]; then
         HOME="/Users/$1"
     fi
@@ -171,8 +171,7 @@ SetHomeFolder "$LoggedInUser"
 echo "Office-Reset: Running as: $LoggedInUser ($LoggedInUserID); Home Folder: $HOME"
 
 # Attempt graceful quit first, then force-kill if still running
-/usr/bin/pkill "Microsoft Teams" 2>/dev/null
-sleep 2
+/usr/bin/pkill "Microsoft Teams" 2>/dev/null && sleep 2
 /usr/bin/pkill -9 "Microsoft Teams" 2>/dev/null || true
 
 # MARK: Handle previous installation of Teams (if any)
@@ -267,11 +266,11 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -f  "/Library/Managed Preferences/com.microsoft.teams.helper.plist"
 /bin/rm -f  /Library/Preferences/com.microsoft.teams.helper.plist
 
-/bin/rm -rf "${TMPDIR}com.microsoft.teams"
-/bin/rm -rf "${TMPDIR}com.microsoft.teams Crashes"
-/bin/rm -rf "${TMPDIR}Teams"
-/bin/rm -rf "${TMPDIR}Microsoft Teams Helper (Renderer)"
-/bin/rm -rf "${TMPDIR}v8-compile-cache-501"
+/bin/rm -rf "${TMPDIR:-/tmp}/com.microsoft.teams"
+/bin/rm -rf "${TMPDIR:-/tmp}/com.microsoft.teams Crashes"
+/bin/rm -rf "${TMPDIR:-/tmp}/Teams"
+/bin/rm -rf "${TMPDIR:-/tmp}/Microsoft Teams Helper (Renderer)"
+/bin/rm -rf "${TMPDIR:-/tmp}/v8-compile-cache-501"
 
 /bin/rm -rf /Library/Logs/Microsoft/Teams
 

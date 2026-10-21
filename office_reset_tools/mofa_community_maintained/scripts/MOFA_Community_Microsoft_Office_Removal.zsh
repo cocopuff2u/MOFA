@@ -3,43 +3,45 @@
 # ============================================================
 # Script Name: MOFA_Community_Microsoft_Office_Removal.zsh
 # Repository: https://github.com/cocopuff2u/MOFA/tree/main/office_reset_tools/mofa_community_maintained
-# Description: Removals the Microsoft Office suite for specific applications
+# Description: Removes the Microsoft Office suite applications
 #
 # Version History:
 # 1.0.0 - Based on the latest available package from *Office-Reset.com*; recreated for MOFA to continue maintenance where *Office-Reset.com* left off.
+# 1.1.0 - Fixed launchctl stop/unload logic; replaced legacy launchctl unload with bootout using proper domain targeting;
+#          renamed HOME variable to UserHome to avoid shadowing shell builtin; removed unused autoload;
+#          added Microsoft AutoUpdate.app removal; added cfprefsd flush before plist removal;
+#          added OneDrive Application Support path; removed redundant log line; fixed zsh conditionals.
 #
 # ============================================================
 
-
 echo "Office-Reset: Starting preinstall for Remove_Office"
-autoload is-at-least
 
 GetLoggedInUser() {
-	LOGGEDIN=$(/bin/echo "show State:/Users/ConsoleUser" | /usr/sbin/scutil | /usr/bin/awk '/Name :/&&!/loginwindow/{print $3}')
-	if [ "$LOGGEDIN" = "" ]; then
-		echo "$USER"
-	else
-		echo "$LOGGEDIN"
-	fi
+    local loggedIn
+    loggedIn=$(/bin/echo "show State:/Users/ConsoleUser" | /usr/sbin/scutil | /usr/bin/awk '/Name :/&&!/loginwindow/{print $3}')
+    if [[ -z "$loggedIn" ]]; then
+        echo "$USER"
+    else
+        echo "$loggedIn"
+    fi
 }
 
 SetHomeFolder() {
-	HOME=$(dscl . read /Users/"$1" NFSHomeDirectory | cut -d ':' -f2 | cut -d ' ' -f2)
-	if [ "$HOME" = "" ]; then
-		if [ -d "/Users/$1" ]; then
-			HOME="/Users/$1"
-		else
-			HOME=$(eval echo "~$1")
-		fi
-	fi
+    # Prefer NFSHomeDirectory from dscl; fall back to /Users/<username>.
+    # No eval: the username is never passed through the shell parser.
+    UserHome=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
+    if [[ -z "$UserHome" ]]; then
+        UserHome="/Users/$1"
+    fi
 }
 
 ## Main
 LoggedInUser=$(GetLoggedInUser)
 SetHomeFolder "$LoggedInUser"
-echo "Office-Reset: Running as: $LoggedInUser; Home Folder: $HOME"
+LoggedInUID=$(id -u "$LoggedInUser" 2>/dev/null)
+echo "Office-Reset: Running as: $LoggedInUser (UID: $LoggedInUID); Home Folder: $UserHome"
 
-echo "Office-Reset: Stopping services"
+echo "Office-Reset: Stopping processes"
 /usr/bin/pkill -9 'Microsoft Word'
 /usr/bin/pkill -9 'Microsoft Excel'
 /usr/bin/pkill -9 'Microsoft PowerPoint'
@@ -59,21 +61,28 @@ echo "Office-Reset: Stopping services"
 /usr/bin/pkill -9 'com.microsoft.autoupdate.helpertool'
 /usr/bin/pkill -9 'com.microsoft.autoupdate.bootstrapper.helper'
 
-/bin/launchctl stop /Library/LaunchAgents/com.microsoft.update.agent.plist
-/bin/launchctl stop /Library/LaunchAgents/com.microsoft.autoupdate.helper.plist
-/bin/launchctl stop /Library/LaunchAgents/com.microsoft.OneDriveStandaloneUpdater.plist
-/bin/launchctl stop /Library/LaunchDaemons/com.microsoft.autoupdate.helper
-/bin/launchctl stop /Library/LaunchDaemons/com.microsoft.autoupdate.helper.plist
-/bin/launchctl stop /Library/LaunchDaemons/com.microsoft.OneDriveUpdaterDaemon.plist
-/bin/launchctl stop /Library/LaunchDaemons/com.microsoft.teams.TeamsUpdaterDaemon.plist
+# Unload LaunchAgents for the logged-in user's GUI session.
+# launchctl bootout requires the gui/<uid> domain target — passing a plist path
+# to the legacy 'launchctl stop' (which takes a job label) was incorrect.
+echo "Office-Reset: Unloading LaunchAgents"
+for plist in \
+    "/Library/LaunchAgents/com.microsoft.update.agent.plist" \
+    "/Library/LaunchAgents/com.microsoft.OneDriveStandaloneUpdater.plist"; do
+    if [[ -f "$plist" ]]; then
+        /bin/launchctl bootout gui/"$LoggedInUID" "$plist" 2>/dev/null
+    fi
+done
 
-/bin/launchctl unload /Library/LaunchAgents/com.microsoft.update.agent.plist
-/bin/launchctl unload /Library/LaunchAgents/com.microsoft.autoupdate.helper.plist
-/bin/launchctl unload /Library/LaunchAgents/com.microsoft.OneDriveStandaloneUpdater.plist
-/bin/launchctl unload /Library/LaunchDaemons/com.microsoft.autoupdate.helper
-/bin/launchctl unload /Library/LaunchDaemons/com.microsoft.autoupdate.helper.plist
-/bin/launchctl unload /Library/LaunchDaemons/com.microsoft.OneDriveUpdaterDaemon.plist
-/bin/launchctl unload /Library/LaunchDaemons/com.microsoft.teams.TeamsUpdaterDaemon.plist
+# Unload LaunchDaemons from the system domain.
+echo "Office-Reset: Unloading LaunchDaemons"
+for plist in \
+    "/Library/LaunchDaemons/com.microsoft.autoupdate.helper.plist" \
+    "/Library/LaunchDaemons/com.microsoft.OneDriveUpdaterDaemon.plist" \
+    "/Library/LaunchDaemons/com.microsoft.teams.TeamsUpdaterDaemon.plist"; do
+    if [[ -f "$plist" ]]; then
+        /bin/launchctl bootout system "$plist" 2>/dev/null
+    fi
+done
 
 echo "Office-Reset: Removing apps"
 /bin/rm -rf "/Applications/Microsoft Word.app"
@@ -83,13 +92,15 @@ echo "Office-Reset: Removing apps"
 /bin/rm -rf "/Applications/Microsoft OneNote.app"
 /bin/rm -rf "/Applications/OneDrive.app"
 /bin/rm -rf "/Applications/Microsoft Teams.app"
+/bin/rm -rf "/Applications/Microsoft AutoUpdate.app"
 
 echo "Office-Reset: Removing app data"
 /bin/rm -rf "/Library/Application Support/Microsoft/MAU2.0"
 /bin/rm -rf "/Library/Application Support/Microsoft/MERP2.0"
 /bin/rm -rf "/Library/Application Support/Microsoft/Office365"
-/bin/rm -rf "$HOME/Library/Application Support/Microsoft"
-/bin/rm -rf "$HOME/Library/Application Scripts/com.microsoft.errorreporting"
+/bin/rm -rf "$UserHome/Library/Application Support/Microsoft"
+/bin/rm -rf "$UserHome/Library/Application Support/OneDrive"
+/bin/rm -rf "$UserHome/Library/Application Scripts/com.microsoft.errorreporting"
 
 /bin/rm -f "/Library/LaunchAgents/com.microsoft.update.agent.plist"
 /bin/rm -f "/Library/LaunchAgents/com.microsoft.OneDriveStandaloneUpdater.plist"
@@ -106,27 +117,33 @@ echo "Office-Reset: Removing app data"
 
 /bin/rm -rf "/Library/Logs/Microsoft"
 
-# OneDriveFolder=$(/bin/ls "$HOME" | grep 'OneDrive' --max-count=1)
-# if [ "$OneDriveFolder" != "" ]; then
-#	IsOneDrive=$(/usr/bin/xattr "$HOME/$OneDriveFolder" | grep 'com.apple.fileutil.SyncRootProviderRootContextList')
-#	if [ "$IsOneDrive" = "com.apple.fileutil.SyncRootProviderRootContextList" ]; then
-#		echo "Office-Reset: Removing OneDrive folder $OneDriveFolder"
-#		/bin/rm -rf "$HOME/$OneDriveFolder"
-#	fi
+# OneDrive folder removal (optional — uncomment to enable)
+# OneDriveFolder=$(/bin/ls "$UserHome" | grep -m 1 'OneDrive')
+# if [[ -n "$OneDriveFolder" ]]; then
+#     IsOneDrive=$(/usr/bin/xattr "$UserHome/$OneDriveFolder" | grep 'com.apple.fileutil.SyncRootProviderRootContextList')
+#     if [[ "$IsOneDrive" == "com.apple.fileutil.SyncRootProviderRootContextList" ]]; then
+#         echo "Office-Reset: Removing OneDrive folder $OneDriveFolder"
+#         /bin/rm -rf "$UserHome/$OneDriveFolder"
+#     fi
 # fi
 
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.autoupdate2.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.autoupdate.fba.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.shared.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.office.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.Word.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.Excel.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.Powerpoint.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.Outlook.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.onenote.mac.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.OneDrive-mac.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.OneDrive.plist"
-/bin/rm -f "$HOME/Library/Preferences/com.microsoft.teams.plist"
+# Kill cfprefsd to flush its in-memory preference cache before deleting plist files.
+# Without this, cfprefsd may recreate plists from cache after deletion.
+/usr/bin/killall cfprefsd 2>/dev/null; true
+
+echo "Office-Reset: Removing preferences"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.autoupdate2.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.autoupdate.fba.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.shared.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.office.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.Word.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.Excel.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.Powerpoint.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.Outlook.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.onenote.mac.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.OneDrive-mac.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.OneDrive.plist"
+/bin/rm -f "$UserHome/Library/Preferences/com.microsoft.teams.plist"
 /bin/rm -f "/Library/Preferences/com.microsoft.autoupdate2.plist"
 /bin/rm -f "/Library/Preferences/com.microsoft.autoupdate.fba.plist"
 /bin/rm -f "/Library/Preferences/com.microsoft.shared.plist"
@@ -152,16 +169,14 @@ echo "Office-Reset: Removing app data"
 /bin/rm -f "/var/root/Library/Preferences/com.microsoft.autoupdate2.plist"
 /bin/rm -f "/var/root/Library/Preferences/com.microsoft.autoupdate.fba.plist"
 
-/bin/rm -rf "$HOME/Library/Caches/com.microsoft.autoupdate2"
-/bin/rm -rf "$HOME/Library/Caches/com.microsoft.autoupdate.fba"
-/bin/rm -rf "$HOME/Library/Caches/Microsoft"
+/bin/rm -rf "$UserHome/Library/Caches/com.microsoft.autoupdate2"
+/bin/rm -rf "$UserHome/Library/Caches/com.microsoft.autoupdate.fba"
+/bin/rm -rf "$UserHome/Library/Caches/Microsoft"
 
-/bin/rm -rf "$HOME/Library/Group Containers/UBF8T346G9.Office"
-/bin/rm -rf "$HOME/Library/Group Containers/UBF8T346G9.ms"
-/bin/rm -rf "$HOME/Library/Group Containers/UBF8T346G9.OfficeOsfWebHost"
-/bin/rm -rf "$HOME/Library/Group Containers/group.com.microsoft"
-
-echo "Office-Reset: Running as: $LoggedInUser; Home Folder: $HOME"
+/bin/rm -rf "$UserHome/Library/Group Containers/UBF8T346G9.Office"
+/bin/rm -rf "$UserHome/Library/Group Containers/UBF8T346G9.ms"
+/bin/rm -rf "$UserHome/Library/Group Containers/UBF8T346G9.OfficeOsfWebHost"
+/bin/rm -rf "$UserHome/Library/Group Containers/group.com.microsoft"
 
 echo "Office-Reset: Removing package receipts"
 /usr/sbin/pkgutil --forget com.microsoft.Word
@@ -194,11 +209,12 @@ echo "Office-Reset: Removing package receipts"
 /bin/rm -f "/Library/Preferences/com.microsoft.office.licensingV2.backup"
 /bin/rm -f "/Library/Preferences/com.microsoft.autoupdate2.plist"
 
-/bin/rm -f "$HOME/Library/Cookies/com.microsoft.OneDrive.binarycookies"
-/bin/rm -f "$HOME/Library/Cookies/com.microsoft.OneDriveUpdater.binarycookies"
-/bin/rm -f "$HOME/Library/Cookies/com.microsoft.OneDriveStandaloneUpdater.binarycookies"
-/bin/rm -f "$HOME/Library/Cookies/com.microsoft.teams.binarycookies"
+/bin/rm -f "$UserHome/Library/Cookies/com.microsoft.OneDrive.binarycookies"
+/bin/rm -f "$UserHome/Library/Cookies/com.microsoft.OneDriveUpdater.binarycookies"
+/bin/rm -f "$UserHome/Library/Cookies/com.microsoft.OneDriveStandaloneUpdater.binarycookies"
+/bin/rm -f "$UserHome/Library/Cookies/com.microsoft.teams.binarycookies"
 
 /bin/rm -rf "/Users/Shared/OnDemandInstaller"
 
+echo "Office-Reset: Removal complete for $LoggedInUser"
 exit 0

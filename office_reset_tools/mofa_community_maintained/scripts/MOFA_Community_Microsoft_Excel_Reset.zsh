@@ -28,6 +28,9 @@
 #          [Opt]  Unquoted variable expansions in nscurl/installer/rm/pkgutil → quoted
 #          [Opt]  Glob patterns in rm commands use (N) qualifier to avoid "no matches
 #                 found" errors when target directories are empty
+# 1.1.1 - Security (GHSA-gw3c-6fvh-7gqm): download to a root-private mktemp folder instead of the
+#          world-writable /Users/Shared/OnDemandInstaller; accept only a root-owned regular file;
+#          require pkgutil --check-signature to exit 0; remove the folder on every exit path
 # ============================================================
 
 echo "Office-Reset: Starting postinstall for Reset_Excel"
@@ -88,6 +91,12 @@ GetCustomManifestVersion() {
     fi
 }
 
+CleanupDownloadFolder() {
+    if [[ -n "${DOWNLOAD_FOLDER}" && "${DOWNLOAD_FOLDER}" == /private/tmp/MOFA_OnDemandInstaller.* ]]; then
+        /bin/rm -rf "${DOWNLOAD_FOLDER%/}"
+    fi
+}
+
 RepairApp() {
     if [[ "${APP_GENERATION}" == "2016" ]]; then
         DOWNLOAD_URL="${DOWNLOAD_2016}"
@@ -95,11 +104,15 @@ RepairApp() {
         DOWNLOAD_URL="${DOWNLOAD_2019}"
     fi
 
-    DOWNLOAD_FOLDER="/Users/Shared/OnDemandInstaller/"
-    if [[ -d "${DOWNLOAD_FOLDER}" ]]; then
-        /bin/rm -rf "${DOWNLOAD_FOLDER}"
+    # Root-private, per-run download folder. The previous fixed path under /Users/Shared was
+    # writable by every local account and could be replaced with a symlink (GHSA-gw3c-6fvh-7gqm).
+    DOWNLOAD_FOLDER=$(/usr/bin/mktemp -d /private/tmp/MOFA_OnDemandInstaller.XXXXXX)
+    if [[ -z "${DOWNLOAD_FOLDER}" || ! -d "${DOWNLOAD_FOLDER}" ]]; then
+        echo "Office-Reset: Could not create a private download folder"
+        exit 1
     fi
-    mkdir -p "${DOWNLOAD_FOLDER}"
+    /bin/chmod 700 "${DOWNLOAD_FOLDER}"
+    DOWNLOAD_FOLDER="${DOWNLOAD_FOLDER}/"
 
     GetCustomManifestVersion
     if [[ -z "${CUSTOM_VERSION}" ]]; then
@@ -124,35 +137,46 @@ RepairApp() {
     echo "Office-Reset: Finished package download"
 
     # Use full path directly; no need for a cd subshell
-    LOCAL_PKG_SIZE=$(stat -qf%z "${DOWNLOAD_FOLDER}${CDN_PKG_NAME}")
+    LOCAL_PKG="${DOWNLOAD_FOLDER}${CDN_PKG_NAME}"
+    # Accept only a regular file (never a symlink) owned by the user running this script
+    if [[ ! -f "${LOCAL_PKG}" || -L "${LOCAL_PKG}" || "$(/usr/bin/stat -f '%u' "${LOCAL_PKG}" 2>/dev/null)" != "$(id -u)" ]]; then
+        echo "Office-Reset: Downloaded package is missing or is not a regular file owned by $(id -un)"
+        echo "Office-Reset: Please manually download and install ${APP_NAME} from ${CDN_PKG_URL}"
+        CleanupDownloadFolder
+        exit 1
+    fi
+    LOCAL_PKG_SIZE=$(stat -qf%z "${LOCAL_PKG}")
     if [[ "${LOCAL_PKG_SIZE}" == "${CDN_PKG_SIZE}" ]]; then
         echo "Office-Reset: Downloaded package is wholesome"
     else
         echo "Office-Reset: Downloaded package is malformed. Local file size: ${LOCAL_PKG_SIZE}"
         echo "Office-Reset: Please manually download and install ${APP_NAME} from ${CDN_PKG_URL}"
+        CleanupDownloadFolder
         exit 1
     fi
 
-    LOCAL_PKG_SIGNING=$(/usr/sbin/pkgutil --check-signature "${DOWNLOAD_FOLDER}${CDN_PKG_NAME}" \
-        | awk '/Developer ID Installer/' \
-        | cut -d ':' -f2 \
-        | awk '{$1=$1};1')
-    if [[ "${LOCAL_PKG_SIGNING}" == "Microsoft Corporation (UBF8T346G9)" ]]; then
+    PKG_SIG_OUTPUT=$(/usr/sbin/pkgutil --check-signature "${LOCAL_PKG}" 2>&1)
+    PKG_SIG_STATUS=$?
+    LOCAL_PKG_SIGNING=$(echo "${PKG_SIG_OUTPUT}" | awk '/Developer ID Installer/' | cut -d ':' -f2 | awk '{$1=$1};1')
+    if [[ ${PKG_SIG_STATUS} -eq 0 && "${LOCAL_PKG_SIGNING}" == "Microsoft Corporation (UBF8T346G9)" ]]; then
         echo "Office-Reset: Downloaded package is signed by Microsoft"
     else
         echo "Office-Reset: Downloaded package is not signed by Microsoft"
         echo "Office-Reset: Please manually download and install ${APP_NAME} from ${CDN_PKG_URL}"
+        CleanupDownloadFolder
         exit 1
     fi
 
     echo "Office-Reset: Starting package install"
     # sudo is unnecessary — this script runs as root via Jamf postinstall
-    /usr/sbin/installer -pkg "${DOWNLOAD_FOLDER}${CDN_PKG_NAME}" -target /
+    /usr/sbin/installer -pkg "${LOCAL_PKG}" -target /
     if [[ $? -eq 0 ]]; then
         echo "Office-Reset: Package installed successfully"
+        CleanupDownloadFolder
     else
         echo "Office-Reset: Package installation failed"
         echo "Office-Reset: Please manually download and install ${APP_NAME} from ${CDN_PKG_URL}"
+        CleanupDownloadFolder
         exit 1
     fi
     echo "Office-Reset: Exiting without removing configuration data"

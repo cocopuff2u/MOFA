@@ -38,6 +38,11 @@
 #          - Quoted all $HOME, $TMPDIR, and system library paths
 #          - Quoted LoggedInUser/LoggedInUserID in runAsUser and chown calls
 #          - Simplified redundant [ -e path ] && rm -rf path → rm -rf path
+# 1.1.1 - Security (GHSA-gw3c-6fvh-7gqm): download to a root-private mktemp folder instead of the
+#          world-writable /Users/Shared/OnDemandInstaller; accept only a root-owned regular file;
+#          require pkgutil --check-signature to exit 0; remove the folder on every exit path
+#          Teams backgrounds are staged by the user inside their home (not /tmp) and restored
+#          without chown -R
 # ============================================================
 
 # Set PATH variable to SIP-protected folders
@@ -109,13 +114,23 @@ open_systempreferences() {
     runAsUser open -u "x-apple.systempreferences:${preferenceID}"
 }
 
+CleanupDownloadFolder() {
+    if [[ -n "${DOWNLOAD_FOLDER}" && "${DOWNLOAD_FOLDER}" == /private/tmp/MOFA_OnDemandInstaller.* ]]; then
+        /bin/rm -rf "${DOWNLOAD_FOLDER%/}"
+    fi
+}
+
 RepairApp() {
     DOWNLOAD_URL="$1"
-    DOWNLOAD_FOLDER="/Users/Shared/OnDemandInstaller/"
-    if [[ -d "${DOWNLOAD_FOLDER}" ]]; then
-        /bin/rm -rf "${DOWNLOAD_FOLDER}"
+    # Root-private, per-run download folder. The previous fixed path under /Users/Shared was
+    # writable by every local account and could be replaced with a symlink (GHSA-gw3c-6fvh-7gqm).
+    DOWNLOAD_FOLDER=$(/usr/bin/mktemp -d /private/tmp/MOFA_OnDemandInstaller.XXXXXX)
+    if [[ -z "${DOWNLOAD_FOLDER}" || ! -d "${DOWNLOAD_FOLDER}" ]]; then
+        echo "Office-Reset: Could not create a private download folder"
+        exit 1
     fi
-    mkdir -p "${DOWNLOAD_FOLDER}"
+    /bin/chmod 700 "${DOWNLOAD_FOLDER}"
+    DOWNLOAD_FOLDER="${DOWNLOAD_FOLDER}/"
 
     CDN_PKG_URL=$(/usr/bin/nscurl --location --head "${DOWNLOAD_URL}" --dump-header - | awk '/Location/' | cut -d ' ' -f2 | tail -1 | awk '{$1=$1};1')
     echo "Office-Reset: Package to download is ${CDN_PKG_URL}"
@@ -130,31 +145,45 @@ RepairApp() {
         --download-directory "${DOWNLOAD_FOLDER}" "${CDN_PKG_URL}"
     echo "Office-Reset: Finished package download"
 
-    LOCAL_PKG_SIZE=$(stat -qf%z "${DOWNLOAD_FOLDER}${CDN_PKG_NAME}")
+    LOCAL_PKG="${DOWNLOAD_FOLDER}${CDN_PKG_NAME}"
+    # Accept only a regular file (never a symlink) owned by the user running this script
+    if [[ ! -f "${LOCAL_PKG}" || -L "${LOCAL_PKG}" || "$(/usr/bin/stat -f '%u' "${LOCAL_PKG}" 2>/dev/null)" != "$(id -u)" ]]; then
+        echo "Office-Reset: Downloaded package is missing or is not a regular file owned by $(id -un)"
+        echo "Office-Reset: Please manually download and install ${APP_NAME} from ${CDN_PKG_URL}"
+        CleanupDownloadFolder
+        exit 1
+    fi
+    LOCAL_PKG_SIZE=$(stat -qf%z "${LOCAL_PKG}")
     if [[ "${LOCAL_PKG_SIZE}" == "${CDN_PKG_SIZE}" ]]; then
         echo "Office-Reset: Downloaded package is wholesome"
     else
         echo "Office-Reset: Downloaded package is malformed. Local file size: ${LOCAL_PKG_SIZE}"
         echo "Office-Reset: Please manually download and install ${APP_NAME} from ${CDN_PKG_URL}"
+        CleanupDownloadFolder
         exit 1
     fi
 
-    LOCAL_PKG_SIGNING=$(/usr/sbin/pkgutil --check-signature "${DOWNLOAD_FOLDER}${CDN_PKG_NAME}" | awk '/Developer ID Installer/' | cut -d ':' -f2 | awk '{$1=$1};1')
-    if [[ "${LOCAL_PKG_SIGNING}" == "Microsoft Corporation (UBF8T346G9)" ]]; then
+    PKG_SIG_OUTPUT=$(/usr/sbin/pkgutil --check-signature "${LOCAL_PKG}" 2>&1)
+    PKG_SIG_STATUS=$?
+    LOCAL_PKG_SIGNING=$(echo "${PKG_SIG_OUTPUT}" | awk '/Developer ID Installer/' | cut -d ':' -f2 | awk '{$1=$1};1')
+    if [[ ${PKG_SIG_STATUS} -eq 0 && "${LOCAL_PKG_SIGNING}" == "Microsoft Corporation (UBF8T346G9)" ]]; then
         echo "Office-Reset: Downloaded package is signed by Microsoft"
     else
         echo "Office-Reset: Downloaded package is not signed by Microsoft"
         echo "Office-Reset: Please manually download and install ${APP_NAME} from ${CDN_PKG_URL}"
+        CleanupDownloadFolder
         exit 1
     fi
 
     echo "Office-Reset: Starting package install"
-    /usr/sbin/installer -pkg "${DOWNLOAD_FOLDER}${CDN_PKG_NAME}" -target /
+    /usr/sbin/installer -pkg "${LOCAL_PKG}" -target /
     if [[ $? -eq 0 ]]; then
         echo "Office-Reset: Package installed successfully"
+        CleanupDownloadFolder
     else
         echo "Office-Reset: Package installation failed"
         echo "Office-Reset: Please manually download and install ${APP_NAME} from ${CDN_PKG_URL}"
+        CleanupDownloadFolder
         exit 1
     fi
 }
@@ -214,14 +243,23 @@ if [[ -d "${backgroundsFolder}" ]]; then
         destFolder="${orgDestFolder}${folderCounter}"
     done
     echo "Office-Reset: Moving Classic backgrounds to ${destFolder}"
-    mv "${backgroundsFolder}" "${destFolder}"
+    # Move as the user: root never relocates or re-owns anything inside the home folder
+    runAsUser mv -h "${backgroundsFolder}" "${destFolder}"
     runAsUser open "${destFolder}"
 fi
-# Preserve new Teams backgrounds before wiping Containers
+# Preserve new Teams backgrounds before wiping Containers.
+# Staged as the user in a fresh mktemp folder inside their own home, never in /tmp: a fixed
+# shared path could be pre-seeded by any local account (GHSA-gw3c-6fvh-7gqm).
 backgroundsFolder="${HOME}/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/Backgrounds"
+backgroundsStaging=""
 if [[ -d "${backgroundsFolder}" ]]; then
-    echo "Office-Reset: Preserving backgrounds for ${APP_NAME}"
-    mv "${backgroundsFolder}" /tmp/
+    backgroundsStaging=$(runAsUser /usr/bin/mktemp -d "${HOME}/MOFA_Teams_Backgrounds.XXXXXX")
+    if [[ -n "${backgroundsStaging}" ]] && runAsUser mv -h "${backgroundsFolder}" "${backgroundsStaging}/"; then
+        echo "Office-Reset: Preserving backgrounds for ${APP_NAME} in ${backgroundsStaging}"
+    else
+        echo "Office-Reset: Could not stage backgrounds for ${APP_NAME}; continuing without preserving them"
+        backgroundsStaging=""
+    fi
 fi
 
 # MARK: Remove configuration data
@@ -302,11 +340,13 @@ runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.Hock
 runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK'          2>/dev/null || true
 
 # Restore backgrounds
-if [[ -d "/tmp/Backgrounds" ]]; then
+# Restore only what this run staged, as the user, with no chown: a root chown -R over a
+# user-writable folder would re-own any hard-linked root file placed there (GHSA-gw3c-6fvh-7gqm).
+if [[ -n "${backgroundsStaging}" && -d "${backgroundsStaging}/Backgrounds" ]]; then
     echo "Office-Reset: Restoring backgrounds for ${APP_NAME}"
     runAsUser mkdir -p "${HOME}/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/"
-    mv /tmp/Backgrounds "${HOME}/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/"
-    chown -R "$LoggedInUser" "${HOME}/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams"
+    runAsUser mv -h "${backgroundsStaging}/Backgrounds" "${HOME}/Library/Containers/com.microsoft.teams2/Data/Library/Application Support/Microsoft/MSTeams/" \
+        && runAsUser rmdir "${backgroundsStaging}"
 fi
 
 

@@ -51,7 +51,7 @@ SetHomeFolder() {
     # Prefer NFSHomeDirectory from dscl; fall back to /Users/<username>
     # NOTE: Using dscl avoids the original eval echo "~$1", which is unsafe if
     # the username contains shell metacharacters.
-    HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | awk '{print $NF}')
+    HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
     if [[ -z "$HOME" ]]; then
         HOME="/Users/$1"
     fi
@@ -164,9 +164,8 @@ LoggedInUser=$(GetLoggedInUser)
 SetHomeFolder "$LoggedInUser"
 echo "Office-Reset: Running as: $LoggedInUser; Home Folder: $HOME"
 
-# Graceful SIGTERM first; SIGKILL after 2s if still running
-/usr/bin/pkill "Microsoft Excel" 2>/dev/null
-sleep 2
+# Graceful SIGTERM first; wait 2s only if something was running, then SIGKILL
+/usr/bin/pkill "Microsoft Excel" 2>/dev/null && sleep 2
 /usr/bin/pkill -9 "Microsoft Excel" 2>/dev/null || true
 
 if [[ -d "/Applications/Microsoft Excel.app" ]]; then
@@ -238,6 +237,6 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 
 /usr/bin/security delete-certificate -c 'Microsoft.Office.Excel.ProtectedDataServices'
 
-/bin/rm -rf "${TMPDIR}com.microsoft.Excel"
+/bin/rm -rf "${TMPDIR:-/tmp}/com.microsoft.Excel"
 
 exit 0

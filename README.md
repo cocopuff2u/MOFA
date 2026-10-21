@@ -47,7 +47,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Direct links to Microsoft's CDN. A link always downloads the newest build Microsoft offers, so the version shown is the one available at the time of the last update.</sup>
 
-<sup>🟢 Updated <code>October 20, 2026 06:02 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
+<sup>🟢 Updated <code>October 20, 2026 08:29 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -142,7 +142,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Microsoft tools outside the Office suite, from GitHub releases, Microsoft's CDN or Homebrew. Some are Homebrew-only; the versions below are the latest official releases.</sup>
 
-<sup>🟢 Updated <code>October 20, 2026 06:03 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 20, 2026 08:33 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -153,7 +153,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | **.NET SDK 8 (LTS)**<br><br>_**Last Update:** `October 13, 2026`_<br> | **Version:**<br>`8.0.426` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.426/dotnet-sdk-8.0.426-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
 | **Azure Functions Core Tools**<br><br>_**Last Update:** `October 12, 2026`_<br> | **Version:**<br>`4.16.0` | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.0/Azure.Functions.Cli.osx-arm64.4.16.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **Azure Developer CLI (azd)**<br><br>_**Last Update:** `October 15, 2026`_<br> | **Version:**<br>`1.36.0` | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.36.0/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
-| **AzCopy**<br><br>_**Last Update:** `August 27, 2026`_<br> | **Version:**<br>`10.32.8` | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.8/azcopy_darwin_arm64_10.32.8.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
+| **AzCopy**<br><br>_**Last Update:** `October 21, 2026`_<br> | **Version:**<br>`10.34.0` | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.0/azcopy_darwin_arm64_10.34.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **Bicep CLI**<br><br>_**Last Update:** `October 05, 2026`_<br> | **Version:**<br>`0.48.1` | <a href="https://github.com/Azure/bicep/releases/download/v0.48.1/bicep-osx-arm64"><img src=".github/images/bicep.png" alt="Download Image" width="80"></a> |
 | **Azure CLI**<br><br>_**Last Update:** `September 01, 2026`_<br> | **Version:**<br>`2.90.0` | <img src=".github/images/azure.png" alt="Azure CLI" width="80"><br>`brew install azure-cli` |
 | **sqlcmd**<br><br>_**Last Update:** `March 03, 2026`_<br> | **Version:**<br>`1.10.0` | <img src=".github/images/sqlcmd.png" alt="sqlcmd" width="80"><br>`brew install sqlcmd` |
@@ -169,14 +169,14 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | **.NET SDK 8 (LTS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.426/dotnet-sdk-8.0.426-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `ccd3f8c218d573c8564b3184f748990e1e86a78efc8bd2b59733b12fe8cb213b` |
 | **Azure Functions Core Tools** | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.0/Azure.Functions.Cli.osx-arm64.4.16.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `5698d54038fd0507a614af53e8bd3f91c89f96e60ae081c113373b3d2af375f3` |
 | **Azure Developer CLI (azd)** | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.36.0/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `750d6b70067dc7d5d31f17a41d676f5eb096acdcbb01349413339bbdad5bda38` |
-| **AzCopy** | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.8/azcopy_darwin_arm64_10.32.8.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `d17c2a7df11425f2dbc9df397af41495b32a38009e1a230e3c21892cc7a2c8c1` |
+| **AzCopy** | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.0/azcopy_darwin_arm64_10.34.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `f479825bf43acb9d07c66dfabd1ddac7492322642c9bf7bda2a76ae854be754f` |
 | **Bicep CLI** | <a href="https://github.com/Azure/bicep/releases/download/v0.48.1/bicep-osx-arm64"><img src=".github/images/bicep.png" alt="Download Image" width="80"></a> | `62cd5958c62fa1b738e9b69f24799fabddb90ed83fdb7d6d2563dde376ce479d` |
 
 
 
 ## Mac App Store
 
-<sup>🟢 Updated <code>October 20, 2026 06:02 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 20, 2026 08:30 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -186,7 +186,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | Microsoft Outlook | `16.114` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/d3/3d/2bd33da5-96be-fb13-baeb-3e0f12664d0b/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
 | Microsoft OneNote | `16.114` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/ce/b6/6dceb6f4-a06d-3a4d-cbec-9e864e1a6819/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
 | OneDrive | `26.168.0830` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c5/8f/8dc58fe8-a436-532f-086b-355200fd1516/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
-| ShareMe: File Sharing & MeDrop | `1.0.8` | `com.sharedrop.wifiShare` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="ShareMe: File Sharing & MeDrop" width="40"> |
+| MeDrop: File Sharing | `1.0.8` | `com.sharedrop.wifiShare` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="MeDrop: File Sharing" width="40"> |
 | Windows App | `11.4.4` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/34/52/3534528e-f77f-37c8-458c-e4c74c913cfe/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
 | Microsoft To Do | `2.177` | `com.microsoft.to-do-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/26/b8/7f26b821-f687-812d-0ff5-d0b85264256f/AppIcon-Release-0-85-220-0-5-0-0-2x-sRGB-0-0.png/512x512bb.png" alt="Microsoft To Do" width="40"> |
 | Microsoft Copilot | `25.7.440902001` | `com.microsoft.copilot-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/94/04/b39404b4-3746-b6bf-0e3b-d20db7959540/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png" alt="Microsoft Copilot" width="40"> |

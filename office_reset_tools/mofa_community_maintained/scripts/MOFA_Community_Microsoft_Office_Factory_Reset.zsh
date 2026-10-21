@@ -31,7 +31,7 @@ GetLoggedInUser() {
 
 SetHomeFolder() {
 	# Use dscl to resolve home directory; fall back to /Users/<username>
-	HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | awk '{print $NF}')
+	HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
 	if [[ -z "$HOME" ]]; then
 		HOME="/Users/$1"
 	fi

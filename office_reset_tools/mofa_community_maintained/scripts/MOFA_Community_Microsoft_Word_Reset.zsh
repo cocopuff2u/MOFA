@@ -47,7 +47,7 @@ GetLoggedInUser() {
 
 SetHomeFolder() {
 	# Use dscl to resolve home directory; fall back to /Users/<username>
-	HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | awk '{print $NF}')
+	HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
 	if [[ -z "$HOME" ]]; then
 		HOME="/Users/$1"
 	fi
@@ -147,8 +147,7 @@ SetHomeFolder "$LoggedInUser"
 echo "Office-Reset: Running as: $LoggedInUser; Home Folder: $HOME; Temp Folder: $TMPDIR"
 
 # Attempt graceful quit first, then force-kill if still running
-/usr/bin/pkill "Microsoft Word" 2>/dev/null
-sleep 2
+/usr/bin/pkill "Microsoft Word" 2>/dev/null && sleep 2
 /usr/bin/pkill -9 "Microsoft Word" 2>/dev/null || true
 
 if [[ -d "/Applications/Microsoft Word.app" ]]; then
@@ -217,6 +216,6 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -f  "${HOME}/Library/Group Containers/UBF8T346G9.Office/Microsoft Office ACL"*(N)
 /bin/rm -f  "${HOME}/Library/Group Containers/UBF8T346G9.Office/MicrosoftRegistrationDB.reg"
 
-/bin/rm -rf "${TMPDIR}com.microsoft.Word"
+/bin/rm -rf "${TMPDIR:-/tmp}/com.microsoft.Word"
 
 exit 0

@@ -46,7 +46,7 @@ GetLoggedInUser() {
 
 SetHomeFolder() {
 	# Use dscl to resolve home directory; fall back to /Users/<username>
-	HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | awk '{print $NF}')
+	HOME=$(dscl . -read "/Users/$1" NFSHomeDirectory 2>/dev/null | sed -n 's/^NFSHomeDirectory: //p')
 	if [[ -z "$HOME" ]]; then
 		HOME="/Users/$1"
 	fi
@@ -223,7 +223,7 @@ fi
 # Remove ADAL universal storage tokens directly from keychain-2.db.
 # Use a zsh array glob to locate the database; [1] guards against multiple matches.
 local -a keychain_candidates
-keychain_candidates=("${HOME}/Library/Keychains/"*/keychain-2.db)
+keychain_candidates=("${HOME}/Library/Keychains/"**/keychain-2.db(N))
 if [[ -f "${keychain_candidates[1]}" ]]; then
 	/usr/bin/sqlite3 "${keychain_candidates[1]}" \
 		"DELETE FROM genp WHERE agrp='UBF8T346G9.com.microsoft.identity.universalstorage';"

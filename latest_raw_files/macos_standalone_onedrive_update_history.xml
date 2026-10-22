@@ -1,7 +1,22 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>October 22, 2026 10:50 AM EDT</last_scan_date>
-    <total_builds>116</total_builds>
+    <last_scan_date>October 22, 2026 03:06 PM EDT</last_scan_date>
+    <total_builds>118</total_builds>
+    <release>
+        <build>26.206.1021.0001</build>
+        <version>26.206.1021</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>October 22, 2026</cdn_published>
+        <first_seen>October 22, 2026</first_seen>
+        <rings>MSIT Fast</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.206.1021.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>c8fda921c65dcdd3d4852647407f6822317810b5be2c9e61c761cd1cafe84411</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.206.1021.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>5bc16965a77443686ed1772293890b9aac224e96d2a4eae386eb07066a82ab02</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneMsitFastManifest</sources>
+    </release>
     <release>
         <build>26.203.1018.0001</build>
         <version>26.203.1018</version>
@@ -31,6 +46,21 @@
         <intel_sha256>3a4722b3e1aa53284d331342b4fb2d5928e7f2a7c38b2bc2ba95c771c87ef738</intel_sha256>
         <download_available>true</download_available>
         <sources>manifest:StandaloneMsitFastManifest, mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.201.1014.0001</build>
+        <version>26.201.1014</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>October 15, 2026</cdn_published>
+        <first_seen>October 22, 2026</first_seen>
+        <rings>MSIT Fast</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.201.1014.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>3c5c7d1ca461bafb331154ade20fa4c3d2b1eca49df85e8f23eccc38e7303d6d</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.201.1014.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>fb6c54fafb82c7149008c1cae4575e368adbb631124a518d987fceaf15a38263</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:MacODSUMsitFast</sources>
     </release>
     <release>
         <build>26.200.1013.0001</build>

@@ -1,5 +1,5 @@
 Releases:
-  last_scan_date: October 21, 2026 07:53 PM EDT
+  last_scan_date: October 21, 2026 11:06 PM EDT
   total_builds: '116'
   release:
   - build: 26.203.1018.0001
@@ -109,7 +109,7 @@ Releases:
       manifest:MacODSUMsitSlow, mofa_git_history
   - build: 26.189.0928.0007
     version: 26.189.0928
-    release_date: N/A
+    release_date: October 19, 2026
     deferred_release_date: N/A
     cdn_published: October 14, 2026
     first_seen: October 19, 2026
@@ -120,7 +120,7 @@ Releases:
     intel_sha256: 29a510413d5ae47e853d16438a39a90b524a5b53755dd32ab4dd4f5c4dddfb7a
     download_available: 'true'
     sources: manifest:StandaloneInsidersManifest, manifest:StandaloneProductManifest,
-      manifest:MacODSUInsiders, mofa_git_history
+      manifest:MacODSUInsiders, mofa_git_history, release_notes
   - build: 26.189.0928.0005
     version: 26.189.0928
     release_date: N/A

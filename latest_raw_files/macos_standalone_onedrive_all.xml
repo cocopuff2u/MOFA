@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>October 22, 2026 10:50 AM EDT</last_updated>
+  <last_updated>October 22, 2026 03:06 PM EDT</last_updated>
   <release_notes>
     <source>https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0</source>
     <production>
@@ -164,36 +164,6 @@
   </package>
   <package>
     <name>Insider Ring</name>
-    <short_version>26.189.0928</short_version>
-    <application_id>ONDR18</application_id>
-    <application_name>OneDrive.app</application_name>
-    <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0007/universal/OneDrive.pkg</full_update_download>
-    <full_update_sha1>N/A</full_update_sha1>
-    <full_update_sha256>5179f0925a80988986fc3356a01f4f8d53221f5afd80d25d0b291d4b6cc1da79</full_update_sha256>
-    <last_updated>October 19, 2026 01:05 PM EDT</last_updated>
-    <build>26.189.0928.0007</build>
-    <rollout_percent>100</rollout_percent>
-    <min_applicable>17.003.6389.0225</min_applicable>
-    <max_applicable>26.999.9999.9999</max_applicable>
-    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0007/OneDrive.pkg</intel_update_download>
-    <intel_update_sha256>29a510413d5ae47e853d16438a39a90b524a5b53755dd32ab4dd4f5c4dddfb7a</intel_update_sha256>
-    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.189.0928.0007/universal/OneDrive.zip</universal_zip_download>
-    <universal_zip_sha1>59c0dd64aec74747bcadb0891a9446779b188fee</universal_zip_sha1>
-    <release_date>N/A</release_date>
-    <release_ring>N/A</release_ring>
-    <first_seen>October 19, 2026</first_seen>
-    <min_macos>N/A</min_macos>
-    <cdn_published>October 14, 2026</cdn_published>
-    <fwlink>N/A</fwlink>
-    <updater>OneDrive.app in-app updater</updater>
-    <source>https://g.live.com/0USSDMC_W5T/StandaloneInsidersManifest</source>
-    <sha256_source>microsoft_manifest</sha256_source>
-    <sha256_verified>N/A</sha256_verified>
-    <note>N/A</note>
-  </package>
-  <package>
-    <name>Upcoming Insider Ring</name>
     <short_version>26.195.1006</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
@@ -201,9 +171,9 @@
     <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0005/universal/OneDrive.pkg</full_update_download>
     <full_update_sha1>N/A</full_update_sha1>
     <full_update_sha256>231a42c216bc442382222165ea2a49feb3b8c4a2ff5c64787536753b91fbff52</full_update_sha256>
-    <last_updated>October 19, 2026 06:47 PM EDT</last_updated>
+    <last_updated>October 22, 2026 03:06 PM EDT</last_updated>
     <build>26.195.1006.0005</build>
-    <rollout_percent>10</rollout_percent>
+    <rollout_percent>100</rollout_percent>
     <min_applicable>17.003.6389.0225</min_applicable>
     <max_applicable>26.999.9999.9999</max_applicable>
     <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0005/OneDrive.pkg</intel_update_download>
@@ -220,31 +190,31 @@
     <source>https://g.live.com/0USSDMC_W5T/StandaloneInsidersManifest</source>
     <sha256_source>microsoft_manifest</sha256_source>
     <sha256_verified>N/A</sha256_verified>
-    <note>Staged rollout at 10% of devices</note>
+    <note>N/A</note>
   </package>
   <package>
     <name>MSIT Slow Ring (Preview)</name>
-    <short_version>26.195.1006</short_version>
+    <short_version>26.198.1011</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0004/universal/OneDrive.pkg</full_update_download>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0005/universal/OneDrive.pkg</full_update_download>
     <full_update_sha1>N/A</full_update_sha1>
-    <full_update_sha256>828570e8da790e5154a322af67f8ec53303232916d1831e0c55d16bd38a4d4cc</full_update_sha256>
-    <last_updated>October 19, 2026 01:05 PM EDT</last_updated>
-    <build>26.195.1006.0004</build>
+    <full_update_sha256>48df02d98ec9a89d59f666af700d2abc9837e21d0e596137ac10f7afd538543a</full_update_sha256>
+    <last_updated>October 22, 2026 03:06 PM EDT</last_updated>
+    <build>26.198.1011.0005</build>
     <rollout_percent>100</rollout_percent>
     <min_applicable>17.003.6389.0225</min_applicable>
     <max_applicable>26.999.9999.9999</max_applicable>
-    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0004/OneDrive.pkg</intel_update_download>
-    <intel_update_sha256>cda0cb06de23dbfdc03058e884821340fd57aeb5fd764357c7b7299dcd946d44</intel_update_sha256>
-    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.195.1006.0004/universal/OneDrive.zip</universal_zip_download>
-    <universal_zip_sha1>451ee21065c00a9c25fa0ec9bb2321dd9c1574b5</universal_zip_sha1>
+    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0005/OneDrive.pkg</intel_update_download>
+    <intel_update_sha256>6e5354dcc1fcfc9c43e46321625d0fe4d6aea4c09a2fb72b3c318dfbf84b3503</intel_update_sha256>
+    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.198.1011.0005/universal/OneDrive.zip</universal_zip_download>
+    <universal_zip_sha1>dc71f7bd2421e476bd82d0b8aafdf185f19a3a99</universal_zip_sha1>
     <release_date>N/A</release_date>
     <release_ring>N/A</release_ring>
-    <first_seen>October 19, 2026</first_seen>
+    <first_seen>October 22, 2026</first_seen>
     <min_macos>N/A</min_macos>
-    <cdn_published>October 14, 2026</cdn_published>
+    <cdn_published>October 22, 2026</cdn_published>
     <fwlink>N/A</fwlink>
     <updater>OneDrive.app in-app updater</updater>
     <source>https://g.live.com/0USSDMC_W5T/StandaloneMsitSlowManifest</source>
@@ -253,58 +223,28 @@
     <note>N/A</note>
   </package>
   <package>
-    <name>Upcoming MSIT Slow Ring (Preview)</name>
-    <short_version>26.198.1011</short_version>
-    <application_id>ONDR18</application_id>
-    <application_name>OneDrive.app</application_name>
-    <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0004/universal/OneDrive.pkg</full_update_download>
-    <full_update_sha1>N/A</full_update_sha1>
-    <full_update_sha256>02d34ee8335e0cb4b8c0d554ec419eb0d01ed659157b3bab66727533aa5a0148</full_update_sha256>
-    <last_updated>October 19, 2026 06:47 PM EDT</last_updated>
-    <build>26.198.1011.0004</build>
-    <rollout_percent>10</rollout_percent>
-    <min_applicable>17.003.6389.0225</min_applicable>
-    <max_applicable>26.999.9999.9999</max_applicable>
-    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0004/OneDrive.pkg</intel_update_download>
-    <intel_update_sha256>a5392784aa96c1fc769ea3876cb9ec56288631d4df26c75fc73fd4643f612d17</intel_update_sha256>
-    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.198.1011.0004/universal/OneDrive.zip</universal_zip_download>
-    <universal_zip_sha1>d3376bdd974167b67463f1e48917f71631f2e230</universal_zip_sha1>
-    <release_date>N/A</release_date>
-    <release_ring>N/A</release_ring>
-    <first_seen>October 19, 2026</first_seen>
-    <min_macos>N/A</min_macos>
-    <cdn_published>October 19, 2026</cdn_published>
-    <fwlink>N/A</fwlink>
-    <updater>OneDrive.app in-app updater</updater>
-    <source>https://g.live.com/0USSDMC_W5T/StandaloneMsitSlowManifest</source>
-    <sha256_source>microsoft_manifest</sha256_source>
-    <sha256_verified>N/A</sha256_verified>
-    <note>Staged rollout at 10% of devices</note>
-  </package>
-  <package>
     <name>MSIT Fast Ring (Preview)</name>
-    <short_version>26.203.1018</short_version>
+    <short_version>26.206.1021</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.203.1018.0001/universal/OneDrive.pkg</full_update_download>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.206.1021.0001/universal/OneDrive.pkg</full_update_download>
     <full_update_sha1>N/A</full_update_sha1>
-    <full_update_sha256>a46ea319559ddf6e4cff3967ef45feaea751f2aefdd166c875df240454076f6b</full_update_sha256>
-    <last_updated>October 19, 2026 02:21 PM EDT</last_updated>
-    <build>26.203.1018.0001</build>
+    <full_update_sha256>c8fda921c65dcdd3d4852647407f6822317810b5be2c9e61c761cd1cafe84411</full_update_sha256>
+    <last_updated>October 22, 2026 03:06 PM EDT</last_updated>
+    <build>26.206.1021.0001</build>
     <rollout_percent>100</rollout_percent>
     <min_applicable>17.003.6389.0225</min_applicable>
     <max_applicable>26.999.9999.9999</max_applicable>
-    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.203.1018.0001/OneDrive.pkg</intel_update_download>
-    <intel_update_sha256>f53dcbb71e97824c2382977a67ae687c266dda148688c55349621e49b611ea05</intel_update_sha256>
-    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.203.1018.0001/universal/OneDrive.zip</universal_zip_download>
-    <universal_zip_sha1>2585d73810342ff01ec5bb9ef7ecbaf0f6855333</universal_zip_sha1>
+    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.206.1021.0001/OneDrive.pkg</intel_update_download>
+    <intel_update_sha256>5bc16965a77443686ed1772293890b9aac224e96d2a4eae386eb07066a82ab02</intel_update_sha256>
+    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.206.1021.0001/universal/OneDrive.zip</universal_zip_download>
+    <universal_zip_sha1>5e0feb14f6fc2c4a8312221bebe057d262ce3c2d</universal_zip_sha1>
     <release_date>N/A</release_date>
     <release_ring>N/A</release_ring>
-    <first_seen>October 19, 2026</first_seen>
+    <first_seen>October 22, 2026</first_seen>
     <min_macos>N/A</min_macos>
-    <cdn_published>October 19, 2026</cdn_published>
+    <cdn_published>October 22, 2026</cdn_published>
     <fwlink>N/A</fwlink>
     <updater>OneDrive.app in-app updater</updater>
     <source>https://g.live.com/0USSDMC_W5T/StandaloneMsitFastManifest</source>
@@ -464,27 +404,27 @@
   </package>
   <package>
     <name>MSIT Fast Ring (Standalone Updater)</name>
-    <short_version>26.200.1013</short_version>
+    <short_version>26.201.1014</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.200.1013.0001/universal/OneDrive.pkg</full_update_download>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.201.1014.0001/universal/OneDrive.pkg</full_update_download>
     <full_update_sha1>N/A</full_update_sha1>
-    <full_update_sha256>7dbd559d40e581d6f94709040f41c6daf609f1b06f5a86cf951c397243370582</full_update_sha256>
-    <last_updated>October 21, 2026 12:32 PM EDT</last_updated>
-    <build>26.200.1013.0001</build>
+    <full_update_sha256>3c5c7d1ca461bafb331154ade20fa4c3d2b1eca49df85e8f23eccc38e7303d6d</full_update_sha256>
+    <last_updated>October 22, 2026 03:06 PM EDT</last_updated>
+    <build>26.201.1014.0001</build>
     <rollout_percent>100</rollout_percent>
     <min_applicable>17.003.6389.0225</min_applicable>
     <max_applicable>26.999.9999.9999</max_applicable>
-    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.200.1013.0001/OneDrive.pkg</intel_update_download>
-    <intel_update_sha256>5a24d0fc7f64f53d321d8596193becbe6d0e41142e773126acdabfc8d5af812c</intel_update_sha256>
-    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.200.1013.0001/universal/OneDrive.zip</universal_zip_download>
-    <universal_zip_sha1>b79cc911bc3d8ee80ccfa502fb0961304fadcc65</universal_zip_sha1>
+    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.201.1014.0001/OneDrive.pkg</intel_update_download>
+    <intel_update_sha256>fb6c54fafb82c7149008c1cae4575e368adbb631124a518d987fceaf15a38263</intel_update_sha256>
+    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.201.1014.0001/universal/OneDrive.zip</universal_zip_download>
+    <universal_zip_sha1>11566697d67d45bd3e8633d0394b9006b3508507</universal_zip_sha1>
     <release_date>N/A</release_date>
     <release_ring>N/A</release_ring>
-    <first_seen>October 21, 2026</first_seen>
+    <first_seen>October 22, 2026</first_seen>
     <min_macos>N/A</min_macos>
-    <cdn_published>October 14, 2026</cdn_published>
+    <cdn_published>October 15, 2026</cdn_published>
     <fwlink>N/A</fwlink>
     <updater>OneDriveStandaloneUpdater (legacy LaunchAgent)</updater>
     <source>https://g.live.com/0USSDMC_W5T/MacODSUMsitFast</source>

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>October 21, 2026 07:53 PM EDT</last_updated>
+  <last_updated>October 21, 2026 11:06 PM EDT</last_updated>
   <release_notes>
     <source>https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0</source>
     <production>
       <released>26.173.0906.0008</released>
-      <rolling_out>N/A</rolling_out>
+      <rolling_out>26.189.0928.0007 ( universal )</rolling_out>
     </production>
     <deferred>
       <released>26.123.0628.0001</released>
@@ -330,8 +330,8 @@
     <intel_update_sha256>29a510413d5ae47e853d16438a39a90b524a5b53755dd32ab4dd4f5c4dddfb7a</intel_update_sha256>
     <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.189.0928.0007/universal/OneDrive.zip</universal_zip_download>
     <universal_zip_sha1>59c0dd64aec74747bcadb0891a9446779b188fee</universal_zip_sha1>
-    <release_date>N/A</release_date>
-    <release_ring>N/A</release_ring>
+    <release_date>October 19, 2026</release_date>
+    <release_ring>Production</release_ring>
     <first_seen>October 19, 2026</first_seen>
     <min_macos>N/A</min_macos>
     <cdn_published>October 14, 2026</cdn_published>

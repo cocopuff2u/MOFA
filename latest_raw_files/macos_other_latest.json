@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 21, 2026 11:07 PM EDT",
+    "last_updated": "October 22, 2026 05:08 AM EDT",
     "packages": [
         {
             "name": "PowerShell",
@@ -118,14 +118,14 @@
             "application_id": "N/A",
             "application_name": "AzCopy",
             "CFBundleVersion": "N/A",
-            "short_version": "10.34.0",
-            "full_version": "10.34.0",
-            "last_updated": "October 21, 2026",
+            "short_version": "10.34.1",
+            "full_version": "10.34.1",
+            "last_updated": "October 22, 2026",
             "min_os": "N/A",
-            "update_download": "https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.0/azcopy_darwin_arm64_10.34.0.zip",
-            "latest_download": "https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.0/azcopy_darwin_arm64_10.34.0.zip",
-            "sha1": "66bd454b41e1accb122e739bbcaaacea1d5f0c7c",
-            "sha256": "f479825bf43acb9d07c66dfabd1ddac7492322642c9bf7bda2a76ae854be754f"
+            "update_download": "https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.1/azcopy_darwin_arm64_10.34.1.zip",
+            "latest_download": "https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.1/azcopy_darwin_arm64_10.34.1.zip",
+            "sha1": "98dd4a5f793f63b4f9b8d50c1d0a29bac5b01803",
+            "sha256": "44f5e72f663215f838c6ccedf6da9f0fbc9ee7215610bf88b92b1bfa931e5524"
         },
         {
             "name": "Bicep CLI",

@@ -1,7 +1,7 @@
 {
   "Releases": {
-    "last_scan_date": "October 22, 2026 03:06 PM EDT",
-    "total_builds": "118",
+    "last_scan_date": "October 22, 2026 06:13 PM EDT",
+    "total_builds": "120",
     "release": [
       {
         "build": "26.206.1021.0001",
@@ -94,6 +94,21 @@
         "sources": "manifest:MacODSUMsitFast, mofa_git_history"
       },
       {
+        "build": "26.198.1011.0005",
+        "version": "26.198.1011",
+        "release_date": "N/A",
+        "deferred_release_date": "N/A",
+        "cdn_published": "October 22, 2026",
+        "first_seen": "October 22, 2026",
+        "rings": "MSIT Slow",
+        "universal_download": "https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0005/universal/OneDrive.pkg",
+        "universal_sha256": "48df02d98ec9a89d59f666af700d2abc9837e21d0e596137ac10f7afd538543a",
+        "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0005/OneDrive.pkg",
+        "intel_sha256": "6e5354dcc1fcfc9c43e46321625d0fe4d6aea4c09a2fb72b3c318dfbf84b3503",
+        "download_available": "true",
+        "sources": "manifest:StandaloneMsitSlowManifest"
+      },
+      {
         "build": "26.198.1011.0004",
         "version": "26.198.1011",
         "release_date": "N/A",
@@ -122,6 +137,21 @@
         "intel_sha256": "7976f4fb32a2d95c3c67d6a9bb857cc4f4499996ae72d211f3200b38d4c6fbb5",
         "download_available": "true",
         "sources": "manifest:MacODSUMsitFast, mofa_git_history"
+      },
+      {
+        "build": "26.195.1006.0006",
+        "version": "26.195.1006",
+        "release_date": "N/A",
+        "deferred_release_date": "N/A",
+        "cdn_published": "October 22, 2026",
+        "first_seen": "October 22, 2026",
+        "rings": "Insiders",
+        "universal_download": "https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0006/universal/OneDrive.pkg",
+        "universal_sha256": "9fb17edb055da3c1f747f1494157dfb2c502e5bf38ca965d745f8d9840cc9a5e",
+        "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0006/OneDrive.pkg",
+        "intel_sha256": "f44b7f00ae14188a449ba27cd26092d2cf8ea08c5cdb22bc2de1f3e9daaa7fe0",
+        "download_available": "true",
+        "sources": "manifest:StandaloneInsidersManifest"
       },
       {
         "build": "26.195.1006.0005",

@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 22, 2026 10:52 AM EDT</last_updated>
+    <last_updated>October 22, 2026 03:07 PM EDT</last_updated>
     <package>
         <name>PowerShell</name>
         <application_id>N/A</application_id>
         <application_name>PowerShell</application_name>
         <CFBundleVersion>com.microsoft.powershell</CFBundleVersion>
-        <short_version>7.6.7</short_version>
-        <full_version>7.6.7</full_version>
-        <last_updated>October 13, 2026</last_updated>
+        <short_version>7.6.8</short_version>
+        <full_version>7.6.8</full_version>
+        <last_updated>October 22, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://github.com/PowerShell/PowerShell/releases/download/v7.6.7/powershell-7.6.7-osx-arm64.pkg</update_download>
-        <latest_download>https://github.com/PowerShell/PowerShell/releases/download/v7.6.7/powershell-7.6.7-osx-arm64.pkg</latest_download>
-        <sha1>675ca22a3072853542d8ba6aebe483413440f6dd</sha1>
-        <sha256>a627ef1649521449cab796ec798de3048ce89021c51f6f65b8b63d032165f1f5</sha256>
+        <update_download>https://github.com/PowerShell/PowerShell/releases/download/v7.6.8/powershell-7.6.8-osx-arm64.pkg</update_download>
+        <latest_download>https://github.com/PowerShell/PowerShell/releases/download/v7.6.8/powershell-7.6.8-osx-arm64.pkg</latest_download>
+        <sha1>246f4885f22bfdf285592cb03fc059ad2d9c0969</sha1>
+        <sha256>b939d0e954d219571bb670517ad1d1ea06127aff9e9a36343c687ffc00407eab</sha256>
     </package>
     <package>
         <name>.NET SDK 10 (LTS)</name>

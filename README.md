@@ -47,7 +47,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Direct links to Microsoft's CDN. A link always downloads the newest build Microsoft offers, so the version shown is the one available at the time of the last update.</sup>
 
-<sup>🟢 Updated <code>October 21, 2026 07:52 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
+<sup>🟢 Updated <code>October 21, 2026 11:06 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -142,7 +142,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Microsoft tools outside the Office suite, from GitHub releases, Microsoft's CDN or Homebrew. Some are Homebrew-only; the versions below are the latest official releases.</sup>
 
-<sup>🟢 Updated <code>October 21, 2026 07:57 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 21, 2026 11:07 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -176,7 +176,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## Mac App Store
 
-<sup>🟢 Updated <code>October 21, 2026 07:53 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 21, 2026 11:06 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -200,7 +200,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## iOS App Store
 
-<sup>🟢 Updated <code>October 21, 2026 04:26 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 21, 2026 11:06 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -238,7 +238,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | Microsoft 365 Admin | `6.1.0` | `com.microsoft.o365shdmobileapp` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fc/a6/7efca6a8-70d1-6b39-7443-2010382da196/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft 365 Admin" width="40"> |
 | Intune Company Portal | `5.2608.0` | `com.microsoft.CompanyPortal` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/47/d4/6447d413-7f2a-7bae-4eaa-5fa2a249c60a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Intune Company Portal" width="40"> |
 | Microsoft Azure | `8.1.13` | `com.microsoft.azure` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/05/95/d505958f-1193-a36d-ccb0-94b1c06ec90f/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Azure" width="40"> |
-| Microsoft Word | `2.115` | `com.microsoft.Office.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/8b/5d/1b8b5d7c-3667-150f-4156-115f6a32051f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Word" width="40"> |
+| Microsoft Copilot | `2.115.1` | `com.microsoft.officemobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/fd/44/fcfd442d-8da6-b12c-604a-f45830e14ad2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft Copilot" width="40"> |
 | Skype for Business | `6.34.119` | `com.microsoft.lync2013.iphone` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" alt="Skype for Business" width="40"> |
 
 

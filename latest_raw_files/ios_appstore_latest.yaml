@@ -1,4 +1,4 @@
-last_updated: October 22, 2026 03:06 PM EDT
+last_updated: October 22, 2026 09:10 PM EDT
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -84,11 +84,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: October 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/d1/b5/04d1b55a-bb0b-a94a-af65-90b5c7077642/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: October 22, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/2a/89/f82a8936-91e1-f11b-5f87-1e09c15460f5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and improvements
-    version: 1.1.81300102
+    version: 1.1.82180102
     app_store_url: https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot

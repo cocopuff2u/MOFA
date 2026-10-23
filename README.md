@@ -47,7 +47,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Direct links to Microsoft's CDN. A link always downloads the newest build Microsoft offers, so the version shown is the one available at the time of the last update.</sup>
 
-<sup>🟢 Updated <code>October 23, 2026 02:53 AM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
+<sup>🟢 Updated <code>October 23, 2026 08:22 AM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -142,7 +142,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Microsoft tools outside the Office suite, from GitHub releases, Microsoft's CDN or Homebrew. Some are Homebrew-only; the versions below are the latest official releases.</sup>
 
-<sup>🟢 Updated <code>October 23, 2026 02:54 AM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 23, 2026 08:23 AM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -176,17 +176,17 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## Mac App Store
 
-<sup>🟢 Updated <code>October 23, 2026 02:53 AM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 23, 2026 08:22 AM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
 | Microsoft Word | `16.114.1` | `com.microsoft.Word` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/f6/55/8df65550-606a-d210-e230-91fcad328a48/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Word" width="40"> |
-| Microsoft Excel | `16.114` | `com.microsoft.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/63/96/706396f1-9d0d-80e5-8c6a-c5b8c8e13314/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
-| Microsoft PowerPoint | `16.114` | `com.microsoft.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/0d/40/ec0d402f-68f9-0c64-65bd-eaaba7dd3a9e/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
+| Microsoft Excel | `16.114.1` | `com.microsoft.Excel` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/df/e0/08dfe0ac-e2fd-1136-83b9-039633896b4d/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Excel" width="40"> |
+| Microsoft PowerPoint | `16.114.1` | `com.microsoft.Powerpoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/21/89/ec218936-3558-7471-e7a1-bd544e0b080e/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft PowerPoint" width="40"> |
 | Microsoft Outlook | `16.114.1` | `com.microsoft.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/49/06/55490646-9dbc-93a5-d12d-de9332bd9c1c/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft Outlook" width="40"> |
-| Microsoft OneNote | `16.114` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/ce/b6/6dceb6f4-a06d-3a4d-cbec-9e864e1a6819/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
+| Microsoft OneNote | `16.114.1` | `com.microsoft.onenote.mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/67/98/256798eb-9f80-861b-50f5-b1e30926d7e0/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png" alt="Microsoft OneNote" width="40"> |
 | OneDrive | `26.168.0830` | `com.microsoft.OneDrive-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c5/8f/8dc58fe8-a436-532f-086b-355200fd1516/OneDrive.png/512x512bb.png" alt="OneDrive" width="40"> |
-| Share-A-Cart | `4.0.0` | `com.shareacart.Share-A-Cart-for-Everything` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a4/1f/ada41fe1-e5c4-98f8-26ab-9e543dd513cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Share-A-Cart" width="40"> |
+| MeDrop: File Sharing | `1.0.8` | `com.sharedrop.wifiShare` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="MeDrop: File Sharing" width="40"> |
 | Windows App | `11.4.4` | `com.microsoft.rdc.macos` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/34/52/3534528e-f77f-37c8-458c-e4c74c913cfe/AppIcon-0-0-85-220-0-0-6-0-2x.png/512x512bb.png" alt="Windows App" width="40"> |
 | Microsoft To Do | `2.177` | `com.microsoft.to-do-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/26/b8/7f26b821-f687-812d-0ff5-d0b85264256f/AppIcon-Release-0-85-220-0-5-0-0-2x-sRGB-0-0.png/512x512bb.png" alt="Microsoft To Do" width="40"> |
 | Microsoft Copilot | `25.7.440902001` | `com.microsoft.copilot-mac` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/94/04/b39404b4-3746-b6bf-0e3b-d20db7959540/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png" alt="Microsoft Copilot" width="40"> |
@@ -200,7 +200,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## iOS App Store
 
-<sup>🟢 Updated <code>October 23, 2026 02:53 AM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 23, 2026 08:22 AM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -226,7 +226,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | Microsoft Planner | `1.17.19` | `com.microsoft.PlannerMobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b5/6e/ffb56e4f-dc45-5210-74bd-bb591df511fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Microsoft Planner" width="40"> |
 | Microsoft Azure | `8.1.13` | `com.microsoft.azure` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/05/95/d505958f-1193-a36d-ccb0-94b1c06ec90f/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Azure" width="40"> |
 | Microsoft To Do | `2.177` | `com.microsoft.to-do` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft To Do" width="40"> |
-| Microsoft Teams | `8.18.2` | `com.microsoft.skype.teams` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/e6/f6/e2e6f64f-129a-d117-d3e3-9a0d608d2e0e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Teams" width="40"> |
+| Microsoft Teams | `8.19.0` | `com.microsoft.skype.teams` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/49/2c/4f492cd9-5ad1-38ea-9663-4f0663eefa75/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Teams" width="40"> |
 | Microsoft SharePoint | `5.1.7` | `com.microsoft.sharepoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/06/61/1c0661ff-c76d-81e8-3345-6ecc6f127567/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" alt="Microsoft SharePoint" width="40"> |
 | Dynamics 365 Business Central | `4.6` | `com.microsoft.dynamics.ProjectMadeira` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ea/a7/8ceaa7b2-d87a-8b89-a882-6eef852cfbee/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Business Central" width="40"> |
 | Power Apps | `3.26102.10` | `com.microsoft.msapps` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/44/e4/d844e479-bf1f-dc1c-27c4-f6fec8616eb4/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Power Apps" width="40"> |

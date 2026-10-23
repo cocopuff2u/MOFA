@@ -1,7 +1,7 @@
 {
   "Releases": {
-    "last_scan_date": "October 23, 2026 04:56 PM EDT",
-    "total_builds": "121",
+    "last_scan_date": "October 23, 2026 07:44 PM EDT",
+    "total_builds": "124",
     "release": [
       {
         "build": "26.206.1021.0001",
@@ -94,6 +94,21 @@
         "sources": "manifest:MacODSUMsitFast, mofa_git_history"
       },
       {
+        "build": "26.198.1011.0006",
+        "version": "26.198.1011",
+        "release_date": "N/A",
+        "deferred_release_date": "N/A",
+        "cdn_published": "October 23, 2026",
+        "first_seen": "October 23, 2026",
+        "rings": "MSIT Slow",
+        "universal_download": "https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0006/universal/OneDrive.pkg",
+        "universal_sha256": "928516faca5cc0ccecdf939b9e101eddf252aea76d499d9ffe2c29b421818bf2",
+        "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0006/OneDrive.pkg",
+        "intel_sha256": "b6e00b20470a8935f0d36e0d5c41c3c809a16d833bb2765998ba1745b91f971b",
+        "download_available": "true",
+        "sources": "manifest:StandaloneMsitSlowManifest"
+      },
+      {
         "build": "26.198.1011.0005",
         "version": "26.198.1011",
         "release_date": "N/A",
@@ -139,6 +154,21 @@
         "sources": "manifest:MacODSUMsitFast, mofa_git_history"
       },
       {
+        "build": "26.195.1006.0007",
+        "version": "26.195.1006",
+        "release_date": "N/A",
+        "deferred_release_date": "N/A",
+        "cdn_published": "October 23, 2026",
+        "first_seen": "October 23, 2026",
+        "rings": "Production, Insiders",
+        "universal_download": "https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0007/universal/OneDrive.pkg",
+        "universal_sha256": "f1c05059ce696330f638e0ad3a6630409230ed6a62ca21ef4b4e3fecb5943d69",
+        "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0007/OneDrive.pkg",
+        "intel_sha256": "18be7a473d6420caa2a9a5e3e3674ffaa60b7d32866829fc30b99ce239722a2c",
+        "download_available": "true",
+        "sources": "manifest:StandaloneProductManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUInsiders"
+      },
+      {
         "build": "26.195.1006.0006",
         "version": "26.195.1006",
         "release_date": "N/A",
@@ -182,6 +212,21 @@
         "intel_sha256": "cda0cb06de23dbfdc03058e884821340fd57aeb5fd764357c7b7299dcd946d44",
         "download_available": "true",
         "sources": "manifest:StandaloneInsidersManifest, manifest:StandaloneMsitSlowManifest, manifest:MacODSUMsitSlow, mofa_git_history"
+      },
+      {
+        "build": "26.189.0928.0009",
+        "version": "26.189.0928",
+        "release_date": "N/A",
+        "deferred_release_date": "N/A",
+        "cdn_published": "October 23, 2026",
+        "first_seen": "October 23, 2026",
+        "rings": "Production",
+        "universal_download": "https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0009/universal/OneDrive.pkg",
+        "universal_sha256": "6359d86e263b727c8a1eda634391d1a854bb3f875cb70160936f9d1615c6b0f3",
+        "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0009/OneDrive.pkg",
+        "intel_sha256": "c02da0b283d52f25875d871d4f9b0785e06aa90c8d41b09f68a5caae03837c90",
+        "download_available": "true",
+        "sources": "manifest:StandaloneProductManifest"
       },
       {
         "build": "26.189.0928.0008",

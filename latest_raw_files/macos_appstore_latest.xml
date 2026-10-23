@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 23, 2026 02:53 AM EDT</last_updated>
+	<last_updated>October 23, 2026 08:22 AM EDT</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -16,22 +16,22 @@
 		<name>MacOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Excel</bundleId>
-		<currentVersionReleaseDate>October 14, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/63/96/706396f1-9d0d-80e5-8c6a-c5b8c8e13314/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>October 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/df/e0/08dfe0ac-e2fd-1136-83b9-039633896b4d/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.114</version>
+		<version>16.114.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Powerpoint</bundleId>
-		<currentVersionReleaseDate>October 14, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/0d/40/ec0d402f-68f9-0c64-65bd-eaaba7dd3a9e/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>October 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/21/89/ec218936-3558-7471-e7a1-bd544e0b080e/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>16.114</version>
+		<version>16.114.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -49,8 +49,8 @@
 		<name>MacOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote.mac</bundleId>
-		<currentVersionReleaseDate>October 14, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/ce/b6/6dceb6f4-a06d-3a4d-cbec-9e864e1a6819/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>October 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/67/98/256798eb-9f80-861b-50f5-b1e30926d7e0/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -58,7 +58,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app by clicking on the smiley face in the top-right of the app.
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.114</version>
+		<version>16.114.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -74,14 +74,14 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>Share-A-Cart</application_name>
-		<bundleId>com.shareacart.Share-A-Cart-for-Everything</bundleId>
-		<currentVersionReleaseDate>August 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a4/1f/ada41fe1-e5c4-98f8-26ab-9e543dd513cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.1</minimumOsVersion>
-		<releaseNotes>Search across all stores from Choose Store, with results grouped by retailer. Browse current deals, open a full-screen product view, and enjoy general fixes for cart, receive, and navigation.</releaseNotes>
-		<version>4.0.0</version>
-		<app_store_url>https://apps.apple.com/us/app/share-a-cart/id1537641390?uo=4</app_store_url>
+		<application_name>MeDrop: File Sharing</application_name>
+		<bundleId>com.sharedrop.wifiShare</bundleId>
+		<currentVersionReleaseDate>September 22, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/28/51/1828517f-71f8-ebca-9374-78ce2cb7774a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>Bug fixes</releaseNotes>
+		<version>1.0.8</version>
+		<app_store_url>https://apps.apple.com/us/app/medrop-file-sharing/id6783182140?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>October 23, 2026 04:56 PM EDT</last_scan_date>
-    <total_builds>121</total_builds>
+    <last_scan_date>October 23, 2026 07:44 PM EDT</last_scan_date>
+    <total_builds>124</total_builds>
     <release>
         <build>26.206.1021.0001</build>
         <version>26.206.1021</version>
@@ -93,6 +93,21 @@
         <sources>manifest:MacODSUMsitFast, mofa_git_history</sources>
     </release>
     <release>
+        <build>26.198.1011.0006</build>
+        <version>26.198.1011</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>October 23, 2026</cdn_published>
+        <first_seen>October 23, 2026</first_seen>
+        <rings>MSIT Slow</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0006/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>928516faca5cc0ccecdf939b9e101eddf252aea76d499d9ffe2c29b421818bf2</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0006/OneDrive.pkg</intel_download>
+        <intel_sha256>b6e00b20470a8935f0d36e0d5c41c3c809a16d833bb2765998ba1745b91f971b</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneMsitSlowManifest</sources>
+    </release>
+    <release>
         <build>26.198.1011.0005</build>
         <version>26.198.1011</version>
         <release_date>N/A</release_date>
@@ -138,6 +153,21 @@
         <sources>manifest:MacODSUMsitFast, mofa_git_history</sources>
     </release>
     <release>
+        <build>26.195.1006.0007</build>
+        <version>26.195.1006</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>October 23, 2026</cdn_published>
+        <first_seen>October 23, 2026</first_seen>
+        <rings>Production, Insiders</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0007/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>f1c05059ce696330f638e0ad3a6630409230ed6a62ca21ef4b4e3fecb5943d69</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0007/OneDrive.pkg</intel_download>
+        <intel_sha256>18be7a473d6420caa2a9a5e3e3674ffaa60b7d32866829fc30b99ce239722a2c</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneProductManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUInsiders</sources>
+    </release>
+    <release>
         <build>26.195.1006.0006</build>
         <version>26.195.1006</version>
         <release_date>N/A</release_date>
@@ -181,6 +211,21 @@
         <intel_sha256>cda0cb06de23dbfdc03058e884821340fd57aeb5fd764357c7b7299dcd946d44</intel_sha256>
         <download_available>true</download_available>
         <sources>manifest:StandaloneInsidersManifest, manifest:StandaloneMsitSlowManifest, manifest:MacODSUMsitSlow, mofa_git_history</sources>
+    </release>
+    <release>
+        <build>26.189.0928.0009</build>
+        <version>26.189.0928</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>October 23, 2026</cdn_published>
+        <first_seen>October 23, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0009/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>6359d86e263b727c8a1eda634391d1a854bb3f875cb70160936f9d1615c6b0f3</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0009/OneDrive.pkg</intel_download>
+        <intel_sha256>c02da0b283d52f25875d871d4f9b0785e06aa90c8d41b09f68a5caae03837c90</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneProductManifest</sources>
     </release>
     <release>
         <build>26.189.0928.0008</build>

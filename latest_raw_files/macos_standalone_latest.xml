@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>October 24, 2026 09:03 AM EDT</last_updated>
+    <last_updated>October 24, 2026 01:09 PM EDT</last_updated>
     <package>
         <name>Microsoft Office Suite</name>
         <application_id>Data sourced from Outlook (CurrentThrottle)</application_id>
@@ -262,16 +262,16 @@
         <application_id>mscopilot-stable</application_id>
         <application_name>Copilot.app</application_name>
         <CFBundleVersion>com.microsoft.m365copilot</CFBundleVersion>
-        <short_version>153.0.4234.38</short_version>
-        <full_version>153.0.4234.38</full_version>
-        <last_updated>September 17, 2026</last_updated>
+        <short_version>156.0.4314.41</short_version>
+        <full_version>156.0.4314.41</full_version>
+        <last_updated>October 24, 2026</last_updated>
         <min_os>13.0</min_os>
-        <app_only_update_download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/33f80c9d-4d2c-47c3-afee-a053a3855cea/Copilot-153.0.4234.38.pkg</app_only_update_download>
-        <app_update_sha1>f5ab657d2716b14dbf2a6edd75768111e4ed0836</app_update_sha1>
-        <app_update_sha256>557e17e0bf22ce8523c709ad62841336feb92c9a9a0024cb6bef149017a3d312</app_update_sha256>
+        <app_only_update_download>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dde69ffb-af77-4d45-96a4-41945ba0a036/Copilot-156.0.4314.41.pkg</app_only_update_download>
+        <app_update_sha1>f4014ce969cb40ed3f70a934ff11862f3a7d93c5</app_update_sha1>
+        <app_update_sha256>de8a2c0f99cc1a09dbf586e47688ce1adff3de311c78ba179b73ed7157c2f857</app_update_sha256>
         <full_update_download>https://go.microsoft.com/fwlink/?linkid=2325114</full_update_download>
-        <full_update_sha1>f5ab657d2716b14dbf2a6edd75768111e4ed0836</full_update_sha1>
-        <full_update_sha256>557e17e0bf22ce8523c709ad62841336feb92c9a9a0024cb6bef149017a3d312</full_update_sha256>
+        <full_update_sha1>f4014ce969cb40ed3f70a934ff11862f3a7d93c5</full_update_sha1>
+        <full_update_sha256>de8a2c0f99cc1a09dbf586e47688ce1adff3de311c78ba179b73ed7157c2f857</full_update_sha256>
     </package>
     <package>
         <name>MAU</name>

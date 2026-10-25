@@ -47,7 +47,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Direct links to Microsoft's CDN. A link always downloads the newest build Microsoft offers, so the version shown is the one available at the time of the last update.</sup>
 
-<sup>🟢 Updated <code>October 25, 2026 02:04 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
+<sup>🟢 Updated <code>October 25, 2026 05:22 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -142,15 +142,15 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Microsoft tools outside the Office suite, from GitHub releases, Microsoft's CDN or Homebrew. Some are Homebrew-only; the versions below are the latest official releases.</sup>
 
-<sup>🟢 Updated <code>October 25, 2026 02:05 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 25, 2026 05:23 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
 | **PowerShell**<br><br>_**Last Update:** `October 25, 2026`_<br> | **Version:**<br>`7.6.9` | <a href="https://github.com/PowerShell/PowerShell/releases/download/v7.6.9/powershell-7.6.9-osx-arm64.pkg"><img src=".github/images/powershell.png" alt="Download Image" width="80"></a> |
-| **.NET SDK 10 (LTS)**<br><br>_**Last Update:** `October 13, 2026`_<br> | **Version:**<br>`10.0.402` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
-| **.NET SDK 11 (RC)**<br><br>_**Last Update:** `October 13, 2026`_<br> | **Version:**<br>`11.0.100-rc.2.26504.105` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/11.0.100-rc.2.26504.105/dotnet-sdk-11.0.100-rc.2.26504.105-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
-| **.NET SDK 9 (STS)**<br><br>_**Last Update:** `October 13, 2026`_<br> | **Version:**<br>`9.0.319` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.319/dotnet-sdk-9.0.319-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
-| **.NET SDK 8 (LTS)**<br><br>_**Last Update:** `October 13, 2026`_<br> | **Version:**<br>`8.0.426` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.426/dotnet-sdk-8.0.426-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
+| **.NET SDK 10 (LTS)**<br><br>_**Last Update:** `October 25, 2026`_<br> | **Version:**<br>`10.0.403` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.403/dotnet-sdk-10.0.403-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
+| **.NET SDK 11 (RC)**<br><br>_**Last Update:** `October 25, 2026`_<br> | **Version:**<br>`11.0.100-rc.3.26522.148` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/11.0.100-rc.3.26522.148/dotnet-sdk-11.0.100-rc.3.26522.148-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
+| **.NET SDK 9 (STS)**<br><br>_**Last Update:** `October 25, 2026`_<br> | **Version:**<br>`9.0.320` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.320/dotnet-sdk-9.0.320-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
+| **.NET SDK 8 (LTS)**<br><br>_**Last Update:** `October 25, 2026`_<br> | **Version:**<br>`8.0.427` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.427/dotnet-sdk-8.0.427-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
 | **Azure Functions Core Tools**<br><br>_**Last Update:** `October 12, 2026`_<br> | **Version:**<br>`4.16.0` | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.0/Azure.Functions.Cli.osx-arm64.4.16.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **Azure Developer CLI (azd)**<br><br>_**Last Update:** `October 21, 2026`_<br> | **Version:**<br>`1.37.1` | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.1/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **AzCopy**<br><br>_**Last Update:** `October 22, 2026`_<br> | **Version:**<br>`10.34.1` | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.1/azcopy_darwin_arm64_10.34.1.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
@@ -163,10 +163,10 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | **Product Package** | **Download** | **SHA256** |
 |----------------------|-----------------|------------|
 | **PowerShell** | <a href="https://github.com/PowerShell/PowerShell/releases/download/v7.6.9/powershell-7.6.9-osx-arm64.pkg"><img src=".github/images/powershell.png" alt="Download Image" width="80"></a> | `9002562086ad18dcdc4a1156f6cd6467cfb5a91b28206e56491212193b68e5e6` |
-| **.NET SDK 10 (LTS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `a8e10f197ce5e81ea800a6fb7d8e4b16cd0b46be357748c5c9cda0b0d40eccac` |
-| **.NET SDK 11 (RC)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/11.0.100-rc.2.26504.105/dotnet-sdk-11.0.100-rc.2.26504.105-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `0d3d2f88a476b69d9b7c7d0b92a218fc63b415d52d49e4698d739b2b877f98ec` |
-| **.NET SDK 9 (STS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.319/dotnet-sdk-9.0.319-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `fcd287cdc01b6b72a1616bf26d0799191ab2fb3b9543a5b6628af1a5b8ac42b0` |
-| **.NET SDK 8 (LTS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.426/dotnet-sdk-8.0.426-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `ccd3f8c218d573c8564b3184f748990e1e86a78efc8bd2b59733b12fe8cb213b` |
+| **.NET SDK 10 (LTS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.403/dotnet-sdk-10.0.403-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `331d0b6637ba5ddba6631cb6a2e48b04ba1503d72f7ef6f943cd87bebce49322` |
+| **.NET SDK 11 (RC)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/11.0.100-rc.3.26522.148/dotnet-sdk-11.0.100-rc.3.26522.148-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `87422304aa5911a703ae784746579df74020c621665fc5c4ef937161d6c5147d` |
+| **.NET SDK 9 (STS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.320/dotnet-sdk-9.0.320-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `08e0a587b047572bcdb6d5014a9458bfcb3aeb8a85e0be23950463a60ef5561d` |
+| **.NET SDK 8 (LTS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.427/dotnet-sdk-8.0.427-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `d50d86c13eb9c775164f6d77577106af1c6dd9216e9ad4f4a26edb2566f4fcb5` |
 | **Azure Functions Core Tools** | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.0/Azure.Functions.Cli.osx-arm64.4.16.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `5698d54038fd0507a614af53e8bd3f91c89f96e60ae081c113373b3d2af375f3` |
 | **Azure Developer CLI (azd)** | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.1/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `4d47fcbca07dbe1b69adb67023141d3fc755990f36ac54176abecacb49c55bbf` |
 | **AzCopy** | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.1/azcopy_darwin_arm64_10.34.1.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `44f5e72f663215f838c6ccedf6da9f0fbc9ee7215610bf88b92b1bfa931e5524` |
@@ -176,7 +176,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## Mac App Store
 
-<sup>🟢 Updated <code>October 25, 2026 02:04 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 25, 2026 05:23 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -200,7 +200,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## iOS App Store
 
-<sup>🟢 Updated <code>October 25, 2026 02:04 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>October 25, 2026 05:23 PM EDT</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|

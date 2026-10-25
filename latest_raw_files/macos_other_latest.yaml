@@ -1,4 +1,4 @@
-last_updated: October 25, 2026 02:05 PM EDT
+last_updated: October 25, 2026 05:23 PM EDT
 packages:
 - name: PowerShell
   application_id: N/A
@@ -16,50 +16,50 @@ packages:
   application_id: N/A
   application_name: .NET SDK 10 (LTS)
   CFBundleVersion: N/A
-  short_version: 10.0.402
-  full_version: 10.0.402
-  last_updated: October 13, 2026
+  short_version: 10.0.403
+  full_version: 10.0.403
+  last_updated: October 25, 2026
   min_os: N/A
-  update_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-osx-arm64.pkg
-  latest_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-osx-arm64.pkg
-  sha1: 95c15acad757e0509e63a193043cd08edce58808
-  sha256: a8e10f197ce5e81ea800a6fb7d8e4b16cd0b46be357748c5c9cda0b0d40eccac
+  update_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.403/dotnet-sdk-10.0.403-osx-arm64.pkg
+  latest_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.403/dotnet-sdk-10.0.403-osx-arm64.pkg
+  sha1: 0b4b1900d8998a3b1710553077c7d37f425dba67
+  sha256: 331d0b6637ba5ddba6631cb6a2e48b04ba1503d72f7ef6f943cd87bebce49322
 - name: .NET SDK 11 (RC)
   application_id: N/A
   application_name: .NET SDK 11 (RC)
   CFBundleVersion: N/A
-  short_version: 11.0.100-rc.2.26504.105
-  full_version: 11.0.100-rc.2.26504.105
-  last_updated: October 13, 2026
+  short_version: 11.0.100-rc.3.26522.148
+  full_version: 11.0.100-rc.3.26522.148
+  last_updated: October 25, 2026
   min_os: N/A
-  update_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/11.0.100-rc.2.26504.105/dotnet-sdk-11.0.100-rc.2.26504.105-osx-arm64.pkg
-  latest_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/11.0.100-rc.2.26504.105/dotnet-sdk-11.0.100-rc.2.26504.105-osx-arm64.pkg
-  sha1: 89e9d965b9e703b785d2c7830d276714b53ebc80
-  sha256: 0d3d2f88a476b69d9b7c7d0b92a218fc63b415d52d49e4698d739b2b877f98ec
+  update_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/11.0.100-rc.3.26522.148/dotnet-sdk-11.0.100-rc.3.26522.148-osx-arm64.pkg
+  latest_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/11.0.100-rc.3.26522.148/dotnet-sdk-11.0.100-rc.3.26522.148-osx-arm64.pkg
+  sha1: 2be5aa23cc505d89e1d7bf98f00b6b3d1af70822
+  sha256: 87422304aa5911a703ae784746579df74020c621665fc5c4ef937161d6c5147d
 - name: .NET SDK 9 (STS)
   application_id: N/A
   application_name: .NET SDK 9 (STS)
   CFBundleVersion: N/A
-  short_version: 9.0.319
-  full_version: 9.0.319
-  last_updated: October 13, 2026
+  short_version: 9.0.320
+  full_version: 9.0.320
+  last_updated: October 25, 2026
   min_os: N/A
-  update_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.319/dotnet-sdk-9.0.319-osx-arm64.pkg
-  latest_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.319/dotnet-sdk-9.0.319-osx-arm64.pkg
-  sha1: a9694b8664c5d00edf20a03aac2f7c301bdb4013
-  sha256: fcd287cdc01b6b72a1616bf26d0799191ab2fb3b9543a5b6628af1a5b8ac42b0
+  update_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.320/dotnet-sdk-9.0.320-osx-arm64.pkg
+  latest_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.320/dotnet-sdk-9.0.320-osx-arm64.pkg
+  sha1: 11c43a8c6067686e36643b4c18611751386dfe2e
+  sha256: 08e0a587b047572bcdb6d5014a9458bfcb3aeb8a85e0be23950463a60ef5561d
 - name: .NET SDK 8 (LTS)
   application_id: N/A
   application_name: .NET SDK 8 (LTS)
   CFBundleVersion: N/A
-  short_version: 8.0.426
-  full_version: 8.0.426
-  last_updated: October 13, 2026
+  short_version: 8.0.427
+  full_version: 8.0.427
+  last_updated: October 25, 2026
   min_os: N/A
-  update_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.426/dotnet-sdk-8.0.426-osx-arm64.pkg
-  latest_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.426/dotnet-sdk-8.0.426-osx-arm64.pkg
-  sha1: e5d45d523d1e9453321cd6bbf8ea9df8bf08fc8c
-  sha256: ccd3f8c218d573c8564b3184f748990e1e86a78efc8bd2b59733b12fe8cb213b
+  update_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.427/dotnet-sdk-8.0.427-osx-arm64.pkg
+  latest_download: https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.427/dotnet-sdk-8.0.427-osx-arm64.pkg
+  sha1: c57409a199fbae9195ec01e5f3369a40793262da
+  sha256: d50d86c13eb9c775164f6d77577106af1c6dd9216e9ad4f4a26edb2566f4fcb5
 - name: Azure CLI
   application_id: N/A
   application_name: Azure CLI

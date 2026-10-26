@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>October 26, 2026 04:33 AM EDT</last_updated>
+  <last_updated>October 26, 2026 11:48 AM EDT</last_updated>
   <release_notes>
     <source>https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0</source>
     <production>
@@ -254,27 +254,27 @@
   </package>
   <package>
     <name>Rolling Out (Unknown Use)</name>
-    <short_version>26.189.0928</short_version>
+    <short_version>26.195.1006</short_version>
     <application_id>ONDR18</application_id>
     <application_name>OneDrive.app</application_name>
     <CFBundleVersion>com.microsoft.onedrive</CFBundleVersion>
-    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0007/universal/OneDrive.pkg</full_update_download>
+    <full_update_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0007/universal/OneDrive.pkg</full_update_download>
     <full_update_sha1>N/A</full_update_sha1>
-    <full_update_sha256>5179f0925a80988986fc3356a01f4f8d53221f5afd80d25d0b291d4b6cc1da79</full_update_sha256>
-    <last_updated>October 19, 2026 09:31 PM EDT</last_updated>
-    <build>26.189.0928.0007</build>
+    <full_update_sha256>f1c05059ce696330f638e0ad3a6630409230ed6a62ca21ef4b4e3fecb5943d69</full_update_sha256>
+    <last_updated>October 26, 2026 11:48 AM EDT</last_updated>
+    <build>26.195.1006.0007</build>
     <rollout_percent>N/A</rollout_percent>
-    <min_applicable>N/A</min_applicable>
-    <max_applicable>N/A</max_applicable>
-    <intel_update_download>N/A</intel_update_download>
-    <intel_update_sha256>N/A</intel_update_sha256>
-    <universal_zip_download>N/A</universal_zip_download>
-    <universal_zip_sha1>N/A</universal_zip_sha1>
-    <release_date>October 19, 2026</release_date>
-    <release_ring>Production</release_ring>
-    <first_seen>October 19, 2026</first_seen>
+    <min_applicable>17.003.6389.0225</min_applicable>
+    <max_applicable>26.999.9999.9999</max_applicable>
+    <intel_update_download>https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0007/OneDrive.pkg</intel_update_download>
+    <intel_update_sha256>18be7a473d6420caa2a9a5e3e3674ffaa60b7d32866829fc30b99ce239722a2c</intel_update_sha256>
+    <universal_zip_download>https://oneclient.sfx.ms/Mac/Apps/26.195.1006.0007/universal/OneDrive.zip</universal_zip_download>
+    <universal_zip_sha1>d44b0bff80a5343a38c687bfea4356f834d21b6c</universal_zip_sha1>
+    <release_date>N/A</release_date>
+    <release_ring>N/A</release_ring>
+    <first_seen>October 23, 2026</first_seen>
     <min_macos>N/A</min_macos>
-    <cdn_published>October 14, 2026</cdn_published>
+    <cdn_published>October 23, 2026</cdn_published>
     <fwlink>https://go.microsoft.com/fwlink/?linkid=861011</fwlink>
     <updater>N/A</updater>
     <source>https://go.microsoft.com/fwlink/?linkid=861011</source>

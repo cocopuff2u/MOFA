@@ -1,4 +1,4 @@
-last_updated: October 26, 2026 11:48 AM EDT
+last_updated: October 26, 2026 04:54 PM EDT
 packages:
 - name: Word
   application_id: MSWD2019
@@ -112,26 +112,26 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.wdav
-  short_version: 101.26082.0012
-  full_version: 101.26082.0012
-  last_updated: October 16, 2026
+  short_version: 101.26092.0009
+  full_version: 101.26092.0009
+  last_updated: October 15, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
-  sha1: 8707e3c8a1a6b27053fd5a32deda0e31bafd7fa0
-  sha256: e9dd2f534961cc9acb833e3469ec3524712ae590022153de484a3accf52de5b6
+  sha1: 36cfdb2ae097c9acfdad8a2c92a9a2a7b5ddf9d5
+  sha256: 6ed64334a792135d8ea3af4c0b017d84ee75d7a15fe89721db81930c4b4b7503
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.wdav
-  short_version: 101.26082.0012
-  full_version: 101.26082.0012
-  last_updated: October 16, 2026
+  short_version: 101.26092.0009
+  full_version: 101.26092.0009
+  last_updated: October 15, 2026
   min_os: '14.0'
-  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26082.0012_Individuals_Installer.pkg
-  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26082.0012_Individuals_Installer.pkg
-  sha1: 0e90eefabdbd0065f592a9a55171162b1d7fcb8f
-  sha256: cfb165b4b51346187ad15b18ab35a55fdf95f3fe6cceaa649fecbc837e658069
+  update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26092.0009_Individuals_Installer.pkg
+  latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26092.0009_Individuals_Installer.pkg
+  sha1: cd6d706d186a0fa31f726af5a41becc2fae72bba
+  sha256: 58448d6b845b23ee83881a92e8eaa5508c381371a6922066ef1c4b4a38829adf
 - name: Defender Shim
   application_id: WDAVSHIM
   application_name: Microsoft Defender.app
@@ -152,7 +152,7 @@ packages:
   full_version: 1.144.0-insider
   last_updated: October 26, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/131aec7f1ee4f0d0e8ed204704850cc8e31dd9d0/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/9559530ba165bcd4db3e16a1d2d72e1cb2d7991b/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

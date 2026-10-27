@@ -1,6 +1,6 @@
 {
   "Releases": {
-    "last_scan_date": "October 27, 2026 01:23 PM EDT",
+    "last_scan_date": "October 27, 2026 05:46 PM EDT",
     "total_builds": "125",
     "release": [
       {
@@ -241,7 +241,7 @@
         "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0009/OneDrive.pkg",
         "intel_sha256": "c02da0b283d52f25875d871d4f9b0785e06aa90c8d41b09f68a5caae03837c90",
         "download_available": "true",
-        "sources": "manifest:StandaloneProductManifest"
+        "sources": "manifest:StandaloneProductManifest, manifest:MacODSUProduction"
       },
       {
         "build": "26.189.0928.0008",

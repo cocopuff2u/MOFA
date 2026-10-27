@@ -1,6 +1,6 @@
 {
   "latest": {
-    "last_updated": "October 26, 2026 08:13 PM EDT",
+    "last_updated": "October 27, 2026 01:57 AM EDT",
     "release_notes": {
       "source": "https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0",
       "production": {
@@ -252,6 +252,36 @@
         "sha256_source": "microsoft_manifest",
         "sha256_verified": "N/A",
         "note": "N/A"
+      },
+      {
+        "name": "Upcoming MSIT Slow Ring (Preview)",
+        "short_version": "26.204.1019",
+        "application_id": "ONDR18",
+        "application_name": "OneDrive.app",
+        "CFBundleVersion": "com.microsoft.onedrive",
+        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/26.204.1019.0004/universal/OneDrive.pkg",
+        "full_update_sha1": "N/A",
+        "full_update_sha256": "013cd0df1cf32d171ef13ac2642928ab52061b0661aa1ae082bab1ca0e3d8d40",
+        "last_updated": "October 27, 2026 01:57 AM EDT",
+        "build": "26.204.1019.0004",
+        "rollout_percent": "10",
+        "min_applicable": "17.003.6389.0225",
+        "max_applicable": "26.999.9999.9999",
+        "intel_update_download": "https://oneclient.sfx.ms/Mac/Installers/26.204.1019.0004/OneDrive.pkg",
+        "intel_update_sha256": "8770b24a2f5dd6a9c4c6bfdc64fbeb3b370cdfd4a79d08ac335c8b286709808d",
+        "universal_zip_download": "https://oneclient.sfx.ms/Mac/Apps/26.204.1019.0004/universal/OneDrive.zip",
+        "universal_zip_sha1": "676dc131f4ee1434525f398662e6d5e25d2b99e8",
+        "release_date": "N/A",
+        "release_ring": "N/A",
+        "first_seen": "October 27, 2026",
+        "min_macos": "N/A",
+        "cdn_published": "October 26, 2026",
+        "fwlink": "N/A",
+        "updater": "OneDrive.app in-app updater",
+        "source": "https://g.live.com/0USSDMC_W5T/StandaloneMsitSlowManifest",
+        "sha256_source": "microsoft_manifest",
+        "sha256_verified": "N/A",
+        "note": "Staged rollout at 10% of devices"
       },
       {
         "name": "MSIT Fast Ring (Preview)",

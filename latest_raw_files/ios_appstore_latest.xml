@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 26, 2026 11:48 AM EDT</last_updated>
+	<last_updated>October 27, 2026 01:23 PM EDT</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,13 +38,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>October 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/69/b1/8869b105-9b45-345b-4d5a-41a950492a90/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/d7/e4/68d7e488-404f-0cc3-b90e-b68aca7adffc/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2641.0</version>
+		<version>5.2642.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
@@ -78,19 +78,20 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft Windows App Mobile</name>
 		<application_name>Windows App Mobile</application_name>
 		<bundleId>com.microsoft.rdc.ios</bundleId>
-		<currentVersionReleaseDate>October 14, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/2d/97/ed2d974b-dad4-2dea-7696-8f32a0d8b9dd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 27, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/62/cb/ed62cb71-9586-83f5-4e98-7b68b85ab1ea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>This update includes security, connection reliability, and session-switching improvements:
- 
+
+• Added a confirmation dialog for RDP file-based connections, showing the remote PC name and shared local resources.
 • Resolved an issue where relaunching an active PC connection could switch to an existing remote app session.
 • Fixed the Connection Center active connection preview so it reflects and reopens the most recently visited session.
 • Improved handling of missing or invalid saved usernames to help prevent connection failures.
 • Improved authentication reliability when starting multiple connections and refined sign-in error handling.
 • Made targeted security fixes for clipboard redirection, remote session watermarking, certificate parsing, and RDP licensing.
- 
+
 If you encounter any errors, you can contact us via Settings &gt; Submit Feedback.</releaseNotes>
-		<version>11.3.9</version>
+		<version>11.4.0</version>
 		<app_store_url>https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4</app_store_url>
 	</package>
 	<package>
@@ -108,11 +109,11 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>October 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/fd/44/fcfd442d-8da6-b12c-604a-f45830e14ad2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/d4/7c/37d47cd5-4589-dd66-d248-780f0be78127/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.115.1</version>
+		<version>2.115.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
@@ -130,41 +131,14 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Warehouse Management</name>
 		<application_name>Microsoft Warehouse Management</application_name>
 		<bundleId>com.microsoft.WarehouseManagement</bundleId>
-		<currentVersionReleaseDate>October 12, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/d3/39/bcd33904-52d2-33c9-b47b-17b5cf404211/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 27, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/40/54/40405406-984f-6560-ea2b-acb4f1fbbfc6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.4</minimumOsVersion>
-		<releaseNotes>Release notes: version 4.2.0.0
-Highlights
-Media capture
-Workers can take photos and videos and attach them to records. For example, a worker who finds damaged goods during receiving can photograph the damage and attach it to the license plate or item, so the damage is on record. The app automatically makes files smaller before upload, so uploads are fast and reliable.
-
-Note: This feature is included in this version of the app, and you can try it now in demo mode. To use it with your own data, you need server version 10.0.50.0 or later.
-
-Easier connection setup
-A step-by-step setup that asks one question at a time replaces the long connection form. It includes help text and shows only the options that apply. The previous form is still available.
-
-Sign in with a QR code
-Frontline workers can sign in by scanning their badge and entering a PIN, instead of typing a username and password. On shared devices, each worker always signs in with their own account.
-
-More control for administrators
-With your device management tool, you can now:
-
-Give each device a name so it's easier to identify (DeviceName).
-Prevent users from changing the app settings (LockClientSettings) or the connection settings (LockConnectionSettings).
-The app also checks for policy updates less often, which saves battery.
-
-Fixed issues
-Switching environments: Users can now switch between environments that use different accounts. Signing out of one connection no longer signs the user out of the others.
-Missing information on menu items: Fixed empty cards when all the fields on a card were hidden.
-Popup messages: When a worker chooses not to see a step instruction again, it now stays hidden.
-Worker sign-in: Tapping the sign-in button several times no longer causes a &quot;session busy&quot; error.
-Reconnect loop: When a session expires, Reconnect now asks the user to sign in again instead of retrying without end.
-Connection list: Long connection lists now have a search field.
-Scanner camera: The scanner camera image is no longer mirrored. Workers can also change this setting on each device.
-Panels during loading: Panels that slide over the screen now close when a new page starts loading.
-Physical numeric keypad: Quantities typed on a physical numeric keypad now appear correctly.
-Suggested quantity: Suggested quantities above 20 now appear when the quantity spinner is set to automatic.</releaseNotes>
-		<version>4.2.0</version>
+		<releaseNotes>Release 4.2.1.0- Hotfix
+ 
+Fixed an issue where the Back button did not work in Work list detours.
+Fixed an issue where signing out with automatic login enabled did not clear the work user session on the server.</releaseNotes>
+		<version>4.2.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4</app_store_url>
 	</package>
 	<package>
@@ -215,11 +189,11 @@ Suggested quantity: Suggested quantities above 20 now appear when the quantity s
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>October 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/95/00/2995001d-acb7-6329-78ee-92796c5ee69b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/21/00/b5210093-6cce-9568-15a7-5a08d26383b7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.6</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.60.0</version>
+		<version>11.62.0</version>
 		<app_store_url>https://apps.apple.com/us/app/viva-engage/id289559439?uo=4</app_store_url>
 	</package>
 	<package>
@@ -271,14 +245,14 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>October 19, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c2/91/3bc291b3-12f8-9f68-9e2a-6d4fcff249c1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/f4/b8/d7f4b825-2f9c-e99b-deee-3e041cddf9fa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>Welcome to Microsoft Edge! Here's what's new in this release:
-• Introducing the News Widget: a faster way to stay up to date with the latest news, right from your home screen.
-• Meet the refreshed Copilot in Edge! Find answers, organize your thoughts, and spark new ideas, all in your browser.
+		<releaseNotes>Welcome to Microsoft Edge! Here’s what’s new in this release:
+• Sign in to Edge with a Google account: You can now sign in to Microsoft Edge with a Google account, in addition to a Microsoft account.
+• You can now read PDFs protected by your organization directly in Edge, making it easier to stay productive on the go.
 Upgrade now to enjoy a smarter, faster, and more productive Microsoft Edge.</releaseNotes>
-		<version>155.4283.61</version>
+		<version>156.4314.43</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
@@ -364,11 +338,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power Apps</name>
 		<application_name>Power Apps</application_name>
 		<bundleId>com.microsoft.msapps</bundleId>
-		<currentVersionReleaseDate>October 20, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/44/e4/d844e479-bf1f-dc1c-27c4-f6fec8616eb4/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 27, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/fb/53/13fb5363-3a44-cad9-5be6-f70c5f81da38/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>• Bug fixes and performance improvements</releaseNotes>
-		<version>3.26102.10</version>
+		<version>3.26103.23</version>
 		<app_store_url>https://apps.apple.com/us/app/power-apps/id1047318566?uo=4</app_store_url>
 	</package>
 	<package>
@@ -397,12 +371,13 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>CamScanner - PDF Scanner App</application_name>
 		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>October 21, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/40/71/7a40713e-275b-9bfa-9a65-d8f6f8098a03/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/ac/2b/00ac2b91-d81a-dab8-2629-afe4c18abe18/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>· Enhanced Word editing: Easily adjust text formatting.
-· Account switching: Quickly switch between multiple accounts.</releaseNotes>
-		<version>7.27.6</version>
+		<releaseNotes>· Updated search makes it easier to organize documents directly from search results.
+· Sign is upgraded to CS Sign, with support for sending documents for signature.
+· New mosaic support for PDFs lets you mask sensitive information.</releaseNotes>
+		<version>7.28.0</version>
 		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>

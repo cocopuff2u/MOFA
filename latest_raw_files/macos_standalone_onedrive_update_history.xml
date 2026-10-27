@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>October 26, 2026 08:13 PM EDT</last_scan_date>
-    <total_builds>124</total_builds>
+    <last_scan_date>October 27, 2026 01:57 AM EDT</last_scan_date>
+    <total_builds>125</total_builds>
     <release>
         <build>26.206.1021.0001</build>
         <version>26.206.1021</version>
@@ -16,6 +16,21 @@
         <intel_sha256>5bc16965a77443686ed1772293890b9aac224e96d2a4eae386eb07066a82ab02</intel_sha256>
         <download_available>true</download_available>
         <sources>manifest:StandaloneMsitFastManifest</sources>
+    </release>
+    <release>
+        <build>26.204.1019.0004</build>
+        <version>26.204.1019</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>October 26, 2026</cdn_published>
+        <first_seen>October 27, 2026</first_seen>
+        <rings>MSIT Slow</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.204.1019.0004/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>013cd0df1cf32d171ef13ac2642928ab52061b0661aa1ae082bab1ca0e3d8d40</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.204.1019.0004/OneDrive.pkg</intel_download>
+        <intel_sha256>8770b24a2f5dd6a9c4c6bfdc64fbeb3b370cdfd4a79d08ac335c8b286709808d</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneMsitSlowManifest</sources>
     </release>
     <release>
         <build>26.203.1018.0001</build>

@@ -1,5 +1,5 @@
 latest:
-  last_updated: October 27, 2026 01:23 PM EDT
+  last_updated: October 27, 2026 05:46 PM EDT
   release_notes:
     source: https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0
     production:
@@ -322,27 +322,27 @@ latest:
     note: Purpose not documented by Microsoft; historically lags Production by about
       a week
   - name: Production Ring (Standalone Updater)
-    short_version: 26.079.0427
+    short_version: 26.189.0928
     application_id: ONDR18
     application_name: OneDrive.app
     CFBundleVersion: com.microsoft.onedrive
-    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.079.0427.0003/universal/OneDrive.pkg
+    full_update_download: https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0009/universal/OneDrive.pkg
     full_update_sha1: N/A
-    full_update_sha256: c6ab02811eec5c678fdfc3ea8c65293c7a8d10f092896984696f67c40357f638
-    last_updated: October 19, 2026 01:05 PM EDT
-    build: 26.079.0427.0003
+    full_update_sha256: 6359d86e263b727c8a1eda634391d1a854bb3f875cb70160936f9d1615c6b0f3
+    last_updated: October 27, 2026 05:46 PM EDT
+    build: 26.189.0928.0009
     rollout_percent: '100'
     min_applicable: 17.003.6389.0225
     max_applicable: 26.999.9999.9999
-    intel_update_download: https://oneclient.sfx.ms/Mac/Installers/26.079.0427.0003/OneDrive.pkg
-    intel_update_sha256: da748beea782cdd986f3d6c8cd1b12f6f07673dbd0f9ddf6b61fef9fc6261d65
-    universal_zip_download: https://oneclient.sfx.ms/Mac/Apps/26.079.0427.0003/universal/OneDrive.zip
-    universal_zip_sha1: a76403a2ad3c5c109691564455f64988328777a2
+    intel_update_download: https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0009/OneDrive.pkg
+    intel_update_sha256: c02da0b283d52f25875d871d4f9b0785e06aa90c8d41b09f68a5caae03837c90
+    universal_zip_download: https://oneclient.sfx.ms/Mac/Apps/26.189.0928.0009/universal/OneDrive.zip
+    universal_zip_sha1: d6d9d830fe891f398961cb16b7a80b8d08d6cf5e
     release_date: N/A
     release_ring: N/A
-    first_seen: October 15, 2026
+    first_seen: October 23, 2026
     min_macos: N/A
-    cdn_published: October 8, 2026
+    cdn_published: October 23, 2026
     fwlink: N/A
     updater: OneDriveStandaloneUpdater (legacy LaunchAgent)
     source: https://g.live.com/0USSDMC_W5T/MacODSUProduction

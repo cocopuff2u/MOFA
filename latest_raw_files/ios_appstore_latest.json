@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 28, 2026 03:18 PM EDT",
+    "last_updated": "October 28, 2026 07:51 PM EDT",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -115,11 +115,11 @@
             "name": "iOS Microsoft Warehouse Management",
             "application_name": "Microsoft Warehouse Management",
             "bundleId": "com.microsoft.WarehouseManagement",
-            "currentVersionReleaseDate": "October 27, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/40/54/40405406-984f-6560-ea2b-acb4f1fbbfc6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 28, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/cf/40/bfcf4062-36dc-52b6-15a4-b92417264093/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.4",
-            "releaseNotes": "Release 4.2.1.0- Hotfix\n \nFixed an issue where the Back button did not work in Work list detours.\nFixed an issue where signing out with automatic login enabled did not clear the work user session on the server.",
-            "version": "4.2.1",
+            "releaseNotes": "Release notes: version: 4.2.2.0\nHotfix\nFixed an issue where the guest users cannot authenticate.",
+            "version": "4.2.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4"
         },
         {

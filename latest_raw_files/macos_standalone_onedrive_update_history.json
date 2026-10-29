@@ -1,6 +1,6 @@
 {
   "Releases": {
-    "last_scan_date": "October 29, 2026 12:11 AM EDT",
+    "last_scan_date": "October 29, 2026 07:16 AM EDT",
     "total_builds": "126",
     "release": [
       {
@@ -31,7 +31,7 @@
         "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.206.1021.0001/OneDrive.pkg",
         "intel_sha256": "5bc16965a77443686ed1772293890b9aac224e96d2a4eae386eb07066a82ab02",
         "download_available": "true",
-        "sources": "manifest:StandaloneMsitFastManifest"
+        "sources": "manifest:StandaloneMsitFastManifest, manifest:MacODSUMsitFast"
       },
       {
         "build": "26.204.1019.0004",
@@ -186,7 +186,7 @@
       {
         "build": "26.195.1006.0007",
         "version": "26.195.1006",
-        "release_date": "N/A",
+        "release_date": "October 23, 2026",
         "deferred_release_date": "N/A",
         "cdn_published": "October 23, 2026",
         "first_seen": "October 23, 2026",
@@ -196,7 +196,7 @@
         "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.195.1006.0007/OneDrive.pkg",
         "intel_sha256": "18be7a473d6420caa2a9a5e3e3674ffaa60b7d32866829fc30b99ce239722a2c",
         "download_available": "true",
-        "sources": "manifest:StandaloneProductManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUInsiders"
+        "sources": "manifest:StandaloneProductManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUInsiders, release_notes"
       },
       {
         "build": "26.195.1006.0006",
@@ -246,7 +246,7 @@
       {
         "build": "26.189.0928.0009",
         "version": "26.189.0928",
-        "release_date": "N/A",
+        "release_date": "October 23, 2026",
         "deferred_release_date": "N/A",
         "cdn_published": "October 23, 2026",
         "first_seen": "October 23, 2026",
@@ -256,7 +256,7 @@
         "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0009/OneDrive.pkg",
         "intel_sha256": "c02da0b283d52f25875d871d4f9b0785e06aa90c8d41b09f68a5caae03837c90",
         "download_available": "true",
-        "sources": "manifest:StandaloneProductManifest, manifest:MacODSUProduction"
+        "sources": "manifest:StandaloneProductManifest, manifest:MacODSUProduction, release_notes"
       },
       {
         "build": "26.189.0928.0008",

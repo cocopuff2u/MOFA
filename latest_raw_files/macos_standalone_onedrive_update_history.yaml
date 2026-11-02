@@ -1,7 +1,20 @@
 Releases:
-  last_scan_date: November 02, 2026 08:58 AM EST
-  total_builds: '127'
+  last_scan_date: November 02, 2026 12:46 PM EST
+  total_builds: '128'
   release:
+  - build: 26.213.1101.0001
+    version: 26.213.1101
+    release_date: N/A
+    deferred_release_date: N/A
+    cdn_published: November 2, 2026
+    first_seen: November 02, 2026
+    rings: MSIT Fast
+    universal_download: https://oneclient.sfx.ms/Mac/Installers/26.213.1101.0001/universal/OneDrive.pkg
+    universal_sha256: 7879c4164602d74db30f1805a8ed2feb39b179cce624023b69ffe2052e1fa4a3
+    intel_download: https://oneclient.sfx.ms/Mac/Installers/26.213.1101.0001/OneDrive.pkg
+    intel_sha256: b885241b224c2cc1240de777809e2fef3a1b9515d4aca8489738a026fbd62f56
+    download_available: 'true'
+    sources: manifest:StandaloneMsitFastManifest
   - build: 26.212.1029.0001
     version: 26.212.1029
     release_date: N/A
@@ -47,13 +60,14 @@ Releases:
     deferred_release_date: N/A
     cdn_published: October 26, 2026
     first_seen: October 27, 2026
-    rings: MSIT Slow
+    rings: MSIT Slow, Insiders
     universal_download: https://oneclient.sfx.ms/Mac/Installers/26.204.1019.0004/universal/OneDrive.pkg
     universal_sha256: 013cd0df1cf32d171ef13ac2642928ab52061b0661aa1ae082bab1ca0e3d8d40
     intel_download: https://oneclient.sfx.ms/Mac/Installers/26.204.1019.0004/OneDrive.pkg
     intel_sha256: 8770b24a2f5dd6a9c4c6bfdc64fbeb3b370cdfd4a79d08ac335c8b286709808d
     download_available: 'true'
-    sources: manifest:StandaloneMsitSlowManifest
+    sources: manifest:StandaloneMsitSlowManifest, manifest:StandaloneInsidersManifest,
+      manifest:MacODSUMsitSlow
   - build: 26.203.1018.0001
     version: 26.203.1018
     release_date: N/A
@@ -185,7 +199,7 @@ Releases:
     intel_sha256: 18be7a473d6420caa2a9a5e3e3674ffaa60b7d32866829fc30b99ce239722a2c
     download_available: 'true'
     sources: manifest:StandaloneProductManifest, manifest:StandaloneInsidersManifest,
-      manifest:MacODSUInsiders, release_notes
+      manifest:MacODSUInsiders, release_notes, manifest:MacODSUProduction
   - build: 26.195.1006.0006
     version: 26.195.1006
     release_date: N/A

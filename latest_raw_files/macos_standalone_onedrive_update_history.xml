@@ -1,7 +1,22 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>October 29, 2026 01:59 PM EDT</last_scan_date>
-    <total_builds>126</total_builds>
+    <last_scan_date>November 02, 2026 08:58 AM EST</last_scan_date>
+    <total_builds>127</total_builds>
+    <release>
+        <build>26.212.1029.0001</build>
+        <version>26.212.1029</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>October 30, 2026</cdn_published>
+        <first_seen>November 02, 2026</first_seen>
+        <rings>MSIT Fast</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.212.1029.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>01914cab12976b398ecf8fd9db4820b18df82b27dc2a39c9ac146eb09d595e4d</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.212.1029.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>cd467cd92809fe236dd3fdf46aa6840e5ef97970dee84b1dbce0c2fc74e02964</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneMsitFastManifest</sources>
+    </release>
     <release>
         <build>26.210.1027.0001</build>
         <version>26.210.1027</version>
@@ -129,13 +144,13 @@
         <deferred_release_date>N/A</deferred_release_date>
         <cdn_published>October 23, 2026</cdn_published>
         <first_seen>October 23, 2026</first_seen>
-        <rings>MSIT Slow, Insiders</rings>
+        <rings>MSIT Slow, Insiders, Production</rings>
         <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0006/universal/OneDrive.pkg</universal_download>
         <universal_sha256>928516faca5cc0ccecdf939b9e101eddf252aea76d499d9ffe2c29b421818bf2</universal_sha256>
         <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0006/OneDrive.pkg</intel_download>
         <intel_sha256>b6e00b20470a8935f0d36e0d5c41c3c809a16d833bb2765998ba1745b91f971b</intel_sha256>
         <download_available>true</download_available>
-        <sources>manifest:StandaloneMsitSlowManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUMsitSlow</sources>
+        <sources>manifest:StandaloneMsitSlowManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUMsitSlow, manifest:StandaloneProductManifest, manifest:MacODSUInsiders</sources>
     </release>
     <release>
         <build>26.198.1011.0005</build>

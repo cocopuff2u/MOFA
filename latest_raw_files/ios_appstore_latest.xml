@@ -1,37 +1,37 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>October 29, 2026 01:58 PM EDT</last_updated>
+	<last_updated>November 02, 2026 07:26 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/c3/5b/b7c35bcf-fcec-9bd4-b0e6-a5615bb3a216/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/0d/34/c90d341a-8dfb-212e-b97f-90d48cb26233/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.115.1</version>
+		<version>2.115.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/e3/41/23e34128-83be-bc19-2a80-19f6c8e03b88/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/6c/ef/6a6cef5a-e4d7-53e0-0d64-fce44a3d6152/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.115.1</version>
+		<version>2.115.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/d8/cf/e1d8cfab-b557-4727-d667-18dd994a9c46/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/d8/06/63d806b4-5a67-8d1a-5877-bfd65942d9b4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.115.1</version>
+		<version>2.115.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4</app_store_url>
 	</package>
 	<package>
@@ -51,8 +51,8 @@ Feel free to send us any comments or questions by going to Settings &gt; Help &a
 		<name>iOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ce/04/80ce045e-b5c0-a07d-3c28-c42259cfa93e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/24/54/292454ea-070a-f7ce-dc48-ea0d6fcf2020/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -60,7 +60,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.115.1</version>
+		<version>16.115.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4</app_store_url>
 	</package>
 	<package>
@@ -144,11 +144,11 @@ Fixed an issue where the guest users cannot authenticate.</releaseNotes>
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>Store Commerce</application_name>
 		<bundleId>com.microsoft.storecommerce</bundleId>
-		<currentVersionReleaseDate>October 29, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/fa/e1/9ffae156-0f63-ac0e-a220-083a368e159d/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/80/da/5380da77-6c6c-4214-cf8c-482dd9601068/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>9.59.26301</version>
+		<version>9.59.26302</version>
 		<app_store_url>https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4</app_store_url>
 	</package>
 	<package>
@@ -166,11 +166,18 @@ Fixed an issue where the guest users cannot authenticate.</releaseNotes>
 		<name>iOS Microsoft Lists</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>October 15, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/06/61/1c0661ff-c76d-81e8-3345-6ecc6f127567/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 29, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/70/ec/c270eca4-f81b-4c50-5d5a-f04aedbc237b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.6</minimumOsVersion>
-		<releaseNotes>Stability improvements and fixes.</releaseNotes>
-		<version>5.1.7</version>
+		<releaseNotes>• Updated the app’s interface and navigation to align with SharePoint Discover on the web.
+• Added Overview, Sites, People, News, Recent, and Favorites tabs.
+• Overview brings together relevant content, recent items, favorite items, site activity, and updates from coworkers.
+• Added in-app previews for Word, Excel, PowerPoint, PDFs, images, and videos.
+• Updated the search interface for finding content across SharePoint and within sites.
+• Updated the News view with unread and source filters.
+• Replaced Save for Later with Favorites for saving news and pages.
+• Added dark mode support.</releaseNotes>
+		<version>6.1.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
@@ -188,11 +195,11 @@ Fixed an issue where the guest users cannot authenticate.</releaseNotes>
 		<name>iOS Microsoft Viva Engage</name>
 		<application_name>Viva Engage</application_name>
 		<bundleId>wefwef</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/21/00/b5210093-6cce-9568-15a7-5a08d26383b7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/bb/ff/d8bbff0e-3529-7f4e-ccd5-473ba6a36eb5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.6</minimumOsVersion>
 		<releaseNotes>This update includes stability enhancements and bug fixes to improve your overall experience.</releaseNotes>
-		<version>11.62.0</version>
+		<version>11.63.0</version>
 		<app_store_url>https://apps.apple.com/us/app/viva-engage/id289559439?uo=4</app_store_url>
 	</package>
 	<package>
@@ -244,14 +251,13 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/f4/b8/d7f4b825-2f9c-e99b-deee-3e041cddf9fa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/9e/1f/589e1f0a-2845-8bab-5b96-7684ffbaa420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Here’s what’s new in this release:
-• Sign in to Edge with a Google account: You can now sign in to Microsoft Edge with a Google account, in addition to a Microsoft account.
-• You can now read PDFs protected by your organization directly in Edge, making it easier to stay productive on the go.
+• Sign in to Edge with an Apple Account: You can now sign in to Microsoft Edge with an Apple Account, in addition to a Microsoft account.
 Upgrade now to enjoy a smarter, faster, and more productive Microsoft Edge.</releaseNotes>
-		<version>156.4314.43</version>
+		<version>156.4314.56</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
@@ -304,22 +310,29 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>October 23, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/a3/14/d4a314ce-5709-5f15-4b50-2f385257f4ae/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 30, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/42/d4/4842d4b9-5d20-be03-d72d-6e81c1035773/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>8.19.1</version>
+		<version>8.19.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>October 15, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/06/61/1c0661ff-c76d-81e8-3345-6ecc6f127567/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 29, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/70/ec/c270eca4-f81b-4c50-5d5a-f04aedbc237b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.6</minimumOsVersion>
-		<releaseNotes>Stability improvements and fixes.</releaseNotes>
-		<version>5.1.7</version>
+		<releaseNotes>• Updated the app’s interface and navigation to align with SharePoint Discover on the web.
+• Added Overview, Sites, People, News, Recent, and Favorites tabs.
+• Overview brings together relevant content, recent items, favorite items, site activity, and updates from coworkers.
+• Added in-app previews for Word, Excel, PowerPoint, PDFs, images, and videos.
+• Updated the search interface for finding content across SharePoint and within sites.
+• Updated the News view with unread and source filters.
+• Replaced Save for Later with Favorites for saving news and pages.
+• Added dark mode support.</releaseNotes>
+		<version>6.1.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
@@ -359,24 +372,25 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Meta Ads Manager</application_name>
 		<bundleId>com.facebook.MAdMan</bundleId>
-		<currentVersionReleaseDate>October 22, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/44/0f/41440f75-0ac9-3912-5f3c-b07640720cc9/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 30, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/6c/61/176c61d6-74c3-66db-72ba-9b452b9df4d6/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.1</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance updates</releaseNotes>
-		<version>498.0</version>
+		<version>499.0</version>
 		<app_store_url>https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
 		<application_name>CamScanner - PDF Scanner App</application_name>
 		<bundleId>com.intsig.CamScannerLite</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/ac/2b/00ac2b91-d81a-dab8-2629-afe4c18abe18/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/3e/b3/6a3eb385-b291-6c5d-e5ef-997996553b4b/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
-		<releaseNotes>· Updated search makes it easier to organize documents directly from search results.
-· Sign is upgraded to CS Sign, with support for sending documents for signature.
-· New mosaic support for PDFs lets you mask sensitive information.</releaseNotes>
-		<version>7.28.0</version>
+		<releaseNotes>Full Support for iPhone Duo
+· Adaptive Home Screen: Navigation and layouts adapt as you fold or unfold, with smooth switching between portrait and landscape modes.
+· Better on a Bigger Screen: View document details clearly and read, edit, and annotate PDFs more easily.
+· Easier Scanning and Organization: Scan and organize documents easily, folded or unfolded.</releaseNotes>
+		<version>7.28.5</version>
 		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>
@@ -416,11 +430,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Intune Company Portal</name>
 		<application_name>Intune Company Portal</application_name>
 		<bundleId>com.microsoft.CompanyPortal</bundleId>
-		<currentVersionReleaseDate>September 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/47/d4/6447d413-7f2a-7bae-4eaa-5fa2a249c60a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>October 30, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/84/a4/4a84a4cf-4794-a52b-39b5-79ca8248219a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>We’ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.</releaseNotes>
-		<version>5.2608.0</version>
+		<version>5.2610.0</version>
 		<app_store_url>https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4</app_store_url>
 	</package>
 	<package>

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <latest>
-  <last_updated>November 02, 2026 07:26 PM EST</last_updated>
+  <last_updated>November 03, 2026 02:31 AM EST</last_updated>
   <release_notes>
     <source>https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0</source>
     <production>
-      <released>26.189.0928.0009</released>
-      <rolling_out>26.195.1006.0007 ( universal )</rolling_out>
+      <released>26.195.1006.0007</released>
+      <rolling_out>26.198.1011.0006 ( universal )</rolling_out>
     </production>
     <deferred>
       <released>26.123.0628.0001</released>

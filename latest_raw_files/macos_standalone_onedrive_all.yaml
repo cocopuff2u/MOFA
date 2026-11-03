@@ -1,10 +1,10 @@
 latest:
-  last_updated: November 02, 2026 07:26 PM EST
+  last_updated: November 03, 2026 02:31 AM EST
   release_notes:
     source: https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0
     production:
-      released: 26.189.0928.0009
-      rolling_out: 26.195.1006.0007 ( universal )
+      released: 26.195.1006.0007
+      rolling_out: 26.198.1011.0006 ( universal )
     deferred:
       released: 26.123.0628.0001
       rolling_out: '26.189.0928.0009 ( universal ) Target Date: Nov 12, 2026'

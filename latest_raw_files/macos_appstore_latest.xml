@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 02, 2026 12:45 PM EST</last_updated>
+	<last_updated>November 02, 2026 07:26 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -65,11 +65,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>September 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c5/8f/8dc58fe8-a436-532f-086b-355200fd1516/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/70/70/85707050-8924-cda3-2c20-84c8246d588d/OneDrive.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.4</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>26.168.0830</version>
+		<version>26.189.0928</version>
 		<app_store_url>https://apps.apple.com/us/app/onedrive/id823766827?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -118,11 +118,11 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<name>MacOS Microsoft CoPilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.copilot-mac</bundleId>
-		<currentVersionReleaseDate>September 03, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/94/04/b39404b4-3746-b6bf-0e3b-d20db7959540/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/23/a5/8423a5bb-e7fc-3db7-2319-5fe88f1ad1e6/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>25.7.440902001</version>
+		<releaseNotes>This version of Copilot for Mac will soon no longer be supported or available to download from the App Store. Get the latest version from the official Microsoft Copilot website for personalized help. Simply sign in with the same account and pick up where you left off. Your chat history will move with you.</releaseNotes>
+		<version>25.7.441030001</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>

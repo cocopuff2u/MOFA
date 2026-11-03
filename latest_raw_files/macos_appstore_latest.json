@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 03, 2026 10:46 AM EST",
+    "last_updated": "November 03, 2026 04:28 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -102,14 +102,14 @@
         },
         {
             "name": "MacOS Microsoft CoPilot",
-            "application_name": "Copilot: Track & Budget Money",
-            "bundleId": "com.copilot.production",
+            "application_name": "Microsoft Copilot",
+            "bundleId": "com.microsoft.copilot-mac",
             "currentVersionReleaseDate": "November 02, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/80/b9/5c80b9af-2f84-a906-0603-00f80eac466c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "17.0",
-            "releaseNotes": "In this release:\n\nImproved\n\u2022 When Money Assistant suggests categories and groups during onboarding, it now explains why\n\u2022 Your budget loads in place during Money Assistant onboarding\n\u2022 Haptic feedback throughout Money Assistant onboarding\n\u2022 The Support button is now a question mark, and explanations use info icons\n\nFixed\n\u2022 Money Assistant cards show categories and recurrings custom emojis\n\u2022 Money Assistant replies no longer overlap tables or thinking steps\n\u2022 The scroll-to-latest arrow in Money Assistant is easier to see\n\u2022 Other bug fixes and performance improvements",
-            "version": "8.7.1",
-            "app_store_url": "https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651?uo=4"
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/23/a5/8423a5bb-e7fc-3db7-2319-5fe88f1ad1e6/AppIcon-0-85-220-0-6-0-0-2x-0-0.png/512x512bb.png",
+            "minimumOsVersion": "14.0",
+            "releaseNotes": "This version of Copilot for Mac will soon no longer be supported or available to download from the App Store. Get the latest version from the official Microsoft Copilot website for personalized help. Simply sign in with the same account and pick up where you left off. Your chat history will move with you.",
+            "version": "25.7.441030001",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id6738511300?mt=12&uo=4"
         },
         {
             "name": "MacOS Microsoft Azure VPN Client",

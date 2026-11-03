@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>November 02, 2026 07:26 PM EST</last_scan_date>
+    <last_scan_date>November 03, 2026 02:31 AM EST</last_scan_date>
     <total_builds>128</total_builds>
     <release>
         <build>26.213.1101.0001</build>
@@ -155,7 +155,7 @@
     <release>
         <build>26.198.1011.0006</build>
         <version>26.198.1011</version>
-        <release_date>N/A</release_date>
+        <release_date>October 30, 2026</release_date>
         <deferred_release_date>N/A</deferred_release_date>
         <cdn_published>October 23, 2026</cdn_published>
         <first_seen>October 23, 2026</first_seen>
@@ -165,7 +165,7 @@
         <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0006/OneDrive.pkg</intel_download>
         <intel_sha256>b6e00b20470a8935f0d36e0d5c41c3c809a16d833bb2765998ba1745b91f971b</intel_sha256>
         <download_available>true</download_available>
-        <sources>manifest:StandaloneMsitSlowManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUMsitSlow, manifest:StandaloneProductManifest, manifest:MacODSUInsiders</sources>
+        <sources>manifest:StandaloneMsitSlowManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUMsitSlow, manifest:StandaloneProductManifest, manifest:MacODSUInsiders, release_notes</sources>
     </release>
     <release>
         <build>26.198.1011.0005</build>

@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 04, 2026 03:33 AM EST",
+    "last_updated": "November 04, 2026 11:50 AM EST",
     "packages": [
         {
             "name": "Word",
@@ -90,14 +90,14 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams2",
-            "short_version": "26289.204.5281.6363",
-            "full_version": "26289.204.5281.6363",
-            "last_updated": "October 26, 2026",
+            "short_version": "26304.1203.5314.5342",
+            "full_version": "26304.1203.5314.5342",
+            "last_updated": "November 02, 2026",
             "min_os": "14.0",
-            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26289.204.5281.6363/MicrosoftTeams_26246.1709.5146.8945_to_26289.204.5281.6363_BinaryDelta.pkg",
-            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26289.204.5281.6363/MicrosoftTeams_26246.1709.5146.8945_to_26289.204.5281.6363_BinaryDelta.pkg",
-            "sha1": "443bed4638714d6de9275bebd919778a114fa7a0",
-            "sha256": "e2d1bc6c350bed91118caffe5d1607dba115942e5093bda4d92dbd5ef869436f"
+            "update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26304.1203.5314.5342/MicrosoftTeams_arm64_26276.505.5234.9924_to_26304.1203.5314.5342_BinaryDelta.pkg",
+            "latest_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26304.1203.5314.5342/MicrosoftTeams_arm64_26276.505.5234.9924_to_26304.1203.5314.5342_BinaryDelta.pkg",
+            "sha1": "71c036cbf9fdf9b29aa6741a75427f0a10f88e9c",
+            "sha256": "353f7e0f42113e97bce0fafb6354cf6f7ac2fbc0d0e026dd290016a9431329cb"
         },
         {
             "name": "Intune",
@@ -132,28 +132,28 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.wdav",
-            "short_version": "101.26092.0009",
-            "full_version": "101.26092.0009",
-            "last_updated": "October 15, 2026",
+            "short_version": "101.26092.0012",
+            "full_version": "101.26092.0012",
+            "last_updated": "October 28, 2026",
             "min_os": "14.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
-            "sha1": "36cfdb2ae097c9acfdad8a2c92a9a2a7b5ddf9d5",
-            "sha256": "6ed64334a792135d8ea3af4c0b017d84ee75d7a15fe89721db81930c4b4b7503"
+            "sha1": "125482279f943afa90cf4d2268b4858514b0ef6a",
+            "sha256": "4dd32d78984a530be9145766ed86ca8a631ace3bc239a5bf8f9e57c88a4cbeef"
         },
         {
             "name": "Defender For Consumers",
             "application_id": "WDAVCONSUMER",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.wdav",
-            "short_version": "101.26092.0009",
-            "full_version": "101.26092.0009",
-            "last_updated": "October 15, 2026",
+            "short_version": "101.26092.0012",
+            "full_version": "101.26092.0012",
+            "last_updated": "October 28, 2026",
             "min_os": "14.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26092.0009_Individuals_Installer.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26092.0009_Individuals_Installer.pkg",
-            "sha1": "cd6d706d186a0fa31f726af5a41becc2fae72bba",
-            "sha256": "58448d6b845b23ee83881a92e8eaa5508c381371a6922066ef1c4b4a38829adf"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26092.0012_Individuals_Installer.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Defender_101.26092.0012_Individuals_Installer.pkg",
+            "sha1": "N/A",
+            "sha256": "6b0bdd72dc0fada6bf8173afc3acbb990cd580901be6060952eef527f729dc00"
         },
         {
             "name": "Defender Shim",

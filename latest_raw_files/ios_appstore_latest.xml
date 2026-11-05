@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 03, 2026 04:28 PM EST</last_updated>
+	<last_updated>November 04, 2026 10:06 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,13 +38,13 @@
 		<name>iOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Office.Outlook</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/d7/e4/68d7e488-404f-0cc3-b90e-b68aca7adffc/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/e8/bd/cbe8bd39-9c76-6068-db83-5521a85e128b/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>This update includes performance improvements and bug fixes to make Outlook better for you.
 
 Feel free to send us any comments or questions by going to Settings &gt; Help &amp; Feedback – we’d love to hear from you.</releaseNotes>
-		<version>5.2642.0</version>
+		<version>5.2643.0</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4</app_store_url>
 	</package>
 	<package>
@@ -67,11 +67,11 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>iOS Microsoft OneDrive</name>
 		<application_name>Microsoft OneDrive</application_name>
 		<bundleId>com.microsoft.skydrive</bundleId>
-		<currentVersionReleaseDate>October 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/8a/0c/8f8a0c84-9048-602d-cc08-69923d6b8c41/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>This version of OneDrive supports iOS/iPadOS versions 26 or newer</releaseNotes>
-		<version>26.1.3</version>
+		<version>26.1.4</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
@@ -98,11 +98,11 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>October 24, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/60/7e/47607e40-e558-59c2-a69f-9ab6c1161503/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 03, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/f2/2b/1af22b22-6285-a2cf-6fa4-e063eddc5a31/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and improvements</releaseNotes>
-		<version>1.1.82230103</version>
+		<version>1.1.82260102</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4</app_store_url>
 	</package>
 	<package>
@@ -142,14 +142,14 @@ Fixed an issue where the guest users cannot authenticate.</releaseNotes>
 	</package>
 	<package>
 		<name>iOS Microsoft Store Commerce</name>
-		<application_name>Store Commerce</application_name>
-		<bundleId>com.microsoft.storecommerce</bundleId>
+		<application_name>WooCommerce: Store &amp; POS</application_name>
+		<bundleId>com.automattic.woocommerce</bundleId>
 		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/80/da/5380da77-6c6c-4214-cf8c-482dd9601068/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>9.59.26302</version>
-		<app_store_url>https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4</app_store_url>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/b1/f0/8ab1f01a-b81d-6845-c3d5-338c471bfe86/AppIcon-Default-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
+		<releaseNotes>Shipping into the EU is now easier—your customs forms ask for each item's SKU, manufacturer part number and GTIN/EAN when needed. In-person setup works smoothly for stores without WooPayments or Stripe. Shipping labels now make the recipient phone number optional for domestic orders.</releaseNotes>
+		<version>25.9</version>
+		<app_store_url>https://apps.apple.com/us/app/woocommerce-store-pos/id1389130815?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Sales</name>
@@ -381,19 +381,15 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Lens: Translate &amp; Photo Finder</application_name>
-		<bundleId>com.searchdodo.ios</bundleId>
-		<currentVersionReleaseDate>August 28, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/19/b3/ac19b3fe-ab4f-ddef-8489-ba0cadf03d28/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.6</minimumOsVersion>
-		<releaseNotes>Your first moments in Lens are now absolutely seamless! 
-
-We revamped the initial setup so you can dive right in without skipping a beat. 
-We also fine-tuned things under the hood, ensuring your browsing remains perfectly smooth and completely uninterrupted. 
-
-If these speedy new updates make your visual experience even better, a 5-star review means the world to us! Thanks for choosing Lens.</releaseNotes>
-		<version>3.1.16</version>
-		<app_store_url>https://apps.apple.com/us/app/lens-translate-photo-finder/id1587316791?uo=4</app_store_url>
+		<application_name>Adobe Scan: PDF &amp; Doc Scanner</application_name>
+		<bundleId>com.adobe.scan.ios</bundleId>
+		<currentVersionReleaseDate>November 04, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/eb/4e/f3eb4ec8-fb65-c42a-1525-18731abe078c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.0</minimumOsVersion>
+		<releaseNotes>NEW - Digitize 
+Turn handwritten notes and whiteboards into clean, editable PDFs. Snap a photo and get a searchable document that looks digitally created, with your bullet points, diagrams, and tables intact.</releaseNotes>
+		<version>26.11.04</version>
+		<app_store_url>https://apps.apple.com/us/app/adobe-scan-pdf-doc-scanner/id1199564834?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>
@@ -456,11 +452,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft 365 Office</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>October 26, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/d4/7c/37d47cd5-4589-dd66-d248-780f0be78127/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 04, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f0/80/37f08024-9e09-9b28-ad94-3ce4c29f2a95/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.115.2</version>
+		<version>2.115.3</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>

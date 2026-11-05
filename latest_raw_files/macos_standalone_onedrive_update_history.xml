@@ -1,7 +1,22 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>November 05, 2026 06:50 AM EST</last_scan_date>
-    <total_builds>130</total_builds>
+    <last_scan_date>November 05, 2026 02:26 PM EST</last_scan_date>
+    <total_builds>131</total_builds>
+    <release>
+        <build>26.216.1104.0001</build>
+        <version>26.216.1104</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>November 5, 2026</cdn_published>
+        <first_seen>November 05, 2026</first_seen>
+        <rings>MSIT Fast</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.216.1104.0001/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>1269287489386989dbfb53247761c4cedc27674d3ba334bc11e0a96334b1a0f2</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.216.1104.0001/OneDrive.pkg</intel_download>
+        <intel_sha256>11a09cdbc82156131fc6e008806eb93f16320d9731ea739bc60a057417ff238b</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneMsitFastManifest</sources>
+    </release>
     <release>
         <build>26.215.1103.0001</build>
         <version>26.215.1103</version>

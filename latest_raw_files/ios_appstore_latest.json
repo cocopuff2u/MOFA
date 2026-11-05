@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 05, 2026 06:49 AM EST",
+    "last_updated": "November 05, 2026 02:26 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -269,11 +269,11 @@
             "name": "iOS Microsoft Dynamics 365 Business Central",
             "application_name": "Dynamics 365 Business Central",
             "bundleId": "com.microsoft.dynamics.ProjectMadeira",
-            "currentVersionReleaseDate": "October 01, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ea/a7/8ceaa7b2-d87a-8b89-a882-6eef852cfbee/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 05, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/08/2c/8a082cfb-f1b9-1b29-d645-4420afc2ffc6/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
-            "releaseNotes": "Some general fixes",
-            "version": "4.6",
+            "releaseNotes": "Support for iOS 27.2",
+            "version": "4.6.11041",
             "app_store_url": "https://apps.apple.com/us/app/dynamics-365-business-central/id1093325047?uo=4"
         },
         {
@@ -302,11 +302,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Meta Ads Manager",
             "bundleId": "com.facebook.MAdMan",
-            "currentVersionReleaseDate": "October 30, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/6c/61/176c61d6-74c3-66db-72ba-9b452b9df4d6/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 05, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/e1/2b/aee12bef-5d1f-62dc-1e55-f18ef82c4f93/AppIcon-MetaBrand-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "15.1",
             "releaseNotes": "Bug fixes and performance updates",
-            "version": "499.0",
+            "version": "500.0",
             "app_store_url": "https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4"
         },
         {

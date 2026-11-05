@@ -1,4 +1,4 @@
-last_updated: November 04, 2026 10:06 PM EST
+last_updated: November 05, 2026 06:49 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -12,42 +12,42 @@ packages:
   - name: MacOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Excel
-    currentVersionReleaseDate: October 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/df/e0/08dfe0ac-e2fd-1136-83b9-039633896b4d/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/c3/e8/d5c3e833-5be6-8a1f-fef7-560fb159cc0e/Excel_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.114.1
+    version: 16.114.4
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id462058435?mt=12&uo=4
   - name: MacOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Powerpoint
-    currentVersionReleaseDate: October 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/21/89/ec218936-3558-7471-e7a1-bd544e0b080e/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/39/a0/fc39a03d-56b6-bb3a-0e95-6770983a9554/Powerpoint_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.114.1
+    version: 16.114.4
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id462062816?mt=12&uo=4
   - name: MacOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Outlook
-    currentVersionReleaseDate: October 22, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/49/06/55490646-9dbc-93a5-d12d-de9332bd9c1c/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/be/cd/70becde6-9dd3-df89-4e36-cdccdddf5c04/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 16.114.1
+    version: 16.114.4
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4
   - name: MacOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote.mac
-    currentVersionReleaseDate: October 23, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/67/98/256798eb-9f80-861b-50f5-b1e30926d7e0/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
+    currentVersionReleaseDate: November 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/17/2d/f9172d52-5e1b-33d8-915d-60eca629c5f8/OneNote_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png
     minimumOsVersion: '14.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app by clicking on the smiley face in the top-right of the app.\nHave\
       \ an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.114.1
+    version: 16.114.4
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12&uo=4
   - name: MacOS Microsoft OneDrive
     application_name: OneDrive
@@ -101,19 +101,11 @@ packages:
   - name: MacOS Microsoft CoPilot
     application_name: 'Copilot: Track & Budget Money'
     bundleId: com.copilot.production
-    currentVersionReleaseDate: November 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/80/b9/5c80b9af-2f84-a906-0603-00f80eac466c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 04, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/60/4e/cd604e76-d7cf-0147-36ba-ed9b436fae7b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "In this release:\n\nImproved\n\u2022 When Money Assistant suggests\
-      \ categories and groups during onboarding, it now explains why\n\u2022 Your\
-      \ budget loads in place during Money Assistant onboarding\n\u2022 Haptic feedback\
-      \ throughout Money Assistant onboarding\n\u2022 The Support button is now a\
-      \ question mark, and explanations use info icons\n\nFixed\n\u2022 Money Assistant\
-      \ cards show categories and recurrings custom emojis\n\u2022 Money Assistant\
-      \ replies no longer overlap tables or thinking steps\n\u2022 The scroll-to-latest\
-      \ arrow in Money Assistant is easier to see\n\u2022 Other bug fixes and performance\
-      \ improvements"
-    version: 8.7.1
+    releaseNotes: "In this release:\n\u2022 Fixed: A few minor bug fixes and improvements"
+    version: 8.7.2
     app_store_url: https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651?uo=4
   - name: MacOS Microsoft Azure VPN Client
     application_name: Azure VPN Client

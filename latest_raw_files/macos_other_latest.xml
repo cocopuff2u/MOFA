@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>November 05, 2026 02:27 PM EST</last_updated>
+    <last_updated>November 05, 2026 07:46 PM EST</last_updated>
     <package>
         <name>PowerShell</name>
         <application_id>N/A</application_id>
@@ -104,14 +104,14 @@
         <application_id>N/A</application_id>
         <application_name>Azure Developer CLI (azd)</application_name>
         <CFBundleVersion>N/A</CFBundleVersion>
-        <short_version>1.0.0</short_version>
-        <full_version>1.0.0</full_version>
+        <short_version>1.37.3</short_version>
+        <full_version>1.37.3</full_version>
         <last_updated>November 05, 2026</last_updated>
         <min_os>N/A</min_os>
-        <update_download>https://github.com/Azure/azure-dev/releases/download/azd-ext-azure-ai-agents_1.0.0/azure-ai-agents-darwin-arm64.zip</update_download>
-        <latest_download>https://github.com/Azure/azure-dev/releases/download/azd-ext-azure-ai-agents_1.0.0/azure-ai-agents-darwin-arm64.zip</latest_download>
-        <sha1>fbf133a08ee10862fdd726630eadcf6253626ef4</sha1>
-        <sha256>aac527efc5aac242546ebbcdcb6adfabd7070c573f624a9512a4db2a19a9226b</sha256>
+        <update_download>https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.3/azd-darwin-arm64.zip</update_download>
+        <latest_download>https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.3/azd-darwin-arm64.zip</latest_download>
+        <sha1>4fe111234a3944889ab19736523e5658d3812514</sha1>
+        <sha256>2ac43e590f6238cd80cc1215a55567a8b51de921f9d17806ca3ae7ce07e26cee</sha256>
     </package>
     <package>
         <name>AzCopy</name>

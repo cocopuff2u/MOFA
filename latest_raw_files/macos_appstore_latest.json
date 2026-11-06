@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 05, 2026 07:43 PM EST",
+    "last_updated": "November 06, 2026 02:37 AM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -69,14 +69,14 @@
         },
         {
             "name": "MacOS RMS Sharing",
-            "application_name": "Xiaomi Interconnectivity",
-            "bundleId": "com.xiaomi.hyperConnect",
-            "currentVersionReleaseDate": "October 29, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/09/e4/c209e495-e781-d6fb-1d2e-d4ef48a01582/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "14.0",
-            "releaseNotes": "We've improved the user experience and  fixed some known issues in this version.",
-            "version": "3.1.1",
-            "app_store_url": "https://apps.apple.com/us/app/xiaomi-interconnectivity/id6673908449?uo=4"
+            "application_name": "Share-A-Cart",
+            "bundleId": "com.shareacart.Share-A-Cart-for-Everything",
+            "currentVersionReleaseDate": "October 24, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/df/65/97df65c0-a907-ccd9-750e-2f240b13c46c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "15.1",
+            "releaseNotes": "Updated extension.",
+            "version": "4.1.0",
+            "app_store_url": "https://apps.apple.com/us/app/share-a-cart/id1537641390?uo=4"
         },
         {
             "name": "MacOS Microsoft Windows App",

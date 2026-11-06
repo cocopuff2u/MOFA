@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 05, 2026 02:26 PM EST</last_updated>
+	<last_updated>November 06, 2026 10:37 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -381,15 +381,17 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft Lens PDF Scanner</name>
-		<application_name>Adobe Scan: PDF &amp; Doc Scanner</application_name>
-		<bundleId>com.adobe.scan.ios</bundleId>
-		<currentVersionReleaseDate>November 04, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/eb/4e/f3eb4ec8-fb65-c42a-1525-18731abe078c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>18.0</minimumOsVersion>
-		<releaseNotes>NEW - Digitize 
-Turn handwritten notes and whiteboards into clean, editable PDFs. Snap a photo and get a searchable document that looks digitally created, with your bullet points, diagrams, and tables intact.</releaseNotes>
-		<version>26.11.04</version>
-		<app_store_url>https://apps.apple.com/us/app/adobe-scan-pdf-doc-scanner/id1199564834?uo=4</app_store_url>
+		<application_name>CamScanner - PDF Scanner App</application_name>
+		<bundleId>com.intsig.CamScannerLite</bundleId>
+		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/3e/b3/6a3eb385-b291-6c5d-e5ef-997996553b4b/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.0</minimumOsVersion>
+		<releaseNotes>Full Support for iPhone Duo
+· Adaptive Home Screen: Navigation and layouts adapt as you fold or unfold, with smooth switching between portrait and landscape modes.
+· Better on a Bigger Screen: View document details clearly and read, edit, and annotate PDFs more easily.
+· Easier Scanning and Organization: Scan and organize documents easily, folded or unfolded.</releaseNotes>
+		<version>7.28.5</version>
+		<app_store_url>https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Work Folders</name>

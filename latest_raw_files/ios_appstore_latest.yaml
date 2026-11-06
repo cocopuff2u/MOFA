@@ -1,4 +1,4 @@
-last_updated: November 05, 2026 02:26 PM EST
+last_updated: November 06, 2026 10:37 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -323,16 +323,18 @@ packages:
     version: '500.0'
     app_store_url: https://apps.apple.com/us/app/meta-ads-manager/id964397083?uo=4
   - name: iOS Microsoft Lens PDF Scanner
-    application_name: 'Adobe Scan: PDF & Doc Scanner'
-    bundleId: com.adobe.scan.ios
-    currentVersionReleaseDate: November 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/eb/4e/f3eb4ec8-fb65-c42a-1525-18731abe078c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.0'
-    releaseNotes: "NEW - Digitize \nTurn handwritten notes and whiteboards into clean,\
-      \ editable PDFs. Snap a photo and get a searchable document that looks digitally\
-      \ created, with your bullet points, diagrams, and tables intact."
-    version: 26.11.04
-    app_store_url: https://apps.apple.com/us/app/adobe-scan-pdf-doc-scanner/id1199564834?uo=4
+    application_name: CamScanner - PDF Scanner App
+    bundleId: com.intsig.CamScannerLite
+    currentVersionReleaseDate: November 02, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/3e/b3/6a3eb385-b291-6c5d-e5ef-997996553b4b/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.0'
+    releaseNotes: "Full Support for iPhone Duo\n\xB7 Adaptive Home Screen: Navigation\
+      \ and layouts adapt as you fold or unfold, with smooth switching between portrait\
+      \ and landscape modes.\n\xB7 Better on a Bigger Screen: View document details\
+      \ clearly and read, edit, and annotate PDFs more easily.\n\xB7 Easier Scanning\
+      \ and Organization: Scan and organize documents easily, folded or unfolded."
+    version: 7.28.5
+    app_store_url: https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783?uo=4
   - name: iOS Microsoft Work Folders
     application_name: Work Folders
     bundleId: com.microsoft.workfolders

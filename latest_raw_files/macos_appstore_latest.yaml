@@ -1,4 +1,4 @@
-last_updated: November 06, 2026 10:37 AM EST
+last_updated: November 06, 2026 04:14 PM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -61,14 +61,14 @@ packages:
     version: 26.189.0928
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
-    application_name: Share-A-Cart
-    bundleId: com.shareacart.Share-A-Cart-for-Everything
-    currentVersionReleaseDate: October 24, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/df/65/97df65c0-a907-ccd9-750e-2f240b13c46c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.1'
-    releaseNotes: Updated extension.
-    version: 4.1.0
-    app_store_url: https://apps.apple.com/us/app/share-a-cart/id1537641390?uo=4
+    application_name: SHAREit - Connect & Transfer
+    bundleId: com.ushareit.SHAREit
+    currentVersionReleaseDate: July 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/b5/c6/11b5c6a8-7f8a-e147-e09c-c982ada2ac69/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
+    minimumOsVersion: '11.5'
+    releaseNotes: Performance optimization
+    version: 1.0.0
+    app_store_url: https://apps.apple.com/us/app/shareit-connect-transfer/id1040029915?mt=12&uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

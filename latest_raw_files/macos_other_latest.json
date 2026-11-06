@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 06, 2026 10:38 AM EST",
+    "last_updated": "November 06, 2026 04:15 PM EST",
     "packages": [
         {
             "name": "PowerShell",
@@ -132,14 +132,14 @@
             "application_id": "N/A",
             "application_name": "Bicep CLI",
             "CFBundleVersion": "N/A",
-            "short_version": "0.48.1",
-            "full_version": "0.48.1",
-            "last_updated": "October 05, 2026",
+            "short_version": "0.49.2",
+            "full_version": "0.49.2",
+            "last_updated": "November 06, 2026",
             "min_os": "N/A",
-            "update_download": "https://github.com/Azure/bicep/releases/download/v0.48.1/bicep-osx-arm64",
-            "latest_download": "https://github.com/Azure/bicep/releases/download/v0.48.1/bicep-osx-arm64",
-            "sha1": "ec8bff1efa4d6317ac00e223fedc4e1a43599552",
-            "sha256": "62cd5958c62fa1b738e9b69f24799fabddb90ed83fdb7d6d2563dde376ce479d"
+            "update_download": "https://github.com/Azure/bicep/releases/download/v0.49.2/bicep-osx-arm64",
+            "latest_download": "https://github.com/Azure/bicep/releases/download/v0.49.2/bicep-osx-arm64",
+            "sha1": "53323ac4075dff2cb5f516fa662f7a998a0dcbae",
+            "sha256": "8ae74a6cf9cbba0cb220c40cf0e955f98d59df950afab07c21b7bcb78c9c5d68"
         },
         {
             "name": "sqlcmd",

@@ -1,4 +1,4 @@
-last_updated: November 07, 2026 03:15 AM EST
+last_updated: November 07, 2026 10:23 AM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -61,16 +61,14 @@ packages:
     version: 26.189.0928
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
-    application_name: 'PocketServer: Folder Sharing'
-    bundleId: com.baonguyen.PocketServer
-    currentVersionReleaseDate: October 05, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/07/b9/ac07b961-4e94-30d8-f09d-06286f2598e4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg
-    minimumOsVersion: '15.6'
-    releaseNotes: 'HTTPS support: Encrypt File Sharing and Folder Sharing connections
-      with an optional HTTPS toggle in each server''s settings. Browsers will show
-      a warning the first time, which is expected for local servers.'
-    version: 2.0.0
-    app_store_url: https://apps.apple.com/us/app/pocketserver-folder-sharing/id6743850070?uo=4
+    application_name: SHAREit - Connect & Transfer
+    bundleId: com.ushareit.SHAREit
+    currentVersionReleaseDate: July 17, 2025
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/b5/c6/11b5c6a8-7f8a-e147-e09c-c982ada2ac69/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
+    minimumOsVersion: '11.5'
+    releaseNotes: Performance optimization
+    version: 1.0.0
+    app_store_url: https://apps.apple.com/us/app/shareit-connect-transfer/id1040029915?mt=12&uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

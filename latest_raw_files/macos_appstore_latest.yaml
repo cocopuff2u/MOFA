@@ -1,4 +1,4 @@
-last_updated: November 07, 2026 02:50 PM EST
+last_updated: November 07, 2026 06:23 PM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -61,14 +61,15 @@ packages:
     version: 26.189.0928
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
-    application_name: SHAREit - Connect & Transfer
-    bundleId: com.ushareit.SHAREit
-    currentVersionReleaseDate: July 17, 2025
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/b5/c6/11b5c6a8-7f8a-e147-e09c-c982ada2ac69/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png
-    minimumOsVersion: '11.5'
-    releaseNotes: Performance optimization
-    version: 1.0.0
-    app_store_url: https://apps.apple.com/us/app/shareit-connect-transfer/id1040029915?mt=12&uo=4
+    application_name: Xiaomi Interconnectivity
+    bundleId: com.xiaomi.hyperConnect
+    currentVersionReleaseDate: October 29, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/09/e4/c209e495-e781-d6fb-1d2e-d4ef48a01582/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '14.0'
+    releaseNotes: We've improved the user experience and  fixed some known issues
+      in this version.
+    version: 3.1.1
+    app_store_url: https://apps.apple.com/us/app/xiaomi-interconnectivity/id6673908449?uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos

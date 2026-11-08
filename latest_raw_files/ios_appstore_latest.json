@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 08, 2026 12:33 PM EST",
+    "last_updated": "November 08, 2026 04:38 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -377,14 +377,14 @@
         },
         {
             "name": "iOS Microsoft 365 Office",
-            "application_name": "Microsoft OneDrive",
-            "bundleId": "com.microsoft.skydrive",
+            "application_name": "Microsoft Excel",
+            "bundleId": "com.microsoft.Office.Excel",
             "currentVersionReleaseDate": "November 02, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/6c/ef/6a6cef5a-e4d7-53e0-0d64-fce44a3d6152/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "26.0",
-            "releaseNotes": "This version of OneDrive supports iOS/iPadOS versions 26 or newer",
-            "version": "26.1.4",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
+            "releaseNotes": "\u2022 General quality and performance enhancements.",
+            "version": "2.115.2",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
         },
         {
             "name": "iOS Microsoft Skype for Business",

@@ -1,19 +1,19 @@
 {
-    "last_updated": "November 09, 2026 04:01 AM EST",
+    "last_updated": "November 09, 2026 02:36 PM EST",
     "packages": [
         {
             "name": "Word",
             "application_id": "MSWD2019",
             "application_name": "Microsoft Word.app",
             "CFBundleVersion": "com.microsoft.word",
-            "short_version": "16.115.0 (26110435)",
-            "full_version": "16.115.26110435",
-            "last_updated": "November 04, 2026",
+            "short_version": "16.115.0 (26110837)",
+            "full_version": "16.115.26110837",
+            "last_updated": "November 08, 2026",
             "min_os": "15.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.115.26110435_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.115.26110435_Updater.pkg",
-            "sha1": "1e43442f1b41e20638915e5b313002162a57bbca",
-            "sha256": "38a3b897df69799536b6089ae13f73e6f4b5a29f903d777b3a7a48a6c1579988"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.115.26110837_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Word_16.115.26110837_Updater.pkg",
+            "sha1": "7caf351c971d0c60d405d6c3dfcace8703f355fb",
+            "sha256": "52eacead463290f2033afb12535e64c0ae4d48eaa331bd1d4ccea4ecaa3f4a22"
         },
         {
             "name": "Excel",
@@ -62,14 +62,14 @@
             "application_id": "ONMC2019",
             "application_name": "Microsoft OneNote.app",
             "CFBundleVersion": "com.microsoft.onenote.mac",
-            "short_version": "16.115.0 (26110435)",
-            "full_version": "16.115.26110435",
-            "last_updated": "November 04, 2026",
+            "short_version": "16.115.0 (26110837)",
+            "full_version": "16.115.26110837",
+            "last_updated": "November 08, 2026",
             "min_os": "15.0",
-            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.115.26110435_Updater.pkg",
-            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.115.26110435_Updater.pkg",
-            "sha1": "d50dcd2647c1bf414908d368f64ae7a4f035144c",
-            "sha256": "f94e633dabd26185f70dfa816e9282787f989387b1dbd9cd22b77289c2d8e18f"
+            "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.115.26110837_Updater.pkg",
+            "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_OneNote_16.115.26110837_Updater.pkg",
+            "sha1": "0dbbefb0fea36cd19b867b57cbedbaf5a81a3e85",
+            "sha256": "b3285547848c084afb6ffec4f1e374b12e6225ff6d6824f802079e516707fbb3"
         },
         {
             "name": "Skype",
@@ -132,9 +132,9 @@
             "application_id": "WDAV00",
             "application_name": "Microsoft Defender.app",
             "CFBundleVersion": "com.microsoft.wdav",
-            "short_version": "101.26092.0009",
-            "full_version": "101.26092.0009",
-            "last_updated": "October 15, 2026",
+            "short_version": "101.26092.0012",
+            "full_version": "101.26092.0012",
+            "last_updated": "October 28, 2026",
             "min_os": "14.0",
             "update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",
             "latest_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg",

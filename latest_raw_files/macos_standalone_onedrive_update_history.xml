@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>November 09, 2026 04:01 AM EST</last_scan_date>
+    <last_scan_date>November 09, 2026 02:36 PM EST</last_scan_date>
     <total_builds>131</total_builds>
     <release>
         <build>26.216.1104.0001</build>
@@ -60,7 +60,7 @@
         <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.213.1101.0001/OneDrive.pkg</intel_download>
         <intel_sha256>b885241b224c2cc1240de777809e2fef3a1b9515d4aca8489738a026fbd62f56</intel_sha256>
         <download_available>true</download_available>
-        <sources>manifest:StandaloneMsitFastManifest</sources>
+        <sources>manifest:StandaloneMsitFastManifest, manifest:MacODSUMsitFast</sources>
     </release>
     <release>
         <build>26.212.1029.0001</build>
@@ -69,13 +69,13 @@
         <deferred_release_date>N/A</deferred_release_date>
         <cdn_published>October 30, 2026</cdn_published>
         <first_seen>November 02, 2026</first_seen>
-        <rings>MSIT Fast, MSIT Slow</rings>
+        <rings>MSIT Fast, MSIT Slow, Insiders</rings>
         <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.212.1029.0001/universal/OneDrive.pkg</universal_download>
         <universal_sha256>01914cab12976b398ecf8fd9db4820b18df82b27dc2a39c9ac146eb09d595e4d</universal_sha256>
         <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.212.1029.0001/OneDrive.pkg</intel_download>
         <intel_sha256>cd467cd92809fe236dd3fdf46aa6840e5ef97970dee84b1dbce0c2fc74e02964</intel_sha256>
         <download_available>true</download_available>
-        <sources>manifest:StandaloneMsitFastManifest, manifest:StandaloneMsitSlowManifest, manifest:MacODSUMsitFast</sources>
+        <sources>manifest:StandaloneMsitFastManifest, manifest:StandaloneMsitSlowManifest, manifest:MacODSUMsitFast, manifest:StandaloneInsidersManifest, manifest:MacODSUMsitSlow</sources>
     </release>
     <release>
         <build>26.210.1027.0001</build>
@@ -210,7 +210,7 @@
         <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.198.1011.0006/OneDrive.pkg</intel_download>
         <intel_sha256>b6e00b20470a8935f0d36e0d5c41c3c809a16d833bb2765998ba1745b91f971b</intel_sha256>
         <download_available>true</download_available>
-        <sources>manifest:StandaloneMsitSlowManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUMsitSlow, manifest:StandaloneProductManifest, manifest:MacODSUInsiders, release_notes</sources>
+        <sources>manifest:StandaloneMsitSlowManifest, manifest:StandaloneInsidersManifest, manifest:MacODSUMsitSlow, manifest:StandaloneProductManifest, manifest:MacODSUInsiders, release_notes, manifest:MacODSUProduction</sources>
     </release>
     <release>
         <build>26.198.1011.0005</build>

@@ -1,5 +1,5 @@
 Releases:
-  last_scan_date: November 09, 2026 04:01 AM EST
+  last_scan_date: November 09, 2026 02:36 PM EST
   total_builds: '131'
   release:
   - build: 26.216.1104.0001
@@ -53,21 +53,21 @@ Releases:
     intel_download: https://oneclient.sfx.ms/Mac/Installers/26.213.1101.0001/OneDrive.pkg
     intel_sha256: b885241b224c2cc1240de777809e2fef3a1b9515d4aca8489738a026fbd62f56
     download_available: 'true'
-    sources: manifest:StandaloneMsitFastManifest
+    sources: manifest:StandaloneMsitFastManifest, manifest:MacODSUMsitFast
   - build: 26.212.1029.0001
     version: 26.212.1029
     release_date: N/A
     deferred_release_date: N/A
     cdn_published: October 30, 2026
     first_seen: November 02, 2026
-    rings: MSIT Fast, MSIT Slow
+    rings: MSIT Fast, MSIT Slow, Insiders
     universal_download: https://oneclient.sfx.ms/Mac/Installers/26.212.1029.0001/universal/OneDrive.pkg
     universal_sha256: 01914cab12976b398ecf8fd9db4820b18df82b27dc2a39c9ac146eb09d595e4d
     intel_download: https://oneclient.sfx.ms/Mac/Installers/26.212.1029.0001/OneDrive.pkg
     intel_sha256: cd467cd92809fe236dd3fdf46aa6840e5ef97970dee84b1dbce0c2fc74e02964
     download_available: 'true'
     sources: manifest:StandaloneMsitFastManifest, manifest:StandaloneMsitSlowManifest,
-      manifest:MacODSUMsitFast
+      manifest:MacODSUMsitFast, manifest:StandaloneInsidersManifest, manifest:MacODSUMsitSlow
   - build: 26.210.1027.0001
     version: 26.210.1027
     release_date: N/A
@@ -187,7 +187,7 @@ Releases:
     download_available: 'true'
     sources: manifest:StandaloneMsitSlowManifest, manifest:StandaloneInsidersManifest,
       manifest:MacODSUMsitSlow, manifest:StandaloneProductManifest, manifest:MacODSUInsiders,
-      release_notes
+      release_notes, manifest:MacODSUProduction
   - build: 26.198.1011.0005
     version: 26.198.1011
     release_date: N/A

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 08, 2026 04:38 PM EST</last_updated>
+	<last_updated>November 09, 2026 04:00 AM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -144,11 +144,11 @@ Fixed an issue where the guest users cannot authenticate.</releaseNotes>
 		<name>iOS Microsoft Store Commerce</name>
 		<application_name>Store Commerce</application_name>
 		<bundleId>com.microsoft.storecommerce</bundleId>
-		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/80/da/5380da77-6c6c-4214-cf8c-482dd9601068/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/91/36/23913632-d3cb-463b-1da0-728ac61c080c/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>9.59.26302</version>
+		<version>9.59.26310</version>
 		<app_store_url>https://apps.apple.com/us/app/store-commerce/id1630004521?uo=4</app_store_url>
 	</package>
 	<package>
@@ -405,11 +405,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Power BI</name>
 		<application_name>Microsoft Power BI</application_name>
 		<bundleId>com.microsoft.powerbimobile</bundleId>
-		<currentVersionReleaseDate>October 25, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ea/4e/caea4e63-9dc0-18bd-6217-8cf806c7122c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 08, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/42/65/4f4265e4-e5d4-e3a7-5ead-dae8d617bd42/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>- Improved stability and fixed various bugs.​</releaseNotes>
-		<version>38.6</version>
+		<version>38.7</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4</app_store_url>
 	</package>
 	<package>
@@ -449,14 +449,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Excel</application_name>
-		<bundleId>com.microsoft.Office.Excel</bundleId>
+		<application_name>Microsoft OneDrive</application_name>
+		<bundleId>com.microsoft.skydrive</bundleId>
 		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/6c/ef/6a6cef5a-e4d7-53e0-0d64-fce44a3d6152/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
-		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.115.2</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
+		<releaseNotes>This version of OneDrive supports iOS/iPadOS versions 26 or newer</releaseNotes>
+		<version>26.1.4</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

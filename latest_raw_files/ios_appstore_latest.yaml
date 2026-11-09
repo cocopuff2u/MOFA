@@ -1,31 +1,34 @@
-last_updated: November 09, 2026 04:00 AM EST
+last_updated: November 09, 2026 02:35 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
     bundleId: com.microsoft.Office.Word
-    currentVersionReleaseDate: November 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/0d/34/c90d341a-8dfb-212e-b97f-90d48cb26233/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/b5/df/efb5df3e-39a8-e1fe-41f7-5e9f11fa1504/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.115.2
+    releaseNotes: "\u2022 iPhone Duo support: Create, edit, and review documents on\
+      \ iPhone Duo."
+    version: 2.115.3
     app_store_url: https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4
   - name: iOS Microsoft Excel
     application_name: Microsoft Excel
     bundleId: com.microsoft.Office.Excel
-    currentVersionReleaseDate: November 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/6c/ef/6a6cef5a-e4d7-53e0-0d64-fce44a3d6152/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/5a/ad/155aadef-2574-3ce0-e176-095a381922a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.115.2
+    releaseNotes: "\u2022 iPhone Duo support: View, edit, and analyze workbooks on\
+      \ iPhone Duo."
+    version: 2.115.3
     app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft PowerPoint
     application_name: Microsoft PowerPoint
     bundleId: com.microsoft.Office.Powerpoint
-    currentVersionReleaseDate: November 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/d8/06/63d806b4-5a67-8d1a-5877-bfd65942d9b4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/1f/b3/3b1fb3c8-570c-4927-0bfd-286e25ac5e82/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.115.2
+    releaseNotes: "\u2022 iPhone Duo support: Create, edit, and present slides on\
+      \ iPhone Duo."
+    version: 2.115.3
     app_store_url: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
@@ -42,15 +45,15 @@ packages:
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
     bundleId: com.microsoft.onenote
-    currentVersionReleaseDate: November 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/24/54/292454ea-070a-f7ce-dc48-ea0d6fcf2020/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/38/cd/f638cdbe-8fb7-4d0b-0959-0629cd44ffe5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
     releaseNotes: "This month\u2019s update is bug fixes only.\n\nThanks for using\
       \ OneNote! We listened to your feedback and updated the application with optimizations\
       \ to help improve your note taking experience. \n \nHaving trouble? Send feedback\
       \ in the app (OneNote->Settings->Send Feedback) \nHave an idea? Add to our feature\
       \ suggestion box at https://aka.ms/onenotefeedback"
-    version: 16.115.2
+    version: 16.115.3
     app_store_url: https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
@@ -208,14 +211,13 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: Microsoft Edge
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: November 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/9e/1f/589e1f0a-2845-8bab-5b96-7684ffbaa420/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 09, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/cc/5a/4ecc5aee-6b26-27ff-e5b8-23a9ef21476f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
-    releaseNotes: "Welcome to Microsoft Edge! Here\u2019s what\u2019s new in this\
-      \ release:\n\u2022 Sign in to Edge with an Apple Account: You can now sign in\
-      \ to Microsoft Edge with an Apple Account, in addition to a Microsoft account.\n\
-      Upgrade now to enjoy a smarter, faster, and more productive Microsoft Edge."
-    version: 156.4314.56
+    releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
+      \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
+      \ version and enjoy a smarter and more efficient Microsoft Edge!"
+    version: 157.4341.42
     app_store_url: https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI
@@ -344,11 +346,11 @@ packages:
   - name: iOS Microsoft Power BI
     application_name: Microsoft Power BI
     bundleId: com.microsoft.powerbimobile
-    currentVersionReleaseDate: November 08, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/42/65/4f4265e4-e5d4-e3a7-5ead-dae8d617bd42/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: October 25, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ea/4e/caea4e63-9dc0-18bd-6217-8cf806c7122c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "- Improved stability and fixed various bugs.\u200B"
-    version: '38.7'
+    version: '38.6'
     app_store_url: https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4
   - name: iOS Microsoft 365 Admin
     application_name: Microsoft 365 Admin
@@ -383,14 +385,14 @@ packages:
     version: 8.1.13
     app_store_url: https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft OneDrive
-    bundleId: com.microsoft.skydrive
+    application_name: Microsoft Excel
+    bundleId: com.microsoft.Office.Excel
     currentVersionReleaseDate: November 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/6c/ef/6a6cef5a-e4d7-53e0-0d64-fce44a3d6152/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: This version of OneDrive supports iOS/iPadOS versions 26 or newer
-    version: 26.1.4
-    app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
+    releaseNotes: "\u2022 General quality and performance enhancements."
+    version: 2.115.2
+    app_store_url: https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 09, 2026 02:35 PM EST</last_updated>
+	<last_updated>November 09, 2026 09:30 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -74,14 +74,14 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>Share-A-Cart</application_name>
-		<bundleId>com.shareacart.Share-A-Cart-for-Everything</bundleId>
-		<currentVersionReleaseDate>November 07, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/b4/e7/a9b4e739-736c-a6f2-f1f7-f3661a1e67c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.1</minimumOsVersion>
-		<releaseNotes>Updated for iPhone Duo.</releaseNotes>
-		<version>4.3.0</version>
-		<app_store_url>https://apps.apple.com/us/app/share-a-cart/id1537641390?uo=4</app_store_url>
+		<application_name>Xiaomi Interconnectivity</application_name>
+		<bundleId>com.xiaomi.hyperConnect</bundleId>
+		<currentVersionReleaseDate>October 29, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/09/e4/c209e495-e781-d6fb-1d2e-d4ef48a01582/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>14.0</minimumOsVersion>
+		<releaseNotes>We've improved the user experience and  fixed some known issues in this version.</releaseNotes>
+		<version>3.1.1</version>
+		<app_store_url>https://apps.apple.com/us/app/xiaomi-interconnectivity/id6673908449?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

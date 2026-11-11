@@ -1,5 +1,5 @@
 Releases:
-  last_scan_date: November 10, 2026 06:53 PM EST
+  last_scan_date: November 10, 2026 11:30 PM EST
   total_builds: '136'
   release:
   - build: 26.219.1109.0001
@@ -53,7 +53,7 @@ Releases:
     intel_download: https://oneclient.sfx.ms/Mac/Installers/26.215.1103.0001/OneDrive.pkg
     intel_sha256: 5f551fc819560d0e60fb620af1d2854f7a57137903053ebf585f90eeae5635ec
     download_available: 'true'
-    sources: manifest:StandaloneMsitFastManifest
+    sources: manifest:StandaloneMsitFastManifest, manifest:MacODSUMsitFast
   - build: 26.214.1102.0001
     version: 26.214.1102
     release_date: N/A

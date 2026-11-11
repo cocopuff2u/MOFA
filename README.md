@@ -47,7 +47,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Direct links to Microsoft's CDN. A link always downloads the newest build Microsoft offers, so the version shown is the one available at the time of the last update.</sup>
 
-<sup>🟢 Updated <code>November 11, 2026 07:23 AM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
+<sup>🟢 Updated <code>November 11, 2026 02:58 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -142,7 +142,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Microsoft tools outside the Office suite, from GitHub releases, Microsoft's CDN or Homebrew. Some are Homebrew-only; the versions below are the latest official releases.</sup>
 
-<sup>🟢 Updated <code>November 11, 2026 07:24 AM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>November 11, 2026 03:00 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -176,7 +176,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## Mac App Store
 
-<sup>🟢 Updated <code>November 11, 2026 07:23 AM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>November 11, 2026 02:59 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -200,7 +200,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## iOS App Store
 
-<sup>🟢 Updated <code>November 10, 2026 11:30 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>November 11, 2026 02:59 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -210,14 +210,14 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | Microsoft Outlook | `5.2644.0` | `com.microsoft.Office.Outlook` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/d3/13/6bd31325-8940-8adb-7293-cbe4af38072d/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Outlook" width="40"> |
 | Microsoft OneNote | `16.115.3` | `com.microsoft.onenote` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/38/cd/f638cdbe-8fb7-4d0b-0959-0629cd44ffe5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft OneNote" width="40"> |
 | Microsoft OneDrive | `26.1.4` | `com.microsoft.skydrive` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Microsoft OneDrive" width="40"> |
-| Windows App Mobile | `11.4.0` | `com.microsoft.rdc.ios` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/62/cb/ed62cb71-9586-83f5-4e98-7b68b85ab1ea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg" alt="Windows App Mobile" width="40"> |
+| Windows App Mobile | `11.4.1` | `com.microsoft.rdc.ios` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e1/bc/00e1bcea-1c76-feb4-a912-f51606720325/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg" alt="Windows App Mobile" width="40"> |
 | Microsoft Defender: Security | `1.1.82260102` | `com.microsoft.scmx` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/f2/2b/1af22b22-6285-a2cf-6fa4-e063eddc5a31/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" alt="Microsoft Defender: Security" width="40"> |
 | Microsoft Copilot | `2.115.3` | `com.microsoft.officemobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f0/80/37f08024-9e09-9b28-ad94-3ce4c29f2a95/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg" alt="Microsoft Copilot" width="40"> |
 | Microsoft Loop | `2.115` | `com.microsoft.loop` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/78/6c/fd786ccd-a7e6-a58e-319e-1504e6482db1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Loop" width="40"> |
 | Microsoft Warehouse Management | `4.2.2` | `com.microsoft.WarehouseManagement` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/cf/40/bfcf4062-36dc-52b6-15a4-b92417264093/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" alt="Microsoft Warehouse Management" width="40"> |
 | Store Commerce | `9.59.26310` | `com.microsoft.storecommerce` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/91/36/23913632-d3cb-463b-1da0-728ac61c080c/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Store Commerce" width="40"> |
 | Dynamics 365 Sales | `3.26073.4` | `com.microsoft.dynamics.iphone.moca.sales` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/78/a8/8b78a8df-fd80-ab2f-b345-3a560e50d824/Sales_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Sales" width="40"> |
-| Microsoft SharePoint | `6.1.0` | `com.microsoft.sharepoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/70/ec/c270eca4-f81b-4c50-5d5a-f04aedbc237b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" alt="Microsoft SharePoint" width="40"> |
+| Microsoft To Do | `2.177` | `com.microsoft.to-do` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft To Do" width="40"> |
 | Dynamics 365 Field Service | `13.26082.8` | `com.microsoft.dynamics.iphone.moca.fieldServices` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/99/77/53997701-6426-8816-aa39-fe75c471d492/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Field Service" width="40"> |
 | Viva Engage | `11.64.0` | `wefwef` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/85/dc/4f85dc69-ee81-9a45-74bc-d5a721648d91/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Viva Engage" width="40"> |
 | Whiteboard: just draw together | `2.8.2` | `com.jimschultz.WhiteBoard` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/1d/49/831d4918-70dc-1c9b-4a12-95d8640b7337/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg" alt="Whiteboard: just draw together" width="40"> |
@@ -227,10 +227,10 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | Microsoft Azure | `8.1.13` | `com.microsoft.azure` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/05/95/d505958f-1193-a36d-ccb0-94b1c06ec90f/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Microsoft Azure" width="40"> |
 | Microsoft To Do | `2.177` | `com.microsoft.to-do` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft To Do" width="40"> |
 | Microsoft Teams | `8.20.0` | `com.microsoft.skype.teams` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/25/a9/5b25a98e-bd5c-d624-d383-f069f891be9d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Teams" width="40"> |
-| Microsoft SharePoint | `6.1.0` | `com.microsoft.sharepoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/70/ec/c270eca4-f81b-4c50-5d5a-f04aedbc237b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" alt="Microsoft SharePoint" width="40"> |
+| Microsoft SharePoint | `6.2.0` | `com.microsoft.sharepoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/df/39/51df39b4-6ae6-cef5-788a-84b3ddd17855/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" alt="Microsoft SharePoint" width="40"> |
 | Dynamics 365 Business Central | `4.6.11041` | `com.microsoft.dynamics.ProjectMadeira` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/08/2c/8a082cfb-f1b9-1b29-d645-4420afc2ffc6/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Business Central" width="40"> |
 | Power Apps | `3.26103.23` | `com.microsoft.msapps` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/fb/53/13fb5363-3a44-cad9-5be6-f70c5f81da38/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Power Apps" width="40"> |
-| Microsoft Authenticator | `6.8.57` | `com.microsoft.azureauthenticator` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/75/48/14754808-d06b-705b-0e4c-d2bd6865d697/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft Authenticator" width="40"> |
+| Microsoft Authenticator | `6.8.58` | `com.microsoft.azureauthenticator` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/9e/2c/7b9e2cc2-0b2f-2e9b-c686-cc4da73779ed/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft Authenticator" width="40"> |
 | Google Ads | `3.42.20091557` | `com.google.AdWords` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/12/b5/2a12b535-aae2-a461-8ed1-d21524f7ae30/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" alt="Google Ads" width="40"> |
 | Lens - PDF Scanner and Editor | `1.4.4` | `com.Scantera593thzp.app` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/17/0f/da170ff3-e253-1c35-19ee-d94554d2967c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg" alt="Lens - PDF Scanner and Editor" width="40"> |
 | Work Folders | `2.2.0` | `com.microsoft.workfolders` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/46/15/ed46150c-83ff-e2bc-4caa-8b5948d65bd2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" alt="Work Folders" width="40"> |

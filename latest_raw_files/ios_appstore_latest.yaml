@@ -1,4 +1,4 @@
-last_updated: November 10, 2026 11:30 PM EST
+last_updated: November 11, 2026 02:59 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -67,22 +67,17 @@ packages:
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
     bundleId: com.microsoft.rdc.ios
-    currentVersionReleaseDate: October 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/62/cb/ed62cb71-9586-83f5-4e98-7b68b85ab1ea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 10, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e1/bc/00e1bcea-1c76-feb4-a912-f51606720325/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: "This update includes security, connection reliability, and session-switching\
-      \ improvements:\n\n\u2022 Added a confirmation dialog for RDP file-based connections,\
-      \ showing the remote PC name and shared local resources.\n\u2022 Resolved an\
-      \ issue where relaunching an active PC connection could switch to an existing\
-      \ remote app session.\n\u2022 Fixed the Connection Center active connection\
-      \ preview so it reflects and reopens the most recently visited session.\n\u2022\
-      \ Improved handling of missing or invalid saved usernames to help prevent connection\
-      \ failures.\n\u2022 Improved authentication reliability when starting multiple\
-      \ connections and refined sign-in error handling.\n\u2022 Made targeted security\
-      \ fixes for clipboard redirection, remote session watermarking, certificate\
-      \ parsing, and RDP licensing.\n\nIf you encounter any errors, you can contact\
-      \ us via Settings > Submit Feedback."
-    version: 11.4.0
+    releaseNotes: "In this release we made the following updates:\n \n\u2022 Improved\
+      \ reconnection reliability following network interruptions.\n\u2022 Resolved\
+      \ issues that could affect stability when disconnecting and closing remote sessions.\n\
+      \u2022 Improved connection error reporting when reconnection attempts time out.\n\
+      \ \nIn addition, we've also made updates to strengthen security, performance\
+      \ and reliability, and to lay the groundwork for upcoming features.\n \nIf you\
+      \ encounter any errors, you can contact us via Settings > Submit Feedback."
+    version: 11.4.1
     app_store_url: https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
@@ -143,22 +138,14 @@ packages:
     version: 3.26073.4
     app_store_url: https://apps.apple.com/us/app/dynamics-365-sales/id1485578688?uo=4
   - name: iOS Microsoft Lists
-    application_name: Microsoft SharePoint
-    bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: October 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/70/ec/c270eca4-f81b-4c50-5d5a-f04aedbc237b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '18.6'
-    releaseNotes: "\u2022 Updated the app\u2019s interface and navigation to align\
-      \ with SharePoint Discover on the web.\n\u2022 Added Overview, Sites, People,\
-      \ News, Recent, and Favorites tabs.\n\u2022 Overview brings together relevant\
-      \ content, recent items, favorite items, site activity, and updates from coworkers.\n\
-      \u2022 Added in-app previews for Word, Excel, PowerPoint, PDFs, images, and\
-      \ videos.\n\u2022 Updated the search interface for finding content across SharePoint\
-      \ and within sites.\n\u2022 Updated the News view with unread and source filters.\n\
-      \u2022 Replaced Save for Later with Favorites for saving news and pages.\n\u2022\
-      \ Added dark mode support."
-    version: 6.1.0
-    app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
+    application_name: Microsoft To Do
+    bundleId: com.microsoft.to-do
+    currentVersionReleaseDate: July 06, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    minimumOsVersion: '17.6'
+    releaseNotes: We fixed some bugs to improve the app experience.
+    version: '2.177'
+    app_store_url: https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
@@ -272,8 +259,8 @@ packages:
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: October 29, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/70/ec/c270eca4-f81b-4c50-5d5a-f04aedbc237b/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/df/39/51df39b4-6ae6-cef5-788a-84b3ddd17855/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.6'
     releaseNotes: "\u2022 Updated the app\u2019s interface and navigation to align\
       \ with SharePoint Discover on the web.\n\u2022 Added Overview, Sites, People,\
@@ -284,7 +271,7 @@ packages:
       \ and within sites.\n\u2022 Updated the News view with unread and source filters.\n\
       \u2022 Replaced Save for Later with Favorites for saving news and pages.\n\u2022\
       \ Added dark mode support."
-    version: 6.1.0
+    version: 6.2.0
     app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Business Central
     application_name: Dynamics 365 Business Central
@@ -307,13 +294,13 @@ packages:
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
     bundleId: com.microsoft.azureauthenticator
-    currentVersionReleaseDate: October 20, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/75/48/14754808-d06b-705b-0e4c-d2bd6865d697/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
+    currentVersionReleaseDate: November 11, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/9e/2c/7b9e2cc2-0b2f-2e9b-c686-cc4da73779ed/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: We're always working on new features, bug fixes, and performance
       improvements. Make sure you stay updated with the latest version for the best
       authentication experience.
-    version: 6.8.57
+    version: 6.8.58
     app_store_url: https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4
   - name: iOS Microsoft Advertising
     application_name: Google Ads

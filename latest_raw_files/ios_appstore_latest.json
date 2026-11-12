@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 12, 2026 12:53 PM EST",
+    "last_updated": "November 12, 2026 06:09 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -302,11 +302,11 @@
             "name": "iOS Microsoft Advertising",
             "application_name": "Google Ads",
             "bundleId": "com.google.AdWords",
-            "currentVersionReleaseDate": "November 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/40/88/e4408809-9a47-bec4-9087-0bd49d8dca94/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "October 30, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/12/b5/2a12b535-aae2-a461-8ed1-d21524f7ae30/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "16.0",
             "releaseNotes": "We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.",
-            "version": "3.43.20092307",
+            "version": "3.42.20091557",
             "app_store_url": "https://apps.apple.com/us/app/google-ads/id1037457231?uo=4"
         },
         {

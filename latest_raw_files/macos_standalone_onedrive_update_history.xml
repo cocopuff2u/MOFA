@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>November 11, 2026 08:47 PM EST</last_scan_date>
-    <total_builds>138</total_builds>
+    <last_scan_date>November 12, 2026 04:12 AM EST</last_scan_date>
+    <total_builds>139</total_builds>
     <release>
         <build>26.219.1109.0001</build>
         <version>26.219.1109</version>
@@ -196,6 +196,21 @@
         <intel_sha256>5bc16965a77443686ed1772293890b9aac224e96d2a4eae386eb07066a82ab02</intel_sha256>
         <download_available>true</download_available>
         <sources>manifest:StandaloneMsitFastManifest, manifest:MacODSUMsitFast</sources>
+    </release>
+    <release>
+        <build>26.204.1019.0007</build>
+        <version>26.204.1019</version>
+        <release_date>N/A</release_date>
+        <deferred_release_date>N/A</deferred_release_date>
+        <cdn_published>November 12, 2026</cdn_published>
+        <first_seen>November 12, 2026</first_seen>
+        <rings>Production</rings>
+        <universal_download>https://oneclient.sfx.ms/Mac/Installers/26.204.1019.0007/universal/OneDrive.pkg</universal_download>
+        <universal_sha256>c5eca3ff8806e5a27ed15ba055ddfdd4a3f00dfde91e8a570a1e1b423c14e940</universal_sha256>
+        <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.204.1019.0007/OneDrive.pkg</intel_download>
+        <intel_sha256>18b42ce0076a83b297c5e39834eb44ef014465c10c8d4ed3c2e5e0c2e9a32d48</intel_sha256>
+        <download_available>true</download_available>
+        <sources>manifest:StandaloneProductManifest</sources>
     </release>
     <release>
         <build>26.204.1019.0006</build>

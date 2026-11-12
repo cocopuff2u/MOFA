@@ -47,7 +47,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Direct links to Microsoft's CDN. A link always downloads the newest build Microsoft offers, so the version shown is the one available at the time of the last update.</sup>
 
-<sup>🟢 Updated <code>November 12, 2026 04:11 AM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
+<sup>🟢 Updated <code>November 12, 2026 12:52 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_standalone_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_standalone_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 1 hour</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -142,7 +142,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 <sup>Microsoft tools outside the Office suite, from GitHub releases, Microsoft's CDN or Homebrew. Some are Homebrew-only; the versions below are the latest official releases.</sup>
 
-<sup>🟢 Updated <code>November 12, 2026 04:12 AM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>November 12, 2026 12:54 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_other_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_other_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_other_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Product Package** | **Bundle Information** | **Download** |
 |----------------------|----------------------|--------------|
@@ -152,7 +152,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | **.NET SDK 9 (STS)**<br><br>_**Last Update:** `November 10, 2026`_<br> | **Version:**<br>`9.0.321` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.321/dotnet-sdk-9.0.321-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
 | **.NET SDK 8 (LTS)**<br><br>_**Last Update:** `November 10, 2026`_<br> | **Version:**<br>`8.0.428` | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.428/dotnet-sdk-8.0.428-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> |
 | **Azure Functions Core Tools**<br><br>_**Last Update:** `October 12, 2026`_<br> | **Version:**<br>`4.16.0` | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.0/Azure.Functions.Cli.osx-arm64.4.16.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
-| **Azure Developer CLI (azd)**<br><br>_**Last Update:** `November 05, 2026`_<br> | **Version:**<br>`1.37.3` | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.3/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
+| **Azure Developer CLI (azd)**<br><br>_**Last Update:** `November 12, 2026`_<br> | **Version:**<br>`1.1.0` | <a href="https://github.com/Azure/azure-dev/releases/download/azd-ext-azure-ai-agents_1.1.0/azure-ai-agents-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **AzCopy**<br><br>_**Last Update:** `October 22, 2026`_<br> | **Version:**<br>`10.34.1` | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.1/azcopy_darwin_arm64_10.34.1.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> |
 | **Bicep CLI**<br><br>_**Last Update:** `November 06, 2026`_<br> | **Version:**<br>`0.49.2` | <a href="https://github.com/Azure/bicep/releases/download/v0.49.2/bicep-osx-arm64"><img src=".github/images/bicep.png" alt="Download Image" width="80"></a> |
 | **Azure CLI**<br><br>_**Last Update:** `September 01, 2026`_<br> | **Version:**<br>`2.90.0` | <img src=".github/images/azure.png" alt="Azure CLI" width="80"><br>`brew install azure-cli` |
@@ -168,7 +168,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | **.NET SDK 9 (STS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.321/dotnet-sdk-9.0.321-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `3deea6ed3ea001fbd279783297cbdbf6c43c3ded3f5da61c7e44c8951fd4e2b0` |
 | **.NET SDK 8 (LTS)** | <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.428/dotnet-sdk-8.0.428-osx-arm64.pkg"><img src=".github/images/dotnet.png" alt="Download Image" width="80"></a> | `a6a302b95ef39c6ea753df6514195b604d7d8ecd5b99f955295dd8a35f05dbbd` |
 | **Azure Functions Core Tools** | <a href="https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.0/Azure.Functions.Cli.osx-arm64.4.16.0.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `5698d54038fd0507a614af53e8bd3f91c89f96e60ae081c113373b3d2af375f3` |
-| **Azure Developer CLI (azd)** | <a href="https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.3/azd-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `2ac43e590f6238cd80cc1215a55567a8b51de921f9d17806ca3ae7ce07e26cee` |
+| **Azure Developer CLI (azd)** | <a href="https://github.com/Azure/azure-dev/releases/download/azd-ext-azure-ai-agents_1.1.0/azure-ai-agents-darwin-arm64.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `6bf09ea5cf4c2bfa63c0e8c5d0b14eae8e07616b07adf2a45013032587586ebd` |
 | **AzCopy** | <a href="https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.1/azcopy_darwin_arm64_10.34.1.zip"><img src=".github/images/azure.png" alt="Download Image" width="80"></a> | `44f5e72f663215f838c6ccedf6da9f0fbc9ee7215610bf88b92b1bfa931e5524` |
 | **Bicep CLI** | <a href="https://github.com/Azure/bicep/releases/download/v0.49.2/bicep-osx-arm64"><img src=".github/images/bicep.png" alt="Download Image" width="80"></a> | `8ae74a6cf9cbba0cb220c40cf0e955f98d59df950afab07c21b7bcb78c9c5d68` |
 
@@ -176,7 +176,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## Mac App Store
 
-<sup>🟢 Updated <code>November 12, 2026 04:11 AM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>November 12, 2026 12:52 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/macos_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/macos_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -200,7 +200,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 
 ## iOS App Store
 
-<sup>🟢 Updated <code>November 12, 2026 04:11 AM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
+<sup>🟢 Updated <code>November 12, 2026 12:53 PM EST</code>&nbsp;&nbsp;·&nbsp;&nbsp;Raw feed: <a href="latest_raw_files/ios_appstore_latest.xml"><kbd>XML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.yaml"><kbd>YAML</kbd></a> <a href="latest_raw_files/ios_appstore_latest.json"><kbd>JSON</kbd></a>&nbsp;&nbsp;·&nbsp;&nbsp;refreshed every 4 hours</sup>
 
 | **Application Name** | **Version** | **Bundle ID** | **Icon** |
 |----------------------|-------------|---------------|----------|
@@ -217,7 +217,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | Microsoft Warehouse Management | `4.2.2` | `com.microsoft.WarehouseManagement` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/cf/40/bfcf4062-36dc-52b6-15a4-b92417264093/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" alt="Microsoft Warehouse Management" width="40"> |
 | Store Commerce | `9.59.26310` | `com.microsoft.storecommerce` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/91/36/23913632-d3cb-463b-1da0-728ac61c080c/appicon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Store Commerce" width="40"> |
 | Dynamics 365 Sales | `3.26073.4` | `com.microsoft.dynamics.iphone.moca.sales` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/78/a8/8b78a8df-fd80-ab2f-b345-3a560e50d824/Sales_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Sales" width="40"> |
-| Microsoft To Do | `2.177` | `com.microsoft.to-do` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft To Do" width="40"> |
+| Microsoft SharePoint | `6.2.0` | `com.microsoft.sharepoint` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/df/39/51df39b4-6ae6-cef5-788a-84b3ddd17855/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" alt="Microsoft SharePoint" width="40"> |
 | Dynamics 365 Field Service | `13.26082.8` | `com.microsoft.dynamics.iphone.moca.fieldServices` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/99/77/53997701-6426-8816-aa39-fe75c471d492/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Field Service" width="40"> |
 | Viva Engage | `11.64.0` | `wefwef` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/85/dc/4f85dc69-ee81-9a45-74bc-d5a721648d91/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg" alt="Viva Engage" width="40"> |
 | Whiteboard: just draw together | `2.8.2` | `com.jimschultz.WhiteBoard` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/1d/49/831d4918-70dc-1c9b-4a12-95d8640b7337/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg" alt="Whiteboard: just draw together" width="40"> |
@@ -231,7 +231,7 @@ Machine-readable copies of everything on this page live in [`latest_raw_files/`]
 | Dynamics 365 Business Central | `4.6.11041` | `com.microsoft.dynamics.ProjectMadeira` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/08/2c/8a082cfb-f1b9-1b29-d645-4420afc2ffc6/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg" alt="Dynamics 365 Business Central" width="40"> |
 | Power Apps | `3.26103.23` | `com.microsoft.msapps` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/fb/53/13fb5363-3a44-cad9-5be6-f70c5f81da38/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" alt="Power Apps" width="40"> |
 | Microsoft Authenticator | `6.8.58` | `com.microsoft.azureauthenticator` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/9e/2c/7b9e2cc2-0b2f-2e9b-c686-cc4da73779ed/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg" alt="Microsoft Authenticator" width="40"> |
-| Google Ads | `3.42.20091557` | `com.google.AdWords` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/12/b5/2a12b535-aae2-a461-8ed1-d21524f7ae30/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" alt="Google Ads" width="40"> |
+| Google Ads | `3.43.20092307` | `com.google.AdWords` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/40/88/e4408809-9a47-bec4-9087-0bd49d8dca94/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" alt="Google Ads" width="40"> |
 | Lens - PDF Scanner and Editor | `1.4.4` | `com.Scantera593thzp.app` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/17/0f/da170ff3-e253-1c35-19ee-d94554d2967c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg" alt="Lens - PDF Scanner and Editor" width="40"> |
 | Work Folders | `2.2.0` | `com.microsoft.workfolders` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/46/15/ed46150c-83ff-e2bc-4caa-8b5948d65bd2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" alt="Work Folders" width="40"> |
 | Microsoft Power BI | `38.7` | `com.microsoft.powerbimobile` | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/42/65/4f4265e4-e5d4-e3a7-5ead-dae8d617bd42/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg" alt="Microsoft Power BI" width="40"> |

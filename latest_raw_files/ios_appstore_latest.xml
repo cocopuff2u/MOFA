@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 12, 2026 04:11 AM EST</last_updated>
+	<last_updated>November 12, 2026 12:53 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -163,14 +163,21 @@ Fixed an issue where the guest users cannot authenticate.</releaseNotes>
 	</package>
 	<package>
 		<name>iOS Microsoft Lists</name>
-		<application_name>Microsoft To Do</application_name>
-		<bundleId>com.microsoft.to-do</bundleId>
-		<currentVersionReleaseDate>July 06, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.6</minimumOsVersion>
-		<releaseNotes>We fixed some bugs to improve the app experience.</releaseNotes>
-		<version>2.177</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4</app_store_url>
+		<application_name>Microsoft SharePoint</application_name>
+		<bundleId>com.microsoft.sharepoint</bundleId>
+		<currentVersionReleaseDate>November 11, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/df/39/51df39b4-6ae6-cef5-788a-84b3ddd17855/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>18.6</minimumOsVersion>
+		<releaseNotes>• Updated the app’s interface and navigation to align with SharePoint Discover on the web.
+• Added Overview, Sites, People, News, Recent, and Favorites tabs.
+• Overview brings together relevant content, recent items, favorite items, site activity, and updates from coworkers.
+• Added in-app previews for Word, Excel, PowerPoint, PDFs, images, and videos.
+• Updated the search interface for finding content across SharePoint and within sites.
+• Updated the News view with unread and source filters.
+• Replaced Save for Later with Favorites for saving news and pages.
+• Added dark mode support.</releaseNotes>
+		<version>6.2.0</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>
@@ -364,11 +371,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Advertising</name>
 		<application_name>Google Ads</application_name>
 		<bundleId>com.google.AdWords</bundleId>
-		<currentVersionReleaseDate>October 30, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/12/b5/2a12b535-aae2-a461-8ed1-d21524f7ae30/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 12, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/40/88/e4408809-9a47-bec4-9087-0bd49d8dca94/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>16.0</minimumOsVersion>
 		<releaseNotes>We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.</releaseNotes>
-		<version>3.42.20091557</version>
+		<version>3.43.20092307</version>
 		<app_store_url>https://apps.apple.com/us/app/google-ads/id1037457231?uo=4</app_store_url>
 	</package>
 	<package>

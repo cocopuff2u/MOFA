@@ -1,7 +1,7 @@
 {
   "Releases": {
-    "last_scan_date": "November 12, 2026 12:53 PM EST",
-    "total_builds": "139",
+    "last_scan_date": "November 12, 2026 06:09 PM EST",
+    "total_builds": "141",
     "release": [
       {
         "build": "26.219.1109.0001",
@@ -79,6 +79,21 @@
         "sources": "manifest:StandaloneMsitFastManifest, manifest:MacODSUMsitFast"
       },
       {
+        "build": "26.213.1101.0007",
+        "version": "26.213.1101",
+        "release_date": "N/A",
+        "deferred_release_date": "N/A",
+        "cdn_published": "November 12, 2026",
+        "first_seen": "November 12, 2026",
+        "rings": "MSIT Slow",
+        "universal_download": "https://oneclient.sfx.ms/Mac/Installers/26.213.1101.0007/universal/OneDrive.pkg",
+        "universal_sha256": "6bde11dc4d81fa8e198c30c35903d6037b6d3498f9a46b5862d81a19a3ad15ad",
+        "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.213.1101.0007/OneDrive.pkg",
+        "intel_sha256": "9d6ebe43c091f29d38099c33a88909b630b053921f690fe0e187940622a96361",
+        "download_available": "true",
+        "sources": "manifest:StandaloneMsitSlowManifest"
+      },
+      {
         "build": "26.213.1101.0006",
         "version": "26.213.1101",
         "release_date": "N/A",
@@ -122,6 +137,21 @@
         "intel_sha256": "b885241b224c2cc1240de777809e2fef3a1b9515d4aca8489738a026fbd62f56",
         "download_available": "true",
         "sources": "manifest:StandaloneMsitFastManifest, manifest:MacODSUMsitFast"
+      },
+      {
+        "build": "26.212.1029.0006",
+        "version": "26.212.1029",
+        "release_date": "N/A",
+        "deferred_release_date": "N/A",
+        "cdn_published": "November 12, 2026",
+        "first_seen": "November 12, 2026",
+        "rings": "Insiders",
+        "universal_download": "https://oneclient.sfx.ms/Mac/Installers/26.212.1029.0006/universal/OneDrive.pkg",
+        "universal_sha256": "678c576c9c3e9a5237867542867fbeadcc7b8af0067fbdfc47ebf0dda3a3c5df",
+        "intel_download": "https://oneclient.sfx.ms/Mac/Installers/26.212.1029.0006/OneDrive.pkg",
+        "intel_sha256": "986bec744b32f962e0b44180995657d23cc0e41e46025bcfcce3f253730b48fe",
+        "download_available": "true",
+        "sources": "manifest:StandaloneInsidersManifest"
       },
       {
         "build": "26.212.1029.0005",

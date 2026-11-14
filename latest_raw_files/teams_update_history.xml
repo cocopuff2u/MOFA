@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>November 13, 2026 03:16 PM EST</last_scan_date>
+    <last_scan_date>November 13, 2026 08:14 PM EST</last_scan_date>
     <platform id="mac" name="New Teams for Mac" cloud="Public">
         <release>
             <date>November 05, 2026</date>
@@ -1673,10 +1673,10 @@
     </platform>
     <platform id="mac_gcc" name="New Teams for Mac (GCC)" cloud="Government">
         <release>
-            <date>November 06, 2026</date>
+            <date>November 10, 2026</date>
             <version>26289.204.5281.6363</version>
             <slimcore_version>2026.40.0-1.8-hd607e</slimcore_version>
-            <rolling_out>true</rolling_out>
+            <rolling_out>false</rolling_out>
             <installer_download>https://statics.teams.cdn.office.net/production-osx/26289.204.5281.6363/MicrosoftTeams.pkg</installer_download>
             <archive>false</archive>
         </release>
@@ -2171,10 +2171,10 @@
     </platform>
     <platform id="mac_gcch" name="New Teams for Mac (GCCH)" cloud="Government">
         <release>
-            <date>November 06, 2026</date>
+            <date>November 10, 2026</date>
             <version>26289.204.5281.6363</version>
             <slimcore_version>2026.40.0-1.8-hd607e</slimcore_version>
-            <rolling_out>true</rolling_out>
+            <rolling_out>false</rolling_out>
             <installer_download>https://statics.teams.cdn.office.net/production-osx/26289.204.5281.6363/MicrosoftTeams.pkg</installer_download>
             <archive>false</archive>
         </release>
@@ -2717,10 +2717,10 @@
     </platform>
     <platform id="mac_dod" name="New Teams for Mac (DoD)" cloud="Government">
         <release>
-            <date>November 06, 2026</date>
+            <date>November 10, 2026</date>
             <version>26289.204.5281.6363</version>
             <slimcore_version>2026.40.0-1.8-hd607e</slimcore_version>
-            <rolling_out>true</rolling_out>
+            <rolling_out>false</rolling_out>
             <installer_download>https://statics.teams.cdn.office.net/production-osx/26289.204.5281.6363/MicrosoftTeams.pkg</installer_download>
             <archive>false</archive>
         </release>

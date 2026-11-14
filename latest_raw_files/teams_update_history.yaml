@@ -1,4 +1,4 @@
-last_scan_date: November 13, 2026 03:16 PM EST
+last_scan_date: November 13, 2026 08:14 PM EST
 mac:
   name: New Teams for Mac
   cloud: Public
@@ -1187,10 +1187,10 @@ mac_gcc:
   name: New Teams for Mac (GCC)
   cloud: Government
   releases:
-  - date: November 06, 2026
+  - date: November 10, 2026
     version: 26289.204.5281.6363
     slimcore_version: 2026.40.0-1.8-hd607e
-    rolling_out: 'true'
+    rolling_out: 'false'
     installer_download: https://statics.teams.cdn.office.net/production-osx/26289.204.5281.6363/MicrosoftTeams.pkg
     archive: 'false'
   - date: October 27, 2026
@@ -1563,10 +1563,10 @@ mac_gcch:
   name: New Teams for Mac (GCCH)
   cloud: Government
   releases:
-  - date: November 06, 2026
+  - date: November 10, 2026
     version: 26289.204.5281.6363
     slimcore_version: 2026.40.0-1.8-hd607e
-    rolling_out: 'true'
+    rolling_out: 'false'
     installer_download: https://statics.teams.cdn.office.net/production-osx/26289.204.5281.6363/MicrosoftTeams.pkg
     archive: 'false'
   - date: October 27, 2026
@@ -1975,10 +1975,10 @@ mac_dod:
   name: New Teams for Mac (DoD)
   cloud: Government
   releases:
-  - date: November 06, 2026
+  - date: November 10, 2026
     version: 26289.204.5281.6363
     slimcore_version: 2026.40.0-1.8-hd607e
-    rolling_out: 'true'
+    rolling_out: 'false'
     installer_download: https://statics.teams.cdn.office.net/production-osx/26289.204.5281.6363/MicrosoftTeams.pkg
     archive: 'false'
   - date: October 27, 2026

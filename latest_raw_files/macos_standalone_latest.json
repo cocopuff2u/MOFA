@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 13, 2026 03:16 PM EST",
+    "last_updated": "November 13, 2026 08:13 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -262,16 +262,16 @@
             "application_id": "mscopilot-stable",
             "application_name": "Copilot.app",
             "CFBundleVersion": "com.microsoft.m365copilot",
-            "short_version": "157.0.4341.41",
-            "full_version": "157.0.4341.41",
-            "last_updated": "November 07, 2026",
+            "short_version": "157.0.4341.55",
+            "full_version": "157.0.4341.55",
+            "last_updated": "November 14, 2026",
             "min_os": "13.0",
-            "app_only_update_download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a59ff1b-b81b-4296-8643-72ac93190eaf/Copilot-157.0.4341.41.pkg",
-            "app_update_sha1": "09ea4e86511a831f1fdc81a9d9476a0110b2f46f",
-            "app_update_sha256": "d2eef0283791badd3f67684d1b70e4c4a18e6a9fc63570cc9e11d773ef2ed6a6",
+            "app_only_update_download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c1457dea-68df-4466-8766-add66540cab6/Copilot-157.0.4341.55.pkg",
+            "app_update_sha1": "6083448e3fcfb06cdfb3f6b2b031686f4b3f4275",
+            "app_update_sha256": "d917cd8f3dc9cbd644744ae69d856c2e89f89333247b042b690477c2e5492349",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2325114",
-            "full_update_sha1": "09ea4e86511a831f1fdc81a9d9476a0110b2f46f",
-            "full_update_sha256": "d2eef0283791badd3f67684d1b70e4c4a18e6a9fc63570cc9e11d773ef2ed6a6"
+            "full_update_sha1": "6083448e3fcfb06cdfb3f6b2b031686f4b3f4275",
+            "full_update_sha256": "d917cd8f3dc9cbd644744ae69d856c2e89f89333247b042b690477c2e5492349"
         },
         {
             "name": "MAU",

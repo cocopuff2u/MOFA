@@ -1,4 +1,4 @@
-last_updated: November 13, 2026 03:17 PM EST
+last_updated: November 13, 2026 08:17 PM EST
 packages:
 - name: PowerShell
   application_id: N/A
@@ -76,14 +76,14 @@ packages:
   application_id: N/A
   application_name: Azure Functions Core Tools
   CFBundleVersion: N/A
-  short_version: 4.16.0
-  full_version: 4.16.0
-  last_updated: October 12, 2026
+  short_version: 4.16.1
+  full_version: 4.16.1
+  last_updated: November 13, 2026
   min_os: N/A
-  update_download: https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.0/Azure.Functions.Cli.osx-arm64.4.16.0.zip
-  latest_download: https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.0/Azure.Functions.Cli.osx-arm64.4.16.0.zip
-  sha1: b318667bfb4cba1e1a262b01280b0f5ccd68b909
-  sha256: 5698d54038fd0507a614af53e8bd3f91c89f96e60ae081c113373b3d2af375f3
+  update_download: https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.osx-arm64.4.16.1.zip
+  latest_download: https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.osx-arm64.4.16.1.zip
+  sha1: c4871d2139f4c5f9aac95f51b80f5898294b0efa
+  sha256: cf50e58a04991ba3729a5e9fc875632aedf3b80de6cd204ea72ea9dc714f52fd
 - name: Azure Developer CLI (azd)
   application_id: N/A
   application_name: Azure Developer CLI (azd)
@@ -100,14 +100,14 @@ packages:
   application_id: N/A
   application_name: AzCopy
   CFBundleVersion: N/A
-  short_version: 10.34.1
-  full_version: 10.34.1
-  last_updated: October 22, 2026
+  short_version: 10.34.2
+  full_version: 10.34.2
+  last_updated: November 14, 2026
   min_os: N/A
-  update_download: https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.1/azcopy_darwin_arm64_10.34.1.zip
-  latest_download: https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.1/azcopy_darwin_arm64_10.34.1.zip
-  sha1: 98dd4a5f793f63b4f9b8d50c1d0a29bac5b01803
-  sha256: 44f5e72f663215f838c6ccedf6da9f0fbc9ee7215610bf88b92b1bfa931e5524
+  update_download: https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.2/azcopy_darwin_arm64_10.34.2.zip
+  latest_download: https://github.com/Azure/azure-storage-azcopy/releases/download/v10.34.2/azcopy_darwin_arm64_10.34.2.zip
+  sha1: f7257a7929ffd8ee2c336834597def114306513e
+  sha256: f00e3e51ac85ea260f7f1765904acdeff7e9ce0d14495fe619389ef697b69ae8
 - name: Bicep CLI
   application_id: N/A
   application_name: Bicep CLI

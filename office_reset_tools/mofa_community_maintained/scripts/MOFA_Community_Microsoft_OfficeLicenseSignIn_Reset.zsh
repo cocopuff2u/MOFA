@@ -30,6 +30,10 @@
 #          - All $HOME/... paths converted from backslash-escaped to double-quoted
 #          - All system paths with spaces double-quoted
 #          - All [ ] / = "" / != "" → [[ ]] / -z / -n throughout
+# 1.2.0 - Removed `security list-keychains -s`, which overwrote root's keychain
+#          search list and broke Jamf on macOS 27 (Device Signature Error / -25293).
+#          Every security find/delete call now passes the user's login keychain
+#          path explicitly instead.
 # ============================================================
 
 
@@ -55,12 +59,12 @@ SetHomeFolder() {
 # Generic keychain find helpers — return exit code directly so while loops
 # can use them as conditions without a subshell or echo $? wrapper.
 FindKeychainEntry() { # $1: flag (-G / -l / -s), $2: value
-	/usr/bin/security find-generic-password "$1" "$2" 2>/dev/null 1>/dev/null
+	/usr/bin/security find-generic-password "$1" "$2" "$UserKeychain" 2>/dev/null 1>/dev/null
 }
 
 FindKeychainEntryAsUser() { # $1: flag (-G / -l / -s), $2: value
 	/usr/bin/sudo -u "$LoggedInUser" \
-		/usr/bin/security find-generic-password "$1" "$2" 2>/dev/null 1>/dev/null
+		/usr/bin/security find-generic-password "$1" "$2" "$UserKeychain" 2>/dev/null 1>/dev/null
 }
 
 ## Main
@@ -78,77 +82,79 @@ echo "Office-Reset: Quitting all apps gracefully"
 /usr/bin/pkill -HUP "Microsoft OneNote"    2>/dev/null || true
 sleep 2
 
-KeychainHasLogin=$(/usr/bin/security list-keychains | grep 'login.keychain')
-if [[ -z "$KeychainHasLogin" ]]; then
-	echo "Office-Reset: Adding user login keychain to list"
-	/usr/bin/security list-keychains -s "${HOME}/Library/Keychains/login.keychain-db"
+# Target the user's login keychain explicitly on every security command.
+# Do NOT use `security list-keychains -s` here: when run as root it replaces
+# root's keychain search list, which drops the System and JAMF keychains and
+# breaks the jamf binary ("Device Signature Error", -25293) on macOS 27.
+UserKeychain="${HOME}/Library/Keychains/login.keychain-db"
+if [[ -f "$UserKeychain" ]]; then
+	echo "Office-Reset: Using user login keychain: $UserKeychain"
+else
+	echo "Office-Reset: WARNING - user login keychain not found at $UserKeychain"
 fi
-
-echo "Office-Reset: Listing keychains for logged-in user"
-/usr/bin/security list-keychains
 
 echo "Office-Reset: Removing keychain entries"
 
 # Single-entry deletions — suppress "not found" errors with 2>/dev/null || true
-/usr/bin/security delete-generic-password  -s 'OneAuthAccount'                               2>/dev/null || true
-/usr/bin/security delete-internet-password -s 'msoCredentialSchemeADAL'                      2>/dev/null || true
-/usr/bin/security delete-internet-password -s 'msoCredentialSchemeLiveId'                    2>/dev/null || true
+/usr/bin/security delete-generic-password  -s 'OneAuthAccount' "$UserKeychain"                               2>/dev/null || true
+/usr/bin/security delete-internet-password -s 'msoCredentialSchemeADAL' "$UserKeychain"                      2>/dev/null || true
+/usr/bin/security delete-internet-password -s 'msoCredentialSchemeLiveId' "$UserKeychain"                    2>/dev/null || true
 
 # Multi-entry loops — security deletes one at a time; loop until none remain.
 # || break exits the loop if deletion fails for a reason other than "not found".
 while FindKeychainEntry -G 'MSOpenTech.ADAL.1'; do
-	/usr/bin/security delete-generic-password -G 'MSOpenTech.ADAL.1' 2>/dev/null || break
+	/usr/bin/security delete-generic-password -G 'MSOpenTech.ADAL.1' "$UserKeychain" 2>/dev/null || break
 done
 
-/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Cache 2'          2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Cache 3'          2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Settings 2'       2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Settings 3'       2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'Microsoft Office Ticket Cache'                2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'Microsoft Office Ticket Cache 2'              2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'com.microsoft.adalcache'                      2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Cache 2' "$UserKeychain"          2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Cache 3' "$UserKeychain"          2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Settings 2' "$UserKeychain"       2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'Microsoft Office Identities Settings 3' "$UserKeychain"       2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'Microsoft Office Ticket Cache' "$UserKeychain"                2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'Microsoft Office Ticket Cache 2' "$UserKeychain"              2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'com.microsoft.adalcache' "$UserKeychain"                      2>/dev/null || true
 
 while FindKeychainEntry -G 'Microsoft Office Data'; do
-	/usr/bin/security delete-generic-password -G 'Microsoft Office Data' 2>/dev/null || break
+	/usr/bin/security delete-generic-password -G 'Microsoft Office Data' "$UserKeychain" 2>/dev/null || break
 done
 
-/usr/bin/security delete-generic-password -l 'com.microsoft.OutlookCore.Secret'             2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'com.microsoft.OutlookCore.Secret' "$UserKeychain"             2>/dev/null || true
 
 while FindKeychainEntry -l 'com.helpshift.data_com.microsoft.Outlook'; do
-	/usr/bin/security delete-generic-password -l 'com.helpshift.data_com.microsoft.Outlook' 2>/dev/null || break
+	/usr/bin/security delete-generic-password -l 'com.helpshift.data_com.microsoft.Outlook' "$UserKeychain" 2>/dev/null || break
 done
 while FindKeychainEntry -l 'MicrosoftOfficeRMSCredential'; do
-	/usr/bin/security delete-generic-password -l 'MicrosoftOfficeRMSCredential' 2>/dev/null || break
+	/usr/bin/security delete-generic-password -l 'MicrosoftOfficeRMSCredential' "$UserKeychain" 2>/dev/null || break
 done
 while FindKeychainEntry -l 'MSProtection.framework.service'; do
-	/usr/bin/security delete-generic-password -l 'MSProtection.framework.service' 2>/dev/null || break
+	/usr/bin/security delete-generic-password -l 'MSProtection.framework.service' "$UserKeychain" 2>/dev/null || break
 done
 while FindKeychainEntry -l 'Exchange'; do
-	/usr/bin/security delete-generic-password -l 'Exchange' 2>/dev/null || break
+	/usr/bin/security delete-generic-password -l 'Exchange' "$UserKeychain" 2>/dev/null || break
 done
 
 # Teams keychain entries live in the user's login keychain — must run as LoggedInUser.
 while FindKeychainEntryAsUser -l 'Microsoft Teams Identities Cache'; do
 	/usr/bin/sudo -u "$LoggedInUser" \
-		/usr/bin/security delete-generic-password -l 'Microsoft Teams Identities Cache' 2>/dev/null || break
+		/usr/bin/security delete-generic-password -l 'Microsoft Teams Identities Cache' "$UserKeychain" 2>/dev/null || break
 done
-/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'Teams Safe Storage'                           2>/dev/null || true
-/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'Microsoft Teams (work or school) Safe Storage' 2>/dev/null || true
-/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'teamsIv'                                       2>/dev/null || true
-/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'teamsKey'                                      2>/dev/null || true
-/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'com.microsoft.teams.HockeySDK'                 2>/dev/null || true
-/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK'          2>/dev/null || true
+/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'Teams Safe Storage' "$UserKeychain"                           2>/dev/null || true
+/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'Microsoft Teams (work or school) Safe Storage' "$UserKeychain" 2>/dev/null || true
+/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'teamsIv' "$UserKeychain"                                       2>/dev/null || true
+/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'teamsKey' "$UserKeychain"                                      2>/dev/null || true
+/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'com.microsoft.teams.HockeySDK' "$UserKeychain"                 2>/dev/null || true
+/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK' "$UserKeychain"          2>/dev/null || true
 
 # OneDrive keychain entries
-/usr/bin/security delete-generic-password  -l 'com.microsoft.OneDrive.FinderSync.HockeySDK'           2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'com.microsoft.OneDrive.HockeySDK'                      2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'com.microsoft.OneDriveUpdater.HockeySDK'               2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'com.microsoft.OneDriveStandaloneUpdater.HockeySDK'     2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'OneDrive Standalone Cached Credential Business - Business1' 2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'OneDrive Standalone Cached Credential'                 2>/dev/null || true
-/usr/bin/security delete-generic-password  -s 'com.microsoft.onedrive.cookies'                        2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'com.microsoft.OneDrive.FinderSync.HockeySDK' "$UserKeychain"           2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'com.microsoft.OneDrive.HockeySDK' "$UserKeychain"                      2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'com.microsoft.OneDriveUpdater.HockeySDK' "$UserKeychain"               2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'com.microsoft.OneDriveStandaloneUpdater.HockeySDK' "$UserKeychain"     2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'OneDrive Standalone Cached Credential Business - Business1' "$UserKeychain" 2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'OneDrive Standalone Cached Credential' "$UserKeychain"                 2>/dev/null || true
+/usr/bin/security delete-generic-password  -s 'com.microsoft.onedrive.cookies' "$UserKeychain"                        2>/dev/null || true
 # OneAuthAccount appears in both Office and OneDrive contexts; delete once per context.
-/usr/bin/security delete-generic-password  -s 'OneAuthAccount'                                        2>/dev/null || true
+/usr/bin/security delete-generic-password  -s 'OneAuthAccount' "$UserKeychain"                                        2>/dev/null || true
 
 echo "Office-Reset: Removing credential and license files"
 /bin/rm -rf "${HOME}/Library/Group Containers/UBF8T346G9.Office/mip_policy"

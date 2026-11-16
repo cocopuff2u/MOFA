@@ -28,6 +28,9 @@
 #                 DeleteAllKeychainGeneric helper (loops until no entries remain,
 #                 which is more robust than a fixed repeat count)
 #          [Opt]  Echo on line 55 given consistent "Office-Reset:" prefix
+# 1.2.0 - Removed `security list-keychains -s`, which rewrote root's keychain search list and
+#          broke Jamf (Device Signature Error / -25293). All security calls now pass the
+#          user's login keychain path explicitly.
 # ============================================================
 
 echo "Office-Reset: Starting postinstall for Reset_Credentials"
@@ -58,7 +61,7 @@ SetHomeFolder() {
 DeleteAllKeychainGeneric() {
     local flag="$1" value="$2" count=0
     # Cap iterations so a misbehaving security tool can never loop forever
-    while (( count < 50 )) && /usr/bin/security delete-generic-password "${flag}" "${value}" 2>/dev/null; do
+    while (( count < 50 )) && /usr/bin/security delete-generic-password "${flag}" "${value}" "$UserKeychain" 2>/dev/null; do
         (( count++ ))
     done
 }
@@ -78,28 +81,27 @@ echo "Office-Reset: Quitting all apps gracefully"
 # Allow apps to finish quitting before keychain operations begin
 sleep 2
 
-KeychainHasLogin=$(/usr/bin/security list-keychains | grep 'login.keychain')
-if [[ -z "$KeychainHasLogin" ]]; then
-    echo "Office-Reset: Adding user login keychain to list"
-    /usr/bin/security list-keychains -s "${HOME}/Library/Keychains/login.keychain-db"
+# Target the user's login keychain explicitly on every security command.
+# Do NOT use `security list-keychains -s`: run as root it rewrites root's keychain
+# search list, which breaks the jamf binary (Device Signature Error / -25293).
+UserKeychain="${HOME}/Library/Keychains/login.keychain-db"
+if [[ ! -f "$UserKeychain" ]]; then
+    echo "Office-Reset: WARNING - user login keychain not found at $UserKeychain"
 fi
-
-echo "Office-Reset: Listing keychains for logged-in user"
-/usr/bin/security list-keychains
 
 echo "Office-Reset: Removing keychain entries"
 
 # --- Single-entry deletions (at most one matching entry expected) ---
-/usr/bin/security delete-generic-password  -s 'OneAuthAccount'                          2>/dev/null || true
-/usr/bin/security delete-internet-password -s 'msoCredentialSchemeADAL'                 2>/dev/null || true
-/usr/bin/security delete-internet-password -s 'msoCredentialSchemeLiveId'               2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'Microsoft Office Identities Cache 2'     2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'Microsoft Office Identities Cache 3'     2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'Microsoft Office Identities Settings 2'  2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'Microsoft Office Identities Settings 3'  2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'Microsoft Office Ticket Cache'           2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'com.microsoft.adalcache'                 2>/dev/null || true
-/usr/bin/security delete-generic-password  -l 'com.microsoft.OutlookCore.Secret'        2>/dev/null || true
+/usr/bin/security delete-generic-password  -s 'OneAuthAccount' "$UserKeychain"                          2>/dev/null || true
+/usr/bin/security delete-internet-password -s 'msoCredentialSchemeADAL' "$UserKeychain"                 2>/dev/null || true
+/usr/bin/security delete-internet-password -s 'msoCredentialSchemeLiveId' "$UserKeychain"               2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'Microsoft Office Identities Cache 2' "$UserKeychain"     2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'Microsoft Office Identities Cache 3' "$UserKeychain"     2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'Microsoft Office Identities Settings 2' "$UserKeychain"  2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'Microsoft Office Identities Settings 3' "$UserKeychain"  2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'Microsoft Office Ticket Cache' "$UserKeychain"           2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'com.microsoft.adalcache' "$UserKeychain"                 2>/dev/null || true
+/usr/bin/security delete-generic-password  -l 'com.microsoft.OutlookCore.Secret' "$UserKeychain"        2>/dev/null || true
 
 # --- Multi-entry deletions (loop until all matching entries are removed) ---
 DeleteAllKeychainGeneric -G 'MSOpenTech.ADAL.1'

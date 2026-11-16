@@ -31,6 +31,8 @@
 # 1.1.1 - Security (GHSA-gw3c-6fvh-7gqm): download to a root-private mktemp folder instead of the
 #          world-writable /Users/Shared/OnDemandInstaller; accept only a root-owned regular file;
 #          require pkgutil --check-signature to exit 0; remove the folder on every exit path
+# 1.2.0 - delete-certificate now targets the user's login keychain explicitly (as root it
+#          previously searched only root's keychains and removed nothing).
 # ============================================================
 
 echo "Office-Reset: Starting postinstall for Reset_Excel"
@@ -259,7 +261,8 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -rf "${HOME}/Library/Group Containers/UBF8T346G9.Office/TemporaryItems"
 /bin/rm -f "${HOME}/Library/Group Containers/UBF8T346G9.Office/MicrosoftRegistrationDB.reg"
 
-/usr/bin/security delete-certificate -c 'Microsoft.Office.Excel.ProtectedDataServices'
+# Target the user login keychain explicitly; as root, security does not search it.
+/usr/bin/security delete-certificate -c 'Microsoft.Office.Excel.ProtectedDataServices' "${HOME}/Library/Keychains/login.keychain-db" 2>/dev/null || true
 
 /bin/rm -rf "${TMPDIR:-/tmp}/com.microsoft.Excel"
 

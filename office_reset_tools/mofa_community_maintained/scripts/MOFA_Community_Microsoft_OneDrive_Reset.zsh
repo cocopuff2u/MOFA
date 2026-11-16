@@ -41,6 +41,9 @@
 # 1.1.1 - Security (GHSA-gw3c-6fvh-7gqm): download to a root-private mktemp folder instead of the
 #          world-writable /Users/Shared/OnDemandInstaller; accept only a root-owned regular file;
 #          require pkgutil --check-signature to exit 0; remove the folder on every exit path
+# 1.2.0 - Removed `security list-keychains -s`, which rewrote root's keychain search list and
+#          broke Jamf (Device Signature Error / -25293). All security calls now pass the
+#          user's login keychain path explicitly.
 # ============================================================
 
 echo "Office-Reset: Starting postinstall for Reset_OneDrive"
@@ -250,24 +253,23 @@ echo "Office-Reset: Removing configuration data for ${APP_NAME}"
 /bin/rm -rf "${TMPDIR:-/tmp}/com.microsoft.OneDrive.FinderSync"
 /bin/rm -f  "${TMPDIR:-/tmp}/OneDriveVersion.xml"
 
-KeychainHasLogin=$(/usr/bin/security list-keychains | grep 'login.keychain')
-if [[ -z "$KeychainHasLogin" ]]; then
-    echo "Office-Reset: Adding user login keychain to list"
-    /usr/bin/security list-keychains -s "${HOME}/Library/Keychains/login.keychain-db"
+# Target the user's login keychain explicitly on every security command.
+# Do NOT use `security list-keychains -s`: run as root it rewrites root's keychain
+# search list, which breaks the jamf binary (Device Signature Error / -25293).
+UserKeychain="${HOME}/Library/Keychains/login.keychain-db"
+if [[ ! -f "$UserKeychain" ]]; then
+    echo "Office-Reset: WARNING - user login keychain not found at $UserKeychain"
 fi
 
-echo "Office-Reset: Listing keychains for logged-in user"
-/usr/bin/security list-keychains
-
-/usr/bin/security delete-generic-password -l 'com.microsoft.OneDrive.FinderSync.HockeySDK'          2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'com.microsoft.OneDrive.HockeySDK'                     2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'com.microsoft.OneDriveUpdater.HockeySDK'              2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'com.microsoft.OneDriveStandaloneUpdater.HockeySDK'    2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'OneDrive Standalone Cached Credential Business - Business1' 2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'OneDrive Standalone Cached Credential'                2>/dev/null || true
-/usr/bin/security delete-generic-password -s 'com.microsoft.onedrive.cookies'                       2>/dev/null || true
-/usr/bin/security delete-generic-password -s 'OneAuthAccount'                                       2>/dev/null || true
-/usr/bin/security delete-generic-password -l 'com.microsoft.adalcache'                              2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'com.microsoft.OneDrive.FinderSync.HockeySDK' "$UserKeychain"          2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'com.microsoft.OneDrive.HockeySDK' "$UserKeychain"                     2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'com.microsoft.OneDriveUpdater.HockeySDK' "$UserKeychain"              2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'com.microsoft.OneDriveStandaloneUpdater.HockeySDK' "$UserKeychain"    2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'OneDrive Standalone Cached Credential Business - Business1' "$UserKeychain" 2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'OneDrive Standalone Cached Credential' "$UserKeychain"                2>/dev/null || true
+/usr/bin/security delete-generic-password -s 'com.microsoft.onedrive.cookies' "$UserKeychain"                       2>/dev/null || true
+/usr/bin/security delete-generic-password -s 'OneAuthAccount' "$UserKeychain"                                       2>/dev/null || true
+/usr/bin/security delete-generic-password -l 'com.microsoft.adalcache' "$UserKeychain"                              2>/dev/null || true
 
 /bin/rm -rf "${HOME}/Library/Group Containers/UBF8T346G9.com.microsoft.oneauth"
 

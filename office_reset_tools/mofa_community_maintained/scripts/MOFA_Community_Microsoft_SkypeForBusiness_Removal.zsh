@@ -13,6 +13,8 @@
 #          corrected -rf flag on plist file to -f; added dockutil existence check;
 #          added missing SfB data paths (caches, cookies, saved state).
 #
+# 1.2.0 - Removed `security list-keychains -s`, which overwrote the user's keychain search
+#          list. All security calls now pass the user's login keychain path explicitly.
 # ============================================================
 
 echo "Office-Reset: Starting postinstall for Remove_SkypeForBusiness"
@@ -77,13 +79,15 @@ echo "Office-Reset: Removing package receipts"
 # Run as the logged-in user so the correct login keychain is targeted.
 # (Running security commands as root targets root's keychain, not the user's.)
 echo "Office-Reset: Removing Skype for Business keychain entries"
-KeychainHasLogin=$(/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security list-keychains | /usr/bin/grep 'login.keychain')
-if [[ -z "$KeychainHasLogin" ]]; then
-    echo "Office-Reset: Adding user login keychain to search list"
-    /usr/bin/sudo -u "$LoggedInUser" /usr/bin/security list-keychains -s "$UserHome/Library/Keychains/login.keychain-db"
+# Target the user's login keychain explicitly on every security command.
+# Do NOT use `security list-keychains -s`: run as root it rewrites root's keychain
+# search list, which breaks the jamf binary (Device Signature Error / -25293).
+UserKeychain="${UserHome}/Library/Keychains/login.keychain-db"
+if [[ ! -f "$UserKeychain" ]]; then
+    echo "Office-Reset: WARNING - user login keychain not found at $UserKeychain"
 fi
-/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'com.microsoft.SkypeForBusiness.HockeySDK' 2>/dev/null; true
-/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'Skype for Business' 2>/dev/null; true
+/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'com.microsoft.SkypeForBusiness.HockeySDK' "$UserKeychain" 2>/dev/null; true
+/usr/bin/sudo -u "$LoggedInUser" /usr/bin/security delete-generic-password -l 'Skype for Business' "$UserKeychain" 2>/dev/null; true
 
 # Remove Dock entry via dockutil if available alongside this script.
 if [[ -x "$SCRIPT_FOLDER/dockutil" ]]; then

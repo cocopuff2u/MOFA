@@ -25,6 +25,9 @@
 # 1.1.1 - Security (GHSA-gw3c-6fvh-7gqm): download to a root-private mktemp folder instead of the
 #          world-writable /Users/Shared/OnDemandInstaller; accept only a root-owned regular file;
 #          require pkgutil --check-signature to exit 0; remove the folder on every exit path
+# 1.2.0 - Removed `security list-keychains -s`, which rewrote root's keychain search list and
+#          broke Jamf (Device Signature Error / -25293). All security calls now pass the
+#          user's login keychain path explicitly.
 # ============================================================
 
 echo "Office-Reset: Starting postinstall for Reset_Outlook"
@@ -170,7 +173,7 @@ RepairApp() {
 # Generic keychain entry finder; returns exit code of `security find-generic-password` directly.
 # $1: flag (-G for generic attribute, -l for label), $2: value
 FindKeychainEntry() {
-	/usr/bin/security find-generic-password "$1" "$2" 2>/dev/null 1>/dev/null
+	/usr/bin/security find-generic-password "$1" "$2" "$UserKeychain" 2>/dev/null 1>/dev/null
 }
 
 HandleSecurityDeleteResult() {
@@ -199,7 +202,7 @@ RunDeleteCommand() {
 DeleteInternetPasswordIfPresent() {
 	local output
 	local status
-	output=$(/usr/bin/security delete-internet-password -s "$1" 2>&1)
+	output=$(/usr/bin/security delete-internet-password -s "$1" "$UserKeychain" 2>&1)
 	status=$?
 	HandleSecurityDeleteResult "$status" "internet password" "$1" "$output"
 }
@@ -207,7 +210,7 @@ DeleteInternetPasswordIfPresent() {
 DeleteGenericPasswordIfPresent() {
 	local output
 	local status
-	output=$(/usr/bin/security delete-generic-password -l "$1" 2>&1)
+	output=$(/usr/bin/security delete-generic-password -l "$1" "$UserKeychain" 2>&1)
 	status=$?
 	HandleSecurityDeleteResult "$status" "generic password label" "$1" "$output"
 }
@@ -215,7 +218,7 @@ DeleteGenericPasswordIfPresent() {
 DeleteGenericPasswordByGenericAttributeIfPresent() {
 	local output
 	local status
-	output=$(/usr/bin/security delete-generic-password -G "$1" 2>&1)
+	output=$(/usr/bin/security delete-generic-password -G "$1" "$UserKeychain" 2>&1)
 	status=$?
 	HandleSecurityDeleteResult "$status" "generic password attribute" "$1" "$output"
 }
@@ -302,14 +305,13 @@ fi
 
 /bin/rm -rf "/Applications/.Microsoft Outlook.app.installBackup"
 
-KeychainHasLogin=$(/usr/bin/security list-keychains | grep 'login.keychain')
-if [[ -z "$KeychainHasLogin" ]]; then
-	echo "Office-Reset: Adding user login keychain to list"
-	/usr/bin/security list-keychains -s "${HOME}/Library/Keychains/login.keychain-db"
+# Target the user's login keychain explicitly on every security command.
+# Do NOT use `security list-keychains -s`: run as root it rewrites root's keychain
+# search list, which breaks the jamf binary (Device Signature Error / -25293).
+UserKeychain="${HOME}/Library/Keychains/login.keychain-db"
+if [[ ! -f "$UserKeychain" ]]; then
+	echo "Office-Reset: WARNING - user login keychain not found at $UserKeychain"
 fi
-
-echo "Office-Reset: Listing keychains for logged-in user"
-/usr/bin/security list-keychains
 
 while FindKeychainEntry -G 'MSOpenTech.ADAL.1'; do
 	RunDeleteCommand DeleteGenericPasswordByGenericAttributeIfPresent 'MSOpenTech.ADAL.1' || break

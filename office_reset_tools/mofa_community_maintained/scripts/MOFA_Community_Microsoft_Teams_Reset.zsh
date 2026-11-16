@@ -43,6 +43,8 @@
 #          require pkgutil --check-signature to exit 0; remove the folder on every exit path
 #          Teams backgrounds are staged by the user inside their home (not /tmp) and restored
 #          without chown -R
+# 1.2.0 - Removed `security list-keychains -s`, which overwrote the user's keychain search
+#          list. All security calls now pass the user's login keychain path explicitly.
 # ============================================================
 
 # Set PATH variable to SIP-protected folders
@@ -190,7 +192,7 @@ RepairApp() {
 
 # Returns 0 (found) or non-zero (not found) — called directly as while condition
 FindEntryTeamsIdentity() {
-    runAsUser /usr/bin/security find-generic-password -l 'Microsoft Teams Identities Cache' \
+    runAsUser /usr/bin/security find-generic-password -l 'Microsoft Teams Identities Cache' "$UserKeychain" \
         2>/dev/null 1>/dev/null
 }
 
@@ -319,25 +321,24 @@ echo "Office-Reset: Resetting TCC for com.microsoft.teams2"
 tccutil reset All com.microsoft.teams2
 
 # Keychain items
-KeychainHasLogin=$(runAsUser /usr/bin/security list-keychains | grep 'login.keychain')
-if [[ -z "$KeychainHasLogin" ]]; then
-    echo "Office-Reset: Adding user login keychain to list"
-    runAsUser /usr/bin/security list-keychains -s "${HOME}/Library/Keychains/login.keychain-db"
+# Target the user's login keychain explicitly on every security command.
+# Do NOT use `security list-keychains -s`: run as root it rewrites root's keychain
+# search list, which breaks the jamf binary (Device Signature Error / -25293).
+UserKeychain="${HOME}/Library/Keychains/login.keychain-db"
+if [[ ! -f "$UserKeychain" ]]; then
+    echo "Office-Reset: WARNING - user login keychain not found at $UserKeychain"
 fi
 
-echo "Office-Reset: Listing keychains for logged-in user"
-runAsUser /usr/bin/security list-keychains
-
 while FindEntryTeamsIdentity; do
-    runAsUser /usr/bin/security delete-generic-password -l 'Microsoft Teams Identities Cache' \
+    runAsUser /usr/bin/security delete-generic-password -l 'Microsoft Teams Identities Cache' "$UserKeychain" \
         2>/dev/null || break
 done
-runAsUser /usr/bin/security delete-generic-password -l 'Teams Safe Storage'                             2>/dev/null || true
-runAsUser /usr/bin/security delete-generic-password -l 'Microsoft Teams (work or school) Safe Storage' 2>/dev/null || true
-runAsUser /usr/bin/security delete-generic-password -l 'teamsIv'                                       2>/dev/null || true
-runAsUser /usr/bin/security delete-generic-password -l 'teamsKey'                                      2>/dev/null || true
-runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.HockeySDK'                 2>/dev/null || true
-runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK'          2>/dev/null || true
+runAsUser /usr/bin/security delete-generic-password -l 'Teams Safe Storage' "$UserKeychain"                             2>/dev/null || true
+runAsUser /usr/bin/security delete-generic-password -l 'Microsoft Teams (work or school) Safe Storage' "$UserKeychain" 2>/dev/null || true
+runAsUser /usr/bin/security delete-generic-password -l 'teamsIv' "$UserKeychain"                                       2>/dev/null || true
+runAsUser /usr/bin/security delete-generic-password -l 'teamsKey' "$UserKeychain"                                      2>/dev/null || true
+runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.HockeySDK' "$UserKeychain"                 2>/dev/null || true
+runAsUser /usr/bin/security delete-generic-password -l 'com.microsoft.teams.helper.HockeySDK' "$UserKeychain"          2>/dev/null || true
 
 # Restore backgrounds
 # Restore only what this run staged, as the user, with no chown: a root chown -R over a

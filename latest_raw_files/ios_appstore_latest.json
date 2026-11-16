@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 15, 2026 03:45 PM EST",
+    "last_updated": "November 15, 2026 07:41 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -300,14 +300,14 @@
         },
         {
             "name": "iOS Microsoft Advertising",
-            "application_name": "Google Ads",
-            "bundleId": "com.google.AdWords",
-            "currentVersionReleaseDate": "November 12, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/40/88/e4408809-9a47-bec4-9087-0bd49d8dca94/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.",
-            "version": "3.43.20092307",
-            "app_store_url": "https://apps.apple.com/us/app/google-ads/id1037457231?uo=4"
+            "application_name": "Ripl: Social Media Marketing",
+            "bundleId": "me.fanzo.ripl",
+            "currentVersionReleaseDate": "November 05, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/d0/d9/50d0d9b1-2e54-6b88-1c8b-8107245eef3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "15.6",
+            "releaseNotes": "We are constantly working to improve the Ripl app. This release includes bug fixes, feature updates & performance improvements. Please reach out to our support team at feedback@ripl.com if you experience any issues.",
+            "version": "4.0.200",
+            "app_store_url": "https://apps.apple.com/us/app/ripl-social-media-marketing/id1030906799?uo=4"
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",

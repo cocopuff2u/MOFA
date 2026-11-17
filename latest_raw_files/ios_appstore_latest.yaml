@@ -1,4 +1,4 @@
-last_updated: November 16, 2026 08:29 PM EST
+last_updated: November 17, 2026 05:05 AM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -30,14 +30,14 @@ packages:
   - name: iOS Microsoft Outlook
     application_name: Microsoft Outlook
     bundleId: com.microsoft.Office.Outlook
-    currentVersionReleaseDate: November 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/d3/13/6bd31325-8940-8adb-7293-cbe4af38072d/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/87/36/e08736f5-1004-4af4-9a2b-8b6e6603bea4/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
     releaseNotes: "This update includes performance improvements and bug fixes to\
       \ make Outlook better for you.\n\nFeel free to send us any comments or questions\
       \ by going to Settings > Help & Feedback \u2013 we\u2019d love to hear from\
       \ you."
-    version: 5.2644.0
+    version: 5.2645.0
     app_store_url: https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4
   - name: iOS Microsoft OneNote
     application_name: Microsoft OneNote
@@ -291,11 +291,11 @@ packages:
   - name: iOS Microsoft Power Apps
     application_name: Power Apps
     bundleId: com.microsoft.msapps
-    currentVersionReleaseDate: October 27, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/fb/53/13fb5363-3a44-cad9-5be6-f70c5f81da38/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/39/81/4a398109-fe7c-86f4-fb5c-1e8ae0bc7f02/PowerApps_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: "\u2022 Bug fixes and performance improvements"
-    version: 3.26103.23
+    version: 3.26112.10
     app_store_url: https://apps.apple.com/us/app/power-apps/id1047318566?uo=4
   - name: iOS Microsoft Authenticator
     application_name: Microsoft Authenticator
@@ -378,14 +378,14 @@ packages:
     version: 8.1.13
     app_store_url: https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft Copilot
-    bundleId: com.microsoft.officemobile
-    currentVersionReleaseDate: November 16, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/40/6e/cf406ec7-71d5-8354-edbc-b1890faa67e4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '26.0'
-    releaseNotes: "\u2022 General quality and performance enhancements."
-    version: 2.116.1
-    app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4
+    application_name: Microsoft Planner
+    bundleId: com.microsoft.PlannerMobile
+    currentVersionReleaseDate: September 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b5/6e/ffb56e4f-dc45-5210-74bd-bb591df511fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
+    releaseNotes: Bug fixes and performance improvements.
+    version: 1.17.19
+    app_store_url: https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 17, 2026 05:04 AM EST",
+    "last_updated": "November 17, 2026 02:32 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -294,16 +294,16 @@
             "application_id": "OLIC02",
             "application_name": "N/A",
             "CFBundleVersion": "com.microsoft.office.licensingV2.helper",
-            "short_version": "16.77.0 (23091003)",
-            "full_version": "16.77.23091003",
-            "last_updated": "September 10, 2023",
-            "min_os": "11.0",
-            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg",
-            "app_update_sha1": "cc58741e0243b5fb0682ca499b07c3a21060bb52",
-            "app_update_sha256": "2ef5b5006534c0d20d46c7353f42a0dc1faff7d53ba89a3151ccf5102c059905",
-            "full_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.77.23091003_Updater.pkg",
-            "full_update_sha1": "cc58741e0243b5fb0682ca499b07c3a21060bb52",
-            "full_update_sha256": "2ef5b5006534c0d20d46c7353f42a0dc1faff7d53ba89a3151ccf5102c059905"
+            "short_version": "16.115.0 (26102758)",
+            "full_version": "16.115.26102758",
+            "last_updated": "October 27, 2026",
+            "min_os": "15.0",
+            "app_only_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.115.26102758_Updater.pkg",
+            "app_update_sha1": "fe0cceea7e7951fcd2a1729ebe397ae2fcf9f3db",
+            "app_update_sha256": "63f02129a2ffa335812edb7de1f7150601836c912fe402893736753ab69106a4",
+            "full_update_download": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OfficeLicensingHelper_16.115.26102758_Updater.pkg",
+            "full_update_sha1": "fe0cceea7e7951fcd2a1729ebe397ae2fcf9f3db",
+            "full_update_sha256": "63f02129a2ffa335812edb7de1f7150601836c912fe402893736753ab69106a4"
         },
         {
             "name": "Quick Assist",

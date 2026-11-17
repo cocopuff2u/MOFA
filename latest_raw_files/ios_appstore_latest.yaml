@@ -1,4 +1,4 @@
-last_updated: November 16, 2026 12:51 PM EST
+last_updated: November 16, 2026 08:29 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -55,11 +55,12 @@ packages:
   - name: iOS Microsoft OneDrive
     application_name: Microsoft OneDrive
     bundleId: com.microsoft.skydrive
-    currentVersionReleaseDate: November 02, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/19/f5/a719f5e5-cd73-53db-75d2-9e9c91e07456/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg
     minimumOsVersion: '26.0'
-    releaseNotes: This version of OneDrive supports iOS/iPadOS versions 26 or newer
-    version: 26.1.4
+    releaseNotes: We've updated OneDrive to make the most of iPhone Duo's unique design,
+      with improvements to how you browse and manage your files and photos.
+    version: 26.2.2
     app_store_url: https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4
   - name: iOS Microsoft Windows App Mobile
     application_name: Windows App Mobile
@@ -203,13 +204,13 @@ packages:
   - name: iOS Microsoft Edge AI Browser
     application_name: Microsoft Edge
     bundleId: com.microsoft.msedge
-    currentVersionReleaseDate: November 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/cc/5a/4ecc5aee-6b26-27ff-e5b8-23a9ef21476f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/49/c6/8749c6ba-f220-c9e2-c6b4-9cfc0e24900a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.0'
     releaseNotes: "Welcome to Microsoft Edge! Check out what's new in this release.\n\
       \u2022 Bug fixes, stability and performance improvements.\nUpgrade to the latest\
       \ version and enjoy a smarter and more efficient Microsoft Edge!"
-    version: 157.4341.42
+    version: 157.4341.57
     app_store_url: https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4
   - name: iOS Microsoft Seeing AI
     application_name: Seeing AI

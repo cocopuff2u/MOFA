@@ -1,6 +1,15 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>November 17, 2026 02:32 PM EST</last_scan_date>
+    <last_scan_date>November 17, 2026 09:04 PM EST</last_scan_date>
+    <release>
+        <date>November 17, 2026</date>
+        <version>16.115.1 (26111533)</version>
+        <word_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.115.26111533_Updater.pkg</word_update>
+        <powerpoint_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.115.26111533_Updater.pkg</powerpoint_update>
+        <outlook_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.115.26111533_Updater.pkg</outlook_update>
+        <onenote_update>https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.115.26111533_Updater.pkg</onenote_update>
+        <archive>false</archive>
+    </release>
     <release>
         <date>November 10, 2026</date>
         <version>16.115 (26110837)</version>

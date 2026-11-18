@@ -1,6 +1,15 @@
 {
-    "last_scan_date": "November 17, 2026 02:32 PM EST",
+    "last_scan_date": "November 17, 2026 09:04 PM EST",
     "releases": [
+        {
+            "date": "November 17, 2026",
+            "version": "16.115.1 (26111533)",
+            "word_update": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.115.26111533_Updater.pkg",
+            "powerpoint_update": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.115.26111533_Updater.pkg",
+            "outlook_update": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.115.26111533_Updater.pkg",
+            "onenote_update": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.115.26111533_Updater.pkg",
+            "archive": "false"
+        },
         {
             "date": "November 10, 2026",
             "version": "16.115 (26110837)",

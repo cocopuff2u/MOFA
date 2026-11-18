@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 17, 2026 09:05 PM EST</last_updated>
+	<last_updated>November 18, 2026 04:59 AM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -79,14 +79,14 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>Xiaomi Interconnectivity</application_name>
-		<bundleId>com.xiaomi.hyperConnect</bundleId>
-		<currentVersionReleaseDate>November 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/24/e6/f924e6d2-cc20-ff6a-3337-a3690644c6ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>We've improved the user experience and  fixed some known issues in this version.</releaseNotes>
-		<version>3.2.0</version>
-		<app_store_url>https://apps.apple.com/us/app/xiaomi-interconnectivity/id6673908449?uo=4</app_store_url>
+		<application_name>PocketServer: Folder Sharing</application_name>
+		<bundleId>com.baonguyen.PocketServer</bundleId>
+		<currentVersionReleaseDate>October 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/07/b9/ac07b961-4e94-30d8-f09d-06286f2598e4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.6</minimumOsVersion>
+		<releaseNotes>HTTPS support: Encrypt File Sharing and Folder Sharing connections with an optional HTTPS toggle in each server's settings. Browsers will show a warning the first time, which is expected for local servers.</releaseNotes>
+		<version>2.0.0</version>
+		<app_store_url>https://apps.apple.com/us/app/pocketserver-folder-sharing/id6743850070?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

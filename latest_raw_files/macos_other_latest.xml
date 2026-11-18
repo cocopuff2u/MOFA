@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-    <last_updated>November 17, 2026 09:05 PM EST</last_updated>
+    <last_updated>November 18, 2026 05:00 AM EST</last_updated>
     <package>
         <name>PowerShell</name>
         <application_id>N/A</application_id>
@@ -146,9 +146,9 @@
         <application_id>N/A</application_id>
         <application_name>sqlcmd</application_name>
         <CFBundleVersion>N/A</CFBundleVersion>
-        <short_version>1.10.0</short_version>
-        <full_version>1.10.0</full_version>
-        <last_updated>March 03, 2026</last_updated>
+        <short_version>1.11.0</short_version>
+        <full_version>1.11.0</full_version>
+        <last_updated>November 18, 2026</last_updated>
         <min_os>N/A</min_os>
         <update_download>brew install sqlcmd</update_download>
         <latest_download>brew install sqlcmd</latest_download>

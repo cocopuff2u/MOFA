@@ -1,4 +1,4 @@
-last_updated: November 17, 2026 09:05 PM EST
+last_updated: November 18, 2026 05:00 AM EST
 packages:
 - name: PowerShell
   application_id: N/A
@@ -124,9 +124,9 @@ packages:
   application_id: N/A
   application_name: sqlcmd
   CFBundleVersion: N/A
-  short_version: 1.10.0
-  full_version: 1.10.0
-  last_updated: March 03, 2026
+  short_version: 1.11.0
+  full_version: 1.11.0
+  last_updated: November 18, 2026
   min_os: N/A
   update_download: brew install sqlcmd
   latest_download: brew install sqlcmd

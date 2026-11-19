@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 18, 2026 01:38 PM EST",
+    "last_updated": "November 18, 2026 07:56 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -38,11 +38,11 @@
             "name": "MacOS Microsoft Outlook",
             "application_name": "Microsoft Outlook",
             "bundleId": "com.microsoft.Outlook",
-            "currentVersionReleaseDate": "November 10, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/dd/50/89dd505b-5bdd-b965-c2ad-c1f9cb3bc573/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
+            "currentVersionReleaseDate": "November 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/76/86/697686b8-4ce9-da21-b191-99cdd9ef752d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png",
             "minimumOsVersion": "15.0",
             "releaseNotes": "Feature Updates:\n\u2022 General: OLM Import is now supported for Mail and Contacts\n\u2022 Mail: Filter your message list by event related messages\n\u2022 Mail: OFT templates for draft creation are now supported\n\u2022 Calendar: See and update your work location and working hours from list view and agenda view\n\u2022 Calendar: Print event descriptions in plain text when printing in list view",
-            "version": "16.115",
+            "version": "16.115.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4"
         },
         {

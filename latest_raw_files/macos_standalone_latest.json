@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 18, 2026 01:38 PM EST",
+    "last_updated": "November 18, 2026 07:56 PM EST",
     "packages": [
         {
             "name": "Microsoft Office Suite",
@@ -134,16 +134,16 @@
             "application_id": "TEAMS21",
             "application_name": "Microsoft Teams.app",
             "CFBundleVersion": "com.microsoft.teams2",
-            "short_version": "26289.204.5281.6363",
-            "full_version": "26289.204.5281.6363",
-            "last_updated": "October 26, 2026",
+            "short_version": "26304.1206.5384.1209",
+            "full_version": "26304.1206.5384.1209",
+            "last_updated": "November 17, 2026",
             "min_os": "14.0",
-            "app_only_update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26289.204.5281.6363/MicrosoftTeams_26246.1709.5146.8945_to_26289.204.5281.6363_BinaryDelta.pkg",
-            "app_update_sha1": "443bed4638714d6de9275bebd919778a114fa7a0",
-            "app_update_sha256": "e2d1bc6c350bed91118caffe5d1607dba115942e5093bda4d92dbd5ef869436f",
+            "app_only_update_download": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26304.1206.5384.1209/MicrosoftTeams_arm64_26276.505.5234.9924_to_26304.1206.5384.1209_BinaryDelta.pkg",
+            "app_update_sha1": "31d76f83baebd422f6c45e046993e54998c875ce",
+            "app_update_sha256": "0376b5146c95a3aded22774d6073e2ed3369ab88636b1b1eb56f0273a4d498a1",
             "full_update_download": "https://go.microsoft.com/fwlink/?linkid=2249065",
-            "full_update_sha1": "f312054f068a7ef6bfeee3a6cb04769d7a33f683",
-            "full_update_sha256": "bd029c2023a943dc76c9a03410c91f06d8b92c07115daf9763d5b9475aaba87c"
+            "full_update_sha1": "66402620d12b503cdbf30e75d69f79faa0e564be",
+            "full_update_sha256": "393e25369198068c2715f3f32ad200de712a74d9184934c39ce1d5c42b39cc2c"
         },
         {
             "name": "Intune",

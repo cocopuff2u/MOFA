@@ -1,4 +1,4 @@
-last_updated: November 17, 2026 05:05 AM EST
+last_updated: November 18, 2026 07:56 PM EST
 packages:
   - name: iOS Microsoft Word
     application_name: Microsoft Word
@@ -80,11 +80,11 @@ packages:
   - name: iOS Microsoft Defender Security
     application_name: 'Microsoft Defender: Security'
     bundleId: com.microsoft.scmx
-    currentVersionReleaseDate: November 03, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/f2/2b/1af22b22-6285-a2cf-6fa4-e063eddc5a31/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/e7/3d/78e73d03-1ae4-bd9d-448a-cfd75cef62c6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and improvements
-    version: 1.1.82260102
+    version: 1.1.83150101
     app_store_url: https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4
   - name: iOS Microsoft Copilot
     application_name: Microsoft Copilot
@@ -138,8 +138,8 @@ packages:
   - name: iOS Microsoft Lists
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: November 11, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/df/39/51df39b4-6ae6-cef5-788a-84b3ddd17855/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/5f/46/4b5f460a-6d54-0f40-b2d6-808f02ce3337/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.6'
     releaseNotes: "\u2022 Updated the app\u2019s interface and navigation to align\
       \ with SharePoint Discover on the web.\n\u2022 Added Overview, Sites, People,\
@@ -150,16 +150,16 @@ packages:
       \ and within sites.\n\u2022 Updated the News view with unread and source filters.\n\
       \u2022 Replaced Save for Later with Favorites for saving news and pages.\n\u2022\
       \ Added dark mode support."
-    version: 6.2.0
+    version: 6.2.1
     app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Field Service
     application_name: Dynamics 365 Field Service
     bundleId: com.microsoft.dynamics.iphone.moca.fieldServices
-    currentVersionReleaseDate: September 09, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/99/77/53997701-6426-8816-aa39-fe75c471d492/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg
-    minimumOsVersion: '16.0'
+    currentVersionReleaseDate: November 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/2c/d3/9a2cd39c-c7dc-028a-8afe-42258be04da1/FieldServices_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '17.0'
     releaseNotes: Minor updates, bug fixes, and performance improvements.
-    version: 13.26082.8
+    version: 13.26104.15
     app_store_url: https://apps.apple.com/us/app/dynamics-365-field-service/id1485579247?uo=4
   - name: iOS Microsoft Viva Engage
     application_name: Viva Engage
@@ -256,17 +256,17 @@ packages:
   - name: iOS Microsoft Teams
     application_name: Microsoft Teams
     bundleId: com.microsoft.skype.teams
-    currentVersionReleaseDate: November 07, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/25/a9/5b25a98e-bd5c-d624-d383-f069f891be9d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/31/63/c73163a6-7b30-1a2b-4e22-e97d93fde709/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
     releaseNotes: Bug fixes and performance improvements
-    version: 8.20.0
+    version: 8.20.1
     app_store_url: https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4
   - name: iOS Microsoft Sharepoint
     application_name: Microsoft SharePoint
     bundleId: com.microsoft.sharepoint
-    currentVersionReleaseDate: November 11, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/df/39/51df39b4-6ae6-cef5-788a-84b3ddd17855/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 18, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/5f/46/4b5f460a-6d54-0f40-b2d6-808f02ce3337/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
     minimumOsVersion: '18.6'
     releaseNotes: "\u2022 Updated the app\u2019s interface and navigation to align\
       \ with SharePoint Discover on the web.\n\u2022 Added Overview, Sites, People,\
@@ -277,7 +277,7 @@ packages:
       \ and within sites.\n\u2022 Updated the News view with unread and source filters.\n\
       \u2022 Replaced Save for Later with Favorites for saving news and pages.\n\u2022\
       \ Added dark mode support."
-    version: 6.2.0
+    version: 6.2.1
     app_store_url: https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4
   - name: iOS Microsoft Dynamics 365 Business Central
     application_name: Dynamics 365 Business Central
@@ -378,14 +378,14 @@ packages:
     version: 8.1.13
     app_store_url: https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4
   - name: iOS Microsoft 365 Office
-    application_name: Microsoft Planner
-    bundleId: com.microsoft.PlannerMobile
-    currentVersionReleaseDate: September 16, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b5/6e/ffb56e4f-dc45-5210-74bd-bb591df511fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '17.0'
-    releaseNotes: Bug fixes and performance improvements.
-    version: 1.17.19
-    app_store_url: https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4
+    application_name: Microsoft Copilot
+    bundleId: com.microsoft.officemobile
+    currentVersionReleaseDate: November 16, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/40/6e/cf406ec7-71d5-8354-edbc-b1890faa67e4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg
+    minimumOsVersion: '26.0'
+    releaseNotes: "\u2022 General quality and performance enhancements."
+    version: 2.116.1
+    app_store_url: https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4
   - name: iOS Microsoft Skype for Business
     application_name: Skype for Business
     bundleId: com.microsoft.lync2013.iphone

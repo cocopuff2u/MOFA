@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 17, 2026 05:05 AM EST</last_updated>
+	<last_updated>November 18, 2026 07:56 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -97,11 +97,11 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Defender Security</name>
 		<application_name>Microsoft Defender: Security</application_name>
 		<bundleId>com.microsoft.scmx</bundleId>
-		<currentVersionReleaseDate>November 03, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/f2/2b/1af22b22-6285-a2cf-6fa4-e063eddc5a31/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 18, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/e7/3d/78e73d03-1ae4-bd9d-448a-cfd75cef62c6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and improvements</releaseNotes>
-		<version>1.1.82260102</version>
+		<version>1.1.83150101</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4</app_store_url>
 	</package>
 	<package>
@@ -165,8 +165,8 @@ Fixed an issue where the guest users cannot authenticate.</releaseNotes>
 		<name>iOS Microsoft Lists</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>November 11, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/df/39/51df39b4-6ae6-cef5-788a-84b3ddd17855/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 18, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/5f/46/4b5f460a-6d54-0f40-b2d6-808f02ce3337/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.6</minimumOsVersion>
 		<releaseNotes>• Updated the app’s interface and navigation to align with SharePoint Discover on the web.
 • Added Overview, Sites, People, News, Recent, and Favorites tabs.
@@ -176,18 +176,18 @@ Fixed an issue where the guest users cannot authenticate.</releaseNotes>
 • Updated the News view with unread and source filters.
 • Replaced Save for Later with Favorites for saving news and pages.
 • Added dark mode support.</releaseNotes>
-		<version>6.2.0</version>
+		<version>6.2.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Dynamics 365 Field Service</name>
 		<application_name>Dynamics 365 Field Service</application_name>
 		<bundleId>com.microsoft.dynamics.iphone.moca.fieldServices</bundleId>
-		<currentVersionReleaseDate>September 09, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/99/77/53997701-6426-8816-aa39-fe75c471d492/FieldServices_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>16.0</minimumOsVersion>
+		<currentVersionReleaseDate>November 18, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/2c/d3/9a2cd39c-c7dc-028a-8afe-42258be04da1/FieldServices_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Minor updates, bug fixes, and performance improvements.</releaseNotes>
-		<version>13.26082.8</version>
+		<version>13.26104.15</version>
 		<app_store_url>https://apps.apple.com/us/app/dynamics-365-field-service/id1485579247?uo=4</app_store_url>
 	</package>
 	<package>
@@ -309,19 +309,19 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>November 07, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/25/a9/5b25a98e-bd5c-d624-d383-f069f891be9d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 18, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/31/63/c73163a6-7b30-1a2b-4e22-e97d93fde709/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>8.20.0</version>
+		<version>8.20.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Sharepoint</name>
 		<application_name>Microsoft SharePoint</application_name>
 		<bundleId>com.microsoft.sharepoint</bundleId>
-		<currentVersionReleaseDate>November 11, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/df/39/51df39b4-6ae6-cef5-788a-84b3ddd17855/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 18, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/5f/46/4b5f460a-6d54-0f40-b2d6-808f02ce3337/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.6</minimumOsVersion>
 		<releaseNotes>• Updated the app’s interface and navigation to align with SharePoint Discover on the web.
 • Added Overview, Sites, People, News, Recent, and Favorites tabs.
@@ -331,7 +331,7 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 • Updated the News view with unread and source filters.
 • Replaced Save for Later with Favorites for saving news and pages.
 • Added dark mode support.</releaseNotes>
-		<version>6.2.0</version>
+		<version>6.2.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4</app_store_url>
 	</package>
 	<package>
@@ -448,14 +448,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Planner</application_name>
-		<bundleId>com.microsoft.PlannerMobile</bundleId>
-		<currentVersionReleaseDate>September 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b5/6e/ffb56e4f-dc45-5210-74bd-bb591df511fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>17.0</minimumOsVersion>
-		<releaseNotes>Bug fixes and performance improvements.</releaseNotes>
-		<version>1.17.19</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4</app_store_url>
+		<application_name>Microsoft Copilot</application_name>
+		<bundleId>com.microsoft.officemobile</bundleId>
+		<currentVersionReleaseDate>November 16, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/40/6e/cf406ec7-71d5-8354-edbc-b1890faa67e4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>26.0</minimumOsVersion>
+		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
+		<version>2.116.1</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

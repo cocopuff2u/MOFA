@@ -1,6 +1,6 @@
 {
   "latest": {
-    "last_updated": "November 19, 2026 07:14 PM EST",
+    "last_updated": "November 20, 2026 03:01 AM EST",
     "release_notes": {
       "source": "https://support.microsoft.com/en-us/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0",
       "production": {
@@ -8,8 +8,8 @@
         "rolling_out": "26.212.1029.0006 ( universal )"
       },
       "deferred": {
-        "released": "26.123.0628.0001",
-        "rolling_out": "26.189.0928.0009 ( universal ) Target Date: Nov 12, 2026"
+        "released": "26.189.0928.0011",
+        "rolling_out": "26.204.1019.0009 ( universal ) Target Date: Jan 18, 2027 (candidate, not yet rolling out)"
       }
     },
     "package": [
@@ -121,8 +121,8 @@
         "intel_update_sha256": "9fcfa17230fc1229fef9c582d8470d939354605d6981a376c54c632d033a1f91",
         "universal_zip_download": "https://oneclient.sfx.ms/Mac/Apps/26.189.0928.0011/universal/OneDrive.zip",
         "universal_zip_sha1": "4e821fdb72f1b5257d40ba2c9a7ad11d6ad2c8f0",
-        "release_date": "N/A",
-        "release_ring": "N/A",
+        "release_date": "November 16, 2026",
+        "release_ring": "Deferred",
         "first_seen": "November 16, 2026",
         "min_macos": "N/A",
         "cdn_published": "November 16, 2026",
@@ -151,8 +151,8 @@
         "intel_update_sha256": "N/A",
         "universal_zip_download": "N/A",
         "universal_zip_sha1": "N/A",
-        "release_date": "Target Date: Nov 12, 2026",
-        "release_ring": "Deferred",
+        "release_date": "N/A",
+        "release_ring": "N/A",
         "first_seen": "October 23, 2026",
         "min_macos": "N/A",
         "cdn_published": "October 23, 2026",
@@ -161,7 +161,7 @@
         "source": "https://go.microsoft.com/fwlink/?linkid=861010",
         "sha256_source": "microsoft_manifest",
         "sha256_verified": "N/A",
-        "note": "Deferred ring build currently rolling out (see release notes target date). Release notes: 26.189.0928.0009 ( universal ) Target Date: Nov 12, 2026"
+        "note": "Deferred ring build currently rolling out (see release notes target date). Release notes: 26.204.1019.0009 ( universal ) Target Date: Jan 18, 2027 (candidate, not yet rolling out)"
       },
       {
         "name": "Insider Ring",
@@ -225,27 +225,27 @@
       },
       {
         "name": "MSIT Fast Ring (Preview)",
-        "short_version": "26.224.1116",
+        "short_version": "26.226.1118",
         "application_id": "ONDR18",
         "application_name": "OneDrive.app",
         "CFBundleVersion": "com.microsoft.onedrive",
-        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/26.224.1116.0001/universal/OneDrive.pkg",
+        "full_update_download": "https://oneclient.sfx.ms/Mac/Installers/26.226.1118.0001/universal/OneDrive.pkg",
         "full_update_sha1": "N/A",
-        "full_update_sha256": "aa636503aae142e69d86019cc295522eed5839ff3d650b161595ea9f0e1ac556",
-        "last_updated": "November 18, 2026 07:57 PM EST",
-        "build": "26.224.1116.0001",
+        "full_update_sha256": "8eadac6f52487d991123008f240d277f64ed0a8ea9cc16532d259de78207dd8f",
+        "last_updated": "November 20, 2026 03:01 AM EST",
+        "build": "26.226.1118.0001",
         "rollout_percent": "100",
         "min_applicable": "17.003.6389.0225",
         "max_applicable": "26.999.9999.9999",
-        "intel_update_download": "https://oneclient.sfx.ms/Mac/Installers/26.224.1116.0001/OneDrive.pkg",
-        "intel_update_sha256": "e6b3f4628b6f6111673f41251a0f3c8f9a17c489be0681e738997313eb93fb10",
-        "universal_zip_download": "https://oneclient.sfx.ms/Mac/Apps/26.224.1116.0001/universal/OneDrive.zip",
-        "universal_zip_sha1": "eeebc895d6c6a58acdc5635f4704dc31078b278e",
+        "intel_update_download": "https://oneclient.sfx.ms/Mac/Installers/26.226.1118.0001/OneDrive.pkg",
+        "intel_update_sha256": "1495a554253756b599557e2fda0e2177a722eae59adc3f38d5d3e242574aa896",
+        "universal_zip_download": "https://oneclient.sfx.ms/Mac/Apps/26.226.1118.0001/universal/OneDrive.zip",
+        "universal_zip_sha1": "4bf9449ac59c0e2d7ec233015168477f2e014186",
         "release_date": "N/A",
         "release_ring": "N/A",
-        "first_seen": "November 18, 2026",
+        "first_seen": "November 20, 2026",
         "min_macos": "N/A",
-        "cdn_published": "November 18, 2026",
+        "cdn_published": "November 20, 2026",
         "fwlink": "N/A",
         "updater": "OneDrive.app in-app updater",
         "source": "https://g.live.com/0USSDMC_W5T/StandaloneMsitFastManifest",
@@ -331,8 +331,8 @@
         "intel_update_sha256": "9fcfa17230fc1229fef9c582d8470d939354605d6981a376c54c632d033a1f91",
         "universal_zip_download": "https://oneclient.sfx.ms/Mac/Apps/26.189.0928.0011/universal/OneDrive.zip",
         "universal_zip_sha1": "4e821fdb72f1b5257d40ba2c9a7ad11d6ad2c8f0",
-        "release_date": "N/A",
-        "release_ring": "N/A",
+        "release_date": "November 16, 2026",
+        "release_ring": "Deferred",
         "first_seen": "November 16, 2026",
         "min_macos": "N/A",
         "cdn_published": "November 16, 2026",

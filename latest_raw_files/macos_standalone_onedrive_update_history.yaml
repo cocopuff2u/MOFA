@@ -1,7 +1,20 @@
 Releases:
-  last_scan_date: November 19, 2026 07:14 PM EST
-  total_builds: '146'
+  last_scan_date: November 20, 2026 03:01 AM EST
+  total_builds: '147'
   release:
+  - build: 26.226.1118.0001
+    version: 26.226.1118
+    release_date: N/A
+    deferred_release_date: N/A
+    cdn_published: November 20, 2026
+    first_seen: November 20, 2026
+    rings: MSIT Fast
+    universal_download: https://oneclient.sfx.ms/Mac/Installers/26.226.1118.0001/universal/OneDrive.pkg
+    universal_sha256: 8eadac6f52487d991123008f240d277f64ed0a8ea9cc16532d259de78207dd8f
+    intel_download: https://oneclient.sfx.ms/Mac/Installers/26.226.1118.0001/OneDrive.pkg
+    intel_sha256: 1495a554253756b599557e2fda0e2177a722eae59adc3f38d5d3e242574aa896
+    download_available: 'true'
+    sources: manifest:StandaloneMsitFastManifest
   - build: 26.224.1116.0001
     version: 26.224.1116
     release_date: N/A
@@ -470,16 +483,16 @@ Releases:
   - build: 26.189.0928.0011
     version: 26.189.0928
     release_date: N/A
-    deferred_release_date: N/A
+    deferred_release_date: November 16, 2026
     cdn_published: November 16, 2026
     first_seen: November 16, 2026
-    rings: Deferred
+    rings: Deferred, Production
     universal_download: https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0011/universal/OneDrive.pkg
     universal_sha256: 5592663c4607e3e3501e794555823baba474a0720d375379222a64c7f1ab26db
     intel_download: https://oneclient.sfx.ms/Mac/Installers/26.189.0928.0011/OneDrive.pkg
     intel_sha256: 9fcfa17230fc1229fef9c582d8470d939354605d6981a376c54c632d033a1f91
     download_available: 'true'
-    sources: manifest:StandaloneEnterpriseManifest, manifest:MacODSUEnterprise
+    sources: manifest:StandaloneEnterpriseManifest, manifest:MacODSUEnterprise, release_notes
   - build: 26.189.0928.0009
     version: 26.189.0928
     release_date: October 23, 2026

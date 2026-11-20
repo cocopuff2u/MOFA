@@ -1,16 +1,16 @@
 {
-    "last_updated": "November 18, 2026 07:56 PM EST",
+    "last_updated": "November 19, 2026 07:14 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
-            "application_name": "Microsoft Word",
-            "bundleId": "com.microsoft.Office.Word",
-            "currentVersionReleaseDate": "November 16, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/91/2a/54912aa2-4be8-c5c4-c347-de9b3188fa41/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "26.0",
-            "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.116",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
+            "application_name": "NA",
+            "bundleId": "NA",
+            "currentVersionReleaseDate": "NA",
+            "icon_image": "NA",
+            "minimumOsVersion": "NA",
+            "releaseNotes": "NA",
+            "version": "NA",
+            "app_store_url": "NA"
         },
         {
             "name": "iOS Microsoft Excel",
@@ -148,11 +148,11 @@
             "name": "iOS Microsoft Lists",
             "application_name": "Microsoft SharePoint",
             "bundleId": "com.microsoft.sharepoint",
-            "currentVersionReleaseDate": "November 18, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/5f/46/4b5f460a-6d54-0f40-b2d6-808f02ce3337/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 19, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/af/57/caaf571d-d3d0-f216-706e-ea12890761d8/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "18.6",
             "releaseNotes": "\u2022 Updated the app\u2019s interface and navigation to align with SharePoint Discover on the web.\n\u2022 Added Overview, Sites, People, News, Recent, and Favorites tabs.\n\u2022 Overview brings together relevant content, recent items, favorite items, site activity, and updates from coworkers.\n\u2022 Added in-app previews for Word, Excel, PowerPoint, PDFs, images, and videos.\n\u2022 Updated the search interface for finding content across SharePoint and within sites.\n\u2022 Updated the News view with unread and source filters.\n\u2022 Replaced Save for Later with Favorites for saving news and pages.\n\u2022 Added dark mode support.",
-            "version": "6.2.1",
+            "version": "6.2.2",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4"
         },
         {
@@ -214,11 +214,11 @@
             "name": "iOS Microsoft Planner",
             "application_name": "Microsoft Planner",
             "bundleId": "com.microsoft.PlannerMobile",
-            "currentVersionReleaseDate": "September 16, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b5/6e/ffb56e4f-dc45-5210-74bd-bb591df511fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 19, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/0f/ee/760feeb8-1b0d-12d2-a62c-a007c122b4b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements.",
-            "version": "1.17.19",
+            "version": "1.17.21",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4"
         },
         {

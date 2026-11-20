@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 20, 2026 11:47 AM EST",
+    "last_updated": "November 20, 2026 05:57 PM EST",
     "packages": [
         {
             "name": "PowerShell",
@@ -90,14 +90,14 @@
             "application_id": "N/A",
             "application_name": "Azure Functions Core Tools",
             "CFBundleVersion": "N/A",
-            "short_version": "4.16.1",
-            "full_version": "4.16.1",
-            "last_updated": "November 13, 2026",
+            "short_version": "4.17.0",
+            "full_version": "4.17.0",
+            "last_updated": "November 20, 2026",
             "min_os": "N/A",
-            "update_download": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.osx-arm64.4.16.1.zip",
-            "latest_download": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.16.1/Azure.Functions.Cli.osx-arm64.4.16.1.zip",
-            "sha1": "c4871d2139f4c5f9aac95f51b80f5898294b0efa",
-            "sha256": "cf50e58a04991ba3729a5e9fc875632aedf3b80de6cd204ea72ea9dc714f52fd"
+            "update_download": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/Azure.Functions.Cli.osx-arm64.4.17.0.zip",
+            "latest_download": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.17.0/Azure.Functions.Cli.osx-arm64.4.17.0.zip",
+            "sha1": "e3a7c9e16c901d07a9760cae927ba79add8ecc51",
+            "sha256": "b5b4aa59baeddeb8b624fe604c0044134da88fcbeea6f13b1ae9109c879b1920"
         },
         {
             "name": "Azure Developer CLI (azd)",

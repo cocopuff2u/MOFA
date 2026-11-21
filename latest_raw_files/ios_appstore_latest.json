@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 20, 2026 10:43 PM EST",
+    "last_updated": "November 21, 2026 07:01 AM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -247,11 +247,11 @@
             "name": "iOS Microsoft Teams",
             "application_name": "Microsoft Teams",
             "bundleId": "com.microsoft.skype.teams",
-            "currentVersionReleaseDate": "November 21, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/c7/03/97c703d6-59b9-6925-68b8-7ab7f361138d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 18, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/31/63/c73163a6-7b30-1a2b-4e22-e97d93fde709/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "17.0",
             "releaseNotes": "Bug fixes and performance improvements",
-            "version": "8.21.0",
+            "version": "8.20.1",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
             "name": "iOS Microsoft Lens PDF Scanner",
-            "application_name": "Lens - PDF Scanner and Editor",
-            "bundleId": "com.Scantera593thzp.app",
-            "currentVersionReleaseDate": "October 22, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/17/0f/da170ff3-e253-1c35-19ee-d94554d2967c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-            "minimumOsVersion": "16.0",
-            "releaseNotes": "Minor bug fix and code refinements",
-            "version": "1.4.4",
-            "app_store_url": "https://apps.apple.com/us/app/lens-pdf-scanner-and-editor/id6748651078?uo=4"
+            "application_name": "Lens: PDF Scanner & Editor",
+            "bundleId": "com.valeichuk.pdf-editor",
+            "currentVersionReleaseDate": "March 26, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/fc/cf/e8fccfff-be7d-0dfb-8019-0727f36848d5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+            "minimumOsVersion": "17",
+            "releaseNotes": "Bug fixes and performance improvements",
+            "version": "1.0.1",
+            "app_store_url": "https://apps.apple.com/us/app/lens-pdf-scanner-editor/id6758520821?uo=4"
         },
         {
             "name": "iOS Microsoft Work Folders",

@@ -90,18 +90,13 @@ FWLINK_PACKAGES = [
     {"name": "Rolling Out (Unknown Use)", "url": "https://go.microsoft.com/fwlink/?linkid=861011",
      "note": "Purpose not documented by Microsoft; historically lags Production by about a week"},
     {"name": "Production Ring (Official Download Link)", "url": "https://go.microsoft.com/fwlink/?linkid=823060",
-     "note": "The public 'Download OneDrive for Mac' link; matches the release-notes Production version"},
+     "note": "The public 'Download OneDrive for Mac' link; often lags the release-notes Production version"},
 ]
 
-# Per-macOS manifests. The name is the *minimum* macOS a manifest serves: a Mac reads
-# the manifest for the highest threshold at or below its own version, so
-# MacOS15_0Manifest is what every Mac on macOS 15 or newer is offered. The newest
-# threshold that returns content is therefore the live Production ring, and the
-# older ones hold the final build for Macs that cannot run the current release.
-# StandaloneProductManifest still exists but current clients no longer read it
-# (it has sat on the macOS 14 build since April 2026); it is kept as a labelled row.
-# Verified against the in-app updater's logs on a macOS 26 Mac, which fetched the
-# 15.0 manifest's build rather than StandaloneProductManifest's.
+# OneDrive.app (UpdateURLDetector in MSCommon.framework) reads its ring manifest, unless
+# the Mac is below one of these macOS versions, in which case it reads that version's
+# MacOS<T>Manifest. So MacOS<T>Manifest holds the last build for Macs *below* T, and
+# Macs on macOS 15+ always use the ring manifest.
 MACOS_THRESHOLDS = ["10.13", "10.15", "12.3", "13.0", "14.4", "15.0"]
 # Probed every run (a missing manifest answers 204) so a new threshold is picked up
 # as soon as Microsoft publishes one.
@@ -126,7 +121,7 @@ def macos_upper_label(next_threshold):
 
 PACKAGE_ORDER = [
     "Production Ring", "Upcoming Production Ring", "Production Ring (Official Download Link)",
-    "Production Ring (Legacy Manifest)",
+    "Production Ring (In-App Updater)",
     "Deferred Ring", "Upcoming Deferred Ring",
     "Insider Ring", "Upcoming Insider Ring",
     "MSIT Slow Ring (Preview)", "Upcoming MSIT Slow Ring (Preview)",
@@ -179,10 +174,17 @@ def short_version(build):
     return ".".join(build.split(".")[:3]) if build else "N/A"
 
 
+_FWLINK_CACHE = {}
+
+
 def resolve_fwlink(url):
     """Follow redirects with HEAD and return the final URL."""
+    if url in _FWLINK_CACHE:
+        return _FWLINK_CACHE[url]
+    _FWLINK_CACHE[url] = None
     try:
         r = requests.head(url, headers=HEADERS, allow_redirects=True, timeout=TIMEOUT)
+        _FWLINK_CACHE[url] = r.url
         return r.url
     except Exception as e:
         logging.error(f"Could not resolve {url}: {e}")
@@ -292,7 +294,7 @@ def load_first_seen(out_dir):
 def release_info(name, build, dates):
     """(date, ring) Microsoft lists for this build in the ring this row belongs to.
     Deferred rows use the Deferred date. Production-family rows (Production itself, the
-    official download link, the legacy manifest, the last builds for older macOS and the
+    official download link, the per-macOS and generic manifests, the last builds for older macOS and the
     undocumented rolling-out link) use the Production date. Insider and MSIT rows get
     N/A: Microsoft dates nothing for those rings, and the Production date would be weeks
     after the ring actually got the build."""
@@ -467,13 +469,86 @@ def released_entry(entries):
     return next((e for e in entries if e["rollout_percent"] == "100"), entries[-1])
 
 
+def notes_build(text):
+
+    m = re.search(r"\d{2}\.\d{3}\.\d{4}\.\d{4}", text or "")
+    return m.group(0) if m else None
+
+
+def fwlink_if_serves(url, build):
+
+    return url if url and build_from_url(resolve_fwlink(url)) == build else None
+
+
+def pick_production(candidates, mac_table):
+    """The manifest whose released build matches the release notes' Production version,
+    else the newest released build."""
+    candidates = [c for c in candidates if c[2]]
+    if not candidates:
+        return None
+    target = notes_build(mac_table.get("Production", {}).get("released"))
+    released = [(m, u, released_entry(es)) for m, u, es in candidates]
+    for m, u, e in released:
+        if target and e["build"] == target:
+            return m, u, e
+    if target:
+        msg = f"OneDrive: no Production manifest has the release-notes build {target}; using the newest"
+        logging.warning(msg)
+        print(f"::warning title=OneDrive Production mismatch::{msg}")
+    else:
+        print("::warning title=OneDrive release notes::Could not read the Production version from the "
+              "release notes; Production Ring fell back to the newest manifest build")
+    return max(released, key=lambda c: version_key(c[2]["build"]))
+
+
+def production_packages(cfg, sa_entries, mac_table, dates, builds_seen):
+    out = []
+    in_app = fetch_manifest(cfg["in_app"])
+    for e in in_app:
+        builds_seen[e["build"]] = e
+    candidates = [
+        (cfg["in_app"], "OneDrive.app in-app updater", in_app),
+        (cfg["standalone"], "OneDriveStandaloneUpdater (legacy LaunchAgent)", sa_entries),
+    ]
+    picked = pick_production(candidates, mac_table)
+    if not picked:
+        logging.error("No Production manifest has entries")
+        return out
+    manifest, updater, current = picked
+    target = notes_build(mac_table.get("Production", {}).get("released"))
+    why = ("matches the release notes' Production version" if current["build"] == target
+           else "newest fully rolled-out Production build (release notes did not match any manifest)")
+    pkg = package_from_entry("Production Ring", current, updater,
+                             fwlink_if_serves(cfg["fwlink"], current["build"]), dates,
+                             note=f"From {manifest}; {why}")
+    out.append(pkg)
+
+    all_entries = [e for _, _, es in candidates for e in es]
+    newer = [e for e in all_entries if version_key(e["build"]) > version_key(current["build"])]
+    rolling = notes_build(mac_table.get("Production", {}).get("rolling_out"))
+    upcoming = next((e for e in newer if e["build"] == rolling), None)
+    if not upcoming:
+        staged = [e for e in newer if e["rollout_percent"] != "100"]
+        upcoming = max(staged, key=lambda e: version_key(e["build"])) if staged else None
+    if upcoming:
+        note = ("Release notes list this build as rolling out" if upcoming["build"] == rolling
+                else f"Staged rollout at {upcoming['rollout_percent']}% of devices")
+        out.append(package_from_entry("Upcoming Production Ring", upcoming, "OneDrive.app in-app updater",
+                                      None, dates, note=f"{note} (from {upcoming['source'].rsplit('/', 1)[-1]})"))
+
+    if in_app:
+        out.append(package_from_entry(
+            "Production Ring (In-App Updater)", released_entry(in_app), "OneDrive.app in-app updater", None,
+            dates, note=f"{cfg['in_app']}, what OneDrive.app on macOS 15 or newer checks. Runs ahead of the "
+                        "release notes during a rollout; Microsoft's server-side ramp decides who gets it"))
+    return out
+
+
 def build_packages(existing, now):
     mac_table, dates = fetch_release_notes()
     packages = []
     builds_seen = {}  # build -> entry, for fwlink hash reuse
 
-    # Per-macOS manifests, oldest threshold first. The newest one that exists is the
-    # live Production ring (see MACOS_THRESHOLDS above).
     macos_entries = OrderedDict()
     for t in sorted(set(MACOS_THRESHOLDS + MACOS_PROBE), key=version_key):
         entries = fetch_manifest(macos_manifest(t), quiet=t not in MACOS_THRESHOLDS)
@@ -481,44 +556,33 @@ def build_packages(existing, now):
             macos_entries[t] = entries
             for e in entries:
                 builds_seen.setdefault(e["build"], e)
-    production_threshold = next(reversed(macos_entries)) if macos_entries else None
-    if production_threshold and production_threshold not in MACOS_THRESHOLDS:
-        logging.warning(f"New per-macOS manifest found: {macos_manifest(production_threshold)}; add it to MACOS_THRESHOLDS")
+    for t in macos_entries:
+        if t not in MACOS_THRESHOLDS:
+            msg = (f"New per-macOS manifest found: {macos_manifest(t)}. Check that OneDrive.app "
+                   "actually requests it, then add it to MACOS_THRESHOLDS")
+            logging.warning(msg)
+            print(f"::warning title=OneDrive new manifest::{msg}")
 
     for ring, cfg in RINGS.items():
-        # In-app updater manifest is the primary row for the ring. Production comes
-        # from the newest per-macOS manifest; StandaloneProductManifest is legacy.
-        note = "N/A"
-        if ring == "Production Ring" and production_threshold:
-            entries = macos_entries[production_threshold]
-            note = (f"From {macos_manifest(production_threshold)}, the manifest Macs on macOS "
-                    f"{production_threshold} and newer read")
+        sa_entries = fetch_manifest(cfg["standalone"])
+        if ring == "Production Ring":
+            packages.extend(production_packages(cfg, sa_entries, mac_table, dates, builds_seen))
         else:
             entries = fetch_manifest(cfg["in_app"])
-        if entries:
-            current = released_entry(entries)
-            packages.append(package_from_entry(ring, current, "OneDrive.app in-app updater", cfg["fwlink"], dates, note=note))
-            if ring == "Production Ring" and production_threshold:
-                packages[-1]["min_macos"] = production_threshold
-            for e in entries:
-                builds_seen[e["build"]] = e
-                if e is not current and e["build"] > current["build"]:
-                    packages.append(package_from_entry(
-                        f"Upcoming {ring}", e, "OneDrive.app in-app updater", None, dates,
-                        note=f"Staged rollout at {e['rollout_percent']}% of devices"))
-        else:
-            logging.error(f"No entries in {cfg['in_app']}")
-
-        if ring == "Production Ring" and production_threshold:
-            legacy = fetch_manifest(cfg["in_app"])
-            if legacy:
-                packages.append(package_from_entry(
-                    "Production Ring (Legacy Manifest)", released_entry(legacy), "OneDrive.app in-app updater", None, dates,
-                    note="StandaloneProductManifest. Current clients read the per-macOS manifests instead; "
-                         "kept for reference"))
+            if entries:
+                current = released_entry(entries)
+                packages.append(package_from_entry(ring, current, "OneDrive.app in-app updater",
+                                                   fwlink_if_serves(cfg["fwlink"], current["build"]), dates))
+                for e in entries:
+                    builds_seen[e["build"]] = e
+                    if e is not current and version_key(e["build"]) > version_key(current["build"]):
+                        packages.append(package_from_entry(
+                            f"Upcoming {ring}", e, "OneDrive.app in-app updater", None, dates,
+                            note=f"Staged rollout at {e['rollout_percent']}% of devices"))
+            else:
+                logging.error(f"No entries in {cfg['in_app']}")
 
         # Legacy standalone updater manifest
-        sa_entries = fetch_manifest(cfg["standalone"])
         if sa_entries:
             e = released_entry(sa_entries)
             for entry in sa_entries:
@@ -559,22 +623,20 @@ def build_packages(existing, now):
                 except Exception as ex:
                     logging.error(f"Could not hash {final}: {ex}")
         pkg["release_date"], pkg["release_ring"] = release_info(item["name"], build, dates)
-        if item["name"].startswith("Production") and production_threshold \
-                and any(e["build"] == build for e in macos_entries[production_threshold]):
-            pkg["min_macos"] = production_threshold
         if item["name"] == "Upcoming Deferred Ring" and mac_table.get("Deferred", {}).get("rolling_out") not in (None, "N/A"):
             pkg["note"] = f"{item['note']}. Release notes: {mac_table['Deferred']['rolling_out']}"
         packages.append(pkg)
 
-    # Last supported builds for older macOS: every per-macOS manifest except the newest
-    thresholds = list(macos_entries)
-    for i, t in enumerate(thresholds[:-1]):
-        upper = macos_upper_label(thresholds[i + 1])
+    thresholds = [t for t in sorted(MACOS_THRESHOLDS, key=version_key) if t in macos_entries]
+    thresholds += [t for t in macos_entries if t not in thresholds]
+    for i, t in enumerate(thresholds):
+        upper = macos_upper_label(t)
+        lower = thresholds[i - 1] if i else None
+        span = f"{lower} to {upper}" if lower else f"below {t}"
         packages.append(package_from_entry(
-            f"Last Build for macOS {t} to {upper}", macos_entries[t][0], "OneDrive.app in-app updater", None, dates,
-            note=f"Final build offered to Macs on macOS {t} through {upper}; "
-                 f"newer macOS reads {macos_manifest(thresholds[i + 1])}"))
-        packages[-1]["min_macos"] = t
+            f"Last Build for macOS {span}", macos_entries[t][0], "OneDrive.app in-app updater", None, dates,
+            note=f"From {macos_manifest(t)}: the final build offered to Macs on macOS {span}"))
+        packages[-1]["min_macos"] = lower or "N/A"
 
     # Order: known names first in PACKAGE_ORDER, then legacy macOS rows in list order
     order = {n: i for i, n in enumerate(PACKAGE_ORDER)}

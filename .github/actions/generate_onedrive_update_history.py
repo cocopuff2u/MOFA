@@ -90,6 +90,7 @@ OLD_NAME_TO_RING = {
     "Rolling Out (Unknown Use)": "Rolling Out", "App New Version (Unknown Use)": "Production",
     "Production Ring (Official Download Link)": "Production",
     "Production Ring (Legacy Manifest)": "Production",
+    "Production Ring (In-App Updater)": "Production",
     "MSIT Slow Ring (Preview)": "MSIT Slow", "Upcoming MSIT Slow Ring (Preview)": "MSIT Slow",
     "MSIT Fast Ring (Preview)": "MSIT Fast", "Upcoming MSIT Fast Ring (Preview)": "MSIT Fast",
 }

@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 21, 2026 06:41 PM EST",
+    "last_updated": "November 21, 2026 11:52 PM EST",
     "packages": [
         {
             "name": "MacOS Microsoft Word",
@@ -93,11 +93,11 @@
             "name": "MacOS Microsoft To-Do",
             "application_name": "Microsoft To Do",
             "bundleId": "com.microsoft.to-do-mac",
-            "currentVersionReleaseDate": "July 06, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/26/b8/7f26b821-f687-812d-0ff5-d0b85264256f/AppIcon-Release-0-85-220-0-5-0-0-2x-sRGB-0-0.png/512x512bb.png",
+            "currentVersionReleaseDate": "November 21, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/0e/df/7d0edfca-b317-1362-c739-898f5b8a10d0/AppIcon-Release-0-85-220-0-5-0-0-2x-sRGB-0-0.png/512x512bb.png",
             "minimumOsVersion": "13.0",
             "releaseNotes": "We fixed some bugs to improve the app experience.",
-            "version": "2.177",
+            "version": "2.183",
             "app_store_url": "https://apps.apple.com/us/app/microsoft-to-do/id1274495053?mt=12&uo=4"
         },
         {

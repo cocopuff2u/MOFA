@@ -1,4 +1,4 @@
-last_updated: November 23, 2026 05:13 AM EST
+last_updated: November 23, 2026 05:25 PM EST
 packages:
   - name: MacOS Microsoft Word
     application_name: Microsoft Word
@@ -66,15 +66,16 @@ packages:
     version: 26.189.0928
     app_store_url: https://apps.apple.com/us/app/onedrive/id823766827?mt=12&uo=4
   - name: MacOS RMS Sharing
-    application_name: Xiaomi Interconnectivity
-    bundleId: com.xiaomi.hyperConnect
-    currentVersionReleaseDate: November 13, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/24/e6/f924e6d2-cc20-ff6a-3337-a3690644c6ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg
-    minimumOsVersion: '14.0'
-    releaseNotes: We've improved the user experience and  fixed some known issues
-      in this version.
-    version: 3.2.0
-    app_store_url: https://apps.apple.com/us/app/xiaomi-interconnectivity/id6673908449?uo=4
+    application_name: 'PocketServer: Folder Sharing'
+    bundleId: com.baonguyen.PocketServer
+    currentVersionReleaseDate: October 05, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/07/b9/ac07b961-4e94-30d8-f09d-06286f2598e4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg
+    minimumOsVersion: '15.6'
+    releaseNotes: 'HTTPS support: Encrypt File Sharing and Folder Sharing connections
+      with an optional HTTPS toggle in each server''s settings. Browsers will show
+      a warning the first time, which is expected for local servers.'
+    version: 2.0.0
+    app_store_url: https://apps.apple.com/us/app/pocketserver-folder-sharing/id6743850070?uo=4
   - name: MacOS Microsoft Windows App
     application_name: Windows App
     bundleId: com.microsoft.rdc.macos
@@ -112,11 +113,27 @@ packages:
   - name: MacOS Microsoft CoPilot
     application_name: 'Copilot: Track & Budget Money'
     bundleId: com.copilot.production
-    currentVersionReleaseDate: November 04, 2026
-    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/60/4e/cd604e76-d7cf-0147-36ba-ed9b436fae7b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
+    currentVersionReleaseDate: November 23, 2026
+    icon_image: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/bc/fd/44bcfd8f-5def-3a55-9cca-4ebc1fa17768/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg
     minimumOsVersion: '17.0'
-    releaseNotes: "In this release:\n\u2022 Fixed: A few minor bug fixes and improvements"
-    version: 8.7.2
+    releaseNotes: "In this release:\n\nNew\n\u2022 Ask the Money Assistant from wherever\
+      \ you are (iOS 26+). A suggested question now appears next to the assistant\
+      \ button on recurrings, credit cards, transactions, investment accounts, categories\
+      \ and more, like \u201CWhy the increase?\u201D on a recurring that went up.\n\
+      \u2022 A new What\u2019s New section in Settings, starting with the Money Assistant\
+      \ (iOS 26+). A dot on the Settings gear tells you when there\u2019s something\
+      \ new.\n\u2022 Swipe to delete a conversation from your recent Money Assistant\
+      \ chats (iOS 26+).\n\u2022 Easier than ever to get to Copilot on your Mac or\
+      \ the web from your iPhone app. Find the links in Settings, then email them\
+      \ to yourself or copy them.\n\nImproved\n\u2022 Consistent button styling throughout\
+      \ the app\n\u2022 Easier-to-read Settings\n\u2022 Smaller sheets scroll as one\
+      \ piece, with a subtle line under the header\n\u2022 On iPad, transaction details\
+      \ now follow the same order as the web app\n\u2022 A refined Money Assistant\
+      \ look in light and dark mode, with Genmoji and stickers in replies\n\nFixed\n\
+      \u2022 Tapping your briefing notification opens your briefing\n\u2022 Splitting\
+      \ a transaction saves reliably\n\u2022 Investments and Accounts cards no longer\
+      \ flicker behind sheets\n\u2022 Other bug fixes and performance improvements"
+    version: 8.8.0
     app_store_url: https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651?uo=4
   - name: MacOS Microsoft Azure VPN Client
     application_name: Azure VPN Client

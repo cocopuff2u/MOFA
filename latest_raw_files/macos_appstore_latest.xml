@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 23, 2026 05:13 AM EST</last_updated>
+	<last_updated>November 23, 2026 05:25 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -79,14 +79,14 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>Xiaomi Interconnectivity</application_name>
-		<bundleId>com.xiaomi.hyperConnect</bundleId>
-		<currentVersionReleaseDate>November 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/24/e6/f924e6d2-cc20-ff6a-3337-a3690644c6ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>We've improved the user experience and  fixed some known issues in this version.</releaseNotes>
-		<version>3.2.0</version>
-		<app_store_url>https://apps.apple.com/us/app/xiaomi-interconnectivity/id6673908449?uo=4</app_store_url>
+		<application_name>PocketServer: Folder Sharing</application_name>
+		<bundleId>com.baonguyen.PocketServer</bundleId>
+		<currentVersionReleaseDate>October 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/07/b9/ac07b961-4e94-30d8-f09d-06286f2598e4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.6</minimumOsVersion>
+		<releaseNotes>HTTPS support: Encrypt File Sharing and Folder Sharing connections with an optional HTTPS toggle in each server's settings. Browsers will show a warning the first time, which is expected for local servers.</releaseNotes>
+		<version>2.0.0</version>
+		<app_store_url>https://apps.apple.com/us/app/pocketserver-folder-sharing/id6743850070?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>
@@ -129,12 +129,30 @@ If you encounter any errors, you can contact us via Help &gt; Submit Feedback.</
 		<name>MacOS Microsoft CoPilot</name>
 		<application_name>Copilot: Track &amp; Budget Money</application_name>
 		<bundleId>com.copilot.production</bundleId>
-		<currentVersionReleaseDate>November 04, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/60/4e/cd604e76-d7cf-0147-36ba-ed9b436fae7b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/bc/fd/44bcfd8f-5def-3a55-9cca-4ebc1fa17768/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>In this release:
-• Fixed: A few minor bug fixes and improvements</releaseNotes>
-		<version>8.7.2</version>
+
+New
+• Ask the Money Assistant from wherever you are (iOS 26+). A suggested question now appears next to the assistant button on recurrings, credit cards, transactions, investment accounts, categories and more, like “Why the increase?” on a recurring that went up.
+• A new What’s New section in Settings, starting with the Money Assistant (iOS 26+). A dot on the Settings gear tells you when there’s something new.
+• Swipe to delete a conversation from your recent Money Assistant chats (iOS 26+).
+• Easier than ever to get to Copilot on your Mac or the web from your iPhone app. Find the links in Settings, then email them to yourself or copy them.
+
+Improved
+• Consistent button styling throughout the app
+• Easier-to-read Settings
+• Smaller sheets scroll as one piece, with a subtle line under the header
+• On iPad, transaction details now follow the same order as the web app
+• A refined Money Assistant look in light and dark mode, with Genmoji and stickers in replies
+
+Fixed
+• Tapping your briefing notification opens your briefing
+• Splitting a transaction saves reliably
+• Investments and Accounts cards no longer flicker behind sheets
+• Other bug fixes and performance improvements</releaseNotes>
+		<version>8.8.0</version>
 		<app_store_url>https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651?uo=4</app_store_url>
 	</package>
 	<package>

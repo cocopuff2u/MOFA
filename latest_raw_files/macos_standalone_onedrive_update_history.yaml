@@ -1,7 +1,20 @@
 Releases:
-  last_scan_date: November 23, 2026 05:13 AM EST
-  total_builds: '149'
+  last_scan_date: November 23, 2026 05:26 PM EST
+  total_builds: '150'
   release:
+  - build: 26.228.1122.0001
+    version: 26.228.1122
+    release_date: N/A
+    deferred_release_date: N/A
+    cdn_published: November 23, 2026
+    first_seen: November 23, 2026
+    rings: MSIT Fast
+    universal_download: https://oneclient.sfx.ms/Mac/Installers/26.228.1122.0001/universal/OneDrive.pkg
+    universal_sha256: 0052729045ccd6c328c25a3d4e48e5af7aefa3940b1ddc6994876341f8d4d1fb
+    intel_download: https://oneclient.sfx.ms/Mac/Installers/26.228.1122.0001/OneDrive.pkg
+    intel_sha256: 1d9fcaa759f54c432a8502ef6691fb2691872e60a0de2d6251650b2cf4144fb3
+    download_available: 'true'
+    sources: manifest:StandaloneMsitFastManifest
   - build: 26.227.1119.0001
     version: 26.227.1119
     release_date: N/A
@@ -213,7 +226,7 @@ Releases:
     intel_sha256: 986bec744b32f962e0b44180995657d23cc0e41e46025bcfcce3f253730b48fe
     download_available: 'true'
     sources: manifest:StandaloneInsidersManifest, manifest:StandaloneProductManifest,
-      manifest:MacODSUInsiders, release_notes
+      manifest:MacODSUInsiders, release_notes, manifest:MacODSUProduction
   - build: 26.212.1029.0005
     version: 26.212.1029
     release_date: N/A

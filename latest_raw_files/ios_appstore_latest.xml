@@ -1,37 +1,37 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 23, 2026 05:13 AM EST</last_updated>
+	<last_updated>November 23, 2026 05:25 PM EST</last_updated>
 	<package>
 		<name>iOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
 		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>November 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/91/2a/54912aa2-4be8-c5c4-c347-de9b3188fa41/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/c7/82/77c782b2-3a4f-e4f3-6899-1acf28e0c2c9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.116</version>
+		<version>2.116.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Excel</name>
 		<application_name>Microsoft Excel</application_name>
 		<bundleId>com.microsoft.Office.Excel</bundleId>
-		<currentVersionReleaseDate>November 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/e7/6a/81e76ad7-892b-819c-e009-779d92db5221/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/56/7ccc56ad-c025-55f9-1d76-56b4580f4752/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
-		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.116</version>
+		<releaseNotes>• iPhone Duo support: View, edit, and analyze workbooks on iPhone Duo.</releaseNotes>
+		<version>2.116.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft PowerPoint</name>
 		<application_name>Microsoft PowerPoint</application_name>
 		<bundleId>com.microsoft.Office.Powerpoint</bundleId>
-		<currentVersionReleaseDate>November 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/0c/19/240c1934-4d98-cbbb-4dc0-77065aa64f2c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/0e/a9/d10ea949-1e61-34c4-bb5c-21c28a60165a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.116</version>
+		<version>2.116.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4</app_store_url>
 	</package>
 	<package>
@@ -51,8 +51,8 @@ Feel free to send us any comments or questions by going to Settings &gt; Help &a
 		<name>iOS Microsoft OneNote</name>
 		<application_name>Microsoft OneNote</application_name>
 		<bundleId>com.microsoft.onenote</bundleId>
-		<currentVersionReleaseDate>November 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/25/5e/7e255e92-95ec-8e1b-40df-07200024e09c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/50/66/30506679-b5f3-4013-c602-b91561d8ffbe/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>This month’s update is bug fixes only.
 
@@ -60,7 +60,7 @@ Thanks for using OneNote! We listened to your feedback and updated the applicati
  
 Having trouble? Send feedback in the app (OneNote-&gt;Settings-&gt;Send Feedback) 
 Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedback</releaseNotes>
-		<version>16.116</version>
+		<version>16.116.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4</app_store_url>
 	</package>
 	<package>
@@ -108,11 +108,11 @@ If you encounter any errors, you can contact us via Settings &gt; Submit Feedbac
 		<name>iOS Microsoft Copilot</name>
 		<application_name>Microsoft Copilot</application_name>
 		<bundleId>com.microsoft.officemobile</bundleId>
-		<currentVersionReleaseDate>November 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/40/6e/cf406ec7-71d5-8354-edbc-b1890faa67e4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/34/63/1f3463ab-8a76-1319-5d08-75fd1ffe8cfd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.116.1</version>
+		<version>2.116.2</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
@@ -250,13 +250,13 @@ Like Whiteboard?
 		<name>iOS Microsoft Edge AI Browser</name>
 		<application_name>Microsoft Edge</application_name>
 		<bundleId>com.microsoft.msedge</bundleId>
-		<currentVersionReleaseDate>November 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/49/c6/8749c6ba-f220-c9e2-c6b4-9cfc0e24900a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/63/54/02635443-d947-5cd6-c964-bfeeb0b85e77/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>18.0</minimumOsVersion>
 		<releaseNotes>Welcome to Microsoft Edge! Check out what's new in this release.
 • Bug fixes, stability and performance improvements.
 Upgrade to the latest version and enjoy a smarter and more efficient Microsoft Edge!</releaseNotes>
-		<version>157.4341.57</version>
+		<version>158.4370.33</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4</app_store_url>
 	</package>
 	<package>
@@ -309,11 +309,11 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 		<name>iOS Microsoft Teams</name>
 		<application_name>Microsoft Teams</application_name>
 		<bundleId>com.microsoft.skype.teams</bundleId>
-		<currentVersionReleaseDate>November 21, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/c7/03/97c703d6-59b9-6925-68b8-7ab7f361138d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/e6/1f/cce61f57-3041-4984-41fa-e43c7a96b585/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>17.0</minimumOsVersion>
 		<releaseNotes>Bug fixes and performance improvements</releaseNotes>
-		<version>8.21.0</version>
+		<version>8.21.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4</app_store_url>
 	</package>
 	<package>
@@ -448,14 +448,14 @@ Please reach out to us for any questions, concerns, or feature requests.</releas
 	</package>
 	<package>
 		<name>iOS Microsoft 365 Office</name>
-		<application_name>Microsoft Word</application_name>
-		<bundleId>com.microsoft.Office.Word</bundleId>
-		<currentVersionReleaseDate>November 16, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/91/2a/54912aa2-4be8-c5c4-c347-de9b3188fa41/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg</icon_image>
+		<application_name>Microsoft Copilot</application_name>
+		<bundleId>com.microsoft.officemobile</bundleId>
+		<currentVersionReleaseDate>November 23, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/34/63/1f3463ab-8a76-1319-5d08-75fd1ffe8cfd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg</icon_image>
 		<minimumOsVersion>26.0</minimumOsVersion>
 		<releaseNotes>• General quality and performance enhancements.</releaseNotes>
-		<version>2.116</version>
-		<app_store_url>https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4</app_store_url>
+		<version>2.116.2</version>
+		<app_store_url>https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>iOS Microsoft Skype for Business</name>

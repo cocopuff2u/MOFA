@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Releases>
-    <last_scan_date>November 25, 2026 07:03 AM EST</last_scan_date>
+    <last_scan_date>November 25, 2026 04:32 PM EST</last_scan_date>
     <total_builds>151</total_builds>
     <release>
         <build>26.228.1122.0001</build>
@@ -75,7 +75,7 @@
         <intel_download>https://oneclient.sfx.ms/Mac/Installers/26.224.1116.0001/OneDrive.pkg</intel_download>
         <intel_sha256>e6b3f4628b6f6111673f41251a0f3c8f9a17c489be0681e738997313eb93fb10</intel_sha256>
         <download_available>true</download_available>
-        <sources>manifest:StandaloneMsitFastManifest</sources>
+        <sources>manifest:StandaloneMsitFastManifest, manifest:MacODSUMsitFast</sources>
     </release>
     <release>
         <build>26.222.1112.0001</build>

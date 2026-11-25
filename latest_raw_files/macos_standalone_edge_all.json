@@ -1,28 +1,28 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "November 25, 2026 07:03 AM EST",
+        "last_updated": "November 25, 2026 04:33 PM EST",
         "Version": [
             {
                 "Name": "current",
-                "Version": "158.0.4370.33",
+                "Version": "158.0.4370.45",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5ae0864c-e816-4e7a-b349-a25b2a188c7e/MicrosoftEdge-158.0.4370.33.pkg",
-                "Full_Update_Sha1": "b5bbb7b1285654f38792278a94de4b506655d4c1",
-                "Full_Update_Sha256": "998be27dce0901ee13eb021473d2d7bdb79788af5519991c5296971035d478f7",
-                "Last_Update": "November 19, 2026 04:02 PM EST"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/29fb8188-da01-426d-ae95-74e0cd91b45e/MicrosoftEdge-158.0.4370.45.pkg",
+                "Full_Update_Sha1": "bce0bb967631542c7069d3feba97ef89c0294fc6",
+                "Full_Update_Sha256": "b042770ef89cc6b6bd85c967d64100b331deb7cdd6ef0d7c3f8c6eef10306231",
+                "Last_Update": "November 25, 2026 04:13 PM EST"
             },
             {
                 "Name": "canary",
-                "Version": "160.0.4424.0",
+                "Version": "160.0.4426.0",
                 "Application_ID": "EDGE01",
                 "Application_Name": "Microsoft Edge.app",
                 "CFBundleVersion": "com.microsoft.edgemac",
-                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b1f3123b-badc-48e9-8806-bc9c70a3108e/MicrosoftEdgeCanary-160.0.4424.0.pkg",
-                "Full_Update_Sha1": "0ee5e5ed0aebfe60e9d86938848eaf4316832438",
-                "Full_Update_Sha256": "89e38654fa96ec5fd4c34ad657f04554aca6f56ab45493af4aaad71f93b84dd2",
-                "Last_Update": "November 24, 2026 04:03 PM EST"
+                "Full_Update_Download": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/aba7ab10-dd44-48e6-bbef-9daff8ec6a0c/MicrosoftEdgeCanary-160.0.4426.0.pkg",
+                "Full_Update_Sha1": "db4a86667a2e4822e34744b4028df58b739f5259",
+                "Full_Update_Sha256": "39b90c42fa9120a3af081e1136e9ec93549425816f0dc6d8dd7db59bc501debf",
+                "Last_Update": "November 25, 2026 03:50 PM EST"
             },
             {
                 "Name": "dev",

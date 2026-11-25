@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 24, 2026 01:36 PM EST</last_updated>
+	<last_updated>November 24, 2026 09:54 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -38,8 +38,8 @@
 		<name>MacOS Microsoft Outlook</name>
 		<application_name>Microsoft Outlook</application_name>
 		<bundleId>com.microsoft.Outlook</bundleId>
-		<currentVersionReleaseDate>November 24, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/87/3e/4d873e81-a56c-daa6-4ba2-81e6266a631d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>November 18, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/76/86/697686b8-4ce9-da21-b191-99cdd9ef752d/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>15.0</minimumOsVersion>
 		<releaseNotes>Feature Updates:
 • General: OLM Import is now supported for Mail and Contacts
@@ -47,7 +47,7 @@
 • Mail: OFT templates for draft creation are now supported
 • Calendar: See and update your work location and working hours from list view and agenda view
 • Calendar: Print event descriptions in plain text when printing in list view</releaseNotes>
-		<version>16.115.2</version>
+		<version>16.115.1</version>
 		<app_store_url>https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
@@ -79,14 +79,14 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>Xiaomi Interconnectivity</application_name>
-		<bundleId>com.xiaomi.hyperConnect</bundleId>
-		<currentVersionReleaseDate>November 13, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/24/e6/f924e6d2-cc20-ff6a-3337-a3690644c6ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>14.0</minimumOsVersion>
-		<releaseNotes>We've improved the user experience and  fixed some known issues in this version.</releaseNotes>
-		<version>3.2.0</version>
-		<app_store_url>https://apps.apple.com/us/app/xiaomi-interconnectivity/id6673908449?uo=4</app_store_url>
+		<application_name>PocketServer: Folder Sharing</application_name>
+		<bundleId>com.baonguyen.PocketServer</bundleId>
+		<currentVersionReleaseDate>October 05, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/07/b9/ac07b961-4e94-30d8-f09d-06286f2598e4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.6</minimumOsVersion>
+		<releaseNotes>HTTPS support: Encrypt File Sharing and Folder Sharing connections with an optional HTTPS toggle in each server's settings. Browsers will show a warning the first time, which is expected for local servers.</releaseNotes>
+		<version>2.0.0</version>
+		<app_store_url>https://apps.apple.com/us/app/pocketserver-folder-sharing/id6743850070?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

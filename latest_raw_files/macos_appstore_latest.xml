@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <latest>
-	<last_updated>November 25, 2026 04:31 PM EST</last_updated>
+	<last_updated>November 25, 2026 10:55 PM EST</last_updated>
 	<package>
 		<name>MacOS Microsoft Word</name>
 		<application_name>Microsoft Word</application_name>
@@ -70,23 +70,23 @@ Have an idea? Add to our feature suggestion box at https://aka.ms/onenotefeedbac
 		<name>MacOS Microsoft OneDrive</name>
 		<application_name>OneDrive</application_name>
 		<bundleId>com.microsoft.OneDrive-mac</bundleId>
-		<currentVersionReleaseDate>November 02, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/70/70/85707050-8924-cda3-2c20-84c8246d588d/OneDrive.png/512x512bb.png</icon_image>
+		<currentVersionReleaseDate>November 25, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/09/7a/54097a4c-39b6-5732-2316-d372f751dc8b/OneDrive-0-0-85-220-0-0-6-0-2x.png/512x512bb.png</icon_image>
 		<minimumOsVersion>14.4</minimumOsVersion>
 		<releaseNotes>Thank you for using OneDrive. We are always looking to update OneDrive to bring you the latest performance improvements and bug fixes for the best experience.</releaseNotes>
-		<version>26.189.0928</version>
+		<version>26.213.1101</version>
 		<app_store_url>https://apps.apple.com/us/app/onedrive/id823766827?mt=12&amp;uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS RMS Sharing</name>
-		<application_name>PocketServer: Folder Sharing</application_name>
-		<bundleId>com.baonguyen.PocketServer</bundleId>
-		<currentVersionReleaseDate>October 05, 2026</currentVersionReleaseDate>
-		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/07/b9/ac07b961-4e94-30d8-f09d-06286f2598e4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg</icon_image>
-		<minimumOsVersion>15.6</minimumOsVersion>
-		<releaseNotes>HTTPS support: Encrypt File Sharing and Folder Sharing connections with an optional HTTPS toggle in each server's settings. Browsers will show a warning the first time, which is expected for local servers.</releaseNotes>
-		<version>2.0.0</version>
-		<app_store_url>https://apps.apple.com/us/app/pocketserver-folder-sharing/id6743850070?uo=4</app_store_url>
+		<application_name>Share-A-Cart</application_name>
+		<bundleId>com.shareacart.Share-A-Cart-for-Everything</bundleId>
+		<currentVersionReleaseDate>November 24, 2026</currentVersionReleaseDate>
+		<icon_image>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/22/ea/0b22ea62-0cc6-e711-2de8-0a237871039b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg</icon_image>
+		<minimumOsVersion>15.1</minimumOsVersion>
+		<releaseNotes>Updated extension.</releaseNotes>
+		<version>4.5.1</version>
+		<app_store_url>https://apps.apple.com/us/app/share-a-cart/id1537641390?uo=4</app_store_url>
 	</package>
 	<package>
 		<name>MacOS Microsoft Windows App</name>

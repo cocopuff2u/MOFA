@@ -1,4 +1,4 @@
-last_updated: November 26, 2026 08:30 AM EST
+last_updated: November 26, 2026 05:46 PM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -76,14 +76,14 @@ packages:
   application_id: TEAMS21
   application_name: Microsoft Teams.app
   CFBundleVersion: com.microsoft.teams2
-  short_version: 26320.1601.5382.5606
-  full_version: 26320.1601.5382.5606
-  last_updated: November 17, 2026
+  short_version: 26323.2702.5418.9114
+  full_version: 26323.2702.5418.9114
+  last_updated: November 24, 2026
   min_os: '14.0'
-  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26320.1601.5382.5606/MicrosoftTeams_arm64_26276.505.5234.9924_to_26320.1601.5382.5606_BinaryDelta.pkg
-  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26320.1601.5382.5606/MicrosoftTeams_arm64_26276.505.5234.9924_to_26320.1601.5382.5606_BinaryDelta.pkg
-  sha1: f909fc2c8577bb993bae77ce94e0acb7a0ad87f8
-  sha256: b9b283939bfd789c9657c6b38161cf7e87c2cf18f1e0a417d85298ca463eacee
+  update_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26323.2702.5418.9114/MicrosoftTeams_arm64_26276.505.5234.9924_to_26323.2702.5418.9114_BinaryDelta.pkg
+  latest_download: https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26323.2702.5418.9114/MicrosoftTeams_arm64_26276.505.5234.9924_to_26323.2702.5418.9114_BinaryDelta.pkg
+  sha1: 5fcd6b070af284ff156dbcc9bda24f892ab37be3
+  sha256: cb27e779a29bcb8286c8a15251b9afc48518102cb2e2e97806737dba15f8c8ef
 - name: Intune
   application_id: IMCP01
   application_name: Company Portal.app
@@ -152,7 +152,7 @@ packages:
   full_version: 1.149.0-insider
   last_updated: November 26, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/71455ead7e42b27ba0498d3c1c40c7ca4aea9398/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/c9e45a55a0bfce9628d281fb38e43de7fd138818/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

@@ -1,4 +1,4 @@
-last_updated: November 27, 2026 09:39 AM EST
+last_updated: November 27, 2026 06:11 PM EST
 packages:
 - name: Word
   application_id: MSWD2019
@@ -112,14 +112,14 @@ packages:
   application_id: WDAV00
   application_name: Microsoft Defender.app
   CFBundleVersion: com.microsoft.wdav
-  short_version: 101.26092.0012
-  full_version: 101.26092.0012
-  last_updated: October 28, 2026
+  short_version: 101.26102.0009
+  full_version: 101.26102.0009
+  last_updated: November 14, 2026
   min_os: '14.0'
   update_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
   latest_download: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/wdav-upgrade.pkg
-  sha1: 125482279f943afa90cf4d2268b4858514b0ef6a
-  sha256: 4dd32d78984a530be9145766ed86ca8a631ace3bc239a5bf8f9e57c88a4cbeef
+  sha1: 5c33ffcba0b92c66b6d774f9440518c402285623
+  sha256: 496963cded2f87f83c28420881cf0ed698f5087df6a0b02bc15921f8c48db316
 - name: Defender For Consumers
   application_id: WDAVCONSUMER
   application_name: Microsoft Defender.app
@@ -152,7 +152,7 @@ packages:
   full_version: 1.149.0-insider
   last_updated: November 27, 2026
   min_os: N/A
-  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/e8b6d8b546735371b1d04237b0a7c40558ad82a6/VSCode-darwin-universal.zip
+  update_download: https://vscode.download.prss.microsoft.com/dbazure/download/insider/d7885d3da4a36d9ce6e51a1ee2d4710883450396/VSCode-darwin-universal.zip
   latest_download: https://code.visualstudio.com/sha/download?build=insider&os=darwin-universal
   sha1: N/A
   sha256: N/A

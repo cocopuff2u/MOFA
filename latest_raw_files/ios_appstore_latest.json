@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 26, 2026 11:44 PM EST",
+    "last_updated": "November 27, 2026 06:10 PM EST",
     "packages": [
         {
             "name": "iOS Microsoft Word",
@@ -269,11 +269,11 @@
             "name": "iOS Microsoft Dynamics 365 Business Central",
             "application_name": "Dynamics 365 Business Central",
             "bundleId": "com.microsoft.dynamics.ProjectMadeira",
-            "currentVersionReleaseDate": "November 05, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/08/2c/8a082cfb-f1b9-1b29-d645-4420afc2ffc6/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg",
+            "currentVersionReleaseDate": "November 27, 2026",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/95/cc/4c95cc6e-5c1e-86c9-51ed-36fc822f02f1/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/512x512bb.jpg",
             "minimumOsVersion": "15.0",
-            "releaseNotes": "Support for iOS 27.2",
-            "version": "4.6.11041",
+            "releaseNotes": "Security and bug fixes.",
+            "version": "4.7.11251",
             "app_store_url": "https://apps.apple.com/us/app/dynamics-365-business-central/id1093325047?uo=4"
         },
         {
@@ -377,14 +377,14 @@
         },
         {
             "name": "iOS Microsoft 365 Office",
-            "application_name": "Microsoft Word",
-            "bundleId": "com.microsoft.Office.Word",
+            "application_name": "Microsoft Copilot",
+            "bundleId": "com.microsoft.officemobile",
             "currentVersionReleaseDate": "November 23, 2026",
-            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/c7/82/77c782b2-3a4f-e4f3-6899-1acf28e0c2c9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+            "icon_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/34/63/1f3463ab-8a76-1319-5d08-75fd1ffe8cfd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
             "minimumOsVersion": "26.0",
             "releaseNotes": "\u2022 General quality and performance enhancements.",
-            "version": "2.116.1",
-            "app_store_url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
+            "version": "2.116.2",
+            "app_store_url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041?uo=4"
         },
         {
             "name": "iOS Microsoft Skype for Business",
